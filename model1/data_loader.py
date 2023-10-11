@@ -29,12 +29,7 @@ class DataClass(Dataset):
         self.max_length = int(args['--max-length'])
         self.data, self.labels = self.load_dataset()
 
-        if args['--lang'] == 'English':
-            self.bert_tokeniser = BertTokenizer.from_pretrained('bert-base-uncased', do_lower_case=True)
-        elif args['--lang'] == 'Arabic':
-            self.bert_tokeniser = AutoTokenizer.from_pretrained("asafaya/bert-base-arabic")
-        elif args['--lang'] == 'Spanish':
-            self.bert_tokeniser = AutoTokenizer.from_pretrained("dccuchile/bert-base-spanish-wwm-uncased")
+        self.bert_tokeniser = AutoTokenizer.from_pretrained('roberta-base', do_lower_case=True)
 
         self.inputs, self.lengths, self.label_indices = self.process_data()
 
@@ -50,18 +45,9 @@ class DataClass(Dataset):
         desc = "PreProcessing dataset {}...".format('')
         preprocessor = twitter_preprocessor()
 
-        if self.args['--lang'] == 'English':
-            segment_a = "anger anticipation disgust fear joy love optimism hopeless sadness surprise or trust?"
-            label_names = ["anger", "anticipation", "disgust", "fear", "joy",
-                           "love", "optimism", "hopeless", "sadness", "surprise", "trust"]
-        elif self.args['--lang'] == 'Arabic':
-            segment_a = "غضب توقع قرف خوف سعادة حب تفأول اليأس حزن اندهاش أو ثقة؟"
-            label_names = ['غضب', 'توقع', 'قر', 'خوف', 'سعادة', 'حب', 'تف', 'الياس', 'حزن', 'اند', 'ثقة']
-
-        elif self.args['--lang'] == 'Spanish':
-            segment_a = "ira anticipaciÃ³n asco miedo alegrÃ­a amor optimismo pesimismo tristeza sorpresa or confianza?"
-            label_names = ['ira', 'anticip', 'asco', 'miedo', 'alegr', 'amor', 'optimismo',
-                           'pesim', 'tristeza', 'sorpresa', 'confianza']
+        # generalizing model with instructions
+        segment_a = "admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervousness optimism pride realization relief remorse sadness surprise or neutral?"
+        label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervousness", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
 
         inputs, lengths, label_indices = [], [], []
         for x in tqdm(self.data, desc=desc):
@@ -85,6 +71,7 @@ class DataClass(Dataset):
         inputs = torch.tensor(inputs, dtype=torch.long)
         data_length = torch.tensor(lengths, dtype=torch.long)
         label_indices = torch.tensor(label_indices, dtype=torch.long)
+
         return inputs, data_length, label_indices
 
     def __getitem__(self, index):
@@ -96,3 +83,47 @@ class DataClass(Dataset):
 
     def __len__(self):
         return len(self.inputs)
+
+
+
+# """
+# //////NOTES//////
+
+# original input:
+# omg im so happy
+
+# emotion labels:
+# happy, sad, angry, optimistic (all of the labels)
+
+# what's actually passed to model:
+# "happy sad angry optimistic | omg im so happy"
+#     ^^ self attention between labels and sentence ^^
+
+# inside the model: every token gets infused with context, c = context
+# happy+c sad+c angry+c optimistic+c | omg+c im+c so+c happy+c
+
+# how model outputs:
+# happy+c sad+c angry+c optimistic+c | THROW AWAY THE REST -> omg+c im+c so+c happy+c
+#   |      |      |        |
+#   V      V      V        V
+#             FFN
+#  0.8    0.2    0.2      0.8
+  
+ 
+#  Labels:
+#   1     0       0       1
+
+# output:
+#   0.8   0.2   0.2       0.7
+# (happy, sad, angry, optimistic)
+
+
+# output size: number of emotions [22] (0-1) 
+
+# """
+
+
+
+'''
+mask self attention masks out the padding tokens
+'''
