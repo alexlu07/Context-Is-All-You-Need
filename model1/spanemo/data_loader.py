@@ -37,8 +37,8 @@ class DataClass(Dataset):
         """
         :return: dataset after being preprocessed and tokenised
         """
-        df = pd.read_csv(self.filename, sep='\t')
-        x_train, y_train = df.Tweet.values, df.iloc[:, 2:].values
+        df = pd.read_csv(self.filename)
+        x_train, y_train = df.text.values, df.iloc[:, 2:].values
         return x_train, y_train
 
     def process_data(self):
