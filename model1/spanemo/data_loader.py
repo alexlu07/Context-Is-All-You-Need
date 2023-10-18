@@ -26,10 +26,10 @@ class DataClass(Dataset):
     def __init__(self, args, filename):
         self.args = args
         self.filename = filename
-        self.max_length = int(args['--max-length'])
+        self.max_length = int(args['max_length'])
         self.data, self.labels = self.load_dataset()
 
-        self.bert_tokeniser = AutoTokenizer.from_pretrained('roberta-base', do_lower_case=True)
+        self.bert_tokeniser = AutoTokenizer.from_pretrained(args["backbone"], do_lower_case=True)
 
         self.inputs, self.lengths, self.label_indices = self.process_data()
 
@@ -46,8 +46,12 @@ class DataClass(Dataset):
         preprocessor = twitter_preprocessor()
 
         # generalizing model with instructions
-        segment_a = "admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervousness optimism pride realization relief remorse sadness surprise or neutral?"
-        label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervousness", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
+        segment_a = "admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervous optimism pride realization relief remorse sadness surprise or neutral?"
+        # label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervousness", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
+        # REMOVED NESS FROM NERVOUSNESS DUE TO BPE BREAKING UP THE WORD
+        # An alternative could be to average the probabilities of nervous and ness
+        label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervous", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
+
 
         inputs, lengths, label_indices = [], [], []
         for x in tqdm(self.data, desc=desc):
@@ -58,7 +62,7 @@ class DataClass(Dataset):
                                                 max_length=self.max_length,
                                                 pad_to_max_length=True,
                                                 truncation=True)
-            input_id = x['input_ids']
+            input_id = x['input_ids']            
             input_length = len([i for i in x['attention_mask'] if i == 1])
             inputs.append(input_id)
             lengths.append(input_length)

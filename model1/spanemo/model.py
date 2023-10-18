@@ -6,7 +6,7 @@ import transformers
 
 
 class SpanEmo(nn.Module):
-    def __init__(self, output_dropout=0.1, lang='English', joint_loss='joint', alpha=0.2):
+    def __init__(self, output_dropout=0.1, backbone = "bert-base-uncased", joint_loss='joint', alpha=0.2):
         """ casting multi-label emotion classification as span-extraction
         :param output_dropout: The dropout probability for output layer
         :param lang: encoder language
@@ -14,16 +14,16 @@ class SpanEmo(nn.Module):
         :param alpha: control contribution of each loss function in case of joint training
         """
         super(SpanEmo, self).__init__()
-        self.bert = AutoModel.from_pretrained("roberta-base")
+        self.bert = AutoModel.from_pretrained(backbone)
         self.joint_loss = joint_loss
         self.alpha = alpha
         
         
         self.ffn = nn.Sequential(
-            nn.Linear(self.bert.feature_size, self.bert.feature_size),
+            nn.Linear(self.bert.config.hidden_size, self.bert.config.hidden_size),
             nn.Tanh(),
             nn.Dropout(p=output_dropout),
-            nn.Linear(self.bert.feature_size, 1)
+            nn.Linear(self.bert.config.hidden_size, 1)
         )
 
     def forward(self, batch, device):

@@ -131,10 +131,10 @@ class Trainer(object):
         optimizer = AdamW([
             {'params': self.model.bert.parameters()},
             {'params': self.model.ffn.parameters(),
-             'lr': float(args['--ffn-lr'])},
-        ], lr=float(args['--bert-lr']), correct_bias=True)
+             'lr': float(args['ffn_lr'])},
+        ], lr=float(args['bert_lr']), correct_bias=True)
         num_train_steps = (int(len(self.train_data_loader.dataset)) /
-                           int(args['--train-batch-size'])) * int(args['--max-epoch'])
+                           args['train_batch_size']) * args['max_epoch']
         num_warmup_steps = int(num_train_steps * 0.1)
 
         '''
