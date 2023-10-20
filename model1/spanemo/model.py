@@ -16,8 +16,7 @@ class SpanEmo(nn.Module):
         super(SpanEmo, self).__init__()
         self.bert = AutoModel.from_pretrained(backbone)
         self.joint_loss = joint_loss
-        self.alpha = alpha
-        
+        self.alpha = alpha        
         
         self.ffn = nn.Sequential(
             nn.Linear(self.bert.config.hidden_size, self.bert.config.hidden_size),

@@ -155,8 +155,8 @@ class Trainer(object):
         """
         current_size = len(self.val_data_loader.dataset)
         preds_dict = {
-            'y_true': np.zeros([current_size, 11]),
-            'y_pred': np.zeros([current_size, 11])
+            'y_true': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])]),
+            'y_pred': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])])
         }
         overall_val_loss = 0.0
         self.model.eval()
