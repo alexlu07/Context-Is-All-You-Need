@@ -1,3 +1,7 @@
-git add -A to add all files new and changed files to the staging area
-git commit -m 'message' to commit the files in te staging area
-git push to transfer changes to remote/main repo
+To commit local changes to remote repo: 
+    git add -A to add all files new and changed files to the staging area
+    git commit -m 'message' to commit the files in te staging area
+    git push to transfer changes to remote/main repo
+
+To pull changes from remote repo:
+    git pull
