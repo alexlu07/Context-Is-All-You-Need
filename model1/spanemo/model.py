@@ -54,7 +54,7 @@ class SpanEmo(nn.Module):
             loss = self.corr_loss(logits, targets)
 
         y_pred = self.compute_pred(logits)
-        return loss, num_rows, y_pred, targets.cpu().numpy()
+        return loss, num_rows, y_pred, logits, targets.cpu().numpy()
 
     @staticmethod
     def corr_loss(y_hat, y_true, reduction='mean'):
