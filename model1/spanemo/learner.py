@@ -87,7 +87,7 @@ class Trainer(object):
             self.model.train()
             overall_training_loss = 0.0
             for step, batch in enumerate(progress_bar(self.train_data_loader, parent=pbar)):
-                loss, num_rows, _, _ = self.model(batch, device)
+                loss, num_rows, _, _, _ = self.model(batch, device)
                 overall_training_loss += loss.item() * num_rows
 
                 loss.backward()
@@ -156,19 +156,21 @@ class Trainer(object):
         current_size = len(self.val_data_loader.dataset)
         preds_dict = {
             'y_true': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])]),
-            'y_pred': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])])
+            'y_pred': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])]),
+            'logits': np.zeros([current_size, len(self.val_data_loader.dataset[0][3])]),
         }
         overall_val_loss = 0.0
         self.model.eval()
         with torch.no_grad():
             index_dict = 0
             for step, batch in enumerate(progress_bar(self.val_data_loader, parent=pbar, leave=(pbar is not None))):
-                loss, num_rows, y_pred, targets = self.model(batch, device)
+                loss, num_rows, y_pred, logits, targets = self.model(batch, device)
                 overall_val_loss += loss.item() * num_rows
 
                 current_index = index_dict
                 preds_dict['y_true'][current_index: current_index + num_rows, :] = targets
                 preds_dict['y_pred'][current_index: current_index + num_rows, :] = y_pred
+                preds_dict['logits'][current_index: current_index + num_rows, :] = logits.cpu().numpy()
                 index_dict += num_rows
 
         overall_val_loss = overall_val_loss / len(self.val_data_loader.dataset)
@@ -199,16 +201,18 @@ class EvaluateOnTest(object):
         current_size = len(self.test_data_loader.dataset)
         preds_dict = {
             'y_true': np.zeros([current_size, len(self.test_data_loader.dataset[0][3])]),
-            'y_pred': np.zeros([current_size, len(self.test_data_loader.dataset[0][3])])
+            'y_pred': np.zeros([current_size, len(self.test_data_loader.dataset[0][3])]),
+            'logits': np.zeros([current_size, len(self.test_data_loader.dataset[0][3])]),
         }
         start_time = time.time()
         with torch.no_grad():
             index_dict = 0
             for step, batch in enumerate(progress_bar(self.test_data_loader, parent=pbar, leave=(pbar is not None))):
-                _, num_rows, y_pred, targets = self.model(batch, device)
+                _, num_rows, y_pred, logits, targets = self.model(batch, device)
                 current_index = index_dict
                 preds_dict['y_true'][current_index: current_index + num_rows, :] = targets
                 preds_dict['y_pred'][current_index: current_index + num_rows, :] = y_pred
+                preds_dict['logits'][current_index: current_index + num_rows, :] = logits.cpu().numpy()
                 index_dict += num_rows
 
         y_true, y_pred = preds_dict['y_true'], preds_dict['y_pred']
@@ -224,3 +228,5 @@ class EvaluateOnTest(object):
         str_stats.append(format_time(time.time() - start_time))
         headers = ['F1-Macro', 'F1-Micro', 'JS', 'Time']
         print(' '.join('{}: {}'.format(*k) for k in zip(headers, str_stats)))
+
+        return preds_dict

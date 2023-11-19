@@ -23,11 +23,18 @@ def twitter_preprocessor():
 
 
 class DataClass(Dataset):
-    def __init__(self, args, filename):
+    def __init__(self, args, file, pred_mode=False):
         self.args = args
-        self.filename = filename
+
+        self.pred_mode = pred_mode
+        if self.pred_mode == False: 
+            self.filename = file
+            self.data, self.labels = self.load_dataset()
+        else:
+            self.data = file
+
+
         self.max_length = int(args['max_length'])
-        self.data, self.labels = self.load_dataset()
 
         self.bert_tokeniser = AutoTokenizer.from_pretrained(args["backbone"], do_lower_case=True)
 
@@ -80,11 +87,17 @@ class DataClass(Dataset):
 
     def __getitem__(self, index):
         inputs = self.inputs[index]
-        labels = self.labels[index]
+        
         label_idxs = self.label_indices[index]
         length = self.lengths[index]
-        return inputs, labels, length, label_idxs
 
+        if self.pred_mode == False:
+            labels = self.labels[index]
+            return inputs, labels, length, label_idxs
+        else:
+            return inputs, length, label_idxs
+
+        
     def __len__(self):
         return len(self.inputs)
 
