@@ -55,6 +55,27 @@ class SpanEmo(nn.Module):
 
         y_pred = self.compute_pred(logits)
         return loss, num_rows, y_pred, logits, targets.cpu().numpy()
+    
+    def predict(self, batch, device, targets=False):
+        if targets:
+            inputs, targets, lengths, label_idxs = batch
+        else:
+            inputs, lengths, label_idxs = batch
+
+        inputs, num_rows = inputs.to(device), inputs.size(0)
+        label_idxs = label_idxs[0].long().to(device)
+
+        #Bert encoder
+        last_hidden_state = self.bert(inputs).last_hidden_state
+
+        # FFN---> 2 linear layers---> linear layer + tanh---> linear layer
+        # select span of labels to compare them with ground truth ones
+        logits = self.ffn(last_hidden_state).squeeze(-1).index_select(dim=1, index=label_idxs)
+
+        y_pred = self.compute_pred(logits)
+        return num_rows, y_pred, logits
+
+
 
     @staticmethod
     def corr_loss(y_hat, y_true, reduction='mean'):

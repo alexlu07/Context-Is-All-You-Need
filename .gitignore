@@ -2,4 +2,4 @@ model1/configs/*
 model1/models/*
 model2/data/cornell movie/
 model1/final_model.pt
-model2/cornell_movie/data/*
+*.csv
