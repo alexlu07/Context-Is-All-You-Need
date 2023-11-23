@@ -32,12 +32,13 @@ class SpanEmo(nn.Module):
         :return: loss, num_rows, y_pred, targets
         """
         #prepare inputs and targets
-        inputs, targets, lengths, label_idxs = batch
+        inputs, amasks, targets, lengths, label_idxs = batch
         inputs, num_rows = inputs.to(device), inputs.size(0)
+        amasks = amasks.to(device)
         label_idxs, targets = label_idxs[0].long().to(device), targets.float().to(device)
 
         #Bert encoder
-        last_hidden_state = self.bert(inputs).last_hidden_state
+        last_hidden_state = self.bert(input_ids=inputs, attention_mask=amasks).last_hidden_state
 
         # FFN---> 2 linear layers---> linear layer + tanh---> linear layer
         # select span of labels to compare them with ground truth ones
@@ -58,15 +59,16 @@ class SpanEmo(nn.Module):
     
     def predict(self, batch, device, targets=False):
         if targets:
-            inputs, targets, lengths, label_idxs = batch
+            inputs, amasks, targets, lengths, label_idxs = batch
         else:
-            inputs, lengths, label_idxs = batch
+            inputs, amasks, lengths, label_idxs = batch
 
         inputs, num_rows = inputs.to(device), inputs.size(0)
+        amasks = amasks.to(device)
         label_idxs = label_idxs[0].long().to(device)
 
         #Bert encoder
-        last_hidden_state = self.bert(inputs).last_hidden_state
+        last_hidden_state = self.bert(input_ids=inputs, attention_mask=amasks).last_hidden_state
 
         # FFN---> 2 linear layers---> linear layer + tanh---> linear layer
         # select span of labels to compare them with ground truth ones
