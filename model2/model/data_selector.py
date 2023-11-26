@@ -1,13 +1,14 @@
 import pandas as pd
 import numpy as np
 from fastprogress import progress_bar
+from sklearn.model_selection import train_test_split
 
 class DataSelector:
     def __init__(self, filepath):
         self.filepath = filepath
         self.df = pd.read_csv(filepath)
 
-    def select_data(self, length=5, ratio=None, filter=None, seed=12345678):
+    def select_data(self, length=5, max_text=128, ratio=None, filter=None, seed=12345678):
         if ratio: 
             ratio = pd.Series(ratio)
             assert set(ratio.index) == set(pd.unique(self.df['source']))
@@ -16,6 +17,7 @@ class DataSelector:
 
         df = self.df.groupby("conversation").filter(lambda x: x["text"].count() >= length)
         df = filter(df) if filter else df
+        df["text"] = df["text"].str.split(n=max_text).str[:max_text].str.join(" ")
 
         print("Calculating counts...")
 
@@ -35,7 +37,6 @@ class DataSelector:
 
             choices = [(c, i) for c, l in convos_lens.items() for i in range(l+1-length)]
 
-            print(len(choices))
             selected = rng.choice(len(choices), counts[source], replace=False, )
 
             for idx in selected:
@@ -43,4 +44,9 @@ class DataSelector:
                 conv = convos.get_group(c)
                 final_data.append([conv.iloc[i:i+length-1]["text"].values, c, source] + conv.iloc[i+length-1].loc["0":"27"].values.tolist())
 
-        return pd.DataFrame(final_data, columns=["text", "conversation", "source"] + [str(x) for x in range(28)])
+        final_data = pd.DataFrame(final_data, columns=["text", "conversation", "source"] + [str(x) for x in range(28)])
+
+        train, val, test = np.split(final_data.sample(frac=1, random_state=seed), 
+                            [int(.8*len(final_data)), int(.9*len(final_data))])
+
+        return train, val, test
