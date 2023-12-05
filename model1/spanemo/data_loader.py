@@ -52,13 +52,18 @@ class DataClass(Dataset):
         desc = "PreProcessing dataset {}...".format('')
         preprocessor = twitter_preprocessor()
 
+        """
+        GO EMOTIONS
         # generalizing model with instructions
         segment_a = "admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervous optimism pride realization relief remorse sadness surprise or neutral?"
         # label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervousness", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
         # REMOVED NESS FROM NERVOUSNESS DUE TO BPE BREAKING UP THE WORD
         # An alternative could be to average the probabilities of nervous and ness
         label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervous", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
+        """
 
+        segment_a = "anger anticipation disgust fear joy love optimism hopeless sadness surprise or trust?"
+        label_names = ["anger", "anticipation", "disgust", "fear", "joy", "love", "optimism", "hopeless", "sadness", "surprise", "trust"]
 
         inputs, amasks, lengths, label_indices = [], [], [], []
         for x in pbar(self.data, desc=desc):
