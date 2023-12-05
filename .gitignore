@@ -4,3 +4,4 @@ model2/data/cornell movie/
 model1/final_model.pt
 *.csv
 *.ttf
+__pycache__/
