@@ -32,13 +32,14 @@ class SpanEmo(nn.Module):
         :return: loss, num_rows, y_pred, targets
         """
         #prepare inputs and targets
-        inputs, amasks, targets, lengths, label_idxs = batch
-        inputs, num_rows = inputs.to(device), inputs.size(0)
-        amasks = amasks.to(device)
+        inputs, targets, lengths, label_idxs = batch
+        num_rows = lengths.size(0)
+        inputs = {k: inputs[k].to(device) for k in inputs}
         label_idxs, targets = label_idxs[0].long().to(device), targets.float().to(device)
 
+
         #Bert encoder
-        last_hidden_state = self.bert(input_ids=inputs, attention_mask=amasks).last_hidden_state
+        last_hidden_state = self.bert(**inputs).last_hidden_state
 
         # FFN---> 2 linear layers---> linear layer + tanh---> linear layer
         # select span of labels to compare them with ground truth ones
@@ -59,16 +60,16 @@ class SpanEmo(nn.Module):
     
     def predict(self, batch, device, targets=False):
         if targets:
-            inputs, amasks, targets, lengths, label_idxs = batch
+            inputs, targets, lengths, label_idxs = batch
         else:
-            inputs, amasks, lengths, label_idxs = batch
+            inputs, lengths, label_idxs = batch
 
-        inputs, num_rows = inputs.to(device), inputs.size(0)
-        amasks = amasks.to(device)
+        num_rows = lengths.size(0)
+        inputs = {k: inputs[k].to(device) for k in inputs}
         label_idxs = label_idxs[0].long().to(device)
 
         #Bert encoder
-        last_hidden_state = self.bert(input_ids=inputs, attention_mask=amasks).last_hidden_state
+        last_hidden_state = self.bert(**inputs).last_hidden_state
 
         # FFN---> 2 linear layers---> linear layer + tanh---> linear layer
         # select span of labels to compare them with ground truth ones

@@ -38,7 +38,7 @@ class DataClass(Dataset):
 
         self.bert_tokeniser = AutoTokenizer.from_pretrained(args["backbone"], do_lower_case=True)
 
-        self.inputs, self.amasks, self.lengths, self.label_indices = self.process_data(pbar=pbar)
+        self.inputs, self.lengths, self.label_indices = self.process_data(pbar=pbar)
 
     def load_dataset(self):
         """
@@ -65,7 +65,8 @@ class DataClass(Dataset):
         segment_a = "anger anticipation disgust fear joy love optimism hopeless sadness surprise or trust?"
         label_names = ["anger", "anticipation", "disgust", "fear", "joy", "love", "optimism", "hopeless", "sadness", "surprise", "trust"]
 
-        inputs, amasks, lengths, label_indices = [], [], [], []
+        inputs = {"input_ids": [], "token_type_ids": [], "attention_mask": []}
+        lengths, label_indices = [], []
         for x in pbar(self.data, desc=desc):
             x = ' '.join(preprocessor(x))
             x = self.bert_tokeniser.encode_plus(segment_a,
@@ -74,11 +75,13 @@ class DataClass(Dataset):
                                                 max_length=self.max_length,
                                                 padding='max_length',
                                                 truncation=True)
+    
             input_id = x['input_ids']     
             input_mask = x['attention_mask']       
             input_length = len([i for i in input_mask if i == 1])
-            inputs.append(input_id)
-            amasks.append(input_mask)
+            inputs['input_ids'].append(input_id)
+            inputs['attention_mask'].append(input_mask)
+            inputs['token_type_ids'].append(x['token_type_ids'])
             lengths.append(input_length)
 
             #label indices
@@ -86,29 +89,26 @@ class DataClass(Dataset):
                              for idx, _ in enumerate(label_names)]
             label_indices.append(label_idxs)
 
-        inputs = torch.tensor(inputs, dtype=torch.long)
-        amasks = torch.tensor(amasks, dtype=torch.long)
+        inputs = {k: torch.tensor(inputs[k], dtype=torch.long) for k in inputs}
         data_length = torch.tensor(lengths, dtype=torch.long)
         label_indices = torch.tensor(label_indices, dtype=torch.long)
 
-        return inputs, amasks, data_length, label_indices
+        return inputs, data_length, label_indices
 
     def __getitem__(self, index):
-        inputs = self.inputs[index]
-        amasks = self.amasks[index]
+        inputs = {k: self.inputs[k][index] for k in self.inputs}
         
         label_idxs = self.label_indices[index]
         length = self.lengths[index]
 
         if self.pred_mode == False:
             labels = self.labels[index]
-            return inputs, amasks, labels, length, label_idxs
+            return inputs, labels, length, label_idxs
         else:
-            return inputs, amasks, length, label_idxs
+            return inputs, length, label_idxs
 
-        
     def __len__(self):
-        return len(self.inputs)
+        return len(self.lengths)
 
 
 
