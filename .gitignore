@@ -2,6 +2,7 @@ configs/
 models/
 model2/data/cornell movie/
 model1/final_model.pt
+model1/final_model_goemo.pt
 *.csv
 *.ttf
 __pycache__/
