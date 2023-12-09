@@ -6,3 +6,4 @@ model1/final_model_goemo.pt
 *.csv
 *.ttf
 __pycache__/
+.idea/

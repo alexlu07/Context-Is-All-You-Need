@@ -1,6 +1,6 @@
 from fastprogress.fastprogress import format_time, master_bar, progress_bar
 from transformers import AdamW, get_linear_schedule_with_warmup
-from sklearn.metrics import mean_squared_error
+from sklearn.metrics import f1_score, jaccard_score, mean_squared_error
 import torch.nn.functional as F
 import numpy as np
 import torch
@@ -69,6 +69,9 @@ class Trainer(object):
         self.filename = filename
         self.early_stop = EarlyStopping(self.filename, patience=5)
 
+        assert train_data_loader.dataset.label_type == val_data_loader.dataset.label_type
+        self.label_type = val_data_loader.dataset.label_type
+
     def fit(self, num_epochs, args, device='cuda:0'):
         """
         Fit the PyTorch model
@@ -79,7 +82,10 @@ class Trainer(object):
         optimizer, scheduler, step_scheduler_on_batch = self.optimizer(args)
         self.model = self.model.to(device)
         pbar = master_bar(range(num_epochs))
-        headers = ['Train_Loss', 'Val_Loss', 'RMSE-Macro', 'RMSE-Micro', 'MSE-Micro', 'Time']
+        if self.label_type == "binary":
+            headers = ['Train_Loss', 'Val_Loss', 'F1-Macro', 'F1-Micro', 'JS', 'Time']
+        else:
+            headers = ['Train_Loss', 'Val_Loss', 'RMSE-Macro', 'RMSE-Micro', 'MSE-Micro', 'Time']
         pbar.write(headers, table=True)
         for epoch in pbar:
             epoch += 1
@@ -101,16 +107,23 @@ class Trainer(object):
                 scheduler.step()
 
             overall_training_loss = overall_training_loss / len(self.train_data_loader.dataset)
-            overall_val_loss, pred_dict = self.predict(device, pbar)
-            y_true, y_pred = pred_dict['y_true'], pred_dict['y_pred']
-            y_prob = 1/(1+np.exp(-pred_dict['logits']))
+            overall_val_loss, preds_dict = self.predict(device, pbar)
+            y_true, y_pred = preds_dict['y_true'], preds_dict['y_pred']
 
             str_stats = []
-            stats = [overall_training_loss,
-                     overall_val_loss,
-                     mean_squared_error(y_true.flatten(), y_prob.flatten(), squared=False),
-                     mean_squared_error(y_true, y_prob, squared=False),
-                     mean_squared_error(y_true, y_prob, squared=True)]
+            if self.label_type == "binary":
+                stats = [overall_training_loss,
+                         overall_val_loss,
+                         f1_score(y_true, y_pred, average="macro"),
+                         f1_score(y_true, y_pred, average="micro"),
+                         jaccard_score(y_true, y_pred, average="samples")]
+            else:
+                y_prob = 1/(1+np.exp(-preds_dict['logits']))
+                stats = [overall_training_loss,
+                         overall_val_loss,
+                         mean_squared_error(y_true.flatten(), y_prob.flatten(), squared=False),
+                         mean_squared_error(y_true, y_prob, squared=False),
+                         mean_squared_error(y_true, y_prob, squared=True)]
 
             for stat in stats:
                 str_stats.append(
@@ -189,6 +202,8 @@ class EvaluateOnTest(object):
         self.model = model
         self.test_data_loader = test_data_loader
         self.model_path = model_path
+        self.label_type = test_data_loader.dataset.label_type
+
 
     def predict(self, device='cuda:0', pbar=None):
         """
@@ -217,20 +232,25 @@ class EvaluateOnTest(object):
                 index_dict += num_rows
 
         y_true, y_pred = preds_dict['y_true'], preds_dict['y_pred']
-        y_prob = 1/(1+np.exp(-preds_dict['logits']))
 
         str_stats = []
-        stats = [mean_squared_error(y_true.flatten(), y_prob.flatten(), squared=False),
-                    mean_squared_error(y_true, y_prob, squared=False),
-                    mean_squared_error(y_true, y_prob, squared=True)]
-
+        if self.label_type == "binary":
+            stats = [f1_score(y_true, y_pred, average="macro"),
+                     f1_score(y_true, y_pred, average="micro"),
+                     jaccard_score(y_true, y_pred, average="samples")]
+            headers = ['F1-Macro', 'F1-Micro', 'JS', 'Time']
+        else:
+            y_prob = 1/(1+np.exp(-preds_dict['logits']))
+            stats = [mean_squared_error(y_true.flatten(), y_prob.flatten(), squared=False),
+                     mean_squared_error(y_true, y_prob, squared=False),
+                     mean_squared_error(y_true, y_prob, squared=True)]
+            headers = ['RMSE-Macro', 'RMSE-Micro', 'MSE-Micro', 'Time']
 
         for stat in stats:
             str_stats.append(
                 'NA' if stat is None else str(stat) if isinstance(stat, int) else f'{stat:.4f}'
             )
         str_stats.append(format_time(time.time() - start_time))
-        headers = ['RMSE-Macro', 'RMSE-Micro', 'MSE-Micro', 'Time']
         print(' '.join('{}: {}'.format(*k) for k in zip(headers, str_stats)))
 
         return preds_dict

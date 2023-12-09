@@ -24,16 +24,37 @@ def twitter_preprocessor():
 
 
 class DataClass(Dataset):
-    def __init__(self, args, file, file_path=False, pred_mode=False, pbar=tqdm):
+    def __init__(
+            self, 
+            args, 
+            file, 
+            file_path=False, 
+            data_type="infer",
+            label_type = "infer",
+            pred_mode=False,
+            preprocessor=None,
+            pbar=tqdm):
         self.args = args
 
         self.pred_mode = pred_mode
         if self.pred_mode == False: 
             self.data, self.labels = self.load_dataset(file, file_path)
-            self.labels = 1/(1+np.exp(-self.labels))
         else:
             self.data = file
 
+        self.label_type = label_type
+        if self.label_type == "infer":
+            self.label_type = "continuous" if (self.labels == 1 | self.labels == 0).all() else "binary"
+        assert self.label_type == "continuous" or self.label_type == "binary"
+        self.labels = 1/(1+np.exp(-self.labels))
+
+
+        self.data_type = data_type
+        if self.data_type == "infer":
+            self.data_type = "utterance" if type(self.data[0]) == str else "conversation"
+        assert self.data_type == "utterance" or self.data_type == "conversation"
+
+        self.preprocessor = preprocessor if preprocessor else twitter_preprocessor()
 
         self.max_length = int(args['max_length'])
 
@@ -45,34 +66,41 @@ class DataClass(Dataset):
         """
         :return: dataset after being preprocessed and tokenised
         """
-        df = pd.read_csv(self.filename) if file_path else file
+        df = pd.read_csv(file) if file_path else file
         x_train, y_train = df.text.values, df.loc[:, "0":"27"].values
         return x_train, y_train
 
     def process_data(self, pbar=tqdm):
-        desc = "PreProcessing dataset {}...".format('')
-        preprocessor = twitter_preprocessor()
-
-        # generalizing model with instructions
-        segment_a = "Will speaker feel admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervous optimism pride realization relief remorse sadness surprise or neutral?"
-        # label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervousness", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
-        # REMOVED NESS FROM NERVOUSNESS DUE TO BPE BREAKING UP THE WORD
-        # An alternative could be to average the probabilities of nervous and ness
+        """
+        GO EMOTIONS
+        segment_a = "admiration amusement anger annoyance approval caring confusion curiosity desire disappointment disapproval disgust embarrassment excitement fear gratitude grief joy love nervous optimism pride realization relief remorse sadness surprise or neutral?"
         label_names = ["admiration", "amusement", "anger", "annoyance", "approval", "caring", "confusion", "curiosity", "desire", "disappointment", "disapproval", "disgust", "embarrassment", "excitement", "fear", "gratitude", "grief", "joy", "love", "nervous", "optimism", "pride", "realization", "relief", "remorse", "sadness", "surprise", "neutral"]
+        """
 
-        role_names = ("speaker", "respondent")
+        segment_a = "anger anticipation disgust fear joy love optimism hopeless sadness surprise or trust?"
+        label_names = ["anger", "anticipation", "disgust", "fear", "joy", "love", "optimism", "hopeless", "sadness", "surprise", "trust"]
+
+        if self.data_type == "conversation":
+            segment_a = "Will speaker feel " + segment_a
+            role_names = ("speaker", "respondent")
+
         inputs = {"input_ids": [], "token_type_ids": [], "attention_mask": []}
         lengths, label_indices = [], []
-        for x in pbar(self.data, desc=desc):
-            x = " [SEP] ".join(
-                    f"<{role_names[i % 2]}> " + " ".join(preprocessor(m)) + f" </{role_names[i % 2]}>" for i, m in enumerate(x)
-                )
+        for x in pbar(self.data):
+            if self.data_type == "utterance":
+                x = ' '.join(self.preprocessor(x))
+            else:
+                x = " [SEP] ".join(
+                        f"<{role_names[i % 2]}> " + " ".join(self.preprocessor(m)) + f" </{role_names[i % 2]}>" for i, m in enumerate(x)
+                    )
+
             x = self.bert_tokeniser.encode_plus(segment_a,
                                                 x,
                                                 add_special_tokens=True,
                                                 max_length=self.max_length,
                                                 padding='max_length',
                                                 truncation=True)
+    
             input_id = x['input_ids']     
             input_mask = x['attention_mask']       
             input_length = len([i for i in input_mask if i == 1])
@@ -104,6 +132,5 @@ class DataClass(Dataset):
         else:
             return inputs, length, label_idxs
 
-        
     def __len__(self):
         return len(self.lengths)
