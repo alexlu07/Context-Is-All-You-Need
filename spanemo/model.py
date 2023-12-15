@@ -6,7 +6,7 @@ import transformers
 
 
 class SpanEmo(nn.Module):
-    def __init__(self, output_dropout=0.1, backbone = "bert-base-uncased"):
+    def __init__(self, output_dropout=0.1, backbone = "bert-base-uncased", joint_loss='joint', alpha=0.2):
         """ casting multi-label emotion classification as span-extraction
         :param output_dropout: The dropout probability for output layer
         :param lang: encoder language
@@ -15,6 +15,8 @@ class SpanEmo(nn.Module):
         """
         super(SpanEmo, self).__init__()
         self.bert = AutoModel.from_pretrained(backbone)
+        self.joint_loss = joint_loss
+        self.alpha = alpha        
         
         self.ffn = nn.Sequential(
             nn.Linear(self.bert.config.hidden_size, self.bert.config.hidden_size),
@@ -35,6 +37,7 @@ class SpanEmo(nn.Module):
         inputs = {k: inputs[k].to(device) for k in inputs}
         label_idxs, targets = label_idxs[0].long().to(device), targets.float().to(device)
 
+
         #Bert encoder
         last_hidden_state = self.bert(**inputs).last_hidden_state
 
@@ -43,15 +46,14 @@ class SpanEmo(nn.Module):
         logits = self.ffn(last_hidden_state).squeeze(-1).index_select(dim=1, index=label_idxs)
 
         #Loss Function
-        # if self.joint_loss == 'joint':
-        #     cel = F.binary_cross_entropy_with_logits(logits, targets).cuda()
-        #     cl = self.corr_loss(logits, targets)
-        #     loss = ((1 - self.alpha) * cel) + (self.alpha * cl)
-        # elif self.joint_loss == 'cross-entropy':
-        #     loss = F.binary_cross_entropy_with_logits(logits, targets).cuda()
-        # elif self.joint_loss == 'corr_loss':
-        #     loss = self.corr_loss(logits, targets)
-        loss = F.binary_cross_entropy_with_logits(logits, targets).cuda()
+        if self.joint_loss == 'joint':
+            cel = F.binary_cross_entropy_with_logits(logits, targets).cuda()
+            cl = self.corr_loss(logits, targets)
+            loss = ((1 - self.alpha) * cel) + (self.alpha * cl)
+        elif self.joint_loss == 'cross-entropy':
+            loss = F.binary_cross_entropy_with_logits(logits, targets).cuda()
+        elif self.joint_loss == 'corr_loss':
+            loss = self.corr_loss(logits, targets)
 
         y_pred = self.compute_pred(logits)
         return loss, num_rows, y_pred, logits, targets.cpu().numpy()
@@ -75,6 +77,7 @@ class SpanEmo(nn.Module):
 
         y_pred = self.compute_pred(logits)
         return num_rows, y_pred, logits
+
 
 
     @staticmethod
