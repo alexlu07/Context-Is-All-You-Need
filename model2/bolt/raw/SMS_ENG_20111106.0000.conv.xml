@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111106.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-11-06 16:59:36 UTC">
+      <body>See where I am?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2011-11-07 13:55:29 UTC">
+      <body>Glad u are safely back at Princeton!  Can't wait to hear about your trip sometime this week :). Xoxo and don't forget to submit your app for internship today</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-11-08 02:05:58 UTC">
+      <body>Did you submit your transcript?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-11-08 02:06:18 UTC">
+      <body>Didn't I?</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-11-08 02:06:37 UTC">
+      <body>I just can't tell so I asked</body>
+    </message>
+    <message id="m0005" participant="131824" time="2011-11-08 02:06:57 UTC">
+      <body>It looks like everything is fine</body>
+    </message>
+    <message id="m0006" participant="131824" time="2011-11-08 02:08:12 UTC">
+      <body>Send it to me just in case</body>
+    </message>
+    <message id="m0007" participant="131821" time="2011-11-08 02:10:27 UTC">
+      <body>Just did</body>
+    </message>
+    <message id="m0008" participant="131824" time="2011-11-08 04:45:16 UTC">
+      <body>I uploaded your transcript and asked my friend to look out for your app.  Xoxo</body>
+    </message>
+    <message id="m0009" participant="131821" time="2011-11-08 04:45:48 UTC">
+      <body>Great! I'm almost certain I'd uploaded it, too</body>
+    </message>
+    <message id="m0010" participant="131824" time="2011-11-08 04:47:45 UTC">
+      <body>Oh that's good.  I did get an error at first though due to the elaborate security on the file.  I had to print it and photograph it to get it to upload.  There's a chance yours had an error too and you didn't notice.  Regardless you are all set now.</body>
+    </message>
+    <message id="m0011" participant="131821" time="2011-11-08 04:48:43 UTC">
+      <body>That may've happened--thanks so much!</body>
+    </message>
+    <message id="m0012" participant="131824" time="2011-11-08 04:49:26 UTC">
+      <body>Yw.  Xoxo</body>
+    </message>
+  </messages>
+</conversation>

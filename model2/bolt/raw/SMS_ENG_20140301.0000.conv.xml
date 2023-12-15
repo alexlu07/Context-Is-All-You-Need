@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140301.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-01 04:43:49 UTC" participant="153491">
+      <body>Tavern on Broad=Jersey Shore everywhere!</body>
+    </message>
+    <message id="m0001" time="2014-03-01 15:13:11 UTC" participant="152116">
+      <body>You up?</body>
+    </message>
+    <message id="m0002" time="2014-03-02 02:23:59 UTC" participant="152116">
+      <body>Password?</body>
+    </message>
+    <message id="m0004" time="2014-03-02 03:15:32 UTC" participant="153491">
+      <body>Email: the harajuku one</body>
+    </message>
+    <message id="m0005" time="2014-03-02 03:15:56 UTC" participant="153491">
+      <body>Did you also get my text from last night?</body>
+    </message>
+    <message id="m0006" time="2014-03-02 03:20:53 UTC" participant="152116">
+      <body>I literally just got back to Eden's. I wanted you to give it to me while I was out</body>
+    </message>
+    <message id="m0007" time="2014-03-02 04:18:26 UTC" participant="153491">
+      <body>Oh sorry. So it's a no go? </body>
+    </message>
+    <message id="m0008" time="2014-03-02 04:18:47 UTC" participant="153491">
+      <body>It's okay if you can't, I'm sure I'll figure something out.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131379" time="2013-03-09 21:37:34 UTC">
+      <body>You don't know me but I'm your broooooootheeerr...</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-09 21:38:50 UTC">
+      <body>;-)</body>
+    </message>
+    <message id="m0005" participant="131379" time="2013-03-09 21:41:54 UTC">
+      <body>But cooler.</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-03-10 05:17:15 UTC">
+      <body>hey...when are you available next?</body>
+    </message>
+  </messages>
+</conversation>

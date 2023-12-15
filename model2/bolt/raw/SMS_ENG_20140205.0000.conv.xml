@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140205.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-05 16:09:23 UTC" participant="152374">
+      <body>Do you still have power at home? Apparently our neighborhood is having underground transformer fires</body>
+    </message>
+    <message id="m0001" time="2014-02-05 16:10:08 UTC" participant="152383">
+      <body>Nope. No fire. ##########</body>
+    </message>
+    <message id="m0002" time="2014-02-05 16:10:23 UTC" participant="152383">
+      <body>I meant no electric</body>
+    </message>
+    <message id="m0003" time="2014-02-05 16:10:42 UTC" participant="152374">
+      <body>Dammit.</body>
+    </message>
+    <message id="m0004" time="2014-02-05 16:10:51 UTC" participant="152383">
+      <body>U read on news? How bad is it?</body>
+    </message>
+    <message id="m0005" time="2014-02-05 16:11:31 UTC" participant="152383">
+      <body>## says #### has electric but don't know about others.</body>
+    </message>
+    <message id="m0006" time="2014-02-05 16:11:32 UTC" participant="152374">
+      <body>Yeah. Sounds like no one hurt but there was an apartment fire at ######################, might have been the start of it</body>
+    </message>
+    <message id="m0007" time="2014-02-05 16:11:48 UTC" participant="152374">
+      <body>Huh. Weird. Okay  thanks</body>
+    </message>
+    <message id="m0008" time="2014-02-05 16:12:35 UTC" participant="152383">
+      <body>Yes and ######### said fire trucks and cops there. No peco yet. Postman said no one is allowed there.</body>
+    </message>
+    <message id="m0009" time="2014-02-05 21:13:33 UTC" participant="152383">
+      <body>Back on!</body>
+    </message>
+    <message id="m0010" time="2014-02-05 21:14:00 UTC" participant="152374">
+      <body>Yay!</body>
+    </message>
+  </messages>
+</conversation>
+

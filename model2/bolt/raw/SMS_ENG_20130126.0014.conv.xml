@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2013-01-26 03:16:16 UTC">
+      <body>Ready to go?  So exciting!</body>
+    </message>
+    <message id="m0001" participant="131824" time="2013-01-26 20:22:24 UTC">
+      <body>Are on traveling yet?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2013-01-26 20:25:20 UTC">
+      <body>I see u r at airport.  Pse send me your flights so I can track you.</body>
+    </message>
+    <message id="m0003" participant="131821" time="2013-01-26 20:26:58 UTC">
+      <body>#####!</body>
+    </message>
+    <message id="m0004" participant="131824" time="2013-01-26 20:28:19 UTC">
+      <body>Thanks.  It's my job you know :)</body>
+    </message>
+    <message id="m0005" participant="131824" time="2013-01-26 20:28:43 UTC">
+      <body>Have a great time!!  Be safe!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150103.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-03 19:00:38 UTC" participant="153600">
+      <body>Hi.  I am cooking at home tonight.  Are you interested in partaking in a home cooked meal?</body>
+    </message>
+    <message id="m0001" time="2015-01-03 19:02:01 UTC" participant="153547">
+      <body>Yeah but I don't want to be too late to my opening so I may not be able to </body>
+    </message>
+    <message id="m0002" time="2015-01-03 19:02:40 UTC" participant="153600">
+      <body>Ok.  No worries.  What time do you arrive?</body>
+    </message>
+    <message id="m0003" time="2015-01-03 19:02:56 UTC" participant="153600">
+      <body>I am prepping and marinating  now</body>
+    </message>
+    <message id="m0004" time="2015-01-03 19:03:39 UTC" participant="153547">
+      <body>In about 2 hrs so maybe like 3 hrs before I get to your place</body>
+    </message>
+    <message id="m0005" time="2015-01-03 19:05:35 UTC" participant="153600">
+      <body>Ok.  I am getting things ready now.  It will be ready by the time you get here I think </body>
+    </message>
+    <message id="m0006" time="2015-01-04 01:00:43 UTC" participant="153600">
+      <body>￼</body>
+    </message>
+    <message id="m0007" time="2015-01-04 01:00:55 UTC" participant="153600">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

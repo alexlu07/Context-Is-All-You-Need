@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121126.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-26 17:00:56 UTC">
+      <body>Happy Birthday!!! :D I hope your travels are going smoothly! Do you have any plans for tonight?</body>
+    </message>
+    <message id="m0001" participant="135275" time="2012-11-26 17:32:51 UTC">
+      <body>Thanks! I'm going to dinner with Karen and David at 7. Maybe we can hang out a bit later?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-26 17:35:23 UTC">
+      <body>Will you be around after 10? I vaguely remember a plan to go dancing or something...</body>
+    </message>
+    <message id="m0003" participant="135275" time="2012-11-26 17:46:04 UTC">
+      <body>Yep, I'll be there. Dancing fell through.</body>
+    </message>
+  </messages>
+</conversation>

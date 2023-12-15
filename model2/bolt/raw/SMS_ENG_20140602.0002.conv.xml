@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 14:25:15 UTC" participant="153469">
+      <body>########, can we get sushi while we are down there? It is very important because the sushi up here is terrible</body>
+    </message>
+    <message id="m0001" time="2014-06-02 14:31:47 UTC" participant="152374">
+      <body>Like I would ever say no to this. Doma or Umai Umai for an early dinner on Saturday? ######'s show is at 8 so we just have to be done in time to walk down or grab a cab </body>
+    </message>
+    <message id="m0002" time="2014-06-02 14:35:36 UTC" participant="153469">
+      <body>Sounds awesome!</body>
+    </message>
+    <message id="m0003" time="2014-06-02 14:36:00 UTC" participant="152374">
+      <body>Cool. Let me know which you prefer and I'll make reservations when we get closer to the day. </body>
+    </message>
+    <message id="m0004" time="2014-06-02 23:48:28 UTC" participant="152374">
+      <body>Hey! What movie did we say we needed to get drunk and watch next time we were together? I don't know if we can cram it in this time around but it's driving me nuts that I can't remember </body>
+    </message>
+    <message id="m0005" time="2014-06-03 00:29:23 UTC" participant="153469">
+      <body>Winter's take</body>
+    </message>
+    <message id="m0006" time="2014-06-03 00:29:28 UTC" participant="153469">
+      <body>Tale</body>
+    </message>
+    <message id="m0007" time="2014-06-03 00:55:51 UTC" participant="152374">
+      <body>Right! </body>
+    </message>
+    <message id="m0008" time="2014-06-03 00:56:27 UTC" participant="153469">
+      <body>Your favorite movie</body>
+    </message>
+  </messages>
+</conversation>
+

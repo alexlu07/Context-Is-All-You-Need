@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136376" time="2013-04-27 20:01:10 UTC">
+      <body>Yes please</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-27 20:01:32 UTC">
+      <body>kk. do you live on c######## or on campus? </body>
+    </message>
+    <message id="m0002" participant="136376" time="2013-04-27 20:02:13 UTC">
+      <body>C########</body>
+    </message>
+    <message id="m0003" participant="136376" time="2013-04-27 20:10:50 UTC">
+      <body>Is that going to be alright? If so, what time do I need to be ready?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-27 20:14:35 UTC">
+      <body>we normally leave from woody at 9:20, but i can definitely see about getting someone else to pick you up if you don't want to walk all the way there. </body>
+    </message>
+    <message id="m0005" participant="136376" time="2013-04-27 20:19:21 UTC">
+      <body>That would be great if you could!</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-04-27 20:19:44 UTC">
+      <body>for sure! i'll let you know. </body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-04-27 21:05:39 UTC">
+      <body>brian says he'll get you from c########! </body>
+    </message>
+    <message id="m0008" participant="136376" time="2013-04-27 21:06:18 UTC">
+      <body>He just told me, thanks!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141108.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-08 15:17:20 UTC" participant="153819">
+      <body>Hi this is Natalie from 24 seven! Just making sure you're all set for khols today! Please confirm back!</body>
+    </message>
+    <message id="m0001" time="2014-11-08 15:19:00 UTC" participant="153804">
+      <body>On my way to the store</body>
+    </message>
+    <message id="m0002" time="2014-11-08 15:19:28 UTC" participant="153819">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

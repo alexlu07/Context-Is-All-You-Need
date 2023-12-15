@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130728.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136703" time="2013-07-28 16:40:15 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="135220" time="2013-07-28 16:48:57 UTC">
+      <body>Hello! What's up :)</body>
+    </message>
+    <message id="m0002" participant="136703" time="2013-07-28 16:49:51 UTC">
+      <body>Hey! So where you from?</body>
+    </message>
+    <message id="m0003" participant="135220" time="2013-07-28 16:51:51 UTC">
+      <body>I'm from Georgia but I'm going to college in California, you?</body>
+    </message>
+    <message id="m0004" participant="136703" time="2013-07-28 16:53:01 UTC">
+      <body>I'm in Florida.. oh Cali huh? Nice...</body>
+    </message>
+    <message id="m0005" participant="135220" time="2013-07-28 16:56:23 UTC">
+      <body>It's nice this time of year haha</body>
+    </message>
+    <message id="m0006" participant="135220" time="2013-07-28 16:56:37 UTC">
+      <body>Florida is rainy probably</body>
+    </message>
+    <message id="m0007" participant="136703" time="2013-07-28 16:58:00 UTC">
+      <body>Yes. Always :-) don't know why they call it the sunshine state.</body>
+    </message>
+    <message id="m0008" participant="136703" time="2013-07-28 16:58:00 UTC">
+      <body>So what are you studying?</body>
+    </message>
+    <message id="m0009" participant="135220" time="2013-07-28 18:01:12 UTC">
+      <body>I'm an Italian major but right now I'm looking into Black Studies</body>
+    </message>
+    <message id="m0010" participant="136703" time="2013-07-28 18:12:45 UTC">
+      <body>Oh cool. Are you either black or Italian? :-)</body>
+    </message>
+    <message id="m0011" participant="135220" time="2013-07-28 18:16:25 UTC">
+      <body>I'm black haha</body>
+    </message>
+    <message id="m0012" participant="136703" time="2013-07-28 18:17:55 UTC">
+      <body>Oh ok. Lol. I am part black..and French canadian</body>
+    </message>
+    <message id="m0013" participant="135220" time="2013-07-28 18:27:39 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

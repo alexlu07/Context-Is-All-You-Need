@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 05:12:12 UTC" participant="153244">
+      <body>Happy new year!</body>
+    </message>
+    <message id="m0001" time="2015-01-01 05:14:24 UTC" participant="154899">
+      <body>HAPPY NEW YEAR!!</body>
+    </message>
+  </messages>
+</conversation>
+

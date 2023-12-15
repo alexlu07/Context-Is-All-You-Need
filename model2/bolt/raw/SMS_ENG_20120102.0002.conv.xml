@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120102.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131828" time="2012-01-02 02:12:16 UTC">
+      <body>Boo</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-02 11:14:17 UTC">
+      <body>Boo</body>
+    </message>
+    <message id="m0002" participant="131828" time="2012-01-02 16:38:24 UTC">
+      <body>Why would you txt me at 3 am? </body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-01-02 19:37:56 UTC">
+      <body>Because I love you 24 hrs</body>
+    </message>
+    <message id="m0004" participant="131828" time="2012-01-02 20:13:52 UTC">
+      <body>Well you woke me up. </body>
+    </message>
+  </messages>
+</conversation>

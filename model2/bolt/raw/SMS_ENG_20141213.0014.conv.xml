@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 00:14:51 UTC" participant="153547">
+      <body>Hey Geoff. I'm headed that way in the morning. What's your address?</body>
+    </message>
+    <message id="m0002" time="2014-12-13 14:48:26 UTC" participant="153547">
+      <body>Hey Geoff. I'm leaving philly now so I should be there around 1130 or a little later if hats ok with you</body>
+    </message>
+    <message id="m0003" time="2014-12-13 14:56:00 UTC" participant="149366">
+      <body>sure sounds great</body>
+    </message>
+    <message id="m0004" time="2014-12-13 16:27:41 UTC" participant="149366">
+      <body>zozo and Lara both started taking a nap, so you should come in but maybe text me instead of the doorbell. </body>
+    </message>
+    <message id="m0005" time="2014-12-13 16:35:46 UTC" participant="153547">
+      <body>I'm outside</body>
+    </message>
+  </messages>
+</conversation>
+

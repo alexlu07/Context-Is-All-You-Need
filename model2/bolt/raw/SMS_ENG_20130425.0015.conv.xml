@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-25 20:28:08 UTC">
+      <body>How's Lori? Is she alright?</body>
+    </message>
+    <message id="m0001" participant="131353" time="2013-04-25 20:30:11 UTC">
+      <body>She has vertigo</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-25 20:33:41 UTC">
+      <body>Well...I guess you gotta take a break from rockin her world.  ;-)
+Seriously though, i've had it and it sucks!</body>
+    </message>
+    <message id="m0003" participant="131353" time="2013-04-25 20:39:51 UTC">
+      <body>Lol. I felt so bad for her. Anytime she moves her head to the side he room spins and she is nauseous </body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-26 17:11:36 UTC">
+      <body>What's your email address to send my resume to?</body>
+    </message>
+  </messages>
+</conversation>

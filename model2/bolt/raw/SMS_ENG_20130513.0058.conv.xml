@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-05-13 03:58:25 UTC">
+      <body>Ride tomorrow. </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-13 03:58:29 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-05-13 10:21:47 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-05-13 10:26:30 UTC">
+      <body>As usual I don't need a ride anymore...sorry :/</body>
+    </message>
+  </messages>
+</conversation>

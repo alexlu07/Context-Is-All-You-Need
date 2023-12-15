@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136382" time="2013-06-11 21:02:12 UTC">
+      <body>I forgot to ask if u could work tomorrow from 10 to around 1.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-11 21:02:39 UTC">
+      <body>yup, probably! i'll check with dad but it should be fine. </body>
+    </message>
+    <message id="m0002" participant="136382" time="2013-06-12 00:19:19 UTC">
+      <body>Hey girl. Don't worry about working tomorrow. I think I got it all worked out. See u when u get back!</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-12 00:19:30 UTC">
+      <body>mkay. have a good trip! </body>
+    </message>
+    <message id="m0004" participant="136382" time="2013-06-12 00:19:38 UTC">
+      <body>Have a great time at the beach.</body>
+    </message>
+  </messages>
+</conversation>

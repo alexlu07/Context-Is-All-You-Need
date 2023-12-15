@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141021.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-21 23:10:39 UTC" participant="152115">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" time="2014-10-22 16:49:59 UTC" participant="152115">
+      <body>How has your morning went? Twittering with the twitterers? I hope you are feeling ok. I'm just starting to wake up. This weather isn't helping. I've been in a fog.</body>
+    </message>
+    <message id="m0002" time="2014-10-22 16:50:47 UTC" participant="152116">
+      <body>It was fine. They're gone now.</body>
+    </message>
+    <message id="m0003" time="2014-10-22 16:51:06 UTC" participant="152116">
+      <body>I feel fine other than nasal congestion</body>
+    </message>
+    <message id="m0004" time="2014-10-22 16:51:58 UTC" participant="152115">
+      <body>That's good. You're sick and I feel like the sick one. Haha.</body>
+    </message>
+    <message id="m0005" time="2014-10-22 18:52:18 UTC" participant="152115">
+      <body>Do you know Sam and Jenny's emails?</body>
+    </message>
+    <message id="m0007" time="2014-10-22 18:57:31 UTC" participant="152116">
+      <body>I only have Jenny's Villanova</body>
+    </message>
+    <message id="m0008" time="2014-10-22 18:57:55 UTC" participant="152115">
+      <body>Ok. Thanks.</body>
+    </message>
+    <message id="m0009" time="2014-10-22 19:29:39 UTC" participant="152115">
+      <body>There's no chance that you get to leave work early since you got there early, is there?</body>
+    </message>
+    <message id="m0010" time="2014-10-22 19:31:39 UTC" participant="152116">
+      <body>Probably not. But I won't stay late</body>
+    </message>
+    <message id="m0011" time="2014-10-22 19:32:04 UTC" participant="152115">
+      <body>Ok. Wishful thinking.</body>
+    </message>
+  </messages>
+</conversation>
+

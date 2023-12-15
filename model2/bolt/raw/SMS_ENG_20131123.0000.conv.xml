@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131123.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-23 00:00:54 UTC" participant="149393">
+      <body>Hi ####### tomorrow 6PM? Just confirming!</body>
+    </message>
+    <message id="m0001" time="2013-11-23 00:04:58 UTC" participant="149306">
+      <body>Yes, if that still works for you. </body>
+    </message>
+    <message id="m0002" time="2013-11-23 00:05:43 UTC" participant="149306">
+      <body>Looking forward to it. Let me know if I should bring anything other than drinks.</body>
+    </message>
+    <message id="m0003" time="2013-11-23 00:08:32 UTC" participant="149393">
+      <body>Great. Works for us. Just the beer is fine. </body>
+    </message>
+    <message id="m0004" time="2013-11-23 00:10:04 UTC" participant="149306">
+      <body>Great see you tomorrow.</body>
+    </message>
+    <message id="m0005" time="2013-11-23 22:32:30 UTC" participant="149393">
+      <body>########### St. Just in case. </body>
+    </message>
+    <message id="m0006" time="2013-11-23 22:34:40 UTC" participant="149306">
+      <body>Great see you soon</body>
+    </message>
+  </messages>
+</conversation>
+

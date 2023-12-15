@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120706.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135399" time="2012-07-06 21:12:25 UTC">
+      <body>Headin over.</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-06 21:12:46 UTC">
+      <body>Great you'll be first</body>
+    </message>
+    <message id="m0002" participant="135399" time="2012-07-06 21:14:06 UTC">
+      <body>Could u meet me outside so i dnt feel like a weirdo</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-06 21:14:17 UTC">
+      <body>Yes weirdo</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-06 21:15:43 UTC">
+      <body>Let me know when to come out</body>
+    </message>
+  </messages>
+</conversation>

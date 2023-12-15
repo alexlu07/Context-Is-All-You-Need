@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140904.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-04 19:12:45 UTC" participant="152417">
+      <body>Do you know of any happenings happening tonight? Im looking for something to take ria to and theres not much looking good in the concert listings</body>
+    </message>
+    <message id="m0001" time="2014-09-04 19:26:17 UTC" participant="152424">
+      <body>south st beer garden is always fun.  not sure about events</body>
+    </message>
+    <message id="m0002" time="2014-09-04 22:49:54 UTC" participant="152417">
+      <body>Do you and Jenny wanna meet Ria and I there?  845 ish</body>
+    </message>
+    <message id="m0003" time="2014-09-04 22:50:35 UTC" participant="152424">
+      <body>let me get back to you.  probs</body>
+    </message>
+  </messages>
+</conversation>
+

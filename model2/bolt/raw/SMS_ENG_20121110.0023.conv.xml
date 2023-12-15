@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136261" time="2012-11-10 18:04:09 UTC">
+      <body>I finally have your number !!!! Do you know what happened last night?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-10 18:06:31 UTC">
+      <body>You didn't have my number?? Most of last night is fuzzy...did something bad happen?</body>
+    </message>
+    <message id="m0002" participant="136261" time="2012-11-10 18:09:35 UTC">
+      <body>Bag just makin sure</body>
+    </message>
+    <message id="m0003" participant="136261" time="2012-11-10 18:09:43 UTC">
+      <body>Nah*</body>
+    </message>
+    <message id="m0004" participant="136261" time="2012-11-11 00:29:52 UTC">
+      <body>Awesome. I'm watching the big lebowski </body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-11-11 00:30:08 UTC">
+      <body>Now that you have a working phone you can text me where you are and what you're doing at all times</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-11 00:31:07 UTC">
+      <body>That movie is good but so weird!</body>
+    </message>
+    <message id="m0007" participant="136261" time="2012-11-11 00:36:03 UTC">
+      <body>Hey weirds a good thing </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120606.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-06 00:53:12 UTC">
+      <body>You need to sign my yearbook at lunch tomorrow!</body>
+    </message>
+    <message id="m0001" participant="136246" time="2012-06-06 00:54:11 UTC">
+      <body>And you mine homie</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-06 00:55:21 UTC">
+      <body>Aiiiight</body>
+    </message>
+    <message id="m0003" participant="136246" time="2012-06-06 01:00:25 UTC">
+      <body>Lol</body>
+    </message>
+  </messages>
+</conversation>

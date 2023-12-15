@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132567" time="2013-05-05 04:49:13 UTC">
+      <body>Going home</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-05-05 13:00:59 UTC">
+      <body>Dam u tell Bert? We still ballin today?</body>
+    </message>
+    <message id="m0002" participant="132567" time="2013-05-05 14:51:49 UTC">
+      <body>Nah i'm chillin today. I text bert last night. He didn't respond</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-05-05 14:52:13 UTC">
+      <body>Yeah he was asleep</body>
+    </message>
+    <message id="m0004" participant="132567" time="2013-05-05 14:52:55 UTC">
+      <body>Ah</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-05-05 14:54:05 UTC">
+      <body>Y u fronting on ball son!</body>
+    </message>
+    <message id="m0006" participant="132567" time="2013-05-05 15:07:58 UTC">
+      <body>My bad ball</body>
+    </message>
+    <message id="m0007" participant="132567" time="2013-05-05 15:12:40 UTC">
+      <body>U watching people on the broad street run?</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-05-05 15:14:03 UTC">
+      <body>I did earlier</body>
+    </message>
+    <message id="m0009" participant="132567" time="2013-05-05 15:15:40 UTC">
+      <body>Is it over now?</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-05-05 15:16:20 UTC">
+      <body>Idk</body>
+    </message>
+  </messages>
+</conversation>

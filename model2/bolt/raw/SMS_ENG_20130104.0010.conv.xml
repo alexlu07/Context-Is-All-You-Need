@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133317" time="2013-01-04 02:31:01 UTC">
+      <body>Hi Danielle, are you available to babysit on Friday Jan 18 at 7:30p?</body>
+    </message>
+    <message id="m0001" participant="133317" time="2013-01-04 02:57:04 UTC">
+      <body>No problem thanks for getting back to me</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-01-04 02:57:13 UTC">
+      <body>Hi Mrs. Provini, I'm going to be at a wedding that night. I'm sorry =(</body>
+    </message>
+    <message id="m0004" participant="133056" time="2013-01-04 14:21:48 UTC">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>

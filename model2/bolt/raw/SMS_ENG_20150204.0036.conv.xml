@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 19:15:58 UTC" participant="153244">
+      <body>I can write you a check for the book I sold for Robert? </body>
+    </message>
+    <message id="m0001" time="2015-02-04 19:16:43 UTC" participant="153891">
+      <body>Good.</body>
+    </message>
+  </messages>
+</conversation>
+

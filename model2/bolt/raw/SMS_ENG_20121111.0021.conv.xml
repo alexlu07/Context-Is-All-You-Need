@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-11 18:09:35 UTC">
+      <body>Ready when you are...</body>
+    </message>
+    <message id="m0001" participant="131028" time="2012-11-11 18:40:48 UTC">
+      <body>Oh my gosh I just woke up!!  Now??</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-11-11 18:41:06 UTC">
+      <body>30 mins?</body>
+    </message>
+    <message id="m0003" participant="131028" time="2012-11-11 18:41:46 UTC">
+      <body>Yes! Can't believe I slept so late....</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-11-11 18:42:05 UTC">
+      <body>You must have needed it!! See you soon.</body>
+    </message>
+  </messages>
+</conversation>

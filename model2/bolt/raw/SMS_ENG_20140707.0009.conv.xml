@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140707.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-07 22:19:47 UTC" participant="153418">
+      <body>I'm at work. What's up? </body>
+    </message>
+    <message id="m0001" time="2014-07-07 22:24:08 UTC" participant="153445">
+      <body>Oh sorry just want to see how your week is going</body>
+    </message>
+    <message id="m0002" time="2014-07-07 22:50:03 UTC" participant="153418">
+      <body>I'm doing all right. Went out a bit for the weekend. How's it going over there? </body>
+    </message>
+    <message id="m0003" time="2014-07-07 23:02:33 UTC" participant="153445">
+      <body>Oh that's awesome. How's the weather when you're out? I just began a new term for summer</body>
+    </message>
+    <message id="m0004" time="2014-07-08 02:07:59 UTC" participant="153418">
+      <body>It was good. Kinda hot, but it's summer.
+Are you done all of your coops? </body>
+    </message>
+    <message id="m0005" time="2014-07-08 02:11:17 UTC" participant="153445">
+      <body>Yeah summer is nice. At least it wasn't raining. I'm done! Just school now</body>
+    </message>
+  </messages>
+</conversation>
+

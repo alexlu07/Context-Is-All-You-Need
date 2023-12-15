@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130950" time="2013-03-18 18:08:22 UTC">
+      <body>Hi. Confirming Wed 4PM appointment @ CultureWorks, The PA Bldg, flr 3.</body>
+    </message>
+    <message id="m0001" participant="130950" time="2013-03-20 19:43:34 UTC">
+      <body>Xpect 2 b 10 min late. Whilst lvng apt I got a nose bleed. Sorry. C u soon.</body>
+    </message>
+    <message id="m0002" participant="130950" time="2013-03-20 20:03:51 UTC">
+      <body>Just made it on time as the 4PM church bell rings. C U @ 4:15PM.</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-03-20 20:19:43 UTC">
+      <body>Which is yours?</body>
+    </message>
+    <message id="m0005" participant="130950" time="2013-05-10 12:06:03 UTC">
+      <body>U bet I'll b there! Thnx.</body>
+    </message>
+  </messages>
+</conversation>

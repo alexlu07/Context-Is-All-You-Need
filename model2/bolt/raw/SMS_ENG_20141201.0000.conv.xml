@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141201.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-01 15:40:28 UTC" participant="152115">
+      <body>Oh that's really cool.</body>
+    </message>
+    <message id="m0001" time="2014-12-01 16:35:24 UTC" participant="152116">
+      <body>Yeah I don't know if I should use it or keep it wrapped.</body>
+    </message>
+    <message id="m0002" time="2014-12-01 21:23:30 UTC" participant="152116">
+      <body>I'm meeting Katch on Thursday.</body>
+    </message>
+    <message id="m0003" time="2014-12-01 21:44:52 UTC" participant="152115">
+      <body>Ok. And if you like the keychain, use it. It looks neat.</body>
+    </message>
+    <message id="m0004" time="2014-12-01 22:05:52 UTC" participant="152116">
+      <body>I'll see</body>
+    </message>
+  </messages>
+</conversation>
+

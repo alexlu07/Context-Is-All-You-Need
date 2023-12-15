@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-01-12 22:46:39 UTC">
+      <body>Under wear.. What size?</body>
+    </message>
+    <message id="m0001" participant="131282" time="2013-01-12 22:47:24 UTC">
+      <body>waist is 32/34</body>
+    </message>
+    <message id="m0002" participant="131282" time="2013-01-12 22:47:50 UTC">
+      <body>34 now I guess</body>
+    </message>
+    <message id="m0003" participant="131281" time="2013-01-12 22:48:46 UTC">
+      <body>Under shirts?</body>
+    </message>
+    <message id="m0004" participant="131282" time="2013-01-12 22:53:28 UTC">
+      <body>medium probably</body>
+    </message>
+  </messages>
+</conversation>

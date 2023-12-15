@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131394" time="2013-05-09 17:02:57 UTC">
+      <body>Do you know your ETA? Not trying to rush you at all, just curious so I know how much time I have to accomplish certain things before you get here.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-09 17:05:25 UTC">
+      <body>About 15.</body>
+    </message>
+  </messages>
+</conversation>

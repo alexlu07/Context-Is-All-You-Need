@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140620.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-20 21:03:48 UTC" participant="152116">
+      <body>Are we walking or subbing?</body>
+    </message>
+    <message id="m0001" time="2014-06-20 21:04:18 UTC" participant="152115">
+      <body>I was hoping subbing.</body>
+    </message>
+    <message id="m0002" time="2014-06-20 21:05:44 UTC" participant="152116">
+      <body>Would you be able to meet me in the sub?</body>
+    </message>
+    <message id="m0003" time="2014-06-20 21:06:33 UTC" participant="152115">
+      <body>What time?</body>
+    </message>
+    <message id="m0004" time="2014-06-20 21:07:04 UTC" participant="152116">
+      <body>5:40?</body>
+    </message>
+    <message id="m0005" time="2014-06-20 21:07:27 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2014-06-20 21:08:51 UTC" participant="152116">
+      <body>Are you ready?</body>
+    </message>
+    <message id="m0007" time="2014-06-20 21:09:01 UTC" participant="152115">
+      <body>Getting ready</body>
+    </message>
+    <message id="m0008" time="2014-06-20 21:31:39 UTC" participant="152116">
+      <body>Did you leave yet?</body>
+    </message>
+    <message id="m0009" time="2014-06-20 21:32:04 UTC" participant="152115">
+      <body>Walking now</body>
+    </message>
+    <message id="m0010" time="2014-06-20 21:32:53 UTC" participant="152116">
+      <body>Okay. I'm almost at Ellsworth-Federal</body>
+    </message>
+    <message id="m0011" time="2014-06-21 12:42:51 UTC" participant="152115">
+      <body>Oh my god. I want a choco taco for breakfast. Are you going to stay out with Victor afterwards?</body>
+    </message>
+    <message id="m0012" time="2014-06-21 12:56:47 UTC" participant="152116">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>
+

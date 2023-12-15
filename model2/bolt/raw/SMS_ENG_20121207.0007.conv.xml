@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121207.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131029" time="2012-12-07 21:33:11 UTC">
+      <body>You still going to the tower lighting?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-12-07 21:54:40 UTC">
+      <body>Yep! Tyler's too.</body>
+    </message>
+    <message id="m0002" participant="131029" time="2012-12-07 21:58:35 UTC">
+      <body>I'm all done shopping so I think I'm headed over to atc </body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-12-07 21:59:13 UTC">
+      <body>Great! We're gonna walk over soon.</body>
+    </message>
+    <message id="m0004" participant="131029" time="2012-12-07 22:00:58 UTC">
+      <body>Ok... I may text to try to hunt you down</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-12-07 22:01:45 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0006" participant="131029" time="2012-12-07 22:42:23 UTC">
+      <body>I'm here</body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-12-07 22:43:04 UTC">
+      <body>Us too! Going into Tyler's speakeasy</body>
+    </message>
+    <message id="m0008" participant="131029" time="2012-12-07 22:45:31 UTC">
+      <body>Ok. I'm over by Cuban revolution right now. </body>
+    </message>
+  </messages>
+</conversation>

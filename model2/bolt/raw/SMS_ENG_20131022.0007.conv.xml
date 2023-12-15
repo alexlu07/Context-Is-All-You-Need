@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131022.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-22 22:41:14 UTC" participant="153653">
+      <body>Whats the dilly? Lvn tysons</body>
+    </message>
+    <message id="m0001" time="2013-10-22 22:42:00 UTC" participant="153548">
+      <body>We are scheduled for 6:45</body>
+    </message>
+    <message id="m0002" time="2013-10-22 22:42:21 UTC" participant="153548">
+      <body>I'll tell em to wait a few!</body>
+    </message>
+    <message id="m0003" time="2013-10-22 22:44:06 UTC" participant="153653">
+      <body>R u on? Im about ten out</body>
+    </message>
+    <message id="m0004" time="2013-10-22 22:44:44 UTC" participant="153548">
+      <body>Not yet </body>
+    </message>
+    <message id="m0005" time="2013-10-22 22:44:51 UTC" participant="153548">
+      <body>Gonna try to wait</body>
+    </message>
+    <message id="m0006" time="2013-10-22 23:03:17 UTC" participant="153653">
+      <body>Sorry there was traffic. Almost there</body>
+    </message>
+    <message id="m0007" time="2013-10-22 23:10:46 UTC" participant="153548">
+      <body>We started but text me when you get home I'll send you am evite. There been tech difficulties</body>
+    </message>
+    <message id="m0008" time="2013-10-22 23:11:18 UTC" participant="153653">
+      <body>Im logging in</body>
+    </message>
+    <message id="m0009" time="2013-10-23 00:20:40 UTC" participant="153653">
+      <body>Headn home will get back on shortly</body>
+    </message>
+    <message id="m0010" time="2013-10-23 00:21:28 UTC" participant="153548">
+      <body>Hey! We just finished up</body>
+    </message>
+    <message id="m0011" time="2013-10-23 00:22:05 UTC" participant="153548">
+      <body>I had to go post some stuff for class tmw but em is still up for a chat!</body>
+    </message>
+  </messages>
+</conversation>
+

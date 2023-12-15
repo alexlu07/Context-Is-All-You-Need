@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150331.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-31 13:08:38 UTC" participant="152212">
+      <body>ok maybe...can i call u in seven. i need to get dressed/brush my teeth. etc.</body>
+    </message>
+    <message id="m0001" time="2015-03-31 13:14:00 UTC" participant="152256">
+      <body>Ok
+Inside</body>
+    </message>
+    <message id="m0002" time="2015-03-31 13:14:11 UTC" participant="152212">
+      <body>ok great i can be there in seven minutes</body>
+    </message>
+    <message id="m0003" time="2015-03-31 13:14:14 UTC" participant="152212">
+      <body>would that work?</body>
+    </message>
+    <message id="m0004" time="2015-03-31 13:14:17 UTC" participant="152212">
+      <body>I can meet you inside</body>
+    </message>
+    <message id="m0005" time="2015-03-31 13:14:50 UTC" participant="152256">
+      <body>Yes 
+I'll leave the back open</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-12 17:51:57 UTC">
+      <body>Hey Peter, did you go home for the break?</body>
+    </message>
+    <message id="m0001" participant="136280" time="2012-10-12 19:38:25 UTC">
+      <body>I'm going on the crossroads retreat... You?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-12 19:59:43 UTC">
+      <body>Ohhh ok. I'm staying. I had a question for you but ill wait till you get back</body>
+    </message>
+  </messages>
+</conversation>

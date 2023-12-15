@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-04-17 13:03:01 UTC">
+      <body>Hey, hannah says you are going to lunch at 12, but are you also going to breakfast at 9:20?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-17 15:35:53 UTC">
+      <body>Ahhhh sorry!!! I forgot to tell you :(</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-04-17 15:55:08 UTC">
+      <body>Haha, that's ok, i got to sleep in!  see you at lunch in a bit?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-17 15:59:33 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

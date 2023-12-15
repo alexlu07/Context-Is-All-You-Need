@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130712.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-12 19:34:08 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" participant="133218" time="2013-07-12 19:34:57 UTC">
+      <body>Hey. How are you?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-12 19:38:24 UTC">
+      <body>I take it Ur from chicago</body>
+    </message>
+    <message id="m0003" participant="133218" time="2013-07-12 19:40:05 UTC">
+      <body>I am in chicago yes, you?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-12 19:47:58 UTC">
+      <body>Philly philly. I'm a big fan of Chicago</body>
+    </message>
+    <message id="m0005" participant="133218" time="2013-07-12 19:48:54 UTC">
+      <body>Yea? Sports fan?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-07-12 19:52:01 UTC">
+      <body>Eagles all day</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-07-12 21:05:59 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0008" participant="133218" time="2013-07-12 21:09:26 UTC">
+      <body>Not a big sports person, although I enjoy watching basketball</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-07-12 21:10:16 UTC">
+      <body>Chicago is good</body>
+    </message>
+    <message id="m0010" participant="133218" time="2013-07-12 21:10:41 UTC">
+      <body>Yeup</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-07-13 00:03:14 UTC">
+      <body>U think they can beat Miami tho</body>
+    </message>
+    <message id="m0012" participant="133218" time="2013-07-13 00:10:46 UTC">
+      <body>Yea I do</body>
+    </message>
+    <message id="m0013" participant="130747" time="2013-07-13 11:10:35 UTC">
+      <body>well see!</body>
+    </message>
+    <message id="m0014" participant="130747" time="2013-07-13 11:10:40 UTC">
+      <body>Doing anything fun this weekend</body>
+    </message>
+  </messages>
+</conversation>

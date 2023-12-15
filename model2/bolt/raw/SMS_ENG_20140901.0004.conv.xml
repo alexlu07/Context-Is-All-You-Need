@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140901.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-01 01:53:25 UTC" participant="153547">
+      <body>What's your address?</body>
+    </message>
+    <message id="m0001" time="2014-09-01 01:54:50 UTC" participant="149364">
+      <body>I'd give it to you, but we just finished up.</body>
+    </message>
+  </messages>
+</conversation>
+

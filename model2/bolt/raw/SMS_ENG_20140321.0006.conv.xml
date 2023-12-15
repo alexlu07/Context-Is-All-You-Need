@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 22:59:15 UTC" participant="152374">
+      <body>I am already at Westbury. Would you like me to try to grab a table?</body>
+    </message>
+    <message id="m0001" time="2014-03-21 22:59:50 UTC" participant="153549">
+      <body>Yes, plz! I'm on my whey!</body>
+    </message>
+    <message id="m0002" time="2014-03-21 23:00:23 UTC" participant="152374">
+      <body>OK! I'm right at the door</body>
+    </message>
+    <message id="m0003" time="2014-03-21 23:00:45 UTC" participant="153549">
+      <body>Thanks. Sea you soon.</body>
+    </message>
+  </messages>
+</conversation>
+

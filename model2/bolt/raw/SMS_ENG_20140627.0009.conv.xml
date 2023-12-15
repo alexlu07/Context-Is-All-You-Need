@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140627.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-27 16:26:59 UTC" participant="152118">
+      <body>Hey. Were you able to get a refund? I think I'm gonna go but if you can't get a refund then I'll give you the money either way.</body>
+    </message>
+    <message id="m0001" time="2014-06-27 17:09:43 UTC" participant="153491">
+      <body>Hey, so I just got off the phone with them. They can't give a refund for live enters so yup, sucks for me.</body>
+    </message>
+    <message id="m0002" time="2014-06-27 17:09:51 UTC" participant="153491">
+      <body>*events</body>
+    </message>
+    <message id="m0003" time="2014-06-27 17:10:22 UTC" participant="152118">
+      <body>Okay. Well I'll give you the money. No worries.</body>
+    </message>
+    <message id="m0004" time="2014-06-27 17:12:22 UTC" participant="153491">
+      <body>Are you planning to go?</body>
+    </message>
+    <message id="m0005" time="2014-06-27 17:28:33 UTC" participant="152118">
+      <body>No. That's why I was going to give you the money if you couldn't get a refund.</body>
+    </message>
+    <message id="m0006" time="2014-06-27 17:29:37 UTC" participant="153491">
+      <body>Oh gotcha! Thanks. I thought you were thinking about going from earlier. Just clarifying.</body>
+    </message>
+    <message id="m0007" time="2014-06-27 17:30:19 UTC" participant="152118">
+      <body>Yeah but I don't think mike wants to go.</body>
+    </message>
+    <message id="m0008" time="2014-06-27 17:34:44 UTC" participant="153491">
+      <body>Hahah totally understandable.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130695" time="2013-05-20 22:52:35 UTC">
+      <body>Thank you for enrolling in the TextPenn Study! Reply with your 4-digit PIN within the next 2 hours to validate your phone number.</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-05-20 22:53:50 UTC">
+      <body>0093</body>
+    </message>
+    <message id="m0002" participant="130695" time="2013-05-20 22:53:53 UTC">
+      <body>Thanks! You have successfully been validated.</body>
+    </message>
+  </messages>
+</conversation>

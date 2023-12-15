@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120601.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131286" time="2012-06-01 14:05:11 UTC">
+      <body>Almost to the cornell club. Should i come over before meeting #######?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-06-01 14:05:35 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="131286" time="2012-06-01 14:06:28 UTC">
+      <body>Ok hopefully ill be there in 3O min!</body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-06-01 14:07:13 UTC">
+      <body>Sounds good, just buzz 2H when you get here.</body>
+    </message>
+    <message id="m0004" participant="131286" time="2012-06-01 14:07:55 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0005" participant="131286" time="2012-06-01 17:47:03 UTC">
+      <body>Sitting watching a softball game in central park. Let me know when its a good time to come back. Itll take me 3O min to get there</body>
+    </message>
+    <message id="m0006" participant="131281" time="2012-06-01 18:19:50 UTC">
+      <body>Come whenever, #### just ate and we're just hanging around. We're supposed to  stop by a party at 6pm, so we'll be heading out then.</body>
+    </message>
+    <message id="m0007" participant="131281" time="2012-06-02 15:00:38 UTC">
+      <body>You alive?</body>
+    </message>
+    <message id="m0008" participant="131286" time="2012-06-02 15:16:57 UTC">
+      <body>Sorry no reception at ####s and the subway not running taking the bus to another stop and no idea how long til i get there</body>
+    </message>
+    <message id="m0009" participant="131281" time="2012-06-02 15:40:48 UTC">
+      <body>Ok. Text me when you're near, I'm going to the farmers market soon.</body>
+    </message>
+    <message id="m0010" participant="131286" time="2012-06-02 15:58:00 UTC">
+      <body>At 161st now </body>
+    </message>
+    <message id="m0011" participant="131281" time="2012-06-02 16:03:43 UTC">
+      <body>We're going to 82nd &amp; 1st ave. Get off at 86th st and call us to meet us. </body>
+    </message>
+    <message id="m0012" participant="131286" time="2012-06-02 16:21:18 UTC">
+      <body>Hey im two blocks away let me know if i should come over now</body>
+    </message>
+  </messages>
+</conversation>

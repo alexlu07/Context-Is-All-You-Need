@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 02:01:36 UTC" participant="153557">
+      <body>Night hun</body>
+    </message>
+    <message id="m0001" time="2014-08-04 03:03:22 UTC" participant="153547">
+      <body>Good night</body>
+    </message>
+    <message id="m0002" time="2014-08-04 22:54:42 UTC" participant="153547">
+      <body>I got an interview on Thursday for university city arts league</body>
+    </message>
+    <message id="m0003" time="2014-08-04 23:00:16 UTC" participant="153557">
+      <body>Hell yes! I knew you would!!!</body>
+    </message>
+    <message id="m0004" time="2014-08-04 23:02:13 UTC" participant="153557">
+      <body>Are you at class?</body>
+    </message>
+  </messages>
+</conversation>
+

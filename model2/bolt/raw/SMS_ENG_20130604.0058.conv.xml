@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136374" time="2013-06-04 02:33:03 UTC">
+      <body>Hello my royal chumnessb</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-04 02:34:00 UTC">
+      <body>chum! what's up? </body>
+    </message>
+    <message id="m0002" participant="136374" time="2013-06-04 02:34:51 UTC">
+      <body>Nothin much </body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-04 02:35:16 UTC">
+      <body>how's your summer going? are you working? </body>
+    </message>
+    <message id="m0004" participant="136374" time="2013-06-04 02:41:58 UTC">
+      <body>Not yet, doing summer school </body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-06-04 02:42:08 UTC">
+      <body>ew </body>
+    </message>
+    <message id="m0006" participant="136374" time="2013-06-04 02:47:34 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-06-04 04:35:06 UTC">
+      <body>it could be worse, i guess. at least you have friends around. :) </body>
+    </message>
+  </messages>
+</conversation>

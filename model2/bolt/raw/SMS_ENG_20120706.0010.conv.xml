@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120706.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135363" time="2012-07-06 22:53:52 UTC">
+      <body>What time is your thing?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-06 22:55:52 UTC">
+      <body>Now until late.  </body>
+    </message>
+    <message id="m0002" participant="135363" time="2012-07-07 03:00:28 UTC">
+      <body>They have karaoke tonight!!!!!!</body>
+    </message>
+  </messages>
+</conversation>

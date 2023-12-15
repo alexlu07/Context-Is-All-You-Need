@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 00:10:25 UTC" participant="152212">
+      <body>Thanks for remembering my birthday</body>
+    </message>
+    <message id="m0001" time="2015-02-09 00:10:34 UTC" participant="152212">
+      <body>I miss you guys</body>
+    </message>
+    <message id="m0002" time="2015-02-09 00:20:45 UTC" participant="152325">
+      <body>whens my birthday</body>
+    </message>
+    <message id="m0003" time="2015-02-09 02:31:15 UTC" participant="152212">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

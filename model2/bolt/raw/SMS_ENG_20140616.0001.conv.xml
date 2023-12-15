@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140616.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-16 17:25:02 UTC" participant="152115">
+      <body>I cannot wake up today. How' s your day going?</body>
+    </message>
+    <message id="m0001" time="2014-06-16 17:28:09 UTC" participant="152116">
+      <body>Today's been good. You definitely got too much sleep</body>
+    </message>
+    <message id="m0002" time="2014-06-16 17:28:46 UTC" participant="152115">
+      <body>No. I got the right amount. It's just Monday.</body>
+    </message>
+    <message id="m0003" time="2014-06-16 17:28:56 UTC" participant="152115">
+      <body>Haha.</body>
+    </message>
+    <message id="m0004" time="2014-06-16 17:32:18 UTC" participant="152116">
+      <body>Haha okay</body>
+    </message>
+    <message id="m0005" time="2014-06-16 21:02:35 UTC" participant="152115">
+      <body>We made pesto pasta. It's good.</body>
+    </message>
+    <message id="m0006" time="2014-06-16 21:05:55 UTC" participant="152116">
+      <body>Okay good. I'm on my way to My parents now</body>
+    </message>
+  </messages>
+</conversation>
+

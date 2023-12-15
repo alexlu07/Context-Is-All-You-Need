@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135460" time="2012-12-11 03:26:24 UTC">
+      <body>Do you happen to have a projector dongle for a MacBook pro I can borrow for tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135460" time="2012-12-11 03:26:56 UTC">
+      <body>I'm helping Lillian install can I borrow it? I'll be here till late</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-11 03:29:10 UTC">
+      <body>Yes let's check for it before midnight</body>
+    </message>
+    <message id="m0003" participant="135460" time="2012-12-11 03:31:12 UTC">
+      <body>Awesome. Thank you!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-11 03:38:11 UTC">
+      <body>Can I come for a sneak
+Peak</body>
+    </message>
+    <message id="m0005" participant="135460" time="2012-12-11 03:44:00 UTC">
+      <body>Yes. Just give me a sec. I will be in tower in a minute or two </body>
+    </message>
+  </messages>
+</conversation>

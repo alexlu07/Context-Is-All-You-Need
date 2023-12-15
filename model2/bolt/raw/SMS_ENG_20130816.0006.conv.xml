@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130816.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-16 21:18:14 UTC" participant="152560">
+      <body>How did the interview go?</body>
+    </message>
+    <message id="m0001" time="2013-08-16 21:19:21 UTC" participant="152417">
+      <body>I think it went really well...but if i get it i would have to miss a lot of the vacation....</body>
+    </message>
+    <message id="m0002" time="2013-08-16 21:19:53 UTC" participant="152417">
+      <body>They would want me there for training for most of bext week</body>
+    </message>
+    <message id="m0003" time="2013-08-16 21:24:56 UTC" participant="152560">
+      <body>That's great! Are you thinking about doing it anyway?</body>
+    </message>
+    <message id="m0004" time="2013-08-16 21:26:22 UTC" participant="152417">
+      <body>Yea, i think i might just do a crazy commute for a few days if i get it</body>
+    </message>
+    <message id="m0005" time="2013-08-17 03:33:36 UTC" participant="152417">
+      <body>Ill meet you back at home</body>
+    </message>
+    <message id="m0006" time="2013-08-17 03:34:30 UTC" participant="152560">
+      <body>Alright-just closing up here.</body>
+    </message>
+    <message id="m0007" time="2013-08-17 20:29:49 UTC" participant="152560">
+      <body>I parked on St Paul St right in front of Jac Huntley salon. Have fun at the wedding.</body>
+    </message>
+  </messages>
+</conversation>
+

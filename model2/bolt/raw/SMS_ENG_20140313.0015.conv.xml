@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 10:59:12 UTC" participant="153584">
+      <body>Cool</body>
+    </message>
+    <message id="m0001" time="2014-03-13 22:36:00 UTC" participant="153547">
+      <body>I'll pick you up at woodland or on 47th at 730 am tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-03-13 22:36:15 UTC" participant="153584">
+      <body>Perfect. </body>
+    </message>
+  </messages>
+</conversation>
+

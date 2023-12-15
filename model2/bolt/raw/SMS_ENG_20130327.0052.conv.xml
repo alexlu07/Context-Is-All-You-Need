@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-03-27 00:51:39 UTC">
+      <body>Where did you say nisrine teaches? </body>
+    </message>
+    <message id="m0001" participant="137377" time="2013-03-27 01:08:16 UTC">
+      <body>DePaul University </body>
+    </message>
+    <message id="m0002" participant="137377" time="2013-03-27 01:08:59 UTC">
+      <body>She is the head if their arabic program </body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-03-27 01:09:19 UTC">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>

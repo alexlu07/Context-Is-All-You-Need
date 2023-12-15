@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135293" time="2013-04-25 12:30:56 UTC">
+      <body>Do you know yet if you can come down on Friday for a showing and if so if you could possibly make a showing before or afterwards? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-25 14:11:17 UTC">
+      <body>Yes - afterwards, not before, and my high school friend will be with me</body>
+    </message>
+    <message id="m0002" participant="135293" time="2013-04-25 15:24:32 UTC">
+      <body>Great I just scheduled one. Also google street view our potential apartments. They are all adorable </body>
+    </message>
+  </messages>
+</conversation>

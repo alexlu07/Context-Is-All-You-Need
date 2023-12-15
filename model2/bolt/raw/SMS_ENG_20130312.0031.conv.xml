@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130312.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-12 20:20:55 UTC">
+      <body>I'm upstairs on the 11th floor</body>
+    </message>
+    <message id="m0001" participant="135481" time="2013-03-12 20:28:18 UTC">
+      <body>Ok I'll be there in 2 min</body>
+    </message>
+  </messages>
+</conversation>

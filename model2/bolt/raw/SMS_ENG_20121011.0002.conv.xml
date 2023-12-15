@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121011.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131205" time="2012-10-11 15:13:04 UTC">
+      <body>I'd love to see ya. Campus center at 1?</body>
+    </message>
+    <message id="m0001" participant="131205" time="2012-10-11 15:15:12 UTC">
+      <body>Word.</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-10-11 15:16:42 UTC">
+      <body> That sounds great! </body>
+    </message>
+    <message id="m0003" participant="131205" time="2012-10-11 15:17:14 UTC">
+      <body>Maybe we can split a sammicch?</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-10-11 15:24:18 UTC">
+      <body>yum yes!</body>
+    </message>
+    <message id="m0005" participant="131205" time="2012-10-11 16:58:00 UTC">
+      <body>Where u at?</body>
+    </message>
+  </messages>
+</conversation>

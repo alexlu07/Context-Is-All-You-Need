@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140323.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-23 01:14:16 UTC" participant="154352">
+      <body>I didn't think pocket dialing was possible anymore with touchscreens</body>
+    </message>
+    <message id="m0001" time="2014-03-23 01:20:19 UTC" participant="154392">
+      <body>It can happen in the right conditions.</body>
+    </message>
+    <message id="m0002" time="2014-03-23 01:20:36 UTC" participant="154392">
+      <body>How was your date?</body>
+    </message>
+    <message id="m0003" time="2014-03-23 01:21:10 UTC" participant="154352">
+      <body>It was a good one</body>
+    </message>
+  </messages>
+</conversation>
+

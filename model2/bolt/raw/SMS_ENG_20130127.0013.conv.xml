@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-01-27 16:50:47 UTC">
+      <body>Is Wayne a cute downtown? </body>
+    </message>
+    <message id="m0001" participant="134295" time="2013-01-27 17:41:35 UTC">
+      <body> Yeah kind of</body>
+    </message>
+    <message id="m0002" participant="134295" time="2013-01-27 17:42:41 UTC">
+      <body>It's come a long way since I grew up :) there</body>
+    </message>
+  </messages>
+</conversation>

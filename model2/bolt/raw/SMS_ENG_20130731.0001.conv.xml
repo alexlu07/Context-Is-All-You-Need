@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134736" time="2013-07-30 18:42:10 UTC">
+      <body>Hi goatprincess</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-07-31 09:21:26 UTC">
+      <body>Hi! Howzit goin?</body>
+    </message>
+    <message id="m0002" participant="134736" time="2013-07-31 10:39:15 UTC">
+      <body>Good! How are you?</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-07-31 12:14:53 UTC">
+      <body>Workin, stayin busy. Looking for cool venues/contacts in Baltimore, Asheville, Atlanta and New Orleans. Got any friends there?</body>
+    </message>
+  </messages>
+</conversation>

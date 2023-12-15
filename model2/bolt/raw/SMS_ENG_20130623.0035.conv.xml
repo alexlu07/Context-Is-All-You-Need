@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-06-23 18:24:29 UTC">
+      <body>Wat up. U in ny?</body>
+    </message>
+    <message id="m0001" participant="136642" time="2013-06-23 20:45:40 UTC">
+      <body>I'm down in MD with the misses. What's good w you?</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-23 21:04:50 UTC">
+      <body>In ny</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110908.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-09-08 23:36:20 UTC">
+      <body>Did you talk to fin aid?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-08 23:40:27 UTC">
+      <body>About what?</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-09-08 23:41:23 UTC">
+      <body>Oops wrong child! Sorry</body>
+    </message>
+  </messages>
+</conversation>

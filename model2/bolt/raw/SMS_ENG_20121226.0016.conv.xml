@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121226.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-12-26 17:55:33 UTC">
+      <body>Hey, I need my drill back!</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-26 17:55:40 UTC">
+      <body>And my dog!</body>
+    </message>
+    <message id="m0002" participant="131505" time="2012-12-26 17:58:40 UTC">
+      <body>I'm at work.  Home by 4 pm.  Want to stop by after 4 and drill a bit?  Or tomorrow on your way home from work?</body>
+    </message>
+  </messages>
+</conversation>

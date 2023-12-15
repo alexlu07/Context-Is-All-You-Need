@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120905.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-05 17:03:59 UTC" participant="153291">
+      <body>Hey there.  This is matt.  Just wanted to touch base with you.  Did you get here yet?  If not when do you think you'll get here.</body>
+    </message>
+    <message id="m0001" time="2012-09-05 17:35:12 UTC" participant="152734">
+      <body>Hello! We're driving down tomorrow morning - I'll check in when we're there.</body>
+    </message>
+    <message id="m0002" time="2012-09-05 22:29:28 UTC" participant="153291">
+      <body>Cool.  I haven't talked to you in forever.  I hope all is well with you.  How is everyone?</body>
+    </message>
+  </messages>
+</conversation>
+

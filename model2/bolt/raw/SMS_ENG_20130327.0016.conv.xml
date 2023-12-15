@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-27 18:02:06 UTC">
+      <body>whatcha doing tomorrow night?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-27 18:03:26 UTC">
+      <body>i'm gonna be in TO.</body>
+    </message>
+    <message id="m0002" participant="131373" time="2013-03-27 18:15:59 UTC">
+      <body>I'll be around after 6:30.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-27 18:18:05 UTC">
+      <body>cool. let's hang.</body>
+    </message>
+    <message id="m0004" participant="131373" time="2013-03-27 18:18:52 UTC">
+      <body>Sure. Not too late though. I have to be up at 4 the next morning. :)</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-03-27 18:19:58 UTC">
+      <body>it's a deal.  ;-)</body>
+    </message>
+  </messages>
+</conversation>

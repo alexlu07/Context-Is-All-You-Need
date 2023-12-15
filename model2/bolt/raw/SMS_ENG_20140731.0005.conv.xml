@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140731.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-31 20:17:46 UTC" participant="153418">
+      <body>Hey Jim. My move is taking longer than expected. I expect to be finished by tonight, but I won't be able to return the keys until tomorrow. Is that all right? </body>
+    </message>
+    <message id="m0001" time="2014-07-31 20:20:59 UTC" participant="153448">
+      <body>No prob</body>
+    </message>
+    <message id="m0002" time="2014-07-31 20:21:21 UTC" participant="153418">
+      <body>Thank you.</body>
+    </message>
+    <message id="m0003" time="2014-08-01 14:17:46 UTC" participant="153418">
+      <body>Jim, I came by the office just now to drop the keys off, but no one was available. I'll try again tomorrow.</body>
+    </message>
+    <message id="m0004" time="2014-08-01 14:18:43 UTC" participant="153448">
+      <body>U can drop them in the nail slot with a note to identify them. Thanks.</body>
+    </message>
+    <message id="m0005" time="2014-08-01 14:19:02 UTC" participant="153448">
+      <body>Mail slot</body>
+    </message>
+    <message id="m0006" time="2014-08-01 14:27:12 UTC" participant="153418">
+      <body>Dropped them in. They're wrapped in plastic with a note.</body>
+    </message>
+    <message id="m0007" time="2014-08-01 14:28:05 UTC" participant="153418">
+      <body>Thanks for having me as a resident. I'll contact you later this month to discuss the security deposit.</body>
+    </message>
+    <message id="m0008" time="2014-08-01 15:55:22 UTC" participant="153448">
+      <body>We enjoyed your being here, John. Best wishes!</body>
+    </message>
+  </messages>
+</conversation>
+

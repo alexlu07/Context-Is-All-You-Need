@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132567" time="2013-06-23 20:03:40 UTC">
+      <body>Raining up there?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-23 20:05:11 UTC">
+      <body> yeah it was a min ago</body>
+    </message>
+    <message id="m0002" participant="132567" time="2013-06-23 20:08:11 UTC">
+      <body>How we ballin?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-23 20:10:08 UTC">
+      <body>I guess we ain't If its rainin</body>
+    </message>
+    <message id="m0004" participant="132567" time="2013-06-23 20:11:42 UTC">
+      <body>Let me know if its drying up and maybe we can ball then</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-06-23 20:24:22 UTC">
+      <body>Is it raining in Ntown?</body>
+    </message>
+    <message id="m0006" participant="132567" time="2013-06-23 20:24:55 UTC">
+      <body>A min ago</body>
+    </message>
+    <message id="m0007" participant="132567" time="2013-06-23 21:39:15 UTC">
+      <body>Tryin ro ball now?</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-23 21:49:34 UTC">
+      <body>Is it nice out?</body>
+    </message>
+    <message id="m0009" participant="132567" time="2013-06-23 21:50:22 UTC">
+      <body>Looks fine here... Look out your front door</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-06-23 21:53:30 UTC">
+      <body>Its not raining but it is mad over cast. Looks like it could rain any moment</body>
+    </message>
+    <message id="m0011" participant="132567" time="2013-06-23 21:56:33 UTC">
+      <body>Aight i'm chillin then</body>
+    </message>
+    <message id="m0012" participant="130747" time="2013-06-23 22:06:16 UTC">
+      <body>OK </body>
+    </message>
+  </messages>
+</conversation>

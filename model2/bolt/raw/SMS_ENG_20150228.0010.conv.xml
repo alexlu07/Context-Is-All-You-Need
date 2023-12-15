@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150228.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-28 21:50:49 UTC" participant="152310">
+      <body>It's fine. How's your class going?</body>
+    </message>
+    <message id="m0001" time="2015-02-28 21:51:59 UTC" participant="152212">
+      <body>Great. I get nervous but I love the students. </body>
+    </message>
+    <message id="m0002" time="2015-02-28 21:52:10 UTC" participant="152212">
+      <body>These students are so smart and interesting </body>
+    </message>
+    <message id="m0003" time="2015-02-28 21:52:41 UTC" participant="152212">
+      <body>I am on my way to philly to meet ingrids belly</body>
+    </message>
+    <message id="m0004" time="2015-02-28 21:52:44 UTC" participant="152212">
+      <body>Wahoo</body>
+    </message>
+    <message id="m0005" time="2015-02-28 21:54:08 UTC" participant="152310">
+      <body>:-) Tell the belly I said hello!</body>
+    </message>
+    <message id="m0006" time="2015-02-28 21:55:08 UTC" participant="152212">
+      <body>You want to meet the belly too</body>
+    </message>
+    <message id="m0007" time="2015-02-28 21:55:35 UTC" participant="152212">
+      <body>? It's little but it's there </body>
+    </message>
+    <message id="m0008" time="2015-02-28 21:57:37 UTC" participant="152310">
+      <body>OK, time to do some errands. Take care, Sofie!</body>
+    </message>
+    <message id="m0009" time="2015-02-28 22:00:40 UTC" participant="152212">
+      <body>Bye </body>
+    </message>
+  </messages>
+</conversation>
+

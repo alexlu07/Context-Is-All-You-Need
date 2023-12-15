@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150117.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-17 14:18:22 UTC" participant="153815">
+      <body>I found the 1lb weights if you still want them</body>
+    </message>
+    <message id="m0001" time="2015-01-17 14:19:31 UTC" participant="153804">
+      <body>Yes,that would be great!did you happen to get paid?</body>
+    </message>
+    <message id="m0002" time="2015-01-17 14:20:35 UTC" participant="153815">
+      <body>No. Not yet. Hopefully next week. I don't think we checked today yet</body>
+    </message>
+    <message id="m0003" time="2015-01-17 14:21:00 UTC" participant="153804">
+      <body>let me know when you do</body>
+    </message>
+    <message id="m0004" time="2015-01-17 14:22:13 UTC" participant="153804">
+      <body>if it's alright with you I'll stop by and pick up the weights and less you're going skiing</body>
+    </message>
+    <message id="m0005" time="2015-01-17 14:29:54 UTC" participant="153815">
+      <body>Not skiing. Should be here</body>
+    </message>
+    <message id="m0006" time="2015-01-17 15:20:31 UTC" participant="153815">
+      <body>No pay yet</body>
+    </message>
+    <message id="m0007" time="2015-01-17 15:49:15 UTC" participant="153804">
+      <body>Should be there by Monday but I believe it's a holiday so I guess it will be Tuesday</body>
+    </message>
+    <message id="m0008" time="2015-01-17 15:53:07 UTC" participant="153815">
+      <body>No problem</body>
+    </message>
+    <message id="m0009" time="2015-01-17 16:49:35 UTC" participant="153804">
+      <body>Can I stop now to pick up the weights?</body>
+    </message>
+  </messages>
+</conversation>
+

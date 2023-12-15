@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-01 02:38:00 UTC">
+      <body>hey.</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-04-01 02:43:59 UTC">
+      <body>Sup</body>
+    </message>
+    <message id="m0002" participant="131375" time="2013-04-01 02:48:18 UTC">
+      <body>???</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-01 02:56:11 UTC">
+      <body>just thinking about you...</body>
+    </message>
+    <message id="m0004" participant="131375" time="2013-04-01 02:57:08 UTC">
+      <body>Awe :) Thank you.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-01 02:57:18 UTC">
+      <body>i got hit with an avalanche - will actually call probably Tuesday.</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-04-01 02:57:44 UTC">
+      <body>but missing you in the meantime.</body>
+    </message>
+    <message id="m0007" participant="131375" time="2013-04-01 02:58:12 UTC">
+      <body>Oh dear. </body>
+    </message>
+    <message id="m0008" participant="131375" time="2013-04-01 02:58:42 UTC">
+      <body>Tuesday will be good. </body>
+    </message>
+  </messages>
+</conversation>

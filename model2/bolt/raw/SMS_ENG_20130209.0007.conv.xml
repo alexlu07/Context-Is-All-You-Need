@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130944" time="2013-02-09 17:01:34 UTC">
+      <body>Hi this is Heidi :) I should arrive at around 7 tonight, no need to prep dinner for me, looking forward to seeing you soon!</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-02-09 17:23:55 UTC">
+      <body>Okey doke!</body>
+    </message>
+    <message id="m0002" participant="130755" time="2013-02-09 22:39:54 UTC">
+      <body>Hey Heidi, just FYI, I'm planning to head to west Philly to see a free movie at 7. Yr welcome to join, it's free! But let me know if yr gonna get here any later than 7</body>
+    </message>
+    <message id="m0003" participant="130944" time="2013-02-09 22:40:55 UTC">
+      <body>i can make it by 7!</body>
+    </message>
+    <message id="m0004" participant="130944" time="2013-02-09 22:40:57 UTC">
+      <body>thx!</body>
+    </message>
+    <message id="m0005" participant="130944" time="2013-02-09 22:54:47 UTC">
+      <body>i should arrive in 30min</body>
+    </message>
+    <message id="m0006" participant="130755" time="2013-02-09 22:58:45 UTC">
+      <body>Great!</body>
+    </message>
+    <message id="m0007" participant="130944" time="2013-02-11 23:59:35 UTC">
+      <body>Safely back to Binghamton, thank you so much for hosting me!</body>
+    </message>
+    <message id="m0008" participant="130755" time="2013-02-12 00:02:52 UTC">
+      <body>Great! Nice to meetcha!</body>
+    </message>
+  </messages>
+</conversation>

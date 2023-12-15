@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140426.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-26 12:46:02 UTC" participant="153547">
+      <body>Hey phill, I'm planning on leaving here around 930 so let's get lunch out or at your place. Should be there around noon</body>
+    </message>
+    <message id="m0001" time="2014-04-26 14:13:05 UTC" participant="149374">
+      <body>Great. I should be back from the Y around noon. Linds will be at the house in case you get here before I return. Korean lunch? I'm buying...</body>
+    </message>
+    <message id="m0002" time="2014-04-26 14:20:30 UTC" participant="153547">
+      <body>Just now leaving</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-25 21:26:58 UTC" participant="153299">
+      <body>Omg flight delayed until 650. Ugh</body>
+    </message>
+    <message id="m0001" time="2013-01-25 21:48:57 UTC" participant="152734">
+      <body>Shit!! Just got here.</body>
+    </message>
+    <message id="m0002" time="2013-01-25 22:12:30 UTC" participant="153299">
+      <body>Give my luv to leuwam n rob. Eta around 8</body>
+    </message>
+    <message id="m0003" time="2013-01-25 22:33:01 UTC" participant="153299">
+      <body>Flight cancelled. Now on us flight 4112 departing 915</body>
+    </message>
+    <message id="m0004" time="2013-01-25 23:51:38 UTC" participant="152734">
+      <body>Woof. We're here whenever you get here - let me know if you want a lift from the airport. </body>
+    </message>
+    <message id="m0005" time="2013-01-26 02:13:41 UTC" participant="153299">
+      <body>On plane!</body>
+    </message>
+    <message id="m0006" time="2013-01-26 02:42:11 UTC" participant="152734">
+      <body>Yay plane! </body>
+    </message>
+    <message id="m0007" time="2013-01-26 13:57:30 UTC" participant="153299">
+      <body>U guys rating breakfast yet?</body>
+    </message>
+    <message id="m0008" time="2013-01-26 13:59:01 UTC" participant="152734">
+      <body>Heading down shortly</body>
+    </message>
+  </messages>
+</conversation>
+

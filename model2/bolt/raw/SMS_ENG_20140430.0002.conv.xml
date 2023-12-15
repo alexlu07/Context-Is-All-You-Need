@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140430.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-30 14:30:38 UTC" participant="153472">
+      <body>I think this week's crappy Wednesday weather may cancel our walk.</body>
+    </message>
+    <message id="m0001" time="2014-04-30 14:31:27 UTC" participant="152374">
+      <body>Yeah, I was wondering. This sucks :(</body>
+    </message>
+    <message id="m0002" time="2014-04-30 15:03:38 UTC" participant="153472">
+      <body>Indeed it does! We can see how things look later today but I'm feeling like a drowned rat this morning.</body>
+    </message>
+    <message id="m0003" time="2014-04-30 15:16:40 UTC" participant="152374">
+      <body>Me too. Alternate idea: want to come over and watch the flyers? We can order food </body>
+    </message>
+    <message id="m0004" time="2014-04-30 15:17:35 UTC" participant="153472">
+      <body>Yes! That sounds great!</body>
+    </message>
+    <message id="m0005" time="2014-04-30 15:17:57 UTC" participant="152374">
+      <body>Perfect :) </body>
+    </message>
+    <message id="m0006" time="2014-04-30 21:29:13 UTC" participant="152374">
+      <body>Game is at 7. Want to come over around 6:45 so we can order some food? I'm sure it'll take a while to come on a night like this </body>
+    </message>
+    <message id="m0007" time="2014-04-30 21:30:28 UTC" participant="153472">
+      <body>Sounds good. Where are u thinking o ordering from? I never order food so I'm leaving this up to you. </body>
+    </message>
+    <message id="m0008" time="2014-04-30 21:31:46 UTC" participant="152374">
+      <body>Anything is fine with me. Tons of options. I'll pull up grubhub and we can look through menus when you get here :) </body>
+    </message>
+    <message id="m0009" time="2014-04-30 21:32:37 UTC" participant="153472">
+      <body>Awesome! You always show me new stuff!</body>
+    </message>
+    <message id="m0010" time="2014-04-30 22:45:41 UTC" participant="152374">
+      <body>Just realized you might not have my actual address. I'm at #############</body>
+    </message>
+  </messages>
+</conversation>
+

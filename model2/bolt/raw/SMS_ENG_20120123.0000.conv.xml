@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120123.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-01-23 06:29:40 UTC">
+      <body>Happy Chinese New Year!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-24 02:12:33 UTC">
+      <body>Don't bother calling back</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-01-24 03:04:29 UTC">
+      <body>If you were here you would be totally freaking out.</body>
+    </message>
+  </messages>
+</conversation>

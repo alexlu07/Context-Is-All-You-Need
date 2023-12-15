@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131013.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-13 15:36:00 UTC" participant="153570">
+      <body>Wanna go on a day trip to an abandoned factory and take fotos?</body>
+    </message>
+    <message id="m0001" time="2013-10-13 15:36:32 UTC" participant="153570">
+      <body>Life's a beach</body>
+    </message>
+    <message id="m0002" time="2013-10-13 15:36:47 UTC" participant="153548">
+      <body>I do but I have a studio meeting today and have to grade 14 bad student films:( </body>
+    </message>
+  </messages>
+</conversation>
+

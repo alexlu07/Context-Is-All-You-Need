@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131717" time="2013-06-10 09:11:16 UTC">
+      <body>Gm</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-10 09:13:21 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="131717" time="2013-06-10 09:26:45 UTC">
+      <body>Hello...how is ur morning?</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-06-10 09:29:39 UTC">
+      <body>Rainy!</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-06-10 09:29:39 UTC">
+      <body>Took me forever to get to work</body>
+    </message>
+    <message id="m0005" participant="131003" time="2013-06-10 09:38:12 UTC">
+      <body>Lots of flooding on the roads</body>
+    </message>
+    <message id="m0006" participant="131717" time="2013-06-10 09:50:03 UTC">
+      <body>Oh!! That sounds like a frustratingly rainy morning! Did the commute take much longer than usual?</body>
+    </message>
+    <message id="m0007" participant="131003" time="2013-06-10 10:32:38 UTC">
+      <body>About 25 min longer</body>
+    </message>
+    <message id="m0008" participant="131003" time="2013-06-10 11:11:56 UTC">
+      <body>Do you have to drive to work/school or are you one of those lucky people who can walk or drive?</body>
+    </message>
+    <message id="m0009" participant="131717" time="2013-06-10 11:53:04 UTC">
+      <body>I do drive to work as my job is a ways away. Yes! I spend a good deal on gas!</body>
+    </message>
+    <message id="m0010" participant="131003" time="2013-06-10 12:05:45 UTC">
+      <body>Ugh! Me too!</body>
+    </message>
+  </messages>
+</conversation>

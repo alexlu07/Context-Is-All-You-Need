@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140205.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-05 18:18:40 UTC" participant="153556">
+      <body>Gonna head over to cedar ave, you around</body>
+    </message>
+    <message id="m0001" time="2014-02-05 18:33:36 UTC" participant="153556">
+      <body>No I'm in</body>
+    </message>
+    <message id="m0002" time="2014-02-05 18:34:14 UTC" participant="153547">
+      <body>Do u need keys?</body>
+    </message>
+  </messages>
+</conversation>
+

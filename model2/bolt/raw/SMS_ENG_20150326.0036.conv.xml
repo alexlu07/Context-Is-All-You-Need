@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150326.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-26 14:19:42 UTC" participant="152116">
+      <body>Still 12, right?</body>
+    </message>
+    <message id="m0001" time="2015-03-26 14:20:19 UTC" participant="153783">
+      <body>Yea I was just about to text you</body>
+    </message>
+    <message id="m0002" time="2015-03-26 14:22:38 UTC" participant="152116">
+      <body>Telepathy</body>
+    </message>
+    <message id="m0003" time="2015-03-26 14:22:40 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0004" time="2015-03-26 15:55:33 UTC" participant="152116">
+      <body>Can you come down?</body>
+    </message>
+    <message id="m0005" time="2015-03-26 15:56:00 UTC" participant="153783">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2015-03-27 01:05:24 UTC" participant="152116">
+      <body>Where are you??</body>
+    </message>
+    <message id="m0007" time="2015-03-27 01:54:11 UTC" participant="153783">
+      <body>I just got this lol</body>
+    </message>
+    <message id="m0008" time="2015-03-27 01:58:46 UTC" participant="152116">
+      <body>It's okat</body>
+    </message>
+    <message id="m0009" time="2015-03-27 01:58:50 UTC" participant="152116">
+      <body>*okay</body>
+    </message>
+  </messages>
+</conversation>
+

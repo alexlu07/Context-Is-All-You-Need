@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134279" time="2013-06-05 01:52:53 UTC">
+      <body>Yo...you in town? When do we get to hang.</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-05 05:27:06 UTC">
+      <body>I'm in Seattle until Thursday.  If you want to come up to Seattle we can hang tomorrow.  Free place to stay. Family at my parents... </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-05 05:28:19 UTC">
+      <body>You should definitely come up tomorrow if you can </body>
+    </message>
+    <message id="m0003" participant="134279" time="2013-06-05 05:29:20 UTC">
+      <body>Ya I'm sure I can. What time are you done with everything?</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-06-05 05:29:55 UTC">
+      <body>Prob be done around 5 or 6</body>
+    </message>
+    <message id="m0005" participant="134279" time="2013-06-05 05:30:59 UTC">
+      <body>Cool. Ill hit you up tomorrow</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-06-05 19:27:42 UTC">
+      <body>I have to cancel tonight. Have to go to a cocktail party/dinner with clients. </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-06-05 19:28:08 UTC">
+      <body>Sorry. Just got invited and should go since that is why I'm here. Hah</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-06-05 19:28:19 UTC">
+      <body>Def see you tomorrow though right? </body>
+    </message>
+    <message id="m0009" participant="134279" time="2013-06-05 19:31:35 UTC">
+      <body>Ya that's cool, no worries. Tomorrow for sure. </body>
+    </message>
+  </messages>
+</conversation>

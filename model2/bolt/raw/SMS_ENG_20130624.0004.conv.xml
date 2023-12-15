@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131839" time="2013-06-24 07:31:15 UTC">
+      <body>I'm going to the beach today! What are you up to?</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-06-24 14:29:14 UTC">
+      <body>Nice quiet day reading. :}</body>
+    </message>
+    <message id="m0002" participant="131839" time="2013-06-24 14:38:34 UTC">
+      <body>Oh nice! What do you do for a living?</body>
+    </message>
+    <message id="m0003" participant="130616" time="2013-06-24 20:58:04 UTC">
+      <body>I used to work at a bookstore but I've been seeking other employment. Not having too much luck I'm afraid.</body>
+    </message>
+    <message id="m0004" participant="131839" time="2013-06-24 21:27:10 UTC">
+      <body>Ugh, I hear that frustration. I'm so sick of worrying about money. What would you like to do?</body>
+    </message>
+    <message id="m0005" participant="130616" time="2013-06-24 22:36:58 UTC">
+      <body>Honestly? Anything at this point. I'd love something involving a library to be honest. I'd love to go for a degree in criminal psychology.</body>
+    </message>
+    <message id="m0006" participant="131839" time="2013-06-24 23:22:12 UTC">
+      <body>Well I hope things work out for you soon. Applying for jobs is a (thankless) job on its own! So exhausting. What are you reading these days?</body>
+    </message>
+  </messages>
+</conversation>

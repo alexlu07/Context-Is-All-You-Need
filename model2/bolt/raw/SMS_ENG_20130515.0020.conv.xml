@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130958" time="2013-05-15 17:23:49 UTC">
+      <body>Hi! Can you text me Silvester Byrd's schedule so that I can update his calendar? Thanks. -Kristine</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-05-15 18:11:55 UTC">
+      <body>Hi, we're meeting today at 3:45, no session next week. Will determine last week in may today</body>
+    </message>
+    <message id="m0002" participant="130958" time="2013-05-15 18:31:27 UTC">
+      <body>Thank you. He knows his weekly schedule. One exception, he is not available Wed., 5/29 noon-3 PM.</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-05-15 19:06:44 UTC">
+      <body>Not a problem. I am starting a new job end of may and my schedule is still up in the air. I should be able to give a definite schedule the last week in may. </body>
+    </message>
+  </messages>
+</conversation>

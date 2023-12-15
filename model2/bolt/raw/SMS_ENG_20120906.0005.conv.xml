@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135191" time="2012-09-06 06:56:00 UTC">
+      <body>Listen to the playlist Bunk jams on Spotify: http://open.spotify.com/user/lukeskidmore/playlist/7r42NwhhtKoIbGPXLKgsXj</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-09-06 18:45:31 UTC">
+      <body>You don't know how important that was to receive</body>
+    </message>
+    <message id="m0002" participant="135191" time="2012-09-06 18:54:56 UTC">
+      <body>Yeah well, you've done that to me a timer two</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-09-06 19:56:18 UTC">
+      <body>Thank you, Luke. If you can make it to Philly in the next 11 days you have a free ticket to my show.</body>
+    </message>
+    <message id="m0004" participant="135191" time="2012-09-07 07:00:16 UTC">
+      <body>I sure hope it's winds up on the Internet</body>
+    </message>
+  </messages>
+</conversation>

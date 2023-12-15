@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140913.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-13 14:46:46 UTC" participant="153547">
+      <body>Can I come get $ from u</body>
+    </message>
+    <message id="m0001" time="2014-09-13 15:12:55 UTC" participant="149372">
+      <body>Yeah, I'll be home in an hour. </body>
+    </message>
+    <message id="m0002" time="2014-09-13 15:57:43 UTC" participant="153547">
+      <body>U home ? I'm pretty close by</body>
+    </message>
+    <message id="m0003" time="2014-09-13 15:59:18 UTC" participant="149372">
+      <body>I gotta go get the cash. Can I drop it off to you in a bit?</body>
+    </message>
+    <message id="m0004" time="2014-09-13 15:59:38 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>
+

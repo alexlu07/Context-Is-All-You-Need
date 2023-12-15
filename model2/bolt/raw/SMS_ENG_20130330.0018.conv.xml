@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131357" time="2013-03-30 03:04:32 UTC">
+      <body>Hitting the road!</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-30 03:09:59 UTC">
+      <body>drive carefully.</body>
+    </message>
+    <message id="m0002" participant="131357" time="2013-03-30 09:19:07 UTC">
+      <body>Arrived in Kalicoland safely. Goodnight. : )</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-30 20:47:42 UTC">
+      <body>glad you got there safely.
+hope  the pickup goes well - smoothly and effortlessly.</body>
+    </message>
+    <message id="m0004" participant="131357" time="2013-03-30 23:37:55 UTC">
+      <body>Got the chickadees on our way to SF.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-03-30 23:49:14 UTC">
+      <body>cool. thx.</body>
+    </message>
+  </messages>
+</conversation>

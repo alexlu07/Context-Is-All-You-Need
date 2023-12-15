@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-06 23:03:13 UTC">
+      <body>We are at dinner...did we leave you behind?</body>
+    </message>
+    <message id="m0001" participant="135269" time="2012-11-06 23:06:56 UTC">
+      <body>No, just got back from intro fit. C u soon</body>
+    </message>
+  </messages>
+</conversation>

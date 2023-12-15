@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-06-13 16:29:13 UTC">
+      <body>Headed back</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-06-14 15:44:48 UTC">
+      <body>Got it. It was in a completely other building that wasn't marked. Headed back.</body>
+    </message>
+    <message id="m0002" participant="136724" time="2013-06-14 15:45:20 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="131015" time="2013-06-14 19:58:53 UTC">
+      <body>I should be OK.  other building. That place is definitely on fire though.</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-06-14 20:11:14 UTC">
+      <body>Turns out I followed my GPS to the wrong building like a dummy. That was actually one Bala. I got out of there in the nick of time. Shits getting crazy over here. There's police mobilzing everywhere. Like a mad scramble. Glad I dipped out.</body>
+    </message>
+  </messages>
+</conversation>

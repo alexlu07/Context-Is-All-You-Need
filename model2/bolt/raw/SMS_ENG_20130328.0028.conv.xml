@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-28 21:57:10 UTC">
+      <body>Elise and I are getting dinner at 6 if you'd like to join! :)</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-03-28 22:12:54 UTC">
+      <body>Are you still there? thesis is running late, i'm going to head there soon though!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-28 22:13:47 UTC">
+      <body>We are about to head there now!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-28 22:22:37 UTC">
+      <body>We are at the back table behind the stage</body>
+    </message>
+    <message id="m0004" participant="135274" time="2013-03-28 22:24:28 UTC">
+      <body>Neat, where ya sitting?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-28 22:31:01 UTC">
+      <body>We are at the back table behind the stage</body>
+    </message>
+  </messages>
+</conversation>

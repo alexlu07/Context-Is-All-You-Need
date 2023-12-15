@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140621.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-21 02:20:40 UTC" participant="152417">
+      <body>Whats the difference between a chick pea and a garbanzo bean?</body>
+    </message>
+    <message id="m0001" time="2014-06-21 02:20:48 UTC" participant="152424">
+      <body>do tell </body>
+    </message>
+    <message id="m0002" time="2014-06-21 02:20:48 UTC" participant="152424">
+      <body>gahhh</body>
+    </message>
+    <message id="m0003" time="2014-06-21 02:21:45 UTC" participant="152417">
+      <body>Nobody pays a garbanzo to bean on their face!</body>
+    </message>
+    <message id="m0004" time="2014-06-22 02:11:07 UTC" participant="152417">
+      <body>Whats better than roses on my piano?</body>
+    </message>
+    <message id="m0005" time="2014-06-22 02:11:49 UTC" participant="152424">
+      <body>tell tell</body>
+    </message>
+  </messages>
+</conversation>
+

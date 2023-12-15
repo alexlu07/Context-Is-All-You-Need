@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130917.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-17 12:30:21 UTC" participant="153973">
+      <body>On campus for an appt should be done by 11. Want to grab coffee quick?</body>
+    </message>
+    <message id="m0001" time="2013-09-17 12:42:23 UTC" participant="152374">
+      <body>Gah ! Would love to but have ### appt at ######### at 10! If I'm somehow back on time then definitely yes.</body>
+    </message>
+    <message id="m0002" time="2013-09-17 12:43:38 UTC" participant="153973">
+      <body>Okk!</body>
+    </message>
+    <message id="m0003" time="2013-09-17 14:09:07 UTC" participant="152374">
+      <body>Appointment was over super quick! I'm on my way back. Coffee where/when?</body>
+    </message>
+    <message id="m0004" time="2013-09-17 14:12:31 UTC" participant="153973">
+      <body>I'm at ##### still. At least another 30 minutes. Let ya know</body>
+    </message>
+    <message id="m0005" time="2013-09-17 14:12:45 UTC" participant="152374">
+      <body>K!</body>
+    </message>
+    <message id="m0006" time="2013-09-17 15:06:11 UTC" participant="153973">
+      <body>Just done. I'm headed to #### so coffee in your building or I have a Starbucks gc</body>
+    </message>
+    <message id="m0007" time="2013-09-17 15:07:10 UTC" participant="152374">
+      <body>There's nothing right in my building but there's a Starbucks in ########## on the corner of #### and ######, if that works. By the ###### statue</body>
+    </message>
+    <message id="m0008" time="2013-09-17 15:08:05 UTC" participant="153973">
+      <body>Sure!</body>
+    </message>
+    <message id="m0009" time="2013-09-17 15:08:33 UTC" participant="152374">
+      <body>K, I'll head over now!</body>
+    </message>
+    <message id="m0010" time="2013-09-17 15:09:12 UTC" participant="153973">
+      <body>Be there in a few</body>
+    </message>
+    <message id="m0011" time="2013-09-17 15:17:45 UTC" participant="152374">
+      <body>Oh ffs, the Starbucks is closed this week. Where are you? I can meet you elsewhere</body>
+    </message>
+    <message id="m0012" time="2013-09-17 15:19:36 UTC" participant="153973">
+      <body>I'm at #### and ###### corner</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140506.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-06 23:11:24 UTC" participant="152417">
+      <body>Where yat?  We're upstairs today, elevator down the hall from flynnspace entrance</body>
+    </message>
+    <message id="m0001" time="2014-05-06 23:12:31 UTC" participant="152636">
+      <body>Just parked; be there in 5!</body>
+    </message>
+    <message id="m0002" time="2014-05-07 00:27:52 UTC" participant="152636">
+      <body>Hey! Locked outside!</body>
+    </message>
+  </messages>
+</conversation>
+

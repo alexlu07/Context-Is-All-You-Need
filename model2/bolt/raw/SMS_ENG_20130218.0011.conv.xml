@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131355" time="2013-02-18 22:32:30 UTC">
+      <body>Hey just got home. What r u up to?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-18 22:57:19 UTC">
+      <body>hey hey, doodlebug...
+i'm compiling to-do lists, taking care of some bills and paperwork.
+
+what are you upto?</body>
+    </message>
+    <message id="m0002" participant="131355" time="2013-02-18 22:59:50 UTC">
+      <body>Haha cool. Just chillin. U want to hang later?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-18 23:03:49 UTC">
+      <body>yeah, probably.
+let's talk in a little while.</body>
+    </message>
+    <message id="m0004" participant="131355" time="2013-02-18 23:04:32 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

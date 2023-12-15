@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 22:36:24 UTC" participant="153848">
+      <body>Uncle Rico </body>
+    </message>
+    <message id="m0001" time="2015-01-27 03:09:52 UTC" participant="153870">
+      <body>What. </body>
+    </message>
+    <message id="m0002" time="2015-01-27 03:29:04 UTC" participant="153870">
+      <body>￼</body>
+    </message>
+    <message id="m0003" time="2015-01-27 03:35:57 UTC" participant="153848">
+      <body>Meh hehehe</body>
+    </message>
+  </messages>
+</conversation>
+

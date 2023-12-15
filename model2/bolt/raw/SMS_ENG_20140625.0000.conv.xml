@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140625.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-25 19:48:26 UTC" participant="152115">
+      <body>Are we really all paying to not go? Do you want to go?</body>
+    </message>
+    <message id="m0001" time="2014-06-26 18:36:32 UTC" participant="152116">
+      <body>Do you feel like going for a walk later?</body>
+    </message>
+    <message id="m0002" time="2014-06-26 18:36:57 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-06-26 18:39:18 UTC" participant="152116">
+      <body>Okay cool</body>
+    </message>
+    <message id="m0004" time="2014-06-26 18:40:07 UTC" participant="152115">
+      <body>You're coming straight over then right?</body>
+    </message>
+    <message id="m0005" time="2014-06-26 19:36:31 UTC" participant="152116">
+      <body>Yeah to get you</body>
+    </message>
+    <message id="m0006" time="2014-06-26 19:45:33 UTC" participant="152115">
+      <body>Ok. Haha. Get me.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131228.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-28 16:34:08 UTC" participant="149393">
+      <body>Hi######## do you use Mac or PC? Would you be interested in a one day gig (English transcription for subtitles)?</body>
+    </message>
+    <message id="m0001" time="2013-12-28 18:14:59 UTC" participant="149306">
+      <body>Hi ###### I use a Mac and yes I can do transcription for a day for you.
+</body>
+    </message>
+    <message id="m0002" time="2013-12-28 19:46:00 UTC" participant="149393">
+      <body>Thanks. I'll email you all the info tonight.</body>
+    </message>
+    <message id="m0003" time="2013-12-28 20:50:35 UTC" participant="149306">
+      <body>Ok great, </body>
+    </message>
+    <message id="m0004" time="2013-12-29 00:52:43 UTC" participant="149393">
+      <body>I sent you an email with the info. Take a look at it and let me know if you can get in contact with Jacob. You can call him at any time, he's expecting your call. Thank you very much. </body>
+    </message>
+    <message id="m0005" time="2013-12-29 00:55:46 UTC" participant="149306">
+      <body>Great, I won't be able to get to it tonight but will contact him tomorrow. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

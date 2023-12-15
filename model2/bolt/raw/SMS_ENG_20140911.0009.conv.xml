@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140911.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-11 01:39:45 UTC" participant="152374">
+      <body>I am a dork. :) </body>
+    </message>
+    <message id="m0001" time="2014-09-11 01:40:48 UTC" participant="153549">
+      <body>Well then I guess I am too. :)</body>
+    </message>
+    <message id="m0002" time="2014-09-11 22:22:52 UTC" participant="153549">
+      <body>Wear are ewe ?</body>
+    </message>
+    <message id="m0003" time="2014-09-11 22:23:21 UTC" participant="153549">
+      <body>Oh I see you guys</body>
+    </message>
+    <message id="m0004" time="2014-09-11 22:27:25 UTC" participant="153549">
+      <body>Ok I'm dum I lost you again</body>
+    </message>
+    <message id="m0005" time="2014-09-11 22:27:57 UTC" participant="152374">
+      <body>Some of us are towards the back. I'm leaving shortly </body>
+    </message>
+    <message id="m0006" time="2014-09-11 22:35:28 UTC" participant="153549">
+      <body>Ok. I'm at the circle.</body>
+    </message>
+    <message id="m0007" time="2014-09-11 22:36:03 UTC" participant="152374">
+      <body>She's on the north side of it </body>
+    </message>
+    <message id="m0008" time="2014-09-11 22:38:00 UTC" participant="152374">
+      <body>You found her? I need to get going </body>
+    </message>
+    <message id="m0009" time="2014-09-11 22:38:13 UTC" participant="153549">
+      <body>I did thanks.</body>
+    </message>
+    <message id="m0010" time="2014-09-11 22:56:15 UTC" participant="152374">
+      <body>Thanks again for setting up! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-01-25 17:44:02 UTC">
+      <body>Hey abbe! How late do you think you'll be staying at cal today?</body>
+    </message>
+    <message id="m0001" participant="131456" time="2013-01-25 18:44:00 UTC">
+      <body>Just got here, and I'm not quite sure-I want to aim for 3:30 maybe</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-01-25 18:45:45 UTC">
+      <body>Okay, I actually have since roped Dan into picking me up once we're back :-) have a great weekend and tryouts!</body>
+    </message>
+    <message id="m0003" participant="131456" time="2013-01-25 21:12:00 UTC">
+      <body>Good for you, cause I'm still here! See you Wednesday!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 02:45:55 UTC" participant="152417">
+      <body>I'm already too tired to drive I'm going to camp in my car I'll see you tomorrow</body>
+    </message>
+    <message id="m0001" time="2014-11-07 02:47:07 UTC" participant="152419">
+      <body>Oh no! Sleep tight gabaloo, we will see you in the morn!</body>
+    </message>
+    <message id="m0002" time="2014-11-07 02:50:55 UTC" participant="152417">
+      <body>But ive got a mini van so i can lay down! Woot</body>
+    </message>
+  </messages>
+</conversation>
+

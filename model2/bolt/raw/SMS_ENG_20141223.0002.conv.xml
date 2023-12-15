@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141223.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-23 03:07:38 UTC" participant="152417">
+      <body>Sorry, i was at the moovies w jess, i'll call you in a bit</body>
+    </message>
+    <message id="m0001" time="2014-12-24 01:42:03 UTC" participant="152560">
+      <body>I want the express right?</body>
+    </message>
+    <message id="m0002" time="2014-12-24 01:42:38 UTC" participant="152417">
+      <body>No, local</body>
+    </message>
+    <message id="m0003" time="2014-12-24 01:43:22 UTC" participant="152560">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

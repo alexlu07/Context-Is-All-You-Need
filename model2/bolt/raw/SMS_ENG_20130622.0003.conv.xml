@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130622.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-22 12:42:39 UTC">
+      <body>Hello gubyop! I'm about to go to the visionary arts museum in Baltimore! What are you doing?!</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-06-22 12:44:41 UTC">
+      <body>I am building a gate for a friend.</body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-06-22 15:39:19 UTC">
+      <body>Decorative/functional or purely functional? Many cool pieces of metalwork here.</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-06-22 23:29:05 UTC">
+      <body>Functional. Redwood gate to enclose a dog run on the side yard.</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-06-22 23:35:53 UTC">
+      <body>How was the art show?</body>
+    </message>
+  </messages>
+</conversation>

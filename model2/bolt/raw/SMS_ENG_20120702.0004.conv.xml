@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120702.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0002" participant="130755" time="2012-07-02 23:31:02 UTC">
+      <body>Hi Jill, I sent you an email. I'll wait until you respond to send anything to izzy. Thanks!</body>
+    </message>
+    <message id="m0003" participant="130914" time="2012-07-03 00:02:51 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

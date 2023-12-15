@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150423.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-23 15:21:53 UTC" participant="153804">
+      <body>R U planning to go to Christian's graduation?</body>
+    </message>
+    <message id="m0001" time="2015-04-23 23:12:39 UTC" participant="153817">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2015-04-24 14:04:43 UTC" participant="153817">
+      <body>I will he in NYC the weekend before just too much travel.</body>
+    </message>
+    <message id="m0003" time="2015-04-24 14:07:51 UTC" participant="153804">
+      <body>Are you going for work or doctors visit</body>
+    </message>
+  </messages>
+</conversation>
+

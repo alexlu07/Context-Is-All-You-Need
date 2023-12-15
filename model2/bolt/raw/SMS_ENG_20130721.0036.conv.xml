@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130721.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137433" time="2013-07-21 21:16:35 UTC">
+      <body>How are u?</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-07-21 21:44:37 UTC">
+      <body>Hangin in there. U?</body>
+    </message>
+    <message id="m0002" participant="137433" time="2013-07-21 21:46:08 UTC">
+      <body>Me to ,luv u!</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-07-21 21:46:38 UTC">
+      <body>Love u, too</body>
+    </message>
+  </messages>
+</conversation>

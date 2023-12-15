@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140531.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-31 03:32:04 UTC" participant="152417">
+      <body>Beautiful, beautiful, beautiful!</body>
+    </message>
+    <message id="m0001" time="2014-05-31 03:35:28 UTC" participant="152560">
+      <body>The show was good? Awesome! </body>
+    </message>
+    <message id="m0002" time="2014-05-31 17:20:59 UTC" participant="152560">
+      <body>Did you make it to CT? </body>
+    </message>
+    <message id="m0003" time="2014-05-31 17:35:27 UTC" participant="152417">
+      <body>Yep, we're on our way to the wedding</body>
+    </message>
+    <message id="m0004" time="2014-05-31 17:42:24 UTC" participant="152560">
+      <body>Cool. Are you staying down there tonight? </body>
+    </message>
+    <message id="m0005" time="2014-05-31 18:07:19 UTC" participant="152417">
+      <body>Nope, ill be back late</body>
+    </message>
+    <message id="m0006" time="2014-05-31 18:08:00 UTC" participant="152560">
+      <body>Ok, see you late tonight. Have fun making beautiful music today! </body>
+    </message>
+  </messages>
+</conversation>
+

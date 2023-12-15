@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120914.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-14 04:38:10 UTC">
+      <body>I'm gonna just stay in my room and probably go to bed. Text me if you need anything.</body>
+    </message>
+    <message id="m0001" participant="136276" time="2012-09-14 23:04:32 UTC">
+      <body>Lauren wants to know If you want the really big box</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-14 23:05:33 UTC">
+      <body>Yeahhh leave it outside my door please?</body>
+    </message>
+  </messages>
+</conversation>

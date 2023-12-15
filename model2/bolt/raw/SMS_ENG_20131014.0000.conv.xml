@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131014.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-14 20:55:50 UTC" participant="152490">
+      <body>Can we meet in Weehawken on Friday?</body>
+    </message>
+    <message id="m0001" time="2013-10-14 20:57:48 UTC" participant="152417">
+      <body>Sure. it looks like i will be there around 330 or 4</body>
+    </message>
+    <message id="m0002" time="2013-10-14 20:58:20 UTC" participant="152490">
+      <body>That's great - thank you!
+</body>
+    </message>
+  </messages>
+</conversation>
+

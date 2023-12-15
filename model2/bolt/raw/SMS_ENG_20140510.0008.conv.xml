@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140510.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-10 14:58:07 UTC" participant="153645">
+      <body>Wanna meet up Tuesday night at the studio? </body>
+    </message>
+    <message id="m0001" time="2014-05-10 19:35:27 UTC" participant="153548">
+      <body>Hey! I'm shooting in bucks county all day, probably not home til late. Could we maybe plan for next Saturday?</body>
+    </message>
+    <message id="m0002" time="2014-05-10 19:38:19 UTC" participant="153645">
+      <body>Can't Saturday - let me figure out another day </body>
+    </message>
+    <message id="m0003" time="2014-05-10 19:39:18 UTC" participant="153548">
+      <body>Sounds
+Good</body>
+    </message>
+  </messages>
+</conversation>
+

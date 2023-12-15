@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120927.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-27 23:36:39 UTC" participant="152417">
+      <body>Yep yep</body>
+    </message>
+    <message id="m0001" time="2012-09-28 00:10:38 UTC" participant="152431">
+      <body>You work weekdays?</body>
+    </message>
+    <message id="m0002" time="2012-09-28 00:11:20 UTC" participant="152417">
+      <body>Si </body>
+    </message>
+    <message id="m0003" time="2012-09-28 00:13:44 UTC" participant="152431">
+      <body>Well, lets do an evening, then. how late can you go on week eves?</body>
+    </message>
+    <message id="m0004" time="2012-09-28 00:14:42 UTC" participant="152417">
+      <body>1130</body>
+    </message>
+    <message id="m0005" time="2012-09-28 00:15:33 UTC" participant="152431">
+      <body>Cool, ok, lets be in touch on monday? you are away this weekend?</body>
+    </message>
+  </messages>
+</conversation>
+

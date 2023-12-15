@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0025" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131711" time="2013-06-05 23:21:29 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131889" time="2013-06-05 23:35:47 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="131711" time="2013-06-06 07:50:28 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="131889" time="2013-06-06 11:19:58 UTC">
+      <body>Good. Busy with summer classes, but other than that good. You?</body>
+    </message>
+    <message id="m0004" participant="131711" time="2013-06-06 11:54:03 UTC">
+      <body>Doing good, I have an interview with a theme park in 3 hours so I'm pretty amped.</body>
+    </message>
+    <message id="m0005" participant="131889" time="2013-06-06 12:01:45 UTC">
+      <body>That's awesome! Which one?</body>
+    </message>
+    <message id="m0006" participant="131711" time="2013-06-06 12:02:37 UTC">
+      <body>It's called adventure land</body>
+    </message>
+    <message id="m0007" participant="131889" time="2013-06-06 12:08:39 UTC">
+      <body>Well, if you get the job, it sounds like it'll be fun</body>
+    </message>
+    <message id="m0008" participant="131711" time="2013-06-06 12:09:46 UTC">
+      <body>Yea totally I'm looking forward to it c:</body>
+    </message>
+    <message id="m0009" participant="131889" time="2013-06-06 12:11:46 UTC">
+      <body>Well, good luck!</body>
+    </message>
+    <message id="m0010" participant="131711" time="2013-06-06 12:12:24 UTC">
+      <body>Thank you c:</body>
+    </message>
+    <message id="m0011" participant="131889" time="2013-06-06 12:17:55 UTC">
+      <body>You're welcome! At least your day sounds more exciting. I just get to go to a Spanish class and a biology class</body>
+    </message>
+    <message id="m0012" participant="131711" time="2013-06-06 12:28:15 UTC">
+      <body>Aw well at least you're doing something!</body>
+    </message>
+    <message id="m0013" participant="131889" time="2013-06-06 12:30:50 UTC">
+      <body>True. At least I only have a year left of undergrad classes</body>
+    </message>
+    <message id="m0014" participant="131711" time="2013-06-06 12:38:37 UTC">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0015" participant="131889" time="2013-06-06 12:41:10 UTC">
+      <body>Yeah. I just wish I could have a summer off from taking classes</body>
+    </message>
+    <message id="m0016" participant="131711" time="2013-06-06 12:52:38 UTC">
+      <body>I know that feeling :c</body>
+    </message>
+    <message id="m0017" participant="131889" time="2013-06-06 12:54:17 UTC">
+      <body>Well, at least this will be the last summer of classes</body>
+    </message>
+    <message id="m0018" participant="131711" time="2013-06-06 13:45:00 UTC">
+      <body>Yeah positive thinking lol</body>
+    </message>
+  </messages>
+</conversation>

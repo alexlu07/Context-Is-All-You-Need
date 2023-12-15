@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131403" time="2013-04-10 23:53:18 UTC">
+      <body>Hi grace</body>
+    </message>
+    <message id="m0001" participant="131406" time="2013-04-10 23:56:55 UTC">
+      <body>Hello mom</body>
+    </message>
+    <message id="m0002" participant="131403" time="2013-04-10 23:57:48 UTC">
+      <body>❤</body>
+    </message>
+    <message id="m0003" participant="131406" time="2013-04-10 23:57:52 UTC">
+      <body>Sorry I don't have the icons</body>
+    </message>
+    <message id="m0004" participant="131403" time="2013-04-11 00:01:47 UTC">
+      <body>I'll download it when j get home </body>
+    </message>
+  </messages>
+</conversation>

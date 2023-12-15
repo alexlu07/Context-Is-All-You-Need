@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140318.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-18 21:29:58 UTC" participant="153491">
+      <body>How's it going with Katch?</body>
+    </message>
+    <message id="m0001" time="2014-03-18 21:31:41 UTC" participant="152116">
+      <body>We wound up not meeting</body>
+    </message>
+    <message id="m0002" time="2014-03-18 22:37:23 UTC" participant="153491">
+      <body>How come?</body>
+    </message>
+  </messages>
+</conversation>
+

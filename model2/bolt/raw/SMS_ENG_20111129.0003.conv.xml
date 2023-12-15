@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111129.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-11-29 03:47:06 UTC">
+      <body>Should the shop lights be on or off? The lady wants to know</body>
+    </message>
+    <message id="m0001" participant="131313" time="2011-11-29 03:50:53 UTC">
+      <body>Off please</body>
+    </message>
+    <message id="m0002" participant="131313" time="2011-11-29 03:51:46 UTC">
+      <body>And to be clear and open communication - planning to go 1hr late (includes wrap out) and order quality pizza.  Please pass the word to tyler.</body>
+    </message>
+    <message id="m0003" participant="131313" time="2011-11-29 17:41:23 UTC">
+      <body>Your time to shine</body>
+    </message>
+    <message id="m0004" participant="130692" time="2011-11-29 17:42:15 UTC">
+      <body>10 min away</body>
+    </message>
+    <message id="m0005" participant="131313" time="2011-11-29 17:42:42 UTC">
+      <body>Copy</body>
+    </message>
+    <message id="m0006" participant="130692" time="2011-11-29 17:45:40 UTC">
+      <body>Tinsel can come off if you are waiting for me</body>
+    </message>
+    <message id="m0007" participant="131313" time="2011-11-29 17:47:03 UTC">
+      <body>Copy </body>
+    </message>
+  </messages>
+</conversation>

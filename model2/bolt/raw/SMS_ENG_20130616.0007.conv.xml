@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131346" time="2013-06-16 10:58:52 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0001" participant="130994" time="2013-06-16 10:59:46 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131346" time="2013-06-16 11:00:40 UTC">
+      <body>How are you??</body>
+    </message>
+    <message id="m0003" participant="130994" time="2013-06-16 11:27:04 UTC">
+      <body>I'm great. How r you?</body>
+    </message>
+    <message id="m0004" participant="131346" time="2013-06-16 11:28:00 UTC">
+      <body>I'm well.</body>
+    </message>
+    <message id="m0005" participant="131346" time="2013-06-16 11:28:29 UTC">
+      <body>Seems like a hot day today</body>
+    </message>
+    <message id="m0006" participant="130994" time="2013-06-16 17:32:17 UTC">
+      <body>Not on cape cod</body>
+    </message>
+    <message id="m0007" participant="131346" time="2013-06-16 17:36:29 UTC">
+      <body>Oh lucky</body>
+    </message>
+    <message id="m0008" participant="130994" time="2013-06-16 17:38:46 UTC">
+      <body>It was gorgeous yesterday - a little rainy today</body>
+    </message>
+    <message id="m0009" participant="131346" time="2013-06-16 17:40:42 UTC">
+      <body>Yes it was</body>
+    </message>
+    <message id="m0010" participant="130994" time="2013-06-16 17:46:49 UTC">
+      <body>Where r u?</body>
+    </message>
+    <message id="m0012" participant="131346" time="2013-06-16 17:47:55 UTC">
+      <body>Philadelphia</body>
+    </message>
+    <message id="m0013" participant="130994" time="2013-06-16 17:49:01 UTC">
+      <body>Are u having a hot summer so far?</body>
+    </message>
+    <message id="m0014" participant="131346" time="2013-06-16 17:49:50 UTC">
+      <body>Not as hot as usual. I been loving the past few days</body>
+    </message>
+    <message id="m0015" participant="130994" time="2013-06-16 17:54:39 UTC">
+      <body>Yeah Philly summers can be brutal</body>
+    </message>
+    <message id="m0016" participant="131346" time="2013-06-16 18:04:33 UTC">
+      <body>As long as we dont get another hurricane, i'm good lol</body>
+    </message>
+  </messages>
+</conversation>

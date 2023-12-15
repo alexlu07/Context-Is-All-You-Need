@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-11-14 17:31:57 UTC">
+      <body>Any time to talk tonight?0</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-14 19:07:13 UTC">
+      <body>I should be free around 8!</body>
+    </message>
+  </messages>
+</conversation>

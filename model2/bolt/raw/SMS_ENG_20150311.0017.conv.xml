@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150311.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-11 11:31:39 UTC" participant="153416">
+      <body>On my way</body>
+    </message>
+    <message id="m0001" time="2015-03-11 11:31:57 UTC" participant="153412">
+      <body>Okie dokie</body>
+    </message>
+    <message id="m0002" time="2015-03-11 21:07:14 UTC" participant="153416">
+      <body>Hey I need to stop by the book store before we go if that's okay</body>
+    </message>
+    <message id="m0003" time="2015-03-11 21:09:34 UTC" participant="153412">
+      <body>Okay. Are you still there?</body>
+    </message>
+    <message id="m0004" time="2015-03-11 21:09:57 UTC" participant="153416">
+      <body>Walking there now</body>
+    </message>
+  </messages>
+</conversation>
+

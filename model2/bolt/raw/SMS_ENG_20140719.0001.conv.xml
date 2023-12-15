@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140719.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-19 13:33:59 UTC" participant="152560">
+      <body>Sorry I woke up a bit late-I don't think I will make it down in time for breakfast. See you tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-07-19 13:38:36 UTC" participant="152417">
+      <body>We're gonna be leaving at 10, you could still come if you want.  Otherwise ill see you tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-07-19 13:39:12 UTC" participant="152560">
+      <body>Ok, see you tomorrow. </body>
+    </message>
+    <message id="m0003" time="2014-07-19 20:45:49 UTC" participant="152560">
+      <body>I might get out early if it's slow. </body>
+    </message>
+    <message id="m0004" time="2014-07-19 20:45:52 UTC" participant="152560">
+      <body>We can go for a late night stroll or something...</body>
+    </message>
+    <message id="m0005" time="2014-07-19 20:46:36 UTC" participant="152417">
+      <body>Sweet, let me know</body>
+    </message>
+    <message id="m0006" time="2014-07-20 01:42:24 UTC" participant="152560">
+      <body>Almost done. Should I meet you at home?</body>
+    </message>
+    <message id="m0007" time="2014-07-20 01:46:40 UTC" participant="152560">
+      <body>Yes!</body>
+    </message>
+    <message id="m0008" time="2014-07-20 01:47:08 UTC" participant="152417">
+      <body>Wanna go to the drive-in?  </body>
+    </message>
+    <message id="m0009" time="2014-07-20 01:47:58 UTC" participant="152417">
+      <body>Cool, ill come get you</body>
+    </message>
+    <message id="m0010" time="2014-07-20 02:01:02 UTC" participant="152560">
+      <body>Yay!</body>
+    </message>
+  </messages>
+</conversation>
+

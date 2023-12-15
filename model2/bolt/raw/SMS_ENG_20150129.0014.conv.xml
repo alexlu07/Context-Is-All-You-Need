@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150129.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-29 10:57:04 UTC" participant="153420">
+      <body>Do you want a bagel?</body>
+    </message>
+    <message id="m0001" time="2015-01-29 14:57:31 UTC" participant="153420">
+      <body>Come back. We have 2 patients</body>
+    </message>
+    <message id="m0002" time="2015-01-29 15:00:09 UTC" participant="153417">
+      <body>Okay coming</body>
+    </message>
+    <message id="m0003" time="2015-01-29 15:00:16 UTC" participant="153420">
+      <body>lol</body>
+    </message>
+  </messages>
+</conversation>
+

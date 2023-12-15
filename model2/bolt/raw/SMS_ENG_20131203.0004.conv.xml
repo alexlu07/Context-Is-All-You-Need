@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131203.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-03 17:31:44 UTC" participant="152535">
+      <body>How do these times sound? Wed. 5:15-8:45 and Friday 5:30-whenever
+Let us know!</body>
+    </message>
+    <message id="m0001" time="2013-12-03 21:45:36 UTC" participant="152535">
+      <body>Cool we'll start at 6. Gabi can come at 5:30 to set up. Be well!</body>
+    </message>
+    <message id="m0002" time="2013-12-04 16:14:54 UTC" participant="152417">
+      <body>I got Ria a zygopetalum</body>
+    </message>
+    <message id="m0003" time="2013-12-04 16:17:04 UTC" participant="152535">
+      <body>Perfect! I want to see it</body>
+    </message>
+    <message id="m0004" time="2013-12-04 16:24:45 UTC" participant="152417">
+      <body>It was the prettiest and smelliest</body>
+    </message>
+  </messages>
+</conversation>
+

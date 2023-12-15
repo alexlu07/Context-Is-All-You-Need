@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120101.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131407" time="2012-01-01 17:26:33 UTC">
+      <body>Hey I wasnt sure how long the current litter box has been out but its pretty gross. Would you like me to go ahead and just put a new one down? </body>
+    </message>
+    <message id="m0001" participant="131403" time="2012-01-01 17:44:18 UTC">
+      <body>Just leave it, Jim can  change it and take it to his work dumpster tomorrow </body>
+    </message>
+    <message id="m0002" participant="131407" time="2012-01-01 17:51:20 UTC">
+      <body>Okay sounds good :-) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131126.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-26 01:13:56 UTC" participant="153491">
+      <body>Let me guess, at work?</body>
+    </message>
+    <message id="m0001" time="2013-11-26 01:15:16 UTC" participant="152116">
+      <body>Yes. Let me guess. Starbucks?</body>
+    </message>
+    <message id="m0002" time="2013-11-26 01:16:19 UTC" participant="153491">
+      <body>Well I'm planning to meet up with Victor, just letting you know.</body>
+    </message>
+    <message id="m0003" time="2013-11-26 01:16:26 UTC" participant="153491">
+      <body>And you guessed correctly.</body>
+    </message>
+    <message id="m0004" time="2013-11-26 01:17:57 UTC" participant="152116">
+      <body>And let me guess, you knew this earlier, but you're telling me around 8:15 again, even though you know I always make plans and somebody gets to me by that time</body>
+    </message>
+    <message id="m0005" time="2013-11-26 01:18:37 UTC" participant="153491">
+      <body>Nope, we haven't even set a time yet</body>
+    </message>
+    <message id="m0006" time="2013-11-26 01:19:01 UTC" participant="153491">
+      <body>I'm thinking ahead so I won't be getting up you too late.</body>
+    </message>
+    <message id="m0007" time="2013-11-26 01:19:11 UTC" participant="153491">
+      <body>So ha!</body>
+    </message>
+    <message id="m0008" time="2013-11-26 01:19:21 UTC" participant="153491">
+      <body>You're welcome hahah!</body>
+    </message>
+    <message id="m0009" time="2013-11-26 01:51:43 UTC" participant="153491">
+      <body>Let me guess, you had prior arrangements?</body>
+    </message>
+    <message id="m0010" time="2013-11-26 01:52:56 UTC" participant="152116">
+      <body>I did. Somebody usually hits me up during the day.</body>
+    </message>
+    <message id="m0011" time="2013-11-26 01:53:45 UTC" participant="153491">
+      <body>Hahahah I thought you were already "hit up".</body>
+    </message>
+    <message id="m0012" time="2013-11-26 01:55:16 UTC" participant="152116">
+      <body>I was already hit up</body>
+    </message>
+    <message id="m0013" time="2013-11-26 01:57:15 UTC" participant="153491">
+      <body>Yea, I got it.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120521.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-05-21 21:59:48 UTC">
+      <body>Hey daddy, have a safe trip! I love you! Email me when you're safe!</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-05-21 22:13:20 UTC">
+      <body>Love you, Sarichka!!! Thank you!</body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-05-21 22:17:36 UTC">
+      <body>￼Someone wants to go to Europe here:)</body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-05-21 22:28:16 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-05-21 22:34:40 UTC">
+      <body>The Birdy says 'bye bye':)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120512.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136208" time="2012-05-12 22:48:22 UTC">
+      <body>Hey, are we still hanging out tonight?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-12 22:52:38 UTC">
+      <body>Yeah sure if you want to</body>
+    </message>
+    <message id="m0002" participant="136208" time="2012-05-12 23:05:12 UTC">
+      <body>Of course homeboy. When and what are we eating because im starving</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-12 23:06:25 UTC">
+      <body>Hmmmm idk. We can't hang out till after the show so it will be in the late nights. Like probably 10 or 11. I have money but not a lot</body>
+    </message>
+    <message id="m0004" participant="136208" time="2012-05-12 23:07:20 UTC">
+      <body>Aw lame. What show?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-05-12 23:07:42 UTC">
+      <body>I knows. We are seeing neon Indian at terminal 5</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-05-13 02:37:16 UTC">
+      <body>Hey the main act is just starting now so we will probably be really late. We are still down to hang out if you are able to</body>
+    </message>
+    <message id="m0007" participant="136208" time="2012-05-13 02:38:07 UTC">
+      <body>Wow i dont know, depends. Let me know when youre out</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-05-13 02:38:27 UTC">
+      <body>Ok. Sorry about the timing :(</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-05-13 04:09:15 UTC">
+      <body>We are out now!</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-05-13 15:17:27 UTC">
+      <body>Abner wants to get lunch with you today</body>
+    </message>
+    <message id="m0011" participant="136208" time="2012-05-13 16:50:20 UTC">
+      <body>Hey! I called youu</body>
+    </message>
+  </messages>
+</conversation>

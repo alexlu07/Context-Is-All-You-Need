@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135286" time="2013-06-16 20:39:23 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-16 20:39:55 UTC">
+      <body>Har har :D</body>
+    </message>
+    <message id="m0002" participant="135286" time="2013-06-16 20:47:36 UTC">
+      <body>Thanks for putting that in my head.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-16 20:48:03 UTC">
+      <body>No problem :P</body>
+    </message>
+  </messages>
+</conversation>

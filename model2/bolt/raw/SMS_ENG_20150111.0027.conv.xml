@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150111.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-11 17:11:55 UTC" participant="153848">
+      <body>Hey Matt we are gonna leave to go see the Eagles and hike hike around 3 just So ya know mmkay? </body>
+    </message>
+    <message id="m0001" time="2015-01-11 17:12:36 UTC" participant="153857">
+      <body>Ok is brynn going</body>
+    </message>
+    <message id="m0002" time="2015-01-11 17:17:03 UTC" participant="153848">
+      <body>Um yeah I think so. </body>
+    </message>
+    <message id="m0003" time="2015-01-11 17:17:34 UTC" participant="153857">
+      <body>Oooooooooooooooook</body>
+    </message>
+    <message id="m0004" time="2015-01-11 17:18:12 UTC" participant="153857">
+      <body>So you are leaving at 3 or coming home at 3</body>
+    </message>
+    <message id="m0005" time="2015-01-11 17:18:42 UTC" participant="153848">
+      <body>Uh leavin at three </body>
+    </message>
+    <message id="m0006" time="2015-01-11 17:19:06 UTC" participant="153857">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

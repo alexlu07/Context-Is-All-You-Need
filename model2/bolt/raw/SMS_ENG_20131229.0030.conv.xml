@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 04:12:48 UTC" participant="154390">
+      <body>Do you have a scanner at your house?</body>
+    </message>
+    <message id="m0001" time="2013-12-29 04:35:38 UTC" participant="154390">
+      <body>This one doesn't work here and library isn't open tomorrow am. We're trying to make a holiday photo book</body>
+    </message>
+    <message id="m0002" time="2013-12-29 04:37:10 UTC" participant="154352">
+      <body>https://play.google.com/store/apps/details?id=com.trans_code.android.droidscanlite</body>
+    </message>
+    <message id="m0003" time="2013-12-29 18:23:29 UTC" participant="154390">
+      <body>We're in pier 1</body>
+    </message>
+  </messages>
+</conversation>
+

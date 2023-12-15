@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120212.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131828" time="2012-02-12 00:55:28 UTC">
+      <body>Can you forward me the email from the apple store from when we got my phone case over break?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-02-12 02:05:27 UTC">
+      <body>Sent :-D</body>
+    </message>
+    <message id="m0002" participant="131828" time="2012-02-12 02:05:52 UTC">
+      <body>Awesome thanks!</body>
+    </message>
+  </messages>
+</conversation>

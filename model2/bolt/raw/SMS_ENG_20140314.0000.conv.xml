@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-03-14 15:12:38 UTC" participant="149306">
+      <body>Hi! Good to hear from you and that ur doing well. I'm on my way back from ny to see the Whitney biannual. We'll have to catch up once u get settled. Get ready for spring!</body>
+    </message>
+    <message id="m0002" time="2014-03-14 15:15:12 UTC" participant="149387">
+      <body>Oh, nice. I'd like to see that show. Heard on the radio that your former Prof has work in there. Sorry to hear about his passing. Yes, let's connect soon. I'm very ready for Spring!!!</body>
+    </message>
+    <message id="m0003" time="2014-03-14 15:31:36 UTC" participant="149306">
+      <body>Woah, it was on the radio? Weird</body>
+    </message>
+    <message id="m0004" time="2014-03-14 15:34:24 UTC" participant="149387">
+      <body>Yeah, there was something about the Whitney Biennial on WHYY. One of the curators is from U Penn. They spoke about Terry Adkins and his piece. Why it was chosen, etc...</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120510.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-05-10 23:07:10 UTC">
+      <body>You going to still be on the tv show the 20th and 21st?</body>
+    </message>
+    <message id="m0001" participant="131328" time="2012-05-11 00:34:57 UTC">
+      <body>Not sure, they keep picking me up for two weeks at a time, this particular stint ends next Friday </body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-05-11 00:36:01 UTC">
+      <body>Ok. Lemmie know as soon as you can cus I got work for you in Philly if your available</body>
+    </message>
+    <message id="m0003" participant="131328" time="2012-05-11 00:36:16 UTC">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>

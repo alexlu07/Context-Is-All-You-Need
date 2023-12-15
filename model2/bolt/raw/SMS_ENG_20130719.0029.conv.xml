@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137408" time="2013-07-19 22:02:50 UTC">
+      <body>Can I come by tomorrow around 1ish to take a look at your apartment?</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-07-20 00:24:32 UTC">
+      <body>Woops! I work at 130 tomorrow... can you make it earlier?  Or tonight?</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-07-20 15:07:38 UTC">
+      <body>Hey did u get my texts? You can come earlier today. I have work at 130</body>
+    </message>
+    <message id="m0004" participant="137408" time="2013-07-20 15:17:20 UTC">
+      <body>I can do earlier. I can just go in at 1:30 with you. What time works?</body>
+    </message>
+    <message id="m0005" participant="131838" time="2013-07-20 15:18:57 UTC">
+      <body>Cool! anytime between now and 1230</body>
+    </message>
+    <message id="m0006" participant="137408" time="2013-07-20 15:19:30 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" participant="137408" time="2013-07-20 16:32:11 UTC">
+      <body>On may way now, is that cool?</body>
+    </message>
+    <message id="m0008" participant="131838" time="2013-07-20 16:33:39 UTC">
+      <body>Yep </body>
+    </message>
+  </messages>
+</conversation>

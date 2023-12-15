@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-25 22:54:25 UTC" participant="153547">
+      <body>Hey Shawn I'm sorry I didn't get back to you. I've been in a tortured mood and a little sick. I'm going to try to rearrange my perspective and get to work but I've been feeling paralyzed about a lot of things. Just let me know when you want to come over and I won't ignore your message this time</body>
+    </message>
+    <message id="m0001" time="2014-10-25 22:57:05 UTC" participant="149373">
+      <body>No problem. I'm petty much free now or tomorrow sometime works</body>
+    </message>
+    <message id="m0002" time="2014-10-25 22:58:11 UTC" participant="153547">
+      <body>Ok let's do tomorrow so I can bubble wrap your piece and have it ready</body>
+    </message>
+    <message id="m0003" time="2014-10-25 23:01:42 UTC" participant="149373">
+      <body>Great</body>
+    </message>
+    <message id="m0004" time="2014-10-26 20:16:20 UTC" participant="149373">
+      <body>Hey are you free?</body>
+    </message>
+    <message id="m0005" time="2014-10-26 20:32:01 UTC" participant="153547">
+      <body>I'm at home</body>
+    </message>
+    <message id="m0006" time="2014-10-26 20:35:08 UTC" participant="149373">
+      <body>Cool. I'm come by soon</body>
+    </message>
+  </messages>
+</conversation>
+

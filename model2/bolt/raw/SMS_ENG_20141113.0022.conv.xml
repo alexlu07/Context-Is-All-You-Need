@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 18:35:06 UTC" participant="153547">
+      <body>I can do tomorrow instead of Saturday if you want to</body>
+    </message>
+    <message id="m0001" time="2014-11-13 18:35:36 UTC" participant="149372">
+      <body>That'd be cool. Get started at 8?</body>
+    </message>
+    <message id="m0002" time="2014-11-13 19:14:44 UTC" participant="153547">
+      <body>Ok. What the adress</body>
+    </message>
+    <message id="m0004" time="2014-11-13 19:16:45 UTC" participant="149372">
+      <body>We just gotta set these windows real plumb and seal them up. One will need the sill planed a little and one needs some exterior trim messed with. If we get done early and you want more hours we can set some joists too but it's up to you. </body>
+    </message>
+    <message id="m0005" time="2014-11-13 19:19:13 UTC" participant="149372">
+      <body>What is your rate these days?</body>
+    </message>
+    <message id="m0006" time="2014-11-13 19:49:30 UTC" participant="153547">
+      <body>$25</body>
+    </message>
+    <message id="m0008" time="2014-11-13 20:18:38 UTC" participant="149372">
+      <body>No. It's gotta be power planer, which I have. I guess plan on 4 or 5 hrs tomorrow. </body>
+    </message>
+    <message id="m0009" time="2014-11-13 20:19:10 UTC" participant="153547">
+      <body> Ok</body>
+    </message>
+    <message id="m0010" time="2014-11-13 23:02:28 UTC" participant="153547">
+      <body>I'll bring my hand and cordless tools and level. Anything else I need to bring?</body>
+    </message>
+    <message id="m0011" time="2014-11-14 00:00:00 UTC" participant="149372">
+      <body>No that's good. </body>
+    </message>
+    <message id="m0012" time="2014-11-14 12:41:23 UTC" participant="149372">
+      <body>If you're planning to drive just meet me at my place. Parking sucks by the shop. </body>
+    </message>
+  </messages>
+</conversation>
+

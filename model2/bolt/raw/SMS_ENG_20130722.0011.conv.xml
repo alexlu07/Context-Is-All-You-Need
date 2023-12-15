@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-22 13:41:21 UTC">
+      <body>Helle pepper501</body>
+    </message>
+    <message id="m0001" participant="136017" time="2013-07-22 13:42:54 UTC">
+      <body>Hi how are you?</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-07-22 13:43:49 UTC">
+      <body>Doing great. How about you?</body>
+    </message>
+    <message id="m0003" participant="136017" time="2013-07-22 17:28:25 UTC">
+      <body>I'm crazy tired. Just woke up from a nap, but thinking about going back to sleep.</body>
+    </message>
+  </messages>
+</conversation>

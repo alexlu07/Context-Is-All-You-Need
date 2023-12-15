@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131355" time="2013-02-02 01:34:20 UTC">
+      <body>Save the date little budy! matt and sis on the 10th and matts homie on the 11th shazam!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-02 21:01:15 UTC">
+      <body>what is that?</body>
+    </message>
+    <message id="m0006" participant="131355" time="2013-02-02 21:11:12 UTC">
+      <body>Haha animal cracker</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-02-02 23:18:49 UTC">
+      <body>hey. sorry i missed your call.</body>
+    </message>
+    <message id="m0009" participant="131355" time="2013-02-02 23:22:06 UTC">
+      <body>Np just seeing if u are in 4 sunday</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-02-02 23:23:28 UTC">
+      <body>sunday?</body>
+    </message>
+    <message id="m0011" participant="131355" time="2013-02-02 23:24:43 UTC">
+      <body>Super bowl</body>
+    </message>
+    <message id="m0012" participant="131350" time="2013-02-02 23:42:10 UTC">
+      <body>oh yeah...forgot.</body>
+    </message>
+  </messages>
+</conversation>

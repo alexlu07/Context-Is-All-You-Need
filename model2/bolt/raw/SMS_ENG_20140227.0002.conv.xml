@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140227.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-27 22:41:07 UTC" participant="153491">
+      <body>I just did a 9- hour shift.</body>
+    </message>
+    <message id="m0001" time="2014-02-27 22:42:07 UTC" participant="152116">
+      <body>That sucks. I just got home. Today was exhausting. I'm gonna take a nap</body>
+    </message>
+    <message id="m0002" time="2014-02-28 00:46:39 UTC" participant="153491">
+      <body>Wow, that's surprising. Makes sense though, you got around today. Um can you give me a call when you get up, I want to discuss next weekend since I want to let John know ahead of time.</body>
+    </message>
+  </messages>
+</conversation>
+

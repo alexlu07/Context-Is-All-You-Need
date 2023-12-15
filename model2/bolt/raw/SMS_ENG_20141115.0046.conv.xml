@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141115.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-15 16:20:23 UTC" participant="152123">
+      <body>Hey. Plans tonight?</body>
+    </message>
+    <message id="m0001" time="2014-11-15 16:40:23 UTC" participant="153244">
+      <body>No. Probably sleep after work since u didn't sleep last night. And Steph is going to see the baby after work.  Other than that,  no plans</body>
+    </message>
+    <message id="m0002" time="2014-11-15 17:18:21 UTC" participant="152123">
+      <body>Oh that's cool. If you feel like doing anything later I guess, lemme know? But probably not right?</body>
+    </message>
+    <message id="m0003" time="2014-11-15 17:37:21 UTC" participant="153244">
+      <body>Ill probably hit you up but if im not feeling up for anything ill let you know as well</body>
+    </message>
+    <message id="m0004" time="2014-11-15 17:42:10 UTC" participant="152123">
+      <body>Cool thanks</body>
+    </message>
+    <message id="m0005" time="2014-11-16 02:16:37 UTC" participant="153244">
+      <body>Hey sorry its late but did you still want to do something if you didn't already make other plans? </body>
+    </message>
+    <message id="m0006" time="2014-11-16 02:19:05 UTC" participant="152123">
+      <body>Hey. Sorry, would you mind cancelling?</body>
+    </message>
+    <message id="m0007" time="2014-11-16 02:19:58 UTC" participant="153244">
+      <body>Nope, doesn't matter to me</body>
+    </message>
+    <message id="m0008" time="2014-11-16 02:26:14 UTC" participant="152123">
+      <body>Yea let's raincheck? Lol</body>
+    </message>
+    <message id="m0009" time="2014-11-16 02:26:18 UTC" participant="152123">
+      <body>Thanks sorry</body>
+    </message>
+    <message id="m0010" time="2014-11-16 02:26:47 UTC" participant="153244">
+      <body>Yea sure</body>
+    </message>
+  </messages>
+</conversation>
+

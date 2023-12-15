@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2013-01-04 02:45:27 UTC">
+      <body>Hey nina! any chance u want to watch this is 40? Its playing tonight at 10:15!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-01-04 13:14:13 UTC">
+      <body>Thanks for the invite but I went to bed at 9 and have to work today!</body>
+    </message>
+    <message id="m0002" participant="131032" time="2013-01-04 15:16:33 UTC">
+      <body>Aww right yea thought I would give it a shot</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-21 02:29:54 UTC">
+      <body>When you get home can you pick me up from media? </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-06-21 02:30:14 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-06-21 02:30:23 UTC">
+      <body>Where</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-21 02:30:41 UTC">
+      <body>At dan's house. Quaint road. </body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-06-21 02:31:11 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-06-21 02:33:58 UTC">
+      <body>How long will it take you? Where are you now? </body>
+    </message>
+    <message id="m0006" participant="137257" time="2013-06-21 02:34:42 UTC">
+      <body>I'm walking will get home in 30 min</body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-06-21 03:03:28 UTC">
+      <body>Almost home</body>
+    </message>
+    <message id="m0008" participant="137257" time="2013-06-21 16:21:20 UTC">
+      <body>Where are you</body>
+    </message>
+  </messages>
+</conversation>

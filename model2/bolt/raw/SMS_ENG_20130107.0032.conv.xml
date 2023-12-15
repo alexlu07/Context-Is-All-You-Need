@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130107.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-07 23:19:02 UTC" participant="152417">
+      <body>Hey will you be home around 11 tomorrow? UPS will be back with my package then</body>
+    </message>
+    <message id="m0001" time="2013-01-08 17:33:12 UTC" participant="152545">
+      <body>Here</body>
+    </message>
+    <message id="m0002" time="2013-01-08 17:33:28 UTC" participant="152545">
+      <body>Your package is </body>
+    </message>
+    <message id="m0003" time="2013-01-08 17:34:28 UTC" participant="152417">
+      <body>Awesome! Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

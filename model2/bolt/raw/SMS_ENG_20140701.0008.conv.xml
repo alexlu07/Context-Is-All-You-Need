@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140701.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-01 21:39:12 UTC" participant="153557">
+      <body>Did you cool the lentils?</body>
+    </message>
+    <message id="m0001" time="2014-07-01 21:39:12 UTC" participant="153557">
+      <body>Cook</body>
+    </message>
+    <message id="m0002" time="2014-07-01 21:40:33 UTC" participant="153557">
+      <body>Coooookkkkk</body>
+    </message>
+    <message id="m0003" time="2014-07-01 21:40:56 UTC" participant="153547">
+      <body>Nope</body>
+    </message>
+  </messages>
+</conversation>
+

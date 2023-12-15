@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-10 22:30:52 UTC" participant="152417">
+      <body>Hey colin, do you want a ride over to st mikes?</body>
+    </message>
+    <message id="m0001" time="2012-11-10 22:38:00 UTC" participant="152427">
+      <body>That would be great, what time are you planning to roll out?</body>
+    </message>
+    <message id="m0002" time="2012-11-10 22:42:02 UTC" participant="152417">
+      <body>615, so weve got a little time to eat and check out the scene</body>
+    </message>
+    <message id="m0003" time="2012-11-10 22:44:59 UTC" participant="152427">
+      <body>Cool you mind swinging on by my apt. then or should we meet at your place??</body>
+    </message>
+    <message id="m0004" time="2012-11-10 22:54:31 UTC" participant="152417">
+      <body>Ill come grab you</body>
+    </message>
+  </messages>
+</conversation>
+

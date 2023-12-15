@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121018.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135437" time="2012-10-18 16:01:06 UTC">
+      <body>Emailed you the mit course list</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-18 16:01:39 UTC">
+      <body>Cool thanks</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-18 21:05:03 UTC">
+      <body>Getty</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-18 21:05:05 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0004" participant="135437" time="2012-10-18 21:05:35 UTC">
+      <body>Sorry, in pozen, installation ceremony, nearly over, wait 15 min</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-18 21:05:49 UTC">
+      <body>Ok I'm on 3rd floor</body>
+    </message>
+    <message id="m0006" participant="135437" time="2012-10-18 21:06:42 UTC">
+      <body>Comin in 10 min</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-10-18 21:12:59 UTC">
+      <body>Should I come down or will u meet me</body>
+    </message>
+    <message id="m0008" participant="135437" time="2012-10-18 21:14:06 UTC">
+      <body>Cominup where r u</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-10-18 21:14:15 UTC">
+      <body>DMI place</body>
+    </message>
+  </messages>
+</conversation>

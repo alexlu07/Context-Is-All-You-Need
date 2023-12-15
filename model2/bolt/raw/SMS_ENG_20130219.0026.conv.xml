@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135429" time="2013-02-19 22:00:32 UTC">
+      <body>Going to the graduate screenings tonight?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-19 22:01:36 UTC">
+      <body>I actually have class.  Poo poo</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-19 22:01:57 UTC">
+      <body>I replied before I realized what I was doing on the Facebook even</body>
+    </message>
+    <message id="m0003" participant="135429" time="2013-02-19 22:21:52 UTC">
+      <body>Bah, sad ;( nice to see you this morning!</body>
+    </message>
+  </messages>
+</conversation>

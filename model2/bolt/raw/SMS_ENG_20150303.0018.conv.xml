@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 19:05:36 UTC" participant="153423">
+      <body>What the census like</body>
+    </message>
+    <message id="m0001" time="2015-03-03 19:06:06 UTC" participant="153417">
+      <body>No idea. I'm home sick lol</body>
+    </message>
+    <message id="m0002" time="2015-03-03 19:06:34 UTC" participant="153423">
+      <body>Ohh when did it start?</body>
+    </message>
+    <message id="m0003" time="2015-03-03 19:06:57 UTC" participant="153417">
+      <body>Sunday.. It's awful</body>
+    </message>
+    <message id="m0004" time="2015-03-04 03:21:43 UTC" participant="153423">
+      <body>Feel better crystal</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121203.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-12-03 00:31:56 UTC">
+      <body>Soon my</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-12-03 00:32:02 UTC">
+      <body>Whoops</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-12-03 00:32:37 UTC">
+      <body>Love you!</body>
+    </message>
+    <message id="m0003" participant="131028" time="2012-12-03 00:33:55 UTC">
+      <body>Love you too! Tell me how tomorrow goes!!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-12-03 00:35:02 UTC">
+      <body>I will! Thank you! And gurrrl, we gotta talk soon.</body>
+    </message>
+    <message id="m0005" participant="131028" time="2012-12-03 00:37:04 UTC">
+      <body>Yes yes next weekend??</body>
+    </message>
+    <message id="m0006" participant="130712" time="2012-12-03 00:51:36 UTC">
+      <body>Yes! Mornings/early afternoons are typically good for me!</body>
+    </message>
+    <message id="m0007" participant="131028" time="2012-12-03 02:02:01 UTC">
+      <body>Perfect! We can fig out the plan later in the week</body>
+    </message>
+  </messages>
+</conversation>

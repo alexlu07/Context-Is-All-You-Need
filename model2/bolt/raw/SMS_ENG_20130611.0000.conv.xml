@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131812" time="2013-06-10 14:43:47 UTC">
+      <body>Hey sj, how are u on this rainy day?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-11 11:27:59 UTC">
+      <body>Hey sorry for the delay. Yesterday sucked. Stayed home and did work all day. U?</body>
+    </message>
+    <message id="m0002" participant="131812" time="2013-06-11 11:29:56 UTC">
+      <body>I think the rain does it to us sometimes.</body>
+    </message>
+    <message id="m0003" participant="131812" time="2013-06-11 11:30:32 UTC">
+      <body>I'm new to this text survey</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-11 12:08:07 UTC">
+      <body>I'm not new but i barely do it lol</body>
+    </message>
+  </messages>
+</conversation>

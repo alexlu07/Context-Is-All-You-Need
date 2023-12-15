@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-11 18:43:39 UTC" participant="152417">
+      <body>Dylan at 317 is locked out again, he's really sorry could you come by?</body>
+    </message>
+    <message id="m0001" time="2013-06-11 18:47:03 UTC" participant="152524">
+      <body>I won't be back in town for at least an hour.</body>
+    </message>
+    <message id="m0002" time="2013-06-11 20:09:12 UTC" participant="152524">
+      <body>Do you know if Dylan still needs the key?</body>
+    </message>
+    <message id="m0003" time="2013-06-11 20:15:29 UTC" participant="152417">
+      <body>I think his roomies got back</body>
+    </message>
+    <message id="m0004" time="2013-06-11 20:18:00 UTC" participant="152524">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

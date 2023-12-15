@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131366" time="2013-05-08 02:46:19 UTC">
+      <body>I've got a 9 am appt in WEHO back by 11:30 will be @home.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-08 03:14:58 UTC">
+      <body>I can come by early afternoon...3ish. Is that cool?</body>
+    </message>
+    <message id="m0003" participant="131366" time="2013-05-08 03:15:40 UTC">
+      <body>Sure.  No problem.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-08 21:03:31 UTC">
+      <body>Hey. I'm running early. Is 2:15-2:30 good?</body>
+    </message>
+    <message id="m0005" participant="131366" time="2013-05-08 21:04:08 UTC">
+      <body>Sure.</body>
+    </message>
+    <message id="m0006" participant="131366" time="2013-05-08 21:04:21 UTC">
+      <body>Just call me I'll come downstairs</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-05-08 21:04:41 UTC">
+      <body>Cool. thanks!</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-05-08 21:25:35 UTC">
+      <body>Here.</body>
+    </message>
+    <message id="m0009" participant="131366" time="2013-05-08 21:26:00 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0081" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-05 18:56:49 UTC" participant="152417">
+      <body>Need/want anything from the grocery store?</body>
+    </message>
+    <message id="m0001" time="2013-06-05 21:05:37 UTC" participant="152560">
+      <body>Nope-thanks for asking! :)</body>
+    </message>
+    <message id="m0002" time="2013-06-05 21:33:41 UTC" participant="152417">
+      <body>What time do you get home tonight? Imma make a feast</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140120.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-20 16:10:32 UTC" participant="149393">
+      <body>Hi ####### I'd like to talk with you about the subtitles (money will be ready this week). Let me know if I can call you sometime soon.</body>
+    </message>
+    <message id="m0001" time="2014-01-20 16:12:17 UTC" participant="149306">
+      <body>Yes sure. I will be working from home today so call me whenever you are free.</body>
+    </message>
+    <message id="m0002" time="2014-01-20 16:15:37 UTC" participant="149393">
+      <body>Thanks. I will call you in few min. I'm working too!</body>
+    </message>
+    <message id="m0003" time="2014-01-20 16:15:55 UTC" participant="149306">
+      <body>Ok great</body>
+    </message>
+  </messages>
+</conversation>
+

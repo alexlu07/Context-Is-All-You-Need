@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131805" time="2013-06-12 10:17:26 UTC">
+      <body>Hello Alex! I doubt you are from my school though.</body>
+    </message>
+    <message id="m0001" participant="130699" time="2013-06-12 10:21:54 UTC">
+      <body>Hello! What's your school?</body>
+    </message>
+    <message id="m0002" participant="131805" time="2013-06-12 10:23:35 UTC">
+      <body>OHS to be relatively non specific.</body>
+    </message>
+    <message id="m0003" participant="130699" time="2013-06-12 10:25:39 UTC">
+      <body>Your doubts are correct - ohs is not a school I attended.</body>
+    </message>
+    <message id="m0004" participant="131805" time="2013-06-12 10:26:11 UTC">
+      <body>I won't be attending college next year, though. Where do you go?</body>
+    </message>
+    <message id="m0005" participant="130699" time="2013-06-12 10:29:32 UTC">
+      <body>Nice, what are you doing instead? I graduated from penn in 2010. I currently work in boston</body>
+    </message>
+  </messages>
+</conversation>

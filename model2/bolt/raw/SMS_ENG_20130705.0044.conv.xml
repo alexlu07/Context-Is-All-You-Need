@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137349" time="2013-07-05 12:20:14 UTC">
+      <body>Would the boys be able to do some yard work this afternoon?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-07-05 13:41:45 UTC">
+      <body> I just got up !!!! The meds make me feel very Yucky in the mornings... I will talk to them in a few minutes and get back to you ASAP. As far as I know at least one of them is available.  </body>
+    </message>
+    <message id="m0002" participant="137349" time="2013-07-05 13:44:12 UTC">
+      <body>Ok let me know. Thanks! How are you?</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-07-05 13:49:10 UTC">
+      <body>What time? I am up and down. </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-07-05 13:54:41 UTC">
+      <body>Shenandoah is ready to come soon. </body>
+    </message>
+    <message id="m0005" participant="137349" time="2013-07-05 13:59:09 UTC">
+      <body>I am not at home. I can go home but have to go to pt at noon. Call me, ok?</body>
+    </message>
+    <message id="m0006" participant="137349" time="2013-07-05 17:32:26 UTC">
+      <body>Did shenandoa get home ok? I just got home.</body>
+    </message>
+  </messages>
+</conversation>

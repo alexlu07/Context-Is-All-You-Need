@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150111.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-11 16:24:37 UTC" participant="152123">
+      <body>Hey, can you meet today?</body>
+    </message>
+    <message id="m0001" time="2015-01-11 17:43:40 UTC" participant="153244">
+      <body>Yea not til later this afternoon though</body>
+    </message>
+    <message id="m0002" time="2015-01-11 17:44:32 UTC" participant="152123">
+      <body>K, I'm with Michael and Eden now, hit me up when you can</body>
+    </message>
+    <message id="m0003" time="2015-01-11 17:45:00 UTC" participant="153244">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

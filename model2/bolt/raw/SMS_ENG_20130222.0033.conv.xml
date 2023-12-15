@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-22 17:19:18 UTC">
+      <body>Hi! Can I still borrow your red scarf for vag mons?</body>
+    </message>
+    <message id="m0001" participant="135269" time="2013-02-22 17:20:00 UTC">
+      <body>Of course</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-22 17:24:13 UTC">
+      <body>Sweet thanks :) the first show is tomorrow night so whenever you are downcampus :)</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-02-22 17:24:43 UTC">
+      <body>It's in the common room.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-22 17:25:36 UTC">
+      <body>Thank you! :D</body>
+    </message>
+    <message id="m0005" participant="135269" time="2013-02-22 22:04:55 UTC">
+      <body>Dinner five forty five? Hm is in.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-02-22 22:05:11 UTC">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134320" time="2013-04-23 21:52:30 UTC">
+      <body>I'm in your homeland this week- this city is awesome</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-04-23 22:19:06 UTC">
+      <body>Where are you staying </body>
+    </message>
+    <message id="m0002" participant="134320" time="2013-04-23 22:22:20 UTC">
+      <body>The warwick hotel- 4th and lenora</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140415.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-15 20:28:48 UTC" participant="153576">
+      <body>Hey! Want to pick up camera tonight?</body>
+    </message>
+    <message id="m0001" time="2014-04-15 20:32:48 UTC" participant="153548">
+      <body>Hi! Are you home in about an hour? </body>
+    </message>
+    <message id="m0002" time="2014-04-15 20:39:53 UTC" participant="153548">
+      <body>Or I could do anytime Thursday before 5</body>
+    </message>
+    <message id="m0003" time="2014-04-15 20:40:00 UTC" participant="153548">
+      <body>Of that's better</body>
+    </message>
+    <message id="m0004" time="2014-04-15 21:41:42 UTC" participant="153576">
+      <body>No I'm home for hours!! Renovating! Come by</body>
+    </message>
+    <message id="m0005" time="2014-04-15 21:41:51 UTC" participant="153576">
+      <body>Thursday is super long day at school</body>
+    </message>
+    <message id="m0006" time="2014-04-15 22:18:28 UTC" participant="153548">
+      <body>Okay gonna swing by with H! Be there in a few!</body>
+    </message>
+    <message id="m0007" time="2014-04-15 22:32:32 UTC" participant="153576">
+      <body>
+Sweeeeet</body>
+    </message>
+  </messages>
+</conversation>
+

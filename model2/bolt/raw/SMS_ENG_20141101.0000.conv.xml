@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 15:32:16 UTC" participant="152424">
+      <body>great party!  glad I could make it</body>
+    </message>
+    <message id="m0001" time="2014-11-01 18:25:21 UTC" participant="152417">
+      <body>Thanks! I'm glad you could make it too</body>
+    </message>
+    <message id="m0002" time="2014-11-02 00:29:14 UTC" participant="152417">
+      <body>Is this coming week an everyday week?  I made another batch of chicken soup if you'd like some</body>
+    </message>
+    <message id="m0003" time="2014-11-02 00:30:36 UTC" participant="152424">
+      <body>yes it is.  I. still have a frozen one but okay!  enjoy jukebox</body>
+    </message>
+    <message id="m0004" time="2014-11-02 00:31:28 UTC" participant="152417">
+      <body>Thanks! Eat your lettuce and enjoy it too</body>
+    </message>
+  </messages>
+</conversation>
+

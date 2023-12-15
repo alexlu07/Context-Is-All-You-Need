@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110823.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2011-08-23 19:27:36 UTC">
+      <body>Try to load up dads ipod for him when you're home. He loves his podcasts.</body>
+    </message>
+    <message id="m0001" participant="135131" time="2011-08-24 00:12:06 UTC">
+      <body>Any news?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-24 00:13:21 UTC">
+      <body>He's more relaxed here, ct scan is normal so probably bacterial, the pain meds are helping, nana and papa are here. Theyre keeping him overnight </body>
+    </message>
+    <message id="m0003" participant="135131" time="2011-08-24 00:14:35 UTC">
+      <body>Do you think I should come up?</body>
+    </message>
+    <message id="m0004" participant="135131" time="2011-08-24 00:17:08 UTC">
+      <body>Even just the weekend?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-24 00:43:37 UTC">
+      <body>I think its ok for now, wait until you hear news tomorrow</body>
+    </message>
+  </messages>
+</conversation>

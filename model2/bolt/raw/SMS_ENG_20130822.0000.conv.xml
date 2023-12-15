@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130822.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-22 23:09:30 UTC" participant="152426">
+      <body>How was orientation today? And news?</body>
+    </message>
+    <message id="m0001" time="2013-08-22 23:14:06 UTC" participant="152417">
+      <body>No news, orientation was great, the school is super rad</body>
+    </message>
+    <message id="m0002" time="2013-08-22 23:16:09 UTC" participant="152426">
+      <body>So glad you like it!</body>
+    </message>
+    <message id="m0003" time="2013-08-22 23:51:47 UTC" participant="152417">
+      <body>Is it vitamin D-3 in supposed to take?</body>
+    </message>
+    <message id="m0004" time="2013-08-23 01:56:10 UTC" participant="152426">
+      <body>Yes.</body>
+    </message>
+    <message id="m0005" time="2013-08-23 16:49:16 UTC" participant="152426">
+      <body>Do you think you will be here for dinner?</body>
+    </message>
+    <message id="m0006" time="2013-08-23 17:03:56 UTC" participant="152417">
+      <body>Probly bout 8</body>
+    </message>
+    <message id="m0007" time="2013-08-23 17:05:50 UTC" participant="152426">
+      <body>We'll save dinner for you if we start earlier</body>
+    </message>
+    <message id="m0008" time="2013-08-23 17:12:42 UTC" participant="152417">
+      <body>Thanx</body>
+    </message>
+  </messages>
+</conversation>
+

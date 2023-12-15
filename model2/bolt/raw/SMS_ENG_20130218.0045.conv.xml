@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-18 12:02:53 UTC" participant="152417">
+      <body>Need a ride this morning birthday girl?</body>
+    </message>
+    <message id="m0001" time="2013-02-18 12:11:45 UTC" participant="152555">
+      <body>Yes! That would be great! 745? Thank you!</body>
+    </message>
+    <message id="m0002" time="2013-02-18 12:12:06 UTC" participant="152417">
+      <body>Yep, see you then</body>
+    </message>
+    <message id="m0003" time="2013-02-18 12:45:37 UTC" participant="152417">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

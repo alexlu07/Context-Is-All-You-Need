@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 14:16:50 UTC" participant="152121">
+      <body>http://abcnews.go.com/US/wireStory/year-accidentally-kills-mother-wal-mart-27918926</body>
+    </message>
+    <message id="m0001" time="2015-01-01 14:17:20 UTC" participant="152121">
+      <body>This is why you shouldn't get carry a gun any where other than your body</body>
+    </message>
+    <message id="m0002" time="2015-01-01 14:37:31 UTC" participant="152115">
+      <body>And Happy New Year to you too.</body>
+    </message>
+    <message id="m0003" time="2015-01-01 15:07:33 UTC" participant="152121">
+      <body>Happy new year!</body>
+    </message>
+  </messages>
+</conversation>
+

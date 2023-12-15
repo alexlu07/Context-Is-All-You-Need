@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-28 17:35:36 UTC" participant="152417">
+      <body>Why cant you trust atoms?</body>
+    </message>
+    <message id="m0001" time="2012-12-28 17:37:13 UTC" participant="152523">
+      <body>How come, </body>
+    </message>
+    <message id="m0002" time="2012-12-28 17:39:44 UTC" participant="152417">
+      <body>They make up everything</body>
+    </message>
+    <message id="m0003" time="2012-12-28 17:51:15 UTC" participant="152523">
+      <body>Yay! </body>
+    </message>
+  </messages>
+</conversation>
+

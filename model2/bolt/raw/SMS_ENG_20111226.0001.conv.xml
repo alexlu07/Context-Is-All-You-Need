@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111226.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130884" time="2011-12-26 22:30:20 UTC">
+      <body>Heading back today :(</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-12-26 22:58:16 UTC">
+      <body>Aw. Sorry to miss ya!</body>
+    </message>
+  </messages>
+</conversation>

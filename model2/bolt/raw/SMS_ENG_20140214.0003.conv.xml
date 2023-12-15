@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140214.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-14 23:28:41 UTC" participant="152417">
+      <body>Im home</body>
+    </message>
+    <message id="m0001" time="2014-02-15 14:25:47 UTC" participant="152560">
+      <body>All the best for your audition. I know you will be great! :)</body>
+    </message>
+    <message id="m0002" time="2014-02-15 17:49:42 UTC" participant="152560">
+      <body>How did it go?...</body>
+    </message>
+  </messages>
+</conversation>
+

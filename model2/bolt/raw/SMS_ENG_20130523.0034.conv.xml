@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0034" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131022" time="2013-05-23 12:29:41 UTC">
+      <body>Ooh hello! You're my first ever assigned chat. :)</body>
+    </message>
+    <message id="m0001" participant="131200" time="2013-05-23 18:56:46 UTC">
+      <body>Same! Nice to meet you in the most abstracted way possible!</body>
+    </message>
+    <message id="m0002" participant="131022" time="2013-05-23 18:58:06 UTC">
+      <body>So, what's your life story?</body>
+    </message>
+    <message id="m0003" participant="131200" time="2013-05-23 19:03:46 UTC">
+      <body>Im a dude who always tinkered around in creative stuff and likes spwewing rhetoric. What about you?</body>
+    </message>
+    <message id="m0004" participant="131022" time="2013-05-23 20:17:31 UTC">
+      <body>I'm a girl who's a linguistics grad student and likes the classic hit tv show survivor!</body>
+    </message>
+    <message id="m0005" participant="131022" time="2013-05-24 05:23:05 UTC">
+      <body>Not a survivor fan, I understand.</body>
+    </message>
+  </messages>
+</conversation>

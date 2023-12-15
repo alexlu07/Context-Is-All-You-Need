@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 15:56:01 UTC" participant="153804">
+      <body>Did you go on the walk??</body>
+    </message>
+    <message id="m0001" time="2014-09-20 16:04:41 UTC" participant="153807">
+      <body>No. At the mall</body>
+    </message>
+    <message id="m0002" time="2014-09-20 16:05:13 UTC" participant="153804">
+      <body>At forever 21</body>
+    </message>
+  </messages>
+</conversation>
+

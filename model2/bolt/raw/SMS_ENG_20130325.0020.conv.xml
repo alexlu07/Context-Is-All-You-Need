@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-03-25 11:55:45 UTC">
+      <body>Sounds good! Of course they only cancel when there's no real weather...</body>
+    </message>
+    <message id="m0001" participant="131463" time="2013-03-26 11:38:22 UTC">
+      <body>Dude I found a ride to work.. I would love a ride home this evening though </body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-03-26 11:52:11 UTC">
+      <body>Okay good to know! And yep I can bring you home after work!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-03-26 23:22:07 UTC">
+      <body>Hey dude, so...I decided I can't handle staying up late tonight, and we sold our tix. Sorryyyyyyyy!</body>
+    </message>
+  </messages>
+</conversation>

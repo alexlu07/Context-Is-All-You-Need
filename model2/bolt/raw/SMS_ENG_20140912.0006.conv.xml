@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140912.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-12 17:44:53 UTC" participant="152759">
+      <body>Any new bites last night? </body>
+    </message>
+    <message id="m0001" time="2014-09-12 17:45:19 UTC" participant="152735">
+      <body>Nope!</body>
+    </message>
+    <message id="m0002" time="2014-09-12 17:45:30 UTC" participant="152735">
+      <body>Feeling *optimistic*</body>
+    </message>
+    <message id="m0003" time="2014-09-12 17:48:03 UTC" participant="152759">
+      <body>:-)</body>
+    </message>
+    <message id="m0004" time="2014-09-12 17:49:06 UTC" participant="152735">
+      <body>￼Here are some celebratory puppy waddles </body>
+    </message>
+    <message id="m0005" time="2014-09-12 17:49:50 UTC" participant="152759">
+      <body>They look happy!</body>
+    </message>
+    <message id="m0006" time="2014-09-13 13:33:43 UTC" participant="152759">
+      <body>Any new bites last night? </body>
+    </message>
+  </messages>
+</conversation>
+

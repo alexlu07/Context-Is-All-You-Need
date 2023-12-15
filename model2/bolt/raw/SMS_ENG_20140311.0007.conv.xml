@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140311.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-11 13:42:40 UTC" participant="153548">
+      <body>You going to the lab on Sunday?? Wanna ride bikes there???</body>
+    </message>
+    <message id="m0001" time="2014-03-11 13:45:36 UTC" participant="153640">
+      <body>Sure! I'm meeting Marc there too. And DVW is going. I RSVPed. What time should we leave?</body>
+    </message>
+    <message id="m0002" time="2014-03-11 13:46:41 UTC" participant="153548">
+      <body>Reunion!!! I just RSVPd too. Is 9:30 too late? </body>
+    </message>
+    <message id="m0003" time="2014-03-11 13:47:17 UTC" participant="153640">
+      <body>I think we shld GET there at 9:30. You? Meet at 9:15?</body>
+    </message>
+    <message id="m0004" time="2014-03-11 13:48:28 UTC" participant="153548">
+      <body>That sounds good to me. Can't tell if it will be packed or not. Yeah! Meet you at 48th and chestnut at 9:15!</body>
+    </message>
+    <message id="m0005" time="2014-03-11 13:49:30 UTC" participant="153640">
+      <body>Cool!</body>
+    </message>
+    <message id="m0006" time="2014-03-11 13:49:44 UTC" participant="153548">
+      <body>Yay! See you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

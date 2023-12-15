@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-13 17:08:33 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130794" time="2013-07-13 19:41:01 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-07-13 19:58:33 UTC">
+      <body>Whats up? Where are you?</body>
+    </message>
+    <message id="m0003" participant="130794" time="2013-07-13 19:59:24 UTC">
+      <body>California, you?</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-07-13 21:08:03 UTC">
+      <body>I am on a trip to dc. I live in so cal.</body>
+    </message>
+    <message id="m0005" participant="130794" time="2013-07-13 22:09:41 UTC">
+      <body>DC is awesome. I've only been once but want to go back</body>
+    </message>
+    <message id="m0006" participant="131218" time="2013-07-13 23:05:17 UTC">
+      <body>What part of ca?</body>
+    </message>
+    <message id="m0007" participant="130794" time="2013-07-13 23:19:54 UTC">
+      <body>Oakland</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141017.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-17 23:06:11 UTC" participant="152117">
+      <body>Dad wants to know of your having the pasta or not. </body>
+    </message>
+    <message id="m0001" time="2014-10-18 19:04:09 UTC" participant="152115">
+      <body>Wet are</body>
+    </message>
+    <message id="m0002" time="2014-10-18 19:04:16 UTC" participant="152115">
+      <body>We are here</body>
+    </message>
+    <message id="m0003" time="2014-10-18 19:31:10 UTC" participant="152117">
+      <body>Just got your message. Have fun! Love you!</body>
+    </message>
+    <message id="m0004" time="2014-10-18 21:01:15 UTC" participant="152117">
+      <body>Just leaving fair. Be home around 7 or 7:30. Love you! Are you still at linvilla?</body>
+    </message>
+    <message id="m0005" time="2014-10-18 21:59:01 UTC" participant="152115">
+      <body>Yup</body>
+    </message>
+    <message id="m0006" time="2014-10-18 22:01:18 UTC" participant="152117">
+      <body>Your still there?</body>
+    </message>
+    <message id="m0007" time="2014-10-18 22:01:38 UTC" participant="152115">
+      <body>Yup</body>
+    </message>
+    <message id="m0008" time="2014-10-18 22:03:13 UTC" participant="152117">
+      <body>Ok. We're about a half hour from home.love you!</body>
+    </message>
+    <message id="m0009" time="2014-10-18 22:08:17 UTC" participant="152115">
+      <body>Ok.Love you.</body>
+    </message>
+    <message id="m0010" time="2014-10-18 22:15:28 UTC" participant="152117">
+      <body>With tilly being up, did u close bathroom door before leaving?</body>
+    </message>
+  </messages>
+</conversation>
+

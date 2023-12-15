@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150316.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-16 20:52:00 UTC" participant="153632">
+      <body>Just talked to mom. She was talking but said it hurts.  She said to let you know shes okay and getting better.</body>
+    </message>
+    <message id="m0001" time="2015-03-16 20:52:43 UTC" participant="153632">
+      <body>She had some ticket in mass from 2010 thats going to end up costing her like $400 after fees and all. </body>
+    </message>
+    <message id="m0002" time="2015-03-16 21:25:53 UTC" participant="153548">
+      <body>Do you have the ticket number? Can I pay it?</body>
+    </message>
+    <message id="m0003" time="2015-03-16 21:29:38 UTC" participant="153632">
+      <body>I don't know the ticket number</body>
+    </message>
+    <message id="m0004" time="2015-03-16 21:30:01 UTC" participant="153632">
+      <body>I owe my mom $200 from like a month ago I'm going to give that to her on Wednesday</body>
+    </message>
+    <message id="m0005" time="2015-03-16 21:38:33 UTC" participant="153548">
+      <body>I'll try to call her</body>
+    </message>
+    <message id="m0006" time="2015-03-16 21:38:46 UTC" participant="153548">
+      <body>I'm ieetiga til 10</body>
+    </message>
+    <message id="m0007" time="2015-03-16 21:39:13 UTC" participant="153632">
+      <body>No its fine I just talked to her don't even worry about it</body>
+    </message>
+  </messages>
+</conversation>
+

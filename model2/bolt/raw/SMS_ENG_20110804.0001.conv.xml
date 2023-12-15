@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110804.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130787" time="2011-08-04 15:39:58 UTC">
+      <body>Can you forward me James cell #?  Thanks, Greg</body>
+    </message>
+    <message id="m0001" participant="130787" time="2011-08-04 15:48:57 UTC">
+      <body>Nevermind, I got it.  Enjoy the day off!</body>
+    </message>
+    <message id="m0002" participant="130692" time="2011-08-04 15:53:20 UTC">
+      <body>Ok cool. Sorry I didnt hear your text, have a good one</body>
+    </message>
+  </messages>
+</conversation>

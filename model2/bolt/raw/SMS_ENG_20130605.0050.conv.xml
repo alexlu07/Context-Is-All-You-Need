@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135471" time="2013-06-05 22:02:20 UTC">
+      <body>Hey sofie are you able to meet up tomorrow? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-05 22:04:09 UTC">
+      <body>Sure yes what's your plan I work at massart until three</body>
+    </message>
+    <message id="m0002" participant="135471" time="2013-06-05 22:24:36 UTC">
+      <body>ok Wanna meet in the cafe around 3?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-05 22:57:55 UTC">
+      <body>Sure cool</body>
+    </message>
+    <message id="m0004" participant="135471" time="2013-06-05 23:00:47 UTC">
+      <body>Great see ya then! </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-05 23:04:25 UTC">
+      <body>Great!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-06-05 23:04:31 UTC">
+      <body>Text me when u get here</body>
+    </message>
+    <message id="m0007" participant="135471" time="2013-06-05 23:05:28 UTC">
+      <body>Sure no problem</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-06-05 23:05:48 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0009" participant="135471" time="2013-06-06 18:43:05 UTC">
+      <body>I'm at the cafe whenever you're ready :-) </body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-06-06 18:51:36 UTC">
+      <body>Great on route now</body>
+    </message>
+  </messages>
+</conversation>

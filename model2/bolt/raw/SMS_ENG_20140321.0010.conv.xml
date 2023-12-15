@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 17:58:11 UTC" participant="149373">
+      <body>R U A L I V E ?</body>
+    </message>
+    <message id="m0001" time="2014-03-21 20:45:09 UTC" participant="153547">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" time="2014-03-21 20:46:59 UTC" participant="149373">
+      <body>And how is everything?</body>
+    </message>
+    <message id="m0003" time="2014-03-21 21:17:58 UTC" participant="149373">
+      <body>Anyway, we should have dinner sometime or get Indian buffet. I'm leaving next sunday for 4 weeks for the vsc. I hope yr well.</body>
+    </message>
+    <message id="m0004" time="2014-03-21 23:15:23 UTC" participant="153547">
+      <body>Ok. I've been really busy with work.  I can maybe do dinner or lunch tomorrow, or dinner on Sunday</body>
+    </message>
+    <message id="m0005" time="2014-03-22 00:04:32 UTC" participant="149373">
+      <body>Oh. Unfortunately I've got dinner plans both nights. Lets definitely make it a point to hangout before I leave for Maine.</body>
+    </message>
+  </messages>
+</conversation>
+

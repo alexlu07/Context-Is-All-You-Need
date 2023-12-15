@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-29 19:45:17 UTC">
+      <body>Well, this is the time when I would ask you for May's rent, but since you barely used the space, it seems a little odd. Maybe you could just throw some bucks in the funtimes box anytime you use the space?</body>
+    </message>
+    <message id="m0001" participant="130918" time="2013-05-29 22:44:15 UTC">
+      <body>That would be cool. I only used it once for under an hour.. If I don't use it much over the next few weeks I can return the key or just put a lil cash in there whenever I do use it. I dot know which one is the fun times box tho</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-29 22:45:47 UTC">
+      <body>Ha, there's a red box by the couch. It's where all the tenants leave their rent</body>
+    </message>
+    <message id="m0003" participant="130918" time="2013-05-29 23:21:36 UTC">
+      <body>Oo gotcha</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150326.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-26 00:05:24 UTC" participant="152304">
+      <body>Are you going to sedar</body>
+    </message>
+    <message id="m0001" time="2015-03-26 00:19:17 UTC" participant="152212">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" time="2015-03-26 00:23:18 UTC" participant="152212">
+      <body>r u ??</body>
+    </message>
+    <message id="m0003" time="2015-03-26 03:23:53 UTC" participant="152304">
+      <body>no </body>
+    </message>
+    <message id="m0004" time="2015-03-26 11:33:23 UTC" participant="152212">
+      <body>SO SAD</body>
+    </message>
+    <message id="m0005" time="2015-03-26 12:42:23 UTC" participant="152304">
+      <body>Me too</body>
+    </message>
+  </messages>
+</conversation>
+

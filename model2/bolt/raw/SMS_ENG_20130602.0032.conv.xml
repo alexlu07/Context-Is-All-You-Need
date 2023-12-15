@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-02 22:04:49 UTC">
+      <body>Can you water our garden? Casey left a milk jug next to the hose. Long hose is broken. Thanks</body>
+    </message>
+    <message id="m0001" participant="134287" time="2013-06-03 14:22:28 UTC">
+      <body>I didn't get to water it yesterday but it rained over nite and this morning. I think it should be good. Do I need to check the mail? </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-03 16:11:53 UTC">
+      <body>Yeah it should be fine. Maybe Wednesday could you stop by to water and mail? </body>
+    </message>
+  </messages>
+</conversation>

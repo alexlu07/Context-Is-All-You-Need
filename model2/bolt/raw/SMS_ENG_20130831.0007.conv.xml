@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130831.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-31 14:46:13 UTC" participant="154352">
+      <body>Do you have any dispose soda/sports drink bottles we could bring from the car on the train and ditch before the gate?</body>
+    </message>
+    <message id="m0001" time="2013-08-31 14:46:52 UTC" participant="154392">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2013-08-31 14:46:54 UTC" participant="154352">
+      <body>We could fill them with my iced tea</body>
+    </message>
+    <message id="m0003" time="2013-08-31 14:47:03 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2013-09-01 00:35:33 UTC" participant="154392">
+      <body>Where did you go?  I'm over by the Budweiser bar near the food</body>
+    </message>
+  </messages>
+</conversation>
+

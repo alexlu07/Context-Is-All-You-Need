@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134736" time="2013-08-01 20:00:22 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="135220" time="2013-08-01 20:12:29 UTC">
+      <body>HEY what's up???</body>
+    </message>
+    <message id="m0002" participant="134736" time="2013-08-01 20:22:01 UTC">
+      <body>It's been raining all day so nothing much</body>
+    </message>
+    <message id="m0003" participant="134736" time="2013-08-01 20:22:01 UTC">
+      <body>How about you</body>
+    </message>
+    <message id="m0004" participant="135220" time="2013-08-01 21:00:02 UTC">
+      <body>Where do you live? I had two final exams today</body>
+    </message>
+    <message id="m0005" participant="134736" time="2013-08-01 22:08:32 UTC">
+      <body>Nyc! Aw that sucks! Hope you did well!</body>
+    </message>
+    <message id="m0006" participant="134736" time="2013-08-01 22:08:32 UTC">
+      <body>For summer classes?</body>
+    </message>
+    <message id="m0007" participant="135220" time="2013-08-01 22:22:12 UTC">
+      <body>Yeah summer classes unfortunately</body>
+    </message>
+  </messages>
+</conversation>

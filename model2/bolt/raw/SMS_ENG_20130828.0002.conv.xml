@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130828.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-28 18:45:43 UTC" participant="152374">
+      <body>Yo, it's ########. Now you've got my number</body>
+    </message>
+    <message id="m0001" time="2013-08-28 18:47:11 UTC" participant="152843">
+      <body>Awesome. Thanks ########. I owe you a giant hug, haha</body>
+    </message>
+    <message id="m0002" time="2013-08-28 18:48:33 UTC" participant="152374">
+      <body>Don't you threaten me</body>
+    </message>
+    <message id="m0003" time="2013-08-28 18:49:58 UTC" participant="152843">
+      <body>:) couldn't resist.</body>
+    </message>
+  </messages>
+</conversation>
+

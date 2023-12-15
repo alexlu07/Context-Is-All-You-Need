@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120502.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131329" time="2012-05-02 21:54:08 UTC">
+      <body>Real boring.</body>
+    </message>
+    <message id="m0001" participant="131329" time="2012-05-02 21:54:08 UTC">
+      <body>All of my friends sleep all day until a reasonable hour to drink beer</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-05-02 21:54:19 UTC">
+      <body>How's savannah livin?</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-05-02 21:55:04 UTC">
+      <body>Haha tell everyone I said hi</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-05-02 21:57:51 UTC">
+      <body>Haha nice. When you coming back?</body>
+    </message>
+    <message id="m0005" participant="131329" time="2012-05-02 21:58:24 UTC">
+      <body>This weekend at some point</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-05-02 21:58:29 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

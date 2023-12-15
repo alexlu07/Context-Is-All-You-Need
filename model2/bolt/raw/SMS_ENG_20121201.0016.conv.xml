@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2012-12-01 02:35:44 UTC">
+      <body>Whatcha doing tonite?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-01 02:41:54 UTC">
+      <body>Working at school;(</body>
+    </message>
+    <message id="m0002" participant="135386" time="2012-12-01 02:50:40 UTC">
+      <body>I'm working at home :(</body>
+    </message>
+    <message id="m0003" participant="135386" time="2012-12-01 02:52:48 UTC">
+      <body>Just got in from work</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-01 03:01:06 UTC">
+      <body>It's ok I
+Have to read</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-12-01 03:01:12 UTC">
+      <body>It's not social work</body>
+    </message>
+    <message id="m0006" participant="135386" time="2012-12-01 03:01:20 UTC">
+      <body>Oh yuck </body>
+    </message>
+  </messages>
+</conversation>

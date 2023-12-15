@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140305.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-05 16:55:43 UTC" participant="153418">
+      <body>I'm coming to Philly now. </body>
+    </message>
+    <message id="m0001" time="2014-03-05 16:59:05 UTC" participant="153449">
+      <body>Ok .. </body>
+    </message>
+    <message id="m0002" time="2014-03-05 16:59:54 UTC" participant="153449">
+      <body>24th and wolf street</body>
+    </message>
+    <message id="m0003" time="2014-03-05 17:02:17 UTC" participant="153418">
+      <body>It's going to take me 2 hours to get to Philly... is dad there? Should I go there instead of home? </body>
+    </message>
+    <message id="m0004" time="2014-03-06 01:29:39 UTC" participant="153449">
+      <body>Broad and reed street in south philly... Ask for victor..</body>
+    </message>
+    <message id="m0005" time="2014-03-06 16:15:18 UTC" participant="153418">
+      <body>I found the Scion's title. My mom was the only registered owner.</body>
+    </message>
+  </messages>
+</conversation>
+

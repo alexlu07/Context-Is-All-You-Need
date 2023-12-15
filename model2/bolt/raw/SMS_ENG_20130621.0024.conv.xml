@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-06-21 23:30:46 UTC">
+      <body>So Anna is breaking up with me</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-22 03:12:47 UTC">
+      <body>I'm going to bed. Ill call you at some point tomorrow?</body>
+    </message>
+    <message id="m0002" participant="135269" time="2013-06-22 03:13:53 UTC">
+      <body>Of course. Miss you, sleep well. </body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-22 22:04:54 UTC">
+      <body>Can you google chat at any point today?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-06-23 00:55:37 UTC">
+      <body>10 or 11 works. Fairleigh said 10ish too so maybe we can google chat?</body>
+    </message>
+    <message id="m0005" participant="135269" time="2013-06-23 00:56:40 UTC">
+      <body>We just put dinner in the oven. It may be a very late night.....</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-06-23 00:57:43 UTC">
+      <body>Ok. No worries!</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-06-23 03:01:09 UTC">
+      <body>I am going to bed...talk tomorrow?</body>
+    </message>
+    <message id="m0008" participant="135269" time="2013-06-23 05:14:28 UTC">
+      <body>Yes- sorry....boy staying over. </body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-06-23 19:27:15 UTC">
+      <body>Ahhhhh do tell about boy!!!</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-06-24 01:31:03 UTC">
+      <body>I'm home...chat?</body>
+    </message>
+    <message id="m0011" participant="135269" time="2013-06-24 01:31:52 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0012" participant="135269" time="2013-06-24 01:37:29 UTC">
+      <body>I'm installing the plugin</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150214.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-14 17:28:33 UTC" participant="152417">
+      <body>High st doesnt have tuna hoagies on weekends and they only have one croissant left, can u plz contact customer</body>
+    </message>
+    <message id="m0001" time="2015-02-14 17:33:09 UTC" participant="152590">
+      <body>they want to cancel it</body>
+    </message>
+    <message id="m0002" time="2015-02-14 17:34:35 UTC" participant="152590">
+      <body>can you let them know they wont answer the phone</body>
+    </message>
+    <message id="m0003" time="2015-02-14 17:34:54 UTC" participant="152417">
+      <body>Yep, just told them</body>
+    </message>
+    <message id="m0004" time="2015-02-14 17:35:30 UTC" participant="152590">
+      <body>im still going to pay you for doing it</body>
+    </message>
+    <message id="m0005" time="2015-02-14 17:36:01 UTC" participant="152417">
+      <body>Thank you</body>
+    </message>
+    <message id="m0006" time="2015-02-14 17:36:21 UTC" participant="152590">
+      <body>remind me after i get you your next order</body>
+    </message>
+    <message id="m0007" time="2015-02-14 18:08:53 UTC" participant="152417">
+      <body>Plz add the high st order to my payout, thx</body>
+    </message>
+    <message id="m0008" time="2015-02-14 18:18:08 UTC" participant="152590">
+      <body>copy thanks gabe</body>
+    </message>
+    <message id="m0009" time="2015-02-14 18:31:37 UTC" participant="152590">
+      <body>shit i accidently marked that order delivered</body>
+    </message>
+    <message id="m0010" time="2015-02-14 18:32:12 UTC" participant="152417">
+      <body>So, what do i do?</body>
+    </message>
+    <message id="m0011" time="2015-02-14 18:33:15 UTC" participant="152590">
+      <body>head to meltkraft and ask for order 49</body>
+    </message>
+    <message id="m0012" time="2015-02-14 18:33:39 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0013" time="2015-02-14 18:47:17 UTC" participant="152417">
+      <body>Whats the address that its going to?</body>
+    </message>
+    <message id="m0015" time="2015-02-15 15:07:04 UTC" participant="152590">
+      <body>Orders available for pick up in 20mins? Are you available?</body>
+    </message>
+    <message id="m0016" time="2015-02-15 15:12:41 UTC" participant="152417">
+      <body>No, sry</body>
+    </message>
+  </messages>
+</conversation>
+

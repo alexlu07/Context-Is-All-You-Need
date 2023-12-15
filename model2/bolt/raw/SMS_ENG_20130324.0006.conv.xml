@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130324.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131434" time="2013-03-24 16:17:04 UTC">
+      <body>Hi Monica, I am in Phila. Do you want to walk?</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-03-24 16:18:26 UTC">
+      <body> In in Manhattan!!!!</body>
+    </message>
+    <message id="m0002" participant="131434" time="2013-03-24 16:21:20 UTC">
+      <body>Wow!! Another time than.</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-03-24 16:22:04 UTC">
+      <body>Yes!</body>
+    </message>
+  </messages>
+</conversation>

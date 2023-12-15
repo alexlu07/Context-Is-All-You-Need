@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136133" time="2013-07-22 14:40:41 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130994" time="2013-07-22 21:41:37 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="136133" time="2013-07-23 10:58:28 UTC">
+      <body>How are you</body>
+    </message>
+    <message id="m0003" participant="130994" time="2013-07-23 11:07:40 UTC">
+      <body>Pretty good, and you?</body>
+    </message>
+    <message id="m0004" participant="136133" time="2013-07-23 11:41:31 UTC">
+      <body>That's wonderful to hear! I am good also.</body>
+    </message>
+    <message id="m0005" participant="130994" time="2013-07-23 11:42:41 UTC">
+      <body>Glad to see the end of the heat wave</body>
+    </message>
+    <message id="m0006" participant="136133" time="2013-07-23 11:47:16 UTC">
+      <body>Ah! That's nice to hear. It's been an extremely warm summer so far.</body>
+    </message>
+    <message id="m0007" participant="130994" time="2013-07-23 11:48:34 UTC">
+      <body>Unbearable</body>
+    </message>
+  </messages>
+</conversation>

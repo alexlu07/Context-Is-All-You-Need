@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131125.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-25 20:37:20 UTC" participant="153567">
+      <body>Web do you want to get ammo?</body>
+    </message>
+    <message id="m0001" time="2013-11-25 20:38:43 UTC" participant="153547">
+      <body>I'm working on some illustrator with someone Might need to delay</body>
+    </message>
+    <message id="m0002" time="2013-11-25 20:51:00 UTC" participant="153567">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2013-11-25 22:38:53 UTC" participant="153547">
+      <body>I might buy that bersa if Michael doesn't want it. </body>
+    </message>
+    <message id="m0004" time="2013-11-25 22:41:04 UTC" participant="153567">
+      <body>Ah rad!</body>
+    </message>
+  </messages>
+</conversation>
+

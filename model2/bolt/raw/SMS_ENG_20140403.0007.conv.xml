@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140403.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-03 18:10:28 UTC" participant="153547">
+      <body>I'm planning on 330</body>
+    </message>
+    <message id="m0001" time="2014-04-03 18:11:09 UTC" participant="153587">
+      <body>Great, see you then </body>
+    </message>
+    <message id="m0002" time="2014-04-03 18:20:20 UTC" participant="153547">
+      <body>My other meeting got pushed back. Can I come in 10 min instead</body>
+    </message>
+  </messages>
+</conversation>
+

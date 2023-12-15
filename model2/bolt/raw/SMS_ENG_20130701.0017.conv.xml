@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136377" time="2013-07-01 23:49:27 UTC">
+      <body>Are you guy there</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-07-01 23:49:45 UTC">
+      <body>paying for parking. sup? </body>
+    </message>
+    <message id="m0002" participant="136377" time="2013-07-01 23:50:14 UTC">
+      <body>In the garage?</body>
+    </message>
+  </messages>
+</conversation>

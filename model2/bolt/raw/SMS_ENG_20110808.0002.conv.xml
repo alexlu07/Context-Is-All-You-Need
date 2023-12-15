@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110808.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135118" time="2011-08-08 12:25:47 UTC">
+      <body>Hey it was bobs b day yesterday...i stop get bagels...ssh dont tellm incase i dont have time</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-08 12:26:33 UTC">
+      <body>I'll tell them you're bringing piggies instead!</body>
+    </message>
+    <message id="m0002" participant="135118" time="2011-08-08 12:49:20 UTC">
+      <body>For bagels</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-08 13:06:43 UTC">
+      <body>It's so CUTE. Send it to tim and tell him it's an early labor day present</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-08 13:06:49 UTC">
+      <body>For me.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130704.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-07-04 14:37:16 UTC">
+      <body>How are you?!</body>
+    </message>
+    <message id="m0001" participant="137409" time="2013-07-04 15:03:06 UTC">
+      <body>I am good!  How are you??</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-07-04 15:13:06 UTC">
+      <body>Good!  How was the wedding? </body>
+    </message>
+    <message id="m0003" participant="137409" time="2013-07-04 16:10:20 UTC">
+      <body>Very good!  We missed you!</body>
+    </message>
+    <message id="m0004" participant="131838" time="2013-07-04 17:12:35 UTC">
+      <body> Miss u!!! The pics were beautiful! How are u feeling? </body>
+    </message>
+    <message id="m0005" participant="137409" time="2013-07-04 17:15:55 UTC">
+      <body>Nauseous, but good.  :)  When you coming home?</body>
+    </message>
+    <message id="m0006" participant="131838" time="2013-07-04 17:18:53 UTC">
+      <body>Yay! The 15th... when can we play?</body>
+    </message>
+    <message id="m0007" participant="137409" time="2013-07-04 17:20:31 UTC">
+      <body>Any time after that!  I am getting home from Canada that day!</body>
+    </message>
+    <message id="m0008" participant="131838" time="2013-07-04 17:27:05 UTC">
+      <body>cool! Have fun! I'll catch you soon :)</body>
+    </message>
+  </messages>
+</conversation>

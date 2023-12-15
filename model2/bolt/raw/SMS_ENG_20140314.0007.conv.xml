@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-14 18:15:12 UTC" participant="153631">
+      <body>Happy birthday!!! I wish I wasn't leaving town so I could celebrate you!</body>
+    </message>
+    <message id="m0001" time="2014-03-14 18:18:44 UTC" participant="153548">
+      <body>Hey thanks! It's been a quiet day so far. Sarah is coming down for a pajama party. Where are you headed??</body>
+    </message>
+    <message id="m0002" time="2014-03-14 19:21:46 UTC" participant="153631">
+      <body>That sounds lovely! I'm going to Atlanta to hang out with a baby</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141105.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-05 18:00:03 UTC" participant="153548">
+      <body>I have an interview at Rowan!!</body>
+    </message>
+    <message id="m0001" time="2014-11-05 18:01:36 UTC" participant="153649">
+      <body>Sweet! Where's that? NJ?</body>
+    </message>
+    <message id="m0002" time="2014-11-05 19:48:33 UTC" participant="153548">
+      <body>Yeah in gross Camden but it's something!</body>
+    </message>
+    <message id="m0003" time="2014-11-05 19:49:31 UTC" participant="153649">
+      <body>That's awesome! When is it? I'm sending apps this weekend. </body>
+    </message>
+    <message id="m0004" time="2014-11-05 19:50:32 UTC" participant="153548">
+      <body>It's next Friday. At 10z</body>
+    </message>
+    <message id="m0005" time="2014-11-05 19:52:25 UTC" participant="153649">
+      <body>Whoa. That's soon!</body>
+    </message>
+    <message id="m0006" time="2014-11-05 19:52:38 UTC" participant="153548">
+      <body>I know. God</body>
+    </message>
+    <message id="m0007" time="2014-11-05 19:53:18 UTC" participant="153548">
+      <body>I think they wanna do this fast</body>
+    </message>
+    <message id="m0008" time="2014-11-05 19:58:21 UTC" participant="153649">
+      <body>Might as well</body>
+    </message>
+  </messages>
+</conversation>
+

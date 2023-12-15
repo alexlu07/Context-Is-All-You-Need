@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-15 20:24:40 UTC">
+      <body>I love you.  You safe?</body>
+    </message>
+    <message id="m0001" participant="135424" time="2013-04-15 20:42:01 UTC">
+      <body>I am just fine. Are you????</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-15 20:45:38 UTC">
+      <body>Yes!!! Are you home?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-15 20:46:25 UTC">
+      <body>Dave?</body>
+    </message>
+    <message id="m0004" participant="135424" time="2013-04-15 20:50:28 UTC">
+      <body>I am home and Dave is at work but coming home now. Crazy, awful shit</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-15 20:54:31 UTC">
+      <body>Yeah thinking of you!!!</body>
+    </message>
+  </messages>
+</conversation>

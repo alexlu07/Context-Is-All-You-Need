@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131117.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-17 13:54:02 UTC" participant="153563">
+      <body>Hi hunter-its Caroline. Tonight or next weekend would be great. Whichever is better for you.</body>
+    </message>
+    <message id="m0001" time="2013-11-17 13:55:26 UTC" participant="153547">
+      <body>Ok . I'm going on a bike ride to valley forge today so I will be less exhausted next weekend.</body>
+    </message>
+    <message id="m0002" time="2013-11-17 13:56:16 UTC" participant="153563">
+      <body>Nice. Great day for it. Ok we can be in touch next weekend. Enjoy</body>
+    </message>
+  </messages>
+</conversation>
+

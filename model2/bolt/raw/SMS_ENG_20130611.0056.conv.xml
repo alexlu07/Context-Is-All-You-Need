@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-06-11 19:23:04 UTC">
+      <body>hey, i'm at mom's now! see you soon (when you're ready) ! </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-06-11 19:24:32 UTC">
+      <body>K. Just got out of the shower but i will be there shortly.</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-06-11 19:24:59 UTC">
+      <body>kk, no hurry </body>
+    </message>
+  </messages>
+</conversation>

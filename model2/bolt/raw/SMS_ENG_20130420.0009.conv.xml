@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-04-20 16:02:08 UTC">
+      <body>Cheeseburger, hamburger, large fries, 2 small fries, large diet coke, 2 cups of water, </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-04-20 16:03:21 UTC">
+      <body>That all?</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-04-20 16:03:30 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" participant="131502" time="2013-04-20 16:05:59 UTC">
+      <body>Use chase card</body>
+    </message>
+    <message id="m0004" participant="131502" time="2013-04-20 16:10:40 UTC">
+      <body>Bro is awake</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-04-20 16:11:21 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

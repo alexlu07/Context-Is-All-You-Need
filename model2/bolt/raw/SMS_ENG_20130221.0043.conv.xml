@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-02-21 18:08:00 UTC">
+      <body>On my way. Call my cell. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-21 18:53:25 UTC">
+      <body>Love u very excited</body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-02-21 21:38:40 UTC">
+      <body>Ariel ok. Will come after her class. </body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-21 21:38:54 UTC">
+      <body>Alright u sure</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-21 21:39:12 UTC">
+      <body>I'm waiting</body>
+    </message>
+    <message id="m0006" participant="135397" time="2013-02-21 21:54:35 UTC">
+      <body>I'm looking at Rembrandt</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-02-21 21:54:50 UTC">
+      <body>Upstairs?</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-02-21 21:59:14 UTC">
+      <body>Ughhh waiting</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-02-21 21:59:19 UTC">
+      <body>Phone might die</body>
+    </message>
+    <message id="m0010" participant="135397" time="2013-02-21 22:21:51 UTC">
+      <body>I'm in library</body>
+    </message>
+    <message id="m0011" participant="135397" time="2013-02-21 22:21:54 UTC">
+      <body>Willl wait here</body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-02-21 22:22:48 UTC">
+      <body>Alright coming now</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-06-21 19:35:35 UTC">
+      <body>It is now officially summer Chicago! :-)</body>
+    </message>
+    <message id="m0001" participant="133218" time="2013-06-21 19:36:59 UTC">
+      <body>Yea thankfully! Where ya from?</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-06-21 19:39:04 UTC">
+      <body>I live in San Francisco. Moved from Cape Cod in 1994</body>
+    </message>
+    <message id="m0003" participant="133218" time="2013-06-21 19:40:14 UTC">
+      <body>Oh thats sweet, I grew up in southern cali. How long on cape cod?</body>
+    </message>
+    <message id="m0004" participant="130748" time="2013-06-21 19:41:49 UTC">
+      <body>I grew up in Freetown MA. Was 28 when I came to SF</body>
+    </message>
+    <message id="m0005" participant="133218" time="2013-06-21 20:00:42 UTC">
+      <body>So how old are you?</body>
+    </message>
+    <message id="m0006" participant="130748" time="2013-06-21 21:03:35 UTC">
+      <body>I'm 47</body>
+    </message>
+  </messages>
+</conversation>

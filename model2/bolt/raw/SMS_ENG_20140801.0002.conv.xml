@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140801.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-01 20:11:44 UTC" participant="152560">
+      <body>If you are still in Middlebury, could you bring up your bike rack? I want to possibly take my bikes to Old Spokes next week.</body>
+    </message>
+    <message id="m0001" time="2014-08-01 20:13:02 UTC" participant="152417">
+      <body>Sure, ive got a rehearsal 430 to 630 so i wont be in burly till later</body>
+    </message>
+    <message id="m0002" time="2014-08-01 21:15:44 UTC" participant="152560">
+      <body>Cool, thanks. See you later.</body>
+    </message>
+    <message id="m0003" time="2014-08-02 03:33:43 UTC" participant="152417">
+      <body>Im walkin down to blue cat</body>
+    </message>
+  </messages>
+</conversation>
+

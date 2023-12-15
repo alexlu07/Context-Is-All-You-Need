@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135383" time="2012-09-18 01:12:49 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0001" participant="135383" time="2012-09-18 01:31:06 UTC">
+      <body>Looks a bit lonely</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-18 01:39:20 UTC">
+      <body>Yeah but it also looks colorful </body>
+    </message>
+    <message id="m0003" participant="135383" time="2012-09-18 02:36:20 UTC">
+      <body>Haha yes</body>
+    </message>
+    <message id="m0004" participant="135383" time="2012-09-18 03:04:36 UTC">
+      <body>How was class?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-09-18 03:52:30 UTC">
+      <body>Oh no class today just meetings and reading and Jew new year.  How was your day?</body>
+    </message>
+    <message id="m0006" participant="135383" time="2012-09-18 07:00:27 UTC">
+      <body>Happy new year, my day is long just on my way back from might might soccer.</body>
+    </message>
+    <message id="m0007" participant="135383" time="2012-09-18 07:03:25 UTC">
+      <body>Midnight soccer</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-09-18 13:36:08 UTC">
+      <body>Whoa midnight soccer!!!! Cool</body>
+    </message>
+  </messages>
+</conversation>

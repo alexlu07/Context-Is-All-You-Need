@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136377" time="2013-06-28 03:40:05 UTC">
+      <body>We're here, you?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-28 03:40:17 UTC">
+      <body>not yet, where are you parked? </body>
+    </message>
+    <message id="m0002" participant="136377" time="2013-06-28 03:42:40 UTC">
+      <body>It's kinda confusing, just text me when you get there</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-28 03:43:11 UTC">
+      <body>I'll try, i'm "critically low". also the driver is going like a million miles an hour i think </body>
+    </message>
+    <message id="m0004" participant="136377" time="2013-06-28 03:46:20 UTC">
+      <body>About how far away are you right now?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-06-28 03:47:13 UTC">
+      <body>we should be getting off the interstate shortly and then it's like 10 minutes to station. hard to tell because i can't really see the signs </body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-06-28 03:49:28 UTC">
+      <body>v close now i think </body>
+    </message>
+    <message id="m0007" participant="136377" time="2013-06-28 03:50:27 UTC">
+      <body>To the station or the highway exit?</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-06-28 03:50:37 UTC">
+      <body>station </body>
+    </message>
+    <message id="m0009" participant="136112" time="2013-06-28 03:50:57 UTC">
+      <body>we're here, not parked yet and have to get bag </body>
+    </message>
+    <message id="m0010" participant="136377" time="2013-06-28 03:51:36 UTC">
+      <body>Kk, we are circling the block</body>
+    </message>
+    <message id="m0011" participant="136112" time="2013-06-28 03:52:29 UTC">
+      <body>k where are you i'm good </body>
+    </message>
+    <message id="m0012" participant="136377" time="2013-06-28 03:53:05 UTC">
+      <body>We are in the parking area next to the station</body>
+    </message>
+    <message id="m0013" participant="136377" time="2013-06-28 03:53:29 UTC">
+      <body>Across from the quick pick sub place with the blue lights</body>
+    </message>
+    <message id="m0014" participant="136112" time="2013-06-28 03:53:45 UTC">
+      <body>thanks </body>
+    </message>
+    <message id="m0015" participant="136377" time="2013-06-28 03:54:11 UTC">
+      <body>I'm standing outside the car so you should see me</body>
+    </message>
+    <message id="m0016" participant="136112" time="2013-06-28 03:54:24 UTC">
+      <body>k</body>
+    </message>
+  </messages>
+</conversation>

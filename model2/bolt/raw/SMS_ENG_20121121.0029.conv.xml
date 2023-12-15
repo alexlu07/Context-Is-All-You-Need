@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136279" time="2012-11-21 18:38:21 UTC">
+      <body>Hey, we're going on an adventure before our adventure. Just sayan</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-21 19:07:20 UTC">
+      <body>Omg adventureception. I'm getting on the train now!</body>
+    </message>
+    <message id="m0002" participant="136279" time="2012-11-21 19:28:26 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0003" participant="136279" time="2012-11-21 19:41:28 UTC">
+      <body>Lab*. Text me when you get here.</body>
+    </message>
+    <message id="m0004" participant="136279" time="2012-11-21 19:41:30 UTC">
+      <body>I'm out of la</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-11-21 19:54:13 UTC">
+      <body>I'm hurrrrr</body>
+    </message>
+  </messages>
+</conversation>

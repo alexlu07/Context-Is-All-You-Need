@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 16:41:52 UTC" participant="153900">
+      <body>Are You coming over tonight for cake</body>
+    </message>
+    <message id="m0001" time="2014-08-04 16:43:00 UTC" participant="153244">
+      <body>Yea if I get done work in time</body>
+    </message>
+    <message id="m0002" time="2014-08-04 16:43:43 UTC" participant="153900">
+      <body>Well what time do you work till</body>
+    </message>
+    <message id="m0003" time="2014-08-04 17:27:40 UTC" participant="153244">
+      <body>7-8 friends on when I get done everything</body>
+    </message>
+    <message id="m0004" time="2014-08-04 23:26:02 UTC" participant="153900">
+      <body>Are You still at work</body>
+    </message>
+    <message id="m0005" time="2014-08-05 01:17:35 UTC" participant="153244">
+      <body>I passed my exam</body>
+    </message>
+    <message id="m0006" time="2014-08-05 01:18:08 UTC" participant="153900">
+      <body>That's good</body>
+    </message>
+    <message id="m0007" time="2014-08-05 12:55:53 UTC" participant="153900">
+      <body>Did you ever find out about clementon</body>
+    </message>
+    <message id="m0008" time="2014-08-05 13:00:58 UTC" participant="153244">
+      <body>Oh yea.. when you asked me it was actually that past weekend. So was too late</body>
+    </message>
+    <message id="m0009" time="2014-08-05 13:32:06 UTC" participant="153244">
+      <body>I can get you discounted Clement park tickets.  Up to 4 half off</body>
+    </message>
+  </messages>
+</conversation>
+

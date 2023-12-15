@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140625.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-25 23:28:41 UTC" participant="152735">
+      <body>Hmmm can't come tomorrow but what are you doing Friday night!?</body>
+    </message>
+    <message id="m0001" time="2014-06-25 23:28:53 UTC" participant="152735">
+      <body>Or sat !?</body>
+    </message>
+    <message id="m0002" time="2014-06-25 23:32:16 UTC" participant="152749">
+      <body>Hanging out with you!! That's perfect</body>
+    </message>
+    <message id="m0003" time="2014-06-25 23:34:14 UTC" participant="152749">
+      <body>You'll save my last weekend in Baltimore</body>
+    </message>
+    <message id="m0004" time="2014-06-25 23:37:00 UTC" participant="152735">
+      <body>Omg awesome! Looking up tickets now! Yay </body>
+    </message>
+    <message id="m0005" time="2014-06-25 23:37:16 UTC" participant="152749">
+      <body>Yay!</body>
+    </message>
+    <message id="m0006" time="2014-06-26 22:30:24 UTC" participant="152749">
+      <body>So, are you going to be able to come into town this weekend?</body>
+    </message>
+  </messages>
+</conversation>
+

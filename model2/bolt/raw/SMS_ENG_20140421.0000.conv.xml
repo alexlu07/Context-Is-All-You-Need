@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140421.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-21 23:22:39 UTC" participant="152417">
+      <body>Im at the moth, ill call you later tonight</body>
+    </message>
+    <message id="m0001" time="2014-04-22 02:42:08 UTC" participant="152560">
+      <body>Sorry I missed your call-I'm in the middle of writing a very tedious paper. How was the moth? </body>
+    </message>
+    <message id="m0002" time="2014-04-22 03:03:24 UTC" participant="152417">
+      <body>Half were really good and half mediocre</body>
+    </message>
+    <message id="m0003" time="2014-04-22 03:05:01 UTC" participant="152560">
+      <body>Haha! Today I just thought that would be a cool name for an art blog: media-ochre. </body>
+    </message>
+    <message id="m0004" time="2014-04-22 03:05:55 UTC" participant="152417">
+      <body>Nice</body>
+    </message>
+    <message id="m0005" time="2014-04-22 23:16:49 UTC" participant="152560">
+      <body>You got your spot back</body>
+    </message>
+    <message id="m0006" time="2014-04-22 23:20:08 UTC" participant="152417">
+      <body>Thank you! Saffron chi christopher jones appreciates it</body>
+    </message>
+  </messages>
+</conversation>
+

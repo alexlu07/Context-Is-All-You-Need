@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141115.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-15 06:28:05 UTC" participant="153896">
+      <body>Should I be worried that you haven't sent me a picture yet</body>
+    </message>
+    <message id="m0001" time="2014-11-15 20:27:45 UTC" participant="153896">
+      <body>Will you be home about 5? I figure I can come and get the cake at about five and then go right to the hall with everything</body>
+    </message>
+    <message id="m0002" time="2014-11-15 20:46:11 UTC" participant="153244">
+      <body>That's fine... just text or call when you're on your way</body>
+    </message>
+    <message id="m0003" time="2014-11-15 20:46:28 UTC" participant="153896">
+      <body>Thanks love,  ur the best</body>
+    </message>
+    <message id="m0004" time="2014-11-15 20:51:51 UTC" participant="153244">
+      <body>I know lol.. and you're welcome</body>
+    </message>
+    <message id="m0005" time="2014-11-15 22:03:09 UTC" participant="153896">
+      <body>I'm on my way</body>
+    </message>
+  </messages>
+</conversation>
+

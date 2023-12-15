@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120604.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-04 12:41:55 UTC">
+      <body>Could I get the hunter books back by Wednesday</body>
+    </message>
+    <message id="m0001" participant="136208" time="2012-06-04 12:43:02 UTC">
+      <body>Sure, I'll bring it to you</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-04 13:33:14 UTC">
+      <body>Thanxxx. Also I have a book to lend you. I think you'll like it</body>
+    </message>
+  </messages>
+</conversation>

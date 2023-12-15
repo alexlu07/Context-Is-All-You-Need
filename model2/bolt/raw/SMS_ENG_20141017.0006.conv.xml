@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141017.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-17 13:00:48 UTC" participant="152589">
+      <body>Hi I am not sure we are going to make it in time.  What does your schedule look like on the weekend?  I work Tommorow through Wednesday and I am usually off at 5pm.  Except Tommorow I have overtime until 7.</body>
+    </message>
+    <message id="m0001" time="2014-10-17 14:17:36 UTC" participant="152589">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-10-17 14:18:42 UTC" participant="152417">
+      <body>No problem.  Sun, mon, tues, wed evenings I'll be available after 6.  Thursday i could meet midday</body>
+    </message>
+    <message id="m0003" time="2014-10-17 14:19:18 UTC" participant="152417">
+      <body>Sunday i'd be free anytime</body>
+    </message>
+  </messages>
+</conversation>
+

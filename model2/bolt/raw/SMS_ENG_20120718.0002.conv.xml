@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120718.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2012-07-18 19:42:09 UTC">
+      <body>Hey, hope yr ok! And hope yr bike is gettin fixed!</body>
+    </message>
+    <message id="m0001" participant="130920" time="2012-07-18 19:44:05 UTC">
+      <body>Thanks! Who is this?</body>
+    </message>
+    <message id="m0002" participant="130755" time="2012-07-18 19:44:31 UTC">
+      <body>Oh sorry, it's Kennedy!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120713.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-07-13 13:56:25 UTC" participant="153439">
+      <body>Can i change the time to meet??
+Are u also free until around 3:00 today??</body>
+    </message>
+    <message id="m0001" time="2012-07-13 13:59:06 UTC" participant="153418">
+      <body>Uh...when do you want to meet? I'm busy from 3:30 on today. And from now until 11:00.</body>
+    </message>
+    <message id="m0002" time="2012-07-13 14:02:59 UTC" participant="153439">
+      <body>How about 2:00?</body>
+    </message>
+    <message id="m0003" time="2012-07-13 14:52:05 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+    <message id="m0004" time="2012-07-13 14:54:17 UTC" participant="153439">
+      <body>Thanks:)</body>
+    </message>
+    <message id="m0005" time="2012-07-14 00:38:30 UTC" participant="153418">
+      <body>I sent you the links that we talked about today.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131425" time="2013-04-12 00:11:22 UTC">
+      <body>Cute!</body>
+    </message>
+    <message id="m0001" participant="131425" time="2013-04-12 21:41:20 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="131425" time="2013-04-13 19:30:01 UTC">
+      <body>Im sooooo tired! Ive spent all day cooking and baking. The party starts at 6. Still need to make starwars cookies, carve the watermelon, shower and get ready. In line at Mcdonalds</body>
+    </message>
+    <message id="m0003" participant="131425" time="2013-04-13 19:35:28 UTC">
+      <body>Lol i know. I juat wish i had time for a nap! I think once i eat ill feel better.</body>
+    </message>
+    <message id="m0004" participant="131425" time="2013-04-14 19:10:49 UTC">
+      <body>Party turned out well! The pulled chicken was a success, as was the quinoa salad. Lots of sesserts left over! Joe and I are eating five guys now </body>
+    </message>
+    <message id="m0005" participant="130962" time="2013-04-14 20:32:53 UTC">
+      <body>Can I call you in 20 minutes or so? </body>
+    </message>
+    <message id="m0006" participant="131425" time="2013-04-14 20:35:10 UTC">
+      <body>Sure. Im with Joe shopping in target. If i dobt answer its because we are in the undergroind garage and we get poor service. But i will call you once we are up</body>
+    </message>
+    <message id="m0007" participant="130962" time="2013-04-14 20:38:42 UTC">
+      <body>Ok. I'm just gonna run out to buy chocolate milk then will be available!!!</body>
+    </message>
+    <message id="m0008" participant="131425" time="2013-04-14 20:39:28 UTC">
+      <body>Okay. So you'll call me when you are done?</body>
+    </message>
+    <message id="m0009" participant="130962" time="2013-04-14 20:40:30 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0010" participant="131425" time="2013-04-14 20:54:24 UTC">
+      <body>In the garae about to come out</body>
+    </message>
+    <message id="m0011" participant="130962" time="2013-04-14 20:54:40 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" participant="130962" time="2013-04-14 20:54:48 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

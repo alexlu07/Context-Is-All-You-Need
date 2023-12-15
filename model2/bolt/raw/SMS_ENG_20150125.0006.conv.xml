@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150125.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-25 04:41:44 UTC" participant="152735">
+      <body>Ooooh I thought you meant the actual odometer was wrong </body>
+    </message>
+    <message id="m0001" time="2015-01-25 04:42:15 UTC" participant="152735">
+      <body>oh wait so the odometer had 108k but carfax proved it didn't oooooh</body>
+    </message>
+    <message id="m0002" time="2015-01-25 04:42:25 UTC" participant="152735">
+      <body>Maybe I should check my cars carfax can i do that </body>
+    </message>
+    <message id="m0003" time="2015-01-25 04:42:26 UTC" participant="152761">
+      <body>Yes! </body>
+    </message>
+    <message id="m0004" time="2015-01-25 04:42:49 UTC" participant="152761">
+      <body>Yes it's expensive though. It's like 30$ I think:-/</body>
+    </message>
+    <message id="m0005" time="2015-01-25 04:42:50 UTC" participant="152735">
+      <body>Bc they totally sold me a lemon </body>
+    </message>
+    <message id="m0006" time="2015-01-25 04:42:58 UTC" participant="152735">
+      <body>Totally worth it!!!</body>
+    </message>
+    <message id="m0007" time="2015-01-25 04:43:07 UTC" participant="152761">
+      <body>You just need the VIN number</body>
+    </message>
+    <message id="m0008" time="2015-01-25 04:43:09 UTC" participant="152735">
+      <body>I should do that thank you! </body>
+    </message>
+    <message id="m0009" time="2015-01-25 04:43:29 UTC" participant="152761">
+      <body>Yup! I think that's a good idea!</body>
+    </message>
+  </messages>
+</conversation>
+

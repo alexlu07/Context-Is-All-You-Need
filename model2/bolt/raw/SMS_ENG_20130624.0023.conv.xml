@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0023" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130707" time="2013-06-24 18:56:12 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131889" time="2013-06-24 18:57:44 UTC">
+      <body>Hello. How's your day been?</body>
+    </message>
+    <message id="m0002" participant="130707" time="2013-06-24 18:58:37 UTC">
+      <body>Ok a bit tiring</body>
+    </message>
+    <message id="m0003" participant="131889" time="2013-06-24 19:00:16 UTC">
+      <body>Same here. But it's almost over, so there's that to look forward to</body>
+    </message>
+    <message id="m0004" participant="130707" time="2013-06-24 20:47:57 UTC">
+      <body>Are you make or female?</body>
+    </message>
+    <message id="m0005" participant="131889" time="2013-06-24 21:31:57 UTC">
+      <body>Male</body>
+    </message>
+  </messages>
+</conversation>

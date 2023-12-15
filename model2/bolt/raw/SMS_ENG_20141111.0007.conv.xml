@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141111.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-11 17:54:27 UTC" participant="152575">
+      <body>So were rehearsing today right? </body>
+    </message>
+    <message id="m0001" time="2014-11-11 17:56:21 UTC" participant="152575">
+      <body>Works for me </body>
+    </message>
+    <message id="m0002" time="2014-11-11 19:05:09 UTC" participant="152575">
+      <body>Okay.   </body>
+    </message>
+    <message id="m0003" time="2014-11-11 20:05:58 UTC" participant="152575">
+      <body>Still wanna rehearse with Steve? </body>
+    </message>
+    <message id="m0004" time="2014-11-11 20:17:04 UTC" participant="152417">
+      <body>Im at home, probly wont be at school for another hour, i could do 430</body>
+    </message>
+    <message id="m0005" time="2014-11-11 20:17:19 UTC" participant="152575">
+      <body>Works for me </body>
+    </message>
+    <message id="m0006" time="2014-11-11 21:34:43 UTC" participant="152417">
+      <body>Where yat?</body>
+    </message>
+    <message id="m0007" time="2014-11-11 21:34:56 UTC" participant="152575">
+      <body>Almost there.  You can start looking for a room I'll be there in a minute </body>
+    </message>
+    <message id="m0008" time="2014-11-11 21:39:14 UTC" participant="152417">
+      <body>I grabbed us 715</body>
+    </message>
+  </messages>
+</conversation>
+

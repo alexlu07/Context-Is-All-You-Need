@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131220.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-20 14:54:36 UTC" participant="152417">
+      <body>Hey Jonah, my wheel is fixed.  ill come get you around 830 or 9</body>
+    </message>
+    <message id="m0001" time="2013-12-20 14:55:34 UTC" participant="152532">
+      <body>Beautiful. You remember where I am?</body>
+    </message>
+    <message id="m0002" time="2013-12-20 17:00:56 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

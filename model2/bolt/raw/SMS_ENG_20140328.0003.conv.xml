@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140328.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-28 18:35:25 UTC" participant="152641">
+      <body>Hey Gabi, what were you thinking for rides tonight? It's now come to my attention that Mosa and I will have chairs too, so it's possible that we should split up? </body>
+    </message>
+    <message id="m0001" time="2014-03-28 18:38:59 UTC" participant="152417">
+      <body>I can drive then, we'll fit in my car.  Unfotunately Colin cant come anymore</body>
+    </message>
+    <message id="m0003" time="2014-03-28 19:38:50 UTC" participant="152417">
+      <body>Cool, see you there at 430?</body>
+    </message>
+    <message id="m0004" time="2014-03-28 21:02:56 UTC" participant="152641">
+      <body>Omw, Mosa too! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110825.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135135" time="2011-08-25 16:40:05 UTC">
+      <body>Hey girl, just checkin on ya!!! How's everythin goin wit ur dad?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-25 16:41:59 UTC">
+      <body>Thanks, miss. He's not good, still don't know what's wrong and he's not responding to any medicine. Going to do a colonoscopy today. It's stressing me to be out to be gone from work but I feel like I should be here.</body>
+    </message>
+    <message id="m0002" participant="135135" time="2011-08-25 16:43:40 UTC">
+      <body>Yea u should b there of course!!! Don't feel stressed out</body>
+    </message>
+  </messages>
+</conversation>

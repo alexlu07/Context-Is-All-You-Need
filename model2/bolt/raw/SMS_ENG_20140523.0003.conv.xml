@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140523.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-23 14:14:24 UTC" participant="152548">
+      <body>Hi guys! Please text or email with potential dates in June that work for thank you party, and I will set up a scheduling survey. Please include as many Sunday evenings as possible because I think that will work for most</body>
+    </message>
+    <message id="m0001" time="2014-05-23 14:38:33 UTC" participant="152417">
+      <body>Ill get back to you this afternoon.  Thank you for doing this</body>
+    </message>
+    <message id="m0002" time="2014-05-23 14:38:40 UTC" participant="152548">
+      <body>Sweet!</body>
+    </message>
+    <message id="m0003" time="2014-05-23 19:47:54 UTC" participant="152417">
+      <body>Should we poll people about memorial day?</body>
+    </message>
+    <message id="m0004" time="2014-05-23 20:47:36 UTC" participant="152417">
+      <body>I can do sundays june 8, 15, 22 or 29</body>
+    </message>
+  </messages>
+</conversation>
+

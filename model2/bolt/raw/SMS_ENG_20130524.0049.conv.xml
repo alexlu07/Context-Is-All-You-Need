@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131384" time="2013-05-24 00:23:46 UTC">
+      <body>Everything ok?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-24 00:28:24 UTC">
+      <body>Yeah...mostly.</body>
+    </message>
+    <message id="m0005" participant="131384" time="2013-05-24 00:29:53 UTC">
+      <body>What's wrong?</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-05-24 00:33:02 UTC">
+      <body>Nothing. Frustrated. Weird day. Bad news. More recording still to do. Trapped.</body>
+    </message>
+    <message id="m0007" participant="131384" time="2013-05-24 00:49:09 UTC">
+      <body>Bad news?</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-05-24 00:51:24 UTC">
+      <body>Yeah. Long story. Total drag. Maybe when you get back from phx.</body>
+    </message>
+    <message id="m0009" participant="131384" time="2013-05-24 00:56:33 UTC">
+      <body>Um okay.</body>
+    </message>
+    <message id="m0010" participant="131384" time="2013-05-24 01:00:18 UTC">
+      <body>Lmk if I can help
+W anything</body>
+    </message>
+    <message id="m0012" participant="131350" time="2013-05-24 01:01:40 UTC">
+      <body>Thanks. Nothing to do.
+Not me directly...so don't worry.</body>
+    </message>
+    <message id="m0013" participant="131384" time="2013-05-24 01:10:46 UTC">
+      <body>Okay.</body>
+    </message>
+  </messages>
+</conversation>

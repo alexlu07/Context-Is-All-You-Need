@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135268" time="2013-06-14 02:13:31 UTC">
+      <body>What's your address?</body>
+    </message>
+    <message id="m0002" participant="135268" time="2013-06-14 02:15:09 UTC">
+      <body>Sweet! You'll have to invite me over sometime</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-14 02:15:46 UTC">
+      <body>Of course :)</body>
+    </message>
+  </messages>
+</conversation>

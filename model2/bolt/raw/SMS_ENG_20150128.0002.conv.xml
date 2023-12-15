@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 15:26:11 UTC" participant="152590">
+      <body>Good morning! Orders are rolling in, please sign on if youre available.</body>
+    </message>
+    <message id="m0001" time="2015-01-28 20:56:45 UTC" participant="152590">
+      <body>Good Afternoon! Are you available for the Dinner Shift?</body>
+    </message>
+    <message id="m0002" time="2015-01-28 20:57:59 UTC" participant="152417">
+      <body>No, sorry</body>
+    </message>
+  </messages>
+</conversation>
+

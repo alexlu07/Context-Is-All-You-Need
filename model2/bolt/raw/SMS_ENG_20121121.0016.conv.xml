@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135080" time="2012-11-21 17:01:20 UTC">
+      <body>Ok. Your text messages have subject lines and a signature now? :P</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-21 17:02:08 UTC">
+      <body>Ohh or you sent this from your email?</body>
+    </message>
+  </messages>
+</conversation>

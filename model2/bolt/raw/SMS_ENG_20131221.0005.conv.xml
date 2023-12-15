@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131221.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-21 18:48:18 UTC" participant="153547">
+      <body>Do you want a burrito? Ima. Grab one for lunch</body>
+    </message>
+    <message id="m0001" time="2013-12-21 18:48:32 UTC" participant="153557">
+      <body>Yes! I'm about to wlk home from the apartment</body>
+    </message>
+    <message id="m0002" time="2013-12-21 18:48:32 UTC" participant="153557">
+      <body>Just blackbean no sweet potato</body>
+    </message>
+    <message id="m0003" time="2013-12-21 19:24:48 UTC" participant="153557">
+      <body>Be home in 10</body>
+    </message>
+    <message id="m0004" time="2013-12-21 19:25:18 UTC" participant="153547">
+      <body>Are u home yet? I'm here with burritos</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-02 16:26:21 UTC" participant="152417">
+      <body>Any schedule yet? Id like to invite hugo just for our milonga segment</body>
+    </message>
+    <message id="m0001" time="2013-02-02 16:41:27 UTC" participant="152548">
+      <body>Lois sent an email said she wouldn't be able to finalize schedule until tonight so it will be a surprise</body>
+    </message>
+    <message id="m0002" time="2013-02-02 18:22:34 UTC" participant="152417">
+      <body>K, thanks! May i have permission to bother her about it then?</body>
+    </message>
+    <message id="m0003" time="2013-02-02 19:29:04 UTC" participant="152548">
+      <body>Yes :(</body>
+    </message>
+    <message id="m0004" time="2013-02-02 19:29:04 UTC" participant="152548">
+      <body>:)</body>
+    </message>
+  </messages>
+</conversation>
+

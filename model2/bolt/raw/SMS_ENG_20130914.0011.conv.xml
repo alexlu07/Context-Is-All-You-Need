@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130914.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-14 22:05:54 UTC" participant="154352">
+      <body>This is a text message</body>
+    </message>
+    <message id="m0001" time="2013-09-15 21:31:03 UTC" participant="154352">
+      <body>Hey there. What's up?</body>
+    </message>
+    <message id="m0002" time="2013-09-15 21:39:58 UTC" participant="154406">
+      <body>
+hanging out at the park</body>
+    </message>
+    <message id="m0003" time="2013-09-15 21:51:17 UTC" participant="154352">
+      <body>It's a great day to that sort of thing</body>
+    </message>
+  </messages>
+</conversation>
+

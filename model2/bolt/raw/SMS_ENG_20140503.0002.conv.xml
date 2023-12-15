@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140503.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-03 14:27:28 UTC" participant="152548">
+      <body>I'm at ballet with Sapphie what's up?</body>
+    </message>
+    <message id="m0001" time="2014-05-03 14:28:20 UTC" participant="152417">
+      <body>O cool, i wanted to ask you for ideas/advice on creatig a babysitter list so parents can come see the show</body>
+    </message>
+    <message id="m0002" time="2014-05-03 14:32:32 UTC" participant="152548">
+      <body>Oh!! Good idea. Let's chat today will you be at props</body>
+    </message>
+    <message id="m0003" time="2014-05-03 14:34:29 UTC" participant="152417">
+      <body>Yea, but just from 12-1</body>
+    </message>
+    <message id="m0004" time="2014-05-03 14:36:48 UTC" participant="152548">
+      <body>Ok I'm 12ish until 2</body>
+    </message>
+  </messages>
+</conversation>
+

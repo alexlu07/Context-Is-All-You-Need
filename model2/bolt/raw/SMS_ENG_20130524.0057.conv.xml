@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131586" time="2013-05-24 21:56:46 UTC">
+      <body>Hey babe, how would you like to go for dessert and drinks when I get out?</body>
+    </message>
+    <message id="m0001" participant="131586" time="2013-05-24 21:57:43 UTC">
+      <body>No idea who will be open...</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-25 03:18:48 UTC">
+      <body>My phone died from all the navigating it did today.  I'm about to hop in the shower.  Let me know when you are getting out. </body>
+    </message>
+    <message id="m0003" participant="131586" time="2013-05-25 03:24:28 UTC">
+      <body>I just ate a bunch of desserts, but I still wouldn't mind a drink. I think we'll be done within the hour - hopefully I'll be able to give you an eta soon!</body>
+    </message>
+  </messages>
+</conversation>

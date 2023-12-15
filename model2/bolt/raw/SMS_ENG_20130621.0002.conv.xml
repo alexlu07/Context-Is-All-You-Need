@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132979" time="2013-06-21 09:33:55 UTC">
+      <body>Hi. How's it going?</body>
+    </message>
+    <message id="m0001" participant="130710" time="2013-06-21 10:58:31 UTC">
+      <body>Good, and you?</body>
+    </message>
+    <message id="m0002" participant="132979" time="2013-06-21 10:59:34 UTC">
+      <body>Hanging out watching some TV</body>
+    </message>
+    <message id="m0003" participant="130710" time="2013-06-21 11:16:50 UTC">
+      <body>Alright. We just got out from watching world war z</body>
+    </message>
+    <message id="m0004" participant="132979" time="2013-06-21 11:20:50 UTC">
+      <body>Was it any good?</body>
+    </message>
+    <message id="m0005" participant="130710" time="2013-06-21 11:33:19 UTC">
+      <body>Yeah it was ok I like zombie stuff</body>
+    </message>
+  </messages>
+</conversation>

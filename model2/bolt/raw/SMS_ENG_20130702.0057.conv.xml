@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-02 21:01:04 UTC" participant="154390">
+      <body>Want to come over soon? Hammock set up :)</body>
+    </message>
+    <message id="m0001" time="2013-07-02 21:04:31 UTC" participant="154352">
+      <body>I'll be leaving my place in about ten minuets</body>
+    </message>
+    <message id="m0002" time="2013-07-02 21:04:57 UTC" participant="154390">
+      <body>OK</body>
+    </message>
+    <message id="m0003" time="2013-07-03 01:35:46 UTC" participant="154390">
+      <body>How was your dinner? ... heard it was Thai! Who did you meet up with?</body>
+    </message>
+    <message id="m0004" time="2013-07-03 02:18:38 UTC" participant="154352">
+      <body>dinner was good. I met a friend and had yellow curry.</body>
+    </message>
+  </messages>
+</conversation>
+

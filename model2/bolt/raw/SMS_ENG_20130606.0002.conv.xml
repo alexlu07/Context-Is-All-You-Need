@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131839" time="2013-06-06 10:46:04 UTC">
+      <body>Hello! How are you today?</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-06 11:05:19 UTC">
+      <body>Good you?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2013-06-06 12:17:08 UTC">
+      <body>Ok! Performing my final for grad school tonight and graduating tomorrow :/. What are you up to?</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-06-06 13:42:00 UTC">
+      <body>Ohhh good luck!!!</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-06-06 13:42:00 UTC">
+      <body>Huge congrats!</body>
+    </message>
+    <message id="m0005" participant="131839" time="2013-06-06 14:23:46 UTC">
+      <body>Thanks! Yea, it'll be ok I hope. How long have you been doing this text thing?</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-06-07 09:31:12 UTC">
+      <body>About a week</body>
+    </message>
+    <message id="m0007" participant="131003" time="2013-06-07 09:31:37 UTC">
+      <body>Sorry i was MIA - yesterday was super busy!</body>
+    </message>
+    <message id="m0008" participant="131003" time="2013-06-07 09:32:02 UTC">
+      <body>Hope your performance went well!</body>
+    </message>
+  </messages>
+</conversation>

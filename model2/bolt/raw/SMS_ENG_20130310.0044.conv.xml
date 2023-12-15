@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135415" time="2013-03-10 00:53:20 UTC">
+      <body>where are you?!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-10 01:27:01 UTC">
+      <body>Boston. Actually at a reading that cecilia is doing.   Ironic.  I'd love to come and see you!</body>
+    </message>
+    <message id="m0002" participant="135415" time="2013-03-10 01:59:28 UTC">
+      <body>waiittt remind me who Cecilia is?!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-10 22:26:57 UTC">
+      <body>How are you doing?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-10 22:35:14 UTC">
+      <body>My friend. Who you went on a couple dates with!</body>
+    </message>
+    <message id="m0005" participant="135415" time="2013-03-10 22:56:52 UTC">
+      <body>I did?</body>
+    </message>
+    <message id="m0006" participant="135415" time="2013-03-10 22:57:07 UTC">
+      <body>oooo</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-03-10 22:57:09 UTC">
+      <body>Blonde girl </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-10 22:57:15 UTC">
+      <body>U didn't like her</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-03-10 23:02:40 UTC">
+      <body>She was a little full of herself for you I think</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-15 13:34:24 UTC">
+      <body>Martha, are you still planning on parking this morning?</body>
+    </message>
+    <message id="m0001" participant="137387" time="2013-06-15 13:37:59 UTC">
+      <body>Hi Sam.  Was just about to text you.  We are on our way.  Thank you Sam!</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-15 13:38:48 UTC">
+      <body>   Sounds good!</body>
+    </message>
+  </messages>
+</conversation>

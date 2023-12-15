@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-31 18:22:03 UTC" participant="154393">
+      <body>How's the quad?</body>
+    </message>
+    <message id="m0001" time="2012-12-31 18:22:04 UTC" participant="154393">
+      <body>Show I cash my voucher?</body>
+    </message>
+    <message id="m0002" time="2012-12-31 19:31:55 UTC" participant="154352">
+      <body>Just took a gigantic detour that required hailing down the shuttle on the side of the road to get back to the base</body>
+    </message>
+    <message id="m0003" time="2012-12-31 20:50:09 UTC" participant="154393">
+      <body>Wow. Where are you now?</body>
+    </message>
+    <message id="m0004" time="2012-12-31 21:20:37 UTC" participant="154352">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0005" time="2012-12-31 21:21:16 UTC" participant="154393">
+      <body>At the window maker.</body>
+    </message>
+  </messages>
+</conversation>
+

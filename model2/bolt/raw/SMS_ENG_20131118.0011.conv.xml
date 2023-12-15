@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131118.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-18 19:22:20 UTC" participant="153656">
+      <body>Hey! I'm in the studio til 6 today if ya still want to jam.</body>
+    </message>
+    <message id="m0001" time="2013-11-18 21:34:57 UTC" participant="153548">
+      <body>Hi!! I'm teaching and meeting students til about 8 tonight. Maybe we can hook up another night this week!</body>
+    </message>
+    <message id="m0002" time="2013-11-18 21:35:23 UTC" participant="153548">
+      <body>I might go in weds. Around 5.</body>
+    </message>
+  </messages>
+</conversation>
+

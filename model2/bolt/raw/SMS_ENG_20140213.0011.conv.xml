@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140213.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-13 19:22:53 UTC" participant="153653">
+      <body>Im packing! Mom said dulles has partially reopened! woo!</body>
+    </message>
+    <message id="m0001" time="2014-02-13 19:35:15 UTC" participant="153548">
+      <body>Awesome!! All flights out of philly still canceled today but mine is still on track. </body>
+    </message>
+    <message id="m0002" time="2014-02-13 19:35:31 UTC" participant="153653">
+      <body>Yay</body>
+    </message>
+    <message id="m0003" time="2014-02-14 12:01:35 UTC" participant="153653">
+      <body>Hows your flight?</body>
+    </message>
+    <message id="m0004" time="2014-02-14 12:09:29 UTC" participant="153548">
+      <body>Flight is okay! Getting to the airport had been harrowing.</body>
+    </message>
+    <message id="m0005" time="2014-02-14 12:09:46 UTC" participant="153548">
+      <body>Stolen route. All trains and taxis down</body>
+    </message>
+    <message id="m0006" time="2014-02-14 12:10:20 UTC" participant="153548">
+      <body>*still in route</body>
+    </message>
+    <message id="m0007" time="2014-02-14 12:11:25 UTC" participant="153548">
+      <body>I left the house on foot at 5:50</body>
+    </message>
+    <message id="m0008" time="2014-02-14 12:17:06 UTC" participant="153548">
+      <body>How about you!?</body>
+    </message>
+    <message id="m0009" time="2014-02-14 12:17:51 UTC" participant="153653">
+      <body>On time at security! Good luck!</body>
+    </message>
+    <message id="m0010" time="2014-02-14 12:26:21 UTC" participant="153653">
+      <body>Be safe!</body>
+    </message>
+    <message id="m0011" time="2014-02-14 12:31:33 UTC" participant="153653">
+      <body>Shld i tell you now that ive been out of deodorant a few days? Haha</body>
+    </message>
+    <message id="m0012" time="2014-02-14 12:39:09 UTC" participant="153548">
+      <body>HIPPY</body>
+    </message>
+    <message id="m0013" time="2014-02-14 12:58:16 UTC" participant="153653">
+      <body>I keep forgetting! Need to buy it today!</body>
+    </message>
+    <message id="m0014" time="2014-02-14 13:09:09 UTC" participant="153653">
+      <body>You at the airport?</body>
+    </message>
+    <message id="m0015" time="2014-02-14 13:09:49 UTC" participant="153548">
+      <body>Yes! They rushed me through security so I could board on time.</body>
+    </message>
+    <message id="m0016" time="2014-02-14 13:11:10 UTC" participant="153548">
+      <body>I'm boarding now. See you at 1:30 in LA. Let me know if you guys get tired of waiting and I'll take a shuttle or taxi to ems!</body>
+    </message>
+  </messages>
+</conversation>
+

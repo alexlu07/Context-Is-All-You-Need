@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121230.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-30 23:08:29 UTC">
+      <body>What time are you shooting for for dinner?</body>
+    </message>
+    <message id="m0001" participant="135266" time="2012-12-30 23:09:46 UTC">
+      <body>6:45 - 7:00</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 21:24:16 UTC" participant="153558">
+      <body>R u coming to Daniels </body>
+    </message>
+    <message id="m0001" time="2014-01-01 21:26:24 UTC" participant="153558">
+      <body>Foods good</body>
+    </message>
+    <message id="m0002" time="2014-01-01 21:27:01 UTC" participant="153547">
+      <body>I'm not sure. Probably not</body>
+    </message>
+  </messages>
+</conversation>
+

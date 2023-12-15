@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-15 18:37:55 UTC">
+      <body>Hey are u at temple?</body>
+    </message>
+    <message id="m0001" participant="136671" time="2013-07-15 18:38:31 UTC">
+      <body>Not today. What's up?</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-15 18:40:35 UTC">
+      <body>Not sure if i cleared out on of my drawers. Its cool i will stop by</body>
+    </message>
+    <message id="m0003" participant="136671" time="2013-07-15 18:50:19 UTC">
+      <body>In the old lab? I'm pretty sure we checked all the drawers but you can check</body>
+    </message>
+  </messages>
+</conversation>

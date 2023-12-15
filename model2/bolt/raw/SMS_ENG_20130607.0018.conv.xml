@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130659" time="2013-06-07 20:42:41 UTC">
+      <body>Ah.. We meet again</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-06-08 12:01:31 UTC">
+      <body>Hey there. I'm down visiting my fam for the wknd one last time before i take off on a month-long roadtrip. Hope youre enjoying the wknd.</body>
+    </message>
+    <message id="m0002" participant="130659" time="2013-06-08 12:41:06 UTC">
+      <body>I'm running errands... Story of my life... Where are you going on your road trip?</body>
+    </message>
+    <message id="m0003" participant="130978" time="2013-06-08 12:46:15 UTC">
+      <body>Up through the midwest, into canada, over to new england, then back down the east coast. Two weddings &amp; a music festival, plus visits with lots of old friends.</body>
+    </message>
+    <message id="m0004" participant="130978" time="2013-06-08 12:47:27 UTC">
+      <body>Very excited, but also very over budget! It'll be pb&amp;j's for quite awhile after i get home!</body>
+    </message>
+  </messages>
+</conversation>

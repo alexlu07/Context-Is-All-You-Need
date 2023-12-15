@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 19:12:00 UTC" participant="153553">
+      <body>Hey!! Is your interview happening today???</body>
+    </message>
+    <message id="m0001" time="2014-12-02 19:12:00 UTC" participant="153553">
+      <body>Good luck!</body>
+    </message>
+    <message id="m0002" time="2014-12-02 19:12:00 UTC" participant="153553">
+      <body>You're gonna be awesome! </body>
+    </message>
+    <message id="m0003" time="2014-12-02 21:39:26 UTC" participant="153548">
+      <body>I just got home. Day 1 is done!</body>
+    </message>
+    <message id="m0004" time="2014-12-02 21:41:09 UTC" participant="153548">
+      <body>Did you have a good thanksgiving??</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111111.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2011-11-11 00:38:12 UTC">
+      <body>Where r u guys now? We r at theatre, just checking in</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-11-11 00:41:00 UTC">
+      <body>Close! </body>
+    </message>
+    <message id="m0002" participant="135140" time="2011-11-11 07:21:29 UTC">
+      <body>R u ok?? Heard van broke down</body>
+    </message>
+    <message id="m0003" participant="135140" time="2011-11-11 07:21:33 UTC">
+      <body>Ok get home safe</body>
+    </message>
+  </messages>
+</conversation>

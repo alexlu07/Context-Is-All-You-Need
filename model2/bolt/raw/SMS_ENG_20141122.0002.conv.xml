@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141122.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-22 17:24:51 UTC" participant="152596">
+      <body>Hey. Will you come tonight? 7:30ish</body>
+    </message>
+    <message id="m0001" time="2014-11-22 18:02:11 UTC" participant="152417">
+      <body>Yep! Whats your address?</body>
+    </message>
+    <message id="m0003" time="2014-11-22 18:03:35 UTC" participant="152596">
+      <body>Near hazel st</body>
+    </message>
+    <message id="m0004" time="2014-11-22 22:52:23 UTC" participant="152417">
+      <body>Do you like brussel sprouts? </body>
+    </message>
+    <message id="m0005" time="2014-11-22 23:03:38 UTC" participant="152596">
+      <body>Yes :)</body>
+    </message>
+    <message id="m0006" time="2014-11-22 23:13:13 UTC" participant="152417">
+      <body>Thats good because i'm bringing roadted brussel sprouts</body>
+    </message>
+    <message id="m0007" time="2014-11-22 23:35:54 UTC" participant="152596">
+      <body>Sounds yummy</body>
+    </message>
+    <message id="m0008" time="2014-11-23 05:39:03 UTC" participant="152417">
+      <body>Home.  Thanks again for the borscht! See you soon i hope</body>
+    </message>
+    <message id="m0009" time="2014-11-23 05:54:27 UTC" participant="152596">
+      <body>It was fun! Goodnight</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120429.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-04-29 17:28:33 UTC">
+      <body>Lame o</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-04-29 17:29:07 UTC">
+      <body>He is.</body>
+    </message>
+    <message id="m0002" participant="131825" time="2012-04-29 17:29:36 UTC">
+      <body>Poor John :(</body>
+    </message>
+    <message id="m0003" participant="131825" time="2012-04-29 17:29:36 UTC">
+      <body>Is he ok?</body>
+    </message>
+    <message id="m0004" participant="131825" time="2012-04-29 17:29:36 UTC">
+      <body>How was the trip?</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-04-29 17:30:15 UTC">
+      <body>Too long</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-04-29 17:30:55 UTC">
+      <body>Sure it was fun</body>
+    </message>
+    <message id="m0007" participant="131825" time="2012-04-29 17:31:44 UTC">
+      <body>Was the concert fun?</body>
+    </message>
+    <message id="m0008" participant="131825" time="2012-04-29 18:03:44 UTC">
+      <body>How far are u guys?</body>
+    </message>
+    <message id="m0009" participant="131821" time="2012-04-29 18:04:23 UTC">
+      <body>Three hour away</body>
+    </message>
+    <message id="m0010" participant="131821" time="2012-04-29 18:05:20 UTC">
+      <body>You got it</body>
+    </message>
+    <message id="m0011" participant="131825" time="2012-04-29 18:05:52 UTC">
+      <body>Whew long drive </body>
+    </message>
+    <message id="m0012" participant="131825" time="2012-04-29 18:05:52 UTC">
+      <body>Good thing we don't have any problem sets!</body>
+    </message>
+    <message id="m0013" participant="131821" time="2012-04-29 18:07:14 UTC">
+      <body>I know right?</body>
+    </message>
+  </messages>
+</conversation>

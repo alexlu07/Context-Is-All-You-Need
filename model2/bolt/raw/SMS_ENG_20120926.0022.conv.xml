@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120926.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-26 00:35:33 UTC" participant="153418">
+      <body>My Friday class is actually from 12 to 1. Do you want to meet at 2 instead of 3?</body>
+    </message>
+    <message id="m0001" time="2012-09-26 15:29:42 UTC" participant="153440">
+      <body>Sure!! Thank u for letting me know! See u then:)</body>
+    </message>
+    <message id="m0002" time="2012-09-26 17:14:27 UTC" participant="153418">
+      <body>Hey, could you call me as soon as you can? </body>
+    </message>
+    <message id="m0003" time="2012-09-26 17:44:25 UTC" participant="153440">
+      <body>I called u~! What's up??</body>
+    </message>
+  </messages>
+</conversation>
+

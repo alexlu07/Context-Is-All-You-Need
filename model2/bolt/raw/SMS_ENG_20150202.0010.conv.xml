@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 19:18:24 UTC" participant="152321">
+      <body>Did you ever send me your slide show for intro? I'd love to use it :)</body>
+    </message>
+    <message id="m0001" time="2015-02-02 19:31:12 UTC" participant="152212">
+      <body>Let me get that to you... Can we start a shared dropbox folder?</body>
+    </message>
+    <message id="m0002" time="2015-02-02 19:31:12 UTC" participant="152321">
+      <body>Great idea</body>
+    </message>
+    <message id="m0003" time="2015-02-02 19:33:20 UTC" participant="152212">
+      <body>Sent you an email! Let me know!</body>
+    </message>
+    <message id="m0004" time="2015-02-02 19:33:20 UTC" participant="152212">
+      <body>This feels like this should have happened a long time ago.</body>
+    </message>
+  </messages>
+</conversation>
+

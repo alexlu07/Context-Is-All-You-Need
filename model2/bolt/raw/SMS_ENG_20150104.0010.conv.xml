@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 19:25:18 UTC" participant="153543">
+      <body>How was the Ke$ha party? </body>
+    </message>
+    <message id="m0001" time="2015-01-04 21:04:11 UTC" participant="153491">
+      <body>It was good, got to dress up and wear horns :) how is your weekend?</body>
+    </message>
+    <message id="m0002" time="2015-01-05 01:29:31 UTC" participant="153543">
+      <body>Horns ehh? lol. Not too bad, felt a little sick so been resting all weekend. </body>
+    </message>
+    <message id="m0003" time="2015-01-05 01:32:32 UTC" participant="153491">
+      <body>Oh no, caught a cold?</body>
+    </message>
+    <message id="m0004" time="2015-01-05 14:07:10 UTC" participant="153491">
+      <body>How are you feeling?</body>
+    </message>
+    <message id="m0005" time="2015-01-05 16:18:22 UTC" participant="153543">
+      <body>Better. Drank alot of OJ. Lol. How are you? </body>
+    </message>
+  </messages>
+</conversation>
+

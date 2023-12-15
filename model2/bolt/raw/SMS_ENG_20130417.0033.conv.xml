@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135080" time="2013-04-17 18:26:59 UTC">
+      <body>Don't know what that text said</body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-04-17 18:29:02 UTC">
+      <body>It didn't go through. News is that a suspect was arrested. </body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-04-17 18:53:41 UTC">
+      <body>Now the news is that no, no one was arrested. </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-17 18:54:07 UTC">
+      <body>The media is so dumb sometimes.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140119.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-19 19:46:08 UTC" participant="152560">
+      <body>I just got word that the party is rescheduled-Lisa isn't feeling well. We can grab a bite to eat and catch a movie if you want (we have Roxy gift certificates!)...just a thought. </body>
+    </message>
+    <message id="m0001" time="2014-01-19 21:11:28 UTC" participant="152560">
+      <body>"Her" (that Spike Jonze movie with Joaquin Phoenix) plays at 6:40 and 9:05...</body>
+    </message>
+    <message id="m0002" time="2014-01-19 21:52:42 UTC" participant="152417">
+      <body>Yea! Come meet me at 530</body>
+    </message>
+    <message id="m0003" time="2014-01-19 21:54:04 UTC" participant="152560">
+      <body>Cool. See you then. :)</body>
+    </message>
+    <message id="m0004" time="2014-01-19 22:15:28 UTC" participant="152560">
+      <body>Just running the girls outside. Be there soon. </body>
+    </message>
+    <message id="m0005" time="2014-01-19 22:32:21 UTC" participant="152417">
+      <body>Cool, lemme know when youre here</body>
+    </message>
+    <message id="m0006" time="2014-01-19 22:40:34 UTC" participant="152560">
+      <body>I'm in the lobby.</body>
+    </message>
+  </messages>
+</conversation>
+

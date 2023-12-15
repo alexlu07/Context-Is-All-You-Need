@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135461" time="2013-02-01 16:00:00 UTC">
+      <body>  hi babe. can you return the computer to tech central today when Nadia's done with it? thank you!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-01 16:37:56 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135461" time="2013-02-01 16:38:21 UTC">
+      <body>tanks. have a good weekend</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-01 16:42:15 UTC">
+      <body>U too. Save the date feb 9 for party time. </body>
+    </message>
+    <message id="m0004" participant="135461" time="2013-02-01 16:43:03 UTC">
+      <body>you havin a party?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-01 16:43:41 UTC">
+      <body>Hell yeah. Accept my friendship on Facebook so I can invite you</body>
+    </message>
+  </messages>
+</conversation>

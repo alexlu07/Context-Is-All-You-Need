@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110831.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135112" time="2011-08-31 23:19:15 UTC">
+      <body>I just saw fred rogers youthful on a bike</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-31 23:32:23 UTC">
+      <body>Are there cat hand puppets too?</body>
+    </message>
+    <message id="m0002" participant="135112" time="2011-08-31 23:36:09 UTC">
+      <body>Haha. Just a big goofy smile.</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-01 16:26:00 UTC">
+      <body>Is everything ok?</body>
+    </message>
+  </messages>
+</conversation>

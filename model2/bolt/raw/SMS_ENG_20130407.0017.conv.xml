@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2013-04-07 20:20:04 UTC">
+      <body>Hey, are you going to Tatyana's thing today? Dunno if you're back from your trip yet..</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-04-07 20:30:44 UTC">
+      <body>Hey! No, we're getting back tomorrow...apartment hunting tmw :-)</body>
+    </message>
+    <message id="m0002" participant="131453" time="2013-04-07 20:31:24 UTC">
+      <body>Exciting! Have fun. </body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-04-07 21:17:14 UTC">
+      <body>Thanks! Enjoy the gathering!</body>
+    </message>
+  </messages>
+</conversation>

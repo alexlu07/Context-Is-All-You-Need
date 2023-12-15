@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0022" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131711" time="2013-07-15 19:53:40 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="135955" time="2013-07-15 19:54:58 UTC">
+      <body>Hey. How are you?</body>
+    </message>
+    <message id="m0002" participant="131711" time="2013-07-16 01:39:51 UTC">
+      <body>Good you?</body>
+    </message>
+    <message id="m0003" participant="135955" time="2013-07-16 11:11:32 UTC">
+      <body>Exhausted yesterday but better today. I'm at work now. When you first texted me I was walking home with groceries because I missed the bus. Ugh.</body>
+    </message>
+    <message id="m0004" participant="131711" time="2013-07-16 11:44:07 UTC">
+      <body>Ouch! I know that feeling all to well! Over here in LA the busses sometimes just pass right on by!</body>
+    </message>
+    <message id="m0005" participant="135955" time="2013-07-16 13:27:11 UTC">
+      <body>LA as in Los Angeles or LA as in Louisiana? Rochester, NY, here.</body>
+    </message>
+  </messages>
+</conversation>

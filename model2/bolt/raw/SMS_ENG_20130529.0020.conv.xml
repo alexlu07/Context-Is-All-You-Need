@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131947" time="2013-05-29 17:12:51 UTC">
+      <body>Did you find a gift card that a customer left behind on Saturday?</body>
+    </message>
+    <message id="m0001" participant="131945" time="2013-05-29 17:13:36 UTC">
+      <body>Nope, didn't even know it existed</body>
+    </message>
+    <message id="m0002" participant="131947" time="2013-05-29 17:17:44 UTC">
+      <body>Yeah, I keep telling everyone that if we found a gift card lying around we would have just deposited it</body>
+    </message>
+    <message id="m0003" participant="131947" time="2013-05-29 17:17:53 UTC">
+      <body>But no one believes me</body>
+    </message>
+    <message id="m0004" participant="131945" time="2013-05-29 17:18:56 UTC">
+      <body>We had like 2 customers anyway,  we would have totally seen it</body>
+    </message>
+  </messages>
+</conversation>

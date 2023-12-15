@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120507.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2012-05-07 22:21:12 UTC">
+      <body>In Phoenix! See you in a few hrs, I'll text you when I'm close to the unit</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-05-07 22:59:54 UTC">
+      <body>Sweet! Talk to Ryan ASAP please</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-05-07 23:29:24 UTC">
+      <body>Having a living situation discussion over dinner btw</body>
+    </message>
+    <message id="m0003" participant="131063" time="2012-05-08 00:48:08 UTC">
+      <body>I will! He's at work right now but I'll talk to him once he's done.</body>
+    </message>
+    <message id="m0004" participant="131019" time="2012-05-08 00:48:28 UTC">
+      <body>Okie</body>
+    </message>
+  </messages>
+</conversation>

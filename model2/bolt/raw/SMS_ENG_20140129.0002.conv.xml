@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140129.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-29 00:29:19 UTC" participant="153452">
+      <body>John we won't be able to do mitsuwa and philly 2/17 cause I have not off</body>
+    </message>
+    <message id="m0001" time="2014-01-29 00:39:38 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+    <message id="m0002" time="2014-01-29 00:44:21 UTC" participant="153452">
+      <body>Do u want to do superbowl at pho Towson</body>
+    </message>
+    <message id="m0003" time="2014-01-29 00:45:55 UTC" participant="153418">
+      <body>I thought we were doing that after the meetup?</body>
+    </message>
+    <message id="m0004" time="2014-01-29 00:54:04 UTC" participant="153452">
+      <body>Yes. I just wanted to make sure</body>
+    </message>
+  </messages>
+</conversation>
+

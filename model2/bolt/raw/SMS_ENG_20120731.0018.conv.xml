@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120731.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-31 23:57:49 UTC">
+      <body>Hey Mario. I left your ticket at the box office labeled last name A-M. You can pick it up there. </body>
+    </message>
+    <message id="m0001" participant="136242" time="2012-08-01 00:09:00 UTC">
+      <body>Lets say I didnt know where that was lol</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-01 00:09:29 UTC">
+      <body>Enter the park at 81 and walk straight. Ask someone if you have to</body>
+    </message>
+    <message id="m0003" participant="136242" time="2012-08-01 00:16:01 UTC">
+      <body>Hope im going the right way</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-08-01 00:16:10 UTC">
+      <body>Follow the music</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-08-01 00:22:52 UTC">
+      <body>I see you</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140823.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-23 18:17:25 UTC" participant="153900">
+      <body>Hey have you cut anybody hair lately</body>
+    </message>
+    <message id="m0001" time="2014-08-23 18:21:05 UTC" participant="153244">
+      <body>No y</body>
+    </message>
+    <message id="m0002" time="2014-08-23 18:21:46 UTC" participant="153900">
+      <body>I wanted one on</body>
+    </message>
+    <message id="m0003" time="2014-08-23 18:42:16 UTC" participant="153244">
+      <body>Ok but I probably won't have time tiday or tomorrow</body>
+    </message>
+    <message id="m0004" time="2014-08-23 19:46:06 UTC" participant="153900">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2014-08-24 13:44:28 UTC" participant="153244">
+      <body>How much for phone bill?</body>
+    </message>
+    <message id="m0006" time="2014-08-24 13:46:06 UTC" participant="153900">
+      <body>60 plus 20 for shirts</body>
+    </message>
+    <message id="m0007" time="2014-08-24 13:48:03 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

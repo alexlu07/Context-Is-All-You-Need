@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20090409.0001" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" time="2009-04-09 18:10:11 UTC" participant="152990">
+      <body>lee?</body>
+    </message>
+    <message id="m0001" time="2009-04-09 18:10:18 UTC" participant="152697">
+      <body>Hey Amy!</body>
+    </message>
+    <message id="m0002" time="2009-04-09 18:10:25 UTC" participant="152990">
+      <body>hey!</body>
+    </message>
+    <message id="m0003" time="2009-04-09 18:10:29 UTC" participant="152697">
+      <body>I heard you were going to call me.</body>
+    </message>
+    <message id="m0004" time="2009-04-09 18:10:32 UTC" participant="152697">
+      <body>Or chat me.</body>
+    </message>
+    <message id="m0005" time="2009-04-09 18:10:34 UTC" participant="152990">
+      <body>yeah!</body>
+    </message>
+    <message id="m0006" time="2009-04-09 18:10:40 UTC" participant="152990">
+      <body>can i call you now?  are you busy?</body>
+    </message>
+    <message id="m0007" time="2009-04-09 18:11:01 UTC" participant="152697">
+      <body>Yeah, sure!</body>
+    </message>
+    <message id="m0008" time="2009-04-09 18:11:07 UTC" participant="152990">
+      <body>ok</body>
+    </message>
+    <message id="m0009" time="2009-04-09 18:11:16 UTC" participant="152697">
+      <body>Okay!</body>
+    </message>
+  </messages>
+</conversation>
+

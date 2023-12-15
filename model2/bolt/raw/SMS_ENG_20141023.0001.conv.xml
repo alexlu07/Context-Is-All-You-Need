@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141023.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-23 12:54:05 UTC" participant="152584">
+      <body>Hey. Still good for 10?</body>
+    </message>
+    <message id="m0001" time="2014-10-23 13:43:31 UTC" participant="152417">
+      <body>I'm not prepared enough for today, perhaps we should skip this week?  Sorry for late notice</body>
+    </message>
+    <message id="m0002" time="2014-10-23 13:45:44 UTC" participant="152584">
+      <body>It's ok. See you next week. </body>
+    </message>
+  </messages>
+</conversation>
+

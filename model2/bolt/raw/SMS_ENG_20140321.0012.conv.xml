@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 15:59:03 UTC" participant="153548">
+      <body>Do you have lunch now? I have a quick insurance question</body>
+    </message>
+    <message id="m0001" time="2014-03-21 16:00:39 UTC" participant="153632">
+      <body>Yup call me</body>
+    </message>
+    <message id="m0002" time="2014-03-21 16:00:46 UTC" participant="153632">
+      <body>Or text. Whatev</body>
+    </message>
+    <message id="m0003" time="2014-03-21 16:01:56 UTC" participant="153548">
+      <body>Just tried:(</body>
+    </message>
+  </messages>
+</conversation>
+

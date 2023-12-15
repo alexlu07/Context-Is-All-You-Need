@@ -1,0 +1,842 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2012-10-28 23:15:12 UTC">
+      <body>You at airport?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-10-28 23:16:17 UTC">
+      <body>Yeah. Talking to Joe</body>
+    </message>
+    <message id="m0002" participant="131502" time="2012-10-28 23:17:20 UTC">
+      <body>Ok. Just was wondering</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-10-28 23:19:03 UTC">
+      <body>Joe was also kind of hoping it would be cancelled. He doesn't want to get caught in Charlotte.</body>
+    </message>
+    <message id="m0004" participant="131502" time="2012-10-28 23:19:28 UTC">
+      <body>Hopefully not</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-10-28 23:35:55 UTC">
+      <body>Our plane is here, but our crew isn't. </body>
+    </message>
+    <message id="m0006" participant="131502" time="2012-10-28 23:36:32 UTC">
+      <body>Why?</body>
+    </message>
+    <message id="m0007" participant="130706" time="2012-10-28 23:37:08 UTC">
+      <body>They are getting off (deplaning) at another gate. Will be here shortly.</body>
+    </message>
+    <message id="m0008" participant="130706" time="2012-10-28 23:37:57 UTC">
+      <body>I forgot to bring birthday cookies for Joe.</body>
+    </message>
+    <message id="m0009" participant="131502" time="2012-10-28 23:38:40 UTC">
+      <body>Oh well!</body>
+    </message>
+    <message id="m0010" participant="130706" time="2012-10-28 23:39:05 UTC">
+      <body>Whatever. Joe thinks we won't make our connection. I agree.</body>
+    </message>
+    <message id="m0011" participant="130706" time="2012-10-28 23:40:07 UTC">
+      <body>Everyone at the airport is upset. So many cancelled flights and passengers freaking out.</body>
+    </message>
+    <message id="m0012" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>Stupid that your plane is going. That makes me mad!</body>
+    </message>
+    <message id="m0013" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>I agree too</body>
+    </message>
+    <message id="m0014" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>You're supposed to leave in 5 mins and that clearly isn't happening</body>
+    </message>
+    <message id="m0015" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>Oh well</body>
+    </message>
+    <message id="m0016" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>And yours isn't!!!!!!!!!!!!</body>
+    </message>
+    <message id="m0017" participant="131502" time="2012-10-28 23:40:48 UTC">
+      <body>Maybe there's hope. Perhaps the pilot is drunk</body>
+    </message>
+    <message id="m0018" participant="130706" time="2012-10-28 23:41:49 UTC">
+      <body>It is what it is. On the plus side, the client only has six months of records because they a startup. Makes it easier.</body>
+    </message>
+    <message id="m0019" participant="131502" time="2012-10-28 23:42:56 UTC">
+      <body>True</body>
+    </message>
+    <message id="m0020" participant="130706" time="2012-10-28 23:43:19 UTC">
+      <body>Joe told me to hold off on working any of last week's report and to focus on DD.    Sorry Dave.</body>
+    </message>
+    <message id="m0021" participant="130706" time="2012-10-28 23:44:30 UTC">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0022" participant="131502" time="2012-10-28 23:45:04 UTC">
+      <body>At least that removes a bit of pressure from you ...</body>
+    </message>
+    <message id="m0023" participant="131502" time="2012-10-29 00:04:16 UTC">
+      <body>Fine. </body>
+    </message>
+    <message id="m0024" participant="130706" time="2012-10-29 00:05:37 UTC">
+      <body>On plane</body>
+    </message>
+    <message id="m0025" participant="130706" time="2012-10-29 00:05:48 UTC">
+      <body>How you making out?</body>
+    </message>
+    <message id="m0026" participant="130706" time="2012-10-29 00:06:30 UTC">
+      <body>At home, or at Mom's?</body>
+    </message>
+    <message id="m0027" participant="130706" time="2012-10-29 00:07:01 UTC">
+      <body>Sump pumping yet?</body>
+    </message>
+    <message id="m0028" participant="130706" time="2012-10-29 00:07:24 UTC">
+      <body>Tha is cool</body>
+    </message>
+    <message id="m0029" participant="130706" time="2012-10-29 00:08:16 UTC">
+      <body>Yeah, agreed all around.</body>
+    </message>
+    <message id="m0030" participant="131502" time="2012-10-29 00:08:32 UTC">
+      <body>Home</body>
+    </message>
+    <message id="m0031" participant="131502" time="2012-10-29 00:08:32 UTC">
+      <body>Haven't checked</body>
+    </message>
+    <message id="m0032" participant="131502" time="2012-10-29 00:08:32 UTC">
+      <body>Hopefully you do not get stuck in Charlotte</body>
+    </message>
+    <message id="m0033" participant="130706" time="2012-10-29 00:08:39 UTC">
+      <body>Still boarding.</body>
+    </message>
+    <message id="m0034" participant="130706" time="2012-10-29 00:09:23 UTC">
+      <body>If they don't hurry up the hurricane will get here. Then we're going no-where.</body>
+    </message>
+    <message id="m0035" participant="130706" time="2012-10-29 00:10:25 UTC">
+      <body>I asked Joe if he thought Trump would take the million $ challenge. He started cracking up.</body>
+    </message>
+    <message id="m0036" participant="131502" time="2012-10-29 00:10:40 UTC">
+      <body>He knew what you were talking about obviously</body>
+    </message>
+    <message id="m0037" participant="130706" time="2012-10-29 00:11:55 UTC">
+      <body>Yes. I think if the atmosphere is right, I'll try telling him I'm not going to dinner. But not because I'm studying, but because I don't like him.</body>
+    </message>
+    <message id="m0038" participant="130706" time="2012-10-29 00:12:14 UTC">
+      <body>Go sumpy!!</body>
+    </message>
+    <message id="m0039" participant="131502" time="2012-10-29 00:12:48 UTC">
+      <body>I hear the sump</body>
+    </message>
+    <message id="m0040" participant="131502" time="2012-10-29 00:12:48 UTC">
+      <body>Lola</body>
+    </message>
+    <message id="m0041" participant="131502" time="2012-10-29 00:12:48 UTC">
+      <body>lolz</body>
+    </message>
+    <message id="m0042" participant="131502" time="2012-10-29 00:12:48 UTC">
+      <body>Auto correct don't know shit</body>
+    </message>
+    <message id="m0043" participant="130706" time="2012-10-29 00:13:02 UTC">
+      <body>I know. I had to recorrect it from dumpy to sumpy.</body>
+    </message>
+    <message id="m0044" participant="130706" time="2012-10-29 00:14:16 UTC">
+      <body>Can you do your best to contact Katherine? We need to figure out Christmas b/c we need to book by the 31st.</body>
+    </message>
+    <message id="m0045" participant="131502" time="2012-10-29 00:14:56 UTC">
+      <body>It's loud</body>
+    </message>
+    <message id="m0046" participant="131502" time="2012-10-29 00:14:56 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0047" participant="131502" time="2012-10-29 00:19:12 UTC">
+      <body>I love you too</body>
+    </message>
+    <message id="m0048" participant="131502" time="2012-10-29 00:19:12 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0049" participant="130706" time="2012-10-29 00:19:28 UTC">
+      <body>I love you</body>
+    </message>
+    <message id="m0050" participant="130706" time="2012-10-29 00:19:33 UTC">
+      <body>Gotta slit</body>
+    </message>
+    <message id="m0051" participant="130706" time="2012-10-29 00:19:36 UTC">
+      <body>Split</body>
+    </message>
+    <message id="m0052" participant="130706" time="2012-10-29 00:19:49 UTC">
+      <body>Txt from Charlotte?</body>
+    </message>
+    <message id="m0053" participant="130706" time="2012-10-29 00:20:06 UTC">
+      <body>Will do.</body>
+    </message>
+    <message id="m0054" participant="130706" time="2012-10-29 00:20:15 UTC">
+      <body>Bye for now</body>
+    </message>
+    <message id="m0055" participant="131502" time="2012-10-29 00:21:20 UTC">
+      <body>Bye bye</body>
+    </message>
+    <message id="m0056" participant="131502" time="2012-10-29 02:00:43 UTC">
+      <body>out</body>
+    </message>
+    <message id="m0057" participant="130706" time="2012-10-29 02:00:59 UTC">
+      <body>Just landed</body>
+    </message>
+    <message id="m0058" participant="131502" time="2012-10-29 02:01:36 UTC">
+      <body>Hopefully you make it!</body>
+    </message>
+    <message id="m0059" participant="131502" time="2012-10-29 02:01:36 UTC">
+      <body>E:0</body>
+    </message>
+    <message id="m0060" participant="131502" time="2012-10-29 02:01:36 UTC">
+      <body>20</body>
+    </message>
+    <message id="m0061" participant="131502" time="2012-10-29 02:01:44 UTC">
+      <body>Your in the air. But good news is your connection was also delayed and looks to be getting in 18 mins before your flight. May work </body>
+    </message>
+    <message id="m0062" participant="131502" time="2012-10-29 02:01:45 UTC">
+      <body>Meh! Says it leaves in 16 mins, you land in 11.</body>
+    </message>
+    <message id="m0063" participant="130706" time="2012-10-29 02:01:54 UTC">
+      <body>I think out connector be gone. Flight 2799. Boarded at 941</body>
+    </message>
+    <message id="m0064" participant="130706" time="2012-10-29 02:02:14 UTC">
+      <body>Does it say what gate?</body>
+    </message>
+    <message id="m0065" participant="130706" time="2012-10-29 02:02:50 UTC">
+      <body>We gonna hustle</body>
+    </message>
+    <message id="m0066" participant="131502" time="2012-10-29 02:03:44 UTC">
+      <body>Good luck! Says it leaves at 10:11</body>
+    </message>
+    <message id="m0067" participant="131502" time="2012-10-29 02:05:45 UTC">
+      <body>You're</body>
+    </message>
+    <message id="m0068" participant="130706" time="2012-10-29 02:16:14 UTC">
+      <body>Missed it</body>
+    </message>
+    <message id="m0069" participant="131502" time="2012-10-29 02:16:32 UTC">
+      <body>Boo!</body>
+    </message>
+    <message id="m0070" participant="130706" time="2012-10-29 02:17:01 UTC">
+      <body>Police are searching Villanova for "at large suspect"</body>
+    </message>
+    <message id="m0071" participant="130706" time="2012-10-29 02:17:13 UTC">
+      <body>They still text me</body>
+    </message>
+    <message id="m0072" participant="131502" time="2012-10-29 02:18:40 UTC">
+      <body>Weird</body>
+    </message>
+    <message id="m0073" participant="130706" time="2012-10-29 02:20:47 UTC">
+      <body>Man, some girl missed the same Austin flight and she's sobbing.</body>
+    </message>
+    <message id="m0074" participant="130706" time="2012-10-29 02:21:55 UTC">
+      <body>Gotta call Marriott to cancel</body>
+    </message>
+    <message id="m0075" participant="131502" time="2012-10-29 02:22:56 UTC">
+      <body>Bruce is so right about the airport being full of emotions. </body>
+    </message>
+    <message id="m0076" participant="131502" time="2012-10-29 02:22:56 UTC">
+      <body>Cool. Let me know what's up. I'll call before I go to bed</body>
+    </message>
+    <message id="m0077" participant="130706" time="2012-10-29 02:34:21 UTC">
+      <body>Will do</body>
+    </message>
+    <message id="m0078" participant="130706" time="2012-10-29 11:05:16 UTC">
+      <body>Awake?</body>
+    </message>
+    <message id="m0079" participant="131502" time="2012-10-29 13:58:03 UTC">
+      <body/>
+    </message>
+    <message id="m0080" participant="131502" time="2012-10-29 14:01:30 UTC">
+      <body/>
+    </message>
+    <message id="m0081" participant="130706" time="2012-10-29 14:55:46 UTC">
+      <body>Wow, you got m scared when I saw the text preview "water coming from sump. Filling up fast" I thought the sump was overflowing! </body>
+    </message>
+    <message id="m0082" participant="130706" time="2012-10-29 15:22:12 UTC">
+      <body>Was told by Joe that I shouldn't have emailed everyone regarding the fact I'd sent the report.</body>
+    </message>
+    <message id="m0083" participant="131502" time="2012-10-29 15:23:44 UTC">
+      <body>Ridiculous </body>
+    </message>
+    <message id="m0084" participant="131502" time="2012-10-29 15:23:44 UTC">
+      <body>This team thing is retarded when one member really is lacking</body>
+    </message>
+    <message id="m0085" participant="130706" time="2012-10-29 15:24:04 UTC">
+      <body>Joe said it wasnt very team oriented. I told Joe I felt like I was being thrown under a bus and I was sick of redoing work I'd already done.</body>
+    </message>
+    <message id="m0086" participant="131502" time="2012-10-29 15:28:00 UTC">
+      <body>It's not very team oriented to make you pick up all the slack and then tell you to keep your mouth shut. Oh and then after months of keeping your mouth shut accuse you of not liking Dave. Stupid</body>
+    </message>
+    <message id="m0087" participant="130706" time="2012-10-29 15:35:15 UTC">
+      <body>Joe said that if I want to lead, reports. I Need to get  reports out (like Trumpet). This discussion came up because I said the report would have been closer to completion if I wasnt redoing work I'd previously done.</body>
+    </message>
+    <message id="m0088" participant="130706" time="2012-10-29 15:36:00 UTC">
+      <body>I the said I felt like I was unfairly burdened because I was completing stuff, turning it in, and feeling thrown under the bus.</body>
+    </message>
+    <message id="m0089" participant="130706" time="2012-10-29 15:36:24 UTC">
+      <body>Joe said it didn't seem very team like. </body>
+    </message>
+    <message id="m0090" participant="131502" time="2012-10-29 15:36:32 UTC">
+      <body>Seriously. This is the type of stuff that makes me think you should screw this job</body>
+    </message>
+    <message id="m0091" participant="130706" time="2012-10-29 15:37:11 UTC">
+      <body>I said if he thinks I am a poor team member, than perhaps I would play better on another team.</body>
+    </message>
+    <message id="m0092" participant="130706" time="2012-10-29 15:38:01 UTC">
+      <body>He kind of backed off after that. Just reframed it as how things appear to Mark regarding teamwork.</body>
+    </message>
+    <message id="m0093" participant="130706" time="2012-10-29 15:38:39 UTC">
+      <body>I just said I was getting frustrated because I didn't think the standards were the same.</body>
+    </message>
+    <message id="m0094" participant="130706" time="2012-10-29 15:38:55 UTC">
+      <body>Gotta go</body>
+    </message>
+    <message id="m0095" participant="130706" time="2012-10-29 15:38:59 UTC">
+      <body>Love you</body>
+    </message>
+    <message id="m0096" participant="131502" time="2012-10-29 15:40:48 UTC">
+      <body>Love you too</body>
+    </message>
+    <message id="m0097" participant="130706" time="2012-10-29 16:29:55 UTC">
+      <body>Landed.</body>
+    </message>
+    <message id="m0098" participant="131502" time="2012-10-29 16:30:06 UTC">
+      <body>get things out, but you ALSO cannot explain why because it is not </body>
+    </message>
+    <message id="m0099" participant="131502" time="2012-10-29 16:30:07 UTC">
+      <body>of crap you are reprimanded for is outrageous ... Screw it, if Mark </body>
+    </message>
+    <message id="m0100" participant="131502" time="2012-10-29 16:30:08 UTC">
+      <body>frustrated. </body>
+    </message>
+    <message id="m0101" participant="130706" time="2012-10-29 16:30:40 UTC">
+      <body>I suppose I should have gotten VQ out over the weekend. I'll do it tonight. </body>
+    </message>
+    <message id="m0102" participant="131502" time="2012-10-29 16:31:08 UTC">
+      <body>want to be on their team? You have EVERY right to be </body>
+    </message>
+    <message id="m0103" participant="130706" time="2012-10-29 16:31:54 UTC">
+      <body>Plus, it doesn't commend me to a lead if reports aren't getting out... But Dave who puts out shit... Late.... Can be a lead!!</body>
+    </message>
+    <message id="m0104" participant="131502" time="2012-10-29 16:32:00 UTC">
+      <body>That's what I was saying. Dave can put reports out late and shitty and be a lead</body>
+    </message>
+    <message id="m0105" participant="131502" time="2012-10-29 16:32:00 UTC">
+      <body>You can work your ass off to cover for his shortcomings and not be a lead.</body>
+    </message>
+    <message id="m0106" participant="131502" time="2012-10-29 16:32:00 UTC">
+      <body>Outrageous</body>
+    </message>
+    <message id="m0107" participant="130706" time="2012-10-29 16:32:01 UTC">
+      <body>Fuck there team</body>
+    </message>
+    <message id="m0108" participant="130706" time="2012-10-29 16:32:13 UTC">
+      <body>Team Lathrop out.</body>
+    </message>
+    <message id="m0109" participant="130706" time="2012-10-29 16:33:00 UTC">
+      <body>I'd rather go to a Team where I'm appreciated.</body>
+    </message>
+    <message id="m0110" participant="130706" time="2012-10-29 16:33:25 UTC">
+      <body>Apparently.</body>
+    </message>
+    <message id="m0111" participant="131502" time="2012-10-29 16:34:08 UTC">
+      <body>It is very upsetting. You do so much work and seem to be told what you're doing wrong</body>
+    </message>
+    <message id="m0112" participant="131502" time="2012-10-29 16:35:09 UTC">
+      <body>I know you're on a plane. This team thing is being taken too far. You </body>
+    </message>
+    <message id="m0113" participant="131502" time="2012-10-29 16:36:06 UTC">
+      <body>team like. BUT, Dave can take forever and still be a lead. The amount </body>
+    </message>
+    <message id="m0114" participant="131502" time="2012-10-29 16:36:08 UTC">
+      <body>and Joe don't think you're a team player you're right, why would you </body>
+    </message>
+    <message id="m0115" participant="131502" time="2012-10-29 16:36:16 UTC">
+      <body>You should not have to put up with this sort of abuse. There are plenty of companies out there that are not dysfunctional</body>
+    </message>
+    <message id="m0116" participant="130706" time="2012-10-29 16:43:38 UTC">
+      <body>I agree. But I still think it would behoove me to stay thru Kanuary</body>
+    </message>
+    <message id="m0117" participant="131502" time="2012-10-29 16:44:48 UTC">
+      <body>Probably. Clearly keep your mouth shut and make Dave look as good as possible.</body>
+    </message>
+    <message id="m0118" participant="131502" time="2012-10-29 16:45:09 UTC">
+      <body>are being told you cannot lead reviews when it takes you a while to </body>
+    </message>
+    <message id="m0119" participant="130706" time="2012-10-29 16:45:40 UTC">
+      <body>Yeah, fuck this.</body>
+    </message>
+    <message id="m0120" participant="131502" time="2012-10-29 16:46:56 UTC">
+      <body>Did Joe even seem to care that you're frustrated, held to different standards and cannot explain work issues (not your fault) you are being evaluated on?</body>
+    </message>
+    <message id="m0121" participant="130706" time="2012-10-29 16:50:13 UTC">
+      <body>Joe started saying that I don't see all the comments Dave gets back when I brought up quality of work and review standards.</body>
+    </message>
+    <message id="m0122" participant="130706" time="2012-10-29 16:50:44 UTC">
+      <body>And I said that I wouldn't have been hired if I got the same.</body>
+    </message>
+    <message id="m0123" participant="130706" time="2012-10-29 16:51:00 UTC">
+      <body>Joe couldn't say anything to that</body>
+    </message>
+    <message id="m0124" participant="130706" time="2012-10-29 16:52:22 UTC">
+      <body>That's when he switched to saying it was advice and how Mark views things.</body>
+    </message>
+    <message id="m0125" participant="130706" time="2012-10-29 16:53:06 UTC">
+      <body>Which is when I said perhaps I should find a new team.</body>
+    </message>
+    <message id="m0126" participant="130706" time="2012-10-29 16:54:13 UTC">
+      <body>About 5 minutes later I mentioned how Hunter Pence managed to get a world series ring. </body>
+    </message>
+    <message id="m0127" participant="130706" time="2012-10-29 16:54:34 UTC">
+      <body>Maybe the phillies should have held onto him</body>
+    </message>
+    <message id="m0128" participant="130706" time="2012-10-29 16:56:54 UTC">
+      <body>I ended by sharing that I was frustrated and obviously not changing anyone's opinion. I thanked Joe for the feedback and dropped the subject.</body>
+    </message>
+    <message id="m0129" participant="131502" time="2012-10-29 16:57:36 UTC">
+      <body>Who knows. They obviously know how to keep their employees happy</body>
+    </message>
+    <message id="m0130" participant="131502" time="2012-10-29 16:59:44 UTC">
+      <body>I think it's ridiculous that you are being evaluated on the speed at which reports go out but you cannot mention when delays are DAVE (not team) related. And if Dave is getting so many review comments why on earth are they keeping him and admonishing you?</body>
+    </message>
+    <message id="m0131" participant="131502" time="2012-10-29 16:59:44 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0132" participant="130706" time="2012-10-29 17:00:58 UTC">
+      <body>Gotta go, but yes. I agree.</body>
+    </message>
+    <message id="m0133" participant="130706" time="2012-10-30 01:04:57 UTC">
+      <body>Just left client.</body>
+    </message>
+    <message id="m0134" participant="131502" time="2012-10-30 01:06:08 UTC">
+      <body>Going to dinner? Or what?</body>
+    </message>
+    <message id="m0135" participant="131502" time="2012-10-30 01:08:16 UTC">
+      <body>￼Sump emptying which I think is cool</body>
+    </message>
+    <message id="m0136" participant="131502" time="2012-10-30 01:10:24 UTC">
+      <body>Any responses?</body>
+    </message>
+    <message id="m0137" participant="130706" time="2012-10-30 01:11:31 UTC">
+      <body>Oh, no dinner</body>
+    </message>
+    <message id="m0138" participant="130706" time="2012-10-30 01:11:36 UTC">
+      <body>I'm too cool</body>
+    </message>
+    <message id="m0139" participant="130706" time="2012-10-30 01:12:16 UTC">
+      <body>Yeah. Nice!!</body>
+    </message>
+    <message id="m0140" participant="131502" time="2012-10-30 01:12:32 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0141" participant="131502" time="2012-10-30 01:12:32 UTC">
+      <body>Did you get my video?</body>
+    </message>
+    <message id="m0142" participant="131502" time="2012-10-30 01:25:20 UTC">
+      <body>Kids be asleep. Today was just lots of rain. The wind now is out of this world. </body>
+    </message>
+    <message id="m0143" participant="130706" time="2012-10-30 01:26:10 UTC">
+      <body>How's the storm? Kids liking it?</body>
+    </message>
+    <message id="m0144" participant="130706" time="2012-10-30 01:27:50 UTC">
+      <body>What's tomorrow looking like?</body>
+    </message>
+    <message id="m0145" participant="130706" time="2012-10-30 01:28:27 UTC">
+      <body>Did you ask the kids if they want to do bike in Rd., or big slide?</body>
+    </message>
+    <message id="m0146" participant="130706" time="2012-10-30 01:29:27 UTC">
+      <body>I know. Tucson is rescheduled. Probably doing it again but with Joe.</body>
+    </message>
+    <message id="m0147" participant="131502" time="2012-10-30 01:29:36 UTC">
+      <body>Better, but crappy. As I said all US Airways flights are cancelled</body>
+    </message>
+    <message id="m0148" participant="131502" time="2012-10-30 01:29:36 UTC">
+      <body>I didn't!</body>
+    </message>
+    <message id="m0149" participant="130706" time="2012-10-30 01:30:40 UTC">
+      <body>You should test the kids commitment to big slide</body>
+    </message>
+    <message id="m0150" participant="130706" time="2012-10-30 01:30:58 UTC">
+      <body>Dogs willing to go out?</body>
+    </message>
+    <message id="m0151" participant="131502" time="2012-10-30 01:31:44 UTC">
+      <body>I think Jack's preschool is cancelled too. All the other SD have cancelled, and I'm sure Haverford will.</body>
+    </message>
+    <message id="m0152" participant="130706" time="2012-10-30 01:33:02 UTC">
+      <body>Was that the last you saw of her, then she flew away?</body>
+    </message>
+    <message id="m0153" participant="131502" time="2012-10-30 01:33:52 UTC">
+      <body>Eventually they had to. I accidentally left Angie out in the wind (it's gusting to 60 mph). Oops!!! I saw her little face at the door</body>
+    </message>
+    <message id="m0154" participant="131502" time="2012-10-30 01:33:52 UTC">
+      <body>Almost, considering she's so skinny now </body>
+    </message>
+    <message id="m0155" participant="130706" time="2012-10-30 01:34:24 UTC">
+      <body>You need to give her some lard. Weigh her ass down.</body>
+    </message>
+    <message id="m0156" participant="130706" time="2012-10-30 01:37:12 UTC">
+      <body>I wonder what'll happen regarding basement if power goes off. I.e how fast it'll fill up !</body>
+    </message>
+    <message id="m0157" participant="131502" time="2012-10-30 01:38:08 UTC">
+      <body>It's so windy it at times is difficult to open the front door. Crazy stuff. Lights dim constantly, cannot believe I still have power</body>
+    </message>
+    <message id="m0158" participant="131502" time="2012-10-30 01:38:08 UTC">
+      <body>It fillets up to when the sump goes off (about 8 inches) in about 2 mins</body>
+    </message>
+    <message id="m0159" participant="131502" time="2012-10-30 01:38:08 UTC">
+      <body>Fills</body>
+    </message>
+    <message id="m0160" participant="130706" time="2012-10-30 01:39:03 UTC">
+      <body>Wow. I just wonder once the water goes above the drain line. Back pressure and all</body>
+    </message>
+    <message id="m0161" participant="130706" time="2012-10-30 01:39:17 UTC">
+      <body>That's a lot of outages</body>
+    </message>
+    <message id="m0162" participant="131502" time="2012-10-30 01:40:16 UTC">
+      <body>According to PECO there are over 50,000 outages in delco ... Up from scattered outages this afternoon</body>
+    </message>
+    <message id="m0163" participant="131502" time="2012-10-30 01:40:16 UTC">
+      <body>I do too</body>
+    </message>
+    <message id="m0164" participant="131502" time="2012-10-30 01:40:16 UTC">
+      <body>Or not really at all</body>
+    </message>
+    <message id="m0165" participant="131502" time="2012-10-30 01:40:16 UTC">
+      <body>Ive never seen wind like this before. </body>
+    </message>
+    <message id="m0166" participant="130706" time="2012-10-30 01:41:20 UTC">
+      <body>Yeah, I guess it could be worse</body>
+    </message>
+    <message id="m0167" participant="130706" time="2012-10-30 01:41:47 UTC">
+      <body>Scary. Anything flying around?</body>
+    </message>
+    <message id="m0168" participant="131502" time="2012-10-30 01:42:24 UTC">
+      <body>What could be?</body>
+    </message>
+    <message id="m0169" participant="131502" time="2012-10-30 01:42:24 UTC">
+      <body>Leaves. Nothing crazy</body>
+    </message>
+    <message id="m0170" participant="130706" time="2012-10-30 01:44:10 UTC">
+      <body>Like cats, sticks, dogs, roofs etc.</body>
+    </message>
+    <message id="m0171" participant="131502" time="2012-10-30 01:44:32 UTC">
+      <body>Power is going insane here. It'll dim for several seconds and then flash really bright several times. Weird</body>
+    </message>
+    <message id="m0172" participant="130706" time="2012-10-30 01:45:06 UTC">
+      <body>Yeah, that is crazy</body>
+    </message>
+    <message id="m0173" participant="131502" time="2012-10-30 01:50:56 UTC">
+      <body>It actually smells like the ocean when you open the door</body>
+    </message>
+    <message id="m0174" participant="130706" time="2012-10-30 01:52:31 UTC">
+      <body>That's one crazy storm surge.</body>
+    </message>
+    <message id="m0175" participant="131502" time="2012-10-30 01:53:04 UTC">
+      <body>Intervention is new. It has Ken Seeley!!! I'm gonna watch it</body>
+    </message>
+    <message id="m0176" participant="131502" time="2012-10-30 01:53:04 UTC">
+      <body>Apparently they don't expect Darby to flood. The rain has been crazy ... but not super crazy. It's the wind.</body>
+    </message>
+    <message id="m0177" participant="130706" time="2012-10-30 01:53:33 UTC">
+      <body>I bet Darby and Chester will be underwater again.</body>
+    </message>
+    <message id="m0178" participant="130706" time="2012-10-30 01:55:11 UTC">
+      <body>Oohh, try not to get your panties all twisted watching Ken</body>
+    </message>
+    <message id="m0179" participant="131502" time="2012-10-30 01:55:12 UTC">
+      <body>Now parts of the AC Boardwalk washed away</body>
+    </message>
+    <message id="m0180" participant="131502" time="2012-10-30 01:55:12 UTC">
+      <body>I will call at 11</body>
+    </message>
+    <message id="m0181" participant="130706" time="2012-10-30 01:55:19 UTC">
+      <body>You want call?</body>
+    </message>
+    <message id="m0182" participant="130706" time="2012-10-30 01:55:38 UTC">
+      <body>I'm Going to go run otherwise.</body>
+    </message>
+    <message id="m0183" participant="130706" time="2012-10-30 01:56:16 UTC">
+      <body>Okay. I might be getting food with Joe... Because I like him</body>
+    </message>
+    <message id="m0184" participant="131502" time="2012-10-30 01:57:20 UTC">
+      <body>You should</body>
+    </message>
+    <message id="m0185" participant="131502" time="2012-10-30 02:57:04 UTC">
+      <body>Ok. Was just about to call</body>
+    </message>
+    <message id="m0186" participant="130706" time="2012-10-30 02:58:40 UTC">
+      <body>Running out to get food (to go) with Joe</body>
+    </message>
+    <message id="m0187" participant="130706" time="2012-10-30 03:02:06 UTC">
+      <body>I'll call you. Soon</body>
+    </message>
+    <message id="m0188" participant="131502" time="2012-10-30 03:03:28 UTC">
+      <body>When can I call? It's bed time here.</body>
+    </message>
+    <message id="m0189" participant="131502" time="2012-10-30 03:03:28 UTC">
+      <body>Yes, estimate?</body>
+    </message>
+    <message id="m0190" participant="130706" time="2012-10-30 03:04:59 UTC">
+      <body>15</body>
+    </message>
+    <message id="m0191" participant="131502" time="2012-10-30 03:05:36 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0192" participant="131502" time="2012-10-30 03:05:36 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0193" participant="131502" time="2012-10-30 03:18:24 UTC">
+      <body>I would like to go to sleep soon</body>
+    </message>
+    <message id="m0194" participant="131502" time="2012-10-30 03:18:24 UTC">
+      <body>I was planning on calling at 11 ....</body>
+    </message>
+    <message id="m0195" participant="130706" time="2012-10-30 03:19:15 UTC">
+      <body>We're ordering pizza</body>
+    </message>
+    <message id="m0196" participant="130706" time="2012-10-30 03:19:43 UTC">
+      <body>Calling... Now</body>
+    </message>
+    <message id="m0197" participant="130706" time="2012-10-31 00:50:05 UTC">
+      <body>Just left cliente.</body>
+    </message>
+    <message id="m0198" participant="131502" time="2012-10-31 00:51:12 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0199" participant="130706" time="2012-10-31 19:32:18 UTC">
+      <body>At lunch. I need to know for Denver for Christmas. Heck, if you research the flights I'll book them.</body>
+    </message>
+    <message id="m0200" participant="131502" time="2012-10-31 19:33:20 UTC">
+      <body>I really don't care. Just no ridiculous hours. I'd like to try to leave Philly in the afternoon ... So flights after 3ish?</body>
+    </message>
+    <message id="m0201" participant="130706" time="2012-10-31 19:34:18 UTC">
+      <body>I mean dates. I sent an email last night</body>
+    </message>
+    <message id="m0202" participant="130706" time="2012-10-31 19:35:09 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0203" participant="131502" time="2012-10-31 19:35:28 UTC">
+      <body>On and off note, do you know where a hammer is?</body>
+    </message>
+    <message id="m0204" participant="131502" time="2012-10-31 19:35:28 UTC">
+      <body>No real preference</body>
+    </message>
+    <message id="m0205" participant="131502" time="2012-10-31 19:35:28 UTC">
+      <body>Lemme look at the email again</body>
+    </message>
+    <message id="m0206" participant="131502" time="2012-10-31 19:37:36 UTC">
+      <body>Really no issues ... Unless you want to inquire about flying United</body>
+    </message>
+    <message id="m0207" participant="131502" time="2012-10-31 19:39:44 UTC">
+      <body>That would make life easier, but it's not our money</body>
+    </message>
+    <message id="m0208" participant="130706" time="2012-10-31 19:41:22 UTC">
+      <body>Companion passes no good on United flights. :-(</body>
+    </message>
+    <message id="m0209" participant="130706" time="2012-10-31 19:41:29 UTC">
+      <body>I need to book tonight</body>
+    </message>
+    <message id="m0210" participant="130706" time="2012-10-31 19:41:55 UTC">
+      <body>Gotta stay focused on review. Doypu want to ask?</body>
+    </message>
+    <message id="m0211" participant="131502" time="2012-10-31 20:09:36 UTC">
+      <body>Not really</body>
+    </message>
+    <message id="m0212" participant="131502" time="2012-10-31 22:06:56 UTC">
+      <body>￼Trick or treat!!!</body>
+    </message>
+    <message id="m0213" participant="130706" time="2012-11-01 01:12:30 UTC">
+      <body>Yay!! Just left client at 8. How was tricking and treating?</body>
+    </message>
+    <message id="m0214" participant="130706" time="2012-11-01 01:12:41 UTC">
+      <body>Did you wear a costume? </body>
+    </message>
+    <message id="m0215" participant="130706" time="2012-11-01 01:12:48 UTC">
+      <body>Sexy kitten?</body>
+    </message>
+    <message id="m0216" participant="131502" time="2012-11-01 01:14:40 UTC">
+      <body>Nope! It was fun. Jack liked it, but said it was "too long"</body>
+    </message>
+    <message id="m0217" participant="131502" time="2012-11-01 01:14:40 UTC">
+      <body>We literally went to 10 houses. Wow, very long and arduous </body>
+    </message>
+    <message id="m0218" participant="130706" time="2012-11-01 01:15:00 UTC">
+      <body>Haha.</body>
+    </message>
+    <message id="m0219" participant="130706" time="2012-11-01 01:15:41 UTC">
+      <body>Did Aethel eat all the candy yet?</body>
+    </message>
+    <message id="m0220" participant="131502" time="2012-11-01 01:16:48 UTC">
+      <body>He's at your mom's. Actually he did eat a bunch of hers</body>
+    </message>
+    <message id="m0221" participant="130706" time="2012-11-01 01:17:08 UTC">
+      <body>Haha. That's predictable!</body>
+    </message>
+    <message id="m0222" participant="131502" time="2012-11-01 01:18:56 UTC">
+      <body>Yes it is. Don't know why she left it out. She knew I was dropping him off</body>
+    </message>
+    <message id="m0223" participant="130706" time="2012-11-01 01:20:14 UTC">
+      <body>She needs to exercise more, it's good for the brain,</body>
+    </message>
+    <message id="m0224" participant="131502" time="2012-11-01 01:21:04 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0225" participant="130706" time="2012-11-01 01:21:21 UTC">
+      <body>Got lots of work, but I've learned a lot from the review.</body>
+    </message>
+    <message id="m0226" participant="131502" time="2012-11-01 01:23:12 UTC">
+      <body>Can we talk tonight?</body>
+    </message>
+    <message id="m0227" participant="131502" time="2012-11-01 01:25:20 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0228" participant="131502" time="2012-11-01 01:25:20 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0229" participant="130706" time="2012-11-01 01:25:38 UTC">
+      <body>Of course. We gotta book flights too!</body>
+    </message>
+    <message id="m0230" participant="131502" time="2012-11-01 01:27:28 UTC">
+      <body>￼Finally hung up stuff</body>
+    </message>
+    <message id="m0231" participant="131502" time="2012-11-01 01:29:36 UTC">
+      <body>Yeah. I have to get a few more frames for the bottom right</body>
+    </message>
+    <message id="m0232" participant="130706" time="2012-11-01 01:29:56 UTC">
+      <body>Those look great!!</body>
+    </message>
+    <message id="m0233" participant="130706" time="2012-11-01 01:33:56 UTC">
+      <body>Whatever you say. I love it.</body>
+    </message>
+    <message id="m0234" participant="131502" time="2012-11-01 02:05:52 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0235" participant="130706" time="2012-11-01 02:07:21 UTC">
+      <body>Can I call?</body>
+    </message>
+    <message id="m0236" participant="130706" time="2012-11-01 02:07:50 UTC">
+      <body>Give me just a moment</body>
+    </message>
+    <message id="m0237" participant="131502" time="2012-11-01 02:10:08 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0238" participant="131502" time="2012-11-01 02:16:32 UTC">
+      <body>Calling?</body>
+    </message>
+    <message id="m0239" participant="130706" time="2012-11-01 20:47:08 UTC">
+      <body>Hey, what gives!! Pick up the phone!</body>
+    </message>
+    <message id="m0240" participant="130706" time="2012-11-01 21:52:56 UTC">
+      <body>It's cool. Love you! Call for Charlotte?</body>
+    </message>
+    <message id="m0241" participant="131502" time="2012-11-01 21:54:08 UTC">
+      <body>Yes. Love you too</body>
+    </message>
+    <message id="m0242" participant="130706" time="2012-11-02 00:25:46 UTC">
+      <body>Landed in Charlotte.</body>
+    </message>
+    <message id="m0243" participant="130706" time="2012-11-02 00:26:39 UTC">
+      <body>I wish if there were an earlier flight I could take it... But then my bags wouldn't make it and that would suck for NC</body>
+    </message>
+    <message id="m0244" participant="130706" time="2012-11-02 00:27:34 UTC">
+      <body>Report almost done in entirety. Need to finish sample testing. Got a lot done on plane.</body>
+    </message>
+    <message id="m0245" participant="131502" time="2012-11-02 00:27:44 UTC">
+      <body>Cool beans</body>
+    </message>
+    <message id="m0246" participant="131502" time="2012-11-02 00:27:44 UTC">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0247" participant="131502" time="2012-11-02 00:27:44 UTC">
+      <body>Well that's good!</body>
+    </message>
+    <message id="m0248" participant="130706" time="2012-11-02 00:30:28 UTC">
+      <body>I'm exhausted! If we weren't going anywhere tomorrow and I spent 8 hours in the office this would be a 64 hour workweek. Of course around 15 hours would be allocated to travel time (which I work during), but still!</body>
+    </message>
+    <message id="m0249" participant="131502" time="2012-11-02 00:32:00 UTC">
+      <body>That's long!</body>
+    </message>
+    <message id="m0250" participant="131502" time="2012-11-02 00:32:00 UTC">
+      <body>I may be up when you get home ... doing laundry and packing</body>
+    </message>
+    <message id="m0251" participant="130706" time="2012-11-02 00:32:07 UTC">
+      <body>Yes, yes it is! Cool!!</body>
+    </message>
+    <message id="m0252" participant="130706" time="2012-11-02 02:06:44 UTC">
+      <body>On plane.</body>
+    </message>
+    <message id="m0253" participant="130706" time="2012-11-02 02:07:12 UTC">
+      <body>If I don't get this done on plane I'm staying up to finish when I get home.</body>
+    </message>
+    <message id="m0254" participant="130706" time="2012-11-02 02:07:39 UTC">
+      <body>Joe had better appreciate it.</body>
+    </message>
+    <message id="m0255" participant="131502" time="2012-11-02 02:08:00 UTC">
+      <body>lol. Hopefully he's prepped</body>
+    </message>
+    <message id="m0256" participant="131502" time="2012-11-02 02:08:00 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0257" participant="131502" time="2012-11-02 02:08:00 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0258" participant="131502" time="2012-11-02 02:08:00 UTC">
+      <body>Uh, seriously</body>
+    </message>
+    <message id="m0259" participant="130706" time="2012-11-02 02:08:10 UTC">
+      <body>I don't think Dave is capable of working after 9 </body>
+    </message>
+    <message id="m0260" participant="130706" time="2012-11-02 02:08:19 UTC">
+      <body>Turns into a pumpkin</body>
+    </message>
+    <message id="m0261" participant="130706" time="2012-11-02 02:09:45 UTC">
+      <body>I'm sure he has. Won't help me any though. I am trusting he will fuck up a few of the tests. Then again, maybe he won't.</body>
+    </message>
+    <message id="m0262" participant="131502" time="2012-11-02 02:10:08 UTC">
+      <body>Who knows</body>
+    </message>
+    <message id="m0263" participant="131502" time="2012-11-02 02:10:08 UTC">
+      <body>Would that be his job?</body>
+    </message>
+    <message id="m0264" participant="130706" time="2012-11-02 02:10:14 UTC">
+      <body>It will be fun telling him I can't help him on any areas until I've finished mine. </body>
+    </message>
+    <message id="m0265" participant="130706" time="2012-11-02 02:10:30 UTC">
+      <body>I anticipate him asking me to do the sample.</body>
+    </message>
+    <message id="m0266" participant="131502" time="2012-11-02 02:12:16 UTC">
+      <body>Or his section rather?</body>
+    </message>
+    <message id="m0267" participant="130706" time="2012-11-02 02:15:10 UTC">
+      <body>Yes.</body>
+    </message>
+    <message id="m0268" participant="130706" time="2012-11-02 02:15:55 UTC">
+      <body>I will ask joe before the night is over if Dave knows the sections joe wants us each working on.</body>
+    </message>
+    <message id="m0269" participant="130706" time="2012-11-02 02:16:10 UTC">
+      <body>Gotta shut down.</body>
+    </message>
+    <message id="m0270" participant="130706" time="2012-11-02 02:16:14 UTC">
+      <body>See you soon</body>
+    </message>
+    <message id="m0271" participant="130706" time="2012-11-02 02:16:24 UTC">
+      <body>Love you!</body>
+    </message>
+    <message id="m0272" participant="131502" time="2012-11-02 02:16:32 UTC">
+      <body>Then I guess he should do it considering the heap of work you need to do</body>
+    </message>
+    <message id="m0273" participant="131502" time="2012-11-02 02:16:32 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0274" participant="131502" time="2012-11-02 02:16:32 UTC">
+      <body>Love you too</body>
+    </message>
+    <message id="m0275" participant="130706" time="2012-11-02 03:48:47 UTC">
+      <body>Landed</body>
+    </message>
+    <message id="m0276" participant="131502" time="2012-11-02 03:50:24 UTC">
+      <body>Did you finish your work?</body>
+    </message>
+    <message id="m0277" participant="131502" time="2012-11-02 03:50:24 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0278" participant="130706" time="2012-11-02 03:50:31 UTC">
+      <body>Nope, but made good progress. Shouldn't take too long to night</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140419.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-19 19:35:27 UTC" participant="153900">
+      <body>Are you home</body>
+    </message>
+    <message id="m0001" time="2014-04-19 22:34:44 UTC" participant="153244">
+      <body>Left ac about 45 mins ago</body>
+    </message>
+    <message id="m0002" time="2014-04-19 22:37:14 UTC" participant="153900">
+      <body>Ok but dad got car started</body>
+    </message>
+    <message id="m0003" time="2014-04-19 22:37:42 UTC" participant="153244">
+      <body>Ok so you don't need me then? </body>
+    </message>
+    <message id="m0004" time="2014-04-19 22:38:39 UTC" participant="153900">
+      <body>Yea i don't need you bye are you eating here tomorrow</body>
+    </message>
+    <message id="m0005" time="2014-04-20 18:48:03 UTC" participant="153900">
+      <body>Michelle is steph coming</body>
+    </message>
+    <message id="m0006" time="2014-04-20 19:11:08 UTC" participant="153244">
+      <body>No Just me</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-05 02:00:15 UTC">
+      <body>Happy fourth of july</body>
+    </message>
+    <message id="m0001" participant="132569" time="2013-07-05 02:01:29 UTC">
+      <body>Thanks Danny! Happy 4 th to you too</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-05 02:06:31 UTC">
+      <body>am I ever gonna see u again</body>
+    </message>
+    <message id="m0003" participant="132569" time="2013-07-05 18:29:27 UTC">
+      <body>Event haha I still need to give you back your hoodie </body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-05 19:16:10 UTC">
+      <body>Event?</body>
+    </message>
+    <message id="m0005" participant="132569" time="2013-07-05 22:35:56 UTC">
+      <body>Eventually </body>
+    </message>
+  </messages>
+</conversation>

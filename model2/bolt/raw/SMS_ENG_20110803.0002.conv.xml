@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110803.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-03 21:44:30 UTC">
+      <body>Where you at?</body>
+    </message>
+    <message id="m0001" participant="135118" time="2011-08-03 21:45:19 UTC">
+      <body>Just textin u in parking ramp leavin</body>
+    </message>
+    <message id="m0002" participant="135118" time="2011-08-04 14:14:09 UTC">
+      <body>Just leavin license place damntook forever</body>
+    </message>
+  </messages>
+</conversation>

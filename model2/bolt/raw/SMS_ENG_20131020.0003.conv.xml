@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131020.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-20 15:56:28 UTC" participant="153449">
+      <body>What's does mom and dad do in Sundays </body>
+    </message>
+    <message id="m0001" time="2013-10-20 15:57:03 UTC" participant="153418">
+      <body>Mom's at work. Dad probably goes to Chinatown.</body>
+    </message>
+    <message id="m0002" time="2013-10-20 15:58:11 UTC" participant="153449">
+      <body>That's right .... Ok </body>
+    </message>
+  </messages>
+</conversation>
+

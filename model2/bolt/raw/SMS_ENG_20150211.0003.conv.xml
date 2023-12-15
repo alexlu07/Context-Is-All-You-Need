@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150211.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-11 12:45:52 UTC" participant="152212">
+      <body>am i going to see you tonight</body>
+    </message>
+    <message id="m0001" time="2015-02-11 13:25:56 UTC" participant="152212">
+      <body>i mean tomorrow night (whoops)</body>
+    </message>
+    <message id="m0002" time="2015-02-11 20:10:47 UTC" participant="152250">
+      <body>Assuming I my flight is not cancelled, I should be there. Is the panel in the hotel where all the other CAA stuff is? </body>
+    </message>
+    <message id="m0003" time="2015-02-11 20:43:00 UTC" participant="152212">
+      <body>No it's at hunter college</body>
+    </message>
+  </messages>
+</conversation>
+

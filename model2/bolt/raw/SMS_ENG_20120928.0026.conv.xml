@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120928.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-28 01:56:38 UTC" participant="152426">
+      <body>Are you using netflix right now?</body>
+    </message>
+    <message id="m0001" time="2012-09-28 12:46:22 UTC" participant="152417">
+      <body>Yep, sorry</body>
+    </message>
+  </messages>
+</conversation>
+

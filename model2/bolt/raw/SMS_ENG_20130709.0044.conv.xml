@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-09 14:07:09 UTC">
+      <body>What's brandons number</body>
+    </message>
+    <message id="m0001" participant="136661" time="2013-07-09 14:09:19 UTC">
+      <body>Remember he is in Rio, I usually contact him through WhatsApp</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-09 14:11:00 UTC">
+      <body>He went back already?</body>
+    </message>
+    <message id="m0003" participant="136661" time="2013-07-09 14:13:06 UTC">
+      <body>Yes, that's why he didn't stay for Friday night's festivities</body>
+    </message>
+  </messages>
+</conversation>

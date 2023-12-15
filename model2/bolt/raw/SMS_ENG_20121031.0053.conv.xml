@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121031.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-31 14:12:17 UTC" participant="152374">
+      <body>You in today? Want to grab one last lunch if so?  :-)</body>
+    </message>
+    <message id="m0001" time="2012-10-31 14:13:55 UTC" participant="152384">
+      <body>Hey! Sounds good! I have a lunch meeting scheduled already, but 90% sure it'll be canceled, so yeah!</body>
+    </message>
+    <message id="m0002" time="2012-10-31 14:14:26 UTC" participant="152374">
+      <body>Cool. Let me know when &amp; where to meet.</body>
+    </message>
+    <message id="m0003" time="2012-10-31 14:15:11 UTC" participant="152384">
+      <body>Wanna swing by here (####) atnoon?</body>
+    </message>
+    <message id="m0004" time="2012-10-31 14:15:30 UTC" participant="152374">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>
+

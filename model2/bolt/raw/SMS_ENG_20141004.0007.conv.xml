@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141004.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-04 20:13:52 UTC" participant="153557">
+      <body>I'll be getting in at 7. If you are super busy getting ready for your show I'll take a shuttle!</body>
+    </message>
+    <message id="m0001" time="2014-10-04 20:45:52 UTC" participant="153557">
+      <body>Thanks hun. see you tonight</body>
+    </message>
+    <message id="m0002" time="2014-10-04 20:46:03 UTC" participant="153547">
+      <body>I can pick u up</body>
+    </message>
+    <message id="m0003" time="2014-10-04 22:56:00 UTC" participant="153557">
+      <body>I'm at the F terminal</body>
+    </message>
+    <message id="m0004" time="2014-10-04 22:56:00 UTC" participant="153557">
+      <body>Us airways express</body>
+    </message>
+    <message id="m0005" time="2014-10-04 22:57:38 UTC" participant="153547">
+      <body>Ok be ther in a min</body>
+    </message>
+    <message id="m0006" time="2014-10-04 23:02:18 UTC" participant="153547">
+      <body>I'm at e I don't see any f</body>
+    </message>
+    <message id="m0007" time="2014-10-04 23:03:34 UTC" participant="153557">
+      <body>I might be at arrivals I guess ugh</body>
+    </message>
+    <message id="m0008" time="2014-10-04 23:04:09 UTC" participant="153547">
+      <body>Departures?</body>
+    </message>
+    <message id="m0009" time="2014-10-04 23:04:22 UTC" participant="153547">
+      <body>I'm at baggage claim e</body>
+    </message>
+    <message id="m0010" time="2014-10-04 23:04:31 UTC" participant="153547">
+      <body>The very last one</body>
+    </message>
+    <message id="m0011" time="2014-10-04 23:06:40 UTC" participant="153557">
+      <body>Yeah I don't know how to get there</body>
+    </message>
+    <message id="m0012" time="2014-10-04 23:06:40 UTC" participant="153557">
+      <body>Hang on</body>
+    </message>
+  </messages>
+</conversation>
+

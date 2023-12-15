@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131103.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-03 18:26:08 UTC" participant="152374">
+      <body>Hey, can you send me the brussel sprout recipe you always used for ###########? My friend ####### wants to try it</body>
+    </message>
+    <message id="m0001" time="2013-11-03 20:19:05 UTC" participant="153469">
+      <body>Hmmm... Was there anything in it other than sprouts? I have many roasted brussel sprout recipes</body>
+    </message>
+    <message id="m0002" time="2013-11-03 20:20:36 UTC" participant="152374">
+      <body>I don't think so...</body>
+    </message>
+    <message id="m0003" time="2013-11-03 20:22:21 UTC" participant="153469">
+      <body>It was probably Ina's recipe then: http://m.foodnetwork.com/recipes/24925</body>
+    </message>
+  </messages>
+</conversation>
+

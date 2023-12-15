@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 19:00:15 UTC" participant="152560">
+      <body>Want a ride to your bike?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 19:03:16 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2013-05-04 19:08:19 UTC" participant="152560">
+      <body>I'll be out back with Ru dog</body>
+    </message>
+    <message id="m0003" time="2013-05-05 00:37:44 UTC" participant="152417">
+      <body>Im on a date with the dogs at the drive in.  Wish you were here</body>
+    </message>
+    <message id="m0004" time="2013-05-05 01:31:42 UTC" participant="152560">
+      <body>You are my Gab(i) of joy.</body>
+    </message>
+    <message id="m0005" time="2013-05-05 04:26:18 UTC" participant="152560">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0006" time="2013-05-05 04:27:02 UTC" participant="152417">
+      <body>Ya, come say cello</body>
+    </message>
+    <message id="m0007" time="2013-05-05 18:33:55 UTC" participant="152560">
+      <body>Happy debauching.</body>
+    </message>
+  </messages>
+</conversation>
+

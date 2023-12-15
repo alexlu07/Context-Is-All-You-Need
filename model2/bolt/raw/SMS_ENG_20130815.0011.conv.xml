@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 23:24:33 UTC" participant="153244">
+      <body>Late leaving work. . Omw home now</body>
+    </message>
+    <message id="m0001" time="2013-08-15 23:27:38 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0002" time="2013-08-16 22:32:27 UTC" participant="152116">
+      <body>What time did you put my towels in the dryer?</body>
+    </message>
+    <message id="m0003" time="2013-08-16 22:54:22 UTC" participant="153244">
+      <body>When i got done work :(
+Don't be mad</body>
+    </message>
+    <message id="m0004" time="2013-08-16 22:54:48 UTC" participant="153244">
+      <body>They were still fresh... I get home early on fridays</body>
+    </message>
+    <message id="m0005" time="2013-08-16 22:55:36 UTC" participant="152116">
+      <body> No it's okay. I just thought the dryer's been running since this morning and got scared.</body>
+    </message>
+    <message id="m0006" time="2013-08-16 22:56:32 UTC" participant="153244">
+      <body>No just since after work.  I threw your sec load in too. I added some of my towels bec you had a light sec load</body>
+    </message>
+    <message id="m0007" time="2013-08-16 22:57:22 UTC" participant="152116">
+      <body>Okay that's fine. Thanks</body>
+    </message>
+    <message id="m0008" time="2013-08-16 23:00:42 UTC" participant="153244">
+      <body>No prob</body>
+    </message>
+  </messages>
+</conversation>
+

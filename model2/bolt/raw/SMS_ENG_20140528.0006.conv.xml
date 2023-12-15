@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140528.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-28 20:01:04 UTC" participant="153557">
+      <body>Ony way home now</body>
+    </message>
+    <message id="m0001" time="2014-05-28 21:00:04 UTC" participant="153547">
+      <body>Are you ok?</body>
+    </message>
+    <message id="m0002" time="2014-05-28 21:49:46 UTC" participant="153557">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

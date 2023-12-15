@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141117.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-17 18:25:04 UTC" participant="149372">
+      <body>Hey, do you by chance have the bag with all the plumbing stuff?</body>
+    </message>
+    <message id="m0001" time="2014-11-17 18:29:37 UTC" participant="153547">
+      <body> It's at kurts</body>
+    </message>
+    <message id="m0002" time="2014-11-17 18:32:32 UTC" participant="149372">
+      <body>I need some stuff out of it. When will you be done?</body>
+    </message>
+    <message id="m0003" time="2014-11-17 18:33:32 UTC" participant="153547">
+      <body>Well I'm not working there now but I could pick the tools up tomorrow night probably</body>
+    </message>
+    <message id="m0004" time="2014-11-17 18:34:29 UTC" participant="149372">
+      <body>That's fine. I need it for Wednesday. </body>
+    </message>
+  </messages>
+</conversation>
+

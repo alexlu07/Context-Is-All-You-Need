@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-06 17:09:11 UTC">
+      <body>Marjorie can we switch to Friday? Sorry, I'm just so overwhelmed with school.</body>
+    </message>
+    <message id="m0001" participant="135486" time="2013-05-06 17:46:40 UTC">
+      <body>Sure-it's ok-I have 830 on Friday.  Will that work?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-06 18:19:14 UTC">
+      <body>Ok great!</body>
+    </message>
+  </messages>
+</conversation>

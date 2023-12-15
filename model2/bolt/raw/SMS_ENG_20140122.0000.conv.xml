@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140122.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-22 14:04:48 UTC" participant="152419">
+      <body>Sci fi fri this week? Want to start with a twilight zone? </body>
+    </message>
+    <message id="m0001" time="2014-01-22 14:06:56 UTC" participant="152419">
+      <body>Sounds good! We will figure it out.</body>
+    </message>
+    <message id="m0002" time="2014-01-22 14:07:20 UTC" participant="152417">
+      <body>This friday ive got a gig, i think 8-10.  I would love to do it early or late</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20130618.0000" medium="CHT" donated="false">
+  <messages>
+    <message id="m0000" participant="130602" time="2013-06-18 19:47:03 UTC">
+      <body>This is like groundhog's day</body>
+    </message>
+    <message id="m0001" participant="130696" time="2013-06-18 19:51:22 UTC">
+      <body>LOL</body>
+    </message>
+    <message id="m0002" participant="130696" time="2013-06-18 19:51:30 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="130602" time="2013-06-18 19:51:43 UTC">
+      <body>Not bad. How did your move go?</body>
+    </message>
+    <message id="m0004" participant="130696" time="2013-06-18 19:52:04 UTC">
+      <body>It went fine. I still have stuff to unpack, though.</body>
+    </message>
+  </messages>
+</conversation>

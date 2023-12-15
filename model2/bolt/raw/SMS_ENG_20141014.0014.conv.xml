@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141014.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-14 17:32:31 UTC" participant="153548">
+      <body>Hi! What's going on?</body>
+    </message>
+    <message id="m0001" time="2014-10-14 18:04:52 UTC" participant="153649">
+      <body>Working. What are you up to?</body>
+    </message>
+    <message id="m0002" time="2014-10-14 18:20:50 UTC" participant="153548">
+      <body>Just finished working. Heard about any jobbies?</body>
+    </message>
+  </messages>
+</conversation>
+

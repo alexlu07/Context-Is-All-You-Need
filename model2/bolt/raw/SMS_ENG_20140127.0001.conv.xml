@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140127.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-27 22:32:32 UTC" participant="153298">
+      <body>Did you turn lights on while all the buckets are still plugged in?</body>
+    </message>
+    <message id="m0001" time="2014-01-27 22:33:13 UTC" participant="152734">
+      <body>Hey! Horses are fine! Stall lights don't turn on, though  - not sure if they're unplugged or a circuit tripped. </body>
+    </message>
+    <message id="m0002" time="2014-01-27 22:34:40 UTC" participant="153298">
+      <body>With the additional two horses and their heated buckets plugged then it's too much for the system to take so we have to unplug water buckets when we have lights on, unfortunately :(</body>
+    </message>
+    <message id="m0003" time="2014-01-27 22:37:01 UTC" participant="152734">
+      <body>Ok! Sam tried the switch but no lights came on, same in both shed rows, so I'm guessing the circuit broke. The bucket plugs still seem on though. Want me to reset a switch? </body>
+    </message>
+  </messages>
+</conversation>
+

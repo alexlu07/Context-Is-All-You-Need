@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-02-12 21:07:38 UTC">
+      <body>Anyone want to go to dinner a little earlier, like 5:30? 6 is too late for me tonight.</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-02-12 22:29:03 UTC">
+      <body>Hey, I'm gonna head to the dc from the insc in a few mins. Let me know if you want to go now.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-12 22:31:40 UTC">
+      <body>I just got out of the shower so probably not :( sorry</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-13 20:46:41 UTC">
+      <body>Want to eat at 5:30?</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-02-13 21:36:40 UTC">
+      <body>Sure! I'll meet you in the dc.</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-02-13 22:35:49 UTC">
+      <body>Hey, are you here?</body>
+    </message>
+  </messages>
+</conversation>

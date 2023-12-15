@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 02:40:04 UTC" participant="153418">
+      <body>Happy birthday Sam~
+Hope you had a good day!</body>
+    </message>
+    <message id="m0001" time="2014-04-11 02:42:57 UTC" participant="152119">
+      <body>Thanks John! I did have a good day. I miss you! How are you? </body>
+    </message>
+    <message id="m0002" time="2014-04-11 02:50:53 UTC" participant="153418">
+      <body>I'm pretty tired. I had to go to work late and ended up doing 1 to 9ish. I just made dinner now.</body>
+    </message>
+    <message id="m0003" time="2014-04-11 03:14:52 UTC" participant="152119">
+      <body>Oh gosh, sorry you're feeling so exhausted. I just got home from the Phillies a little while ago. Enjoy your dinner! What did you make? </body>
+    </message>
+    <message id="m0004" time="2014-04-11 03:57:33 UTC" participant="153418">
+      <body>I made ramen noodles with sunny side up eggs. I should get better at cooking. D:</body>
+    </message>
+    <message id="m0005" time="2014-04-11 04:00:42 UTC" participant="152119">
+      <body>Well that sounds good to me! </body>
+    </message>
+  </messages>
+</conversation>
+

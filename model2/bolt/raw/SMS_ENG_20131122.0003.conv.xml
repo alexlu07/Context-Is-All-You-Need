@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 00:09:20 UTC" participant="152417">
+      <body>Let me know if i should get you a ticket</body>
+    </message>
+    <message id="m0001" time="2013-11-22 02:12:21 UTC" participant="152417">
+      <body>I hope it went well</body>
+    </message>
+    <message id="m0002" time="2013-11-22 02:14:55 UTC" participant="152560">
+      <body>Thanks baby. It was really difficult, and I was writhing in pain at the entrance of the crimson wave, which made it quite challenging to concentrate. How is the play?</body>
+    </message>
+    <message id="m0003" time="2013-11-22 03:34:37 UTC" participant="152417">
+      <body>It was great, ill be home soon w a special treat</body>
+    </message>
+    <message id="m0004" time="2013-11-22 03:35:16 UTC" participant="152560">
+      <body>You?</body>
+    </message>
+    <message id="m0006" time="2013-11-22 22:18:22 UTC" participant="152417">
+      <body>Natalia would like to meet over breakfast tomorrow at 8, that ok?</body>
+    </message>
+  </messages>
+</conversation>
+

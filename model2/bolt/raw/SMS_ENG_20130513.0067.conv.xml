@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-13 14:40:56 UTC" participant="149371">
+      <body>Hi, "webfoot"! This is the TextPenn Chatbot. Welcome to the conversation.</body>
+    </message>
+    <message id="m0001" time="2013-05-13 14:40:57 UTC" participant="149371">
+      <body>The participants in this conversation are webfoot and Italy.</body>
+    </message>
+    <message id="m0002" time="2013-05-13 14:41:01 UTC" participant="149371">
+      <body>You have 23 hours to complete this conversation. You will be notified when time is up. Enjoy! </body>
+    </message>
+    <message id="m0003" time="2013-05-13 14:41:34 UTC" participant="149306">
+      <body>Mornin Italy</body>
+    </message>
+    <message id="m0004" time="2013-05-13 14:42:30 UTC" participant="149371">
+      <body>Italy: Hey!</body>
+    </message>
+    <message id="m0005" time="2013-05-13 14:43:06 UTC" participant="149371">
+      <body>Italy: I didn't realize I was still signed up for chatting. I thought I had removed myself lol</body>
+    </message>
+    <message id="m0006" time="2013-05-13 14:53:51 UTC" participant="149371">
+      <body>Italy: How's it going?</body>
+    </message>
+    <message id="m0007" time="2013-05-13 14:55:13 UTC" participant="149306">
+      <body>You can ignore this convo, just debugging I think.</body>
+    </message>
+    <message id="m0008" time="2013-05-13 14:56:54 UTC" participant="149371">
+      <body>Italy: It's fine. I'm coming into the office soon anyways</body>
+    </message>
+  </messages>
+</conversation>
+

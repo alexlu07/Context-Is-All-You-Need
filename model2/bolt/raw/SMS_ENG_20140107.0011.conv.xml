@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140107.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-07 00:17:47 UTC" participant="153489">
+      <body>Hey we'll see you at lemon hill tonight! What time are you getting there</body>
+    </message>
+    <message id="m0001" time="2014-01-07 00:18:09 UTC" participant="152374">
+      <body>Oh, nice! We're planning on 8:30</body>
+    </message>
+    <message id="m0002" time="2014-01-07 00:18:39 UTC" participant="153489">
+      <body>Come earlier were heading over now :-)</body>
+    </message>
+    <message id="m0003" time="2014-01-07 00:23:03 UTC" participant="152374">
+      <body>Have to finish workout and shower first. See you eventually</body>
+    </message>
+    <message id="m0004" time="2014-01-07 03:47:18 UTC" participant="152374">
+      <body>Nice seeing you guys tonight :)  Have fun on your cruise!</body>
+    </message>
+    <message id="m0005" time="2014-01-07 03:48:51 UTC" participant="153489">
+      <body>Thanks it was great seeing you too :-)</body>
+    </message>
+  </messages>
+</conversation>
+

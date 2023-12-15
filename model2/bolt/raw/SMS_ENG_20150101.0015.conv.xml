@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 05:04:46 UTC" participant="153491">
+      <body>Happy New Years Steve!!!</body>
+    </message>
+    <message id="m0001" time="2015-01-01 05:39:12 UTC" participant="153543">
+      <body>Happy New Years! </body>
+    </message>
+    <message id="m0002" time="2015-01-01 19:35:26 UTC" participant="153491">
+      <body>How's is you new Year going?</body>
+    </message>
+    <message id="m0003" time="2015-01-01 19:45:25 UTC" participant="153543">
+      <body>Good. Had to cleaning up from yesterday, but now relaxing. You? </body>
+    </message>
+    <message id="m0004" time="2015-01-01 19:46:57 UTC" participant="153491">
+      <body>Driving home from Bucks County.</body>
+    </message>
+    <message id="m0005" time="2015-01-01 20:01:04 UTC" participant="153543">
+      <body>How was party? </body>
+    </message>
+    <message id="m0006" time="2015-01-01 21:10:22 UTC" participant="153491">
+      <body>We went to a bar. It was Great Gatsby themed. I just felt tired though. I'm getting old :( how was your get together?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150310.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-10 21:34:56 UTC" participant="153634">
+      <body>Christy hasn't written me back</body>
+    </message>
+    <message id="m0001" time="2015-03-10 22:27:17 UTC" participant="153548">
+      <body>Oh no!</body>
+    </message>
+    <message id="m0002" time="2015-03-10 22:27:28 UTC" participant="153548">
+      <body>Maybe she forgot?</body>
+    </message>
+    <message id="m0003" time="2015-03-10 22:59:29 UTC" participant="153634">
+      <body>maybe, it was such a detailed email </body>
+    </message>
+  </messages>
+</conversation>
+

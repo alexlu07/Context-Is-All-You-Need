@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121105.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-05 00:03:22 UTC" participant="152420">
+      <body>DST reminder. See u at 8.</body>
+    </message>
+    <message id="m0001" time="2012-11-05 00:29:14 UTC" participant="152417">
+      <body>Studio b?</body>
+    </message>
+    <message id="m0002" time="2012-11-05 00:34:48 UTC" participant="152420">
+      <body>Aywa</body>
+    </message>
+  </messages>
+</conversation>
+

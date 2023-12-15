@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140104.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-04 02:32:26 UTC" participant="152374">
+      <body>What the heck's going on in front of your place? Multiple fire trucks</body>
+    </message>
+    <message id="m0001" time="2014-01-04 02:32:55 UTC" participant="154093">
+      <body>Uhm don't know, I'm at ###s</body>
+    </message>
+    <message id="m0002" time="2014-01-04 02:33:18 UTC" participant="152374">
+      <body>Ah.</body>
+    </message>
+    <message id="m0003" time="2014-01-04 02:40:09 UTC" participant="152374">
+      <body>Chuck just cleared out so it was either false alarm or an all clear. Sorry to worry you.</body>
+    </message>
+    <message id="m0004" time="2014-01-04 02:40:46 UTC" participant="154093">
+      <body>Np, I appreciate the heads up</body>
+    </message>
+    <message id="m0005" time="2014-01-04 02:41:43 UTC" participant="152374">
+      <body>That should have been "trucks", obviously :)  Be careful driving back here tonight, everything is iced as I'm sure you know.</body>
+    </message>
+    <message id="m0006" time="2014-01-04 02:42:41 UTC" participant="154093">
+      <body>Yep, I'm more concerned parking wise thought</body>
+    </message>
+  </messages>
+</conversation>
+

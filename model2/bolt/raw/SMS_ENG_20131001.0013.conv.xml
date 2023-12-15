@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131001.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-01 21:01:03 UTC" participant="152374">
+      <body>So I'm a moron. I forgot that I can't swim this week. I can still go to the walk-through though, and walk home with you after if you like? Or I can wait while you swim! Just can't seem this week.</body>
+    </message>
+    <message id="m0001" time="2013-10-01 22:34:03 UTC" participant="153472">
+      <body>No worries. I should prob get home to ####### after the walk through anyway. We can swim another time.</body>
+    </message>
+    <message id="m0002" time="2013-10-02 18:03:20 UTC" participant="152374">
+      <body>Forgot to ask where to meet you today! Membership desk at 5:30?</body>
+    </message>
+    <message id="m0003" time="2013-10-02 18:07:40 UTC" participant="153472">
+      <body>Yep. That sounds good. Got a free lunch from the gym today. Well not exactly free if u consider I paid $135 for another 3 months, but still better than no lunch.</body>
+    </message>
+    <message id="m0004" time="2013-10-02 18:07:58 UTC" participant="152374">
+      <body>Ha ha. Nice!</body>
+    </message>
+  </messages>
+</conversation>
+

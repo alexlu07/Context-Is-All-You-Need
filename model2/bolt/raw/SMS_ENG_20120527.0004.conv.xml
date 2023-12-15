@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120527.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-27 23:12:13 UTC">
+      <body>Did ya do the Econ paper yet?</body>
+    </message>
+    <message id="m0001" participant="136207" time="2012-05-27 23:13:04 UTC">
+      <body>I forgottten it was even due</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-27 23:13:18 UTC">
+      <body>Lmao. Well yeah it's due Tuesday. Get on it</body>
+    </message>
+  </messages>
+</conversation>

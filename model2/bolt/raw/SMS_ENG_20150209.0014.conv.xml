@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 22:41:07 UTC" participant="152606">
+      <body>To my friends 
+Inviting you to come down and see my new band
+Tomorrow at
+the Fire
+412 w. Girard
+the Cast Shadows
+playing surreal soundtrack music and more
+accordion, cello, upright bass, electric guitar, drums
+see you there!</body>
+    </message>
+    <message id="m0001" time="2015-02-09 22:43:08 UTC" participant="152606">
+      <body>I'll be at practice then  maybe I'll try you after practice if I'm not too tired?</body>
+    </message>
+    <message id="m0002" time="2015-02-10 22:30:13 UTC" participant="152417">
+      <body>What time are you on tonight?</body>
+    </message>
+    <message id="m0003" time="2015-02-10 22:32:32 UTC" participant="152606">
+      <body>9 or 9:15 </body>
+    </message>
+  </messages>
+</conversation>
+

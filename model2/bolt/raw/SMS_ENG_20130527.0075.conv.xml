@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0075" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-27 17:25:08 UTC" participant="152374">
+      <body>If you're still going tonight I would like to formally request a ride :-)</body>
+    </message>
+    <message id="m0001" time="2013-05-27 17:26:18 UTC" participant="154093">
+      <body>Sure thing, figure between 7:30-45</body>
+    </message>
+    <message id="m0002" time="2013-05-27 19:37:46 UTC" participant="152374">
+      <body>Sounds good. I'll just meet you at your place, I'm going to be down that way anyway</body>
+    </message>
+    <message id="m0003" time="2013-05-27 19:38:13 UTC" participant="154093">
+      <body>K</body>
+    </message>
+    <message id="m0004" time="2013-05-27 22:37:14 UTC" participant="154093">
+      <body>I'm gonna buy a ticket online, want me to get yours</body>
+    </message>
+    <message id="m0005" time="2013-05-27 22:38:47 UTC" participant="152374">
+      <body>Oh, sure. Thank you!</body>
+    </message>
+  </messages>
+</conversation>
+

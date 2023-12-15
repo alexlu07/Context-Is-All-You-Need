@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140614.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-14 15:38:19 UTC" participant="153547">
+      <body>Let me know if you are coming to work on frames around 5. I will try to get the basement ready.</body>
+    </message>
+    <message id="m0001" time="2014-06-14 20:54:59 UTC" participant="153562">
+      <body>Headed over soon</body>
+    </message>
+    <message id="m0002" time="2014-06-14 20:55:24 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-06-15 14:29:10 UTC" participant="153547">
+      <body>What time are you headed to woodland? I'm gonna go for a ride. Also what time u wanna do bike stuff?</body>
+    </message>
+    <message id="m0004" time="2014-06-15 14:45:59 UTC" participant="153562">
+      <body>Im gonna head over there in a bit. Wanna do woodchips?</body>
+    </message>
+    <message id="m0005" time="2014-06-15 14:46:43 UTC" participant="153547">
+      <body>Yeah let me know when u r there</body>
+    </message>
+    <message id="m0006" time="2014-06-15 14:47:37 UTC" participant="153562">
+      <body>Ok cool. Gonna get some coffee first</body>
+    </message>
+    <message id="m0007" time="2014-06-15 15:37:27 UTC" participant="153547">
+      <body>Outside</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140530.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-30 20:57:41 UTC" participant="153491">
+      <body>Do you know if sugar is open?</body>
+    </message>
+    <message id="m0001" time="2014-05-30 21:35:33 UTC" participant="152116">
+      <body>Probably not</body>
+    </message>
+    <message id="m0002" time="2014-05-30 21:36:09 UTC" participant="153491">
+      <body>They are, I just got some. But thanks.</body>
+    </message>
+    <message id="m0003" time="2014-05-30 21:36:30 UTC" participant="152116">
+      <body>Okay sorry</body>
+    </message>
+    <message id="m0004" time="2014-05-30 21:36:44 UTC" participant="153491">
+      <body>It's fine.</body>
+    </message>
+    <message id="m0005" time="2014-05-31 17:32:58 UTC" participant="152116">
+      <body>It's okay Sam. Next week is good</body>
+    </message>
+  </messages>
+</conversation>
+

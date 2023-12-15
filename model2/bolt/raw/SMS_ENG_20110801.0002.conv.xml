@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110801.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135126" time="2011-08-01 12:38:05 UTC">
+      <body>Hi martha..say, could you text me the mailing address you sent the rent checks to? Thanks</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-01 13:04:10 UTC">
+      <body>Oh man, unfortunately I have it written down at the apartment. I can send it to you tonight?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140409.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-09 15:38:51 UTC" participant="153547">
+      <body>1230 sharp or a little early. I'll be ready</body>
+    </message>
+    <message id="m0001" time="2014-04-09 15:57:52 UTC" participant="153561">
+      <body>Cool</body>
+    </message>
+    <message id="m0002" time="2014-04-09 16:31:00 UTC" participant="153547">
+      <body>U r picking me up right?</body>
+    </message>
+    <message id="m0003" time="2014-04-09 16:32:39 UTC" participant="153561">
+      <body>Yeah couple minutes en route </body>
+    </message>
+    <message id="m0004" time="2014-04-09 16:40:32 UTC" participant="153561">
+      <body>Here</body>
+    </message>
+    <message id="m0005" time="2014-04-10 12:35:12 UTC" participant="153561">
+      <body>I'll be there in a few minutes. Sorry I've got some serious shit going on right now I'm trying to deal with. I have a doctors appointment next week. </body>
+    </message>
+  </messages>
+</conversation>
+

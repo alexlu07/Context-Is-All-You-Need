@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110508.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130775" time="2011-05-08 19:25:34 UTC">
+      <body/>
+    </message>
+    <message id="m0001" participant="130692" time="2011-05-08 19:27:45 UTC">
+      <body>Is it pretty slender? Our apt is pretty small</body>
+    </message>
+    <message id="m0002" participant="130775" time="2011-05-08 19:29:23 UTC">
+      <body>Yes very slender</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-05-08 19:29:36 UTC">
+      <body>Sure I'll take it</body>
+    </message>
+    <message id="m0004" participant="130775" time="2011-05-08 19:30:14 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" participant="130775" time="2011-05-08 20:02:07 UTC">
+      <body>Also old wood office chair</body>
+    </message>
+    <message id="m0006" participant="130775" time="2011-05-19 21:44:58 UTC">
+      <body/>
+    </message>
+    <message id="m0007" participant="130775" time="2011-06-13 14:47:57 UTC">
+      <body>Go dallas </body>
+    </message>
+    <message id="m0008" participant="130692" time="2011-06-13 14:48:19 UTC">
+      <body>Yup</body>
+    </message>
+    <message id="m0009" participant="130775" time="2011-07-10 15:30:57 UTC">
+      <body/>
+    </message>
+    <message id="m0010" participant="130775" time="2011-07-10 15:31:53 UTC">
+      <body/>
+    </message>
+    <message id="m0011" participant="130692" time="2011-07-10 15:32:51 UTC">
+      <body>I like them. Not sure which one I want</body>
+    </message>
+    <message id="m0012" participant="130775" time="2011-07-10 15:34:03 UTC">
+      <body>No prob</body>
+    </message>
+    <message id="m0013" participant="130692" time="2011-07-10 15:34:42 UTC">
+      <body>Do you guys have a frame that would work?</body>
+    </message>
+    <message id="m0014" participant="130775" time="2011-07-10 15:36:28 UTC">
+      <body>We will frame them 4 u</body>
+    </message>
+    <message id="m0015" participant="130692" time="2011-07-10 15:36:48 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0017" participant="130775" time="2011-07-16 20:02:50 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0018" participant="130775" time="2011-07-22 15:26:01 UTC">
+      <body>U up?</body>
+    </message>
+    <message id="m0019" participant="130775" time="2011-07-22 22:35:24 UTC">
+      <body>Call us @ 7:30 nap time now!</body>
+    </message>
+    <message id="m0020" participant="130692" time="2011-07-22 22:35:42 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0021" participant="130775" time="2011-07-23 14:05:00 UTC">
+      <body>R u up ? Please call</body>
+    </message>
+    <message id="m0022" participant="130775" time="2011-08-04 03:19:58 UTC">
+      <body/>
+    </message>
+    <message id="m0023" participant="130775" time="2011-08-15 20:26:23 UTC">
+      <body>FWD: We r back @ JFK</body>
+    </message>
+    <message id="m0024" participant="130775" time="2011-08-22 19:44:15 UTC">
+      <body>Do u want yr car serviced?</body>
+    </message>
+    <message id="m0025" participant="130692" time="2011-08-22 19:44:57 UTC">
+      <body>Yeah I should prob get the check engine light looked at</body>
+    </message>
+    <message id="m0026" participant="130775" time="2011-08-22 19:46:07 UTC">
+      <body>Ok. 4 wed?</body>
+    </message>
+    <message id="m0027" participant="130692" time="2011-08-22 19:46:27 UTC">
+      <body>Yeah that'd be great</body>
+    </message>
+    <message id="m0028" participant="130775" time="2011-08-22 19:48:16 UTC">
+      <body>Dad will set it up. Wht yr. Is it?</body>
+    </message>
+    <message id="m0029" participant="130692" time="2011-08-22 19:48:33 UTC">
+      <body>1998</body>
+    </message>
+    <message id="m0030" participant="130775" time="2011-08-23 16:41:18 UTC">
+      <body>Nice ribs son! </body>
+    </message>
+    <message id="m0031" participant="130692" time="2011-08-23 16:57:21 UTC">
+      <body>Thanks, I'm at swankys right now</body>
+    </message>
+    <message id="m0032" participant="130775" time="2011-08-23 21:41:32 UTC">
+      <body>What time u done?</body>
+    </message>
+    <message id="m0033" participant="130775" time="2011-08-30 15:01:53 UTC">
+      <body>R u up yet?</body>
+    </message>
+    <message id="m0034" participant="130692" time="2011-08-30 15:07:51 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0035" participant="130775" time="2011-09-01 12:06:30 UTC">
+      <body>What time u want 2 get up</body>
+    </message>
+    <message id="m0036" participant="130692" time="2011-09-01 12:06:59 UTC">
+      <body>We are getting up now</body>
+    </message>
+    <message id="m0037" participant="130775" time="2011-09-01 12:10:42 UTC">
+      <body>Ok  joes ?</body>
+    </message>
+    <message id="m0038" participant="130692" time="2011-09-01 12:12:57 UTC">
+      <body>Yup</body>
+    </message>
+    <message id="m0039" participant="130775" time="2011-09-07 20:04:27 UTC">
+      <body/>
+    </message>
+    <message id="m0040" participant="130775" time="2011-09-14 14:48:30 UTC">
+      <body>No NBA yet!</body>
+    </message>
+    <message id="m0041" participant="130775" time="2011-09-20 18:22:09 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0042" participant="130692" time="2011-09-20 18:22:47 UTC">
+      <body>Working. Call you later </body>
+    </message>
+    <message id="m0043" participant="130775" time="2011-09-20 18:23:23 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0044" participant="130775" time="2011-09-28 14:56:00 UTC">
+      <body>R u up?</body>
+    </message>
+    <message id="m0045" participant="130775" time="2011-10-17 15:34:17 UTC">
+      <body>R u up?</body>
+    </message>
+    <message id="m0046" participant="130692" time="2011-10-17 15:35:21 UTC">
+      <body>I'll call you in a bit</body>
+    </message>
+    <message id="m0047" participant="130775" time="2011-10-17 15:37:34 UTC">
+      <body>Ok will be teaching 1 to 2 today</body>
+    </message>
+    <message id="m0048" participant="130775" time="2011-10-19 22:27:54 UTC">
+      <body/>
+    </message>
+    <message id="m0049" participant="130692" time="2011-10-19 22:28:37 UTC">
+      <body>Awesome. Where?</body>
+    </message>
+    <message id="m0050" participant="130775" time="2011-10-19 22:29:53 UTC">
+      <body>New haven</body>
+    </message>
+    <message id="m0051" participant="130775" time="2011-10-19 22:31:12 UTC">
+      <body>Pork stomach too!</body>
+    </message>
+    <message id="m0052" participant="130692" time="2011-10-19 22:33:47 UTC">
+      <body>Nice!</body>
+    </message>
+    <message id="m0053" participant="130775" time="2011-10-19 22:37:09 UTC">
+      <body/>
+    </message>
+    <message id="m0054" participant="130692" time="2011-10-19 22:42:16 UTC">
+      <body>Wow what'd you get?</body>
+    </message>
+    <message id="m0055" participant="130775" time="2011-10-19 22:44:44 UTC">
+      <body>Pork soup with winter veggies</body>
+    </message>
+    <message id="m0056" participant="130692" time="2011-10-19 23:00:45 UTC">
+      <body>Sounds really good</body>
+    </message>
+    <message id="m0057" participant="130775" time="2011-10-23 21:50:53 UTC">
+      <body>Chk w jess if dec. 10-11 is ok 2 visit instead of 3-4 ok?</body>
+    </message>
+    <message id="m0058" participant="130692" time="2011-10-23 22:28:45 UTC">
+      <body>Yeah that works</body>
+    </message>
+    <message id="m0059" participant="130775" time="2011-10-23 22:36:13 UTC">
+      <body>Book it for now. Will confirm later.</body>
+    </message>
+    <message id="m0060" participant="130775" time="2011-11-06 23:02:06 UTC">
+      <body> </body>
+    </message>
+    <message id="m0061" participant="130775" time="2011-11-12 22:09:27 UTC">
+      <body>We r here!</body>
+    </message>
+    <message id="m0062" participant="130692" time="2011-11-12 22:10:50 UTC">
+      <body>Ok I'll call you in a bit</body>
+    </message>
+    <message id="m0063" participant="130775" time="2011-11-12 22:12:23 UTC">
+      <body>Yep we need some time. </body>
+    </message>
+    <message id="m0064" participant="130775" time="2011-11-16 01:54:25 UTC">
+      <body>HAPPY BIRTHDAY!</body>
+    </message>
+    <message id="m0065" participant="130692" time="2011-11-16 01:54:53 UTC">
+      <body>Your a day early. Thanks though!</body>
+    </message>
+    <message id="m0066" participant="130775" time="2011-11-16 14:04:39 UTC">
+      <body>HAPPY BIRTHDAY!</body>
+    </message>
+    <message id="m0067" participant="130692" time="2011-11-16 14:04:58 UTC">
+      <body>Thanks!!</body>
+    </message>
+    <message id="m0068" participant="130775" time="2011-11-16 18:50:08 UTC">
+      <body>HAPPY BIRTHDAY!</body>
+    </message>
+    <message id="m0069" participant="130775" time="2011-11-24 23:23:52 UTC">
+      <body>R u eating?</body>
+    </message>
+    <message id="m0070" participant="130775" time="2011-11-25 11:41:13 UTC">
+      <body/>
+    </message>
+    <message id="m0071" participant="130775" time="2011-12-01 23:18:15 UTC">
+      <body/>
+    </message>
+    <message id="m0072" participant="130692" time="2011-12-01 23:19:46 UTC">
+      <body>That doesn't look that bad </body>
+    </message>
+    <message id="m0073" participant="130775" time="2011-12-01 23:22:38 UTC">
+      <body>I will send u the recipe</body>
+    </message>
+    <message id="m0074" participant="130775" time="2011-12-07 18:13:38 UTC">
+      <body>No more bratwurst @ the Windmill!</body>
+    </message>
+    <message id="m0075" participant="130692" time="2011-12-07 19:44:18 UTC">
+      <body>What?? That's crazy</body>
+    </message>
+    <message id="m0076" participant="130775" time="2011-12-07 19:47:27 UTC">
+      <body>Yep no cheap source and Rudy the owner is cheap!</body>
+    </message>
+    <message id="m0077" participant="130692" time="2011-12-07 19:48:17 UTC">
+      <body>Haha. I guess they lost the hook up when Millers went out of biz</body>
+    </message>
+    <message id="m0078" participant="130775" time="2011-12-07 19:49:50 UTC">
+      <body>Guess so?</body>
+    </message>
+    <message id="m0079" participant="130775" time="2011-12-10 23:00:16 UTC">
+      <body>Just had chowder at Sansom st oyster house</body>
+    </message>
+    <message id="m0080" participant="130775" time="2011-12-20 18:13:48 UTC">
+      <body>Feeling OK ?</body>
+    </message>
+    <message id="m0081" participant="130692" time="2011-12-20 18:14:10 UTC">
+      <body>Yup, I'm better</body>
+    </message>
+    <message id="m0082" participant="130775" time="2011-12-20 18:14:55 UTC">
+      <body>Nice</body>
+    </message>
+    <message id="m0083" participant="130775" time="2011-12-23 21:01:33 UTC">
+      <body>FWD: I would love Chamay!</body>
+    </message>
+    <message id="m0084" participant="130775" time="2011-12-31 21:38:07 UTC">
+      <body/>
+    </message>
+    <message id="m0085" participant="130692" time="2011-12-31 21:40:09 UTC">
+      <body>Good sign</body>
+    </message>
+    <message id="m0086" participant="130775" time="2012-01-01 14:59:56 UTC">
+      <body>FWD: FWD: Time to strut up Broad st!</body>
+    </message>
+    <message id="m0087" participant="130775" time="2012-01-01 15:43:04 UTC">
+      <body/>
+    </message>
+    <message id="m0088" participant="130692" time="2012-01-01 17:10:30 UTC">
+      <body>Nice!</body>
+    </message>
+    <message id="m0089" participant="130775" time="2012-01-18 23:46:13 UTC">
+      <body/>
+    </message>
+    <message id="m0090" participant="130692" time="2012-01-19 00:03:10 UTC">
+      <body>Yeah Chinese vinegars are great</body>
+    </message>
+    <message id="m0091" participant="130775" time="2012-01-19 00:05:04 UTC">
+      <body>Yep will buy some tonight</body>
+    </message>
+    <message id="m0092" participant="130692" time="2012-01-19 00:05:40 UTC">
+      <body>You in new haven?</body>
+    </message>
+    <message id="m0093" participant="130775" time="2012-01-19 00:06:29 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0094" participant="130775" time="2012-01-19 00:09:28 UTC">
+      <body>Frog special to night</body>
+    </message>
+    <message id="m0095" participant="130692" time="2012-01-19 00:09:59 UTC">
+      <body>Awesome. Never had Chinese style frogs</body>
+    </message>
+    <message id="m0096" participant="130775" time="2012-01-19 00:11:03 UTC">
+      <body>Next time home!</body>
+    </message>
+    <message id="m0097" participant="130692" time="2012-01-19 00:11:28 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0098" participant="130775" time="2012-01-27 17:14:48 UTC">
+      <body/>
+    </message>
+    <message id="m0099" participant="130692" time="2012-01-27 17:26:39 UTC">
+      <body>Oh man, so good. Omanels?</body>
+    </message>
+    <message id="m0100" participant="130775" time="2012-02-04 22:28:03 UTC">
+      <body>Sara wants to send your info on to Michael Pressman. So send it to her. He does bag time productions!</body>
+    </message>
+    <message id="m0101" participant="130775" time="2012-02-05 00:38:27 UTC">
+      <body>Done yet?</body>
+    </message>
+    <message id="m0102" participant="130692" time="2012-02-05 00:39:02 UTC">
+      <body>Yeah driving</body>
+    </message>
+    <message id="m0103" participant="130775" time="2012-02-21 15:04:36 UTC">
+      <body/>
+    </message>
+    <message id="m0104" participant="130775" time="2012-03-08 16:24:13 UTC">
+      <body>Please call grandma. She needs a lift!</body>
+    </message>
+    <message id="m0105" participant="130692" time="2012-03-08 16:24:31 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0106" participant="130775" time="2012-03-08 16:25:19 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0107" participant="130775" time="2012-03-16 12:14:28 UTC">
+      <body>FWD: AAA cards in the mail.</body>
+    </message>
+    <message id="m0108" participant="130692" time="2012-03-16 13:40:08 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0109" participant="130775" time="2012-03-16 13:40:42 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0110" participant="130775" time="2012-03-18 02:05:23 UTC">
+      <body>Buck a shuck ?</body>
+    </message>
+    <message id="m0111" participant="130692" time="2012-03-18 02:05:48 UTC">
+      <body>Huh?</body>
+    </message>
+    <message id="m0112" participant="130775" time="2012-03-18 02:07:57 UTC">
+      <body>Green oysters 2 night?</body>
+    </message>
+    <message id="m0113" participant="130692" time="2012-03-18 02:09:13 UTC">
+      <body>Haha nope</body>
+    </message>
+    <message id="m0114" participant="130775" time="2012-04-11 21:38:24 UTC">
+      <body/>
+    </message>
+    <message id="m0115" participant="130692" time="2012-04-11 21:38:54 UTC">
+      <body>Nice!</body>
+    </message>
+    <message id="m0116" participant="130775" time="2012-04-12 21:14:03 UTC">
+      <body/>
+    </message>
+    <message id="m0117" participant="130775" time="2012-04-13 17:40:42 UTC">
+      <body/>
+    </message>
+    <message id="m0118" participant="130692" time="2012-04-13 17:41:45 UTC">
+      <body>Nice train</body>
+    </message>
+    <message id="m0119" participant="130775" time="2012-04-13 17:44:35 UTC">
+      <body>Yep runs from santa fe to abq</body>
+    </message>
+    <message id="m0120" participant="130775" time="2012-04-13 17:45:51 UTC">
+      <body/>
+    </message>
+    <message id="m0121" participant="130692" time="2012-04-13 17:47:17 UTC">
+      <body>Nice. I like the cut tin stuff a lot</body>
+    </message>
+    <message id="m0122" participant="130775" time="2012-04-13 17:49:35 UTC">
+      <body>Lots in Mexico when u come down!</body>
+    </message>
+    <message id="m0123" participant="130775" time="2012-04-14 16:45:55 UTC">
+      <body>R u done with Nancy?</body>
+    </message>
+    <message id="m0124" participant="130692" time="2012-04-14 16:46:33 UTC">
+      <body>She had to file an extension to figure stuff out with PA taxes</body>
+    </message>
+    <message id="m0125" participant="130775" time="2012-04-24 21:58:46 UTC">
+      <body/>
+    </message>
+    <message id="m0126" participant="130775" time="2012-04-24 22:01:09 UTC">
+      <body/>
+    </message>
+    <message id="m0127" participant="130692" time="2012-04-24 22:02:17 UTC">
+      <body>Looks good, I was actually planning on having Vietnamese tonight. You at the Iranistan place?</body>
+    </message>
+    <message id="m0128" participant="130775" time="2012-04-25 22:24:04 UTC">
+      <body/>
+    </message>
+    <message id="m0129" participant="130775" time="2012-05-01 14:07:08 UTC">
+      <body>Can't find my black tape measure?</body>
+    </message>
+    <message id="m0130" participant="130692" time="2012-05-01 14:07:48 UTC">
+      <body>Maybe in the trunk of your car</body>
+    </message>
+    <message id="m0131" participant="130775" time="2012-05-01 14:09:00 UTC">
+      <body>Will look</body>
+    </message>
+    <message id="m0132" participant="130775" time="2012-05-01 14:13:46 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0133" participant="130692" time="2012-05-01 14:14:16 UTC">
+      <body>Not sure, maybe it got left outside</body>
+    </message>
+    <message id="m0134" participant="130775" time="2012-05-01 20:47:33 UTC">
+      <body>Did they give u a time?</body>
+    </message>
+    <message id="m0135" participant="130775" time="2012-05-07 17:24:31 UTC">
+      <body/>
+    </message>
+    <message id="m0136" participant="130775" time="2012-05-07 17:25:46 UTC">
+      <body/>
+    </message>
+    <message id="m0137" participant="130775" time="2012-05-08 13:17:09 UTC">
+      <body>Found tape in the grass!</body>
+    </message>
+    <message id="m0138" participant="130692" time="2012-05-08 16:40:37 UTC">
+      <body>Haha I knew it'd be out there</body>
+    </message>
+    <message id="m0139" participant="130775" time="2012-05-08 16:42:03 UTC">
+      <body>Was in the back!</body>
+    </message>
+    <message id="m0140" participant="130692" time="2012-05-08 19:40:29 UTC">
+      <body>What's grandmas address?</body>
+    </message>
+    <message id="m0141" participant="130775" time="2012-05-08 19:42:38 UTC">
+      <body>Am in class email mom ok</body>
+    </message>
+    <message id="m0142" participant="130692" time="2012-05-08 19:42:55 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

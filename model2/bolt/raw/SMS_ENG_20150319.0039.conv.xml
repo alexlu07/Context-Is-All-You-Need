@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150319.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-19 20:22:07 UTC" participant="153861">
+      <body>Still good for 5:30? </body>
+    </message>
+    <message id="m0001" time="2015-03-19 20:25:53 UTC" participant="153848">
+      <body>Yeah, Bea has auditions but we can still go to Central Park if you want. </body>
+    </message>
+    <message id="m0002" time="2015-03-19 20:26:13 UTC" participant="153861">
+      <body>Oh we can do whatever!</body>
+    </message>
+    <message id="m0003" time="2015-03-19 20:33:04 UTC" participant="153861">
+      <body>Do you know of somewhere we can get Italian food? I'm really craving pasta today</body>
+    </message>
+    <message id="m0004" time="2015-03-19 20:39:28 UTC" participant="153861">
+      <body>And we just left!</body>
+    </message>
+    <message id="m0005" time="2015-03-19 20:42:41 UTC" participant="153848">
+      <body> Ok what are the chances you'd wanna just make a spaghetti dinner at my place? I just checked my bank account and I'm fresh outta dough. </body>
+    </message>
+    <message id="m0006" time="2015-03-19 21:17:25 UTC" participant="153861">
+      <body>Dinners on me</body>
+    </message>
+    <message id="m0007" time="2015-03-19 21:18:34 UTC" participant="153861">
+      <body>I'm just getting ready to walk in</body>
+    </message>
+  </messages>
+</conversation>
+

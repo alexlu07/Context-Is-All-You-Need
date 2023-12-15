@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121031.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-31 13:16:26 UTC" participant="152417">
+      <body>Whats the difference between a cat and a comma?</body>
+    </message>
+    <message id="m0001" time="2012-10-31 13:16:57 UTC" participant="152523">
+      <body>??</body>
+    </message>
+    <message id="m0002" time="2012-10-31 13:24:15 UTC" participant="152417">
+      <body>One has claws at the end of its paws and the other is a pause at the end of a clause! Happy halloween</body>
+    </message>
+    <message id="m0003" time="2012-10-31 13:24:50 UTC" participant="152523">
+      <body>Happy howl o weeeen </body>
+    </message>
+  </messages>
+</conversation>
+

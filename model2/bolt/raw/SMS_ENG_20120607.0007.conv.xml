@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120607.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-07 20:23:10 UTC">
+      <body>When are you coming to the city again?</body>
+    </message>
+    <message id="m0001" participant="136224" time="2012-06-07 21:09:20 UTC">
+      <body>I might be coming in this week with my buds to show the the proverbial ropes </body>
+    </message>
+  </messages>
+</conversation>

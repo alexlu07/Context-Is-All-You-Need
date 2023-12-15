@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140624.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-24 22:53:52 UTC" participant="153645">
+      <body>Do you have a key yet? </body>
+    </message>
+    <message id="m0001" time="2014-06-24 22:55:12 UTC" participant="153548">
+      <body>Not yet! </body>
+    </message>
+    <message id="m0002" time="2014-06-24 22:56:00 UTC" participant="153645">
+      <body>Ok - just checking - I asked Thomasin if they left a key for you but I have not heard back - I can give you mine tonight if there is not a key in the studio for you. </body>
+    </message>
+    <message id="m0003" time="2014-06-24 22:57:20 UTC" participant="153548">
+      <body>Great! Thanks for checking cause I forgot about the key. See you at 8!</body>
+    </message>
+    <message id="m0004" time="2014-06-24 23:51:28 UTC" participant="153645">
+      <body>Im here text who you get here</body>
+    </message>
+  </messages>
+</conversation>
+

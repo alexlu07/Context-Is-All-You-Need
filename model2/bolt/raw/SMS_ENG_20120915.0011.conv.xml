@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120915.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135384" time="2012-09-15 13:13:36 UTC">
+      <body>Hi Sofie - The forecast changed and it will be raining throughout the day so we've rescheduled the potluck for tomorrow at noon when it will be bright &amp; sunny out! 
+Sorry for the inconvenience; hope to see you tomorrow!</body>
+    </message>
+    <message id="m0001" participant="135384" time="2012-09-15 18:08:00 UTC">
+      <body>Hi Sofie - are you planning to come to Scituate tomorrow? If so, I've got 2 people who would like to get a ride, assuming you've got room. 
+
+One of them is Alex, 2nd year DMI who taught the Processing workshop on Saturday. The other is Pol, my friend from Barcelona who's an interactive designer and is getting his PhD at the Media Lab at MIT. 
+
+Let me know.
+Thanks.</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-15 20:33:38 UTC">
+      <body>Kent, I am sorry. I have been trying to move things around but I won't be able to make it tomorrow.  I am pretty bummed. </body>
+    </message>
+    <message id="m0003" participant="135384" time="2012-09-15 20:35:12 UTC">
+      <body>Not a problem; sorry it didn't work out for this year. Thanks Sofie!</body>
+    </message>
+  </messages>
+</conversation>

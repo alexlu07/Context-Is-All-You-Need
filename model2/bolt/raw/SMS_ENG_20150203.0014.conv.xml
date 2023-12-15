@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 16:19:12 UTC" participant="152604">
+      <body>Hey - can we meet up for coffee/tea tonight? I'd rather chat than play tonight, and we can go from there? Also, I got the chance to listen to your songs. So beautiful! </body>
+    </message>
+    <message id="m0001" time="2015-02-03 16:47:56 UTC" participant="152417">
+      <body>Sure, looks like most cafes in center city close at 8 or 9.  Good Karma Cafe at 23 n Walnut is open till 10</body>
+    </message>
+    <message id="m0002" time="2015-02-03 16:51:12 UTC" participant="152604">
+      <body>Remind me - you in west or center?</body>
+    </message>
+    <message id="m0003" time="2015-02-03 16:51:12 UTC" participant="152604">
+      <body>There's another one of those at pine and 9th</body>
+    </message>
+    <message id="m0004" time="2015-02-03 16:53:10 UTC" participant="152417">
+      <body>I live in south philly, but spend most of my time at school</body>
+    </message>
+    <message id="m0005" time="2015-02-03 16:53:18 UTC" participant="152604">
+      <body>It's a great cafe - never been to the one on 23rs</body>
+    </message>
+    <message id="m0006" time="2015-02-03 16:53:20 UTC" participant="152604">
+      <body>Let's meet at 9th and pine </body>
+    </message>
+    <message id="m0007" time="2015-02-03 16:54:11 UTC" participant="152417">
+      <body>I up for either, theyre about equidistant from uarts so what ever works for you</body>
+    </message>
+    <message id="m0008" time="2015-02-03 16:55:28 UTC" participant="152604">
+      <body>I can get there bout 8:45</body>
+    </message>
+    <message id="m0009" time="2015-02-03 17:08:24 UTC" participant="152417">
+      <body>Cool, see you there</body>
+    </message>
+  </messages>
+</conversation>
+

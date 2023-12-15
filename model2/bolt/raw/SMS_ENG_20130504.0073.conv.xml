@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 04:34:38 UTC" participant="154393">
+      <body>Yo, are you still at the bar?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 04:35:21 UTC" participant="154352">
+      <body>At the moment. How was the movie?</body>
+    </message>
+    <message id="m0002" time="2013-05-04 04:36:19 UTC" participant="154393">
+      <body> Good.
+Who you with?
+Are you at the honeys?
+We could be there in 20 minutes.
+How are you staying?</body>
+    </message>
+    <message id="m0004" time="2013-05-04 04:37:55 UTC" participant="154393">
+      <body>Are you "with" the honeys?
+How "long" are you stating?</body>
+    </message>
+    <message id="m0005" time="2013-05-04 04:40:09 UTC" participant="154352">
+      <body>I came with some dudes who promised honeys, but its not looking good here tonight.</body>
+    </message>
+    <message id="m0006" time="2013-05-04 04:40:28 UTC" participant="154352">
+      <body>I was planning on staying until 1ish</body>
+    </message>
+    <message id="m0007" time="2013-05-04 04:41:23 UTC" participant="154393">
+      <body>Okay then. I guess I'll just stay home. I'll talk to you soon!</body>
+    </message>
+    <message id="m0009" time="2013-05-04 04:43:02 UTC" participant="154393">
+      <body> We wouldn't be able to get there until 1:15-ish</body>
+    </message>
+  </messages>
+</conversation>
+

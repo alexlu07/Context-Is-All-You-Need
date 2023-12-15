@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110930.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2011-09-30 16:26:47 UTC">
+      <body>REMINDER: 2:30-3 :)</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-30 16:27:24 UTC">
+      <body>Yeps</body>
+    </message>
+    <message id="m0002" participant="131823" time="2011-09-30 18:27:16 UTC">
+      <body>meet in the lobby?</body>
+    </message>
+  </messages>
+</conversation>

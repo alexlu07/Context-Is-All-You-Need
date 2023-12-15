@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 17:35:12 UTC" participant="149373">
+      <body>Hey I just got here.</body>
+    </message>
+    <message id="m0001" time="2015-03-29 17:36:26 UTC" participant="153547">
+      <body>Hey Shawn, I forgot. I'll be there as soon as I can. Maybe 15 min. So sorry to be rude.</body>
+    </message>
+    <message id="m0002" time="2015-03-29 17:37:10 UTC" participant="149373">
+      <body>No problem. I'll just have a cup of coffee </body>
+    </message>
+    <message id="m0003" time="2015-03-29 17:49:08 UTC" participant="153547">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

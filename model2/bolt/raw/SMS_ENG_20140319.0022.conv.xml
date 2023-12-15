@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140319.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-19 14:45:33 UTC" participant="154901">
+      <body>Hey we goin 2 the gym tonight? </body>
+    </message>
+    <message id="m0001" time="2014-03-19 15:44:37 UTC" participant="153244">
+      <body>Yea I think so</body>
+    </message>
+    <message id="m0002" time="2014-03-19 15:44:43 UTC" participant="153244">
+      <body>730</body>
+    </message>
+    <message id="m0003" time="2014-03-19 15:45:02 UTC" participant="154901">
+      <body>Ard good</body>
+    </message>
+    <message id="m0004" time="2014-03-19 23:14:20 UTC" participant="153244">
+      <body>Hey leaving for the gym soon</body>
+    </message>
+    <message id="m0005" time="2014-03-19 23:48:13 UTC" participant="154901">
+      <body>Naa im still working but if u see my boss tell him I was sleeping lol </body>
+    </message>
+    <message id="m0006" time="2014-03-19 23:48:57 UTC" participant="153244">
+      <body>Lol k </body>
+    </message>
+  </messages>
+</conversation>
+

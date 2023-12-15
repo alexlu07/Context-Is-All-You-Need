@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-06 19:59:31 UTC" participant="152590">
+      <body>will check now</body>
+    </message>
+    <message id="m0002" time="2014-12-06 20:44:58 UTC" participant="152590">
+      <body>another one!</body>
+    </message>
+    <message id="m0003" time="2014-12-07 18:00:20 UTC" participant="152590">
+      <body>got you an order</body>
+    </message>
+    <message id="m0004" time="2014-12-07 18:01:34 UTC" participant="152417">
+      <body>Thx</body>
+    </message>
+    <message id="m0005" time="2014-12-07 18:12:53 UTC" participant="152590">
+      <body>dont want the double?</body>
+    </message>
+    <message id="m0006" time="2014-12-07 18:13:43 UTC" participant="152417">
+      <body>27 said its for 6 pm, id be happy to take it if its for now</body>
+    </message>
+    <message id="m0007" time="2014-12-07 18:14:01 UTC" participant="152590">
+      <body>hahahaha you're right my bad good catch</body>
+    </message>
+    <message id="m0008" time="2014-12-07 19:45:49 UTC" participant="152417">
+      <body>Thats it for me today, time to study</body>
+    </message>
+  </messages>
+</conversation>
+

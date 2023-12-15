@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-08 16:42:30 UTC">
+      <body>Wearing my dress with the fixed elastic. Thank you!!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-09-09 15:52:19 UTC">
+      <body>You are so welcome!  I'm at Pismo can we chat Monday?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-09 15:59:55 UTC">
+      <body>Yes ma'am.</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-09-09 17:19:34 UTC">
+      <body>Thanks Pix!  Love you!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-09-09 17:38:34 UTC">
+      <body>No prob! Love you!</body>
+    </message>
+  </messages>
+</conversation>

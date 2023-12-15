@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-10 15:00:15 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0001" participant="136213" time="2012-06-10 15:02:24 UTC">
+      <body>72 &amp; west end walking</body>
+    </message>
+    <message id="m0003" participant="136213" time="2012-06-10 15:04:32 UTC">
+      <body>Didn't hear back from her, not sure if she's in the city/country</body>
+    </message>
+  </messages>
+</conversation>

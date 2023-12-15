@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135467" time="2013-02-09 06:02:16 UTC">
+      <body>Happy BD</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-09 20:29:02 UTC">
+      <body>Thanks grandpa love you</body>
+    </message>
+    <message id="m0002" participant="135467" time="2013-02-09 20:30:43 UTC">
+      <body>Who r u sledding with?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-09 20:31:03 UTC">
+      <body>My roommates</body>
+    </message>
+    <message id="m0004" participant="135467" time="2013-02-09 20:32:39 UTC">
+      <body>Enjoy them!</body>
+    </message>
+  </messages>
+</conversation>

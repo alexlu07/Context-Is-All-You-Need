@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111111.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130875" time="2011-11-11 23:59:13 UTC">
+      <body>Hey, actually i have a planning from 6-8pm on the 29th :( i'm sry to be an inconvenience :/ when i signed up i told them i have evening mtgs a lot</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-11-12 00:18:38 UTC">
+      <body>S'no prob, me n Marija are messing up the next two weeks schedule :-).  I'll email you both tomorrow and we'll work something out.  What's yr email?</body>
+    </message>
+    <message id="m0003" participant="130755" time="2011-11-12 00:25:18 UTC">
+      <body>Great, thx!</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-11-29 01:50:02 UTC">
+      <body>Next Tuesday, 7:30!  Sorry this took so long, they were out all week for the holiday I think</body>
+    </message>
+    <message id="m0005" participant="130875" time="2011-12-05 00:29:32 UTC">
+      <body>Hey, I won't be able to make Tuesday's class. I just left a message at the school and told them to hold the class anyway and I'd figure something out</body>
+    </message>
+    <message id="m0006" participant="130755" time="2011-12-05 00:45:12 UTC">
+      <body>Ok, sorry to hear</body>
+    </message>
+    <message id="m0007" participant="130875" time="2011-12-15 02:46:25 UTC">
+      <body>Sorry I could have sworn I replied. Yes I'll be there tomorrow</body>
+    </message>
+    <message id="m0008" participant="130875" time="2011-12-19 18:08:54 UTC">
+      <body>(1/2)In the time since our last class I haven't had much opportunity to practice, so I think I'd be holding the group back. For now I'm back in my first group. </body>
+    </message>
+    <message id="m0009" participant="130875" time="2011-12-19 18:09:02 UTC">
+      <body>(2/2)Thanks though, and good luck!</body>
+    </message>
+  </messages>
+</conversation>

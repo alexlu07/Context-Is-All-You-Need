@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111224.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-12-24 05:32:05 UTC">
+      <body>Are you coming to pats?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-12-24 06:48:09 UTC">
+      <body>Should I?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-12-24 06:48:35 UTC">
+      <body>No, I'm leaving</body>
+    </message>
+    <message id="m0003" participant="135092" time="2011-12-24 06:50:16 UTC">
+      <body>Whyyyyyyy</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-12-24 06:50:31 UTC">
+      <body>Bad energy.</body>
+    </message>
+    <message id="m0005" participant="135092" time="2011-12-24 06:51:02 UTC">
+      <body>From whooo</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-12-24 06:51:17 UTC">
+      <body>Tessa Ross Alex</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-12-24 18:14:16 UTC">
+      <body>Do you think mom would give us Zelda today? No celebrations today.....</body>
+    </message>
+  </messages>
+</conversation>

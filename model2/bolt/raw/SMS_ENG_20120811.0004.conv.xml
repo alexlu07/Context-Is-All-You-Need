@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120811.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135393" time="2012-08-11 17:27:28 UTC">
+      <body>What's ur hbo on the go login?</body>
+    </message>
+    <message id="m0002" participant="135393" time="2012-08-11 18:27:12 UTC">
+      <body>What is the service?</body>
+    </message>
+    <message id="m0003" participant="135393" time="2012-08-11 18:27:12 UTC">
+      <body>Fanksssaass</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-08-11 18:27:21 UTC">
+      <body>Verizon fios</body>
+    </message>
+  </messages>
+</conversation>

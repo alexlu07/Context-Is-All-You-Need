@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141004.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-04 23:39:45 UTC" participant="152115">
+      <body>So we are waiting to be seated at a restaurant. I'm starving! I'll call you when we're done eating.</body>
+    </message>
+    <message id="m0001" time="2014-10-04 23:41:04 UTC" participant="152117">
+      <body>Ok. Was just thinking about u. Looked at phone and there you rang. Love u!</body>
+    </message>
+    <message id="m0002" time="2014-10-05 09:22:17 UTC" participant="152117">
+      <body>How is everything? R u thru yet?</body>
+    </message>
+    <message id="m0003" time="2014-10-05 09:24:31 UTC" participant="152115">
+      <body>Just getting ready to take off. I won't be able to send or receive texts in a few.</body>
+    </message>
+    <message id="m0004" time="2014-10-05 09:25:33 UTC" participant="152117">
+      <body>Text me when u land love u</body>
+    </message>
+    <message id="m0005" time="2014-10-05 10:59:03 UTC" participant="152117">
+      <body>Have u landed ?</body>
+    </message>
+    <message id="m0006" time="2014-10-05 10:59:36 UTC" participant="152115">
+      <body>Just got off. Walking to Cassy.  Be home soon</body>
+    </message>
+    <message id="m0007" time="2014-10-05 11:01:04 UTC" participant="152117">
+      <body>Ok love u!i</body>
+    </message>
+    <message id="m0008" time="2014-10-05 11:20:08 UTC" participant="152117">
+      <body>Let me know when your in and please bag the clothes u have on as soon as possiible! Both of you!</body>
+    </message>
+  </messages>
+</conversation>
+

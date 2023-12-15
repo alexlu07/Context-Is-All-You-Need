@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 18:23:21 UTC" participant="152417">
+      <body>Can you play the bean sat at midnight?</body>
+    </message>
+    <message id="m0001" time="2014-08-04 18:23:58 UTC" participant="152532">
+      <body>Yes </body>
+    </message>
+    <message id="m0002" time="2014-08-04 19:19:25 UTC" participant="152532">
+      <body>I would assume dan  can do it. it's up to galen  at this point. </body>
+    </message>
+    <message id="m0003" time="2014-08-04 21:01:29 UTC" participant="152532">
+      <body>Galen's in if he can cover his shift, which he'll know later tonight </body>
+    </message>
+    <message id="m0004" time="2014-08-04 21:07:53 UTC" participant="152417">
+      <body>Sweet</body>
+    </message>
+    <message id="m0005" time="2014-08-04 21:09:15 UTC" participant="152532">
+      <body>Suite </body>
+    </message>
+  </messages>
+</conversation>
+

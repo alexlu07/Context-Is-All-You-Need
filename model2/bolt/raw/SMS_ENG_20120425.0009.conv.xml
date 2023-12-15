@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120425.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-25 21:06:54 UTC" participant="152734">
+      <body>Are you around this weekend? I might be making a quick trip down and I owe you a date....</body>
+    </message>
+    <message id="m0001" time="2012-04-25 21:20:54 UTC" participant="153272">
+      <body>YES</body>
+    </message>
+    <message id="m0002" time="2012-04-25 21:24:36 UTC" participant="152734">
+      <body>Ok! I'll keep you posted! Saturday?</body>
+    </message>
+  </messages>
+</conversation>
+

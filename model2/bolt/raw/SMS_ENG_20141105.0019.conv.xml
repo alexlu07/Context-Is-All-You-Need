@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141105.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-05 15:15:08 UTC" participant="153804">
+      <body>Where is my Halloween photo???</body>
+    </message>
+    <message id="m0001" time="2014-11-05 21:15:15 UTC" participant="153817">
+      <body>On Facebook!</body>
+    </message>
+    <message id="m0002" time="2014-11-05 21:17:38 UTC" participant="153817">
+      <body>￼</body>
+    </message>
+    <message id="m0003" time="2014-11-06 13:27:55 UTC" participant="153804">
+      <body>You look marvelous!</body>
+    </message>
+    <message id="m0004" time="2014-11-06 13:28:32 UTC" participant="153817">
+      <body>Thank you</body>
+    </message>
+    <message id="m0005" time="2014-11-06 13:28:32 UTC" participant="153817">
+      <body>You need to get Facebook</body>
+    </message>
+  </messages>
+</conversation>
+

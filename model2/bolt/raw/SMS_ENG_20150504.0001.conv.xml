@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150504.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-05-04 12:31:55 UTC" participant="153804">
+      <body>Did you guy's go up to camp over weekend? It was perfect weather!</body>
+    </message>
+    <message id="m0001" time="2015-05-04 12:47:50 UTC" participant="153813">
+      <body>No. Of course not. We went last weekend when it was cold. Will go this weekend.</body>
+    </message>
+    <message id="m0002" time="2015-05-04 12:50:07 UTC" participant="153804">
+      <body>Should still be nice,according to forecast.</body>
+    </message>
+    <message id="m0003" time="2015-05-04 14:00:58 UTC" participant="153813">
+      <body>Are you guys interested in going  up?</body>
+    </message>
+    <message id="m0004" time="2015-05-04 14:17:00 UTC" participant="153804">
+      <body>I'll check w/Tom. He just came home from a week in CA for work.</body>
+    </message>
+  </messages>
+</conversation>
+

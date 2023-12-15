@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140519.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-19 19:45:11 UTC" participant="153548">
+      <body>Did you make it to class last Thursday? I'm ready for some serious breathing tonight</body>
+    </message>
+    <message id="m0001" time="2014-05-19 20:11:28 UTC" participant="153678">
+      <body>I didn't and I regretted it! I finished the book though. I'm glad you are ready for tonight...feeling more motivated now! 645 on the corner! </body>
+    </message>
+    <message id="m0002" time="2014-05-19 20:20:59 UTC" participant="153548">
+      <body>Yes! Totally ready for it!!!</body>
+    </message>
+  </messages>
+</conversation>
+

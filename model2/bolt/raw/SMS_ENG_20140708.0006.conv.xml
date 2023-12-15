@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140708.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-08 18:09:27 UTC" participant="152752">
+      <body>Hey Ingrid... I'm available Friday if you want to set up a meeting. Just let me know what time works best for you guys.</body>
+    </message>
+    <message id="m0001" time="2014-07-08 18:09:41 UTC" participant="152752">
+      <body>-Omíd</body>
+    </message>
+    <message id="m0002" time="2014-07-08 18:16:48 UTC" participant="152735">
+      <body>Anytime after 2 and before 5- What works for you?</body>
+    </message>
+    <message id="m0003" time="2014-07-08 18:17:37 UTC" participant="152735">
+      <body>Excited to share our exhibition programming with you and learn more about what you do. </body>
+    </message>
+    <message id="m0005" time="2014-07-08 18:18:59 UTC" participant="152735">
+      <body>Actually, I could do 1pm too. How does that sound? </body>
+    </message>
+    <message id="m0006" time="2014-07-08 18:23:01 UTC" participant="152752">
+      <body>How about 2pm? </body>
+    </message>
+    <message id="m0007" time="2014-07-08 18:23:40 UTC" participant="152752">
+      <body>Likewise, it would be great to see the gallery. </body>
+    </message>
+    <message id="m0008" time="2014-07-08 18:27:44 UTC" participant="152735">
+      <body>Yes, perfect. See you then. </body>
+    </message>
+    <message id="m0009" time="2014-07-08 18:30:56 UTC" participant="152752">
+      <body>Sounds good... See you Friday at 2, at Hooloon. </body>
+    </message>
+    <message id="m0010" time="2014-07-08 18:31:08 UTC" participant="152735">
+      <body>See you then! </body>
+    </message>
+    <message id="m0011" time="2014-07-08 18:33:31 UTC" participant="152752">
+      <body>Fantastic.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130108.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-08 22:06:22 UTC" participant="152734">
+      <body>Sorry for the delayed response - I am super booked up this week.</body>
+    </message>
+    <message id="m0001" time="2013-01-08 22:09:04 UTC" participant="153300">
+      <body>Not a problem!!</body>
+    </message>
+    <message id="m0002" time="2013-01-08 22:09:04 UTC" participant="153300">
+      <body>The only day I can't take you over us a wed or Saturday</body>
+    </message>
+    <message id="m0003" time="2013-01-08 22:12:29 UTC" participant="152734">
+      <body>Ok, I'll keep you posted, thanks!</body>
+    </message>
+    <message id="m0004" time="2013-01-08 22:13:20 UTC" participant="153300">
+      <body>Sure thing!</body>
+    </message>
+  </messages>
+</conversation>
+

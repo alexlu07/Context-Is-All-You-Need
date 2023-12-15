@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-05 02:18:35 UTC">
+      <body>lesson for elle sat?</body>
+    </message>
+    <message id="m0001" participant="131369" time="2013-04-05 02:21:29 UTC">
+      <body>That would be great...im just having no luck with work...the gym is still a week out from being done</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-05 02:27:57 UTC">
+      <body>can we do it late, like 4 or 5pm?</body>
+    </message>
+    <message id="m0003" participant="131369" time="2013-04-05 02:28:59 UTC">
+      <body>Im sure let me.discuss</body>
+    </message>
+  </messages>
+</conversation>

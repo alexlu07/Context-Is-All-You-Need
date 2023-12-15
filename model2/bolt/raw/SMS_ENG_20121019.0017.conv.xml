@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121019.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-19 16:01:33 UTC" participant="152417">
+      <body>Its workin now, thanks for the help</body>
+    </message>
+    <message id="m0001" time="2012-10-19 16:01:53 UTC" participant="152524">
+      <body>Great. What was it?</body>
+    </message>
+    <message id="m0002" time="2012-10-19 16:02:57 UTC" participant="152417">
+      <body>Lights on the patio</body>
+    </message>
+    <message id="m0003" time="2012-10-19 16:03:47 UTC" participant="152524">
+      <body>Makes sense. Best to remove them so there's no chance of them shorting</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 21:42:21 UTC" participant="153244">
+      <body>Hey are you doing anything? </body>
+    </message>
+    <message id="m0001" time="2014-04-12 23:29:18 UTC" participant="152116">
+      <body>Hey sorry I fell asleep. Did you need something?</body>
+    </message>
+    <message id="m0002" time="2014-04-12 23:45:46 UTC" participant="153244">
+      <body>yes!!! To be occupied! </body>
+    </message>
+    <message id="m0003" time="2014-04-13 00:16:10 UTC" participant="152116">
+      <body>Sorry. I have to do work</body>
+    </message>
+    <message id="m0004" time="2014-04-13 00:31:24 UTC" participant="153244">
+      <body>That's ok you're late anyway lol... I really just wanted someone to take a ride w me to vacuum my car bec idk where to go or what to do bit I didn't go</body>
+    </message>
+    <message id="m0005" time="2014-04-13 00:37:42 UTC" participant="152116">
+      <body>Did you do it?</body>
+    </message>
+    <message id="m0006" time="2014-04-13 01:09:10 UTC" participant="153244">
+      <body>No, no one to go with me</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-05-10 20:35:13 UTC">
+      <body>Hey guys, anyone have time to take a break for dinner around 6:15 maybe?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-10 20:35:33 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-05-10 22:00:27 UTC">
+      <body>Yay! are you in the insc\should i plan to meet you in the dc?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-10 22:00:57 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-11 02:47:39 UTC">
+      <body>Are you going to ring the bell tomorrow before you leave?</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-05-11 02:49:36 UTC">
+      <body>Yes i prob won't leave til about 5.  what time is the bell ringing?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-11 02:50:12 UTC">
+      <body>5...I think we take a class picture and then ring the bell</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-05-11 02:51:28 UTC">
+      <body>Fug.  Ok, i will just wait and leave after that!</body>
+    </message>
+  </messages>
+</conversation>

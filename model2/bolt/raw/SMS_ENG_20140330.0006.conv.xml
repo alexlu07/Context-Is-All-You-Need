@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140330.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-30 13:00:48 UTC" participant="149372">
+      <body>Ok. Let me know when you got your stuff out. </body>
+    </message>
+    <message id="m0001" time="2014-03-30 13:04:35 UTC" participant="153547">
+      <body>Ok prolly by 10am</body>
+    </message>
+    <message id="m0002" time="2014-03-30 13:07:12 UTC" participant="149372">
+      <body>K</body>
+    </message>
+    <message id="m0003" time="2014-03-30 13:42:44 UTC" participant="153547">
+      <body>Finished</body>
+    </message>
+    <message id="m0004" time="2014-03-30 13:45:10 UTC" participant="149372">
+      <body>Thx</body>
+    </message>
+  </messages>
+</conversation>
+

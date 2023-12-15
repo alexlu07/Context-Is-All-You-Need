@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-29 21:42:50 UTC" participant="152417">
+      <body>Hey bob, could i have a ride down to nectars?</body>
+    </message>
+    <message id="m0001" time="2012-12-29 21:46:16 UTC" participant="152521">
+      <body>I was actually planing on walking</body>
+    </message>
+    <message id="m0002" time="2012-12-29 21:48:34 UTC" participant="152521">
+      <body>Do u have a lot of stuff?</body>
+    </message>
+    <message id="m0003" time="2012-12-29 21:49:36 UTC" participant="152417">
+      <body>Just my horn, ill ask jon</body>
+    </message>
+  </messages>
+</conversation>
+

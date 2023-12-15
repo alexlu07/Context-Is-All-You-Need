@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130304.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-03-04 20:22:40 UTC">
+      <body>Dinner at 5:30?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-04 20:26:51 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-03-04 22:29:10 UTC">
+      <body>I'll meet you in the dc. Heading  over from the insc in a minute.</body>
+    </message>
+    <message id="m0003" participant="135275" time="2013-03-05 20:40:05 UTC">
+      <body>Dinner at 5:30?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-05 20:42:57 UTC">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>

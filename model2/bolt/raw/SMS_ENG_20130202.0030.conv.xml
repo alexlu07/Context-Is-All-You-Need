@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-02 23:11:56 UTC">
+      <body>Come to the cast party tonight!! </body>
+    </message>
+    <message id="m0001" participant="137259" time="2013-02-02 23:12:39 UTC">
+      <body>Where/when/I dunno if I can or want to?</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-02-02 23:14:32 UTC">
+      <body>ANDREW'S and Kalev didn't get into purchase and needs your moral support </body>
+    </message>
+    <message id="m0003" participant="137259" time="2013-02-02 23:17:26 UTC">
+      <body>I will be there...mostly because its at Andrew's :) And :( and what timeish?</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-02-02 23:18:56 UTC">
+      <body>10:30ish? </body>
+    </message>
+    <message id="m0005" participant="137259" time="2013-02-02 23:19:28 UTC">
+      <body>Right, text me? I'd love to go</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-02-02 23:19:44 UTC">
+      <body>Wonderful :)</body>
+    </message>
+    <message id="m0007" participant="137259" time="2013-02-03 03:48:37 UTC">
+      <body>So...? If it's too much trouble, don't bother. My dad just won't let me out with the car after 11</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-02-03 03:49:00 UTC">
+      <body>We're coming </body>
+    </message>
+    <message id="m0009" participant="137259" time="2013-02-03 03:50:04 UTC">
+      <body>Wow thanks :) </body>
+    </message>
+  </messages>
+</conversation>

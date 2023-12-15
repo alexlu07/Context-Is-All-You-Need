@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140711.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-11 19:39:52 UTC" participant="153547">
+      <body>I dropped off some mail including an unpaid parking ticket</body>
+    </message>
+    <message id="m0001" time="2014-07-11 19:50:24 UTC" participant="149372">
+      <body>Cool thx. Did you send me hours? I can get you cash tonight. </body>
+    </message>
+    <message id="m0002" time="2014-07-11 19:51:58 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>
+

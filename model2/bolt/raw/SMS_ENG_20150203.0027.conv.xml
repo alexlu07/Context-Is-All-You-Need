@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 18:29:20 UTC" participant="153552">
+      <body>Hey man I don't know if you're still doing construction, but if you are would you be free to do an approx. 8x9 drywall job?</body>
+    </message>
+    <message id="m0001" time="2015-02-03 22:58:07 UTC" participant="153547">
+      <body>I can't do it</body>
+    </message>
+    <message id="m0002" time="2015-02-03 23:40:25 UTC" participant="153552">
+      <body>Ok, thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

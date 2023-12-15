@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130226.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134282" time="2013-02-26 21:14:57 UTC">
+      <body>You in for tonight?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-02-26 21:15:23 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="134282" time="2013-02-26 21:16:42 UTC">
+      <body>Solid. I'm riding with you tonight</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-02-26 21:17:20 UTC">
+      <body>Sounds good. I think not riding with you last week threw off my mojo </body>
+    </message>
+    <message id="m0004" participant="134282" time="2013-02-26 21:20:48 UTC">
+      <body>Haha. Perhaps. Hopefully we both play well tonight. We sure as hell couldn't win one last week</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-02-27 00:41:37 UTC">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140303.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-03 19:22:06 UTC" participant="152484">
+      <body>Hey hey hey! How goes it? Any marinated thoughts on my email? Any questions come up that I can answer?</body>
+    </message>
+    <message id="m0001" time="2014-03-04 14:00:36 UTC" participant="152417">
+      <body>Yes! I'll email some thoughts later today.  No questions as of yet</body>
+    </message>
+    <message id="m0002" time="2014-03-04 14:01:40 UTC" participant="152484">
+      <body>Ah! Wonderful! Looking forward to that then. </body>
+    </message>
+    <message id="m0003" time="2014-03-04 14:02:35 UTC" participant="152484">
+      <body>How's the continued arctic chill up there? </body>
+    </message>
+    <message id="m0004" time="2014-03-04 14:04:27 UTC" participant="152417">
+      <body>I dunno, im in philly waiting for the amtrak, but it seems to be just as frigid here</body>
+    </message>
+    <message id="m0005" time="2014-03-04 14:06:56 UTC" participant="152484">
+      <body>Haha. Yup that's not vt. But I think we've all got a cold advisory. New Yorkers are very cranky about it. </body>
+    </message>
+  </messages>
+</conversation>
+

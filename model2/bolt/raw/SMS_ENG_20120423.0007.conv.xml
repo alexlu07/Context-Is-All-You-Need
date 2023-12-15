@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120423.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-23 20:06:43 UTC">
+      <body>Sure, what's your address?</body>
+    </message>
+    <message id="m0001" participant="131332" time="2012-04-23 20:07:28 UTC">
+      <body>Noah! You are in Port Richmond? Can you swing by my place to pick up the hour glass? It needs a little work. </body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-23 20:08:14 UTC">
+      <body>Ok, I'm waiting at the doctors office right now, not sure how long this will take. Are you home for the day?</body>
+    </message>
+    <message id="m0004" participant="131332" time="2012-04-23 20:09:36 UTC">
+      <body>I'll be here. </body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-04-23 20:09:37 UTC">
+      <body>Cool, I'll give you a text when I'm leaving</body>
+    </message>
+  </messages>
+</conversation>

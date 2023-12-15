@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-13 22:12:47 UTC">
+      <body>Or thigh fillets?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-13 22:13:06 UTC">
+      <body>Chicken breast tenderloins?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-13 22:16:34 UTC">
+      <body>You want value pack chicken breasts, right?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-06-14 13:06:51 UTC">
+      <body>Per Ryan: "Kevin will be there for 11. I think I have him at $50"</body>
+    </message>
+    <message id="m0004" participant="131502" time="2013-06-14 13:07:12 UTC">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>

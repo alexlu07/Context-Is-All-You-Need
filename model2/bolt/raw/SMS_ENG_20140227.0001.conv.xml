@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140227.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-27 15:56:36 UTC" participant="153276">
+      <body>I'm excited about Birra tonight! 5:30, right? </body>
+    </message>
+    <message id="m0001" time="2014-02-27 17:21:05 UTC" participant="152734">
+      <body>Yes yes!</body>
+    </message>
+    <message id="m0002" time="2014-02-27 22:20:20 UTC" participant="153276">
+      <body>I'm here and they're playing Massive Attack. I'm already happy </body>
+    </message>
+    <message id="m0003" time="2014-02-27 22:21:12 UTC" participant="152734">
+      <body>I hopped the most crowded bus in Philadelphia, be there soon!</body>
+    </message>
+  </messages>
+</conversation>
+

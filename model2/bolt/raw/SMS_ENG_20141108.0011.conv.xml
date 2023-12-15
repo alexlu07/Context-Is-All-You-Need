@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141108.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-08 02:18:29 UTC" participant="153547">
+      <body> Goodnight lo</body>
+    </message>
+    <message id="m0001" time="2014-11-08 02:18:59 UTC" participant="153547">
+      <body>Goodnight love.  It's so cold </body>
+    </message>
+    <message id="m0002" time="2014-11-08 03:56:31 UTC" participant="153557">
+      <body>Love you. Night.</body>
+    </message>
+    <message id="m0003" time="2014-11-09 01:42:24 UTC" participant="153557">
+      <body>Miss you.</body>
+    </message>
+    <message id="m0004" time="2014-11-09 01:42:24 UTC" participant="153557">
+      <body>I'm so tired. </body>
+    </message>
+    <message id="m0005" time="2014-11-09 01:44:32 UTC" participant="153557">
+      <body>Can you send me a picture of the cats?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140104.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-04 16:03:49 UTC" participant="152734">
+      <body>Hey! Are you attempting to ride today? Walk maybe? :/</body>
+    </message>
+    <message id="m0001" time="2014-01-04 16:04:16 UTC" participant="153305">
+      <body>I'm having lunch with a friend in Princeton so probably not. </body>
+    </message>
+    <message id="m0002" time="2014-01-04 16:04:16 UTC" participant="153305">
+      <body>Sorry </body>
+    </message>
+    <message id="m0003" time="2014-01-04 16:04:55 UTC" participant="153305">
+      <body>Brenna might be game</body>
+    </message>
+    <message id="m0004" time="2014-01-04 16:05:09 UTC" participant="152734">
+      <body>But it's so nice out!! Ok, I'll catch you later :)</body>
+    </message>
+  </messages>
+</conversation>
+

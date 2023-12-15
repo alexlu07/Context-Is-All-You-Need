@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141210.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-10 20:56:54 UTC" participant="153804">
+      <body> Did they pick up your trash?</body>
+    </message>
+    <message id="m0001" time="2014-12-10 21:21:35 UTC" participant="153815">
+      <body>No. Hopefully tomorrow. How were the roads?</body>
+    </message>
+    <message id="m0002" time="2014-12-10 21:22:06 UTC" participant="153804">
+      <body>They were great</body>
+    </message>
+    <message id="m0003" time="2014-12-10 21:22:36 UTC" participant="153804">
+      <body>luckily there was no traffic!!</body>
+    </message>
+    <message id="m0004" time="2014-12-10 21:23:33 UTC" participant="153815">
+      <body>That makes a difference. We got so much snow here.</body>
+    </message>
+    <message id="m0005" time="2014-12-10 21:23:36 UTC" participant="153804">
+      <body>Would you be interested in working with me doing cosmetic resets?</body>
+    </message>
+    <message id="m0006" time="2014-12-10 21:25:04 UTC" participant="153815">
+      <body>I would like to give it a try. Get me out of the house!</body>
+    </message>
+    <message id="m0007" time="2014-12-10 21:25:29 UTC" participant="153804">
+      <body>Why don't you give me a call</body>
+    </message>
+    <message id="m0008" time="2014-12-11 15:31:26 UTC" participant="153804">
+      <body>Should've got my garbage in last night because it was buried up to my hip in snow!</body>
+    </message>
+    <message id="m0009" time="2014-12-11 15:31:39 UTC" participant="153804">
+      <body>Have they picked it up yet?</body>
+    </message>
+    <message id="m0010" time="2014-12-11 15:32:25 UTC" participant="153815">
+      <body>No. Not yet. Alot of snow</body>
+    </message>
+    <message id="m0011" time="2014-12-11 15:36:58 UTC" participant="153804">
+      <body>I've got you scheduled to work Monday's,Tuesday's &amp; Thursday's
+Hope your ready!!</body>
+    </message>
+    <message id="m0012" time="2014-12-11 15:38:28 UTC" participant="153815">
+      <body>I am ready. It will be strange to be back to work!</body>
+    </message>
+    <message id="m0013" time="2014-12-11 16:06:46 UTC" participant="153804">
+      <body>Looking forward to working with you!!</body>
+    </message>
+  </messages>
+</conversation>
+

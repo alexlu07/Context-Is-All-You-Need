@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137413" time="2013-06-06 15:25:17 UTC">
+      <body>Hey hey what time are you coming over</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-06-06 15:49:22 UTC">
+      <body>When's good? 1:30-2?</body>
+    </message>
+    <message id="m0002" participant="137413" time="2013-06-06 16:16:23 UTC">
+      <body>1:30 she is chewing down now. hoping she'll be full/happy for you</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-06-06 16:20:56 UTC">
+      <body>Lol cool</body>
+    </message>
+    <message id="m0004" participant="131838" time="2013-06-06 17:07:08 UTC">
+      <body>Hungry? </body>
+    </message>
+    <message id="m0005" participant="137413" time="2013-06-06 17:12:44 UTC">
+      <body>Just ate thanks though</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-05-01 03:46:39 UTC">
+      <body>Can I get a ride? </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-01 10:32:34 UTC">
+      <body>Yes? No? </body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-05-01 10:33:51 UTC">
+      <body>I don't know what any of that said. I can't do texts really until tomorrow, I think</body>
+    </message>
+  </messages>
+</conversation>

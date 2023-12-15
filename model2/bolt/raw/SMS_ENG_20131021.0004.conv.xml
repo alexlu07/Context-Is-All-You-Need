@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131021.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-21 16:04:42 UTC" participant="153472">
+      <body>I'm gonna head to the gym around 12:15 and get changed there. Should we meet upstairs? Anything in particular u want to work on?</body>
+    </message>
+    <message id="m0001" time="2013-10-21 16:05:34 UTC" participant="152374">
+      <body>I'm just going basic strength stuff ######## showed us. Meet on second floor?</body>
+    </message>
+    <message id="m0002" time="2013-10-21 16:05:43 UTC" participant="152374">
+      <body>Doing, that is</body>
+    </message>
+    <message id="m0003" time="2013-10-21 16:08:26 UTC" participant="153472">
+      <body>Sounds good. See u in a bit.</body>
+    </message>
+  </messages>
+</conversation>
+

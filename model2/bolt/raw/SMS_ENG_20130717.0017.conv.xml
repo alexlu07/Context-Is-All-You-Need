@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130717.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134736" time="2013-07-17 18:44:07 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-07-17 19:23:04 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-07-17 19:23:04 UTC">
+      <body>Where are you from?</body>
+    </message>
+    <message id="m0003" participant="134736" time="2013-07-17 19:27:08 UTC">
+      <body>Ny! You?</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-07-17 19:28:06 UTC">
+      <body>Philly.</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-07-17 19:28:11 UTC">
+      <body>Where in ny?</body>
+    </message>
+    <message id="m0006" participant="134736" time="2013-07-17 19:29:26 UTC">
+      <body>Brooklyn</body>
+    </message>
+    <message id="m0007" participant="134736" time="2013-07-17 19:29:42 UTC">
+      <body>Have you been there</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-07-17 19:30:30 UTC">
+      <body>I have.</body>
+    </message>
+    <message id="m0009" participant="130979" time="2013-07-17 19:30:30 UTC">
+      <body>Very nice these days.</body>
+    </message>
+    <message id="m0010" participant="134736" time="2013-07-17 19:35:18 UTC">
+      <body>It's boiling outside but it should cool down by next week</body>
+    </message>
+    <message id="m0011" participant="130979" time="2013-07-17 19:37:19 UTC">
+      <body>Yeah. Way too hot.</body>
+    </message>
+    <message id="m0012" participant="130979" time="2013-07-17 19:45:57 UTC">
+      <body>Are you a student?</body>
+    </message>
+    <message id="m0013" participant="130979" time="2013-07-17 19:45:57 UTC">
+      <body>Do you work?</body>
+    </message>
+    <message id="m0014" participant="134736" time="2013-07-17 20:58:58 UTC">
+      <body>Nah no job yet but looking</body>
+    </message>
+    <message id="m0015" participant="134736" time="2013-07-17 20:59:18 UTC">
+      <body>What do you do</body>
+    </message>
+    <message id="m0016" participant="130979" time="2013-07-17 21:14:28 UTC">
+      <body>Run a small biz</body>
+    </message>
+    <message id="m0017" participant="130979" time="2013-07-17 21:14:28 UTC">
+      <body>You just graduate?</body>
+    </message>
+  </messages>
+</conversation>

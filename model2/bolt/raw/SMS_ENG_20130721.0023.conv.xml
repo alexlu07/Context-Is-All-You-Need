@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130721.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136724" time="2013-07-21 00:19:07 UTC">
+      <body>Want to do an in town job tomorrow morning?</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-07-21 00:20:24 UTC">
+      <body>Sorry, can't. Out of town. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141019.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-19 09:38:05 UTC" participant="153610">
+      <body>What gallery is your work in?  We'rte in asbury park.</body>
+    </message>
+    <message id="m0001" time="2014-10-19 09:47:58 UTC" participant="153547">
+      <body>Sorry I've been out in the country with no reception. Parlor Gallery</body>
+    </message>
+    <message id="m0002" time="2014-10-19 14:25:32 UTC" participant="153610">
+      <body>No problem.  I got the info from Lindsey and stopped by.  We really liked seeing your work.</body>
+    </message>
+  </messages>
+</conversation>
+

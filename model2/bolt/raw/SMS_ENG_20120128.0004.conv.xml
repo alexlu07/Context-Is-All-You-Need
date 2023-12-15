@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120128.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-01-28 12:53:28 UTC">
+      <body>Are you ok? I had i terrible dream</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-01-28 13:37:33 UTC">
+      <body>Are yet ok? Just a quick text</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-01-28 14:20:05 UTC">
+      <body>Yep just waking up I'll call later</body>
+    </message>
+  </messages>
+</conversation>

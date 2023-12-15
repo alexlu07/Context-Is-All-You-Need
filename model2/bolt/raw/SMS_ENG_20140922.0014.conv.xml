@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140922.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-22 14:34:12 UTC" participant="153458">
+      <body>Hurry in</body>
+    </message>
+    <message id="m0001" time="2014-09-22 17:37:04 UTC" participant="153458">
+      <body>So hungry you don't have to come in but can we go eat</body>
+    </message>
+    <message id="m0002" time="2014-09-22 17:37:48 UTC" participant="153418">
+      <body>I'll be in around 2:30. I had to go to the bank here.</body>
+    </message>
+    <message id="m0003" time="2014-09-22 17:52:56 UTC" participant="153458">
+      <body>Ooh I see</body>
+    </message>
+  </messages>
+</conversation>
+

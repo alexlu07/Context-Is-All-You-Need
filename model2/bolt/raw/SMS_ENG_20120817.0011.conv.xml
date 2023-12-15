@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120817.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-17 19:40:47 UTC">
+      <body>When do you leave for school</body>
+    </message>
+    <message id="m0001" participant="136236" time="2012-08-17 20:23:45 UTC">
+      <body>The 29th. you?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-17 21:04:03 UTC">
+      <body>Oh ok I leave on the 23rd</body>
+    </message>
+  </messages>
+</conversation>

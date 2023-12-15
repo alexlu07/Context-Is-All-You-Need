@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-03-29 11:58:01 UTC">
+      <body>This is Soraya's mom again. Forgot to mention that she hides her feelings in public and collapses when alone or with close friends...</body>
+    </message>
+    <message id="m0001" participant="137298" time="2013-03-29 12:04:01 UTC">
+      <body>We will keep a close eye on her,   I will try to find a quiet time to pull her aside</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-03-29 12:05:10 UTC">
+      <body>Many thanks again.</body>
+    </message>
+  </messages>
+</conversation>

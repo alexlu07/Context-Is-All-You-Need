@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-03-22 00:05:51 UTC">
+      <body>Happy Birthday!!! I hope 28 treats you well! (omg....)</body>
+    </message>
+    <message id="m0001" participant="131286" time="2013-03-22 00:09:05 UTC">
+      <body>We are sooo old</body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-03-22 00:11:50 UTC">
+      <body>Seriously. What happened?</body>
+    </message>
+    <message id="m0003" participant="131286" time="2013-03-22 00:26:20 UTC">
+      <body>I don't know. Riding now but we should talk this weekend</body>
+    </message>
+    <message id="m0004" participant="131281" time="2013-03-22 00:45:42 UTC">
+      <body>Ok, sounds good. Enjoy!</body>
+    </message>
+  </messages>
+</conversation>

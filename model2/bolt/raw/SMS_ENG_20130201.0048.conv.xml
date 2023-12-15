@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-01 15:07:31 UTC" participant="154391">
+      <body>The show is sold out! Let me know if you wanna hangout after the show</body>
+    </message>
+    <message id="m0001" time="2013-02-01 20:23:04 UTC" participant="154352">
+      <body>I guess it must be a popular show. There will likely be time between the end of the show and the last train. I will let you know when it ends.</body>
+    </message>
+    <message id="m0002" time="2013-02-01 22:04:17 UTC" participant="154391">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" time="2013-02-02 04:30:28 UTC" participant="154352">
+      <body>Just got to the train. The show was quite long.</body>
+    </message>
+    <message id="m0004" time="2013-02-02 05:54:30 UTC" participant="154391">
+      <body>Yeah...right. Did you get one of the girls to give you a happy ending? Lol, night</body>
+    </message>
+  </messages>
+</conversation>
+

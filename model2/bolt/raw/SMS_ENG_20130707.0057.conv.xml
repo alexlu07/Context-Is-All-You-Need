@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137315" time="2013-07-07 20:03:07 UTC">
+      <body>When does this shindig begin?</body>
+    </message>
+    <message id="m0001" participant="137315" time="2013-07-07 20:03:22 UTC">
+      <body>Shindig</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-07-07 20:03:39 UTC">
+      <body>Shindig </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-07-07 20:03:46 UTC">
+      <body>6. When does your shift end? </body>
+    </message>
+    <message id="m0004" participant="137315" time="2013-07-07 20:09:20 UTC">
+      <body>5:30</body>
+    </message>
+  </messages>
+</conversation>

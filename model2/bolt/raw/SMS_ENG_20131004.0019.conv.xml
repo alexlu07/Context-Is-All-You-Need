@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131004.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-04 00:59:47 UTC" participant="152120">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0001" time="2013-10-04 01:05:14 UTC" participant="153418">
+      <body>I'm at the Sugar Philly truck on race near 9th. </body>
+    </message>
+    <message id="m0002" time="2013-10-04 01:11:45 UTC" participant="152120">
+      <body>You still there?</body>
+    </message>
+    <message id="m0003" time="2013-10-04 01:12:05 UTC" participant="153418">
+      <body>Yeah. Where are you?</body>
+    </message>
+    <message id="m0004" time="2013-10-04 01:13:42 UTC" participant="152120">
+      <body>I'm in front of lucky fortune. Behind food trucks.</body>
+    </message>
+    <message id="m0005" time="2013-10-04 01:14:01 UTC" participant="153418">
+      <body>Where's lucky fortune?</body>
+    </message>
+  </messages>
+</conversation>
+

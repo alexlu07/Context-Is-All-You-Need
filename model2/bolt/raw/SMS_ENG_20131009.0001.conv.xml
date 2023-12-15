@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131009.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-09 20:13:28 UTC" participant="152417">
+      <body>Hey Natalia, are you going to be home before 6?  Jason took my key back with him</body>
+    </message>
+    <message id="m0001" time="2013-10-09 20:28:48 UTC" participant="152486">
+      <body>Nope. Ill be there at 6:15</body>
+    </message>
+    <message id="m0002" time="2013-10-09 20:33:37 UTC" participant="152417">
+      <body>Ok, that works ill see you then</body>
+    </message>
+    <message id="m0003" time="2013-10-09 22:18:12 UTC" participant="152486">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

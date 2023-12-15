@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-11-29 22:05:42 UTC" participant="153491">
+      <body>Hey Jen! I'm actually going to be tight on time because I still have to take a shower since I still smell like cigarettes. I'm sorry, maybe Sam could pick you up?</body>
+    </message>
+    <message id="m0002" time="2014-11-29 22:06:56 UTC" participant="152118">
+      <body>Jeff is picking her up an don't want to impose ourselves on them. It's okay! We'll take the train! Ain't no thing but a chicken wing. </body>
+    </message>
+    <message id="m0003" time="2014-11-29 22:08:33 UTC" participant="153491">
+      <body>Oh Okay, sorry again. I'll see you soon!</body>
+    </message>
+    <message id="m0004" time="2014-11-29 22:09:02 UTC" participant="152118">
+      <body>No worries. See you soon. </body>
+    </message>
+    <message id="m0005" time="2014-11-30 00:02:20 UTC" participant="153491">
+      <body>Hey Jen! I already texted Sam and told her I'm running behind so I'll be late for dinner. Sorry!!!</body>
+    </message>
+    <message id="m0006" time="2014-11-30 00:03:17 UTC" participant="152118">
+      <body>It's okay sammy. We're here so the reservation is safe. </body>
+    </message>
+    <message id="m0007" time="2014-11-30 00:03:57 UTC" participant="152118">
+      <body>No worries. We're here and Sam's running late too. </body>
+    </message>
+  </messages>
+</conversation>
+

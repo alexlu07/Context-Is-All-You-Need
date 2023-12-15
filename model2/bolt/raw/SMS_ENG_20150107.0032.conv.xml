@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 19:40:40 UTC" participant="153244">
+      <body>Hey gal, I have eye surgery scheduled for tomorrow so I won't be available next week. I just wanted to let you know. 
+~########</body>
+    </message>
+    <message id="m0001" time="2015-01-07 19:41:45 UTC" participant="153893">
+      <body>Ok no prob good luck keepe posted</body>
+    </message>
+    <message id="m0002" time="2015-01-07 19:43:04 UTC" participant="153244">
+      <body>I will, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

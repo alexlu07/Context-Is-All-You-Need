@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131486" time="2013-01-27 17:25:51 UTC">
+      <body>Hi bird, this is from my new CELLULAR telephone!!  That's all...</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-01-27 17:26:39 UTC">
+      <body>Congratulations!! This is a big day in Welts history...</body>
+    </message>
+    <message id="m0002" participant="131486" time="2013-01-27 17:27:13 UTC">
+      <body>Not really...</body>
+    </message>
+  </messages>
+</conversation>

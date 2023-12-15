@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150313.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-13 12:49:37 UTC" participant="153244">
+      <body>Hey so I still never heard anything from after the meeting with my background investigator to clarify things... I just called him, he said he didn't hear back yet regarding my statement but "they are focusing on the class starting this month, I won't hear anything until april"</body>
+    </message>
+    <message id="m0001" time="2015-03-13 12:52:55 UTC" participant="153260">
+      <body>Did you speak to missy?</body>
+    </message>
+    <message id="m0002" time="2015-03-13 12:54:11 UTC" participant="153244">
+      <body>Just last fri, not this week</body>
+    </message>
+    <message id="m0003" time="2015-03-13 12:54:49 UTC" participant="153260">
+      <body>I will call her in a little bit.</body>
+    </message>
+    <message id="m0004" time="2015-03-13 12:55:13 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

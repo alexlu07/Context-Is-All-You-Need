@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 00:06:24 UTC" participant="152417">
+      <body>Now you pedal is in</body>
+    </message>
+    <message id="m0001" time="2013-12-13 01:58:46 UTC" participant="152427">
+      <body>Nice, can I pick it up in your name? Or are you working tomorrow?</body>
+    </message>
+    <message id="m0002" time="2013-12-13 02:08:43 UTC" participant="152417">
+      <body>I have it, come stop by 117 n champlain</body>
+    </message>
+    <message id="m0003" time="2013-12-13 02:10:08 UTC" participant="152427">
+      <body>Great I'll be by tomorrow late morning if your free then</body>
+    </message>
+    <message id="m0004" time="2013-12-13 02:11:41 UTC" participant="152417">
+      <body>Ill be gone tomorow 9-1, im in for the night if you can stop by tonight</body>
+    </message>
+    <message id="m0005" time="2013-12-13 02:12:16 UTC" participant="152427">
+      <body>Cool I'll be in touch</body>
+    </message>
+  </messages>
+</conversation>
+

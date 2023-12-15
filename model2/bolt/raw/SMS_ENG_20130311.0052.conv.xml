@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130311.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-11 22:32:45 UTC" participant="152374">
+      <body>Hey #### -  sorry to bug you, but can I get the details on exactly where and when tomorrow's meeting is?</body>
+    </message>
+    <message id="m0001" time="2013-03-11 22:43:57 UTC" participant="152394">
+      <body>No worries! Its at 630 at########'s at #### and ######. I'll get the exact address for you.</body>
+    </message>
+    <message id="m0002" time="2013-03-11 22:44:27 UTC" participant="152374">
+      <body>Okay, great. I should be able to make that no problem. Thanks!</body>
+    </message>
+    <message id="m0003" time="2013-03-11 22:53:53 UTC" participant="152394">
+      <body>Sure! I'm glad you can make it!</body>
+    </message>
+    <message id="m0004" time="2013-03-12 01:27:59 UTC" participant="152374">
+      <body>Okay, thank you. See you tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

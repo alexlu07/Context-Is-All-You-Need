@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-03 21:14:39 UTC">
+      <body>hey. happy sunday!
+what's going on?</body>
+    </message>
+    <message id="m0001" participant="131359" time="2013-03-03 21:37:54 UTC">
+      <body>Not much, Pat got in last night. Going to a BBQ in a couple mins.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-03 23:57:41 UTC">
+      <body>tell pat i said hello.
+
+i </body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-03 23:58:00 UTC">
+      <body>i miss you, foxybaby.</body>
+    </message>
+  </messages>
+</conversation>

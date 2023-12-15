@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-11 18:07:40 UTC" participant="153418">
+      <body>Hey, are you free around 1:00 tomorrow?</body>
+    </message>
+    <message id="m0001" time="2012-06-11 22:36:11 UTC" participant="153439">
+      <body>I'm free until 2 o'clock.
+Is it okay??</body>
+    </message>
+    <message id="m0002" time="2012-06-12 00:42:23 UTC" participant="153439">
+      <body>I'm sorry, but i will be free from 1:30 to 2:30 tomorrow.</body>
+    </message>
+    <message id="m0003" time="2012-06-12 00:44:11 UTC" participant="153418">
+      <body>That sounds good. Do you want to meet at the I-house again at 1:30?</body>
+    </message>
+    <message id="m0004" time="2012-06-12 00:55:57 UTC" participant="153439">
+      <body>Yes, i do:)</body>
+    </message>
+    <message id="m0005" time="2012-06-12 00:56:51 UTC" participant="153418">
+      <body>Mmkay, I'll see you then.</body>
+    </message>
+  </messages>
+</conversation>
+

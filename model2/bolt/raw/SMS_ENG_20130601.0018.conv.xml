@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130601.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130870" time="2013-06-01 23:58:35 UTC">
+      <body>What time are we playing?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-01 23:59:28 UTC">
+      <body>10ish</body>
+    </message>
+  </messages>
+</conversation>

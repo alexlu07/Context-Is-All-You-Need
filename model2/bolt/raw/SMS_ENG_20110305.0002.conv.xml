@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110305.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130810" time="2011-03-05 18:45:55 UTC">
+      <body>Hi, this is dana. I'm going to pick you up to look at the tv</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-03-05 19:10:52 UTC">
+      <body>Oh awesome, just give me ring when yr outside front and girard ( I should be there at 3:30) I'm in the garage that says "transmissions".  Thanks!</body>
+    </message>
+    <message id="m0002" participant="130810" time="2011-03-05 19:11:22 UTC">
+      <body>Cool will do</body>
+    </message>
+    <message id="m0003" participant="130755" time="2011-03-05 20:20:57 UTC">
+      <body>Sorry, running late, will text when there</body>
+    </message>
+    <message id="m0004" participant="130810" time="2011-03-05 20:23:47 UTC">
+      <body>Ok i'm at wawa anyway :)</body>
+    </message>
+    <message id="m0005" participant="130810" time="2011-03-05 20:37:36 UTC">
+      <body>Is the garage on front or girard?</body>
+    </message>
+    <message id="m0006" participant="130755" time="2011-03-05 20:38:25 UTC">
+      <body>Yes.... I'm still at home, got out of work late and have to finish burning the DVD.... Sorry  :-(</body>
+    </message>
+    <message id="m0007" participant="130810" time="2011-03-05 20:41:12 UTC">
+      <body>Ok. How about i just bring the tv to the gallery? I can still pick you up at front and girard later if you still need a ride</body>
+    </message>
+    <message id="m0008" participant="130755" time="2011-03-05 20:51:26 UTC">
+      <body>Yes, thanks so much, having problems burning DVD ( supposed to be done by roommate earlier....grrr)</body>
+    </message>
+    <message id="m0009" participant="130810" time="2011-03-05 20:52:22 UTC">
+      <body>Ugh i understand. dvds and roommates suck sometimes </body>
+    </message>
+    <message id="m0010" participant="130755" time="2011-03-05 20:52:48 UTC">
+      <body>Bleh.  Thanks for understanding....</body>
+    </message>
+    <message id="m0011" participant="130810" time="2011-03-05 20:53:15 UTC">
+      <body>Np </body>
+    </message>
+    <message id="m0012" participant="130810" time="2011-03-05 20:56:19 UTC">
+      <body>Do you also need a dvd player?</body>
+    </message>
+    <message id="m0013" participant="130755" time="2011-03-05 20:56:55 UTC">
+      <body>Yes please...</body>
+    </message>
+  </messages>
+</conversation>

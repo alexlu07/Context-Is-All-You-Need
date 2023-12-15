@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-10 12:18:07 UTC">
+      <body>hi jason! is there any way you could give me a ride to church this morning? it was supposed to be me and meghan but she's not feel well so i've got to find a new ride. </body>
+    </message>
+    <message id="m0001" participant="136144" time="2013-02-10 13:31:13 UTC">
+      <body>Gotcha. 920 ok? </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-10 13:31:38 UTC">
+      <body>i think jennifer's actually gonna get me, but thanks! </body>
+    </message>
+    <message id="m0003" participant="136144" time="2013-02-10 13:32:05 UTC">
+      <body>Okk</body>
+    </message>
+  </messages>
+</conversation>

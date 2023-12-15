@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140503.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-03 21:49:52 UTC" participant="153305">
+      <body>Would you have any interest in going to HP tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-05-04 01:31:28 UTC" participant="152734">
+      <body>I'm going up to say hi to lucky! Next week maybe?</body>
+    </message>
+    <message id="m0002" time="2014-05-04 02:37:52 UTC" participant="153305">
+      <body>Okay! Give him a treat for me</body>
+    </message>
+  </messages>
+</conversation>
+

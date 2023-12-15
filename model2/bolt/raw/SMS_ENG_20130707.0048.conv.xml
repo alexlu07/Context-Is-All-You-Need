@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136643" time="2013-07-07 23:22:59 UTC">
+      <body>Come shake my hanf, won't you?</body>
+    </message>
+    <message id="m0001" participant="136643" time="2013-07-07 23:23:38 UTC">
+      <body>Hand</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-07 23:33:50 UTC">
+      <body>Sorry. Fell asleep. How king you there for</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-07 23:37:31 UTC">
+      <body>Long</body>
+    </message>
+    <message id="m0004" participant="136643" time="2013-07-07 23:48:27 UTC">
+      <body>Half hour maybe</body>
+    </message>
+  </messages>
+</conversation>

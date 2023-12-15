@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130503.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135269" time="2013-05-03 22:03:04 UTC">
+      <body>Txt when dinner?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-03 22:06:08 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-04 15:20:48 UTC">
+      <body>Hey! Do you know around what time you're getting back?</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-05-04 15:22:18 UTC">
+      <body>Also must shower</body>
+    </message>
+    <message id="m0004" participant="135269" time="2013-05-04 15:22:29 UTC">
+      <body>Hopefully by 12:30</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-05-04 15:22:44 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

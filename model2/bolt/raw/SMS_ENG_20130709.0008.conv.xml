@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-09 18:00:41 UTC">
+      <body>I sent an email. Lmk if you got it</body>
+    </message>
+    <message id="m0001" participant="132555" time="2013-07-09 18:07:41 UTC">
+      <body>I didn't get it, but I only have my phone right now. I might have to get to a proper computer to see it. </body>
+    </message>
+    <message id="m0004" participant="132555" time="2013-07-09 18:15:27 UTC">
+      <body>Wait, just got it. </body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-07-09 18:16:45 UTC">
+      <body>Haha we need to work on our email skills</body>
+    </message>
+    <message id="m0006" participant="132555" time="2013-07-09 18:29:44 UTC">
+      <body>Cool, I'll take a look at it more when I get out of the car.  I'm on my way to the airport.  Do you know if you're good for 8/31?</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-07-09 18:32:58 UTC">
+      <body>I haven't bought a ticket but I'm trying to save to go</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130227.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-02-27 14:58:00 UTC">
+      <body>What's your weekend like?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-02-28 13:43:53 UTC">
+      <body>Ella is having a sleep over, I will be doing homework. You?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-02-28 14:07:54 UTC">
+      <body>I don't have any plans.</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-02-28 14:08:44 UTC">
+      <body>You have yoga again don't u?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-02-28 14:09:13 UTC">
+      <body>No.</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-02-28 14:11:13 UTC">
+      <body>Oh I thought it was two weeks</body>
+    </message>
+    <message id="m0006" participant="131055" time="2013-02-28 14:11:56 UTC">
+      <body>Every other week.</body>
+    </message>
+    <message id="m0007" participant="130664" time="2013-02-28 14:12:24 UTC">
+      <body>Ah ok</body>
+    </message>
+    <message id="m0008" participant="131055" time="2013-02-28 14:16:11 UTC">
+      <body>How's school? </body>
+    </message>
+    <message id="m0009" participant="130664" time="2013-02-28 14:18:09 UTC">
+      <body>Good. I'm excited about research papers this semester. All interesting stuff. How's life?</body>
+    </message>
+    <message id="m0010" participant="131055" time="2013-02-28 14:19:04 UTC">
+      <body>Good. I'm looking forward to costa rica. Work is fine. Yoga is going well.</body>
+    </message>
+    <message id="m0011" participant="130664" time="2013-02-28 14:21:15 UTC">
+      <body>I'm envious of your break, it's going to be great! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-15 05:04:23 UTC">
+      <body>hey. when you wanna get together?</body>
+    </message>
+    <message id="m0001" participant="131353" time="2013-04-15 15:14:23 UTC">
+      <body>I thought we were getting together today. Does that still work for you? </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-15 15:27:53 UTC">
+      <body>yeah. i was planning on today - just confirming.
+
+what time?</body>
+    </message>
+    <message id="m0003" participant="131353" time="2013-04-15 15:55:43 UTC">
+      <body>10:30? </body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-15 16:03:46 UTC">
+      <body>great!  see you then!</body>
+    </message>
+    <message id="m0005" participant="131353" time="2013-04-15 17:08:12 UTC">
+      <body>I am of course running late. I was going to stop for coffee. Would you like coffee? </body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-04-15 17:10:56 UTC">
+      <body>do girls like unicorns? does richard simmons like sweating to the oldies? 
+YES!
+a hot vanilla soy latte would be GREAT!</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-15 17:11:17 UTC">
+      <body>yay!</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-04-15 17:43:33 UTC">
+      <body>just pulled up.</body>
+    </message>
+    <message id="m0009" participant="131353" time="2013-04-15 17:44:31 UTC">
+      <body>At Starbucks on burbank and van nuys. Would you like anything else? </body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-04-15 17:45:32 UTC">
+      <body>ummm...choc chip banana bread.</body>
+    </message>
+    <message id="m0011" participant="131350" time="2013-04-15 17:45:38 UTC">
+      <body>;-)</body>
+    </message>
+    <message id="m0012" participant="131353" time="2013-04-15 17:46:45 UTC">
+      <body>They don't have it. </body>
+    </message>
+  </messages>
+</conversation>

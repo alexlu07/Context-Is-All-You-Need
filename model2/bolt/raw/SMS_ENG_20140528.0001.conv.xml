@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140528.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-28 16:19:49 UTC" participant="152116">
+      <body>How was class? Do you have it again today?</body>
+    </message>
+    <message id="m0001" time="2014-05-28 16:58:21 UTC" participant="153491">
+      <body>Yup. Pretty much every day now.</body>
+    </message>
+    <message id="m0002" time="2014-05-28 17:19:55 UTC" participant="152116">
+      <body>Everyday 2:30 to when?</body>
+    </message>
+    <message id="m0003" time="2014-05-28 19:55:50 UTC" participant="153491">
+      <body>2:30?! I wish!  It's 9-4 pm!</body>
+    </message>
+    <message id="m0004" time="2014-05-28 20:25:41 UTC" participant="152116">
+      <body>Yesterday was 2:30 right?</body>
+    </message>
+    <message id="m0005" time="2014-05-28 21:36:50 UTC" participant="153491">
+      <body>Yup.</body>
+    </message>
+  </messages>
+</conversation>
+

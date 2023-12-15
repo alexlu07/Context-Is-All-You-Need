@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140106.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-06 21:47:44 UTC" participant="153305">
+      <body>Do you have MLK day off? Would you want to a Pierre lesson that day? </body>
+    </message>
+    <message id="m0001" time="2014-01-07 00:32:08 UTC" participant="152734">
+      <body>Yes! Not sure if I'm off but if it's a Monday I can work around it. </body>
+    </message>
+    <message id="m0002" time="2014-01-07 12:30:56 UTC" participant="153305">
+      <body>Okay!</body>
+    </message>
+  </messages>
+</conversation>
+

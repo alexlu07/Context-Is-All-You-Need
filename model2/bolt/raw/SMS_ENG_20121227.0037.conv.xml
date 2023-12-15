@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-27 01:06:18 UTC" participant="152417">
+      <body>Hey, im headed bowling w my brother n his friend in N lib. If youd care to join</body>
+    </message>
+    <message id="m0001" time="2012-12-27 01:07:47 UTC" participant="152547">
+      <body>No way I'm leaving the house, dude. But if you wanna come over later for hot cocoa, I'll be here</body>
+    </message>
+    <message id="m0002" time="2012-12-27 04:31:54 UTC" participant="152417">
+      <body>Sorry, still bowlin.  Thanks for the offer though!</body>
+    </message>
+    <message id="m0003" time="2012-12-27 05:34:56 UTC" participant="152547">
+      <body>Well maybe we can hang out tomorrow. Let me know what you're up to</body>
+    </message>
+    <message id="m0004" time="2012-12-27 06:15:28 UTC" participant="152547">
+      <body>Sounds good. Around 10:30 sound right?</body>
+    </message>
+    <message id="m0005" time="2012-12-27 06:15:50 UTC" participant="152417">
+      <body>Cool, coffee in the am at satelite? </body>
+    </message>
+    <message id="m0006" time="2012-12-27 06:17:46 UTC" participant="152417">
+      <body>Mayhaps, may need to be earlier cuz im also brunching with my grandpa</body>
+    </message>
+    <message id="m0007" time="2012-12-27 06:18:37 UTC" participant="152547">
+      <body>When is good?</body>
+    </message>
+    <message id="m0008" time="2012-12-27 06:19:09 UTC" participant="152417">
+      <body>930?</body>
+    </message>
+    <message id="m0009" time="2012-12-27 06:19:31 UTC" participant="152547">
+      <body>I can do that. See you there!</body>
+    </message>
+  </messages>
+</conversation>
+

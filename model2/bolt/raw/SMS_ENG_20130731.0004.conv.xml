@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="133076" time="2013-07-31 09:13:02 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" participant="133076" time="2013-07-31 09:16:33 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0002" participant="130756" time="2013-07-31 12:28:10 UTC">
+      <body>Hey what's up?</body>
+    </message>
+    <message id="m0003" participant="133076" time="2013-07-31 12:29:06 UTC">
+      <body>Nothing much u?</body>
+    </message>
+    <message id="m0004" participant="130756" time="2013-07-31 12:45:30 UTC">
+      <body>Just at work...busy day</body>
+    </message>
+    <message id="m0005" participant="133076" time="2013-07-31 13:20:57 UTC">
+      <body>Same!!! What do you do?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-06 16:48:12 UTC">
+      <body>Wassup Zane</body>
+    </message>
+    <message id="m0001" participant="136290" time="2012-10-06 17:14:40 UTC">
+      <body>Hi! I'm good! It was nice seeing you last night!!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-06 17:18:12 UTC">
+      <body>Yeah it was! What are you and Megan doing today and tomorrow?</body>
+    </message>
+    <message id="m0003" participant="136290" time="2012-10-06 17:22:40 UTC">
+      <body>Not sure! I think we are going to the frat party tonight...I'll let you know!</body>
+    </message>
+  </messages>
+</conversation>

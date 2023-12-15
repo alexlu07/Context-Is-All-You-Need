@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-18 20:08:58 UTC">
+      <body>Hit me up after work and we can fit figure out the amp sitch</body>
+    </message>
+    <message id="m0001" participant="130821" time="2013-05-18 20:25:28 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-18 20:59:19 UTC">
+      <body>Nm! Got it on lock. Need anything else from tranny?</body>
+    </message>
+    <message id="m0003" participant="130821" time="2013-05-18 21:05:24 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-05-18 21:49:21 UTC">
+      <body>Ok it's on Frankford. Just a bit south of Huntington </body>
+    </message>
+  </messages>
+</conversation>

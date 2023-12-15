@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150314.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-14 14:20:12 UTC" participant="153804">
+      <body>What are you up to today?</body>
+    </message>
+    <message id="m0001" time="2015-03-14 14:21:02 UTC" participant="153809">
+      <body>In the hospital at the moment. Labor induction. WhT are you doing?</body>
+    </message>
+    <message id="m0002" time="2015-03-14 14:22:28 UTC" participant="153804">
+      <body>Thinking of going to Ulta@FF for a philosophy makeover!
+</body>
+    </message>
+    <message id="m0003" time="2015-03-14 14:24:20 UTC" participant="153809">
+      <body>I'll keep ya posted. Hoping she will deliver </body>
+    </message>
+  </messages>
+</conversation>
+

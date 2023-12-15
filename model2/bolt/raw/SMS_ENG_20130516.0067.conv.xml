@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130516.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135480" time="2013-05-16 22:01:44 UTC">
+      <body>I'm outside!</body>
+    </message>
+    <message id="m0001" participant="135480" time="2013-05-16 22:09:04 UTC">
+      <body>I got in a cab. :) ill see you soon!</body>
+    </message>
+    <message id="m0002" participant="135480" time="2013-05-16 22:09:04 UTC">
+      <body>Sad face </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-16 22:10:04 UTC">
+      <body>U still there</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-16 22:10:13 UTC">
+      <body>Later ;(</body>
+    </message>
+    <message id="m0005" participant="135480" time="2013-05-16 22:11:00 UTC">
+      <body>I might go to bed when I get home. </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-16 22:11:26 UTC">
+      <body>That sounds like a good idea.  </body>
+    </message>
+  </messages>
+</conversation>

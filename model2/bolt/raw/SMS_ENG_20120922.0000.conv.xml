@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120922.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2012-09-22 14:10:17 UTC">
+      <body>Hey going to the farmers market!</body>
+    </message>
+    <message id="m0001" participant="131032" time="2012-09-22 14:11:52 UTC">
+      <body>I meant to ask u if I wanted to come along!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-22 14:18:59 UTC">
+      <body>Haha thanks! We're in the mtns this weekend, but we need to hang soon!!!</body>
+    </message>
+    <message id="m0003" participant="131032" time="2012-09-22 14:45:58 UTC">
+      <body>Yeah definitely! Have fun!</body>
+    </message>
+  </messages>
+</conversation>

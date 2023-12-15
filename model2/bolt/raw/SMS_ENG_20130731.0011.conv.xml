@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135091" time="2013-07-31 15:05:26 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" participant="131016" time="2013-07-31 15:06:03 UTC">
+      <body>Hey, whats going on?</body>
+    </message>
+    <message id="m0002" participant="135091" time="2013-07-31 15:09:41 UTC">
+      <body>Just making lunch. How about u?</body>
+    </message>
+    <message id="m0003" participant="131016" time="2013-07-31 15:12:05 UTC">
+      <body>Just hanging out, its my day off from work so im just relaxing n stuff</body>
+    </message>
+    <message id="m0004" participant="135091" time="2013-07-31 15:17:21 UTC">
+      <body>Cool. Where do u work?</body>
+    </message>
+    <message id="m0005" participant="131016" time="2013-07-31 15:52:24 UTC">
+      <body>Im a sales asssociate at walmart, its just a summer job though</body>
+    </message>
+    <message id="m0006" participant="135091" time="2013-07-31 16:49:58 UTC">
+      <body>I see. What do u do otherwise?</body>
+    </message>
+    <message id="m0007" participant="131016" time="2013-07-31 16:51:31 UTC">
+      <body>Well im a student. What do you do?</body>
+    </message>
+    <message id="m0008" participant="135091" time="2013-07-31 16:53:09 UTC">
+      <body>The same. Whats your field of research?</body>
+    </message>
+    <message id="m0009" participant="131016" time="2013-07-31 16:54:42 UTC">
+      <body>Information technology, hbu?</body>
+    </message>
+    <message id="m0010" participant="135091" time="2013-07-31 16:55:52 UTC">
+      <body>Iinguistics. R u a grad or undergrad?</body>
+    </message>
+    <message id="m0011" participant="131016" time="2013-07-31 16:56:48 UTC">
+      <body>Undergrad. Hbu?</body>
+    </message>
+    <message id="m0012" participant="135091" time="2013-07-31 16:58:59 UTC">
+      <body>Grad. What year r u?</body>
+    </message>
+    <message id="m0013" participant="131016" time="2013-07-31 17:00:08 UTC">
+      <body>Second of five. Where do you go to school if you dont mind my asking?</body>
+    </message>
+    <message id="m0014" participant="135091" time="2013-07-31 17:00:58 UTC">
+      <body>NY. U?</body>
+    </message>
+    <message id="m0015" participant="131016" time="2013-07-31 17:01:52 UTC">
+      <body>Drexel. Howd you hear about the study in ny?</body>
+    </message>
+    <message id="m0016" participant="135091" time="2013-07-31 17:03:41 UTC">
+      <body>Through linguistic 'connections'. Any plans for traveling this summer or just working?</body>
+    </message>
+    <message id="m0017" participant="131016" time="2013-07-31 17:05:12 UTC">
+      <body>Ohh, thats cool. I dont have time to travel unfortunately, im working 40 hours and my days off are staggered :/ what about you?</body>
+    </message>
+    <message id="m0018" participant="135091" time="2013-07-31 17:07:52 UTC">
+      <body>I am traveling in a few days. Pretty excited. Going to hawaii. Have u ever been?</body>
+    </message>
+  </messages>
+</conversation>

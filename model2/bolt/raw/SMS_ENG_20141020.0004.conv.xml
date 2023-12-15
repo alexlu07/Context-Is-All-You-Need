@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 20:50:19 UTC" participant="152735">
+      <body>Did you get in to philadelphia?</body>
+    </message>
+    <message id="m0002" time="2014-10-20 21:02:20 UTC" participant="152743">
+      <body>I cancelled my trip, not feeling that great the last few days. Will drop in the mail and send priority mail. What's the zip code. Sorry I owe you a lobster roll lunch for your patience!</body>
+    </message>
+    <message id="m0004" time="2014-10-20 21:15:22 UTC" participant="152743">
+      <body>Sounds great:)</body>
+    </message>
+  </messages>
+</conversation>
+

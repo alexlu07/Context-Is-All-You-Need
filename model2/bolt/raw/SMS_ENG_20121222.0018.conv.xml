@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121222.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2012-12-22 15:08:24 UTC">
+      <body>Soooo we totally overslept.
+We'll probably be ready by 11. Ugh, fuck.</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-12-22 15:09:28 UTC">
+      <body>Text me when you want me to come over</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-22 15:41:47 UTC">
+      <body>Hey! Is 11 still when you think you'll be ready?</body>
+    </message>
+    <message id="m0003" participant="135267" time="2012-12-22 15:42:56 UTC">
+      <body>Um... Maybe 11:15</body>
+    </message>
+    <message id="m0004" participant="135267" time="2012-12-22 15:48:32 UTC">
+      <body>Actually, might be sooner.</body>
+    </message>
+    <message id="m0005" participant="135267" time="2012-12-22 15:53:36 UTC">
+      <body>Hey okay you can come over.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-12-22 15:55:26 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0007" participant="135080" time="2012-12-22 19:27:24 UTC">
+      <body>Didn't see you guys inside...I'm @ the car</body>
+    </message>
+    <message id="m0008" participant="135267" time="2012-12-22 19:29:04 UTC">
+      <body>Just got a drink, on our way now!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130583" time="2013-05-15 12:36:52 UTC">
+      <body>How's it going? Have a good wkend?</body>
+    </message>
+    <message id="m0001" participant="130529" time="2013-05-15 12:44:18 UTC">
+      <body>Hi Jurgen. I did. Not very eventful, but pleasant. How bout you?</body>
+    </message>
+    <message id="m0002" participant="130583" time="2013-05-15 12:48:01 UTC">
+      <body>unwind, it was wonderful.</body>
+    </message>
+    <message id="m0003" participant="130583" time="2013-05-15 12:48:01 UTC">
+      <body>Sunday I went to! A concert. I got there late &amp; had to wait in the lobby till the 1st piece was done, but I could hear ok. And once i was seated &amp; could</body>
+    </message>
+    <message id="m0004" participant="130529" time="2013-05-15 12:58:06 UTC">
+      <body>Excellent. What were the pieces they were performing?</body>
+    </message>
+  </messages>
+</conversation>

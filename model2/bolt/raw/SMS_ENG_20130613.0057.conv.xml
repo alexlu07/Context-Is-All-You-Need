@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-06-13 17:15:37 UTC">
+      <body>I didnt get the message; sometimes mass texts don't come through...</body>
+    </message>
+    <message id="m0001" participant="137408" time="2013-06-13 17:16:15 UTC">
+      <body>All good. It's covered. Thanks. </body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-06-13 17:17:49 UTC">
+      <body>Ok thanks </body>
+    </message>
+  </messages>
+</conversation>

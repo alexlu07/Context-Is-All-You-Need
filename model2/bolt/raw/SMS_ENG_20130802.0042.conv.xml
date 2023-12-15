@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130802.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-02 19:45:23 UTC" participant="154393">
+      <body>Do you want to go to the soccer game tomorrow? I need to know now.</body>
+    </message>
+    <message id="m0001" time="2013-08-02 19:48:13 UTC" participant="154352">
+      <body>Out of town town the weekend</body>
+    </message>
+    <message id="m0002" time="2013-08-02 20:05:24 UTC" participant="154393">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

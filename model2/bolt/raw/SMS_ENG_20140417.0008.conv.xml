@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140417.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-17 14:03:18 UTC" participant="153557">
+      <body>http://m.huffpost.com/us/entry/5162720</body>
+    </message>
+    <message id="m0001" time="2014-04-18 02:12:36 UTC" participant="153547">
+      <body>When are u coming home?</body>
+    </message>
+    <message id="m0002" time="2014-04-18 02:16:32 UTC" participant="153557">
+      <body>I'm home! Where you at</body>
+    </message>
+  </messages>
+</conversation>
+

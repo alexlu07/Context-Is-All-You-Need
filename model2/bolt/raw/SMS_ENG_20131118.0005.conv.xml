@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131118.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-18 14:45:20 UTC" participant="153559">
+      <body>I'm at PENN till 6 tonite is that an option for you to drop off the paper? </body>
+    </message>
+    <message id="m0001" time="2013-11-18 15:09:51 UTC" participant="153547">
+      <body>Ok I'm working in Germantown today but ill see if I can get back in time</body>
+    </message>
+    <message id="m0002" time="2013-11-18 15:10:56 UTC" participant="153559">
+      <body>Cool lets keep in touch </body>
+    </message>
+    <message id="m0003" time="2013-11-19 12:46:46 UTC" participant="153547">
+      <body>Hey Steve, I was working til 630 last night and didn't get home til after 7. I'm working in fish town today but I won't be there until 9 or 930. I may be working late though so I could stop by after work or I could drop off the paper at Matt's if he is around</body>
+    </message>
+    <message id="m0004" time="2013-11-19 14:17:22 UTC" participant="153547">
+      <body>I'm in fish town now if you're around</body>
+    </message>
+    <message id="m0005" time="2013-11-19 14:44:31 UTC" participant="153559">
+      <body>I'm in east falls working at PhilaU </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131003.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-03 21:03:04 UTC" participant="152417">
+      <body>Got yer pedal! It was actually $370</body>
+    </message>
+    <message id="m0001" time="2013-10-03 21:28:32 UTC" participant="152535">
+      <body>Is that what I owe you or is there tax as well?</body>
+    </message>
+    <message id="m0002" time="2013-10-03 21:29:36 UTC" participant="152417">
+      <body>Thats with tax</body>
+    </message>
+    <message id="m0003" time="2013-10-03 22:03:57 UTC" participant="152535">
+      <body>Awesome. :)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-19 00:41:31 UTC">
+      <body>KFC</body>
+    </message>
+    <message id="m0001" participant="137389" time="2013-06-19 00:41:53 UTC">
+      <body>Click on this link to start your KFC survey http://1pt.mobi/3thc27</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-19 01:05:50 UTC">
+      <body>Hey, is chase freedom rewards currently for restaurants?</body>
+    </message>
+  </messages>
+</conversation>

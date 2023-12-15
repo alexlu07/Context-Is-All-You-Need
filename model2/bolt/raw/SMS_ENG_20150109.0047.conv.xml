@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 13:53:03 UTC" participant="153244">
+      <body>Hey aunt Joanne are you up?</body>
+    </message>
+    <message id="m0001" time="2015-01-09 13:57:14 UTC" participant="153899">
+      <body>Yea y whts up</body>
+    </message>
+    <message id="m0002" time="2015-01-09 13:58:16 UTC" participant="153244">
+      <body>I had lasik surgery yesterday and have a follow up appt today at 10:30. Seeing if you were available to either take the ride with me or drive</body>
+    </message>
+    <message id="m0003" time="2015-01-09 13:59:19 UTC" participant="153899">
+      <body>Where is it</body>
+    </message>
+    <message id="m0004" time="2015-01-09 14:00:04 UTC" participant="153244">
+      <body>Mt laurel nj</body>
+    </message>
+    <message id="m0005" time="2015-01-09 14:03:33 UTC" participant="153899">
+      <body>Oh wow.... I guess I can take u.... Wht time u wanna leave??  I gotta gr in the shower</body>
+    </message>
+    <message id="m0006" time="2015-01-09 14:04:08 UTC" participant="153244">
+      <body>About 945</body>
+    </message>
+    <message id="m0007" time="2015-01-09 14:06:06 UTC" participant="153899">
+      <body>Oh ok....
+Lemme shower... I'll holler back at u</body>
+    </message>
+    <message id="m0008" time="2015-01-09 14:06:29 UTC" participant="153244">
+      <body>Ok cool, thanks</body>
+    </message>
+    <message id="m0009" time="2015-01-09 14:39:26 UTC" participant="153899">
+      <body>Getting ready to walk out my door... Where do u live again</body>
+    </message>
+    <message id="m0010" time="2015-01-09 14:43:11 UTC" participant="153244">
+      <body>11th and shunk</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120922.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-22 13:52:09 UTC" participant="152417">
+      <body>Wanna bottle today?</body>
+    </message>
+    <message id="m0001" time="2012-09-22 14:26:08 UTC" participant="152419">
+      <body>Yes, but I have to be somewhere from 3-8!</body>
+    </message>
+    <message id="m0002" time="2012-09-22 14:27:31 UTC" participant="152417">
+      <body>K, should be relatively quik w 3 peeps, shall head up in 30ish?</body>
+    </message>
+    <message id="m0003" time="2012-09-22 14:28:16 UTC" participant="152419">
+      <body>Well idk where dev is, I'll go so if he is around first</body>
+    </message>
+    <message id="m0004" time="2012-09-22 14:38:56 UTC" participant="152419">
+      <body>Devin is Mia and it is so weird and quiet here</body>
+    </message>
+    <message id="m0005" time="2012-09-22 14:51:44 UTC" participant="152419">
+      <body>But I would bottle!</body>
+    </message>
+    <message id="m0006" time="2012-09-22 14:51:59 UTC" participant="152417">
+      <body>K, ill head up in a bit, yal have two cases worth of bottles?</body>
+    </message>
+    <message id="m0007" time="2012-09-22 15:06:19 UTC" participant="152419">
+      <body>Probably!</body>
+    </message>
+    <message id="m0008" time="2012-09-23 00:47:42 UTC" participant="152417">
+      <body>Good music at bean at 930</body>
+    </message>
+  </messages>
+</conversation>
+

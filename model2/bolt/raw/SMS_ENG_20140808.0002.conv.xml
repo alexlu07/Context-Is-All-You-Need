@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 15:28:00 UTC" participant="152560">
+      <body>Would you mind bringing down the bike rack? I forgot to grab it from you last time. </body>
+    </message>
+    <message id="m0001" time="2014-08-08 15:29:05 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2014-08-09 02:15:18 UTC" participant="152417">
+      <body>We're playing til 1, i hope you can catch some pf it</body>
+    </message>
+    <message id="m0003" time="2014-08-09 06:03:15 UTC" participant="152417">
+      <body>Whered you go?</body>
+    </message>
+    <message id="m0004" time="2014-08-09 06:10:21 UTC" participant="152560">
+      <body>Finnigans. Be home soon. </body>
+    </message>
+  </messages>
+</conversation>
+

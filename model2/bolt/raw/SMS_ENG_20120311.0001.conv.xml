@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120311.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131833" time="2012-03-11 23:40:48 UTC">
+      <body>You're doing the low hodja tag now! Yay!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-03-12 00:03:44 UTC">
+      <body>Cool! Are you coming to part prac at nine?</body>
+    </message>
+    <message id="m0002" participant="131833" time="2012-03-12 00:06:24 UTC">
+      <body>Im on the train now, probably won't be back in time--Ricky will be there right?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-03-12 00:07:20 UTC">
+      <body>Yep, don't worry, it's also just Old Nassau xD</body>
+    </message>
+    <message id="m0004" participant="131833" time="2012-03-12 00:08:32 UTC">
+      <body>Yup juniors and seniors already know it too</body>
+    </message>
+  </messages>
+</conversation>

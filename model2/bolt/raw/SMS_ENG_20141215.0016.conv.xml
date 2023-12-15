@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141215.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-15 17:44:43 UTC" participant="153804">
+      <body> Will you be able to send dusters and box cutters for my surges</body>
+    </message>
+    <message id="m0001" time="2014-12-15 18:32:26 UTC" participant="153822">
+      <body>Yes. </body>
+    </message>
+    <message id="m0002" time="2014-12-15 19:39:16 UTC" participant="153804">
+      <body>Will do surges be able to put their time in only in PC?</body>
+    </message>
+    <message id="m0003" time="2014-12-15 20:39:24 UTC" participant="153822">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

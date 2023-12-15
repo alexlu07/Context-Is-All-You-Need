@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 14:28:33 UTC" participant="152417">
+      <body>Che! What movie are we watchin tonight?</body>
+    </message>
+    <message id="m0001" time="2014-02-07 14:29:56 UTC" participant="152419">
+      <body>Still deciding! Wanted to start with a twilight zone and then have another film. I was thinking journey to the center of the earth, but I was also thinking more spacey than that. Ideas??</body>
+    </message>
+    <message id="m0002" time="2014-02-07 14:30:55 UTC" participant="152417">
+      <body>Thatd be a good one, i havent seen it yet</body>
+    </message>
+    <message id="m0003" time="2014-02-07 14:34:40 UTC" participant="152419">
+      <body>Also I've never seen the classic planet of the apes! </body>
+    </message>
+  </messages>
+</conversation>
+

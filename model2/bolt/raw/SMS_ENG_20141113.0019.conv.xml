@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 00:19:12 UTC" participant="153544">
+      <body>Come to International House theater for an Asian indie film</body>
+    </message>
+    <message id="m0001" time="2014-11-13 00:19:12 UTC" participant="153544">
+      <body>Now</body>
+    </message>
+    <message id="m0002" time="2014-11-13 00:19:12 UTC" participant="153544">
+      <body>I'm here with some friends</body>
+    </message>
+    <message id="m0003" time="2014-11-13 01:17:35 UTC" participant="153491">
+      <body>Now?! I don't know if i can get there that quick hahah. What's the movie? When does it start?</body>
+    </message>
+    <message id="m0004" time="2014-11-13 03:10:06 UTC" participant="153544">
+      <body>It's over now wanna meet us at yakitori?</body>
+    </message>
+    <message id="m0005" time="2014-11-13 03:57:22 UTC" participant="153491">
+      <body>Oh that place is awesome! But I'm probably going to stay put, thanks for the invite! How was the movie?</body>
+    </message>
+  </messages>
+</conversation>
+

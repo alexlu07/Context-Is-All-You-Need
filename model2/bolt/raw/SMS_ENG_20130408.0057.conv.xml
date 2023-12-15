@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-08 20:03:49 UTC" participant="152374">
+      <body>Sorry, connection dropped but it's time to go anyway. BASEBALL, YAY!!</body>
+    </message>
+    <message id="m0001" time="2013-04-08 20:04:56 UTC" participant="153466">
+      <body>Have a good evening. Maybe we can ride one day after work, or at lunch.</body>
+    </message>
+    <message id="m0002" time="2013-04-08 20:07:06 UTC" participant="152374">
+      <body>Definitely!</body>
+    </message>
+    <message id="m0003" time="2013-04-08 20:26:52 UTC" participant="152374">
+      <body>Apparently all I need to make it home in less than 11 minutes is a phillies game as an incentive</body>
+    </message>
+  </messages>
+</conversation>
+

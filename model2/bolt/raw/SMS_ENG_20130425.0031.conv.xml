@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134319" time="2013-04-25 15:26:57 UTC">
+      <body>Can u bring home butter &amp; celery from aldi please?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-04-25 15:50:05 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="134319" time="2013-04-25 16:29:27 UTC">
+      <body>I thought u is coming?</body>
+    </message>
+  </messages>
+</conversation>

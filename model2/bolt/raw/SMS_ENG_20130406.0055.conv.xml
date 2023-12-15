@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135293" time="2013-04-06 17:37:29 UTC">
+      <body>When would you wanna move in this summer? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-06 17:47:52 UTC">
+      <body>My job starts mid-June...I don't know what day I would want to move but I would want to start leasing for June</body>
+    </message>
+    <message id="m0002" participant="135293" time="2013-04-06 17:57:12 UTC">
+      <body>Great just checking </body>
+    </message>
+  </messages>
+</conversation>

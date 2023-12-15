@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140906.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-06 14:35:52 UTC" participant="153562">
+      <body>When were you thinking of coming by the basement today?</body>
+    </message>
+    <message id="m0001" time="2014-09-06 14:42:17 UTC" participant="153547">
+      <body>I'll have to come after my open house. So around 4pm. What is the address?</body>
+    </message>
+    <message id="m0003" time="2014-09-06 19:51:52 UTC" participant="153562">
+      <body>You can drive into the gated lot and park next to me.</body>
+    </message>
+  </messages>
+</conversation>
+

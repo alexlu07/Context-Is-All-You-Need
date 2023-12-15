@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130223.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-23 23:40:51 UTC" participant="152540">
+      <body>hey Gabi. You home? </body>
+    </message>
+    <message id="m0001" time="2013-02-23 23:41:24 UTC" participant="152417">
+      <body>Nope, im in east montp</body>
+    </message>
+    <message id="m0002" time="2013-02-24 00:14:42 UTC" participant="152540">
+      <body>rats. i wanna drop off that rik. Yo gonna be home later on?</body>
+    </message>
+    <message id="m0003" time="2013-02-24 01:01:18 UTC" participant="152417">
+      <body>Not for a while, someone is probly home, if not our back door is usually open </body>
+    </message>
+    <message id="m0004" time="2013-02-24 01:43:12 UTC" participant="152540">
+      <body>dropped it off. Thanks man</body>
+    </message>
+  </messages>
+</conversation>
+

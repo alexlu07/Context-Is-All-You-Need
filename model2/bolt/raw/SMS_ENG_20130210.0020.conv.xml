@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-02-10 05:48:03 UTC">
+      <body>Just ran into bill at the bar again...</body>
+    </message>
+    <message id="m0001" participant="132533" time="2013-02-10 05:54:04 UTC">
+      <body>Haha nice is he wasted? </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-02-10 05:56:30 UTC">
+      <body>Lol yea thank god im not yet</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-02-10 06:48:14 UTC">
+      <body>Now at Delilahs</body>
+    </message>
+  </messages>
+</conversation>

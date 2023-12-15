@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140803.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-03 15:02:24 UTC" participant="152648">
+      <body>Hey It's brendan:  any chance you going to burlington today?</body>
+    </message>
+    <message id="m0001" time="2014-08-03 16:04:37 UTC" participant="152417">
+      <body>Nope, sorry, i just came back to midd</body>
+    </message>
+    <message id="m0002" time="2014-08-03 16:05:26 UTC" participant="152648">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

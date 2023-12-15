@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140424.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-24 21:37:04 UTC" participant="152560">
+      <body>Want to grab a drink with me after work? </body>
+    </message>
+    <message id="m0001" time="2014-04-24 22:12:30 UTC" participant="152417">
+      <body>Ya!</body>
+    </message>
+    <message id="m0002" time="2014-04-25 01:06:08 UTC" participant="152560">
+      <body>Cool. Where should we go?....</body>
+    </message>
+    <message id="m0003" time="2014-04-25 01:23:25 UTC" participant="152417">
+      <body>Duende n jazz?</body>
+    </message>
+    <message id="m0004" time="2014-04-25 01:25:20 UTC" participant="152560">
+      <body>Sure thing! Finishing up here...</body>
+    </message>
+    <message id="m0005" time="2014-04-25 01:27:05 UTC" participant="152417">
+      <body>Ok, ill head down on my bicycle!</body>
+    </message>
+  </messages>
+</conversation>
+

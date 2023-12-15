@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-03-29 19:57:34 UTC">
+      <body>Hey, we (Jack, Craig and I) are going to the playground. Do you and/or  Irma want to come with Adam and Alden.</body>
+    </message>
+    <message id="m0001" participant="131515" time="2013-03-29 20:07:28 UTC">
+      <body>Irma and boys are on the way to the park right now. She promised she would take them to the park by the train station, did you want to go there with them? </body>
+    </message>
+    <message id="m0002" participant="131515" time="2013-03-29 20:09:13 UTC">
+      <body>I have to run out to do some work</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-03-29 20:09:22 UTC">
+      <body>Which one is by the train station?</body>
+    </message>
+    <message id="m0004" participant="131515" time="2013-03-29 20:09:27 UTC">
+      <body>They are about to Lear the house now</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-03-29 20:09:29 UTC">
+      <body>What's her number?</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-03-29 20:09:40 UTC">
+      <body>Oh I'll see her outside!9</body>
+    </message>
+  </messages>
+</conversation>

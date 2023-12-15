@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120801.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136213" time="2012-08-01 03:46:08 UTC">
+      <body>What are you doing tonight? How was the show?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-01 04:01:58 UTC">
+      <body>I'm heading home. It was really good</body>
+    </message>
+    <message id="m0002" participant="136213" time="2012-08-01 06:15:28 UTC">
+      <body>I'll probably be in Bushwick at Jos's house tonight</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-08-01 06:15:54 UTC">
+      <body>Kk watchin olympix</body>
+    </message>
+    <message id="m0004" participant="136213" time="2012-08-01 16:53:20 UTC">
+      <body>Ding dong</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-08-02 01:00:43 UTC">
+      <body>When will you be home</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-08-02 01:28:29 UTC">
+      <body>I made a little too much pasta</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-08-02 01:58:31 UTC">
+      <body>Kkkkk</body>
+    </message>
+    <message id="m0008" participant="136213" time="2012-08-02 01:59:28 UTC">
+      <body>Not suuuure! Fridge it?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140902.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-02 17:48:48 UTC" participant="152560">
+      <body>Am I meeting you at your apartment? I'm trying to decide the best way to get down there, and whether I should bring the printer along. </body>
+    </message>
+    <message id="m0001" time="2014-09-02 17:53:28 UTC" participant="152417">
+      <body>The printer would be good, if you want to drive down theres an exit off 76 pretty close to my house and parking isnt that bad. Or if you take the train in we can meet in center city, ill be at school in the merriam thatre until 6</body>
+    </message>
+    <message id="m0002" time="2014-09-02 21:32:48 UTC" participant="152560">
+      <body>I missed my train! I will have to catch a later one. </body>
+    </message>
+    <message id="m0003" time="2014-09-02 21:42:09 UTC" participant="152560">
+      <body>I'm on the 5:48; I will arrive at Suburban at 6:45. </body>
+    </message>
+    <message id="m0004" time="2014-09-02 22:07:44 UTC" participant="152417">
+      <body>Ok, ill meet you at suburban then</body>
+    </message>
+    <message id="m0005" time="2014-09-02 22:09:38 UTC" participant="152560">
+      <body>Cool, see you soon</body>
+    </message>
+  </messages>
+</conversation>
+

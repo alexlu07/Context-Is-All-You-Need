@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137319" time="2013-06-24 03:13:40 UTC">
+      <body> Hey, could you let me know when you're free to rehearse any time during the day or at night every day this week? Also dress rehearsal is Thursday night plus like 15 minutes Friday night.</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-06-24 03:14:02 UTC">
+      <body>I'm free tomorrow any time </body>
+    </message>
+    <message id="m0002" participant="137319" time="2013-06-24 03:14:27 UTC">
+      <body>What about the rest of the week?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-24 03:14:47 UTC">
+      <body>Yeah any time really </body>
+    </message>
+    <message id="m0004" participant="137319" time="2013-06-24 03:15:23 UTC">
+      <body>That's fantastic; thanks!</body>
+    </message>
+    <message id="m0005" participant="137319" time="2013-06-24 03:49:52 UTC">
+      <body>Would tomorrow between 11 and 12:30 work for you?</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-24 03:54:53 UTC">
+      <body>Yep. Lets hope I wake up in time I shall try very very hard </body>
+    </message>
+    <message id="m0007" participant="137319" time="2013-06-24 03:58:40 UTC">
+      <body>Hahaha actually I don't think I need you tomorrow we had to change locations. I'll let you know when I will need you though. Thanks!</body>
+    </message>
+  </messages>
+</conversation>

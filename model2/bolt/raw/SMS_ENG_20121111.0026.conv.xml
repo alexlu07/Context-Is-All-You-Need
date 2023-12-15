@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-11 16:31:16 UTC">
+      <body>Hey! What time do you want to meet? I think we are in a stokes room today. </body>
+    </message>
+    <message id="m0001" participant="135278" time="2012-11-11 16:31:21 UTC">
+      <body>Hey! When do you want to meet? Is 1:45 okay? </body>
+    </message>
+    <message id="m0002" participant="135278" time="2012-11-11 16:31:27 UTC">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0003" participant="135278" time="2012-11-11 16:32:00 UTC">
+      <body>Want to meet at the writing center room in stokes to get the stuff and bring it to our room? </body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-11 16:32:01 UTC">
+      <body>Great minds </body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-11-11 16:33:04 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0006" participant="135278" time="2012-11-11 16:33:18 UTC">
+      <body>Sweet. See you then!</body>
+    </message>
+  </messages>
+</conversation>

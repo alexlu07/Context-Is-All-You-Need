@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131452" time="2013-02-01 20:03:33 UTC">
+      <body>Snowshoe Hare</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-01 21:28:20 UTC">
+      <body>Hahaha where is that??</body>
+    </message>
+    <message id="m0002" participant="131452" time="2013-02-01 21:28:43 UTC">
+      <body>Boston science museum</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-01 21:29:19 UTC">
+      <body>Wait is it TAXIDERMIED?!</body>
+    </message>
+    <message id="m0004" participant="131452" time="2013-02-01 21:29:55 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-02-01 21:44:01 UTC">
+      <body>So sad. They probably just found them in the wild...definitely didn't kill them...</body>
+    </message>
+    <message id="m0006" participant="131452" time="2013-02-01 21:45:05 UTC">
+      <body>Yeah I don't think the museum staff would kill animals so they can display them. Seems a bit silly</body>
+    </message>
+  </messages>
+</conversation>

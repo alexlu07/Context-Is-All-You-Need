@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131355" time="2013-04-28 05:26:52 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-28 05:30:14 UTC">
+      <body>Just give me a heads up when you're leaving.
+
+Thanks, man...</body>
+    </message>
+    <message id="m0003" participant="131355" time="2013-04-28 18:01:12 UTC">
+      <body>Leaveing now. See u in like 25 min</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-28 18:05:22 UTC">
+      <body>Cool. Lemme know when you're here, and I'll walk up.</body>
+    </message>
+    <message id="m0005" participant="131355" time="2013-04-28 18:06:51 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

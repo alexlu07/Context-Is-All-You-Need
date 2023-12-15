@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 14:24:00 UTC" participant="153268">
+      <body>Are you alive &amp; well? Alex says it's snowing in ny...sunny &amp; warmer (30) here! Still coughing?</body>
+    </message>
+    <message id="m0001" time="2015-01-09 14:40:42 UTC" participant="152734">
+      <body>Yes! It snowed a little more this morning. I'm still sick and annoyed about it! </body>
+    </message>
+    <message id="m0002" time="2015-01-09 14:43:05 UTC" participant="153268">
+      <body>Yeah... I'm a little better every day but still coughing &amp; sick of it too. I'll be glad when this week is over. I need it to warm up so I can go outside!</body>
+    </message>
+    <message id="m0003" time="2015-01-09 14:43:12 UTC" participant="153268">
+      <body>Alex is moving this weekend!</body>
+    </message>
+  </messages>
+</conversation>
+

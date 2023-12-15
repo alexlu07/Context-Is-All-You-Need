@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120401.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131333" time="2012-04-01 20:00:13 UTC">
+      <body>Hey Noah! How's everything? What's your address?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-01 20:01:23 UTC">
+      <body>I got a new phone, who is this?</body>
+    </message>
+    <message id="m0003" participant="131333" time="2012-04-01 20:03:12 UTC">
+      <body>It's Alyssa </body>
+    </message>
+    <message id="m0004" participant="131333" time="2012-04-01 20:03:12 UTC">
+      <body>Thank you!! It's for an invitation! </body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-04-01 20:04:26 UTC">
+      <body>Oh nice! I'm excited!</body>
+    </message>
+    <message id="m0006" participant="131333" time="2012-04-01 20:05:20 UTC">
+      <body>Our parents are throwing us an engagement party april 28th </body>
+    </message>
+    <message id="m0007" participant="130692" time="2012-04-01 20:06:55 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0008" participant="131333" time="2012-04-01 20:07:28 UTC">
+      <body>It will b a good time!! </body>
+    </message>
+    <message id="m0009" participant="131333" time="2012-04-01 20:07:28 UTC">
+      <body>How have u been ?</body>
+    </message>
+    <message id="m0010" participant="130692" time="2012-04-01 20:09:03 UTC">
+      <body>Good, working on a bunch of different projects. How bout you guys?</body>
+    </message>
+    <message id="m0011" participant="131333" time="2012-04-01 20:09:36 UTC">
+      <body>That's good!! ... Everything's going good with us! </body>
+    </message>
+  </messages>
+</conversation>

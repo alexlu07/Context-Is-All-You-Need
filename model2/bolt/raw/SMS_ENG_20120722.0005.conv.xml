@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120722.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135394" time="2012-07-23 14:34:40 UTC">
+      <body>Just checked its up</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-23 14:35:14 UTC">
+      <body>Server down At next</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-23 14:36:31 UTC">
+      <body>Hmm network must be fucked</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-23 14:36:37 UTC">
+      <body>The it guy is out</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-07-23 14:38:00 UTC">
+      <body>Our comp is the only one working.  Ha ha</body>
+    </message>
+    <message id="m0006" participant="135394" time="2012-07-23 14:41:04 UTC">
+      <body>Ha</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-07-23 14:41:05 UTC">
+      <body>as long as its not a problem on your end</body>
+    </message>
+    <message id="m0008" participant="135394" time="2012-07-23 14:43:12 UTC">
+      <body>Nope</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-06 17:04:27 UTC">
+      <body>I have an appointment that ends at 3. I also want to go to library at some point this afternoon to pick up some books. Are you available? If not there is always tomorrow and after tomorrow and after after tomorrow!!!!!!! </body>
+    </message>
+    <message id="m0001" participant="137357" time="2013-05-06 18:25:04 UTC">
+      <body>I can't today, but tomorrow sounds good!</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-06 19:08:46 UTC">
+      <body>I'll be around at 11 ish tomorrow </body>
+    </message>
+    <message id="m0003" participant="137357" time="2013-05-07 00:16:03 UTC">
+      <body>Ok let's meet up!</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-07 13:00:10 UTC">
+      <body>I don't know if you are up and about yet ....my daughter needs me at home and I want to go back to Swarthmore after 11. But I have some time now util ten if you want to drink tea for a bit</body>
+    </message>
+    <message id="m0005" participant="137357" time="2013-05-07 13:00:48 UTC">
+      <body>I am up but at home and won't make it to campus before 10...try again tomorrow?</body>
+    </message>
+    <message id="m0006" participant="137357" time="2013-05-07 13:00:48 UTC">
+      <body>You too!</body>
+    </message>
+    <message id="m0007" participant="132437" time="2013-05-07 13:01:52 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-05-07 13:02:15 UTC">
+      <body>Have a nice day. </body>
+    </message>
+    <message id="m0009" participant="132437" time="2013-05-07 18:24:31 UTC">
+      <body>Tomorrow is out too!! I'll be in touch about Thursday or next week.</body>
+    </message>
+    <message id="m0010" participant="137357" time="2013-05-07 18:44:16 UTC">
+      <body>Ok no prob</body>
+    </message>
+  </messages>
+</conversation>

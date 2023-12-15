@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133315" time="2013-06-18 22:42:30 UTC">
+      <body>Hey we'll e home in about 15-20 minutes in case you were wondering. </body>
+    </message>
+    <message id="m0001" participant="133056" time="2013-06-18 23:00:29 UTC">
+      <body>Goody gumdrops! </body>
+    </message>
+  </messages>
+</conversation>

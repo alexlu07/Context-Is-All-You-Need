@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2013-05-09 21:32:35 UTC">
+      <body>Hey #### are u still up for drinks tonight at roxy? </body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-09 21:43:31 UTC">
+      <body>Yes! Unless you want to go somewhere where we can sit outside</body>
+    </message>
+    <message id="m0002" participant="131032" time="2013-05-09 21:51:36 UTC">
+      <body>Hmm nah got a lot of sun today so roxy still works!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-05-09 22:00:32 UTC">
+      <body>Okay! See you there at 7!</body>
+    </message>
+  </messages>
+</conversation>

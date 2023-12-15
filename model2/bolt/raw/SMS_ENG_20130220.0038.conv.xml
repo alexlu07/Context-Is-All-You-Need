@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-20 12:43:59 UTC" participant="154352">
+      <body>I can't find my backup battery. I wonder if I left it in your car on the way back from skiing. It's the black brick a little bigger than a phone.</body>
+    </message>
+    <message id="m0001" time="2013-02-20 12:58:03 UTC" participant="154390">
+      <body>lt the bottom of your bag. Let me know I can keep looking later</body>
+    </message>
+    <message id="m0002" time="2013-02-20 13:05:49 UTC" participant="154352">
+      <body>Mom found it at home. Thanks for looking.</body>
+    </message>
+  </messages>
+</conversation>
+

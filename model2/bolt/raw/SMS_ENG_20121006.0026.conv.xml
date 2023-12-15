@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-06 20:43:11 UTC">
+      <body>Are you going out tonight</body>
+    </message>
+    <message id="m0001" participant="136263" time="2012-10-06 20:43:42 UTC">
+      <body>I haven't decided yet. Why?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-06 20:44:16 UTC">
+      <body>Idk if I am either. We can hang if we're both not</body>
+    </message>
+    <message id="m0003" participant="136263" time="2012-10-06 20:52:16 UTC">
+      <body>Okay, I probably will for a little but last night I wasn't drunk and that was fun. So we can hang out in dobbs and then I might leave for a bit. But I'm not drinking </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-06 21:29:27 UTC">
+      <body>Kk sounds good </body>
+    </message>
+  </messages>
+</conversation>

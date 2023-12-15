@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-23 20:31:59 UTC" participant="152417">
+      <body>Hey Miri, looks like ill be getting there around 630 or so</body>
+    </message>
+    <message id="m0001" time="2013-06-23 20:33:31 UTC" participant="152483">
+      <body>Hey so I'm at work till 11 but you are welcome to stop by and grab my keys or whatever you'd like</body>
+    </message>
+    <message id="m0002" time="2013-06-23 20:34:29 UTC" participant="152417">
+      <body>Ok, thanks, where do you work?</body>
+    </message>
+    <message id="m0003" time="2013-06-23 20:45:33 UTC" participant="152483">
+      <body>11th and ave a. The apartment is a by of a mess but ill clean it up when I get home</body>
+    </message>
+    <message id="m0004" time="2013-06-23 20:59:05 UTC" participant="152417">
+      <body>East or west 11th st?</body>
+    </message>
+    <message id="m0006" time="2013-06-23 21:36:09 UTC" participant="152483">
+      <body>Westville east</body>
+    </message>
+    <message id="m0007" time="2013-06-23 22:33:50 UTC" participant="152417">
+      <body>What apt number?</body>
+    </message>
+    <message id="m0009" time="2013-06-24 00:44:48 UTC" participant="152483">
+      <body>What you up to? </body>
+    </message>
+    <message id="m0010" time="2013-06-24 00:45:30 UTC" participant="152483">
+      <body>Sorry about the state of the apartment have been working nonstop </body>
+    </message>
+    <message id="m0011" time="2013-06-24 00:46:42 UTC" participant="152417">
+      <body>No worries, Chinese food and reading shakespeare not too far from your apt</body>
+    </message>
+    <message id="m0012" time="2013-06-24 00:50:10 UTC" participant="152483">
+      <body>Awesome ill text ya when I'm leaving work</body>
+    </message>
+    <message id="m0013" time="2013-06-24 03:24:48 UTC" participant="152483">
+      <body>You at the place ? </body>
+    </message>
+    <message id="m0014" time="2013-06-24 03:29:01 UTC" participant="152483">
+      <body>You at the place ?</body>
+    </message>
+    <message id="m0015" time="2013-06-24 03:31:34 UTC" participant="152417">
+      <body>Yep, back at the apt</body>
+    </message>
+    <message id="m0016" time="2013-06-24 03:44:47 UTC" participant="152483">
+      <body>Be there in 10</body>
+    </message>
+  </messages>
+</conversation>
+

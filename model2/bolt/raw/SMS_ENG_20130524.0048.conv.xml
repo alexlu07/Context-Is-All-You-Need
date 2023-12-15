@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0048" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130692" time="2013-05-24 20:09:05 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130707" time="2013-05-24 20:17:30 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130707" time="2013-05-24 20:17:30 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="130707" time="2013-05-24 20:17:30 UTC">
+      <body>Are you there?</body>
+    </message>
+    <message id="m0004" participant="130692" time="2013-05-24 20:19:32 UTC">
+      <body>I'm there, eating dinner. How are you?</body>
+    </message>
+    <message id="m0005" participant="130707" time="2013-05-24 20:20:28 UTC">
+      <body>I am watching sharktank</body>
+    </message>
+    <message id="m0006" participant="130692" time="2013-05-24 20:22:05 UTC">
+      <body>That's cool. I just had the best pizza</body>
+    </message>
+    <message id="m0007" participant="130707" time="2013-05-24 20:23:00 UTC">
+      <body>From what place?</body>
+    </message>
+    <message id="m0008" participant="130692" time="2013-05-24 20:31:24 UTC">
+      <body>A new place on 15th &amp; Jackson called Gennaro's</body>
+    </message>
+    <message id="m0009" participant="130692" time="2013-05-24 20:31:24 UTC">
+      <body>Thin crust, NYC style pizza</body>
+    </message>
+    <message id="m0010" participant="130692" time="2013-05-24 20:31:24 UTC">
+      <body>Highly recommended</body>
+    </message>
+    <message id="m0011" participant="130707" time="2013-05-24 20:34:40 UTC">
+      <body>I am in NYC so I have lots of access to NYC style pizza :)</body>
+    </message>
+    <message id="m0012" participant="130692" time="2013-05-24 20:36:57 UTC">
+      <body>What's your favorite pizza in NYC?</body>
+    </message>
+    <message id="m0013" participant="130707" time="2013-05-24 20:38:45 UTC">
+      <body>Ben's famous pizza on Spring st</body>
+    </message>
+    <message id="m0014" participant="130707" time="2013-05-24 20:39:06 UTC">
+      <body>I had another favorite one but it closed :(</body>
+    </message>
+    <message id="m0015" participant="130707" time="2013-05-24 20:48:11 UTC">
+      <body>What city do you live in?</body>
+    </message>
+    <message id="m0016" participant="130692" time="2013-05-24 20:53:42 UTC">
+      <body>Philly</body>
+    </message>
+    <message id="m0017" participant="130692" time="2013-05-24 20:53:47 UTC">
+      <body>By way of Bridgeport, CT</body>
+    </message>
+    <message id="m0018" participant="130707" time="2013-05-24 21:15:38 UTC">
+      <body>Oh I like Philly. I took a jewelry class there</body>
+    </message>
+    <message id="m0019" participant="130692" time="2013-05-24 21:46:24 UTC">
+      <body>Do you have a connection to Penn or just found the study on the Internet?</body>
+    </message>
+    <message id="m0020" participant="130707" time="2013-05-24 21:58:52 UTC">
+      <body>I got an e-mail about it</body>
+    </message>
+    <message id="m0021" participant="130707" time="2013-05-24 21:59:15 UTC">
+      <body>I did something similar to this a few years ago but it was talking to people</body>
+    </message>
+    <message id="m0022" participant="130692" time="2013-05-24 22:32:04 UTC">
+      <body>Yeah I did the phone study as well</body>
+    </message>
+    <message id="m0023" participant="130707" time="2013-05-24 22:35:55 UTC">
+      <body>Did you have to call from different phones?</body>
+    </message>
+    <message id="m0024" participant="130692" time="2013-05-24 22:38:19 UTC">
+      <body>It was just from the cell phone but they set up different background noise environments</body>
+    </message>
+    <message id="m0025" participant="130707" time="2013-05-24 22:58:44 UTC">
+      <body>I did one where I had to call from 6 different phones. I am going to sleep now. I guess we will text tomorrow?</body>
+    </message>
+    <message id="m0026" participant="130692" time="2013-05-24 23:01:28 UTC">
+      <body>Sure, talk to you tomorrow</body>
+    </message>
+    <message id="m0027" participant="130707" time="2013-05-25 10:45:18 UTC">
+      <body>Good Morning</body>
+    </message>
+    <message id="m0028" participant="130692" time="2013-05-25 12:51:16 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0029" participant="130707" time="2013-05-25 16:23:22 UTC">
+      <body>How is your day going so far?</body>
+    </message>
+    <message id="m0030" participant="130692" time="2013-05-25 16:24:15 UTC">
+      <body>Great, just doing some errands. How about you?</body>
+    </message>
+    <message id="m0031" participant="130707" time="2013-05-25 16:25:26 UTC">
+      <body>I'm not feeling too well. Woman stuff</body>
+    </message>
+    <message id="m0032" participant="130692" time="2013-05-25 16:26:45 UTC">
+      <body>Ah, I see</body>
+    </message>
+    <message id="m0033" participant="130707" time="2013-05-25 16:27:47 UTC">
+      <body>What kind of errands?</body>
+    </message>
+    <message id="m0034" participant="130692" time="2013-05-25 16:29:54 UTC">
+      <body>Home Depot, I'm making a trellis in my tiny South Philly backyard</body>
+    </message>
+    <message id="m0035" participant="130707" time="2013-05-25 16:30:53 UTC">
+      <body>Oh my mom loves Home Depot</body>
+    </message>
+    <message id="m0036" participant="130707" time="2013-05-25 16:32:43 UTC">
+      <body>I have to charge my phone will write you later</body>
+    </message>
+    <message id="m0037" participant="130692" time="2013-05-25 16:33:48 UTC">
+      <body>I do too. I usually stop by the mom &amp; pop hardware store in my neighborhood before I support "the big guys"</body>
+    </message>
+    <message id="m0038" participant="130692" time="2013-05-25 16:33:48 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0039" participant="130707" time="2013-05-25 18:35:38 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0040" participant="130707" time="2013-05-25 18:36:02 UTC">
+      <body>Am I your first text conversation?</body>
+    </message>
+    <message id="m0041" participant="130692" time="2013-05-25 18:36:47 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0042" participant="130692" time="2013-05-25 18:36:47 UTC">
+      <body>Yes. How about you?</body>
+    </message>
+    <message id="m0043" participant="130707" time="2013-05-25 18:38:06 UTC">
+      <body>Yes you are the first</body>
+    </message>
+    <message id="m0044" participant="130707" time="2013-05-25 18:41:26 UTC">
+      <body>So yesterday you had pizza for dinner, what's on the menu for tonight?</body>
+    </message>
+    <message id="m0045" participant="130692" time="2013-05-25 18:42:46 UTC">
+      <body>Not really sure yet, I'm going grocery shopping soon so we'll see</body>
+    </message>
+    <message id="m0046" participant="130707" time="2013-05-25 18:46:10 UTC">
+      <body>Are you married?</body>
+    </message>
+    <message id="m0047" participant="130692" time="2013-05-25 18:47:30 UTC">
+      <body>No, I live with my girlfriend though.</body>
+    </message>
+    <message id="m0048" participant="130692" time="2013-05-25 18:48:04 UTC">
+      <body>How about you?</body>
+    </message>
+    <message id="m0049" participant="130707" time="2013-05-25 18:48:49 UTC">
+      <body>Are you a man or woman?</body>
+    </message>
+    <message id="m0050" participant="130707" time="2013-05-25 18:48:49 UTC">
+      <body>Single</body>
+    </message>
+    <message id="m0051" participant="130692" time="2013-05-25 18:57:14 UTC">
+      <body>Man</body>
+    </message>
+    <message id="m0052" participant="130707" time="2013-05-25 18:57:14 UTC">
+      <body>Live alone</body>
+    </message>
+    <message id="m0053" participant="130707" time="2013-05-25 19:00:29 UTC">
+      <body>I have been sitting here thinking I was texting with a woman</body>
+    </message>
+    <message id="m0054" participant="130707" time="2013-05-25 19:01:11 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0055" participant="130692" time="2013-05-25 19:01:32 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0056" participant="130707" time="2013-05-25 19:03:30 UTC">
+      <body>How long have you been living with your girlfriend?</body>
+    </message>
+    <message id="m0057" participant="130692" time="2013-05-25 19:04:18 UTC">
+      <body>About 2 years</body>
+    </message>
+    <message id="m0058" participant="130707" time="2013-05-25 19:05:31 UTC">
+      <body>That's awhile.</body>
+    </message>
+    <message id="m0059" participant="130707" time="2013-05-25 19:06:09 UTC">
+      <body>Are you going to give her a ring anytime soon?</body>
+    </message>
+  </messages>
+</conversation>

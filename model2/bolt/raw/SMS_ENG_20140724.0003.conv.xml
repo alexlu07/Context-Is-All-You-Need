@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140724.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-07-24 18:27:12 UTC" participant="152560">
+      <body>Oh great! Are you playing with the Wrong #s also?  </body>
+    </message>
+    <message id="m0002" time="2014-07-24 18:29:07 UTC" participant="152417">
+      <body>No, not enough of us were free</body>
+    </message>
+    <message id="m0003" time="2014-07-24 18:31:09 UTC" participant="152560">
+      <body>Probably for the best-extra time to study/sleep. Help yourself to chili if you stop by the house. </body>
+    </message>
+    <message id="m0004" time="2014-07-25 02:26:10 UTC" participant="152560">
+      <body>Still playing? </body>
+    </message>
+    <message id="m0005" time="2014-07-25 02:26:43 UTC" participant="152417">
+      <body>No, im home w chinese food</body>
+    </message>
+    <message id="m0006" time="2014-07-25 02:27:31 UTC" participant="152560">
+      <body>Will you be there in a few, or are you taking off right away?</body>
+    </message>
+    <message id="m0007" time="2014-07-25 02:28:03 UTC" participant="152417">
+      <body>I ll be herr</body>
+    </message>
+    <message id="m0008" time="2014-07-25 02:29:00 UTC" participant="152560">
+      <body>Ok-just doing my tickets now; see you in 15ish.</body>
+    </message>
+  </messages>
+</conversation>
+

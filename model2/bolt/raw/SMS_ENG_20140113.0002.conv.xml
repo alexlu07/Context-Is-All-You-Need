@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140113.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-13 17:21:21 UTC" participant="152560">
+      <body>You can have the driveway spot back.</body>
+    </message>
+    <message id="m0001" time="2014-01-13 22:15:20 UTC" participant="152417">
+      <body>I'm on my way to the gym I'll be home around 630</body>
+    </message>
+    <message id="m0002" time="2014-01-14 14:40:47 UTC" participant="152417">
+      <body>Did you give me rent money?</body>
+    </message>
+    <message id="m0003" time="2014-01-14 14:42:18 UTC" participant="152417">
+      <body>Cash?</body>
+    </message>
+    <message id="m0004" time="2014-01-14 14:56:35 UTC" participant="152560">
+      <body>Check-minus dog food money. It was $560ish</body>
+    </message>
+    <message id="m0005" time="2014-01-14 15:02:25 UTC" participant="152417">
+      <body>K, got it, usually online it shows me checks and theres no image of it but it is there. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

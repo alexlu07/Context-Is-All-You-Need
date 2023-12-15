@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-13 17:52:36 UTC">
+      <body>Just to double check (no rush) you haven't paid me back yet for fairleighs party, right?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2012-12-13 17:53:21 UTC">
+      <body>Thanks for the reminder! I can give it to you tomorrow!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-13 17:53:45 UTC">
+      <body>ok sweet :) it's roughly $7-8</body>
+    </message>
+    <message id="m0003" participant="135265" time="2012-12-13 17:54:06 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130662" time="2013-06-24 01:12:45 UTC">
+      <body>Hello! How went the weekend?</body>
+    </message>
+    <message id="m0001" participant="130970" time="2013-06-24 17:44:03 UTC">
+      <body>Howdy. My weekend was alright. DJed Fri and Sat night, went dancing after on Fri, then did a 20 mile bike ride yesterday afternoon before working a dog f</body>
+    </message>
+    <message id="m0002" participant="130970" time="2013-06-24 17:44:19 UTC">
+      <body>ood promo. Nothing exciting.</body>
+    </message>
+    <message id="m0003" participant="130662" time="2013-06-24 18:41:03 UTC">
+      <body>Yeah, my weekend was pretty uninteresting too. Do yo uhave anything planned for the 4th of July weekend?</body>
+    </message>
+    <message id="m0004" participant="130970" time="2013-06-24 18:42:40 UTC">
+      <body>Working a Subaru event on the 4th at a Festival with Fireworks so I'll get to watch those. On the 3rd i'm attending a country concert with fireworks after</body>
+    </message>
+    <message id="m0005" participant="130662" time="2013-06-24 18:47:52 UTC">
+      <body>(1/2)Sounds interesting. I'm going to a science exhibition which is about the technology behind fireworks: how they work and emit different colors and designs.</body>
+    </message>
+    <message id="m0006" participant="130662" time="2013-06-24 18:47:56 UTC">
+      <body>(2/2)It's an adults only party with an open bar. Perfect for geeks like me :P</body>
+    </message>
+  </messages>
+</conversation>

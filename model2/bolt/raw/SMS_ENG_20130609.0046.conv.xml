@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136637" time="2013-06-09 21:49:39 UTC">
+      <body>Still grilling ?</body>
+    </message>
+    <message id="m0001" participant="136637" time="2013-06-09 22:21:12 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-09 22:21:43 UTC">
+      <body>Ya</body>
+    </message>
+    <message id="m0003" participant="136637" time="2013-06-09 22:24:10 UTC">
+      <body>How long?</body>
+    </message>
+    <message id="m0004" participant="136637" time="2013-06-09 22:24:35 UTC">
+      <body>Just finished work; got errands</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-06-09 23:27:15 UTC">
+      <body>Still here</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141126.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-26 15:23:14 UTC" participant="152116">
+      <body>Dinner at 4 tomorrow</body>
+    </message>
+    <message id="m0001" time="2014-11-26 15:31:56 UTC" participant="152115">
+      <body>Ok. I don't if it's worth it. We would get there around 1:30 and would have to take the 2:46 train back. I'll think about it.</body>
+    </message>
+    <message id="m0002" time="2014-11-26 15:34:29 UTC" participant="152115">
+      <body>Oh. I was looking at the wrong schedule. It would have to be the 2:15 or the 3:15.</body>
+    </message>
+    <message id="m0003" time="2014-11-26 15:55:17 UTC" participant="152116">
+      <body>3:15 would probably be late</body>
+    </message>
+    <message id="m0004" time="2014-11-26 15:55:33 UTC" participant="152115">
+      <body>I know.</body>
+    </message>
+    <message id="m0005" time="2014-11-26 17:01:39 UTC" participant="152115">
+      <body>Wow. I just find out the name of a song that I wanted to know from eisley that you played in high school. Haha. Laughing city. It was the first song on the shuffle list that you put on my phone.</body>
+    </message>
+    <message id="m0006" time="2014-11-26 19:36:30 UTC" participant="152116">
+      <body>I could've told you if you knew the lyrics. I like that song</body>
+    </message>
+    <message id="m0007" time="2014-11-26 19:38:23 UTC" participant="152115">
+      <body>Haha. I guess that's true. But I think you asked me to sing it for you when I had asked years ago. And I was like, I don't need to know that bad. Haha. Do you think you'll be out at three?</body>
+    </message>
+    <message id="m0008" time="2014-11-26 20:00:53 UTC" participant="152116">
+      <body>I just gotta finish something up</body>
+    </message>
+    <message id="m0009" time="2014-11-26 20:49:36 UTC" participant="152116">
+      <body>I'm on my way</body>
+    </message>
+    <message id="m0010" time="2014-11-26 20:50:00 UTC" participant="152115">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

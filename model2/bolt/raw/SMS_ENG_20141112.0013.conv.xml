@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141112.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-12 17:23:51 UTC" participant="153660">
+      <body>Hey! Want to do the Ken Robinson TED talk on Thursday? Then maybe a trip to the library vaults next week?</body>
+    </message>
+    <message id="m0001" time="2014-11-12 17:30:31 UTC" participant="153548">
+      <body>Yes! Sounds perfect! I'll take a look at the Ted talk</body>
+    </message>
+    <message id="m0002" time="2014-11-12 17:32:21 UTC" participant="153548">
+      <body>And come up with some talking points</body>
+    </message>
+    <message id="m0003" time="2014-11-12 17:35:45 UTC" participant="153660">
+      <body>(1/2) It's called school kills creativity. Lasts about 20 min. The discussion usually takes care of itself... you can just show up on Thurs if you want. I've </body>
+    </message>
+    <message id="m0004" time="2014-11-12 17:35:51 UTC" participant="153660">
+      <body>(2/2) taught this many times.</body>
+    </message>
+    <message id="m0005" time="2014-11-12 17:42:34 UTC" participant="153548">
+      <body>Awesome. Thanks for taking the reigns this week!</body>
+    </message>
+    <message id="m0006" time="2014-11-12 17:48:40 UTC" participant="153660">
+      <body>No problem! </body>
+    </message>
+    <message id="m0007" time="2014-11-12 17:51:00 UTC" participant="153548">
+      <body>I was looking up scavenger hunts for art lessons but it was a lot of work!</body>
+    </message>
+    <message id="m0008" time="2014-11-12 17:52:25 UTC" participant="153660">
+      <body>Yeah, you just got back from a trip! Relax this week.</body>
+    </message>
+    <message id="m0009" time="2014-11-12 17:53:12 UTC" participant="153548">
+      <body>Cool. I'll see you tomorrow!</body>
+    </message>
+    <message id="m0010" time="2014-11-13 15:41:16 UTC" participant="153660">
+      <body>Running late... ok to meet at the classroom? Should be there 11ish but maybe later. </body>
+    </message>
+    <message id="m0011" time="2014-11-13 15:58:01 UTC" participant="153660">
+      <body>N/m I'm here. Where are you?</body>
+    </message>
+    <message id="m0012" time="2014-11-13 16:16:22 UTC" participant="153660">
+      <body>I'm at gershman </body>
+    </message>
+  </messages>
+</conversation>
+

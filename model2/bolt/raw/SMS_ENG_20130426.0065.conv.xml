@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-26 18:35:48 UTC">
+      <body>How was the flight????? </body>
+    </message>
+    <message id="m0001" participant="137256" time="2013-04-26 18:36:11 UTC">
+      <body>Great!!!</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-26 18:36:46 UTC">
+      <body/>
+    </message>
+    <message id="m0003" participant="137256" time="2013-04-27 01:11:53 UTC">
+      <body>Hahahaha I will!</body>
+    </message>
+  </messages>
+</conversation>

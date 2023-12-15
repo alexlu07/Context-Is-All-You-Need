@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150106.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-06 19:20:32 UTC" participant="152793">
+      <body>Ingrid! I came down to see you but you weren't there! Text me when you're back installing :) </body>
+    </message>
+    <message id="m0001" time="2015-01-06 19:35:58 UTC" participant="152735">
+      <body>Ha yeah it is toooo cold </body>
+    </message>
+    <message id="m0002" time="2015-01-06 19:36:05 UTC" participant="152735">
+      <body>Were the painting still on the wall? </body>
+    </message>
+    <message id="m0003" time="2015-01-06 19:36:27 UTC" participant="152735">
+      <body>I might just go home instead and work on the show tomorrow </body>
+    </message>
+    <message id="m0004" time="2015-01-06 19:36:48 UTC" participant="152735">
+      <body>I'll text you tomorrow and maybe I'll see you then </body>
+    </message>
+    <message id="m0005" time="2015-01-06 19:40:53 UTC" participant="152793">
+      <body>Yeah everything looks good! And sounds good, maybe I'll see you tomorrow </body>
+    </message>
+  </messages>
+</conversation>
+

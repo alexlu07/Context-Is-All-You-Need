@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 14:53:14 UTC" participant="153417">
+      <body>What time are we going?</body>
+    </message>
+    <message id="m0001" time="2014-12-13 15:38:40 UTC" participant="153423">
+      <body>Let's go 1230</body>
+    </message>
+    <message id="m0002" time="2014-12-13 15:40:48 UTC" participant="153423">
+      <body>I just left cheltham</body>
+    </message>
+    <message id="m0003" time="2014-12-13 15:40:48 UTC" participant="153423">
+      <body>Do u want me to pick u up or is Charles going too</body>
+    </message>
+    <message id="m0004" time="2014-12-13 15:40:48 UTC" participant="153423">
+      <body>Oh ok </body>
+    </message>
+    <message id="m0005" time="2014-12-13 15:41:15 UTC" participant="153417">
+      <body>Okay</body>
+    </message>
+    <message id="m0006" time="2014-12-13 15:42:14 UTC" participant="153417">
+      <body>He's coming. No need to pick me up</body>
+    </message>
+    <message id="m0007" time="2014-12-13 17:36:00 UTC" participant="153423">
+      <body>I'm here </body>
+    </message>
+    <message id="m0008" time="2014-12-13 17:36:00 UTC" participant="153423">
+      <body>Next to the window last table</body>
+    </message>
+    <message id="m0009" time="2014-12-13 17:38:37 UTC" participant="153417">
+      <body>Okay be there in a few</body>
+    </message>
+  </messages>
+</conversation>
+

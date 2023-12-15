@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136163" time="2013-06-07 22:52:22 UTC">
+      <body>I am at publix for bananas. Can you think of anything else we can use? Dinner?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-07 22:52:39 UTC">
+      <body>dinner would be good! are cherries still on sale?! </body>
+    </message>
+    <message id="m0002" participant="136163" time="2013-06-07 22:54:38 UTC">
+      <body>Prolly. I am not inside yet. I will get cherries but that is kind of lite for dinner. Any ideas?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-07 22:55:16 UTC">
+      <body>yeah, that would be a non-nutritious dinner. but, no, no ideas. :(</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-06-08 05:01:27 UTC">
+      <body>in my way home! </body>
+    </message>
+  </messages>
+</conversation>

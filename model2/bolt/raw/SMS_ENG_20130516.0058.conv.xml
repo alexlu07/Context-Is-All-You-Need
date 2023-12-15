@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130516.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-05-16 15:01:38 UTC">
+      <body>Would anyone like to do lunch at 11:30 or 12?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-16 15:06:38 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-16 15:06:48 UTC">
+      <body>I am gonna get ready now</body>
+    </message>
+    <message id="m0003" participant="135274" time="2013-05-16 15:10:21 UTC">
+      <body>Cool, me too.</body>
+    </message>
+    <message id="m0004" participant="135274" time="2013-05-16 20:39:35 UTC">
+      <body>Hey, i know some of you have plans, but for others, would anyone want to do a last dc dinner at 6:30?</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-05-17 01:38:29 UTC">
+      <body>Hey, we're watching zoolander in hilles 109 if you\you guys want to join.</body>
+    </message>
+  </messages>
+</conversation>

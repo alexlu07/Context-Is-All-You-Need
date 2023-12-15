@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-08 11:15:46 UTC">
+      <body>Hey again. How are you?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-08 18:32:57 UTC">
+      <body>Pretty good. Finally made it back to FL, now recovering from my vacation. how was the beach?</body>
+    </message>
+    <message id="m0002" participant="134066" time="2013-07-08 21:14:16 UTC">
+      <body>It was great. Now i'm back in Philly chillin' with friends at a local bar/ Ethiopian restaurant</body>
+    </message>
+  </messages>
+</conversation>

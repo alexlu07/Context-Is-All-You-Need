@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110728.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-28 12:41:33 UTC">
+      <body>How are you feeling?</body>
+    </message>
+    <message id="m0001" participant="135118" time="2011-07-28 12:42:55 UTC">
+      <body>Still shity stuck in traffic...</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-28 12:43:30 UTC">
+      <body>You should turn around girl! I don't want what you got and you should rest......</body>
+    </message>
+    <message id="m0003" participant="135118" time="2011-07-28 12:44:58 UTC">
+      <body>R u kiddin im down here by quarry...and its month end</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-28 12:46:03 UTC">
+      <body>Girrrrrrrrrl. Let me know what I can do to help.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-07-28 12:54:57 UTC">
+      <body>Oops! Almost forgot my drs appt! Be back around 9</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-07-28 14:49:09 UTC">
+      <body>The doc is doing every test on me ever! Sorry I'm late. Vaccine, lab work, and prescriptions... </body>
+    </message>
+  </messages>
+</conversation>

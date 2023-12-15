@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-14 00:21:08 UTC" participant="153244">
+      <body>That's good. Eden sleeping over tonight? </body>
+    </message>
+    <message id="m0001" time="2013-07-14 00:21:38 UTC" participant="153244">
+      <body>How was shadow last night/today?</body>
+    </message>
+    <message id="m0002" time="2013-07-14 21:09:23 UTC" participant="153244">
+      <body>Leaving now. Will be in philly in about 2 hrs.</body>
+    </message>
+    <message id="m0003" time="2013-07-14 21:10:04 UTC" participant="152116">
+      <body>Okay. Ill be at edenes</body>
+    </message>
+    <message id="m0004" time="2013-07-14 21:10:24 UTC" participant="153244">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

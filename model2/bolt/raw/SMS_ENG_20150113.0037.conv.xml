@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150113.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-13 14:28:16 UTC" participant="153852">
+      <body>Can you please bring me my school iPad? </body>
+    </message>
+    <message id="m0001" time="2015-01-13 14:28:16 UTC" participant="153852">
+      <body>It is charging</body>
+    </message>
+    <message id="m0002" time="2015-01-13 14:46:07 UTC" participant="153848">
+      <body>Ok can you give me like 30 mins?</body>
+    </message>
+    <message id="m0003" time="2015-01-13 14:46:44 UTC" participant="153852">
+      <body>Yes !</body>
+    </message>
+  </messages>
+</conversation>
+

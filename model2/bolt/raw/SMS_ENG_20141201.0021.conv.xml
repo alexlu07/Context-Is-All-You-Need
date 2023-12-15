@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141201.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-01 02:02:37 UTC" participant="153813">
+      <body>Did you hear about Ruth's service next Sat?</body>
+    </message>
+    <message id="m0001" time="2014-12-01 02:04:12 UTC" participant="153804">
+      <body>No no one's called.do you know the details?</body>
+    </message>
+    <message id="m0002" time="2014-12-01 02:30:10 UTC" participant="153813">
+      <body>Anthony's Funeral Home on Monroe  Ave in Brighton at 10 am on Sat the 6th. Buddy emailed the details to us today. </body>
+    </message>
+    <message id="m0003" time="2014-12-01 12:52:45 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+    <message id="m0004" time="2014-12-01 22:58:27 UTC" participant="153804">
+      <body>Did you know Bob Atwell died on Friday?</body>
+    </message>
+  </messages>
+</conversation>
+

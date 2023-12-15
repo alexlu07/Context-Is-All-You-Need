@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-06-11 08:46:50 UTC">
+      <body>Where r you ?</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-06-11 21:45:56 UTC">
+      <body>What's  u?p</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-11 21:47:04 UTC">
+      <body>Hey I'm about to get my tux. Then mom will drive me to your house for dinner</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-06-11 21:54:12 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="136219" time="2012-06-11 21:54:15 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-06-11 23:12:27 UTC">
+      <body>Just got home. Heading over soon!</body>
+    </message>
+  </messages>
+</conversation>

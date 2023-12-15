@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130677" time="2013-06-09 12:53:54 UTC">
+      <body>Hi there!</body>
+    </message>
+    <message id="m0001" participant="130633" time="2013-06-09 12:54:25 UTC">
+      <body>Hi.</body>
+    </message>
+    <message id="m0002" participant="130677" time="2013-06-09 12:56:54 UTC">
+      <body>How is your weekend?</body>
+    </message>
+    <message id="m0003" participant="130633" time="2013-06-09 12:58:56 UTC">
+      <body>Ok, went to my husband's college reunion last night. That was pretty nice. You?</body>
+    </message>
+    <message id="m0004" participant="130677" time="2013-06-09 13:12:17 UTC">
+      <body>I've been in Chicago celebrating my sisters engagement. It's been fun</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-02 19:33:08 UTC" participant="153443">
+      <body>Hey, I have my friend's farewell party from 6 tonight, and I just got to know it. I'll leave at around 5:30, is that okay? Sorry!!</body>
+    </message>
+    <message id="m0001" time="2013-02-02 19:33:51 UTC" participant="153418">
+      <body>Yeah, no problem. By the way, where do you want to meet today? </body>
+    </message>
+    <message id="m0002" time="2013-02-02 19:36:02 UTC" participant="153443">
+      <body>Thanks! Lovers and madmen! I'll be arriving there soon!</body>
+    </message>
+    <message id="m0003" time="2013-02-02 19:36:55 UTC" participant="153418">
+      <body>Eh? I thought we were meeting at 4? I'll see if I can get there earlier.</body>
+    </message>
+    <message id="m0004" time="2013-02-02 19:41:40 UTC" participant="153443">
+      <body>Yeah, we are supposed to meet at 4. My pancake meeting was just finished earlier! I have my laptop, so you dont need to hurry:P</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121122.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136245" time="2012-11-22 02:30:07 UTC">
+      <body>Any of u doing stuff tonight?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-22 03:15:38 UTC">
+      <body>Not doing anything tonight but i have to get up early tomorrow. What do you wanna do??</body>
+    </message>
+    <message id="m0002" participant="136245" time="2012-11-22 03:28:27 UTC">
+      <body>It's k. If u have to get up early its ok lol</body>
+    </message>
+  </messages>
+</conversation>

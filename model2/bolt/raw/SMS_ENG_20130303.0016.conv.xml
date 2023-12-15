@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-03-03 19:33:03 UTC">
+      <body>Are you having a good weekend?</body>
+    </message>
+    <message id="m0001" participant="131055" time="2013-03-03 19:33:25 UTC">
+      <body>I suppose. You?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-03-03 19:33:52 UTC">
+      <body>Not bad. I'm glad the sleep over is over : )</body>
+    </message>
+  </messages>
+</conversation>

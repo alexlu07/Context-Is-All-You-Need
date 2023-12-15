@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140924.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-24 15:12:36 UTC" participant="152424">
+      <body>hey do you want to come over for dinner around 6:45?</body>
+    </message>
+    <message id="m0001" time="2014-09-24 17:54:52 UTC" participant="152417">
+      <body>Yea ! Do you want me to bring some take-out? Thai?</body>
+    </message>
+    <message id="m0002" time="2014-09-24 18:39:26 UTC" participant="152424">
+      <body>no, my family is having a big dinner here.  just bring yoself</body>
+    </message>
+    <message id="m0003" time="2014-09-24 19:11:36 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-05-06 14:03:36 UTC">
+      <body>Good morning! Are you free Thurs evening for drinks?</body>
+    </message>
+    <message id="m0001" participant="131032" time="2013-05-06 14:12:02 UTC">
+      <body>Hey! Yeah! I am going to be climbing the chapel from 5:30-6:30 but anytime after will work</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-05-06 14:15:42 UTC">
+      <body>Great! I get home while you're climbing anyway, so after is good. Wanna say 7pm? And let's stay in ######...maybe ######## on Main?</body>
+    </message>
+    <message id="m0003" participant="131032" time="2013-05-06 14:20:15 UTC">
+      <body>Yeah that works. I've never been to ####. A restaurant?</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-05-06 14:21:40 UTC">
+      <body>Just a bar, but you can order food from############# and they bring it in.</body>
+    </message>
+    <message id="m0005" participant="131032" time="2013-05-06 14:32:23 UTC">
+      <body>Oo okie yeah that sounds perfect at 7!</body>
+    </message>
+    <message id="m0006" participant="130712" time="2013-05-06 14:38:03 UTC">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>

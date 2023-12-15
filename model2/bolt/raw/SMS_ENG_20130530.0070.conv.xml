@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-05-30 03:21:05 UTC">
+      <body>Can you print what I sent you? </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-30 04:27:56 UTC">
+      <body>Can you drive me to school tomorrow at 8:39?</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-30 04:28:04 UTC">
+      <body>8:30*</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-05-30 21:37:04 UTC">
+      <body>Are u done with the astronaut book?</body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-05-30 21:51:31 UTC">
+      <body>Hangover: 7:30 or 8:30. Please let me know</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-05-30 21:55:36 UTC">
+      <body>Okay must see if my friends are doing tonight </body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-05-30 21:55:37 UTC">
+      <body>Doing something* tonight </body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-05-30 21:56:20 UTC">
+      <body>Ok I'll go on my own no worries. </body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-05-30 21:56:38 UTC">
+      <body>I'll let you know </body>
+    </message>
+    <message id="m0009" participant="137257" time="2013-05-30 21:56:51 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-05-30 23:20:40 UTC">
+      <body>Can you pick me up from the sippel's? </body>
+    </message>
+    <message id="m0011" participant="137257" time="2013-05-30 23:21:07 UTC">
+      <body>Now?</body>
+    </message>
+    <message id="m0012" participant="137255" time="2013-05-30 23:21:17 UTC">
+      <body>Yes please if you can </body>
+    </message>
+    <message id="m0013" participant="137257" time="2013-05-30 23:21:23 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

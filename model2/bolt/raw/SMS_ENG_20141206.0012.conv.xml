@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-06 16:46:56 UTC" participant="153423">
+      <body>What's is your schedule next week</body>
+    </message>
+    <message id="m0001" time="2014-12-06 17:17:46 UTC" participant="153417">
+      <body>Normal schedule 530-2</body>
+    </message>
+    <message id="m0002" time="2014-12-06 18:07:06 UTC" participant="153423">
+      <body>Mon to fri</body>
+    </message>
+    <message id="m0003" time="2014-12-06 18:08:37 UTC" participant="153417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

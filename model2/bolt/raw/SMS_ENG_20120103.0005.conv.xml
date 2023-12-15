@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120103.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-01-03 15:13:04 UTC">
+      <body>Your appointment is at ten thirty so check in at ten twenty</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-01-03 15:13:22 UTC">
+      <body>Ok </body>
+    </message>
+  </messages>
+</conversation>

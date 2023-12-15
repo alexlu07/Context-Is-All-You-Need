@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131530" time="2012-09-08 20:32:25 UTC">
+      <body>Come to the Behan for a beer w Maitè and me!</body>
+    </message>
+    <message id="m0001" participant="131528" time="2012-09-09 01:17:55 UTC">
+      <body>Omg. J went to sleep the moment ciel left :(.  Are coming out tonight?</body>
+    </message>
+    <message id="m0002" participant="131530" time="2012-09-09 02:04:09 UTC">
+      <body>Yeah we're already out in Cambridge</body>
+    </message>
+    <message id="m0003" participant="131528" time="2012-09-09 03:43:05 UTC">
+      <body>Mark your calendar, we're going to the ravens/redskins game on saturday december 8.</body>
+    </message>
+    <message id="m0004" participant="131530" time="2012-09-09 08:05:47 UTC">
+      <body>Barf</body>
+    </message>
+  </messages>
+</conversation>

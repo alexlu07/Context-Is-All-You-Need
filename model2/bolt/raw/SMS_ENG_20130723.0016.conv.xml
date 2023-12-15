@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-23 14:42:44 UTC">
+      <body>Hello there!</body>
+    </message>
+    <message id="m0001" participant="136117" time="2013-07-23 14:44:24 UTC">
+      <body>Hi how's it going?</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-07-23 14:46:00 UTC">
+      <body>Good. I am updating cc mailing list. What are you doing?</body>
+    </message>
+    <message id="m0003" participant="136117" time="2013-07-23 15:04:21 UTC">
+      <body>Writing an article for a department newsletter</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-07-23 15:35:53 UTC">
+      <body>How is the article coming?</body>
+    </message>
+    <message id="m0005" participant="131218" time="2013-07-23 15:36:21 UTC">
+      <body>What is the subject?</body>
+    </message>
+    <message id="m0006" participant="136117" time="2013-07-23 16:06:55 UTC">
+      <body>It's not bad lol. It's for a French department</body>
+    </message>
+    <message id="m0007" participant="131218" time="2013-07-23 16:10:38 UTC">
+      <body>Bonne chance!</body>
+    </message>
+    <message id="m0009" participant="136117" time="2013-07-23 16:14:30 UTC">
+      <body>It's basically a short report so hopefully I should be done soon lol</body>
+    </message>
+  </messages>
+</conversation>

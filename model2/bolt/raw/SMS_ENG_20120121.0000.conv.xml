@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120121.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2012-01-21 17:27:28 UTC">
+      <body>Hey Quinton!! How are ya?  I haven't seen you in a while </body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-21 21:20:49 UTC">
+      <body>I just finished my third final--only one more!!! Yayyyy</body>
+    </message>
+    <message id="m0002" participant="131823" time="2012-01-22 06:09:04 UTC">
+      <body>Heyyy why aren't you at towuhhhh</body>
+    </message>
+    <message id="m0004" participant="131823" time="2012-01-22 06:28:16 UTC">
+      <body>Haha well I'm probs heading home soon wah wahhhhhhh</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-01-22 06:29:06 UTC">
+      <body>Uh I am</body>
+    </message>
+  </messages>
+</conversation>

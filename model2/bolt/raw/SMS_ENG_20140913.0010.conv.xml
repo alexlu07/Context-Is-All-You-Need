@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140913.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-13 23:59:17 UTC" participant="153547">
+      <body>Could u get me some American spirits at Sunoco or somewhere?</body>
+    </message>
+    <message id="m0001" time="2014-09-13 23:59:44 UTC" participant="149364">
+      <body>Which color</body>
+    </message>
+    <message id="m0002" time="2014-09-14 00:02:29 UTC" participant="153547">
+      <body>Yellow</body>
+    </message>
+    <message id="m0003" time="2014-09-14 00:06:24 UTC" participant="149364">
+      <body>Got it</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130583" time="2013-05-31 12:56:52 UTC">
+      <body>Hi Wiegenlied</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-05-31 14:09:53 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="130583" time="2013-05-31 14:11:21 UTC">
+      <body>Good afternoon! 'sup?</body>
+    </message>
+    <message id="m0003" participant="130583" time="2013-05-31 20:22:01 UTC">
+      <body>How're you doing? Got plans for the weekend ?</body>
+    </message>
+    <message id="m0004" participant="130616" time="2013-05-31 21:42:58 UTC">
+      <body>Sorry! Was a long day. And not particularly to be honest. Perhaps read a bit. :) A little alcohol maybe. 360 and PC. Yourself?</body>
+    </message>
+  </messages>
+</conversation>

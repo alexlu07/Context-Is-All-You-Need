@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130802.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-08-02 17:09:00 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="134852" time="2013-08-02 17:09:36 UTC">
+      <body>Hi, how's it going?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-08-02 17:21:40 UTC">
+      <body>Good n u</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-08-02 18:32:13 UTC">
+      <body>U live in philly?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-08-03 12:50:45 UTC">
+      <body>Doing anything fun this weekend?</body>
+    </message>
+    <message id="m0005" participant="134852" time="2013-08-03 12:51:40 UTC">
+      <body>Probably gonna see pacific rim! You?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-08-03 12:53:15 UTC">
+      <body>I might goto that free concert at the piazza today</body>
+    </message>
+    <message id="m0007" participant="134852" time="2013-08-03 12:56:14 UTC">
+      <body>Sounds like a fun time!</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-08-03 13:43:17 UTC">
+      <body>yeahbin struggling from last night</body>
+    </message>
+  </messages>
+</conversation>

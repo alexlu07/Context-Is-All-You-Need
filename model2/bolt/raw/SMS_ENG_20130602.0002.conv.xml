@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131805" time="2013-06-02 08:35:59 UTC">
+      <body>Ohhh what an interesting name... Hello Andromeda</body>
+    </message>
+    <message id="m0001" participant="131805" time="2013-06-02 08:44:17 UTC">
+      <body>I'm Squid</body>
+    </message>
+    <message id="m0002" participant="130623" time="2013-06-02 14:54:01 UTC">
+      <body>Hi Squid! I've been cleaning up a glitter spill.</body>
+    </message>
+    <message id="m0003" participant="130623" time="2013-06-02 15:00:09 UTC">
+      <body>Daughter and classmates were given "goody bags" of leftover craft supplies by their teachers.</body>
+    </message>
+    <message id="m0004" participant="130623" time="2013-06-02 15:10:11 UTC">
+      <body>She opened the ziploc bag of glitter while I was distracted.</body>
+    </message>
+    <message id="m0005" participant="131805" time="2013-06-02 23:01:15 UTC">
+      <body>Awww What a mess. All of my peers generally agree that glitter may be the communicable disease of art. Did you get things tidied up?</body>
+    </message>
+  </messages>
+</conversation>

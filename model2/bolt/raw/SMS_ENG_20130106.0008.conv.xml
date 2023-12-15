@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130106.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2013-01-06 17:39:14 UTC">
+      <body>How's your week gone?  Where are you next week?  Can we talk re my having Aethel again?   I love having him hang out with me.</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-01-06 17:54:08 UTC">
+      <body>Week going well. Canton, MA next week. Still need to pack.</body>
+    </message>
+    <message id="m0002" participant="131505" time="2013-01-06 17:56:18 UTC">
+      <body>Aethel with me?  I can pick him up today. </body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-06 18:09:45 UTC">
+      <body>Yeah, sure. If it would make you happy. He's been a very good dog, gets wound up but has been calming down very quickly. Friends came over last night and he was very well behaved.</body>
+    </message>
+    <message id="m0004" participant="131505" time="2013-01-06 18:11:44 UTC">
+      <body>Good.  Can i drive up to collect him about 2 pm?  I have an errand in bryn mawr.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-01-06 18:12:14 UTC">
+      <body>Yeah, sure!</body>
+    </message>
+  </messages>
+</conversation>

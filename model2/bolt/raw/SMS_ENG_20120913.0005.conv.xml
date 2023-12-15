@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120913.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2012-09-13 18:53:42 UTC">
+      <body>Are you a fan of Passion Pit?</body>
+    </message>
+    <message id="m0001" participant="131531" time="2012-09-13 18:54:11 UTC">
+      <body>I am...</body>
+    </message>
+    <message id="m0002" participant="131528" time="2012-09-13 18:55:12 UTC">
+      <body>Wanna see them October 15th?</body>
+    </message>
+    <message id="m0003" participant="131531" time="2012-09-13 19:50:57 UTC">
+      <body>Ah it's a Monday and in in class until 10 pm, tr worst </body>
+    </message>
+    <message id="m0004" participant="131531" time="2012-09-13 21:44:44 UTC">
+      <body>I'm so sorry. I also think if this bus moved any slower we would be stopped. I'm at Sheridan circle right now though so I'm close! </body>
+    </message>
+    <message id="m0005" participant="131528" time="2012-09-13 21:45:37 UTC">
+      <body>No prob! I just bought a new book.</body>
+    </message>
+  </messages>
+</conversation>

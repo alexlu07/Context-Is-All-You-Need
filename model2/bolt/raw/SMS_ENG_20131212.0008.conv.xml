@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131212.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-12 22:54:25 UTC" participant="153472">
+      <body>Ok. I'm mostly ready. Just text when u get close and I'll come out. ####### and doorbells don't mix well.</body>
+    </message>
+    <message id="m0001" time="2013-12-12 22:55:44 UTC" participant="152374">
+      <body>On my way. Be there in 5!</body>
+    </message>
+    <message id="m0002" time="2013-12-12 23:01:07 UTC" participant="152374">
+      <body>I'm outside!</body>
+    </message>
+    <message id="m0003" time="2013-12-13 00:03:08 UTC" participant="153472">
+      <body>D</body>
+    </message>
+  </messages>
+</conversation>
+

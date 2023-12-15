@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-16 17:21:59 UTC">
+      <body>you're not going to be home for church tomorrow, correct? </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-03-16 17:22:37 UTC">
+      <body>That's correct!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-16 17:23:05 UTC">
+      <body>kk, thanks! </body>
+    </message>
+  </messages>
+</conversation>

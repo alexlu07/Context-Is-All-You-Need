@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141004.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-04 18:28:40 UTC" participant="153562">
+      <body>Yo dude. Give me a shout if you can, was hoping you had a key to the van...we are locked out of it at Woodstock and need a bailout. Michael will buy you </body>
+    </message>
+    <message id="m0001" time="2014-10-04 18:29:46 UTC" participant="153562">
+      <body>a box of bullets</body>
+    </message>
+    <message id="m0002" time="2014-10-04 18:39:14 UTC" participant="153547">
+      <body>I got a key</body>
+    </message>
+    <message id="m0003" time="2014-10-04 18:47:01 UTC" participant="153562">
+      <body>They will be here in ten mins so no worries</body>
+    </message>
+  </messages>
+</conversation>
+

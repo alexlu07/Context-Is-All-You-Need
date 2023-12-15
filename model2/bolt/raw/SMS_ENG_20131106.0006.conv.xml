@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131106.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-06 16:01:31 UTC" participant="154410">
+      <body>I think you can buy the tickets its just the question if we can eat something</body>
+    </message>
+    <message id="m0001" time="2013-11-06 17:51:37 UTC" participant="154352">
+      <body>Ok. I got them. Let me know when you figure out when you can make it there.</body>
+    </message>
+    <message id="m0002" time="2013-11-06 17:52:08 UTC" participant="154352">
+      <body>It's at sound garden hall near Penn's landing.</body>
+    </message>
+    <message id="m0003" time="2013-11-06 19:23:54 UTC" participant="154410">
+      <body>Ok thank you! Tell you as soon as I know more</body>
+    </message>
+    <message id="m0004" time="2013-11-06 21:06:51 UTC" participant="154352">
+      <body>cool</body>
+    </message>
+  </messages>
+</conversation>
+

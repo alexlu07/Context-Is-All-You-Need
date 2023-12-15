@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-23 21:11:28 UTC" participant="152427">
+      <body>Great, thanks Gabi </body>
+    </message>
+    <message id="m0001" time="2013-04-23 21:11:59 UTC" participant="152417">
+      <body>Ill come get you at 6</body>
+    </message>
+    <message id="m0002" time="2013-04-24 01:58:48 UTC" participant="152417">
+      <body>No one is postering so im ready to get out of here</body>
+    </message>
+    <message id="m0003" time="2013-04-24 01:59:28 UTC" participant="152427">
+      <body>Ok see you in a few leaving my place now ~</body>
+    </message>
+  </messages>
+</conversation>
+

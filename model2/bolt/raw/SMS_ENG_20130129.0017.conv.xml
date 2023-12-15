@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135286" time="2013-01-29 03:37:36 UTC">
+      <body>Rat in 40s. Contained in stairwell for now. Exercise caution when entering and exiting suite.</body>
+    </message>
+    <message id="m0001" participant="135286" time="2013-01-29 03:39:44 UTC">
+      <body>RAT</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-29 03:39:55 UTC">
+      <body>Mouse or rat?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-29 03:41:32 UTC">
+      <body>GROSS</body>
+    </message>
+  </messages>
+</conversation>

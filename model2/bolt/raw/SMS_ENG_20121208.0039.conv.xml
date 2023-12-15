@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-08 20:27:26 UTC" participant="152734">
+      <body>Hey, shall I grab Lewis &amp; start brushing?</body>
+    </message>
+    <message id="m0001" time="2012-12-08 20:30:43 UTC" participant="153298">
+      <body>Yes! Sorry! On my way!!!</body>
+    </message>
+    <message id="m0002" time="2012-12-08 20:30:50 UTC" participant="153298">
+      <body>:)</body>
+    </message>
+    <message id="m0003" time="2012-12-09 17:12:19 UTC" participant="152734">
+      <body>Hey, Richard &amp; I will be happy to come to lunch next weekend - thanks! See you tomorrow. </body>
+    </message>
+    <message id="m0004" time="2012-12-09 18:03:22 UTC" participant="153298">
+      <body>Great so glad u are able to make it! :) yup see ya tomorrow! :)</body>
+    </message>
+  </messages>
+</conversation>
+

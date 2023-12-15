@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120621.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136208" time="2012-06-21 16:09:13 UTC">
+      <body>Hey theres a massive line for extra tickets</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-21 16:11:07 UTC">
+      <body>Yeah I know I'm at the end of it</body>
+    </message>
+    <message id="m0002" participant="136208" time="2012-06-21 16:12:02 UTC">
+      <body>Im at the library paying fines. ill go give you your $ back</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-06-21 16:12:22 UTC">
+      <body>Hurry up please!</body>
+    </message>
+  </messages>
+</conversation>

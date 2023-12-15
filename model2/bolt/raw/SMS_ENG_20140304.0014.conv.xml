@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140304.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-04 13:25:18 UTC" participant="154352">
+      <body>http://www.boston.com/bigpicture/2014/03/washington_dc_area_has_yet_another_snow_day.html</body>
+    </message>
+    <message id="m0001" time="2014-03-04 13:37:46 UTC" participant="154390">
+      <body>Cool skis!</body>
+    </message>
+    <message id="m0002" time="2014-03-04 13:38:42 UTC" participant="154390">
+      <body>Interesting how d c.'s snow made it on a Boston site</body>
+    </message>
+    <message id="m0003" time="2014-03-04 13:39:25 UTC" participant="154352">
+      <body>It's a photography blog run by the Boston herald (paper)</body>
+    </message>
+  </messages>
+</conversation>
+

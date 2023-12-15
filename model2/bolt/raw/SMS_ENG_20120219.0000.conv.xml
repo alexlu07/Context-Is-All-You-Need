@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120219.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135107" time="2012-02-19 18:50:40 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-02-19 19:00:41 UTC">
+      <body>Is that the sun?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-02-19 19:01:19 UTC">
+      <body>I haven't got it yet, but that's a crazy picture </body>
+    </message>
+    <message id="m0003" participant="135107" time="2012-02-19 19:01:20 UTC">
+      <body>Yurs</body>
+    </message>
+  </messages>
+</conversation>

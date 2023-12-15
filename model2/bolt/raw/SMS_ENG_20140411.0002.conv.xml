@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 00:43:45 UTC" participant="152526">
+      <body>Hey. Are you doing something with mail chimp right now? I just got an automated text from them. </body>
+    </message>
+    <message id="m0001" time="2014-04-11 00:44:26 UTC" participant="152417">
+      <body>Yeah, i tried to sign in and it asked for a confirmation phone number</body>
+    </message>
+    <message id="m0003" time="2014-04-11 00:45:52 UTC" participant="152526">
+      <body>They probably updated their security because of that bleeding heart bug. </body>
+    </message>
+    <message id="m0004" time="2014-04-11 00:46:05 UTC" participant="152417">
+      <body>Yea, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

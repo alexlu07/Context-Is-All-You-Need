@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140323.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-23 18:46:13 UTC" participant="153680">
+      <body>Hey! I'm heading back into the city now from Springfield-- are you still around? If so it will take 25 minutes or so, so many people out shoppin' </body>
+    </message>
+    <message id="m0001" time="2014-03-23 18:46:24 UTC" participant="153680">
+      <body>Ok! See you soon</body>
+    </message>
+    <message id="m0002" time="2014-03-23 18:46:28 UTC" participant="153548">
+      <body>Just come by whenever!</body>
+    </message>
+    <message id="m0003" time="2014-03-23 18:46:32 UTC" participant="153548">
+      <body>I'm here!</body>
+    </message>
+    <message id="m0004" time="2014-03-23 18:46:57 UTC" participant="153548">
+      <body>See ya!</body>
+    </message>
+    <message id="m0005" time="2014-03-23 19:21:29 UTC" participant="153680">
+      <body>Here! I parked by the front but in front if a hydrant </body>
+    </message>
+  </messages>
+</conversation>
+

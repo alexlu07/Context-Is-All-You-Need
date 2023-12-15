@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-06 15:19:15 UTC">
+      <body>May I have an espresso shot.....or 5?</body>
+    </message>
+    <message id="m0001" participant="136287" time="2012-10-06 16:17:44 UTC">
+      <body>Sorry, I just woke up. You're welcome to have five. Whose number is this?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-06 16:32:22 UTC">
+      <body>It's will. It's ok, I'm at the DUC now. I'll cash in on them later</body>
+    </message>
+    <message id="m0003" participant="136287" time="2012-10-06 16:36:00 UTC">
+      <body>Oh! Hey Will. Yeah, anytime. </body>
+    </message>
+    <message id="m0004" participant="136287" time="2012-10-07 02:13:16 UTC">
+      <body>Yo, where you at?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-07 02:26:28 UTC">
+      <body>May I have more whipped cream</body>
+    </message>
+    <message id="m0006" participant="136287" time="2012-10-07 02:27:12 UTC">
+      <body>It's Ben's</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-10-07 02:27:35 UTC">
+      <body>Ohhhhhh</body>
+    </message>
+  </messages>
+</conversation>

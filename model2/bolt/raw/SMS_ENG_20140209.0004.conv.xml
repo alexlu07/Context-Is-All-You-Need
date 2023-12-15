@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140209.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-09 03:40:14 UTC" participant="153491">
+      <body>Do did we settle on a time?</body>
+    </message>
+    <message id="m0001" time="2014-02-09 03:42:27 UTC" participant="152116">
+      <body>We're talking now. We're thinking if we should get the sushi or something else. What do you prefer?</body>
+    </message>
+    <message id="m0002" time="2014-02-09 04:36:19 UTC" participant="153491">
+      <body>I'm good with both. Just want to know the time.</body>
+    </message>
+    <message id="m0003" time="2014-02-09 05:59:16 UTC" participant="152116">
+      <body>We're meeting at Eden's at 12</body>
+    </message>
+    <message id="m0004" time="2014-02-09 20:16:46 UTC" participant="153491">
+      <body>We win!!!</body>
+    </message>
+    <message id="m0005" time="2014-02-09 23:56:42 UTC" participant="153491">
+      <body>I can not seriously be getting sleepy right now.</body>
+    </message>
+    <message id="m0006" time="2014-02-10 00:16:56 UTC" participant="152116">
+      <body>You did wake up early</body>
+    </message>
+    <message id="m0007" time="2014-02-10 00:18:25 UTC" participant="153491">
+      <body>I haven't been up for 12 hours yet.</body>
+    </message>
+    <message id="m0008" time="2014-02-10 00:35:17 UTC" participant="152116">
+      <body>I think just the shift is wearing you out</body>
+    </message>
+  </messages>
+</conversation>
+

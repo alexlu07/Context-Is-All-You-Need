@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-12 14:47:14 UTC" participant="153547">
+      <body>I just wanted to verify that I can use the van tomorrow</body>
+    </message>
+    <message id="m0001" time="2014-05-12 14:49:36 UTC" participant="149372">
+      <body>Ok. </body>
+    </message>
+    <message id="m0002" time="2014-05-12 14:50:59 UTC" participant="153547">
+      <body>I can put gas in it or you can keep Andy's check as a fee</body>
+    </message>
+    <message id="m0003" time="2014-05-12 15:12:04 UTC" participant="149372">
+      <body>That's fine. I deposited the check from Andy. It was $274. Half of that is a lot to borrow the van for 2 days so let's say you can use it as you need until end of June, assuming it's available. </body>
+    </message>
+  </messages>
+</conversation>
+

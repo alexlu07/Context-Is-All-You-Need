@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137364" time="2013-05-08 13:25:29 UTC">
+      <body>Dear Farnaz, good morning. What time is good to talk? Have a nice day.</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-08 13:27:41 UTC">
+      <body>How about if I call you sometime between 2-2:30. </body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-08 13:29:31 UTC">
+      <body>:)</body>
+    </message>
+  </messages>
+</conversation>

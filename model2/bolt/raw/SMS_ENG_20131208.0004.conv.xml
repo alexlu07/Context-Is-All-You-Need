@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131208.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-08 19:50:59 UTC" participant="152116">
+      <body>I hope you don't have work today.</body>
+    </message>
+    <message id="m0001" time="2013-12-08 20:35:41 UTC" participant="153491">
+      <body>I don't, thank goodness!!! It got heavy pretty quick and I kept skidding on the road. Hope you don't have work either!</body>
+    </message>
+    <message id="m0002" time="2013-12-08 22:08:24 UTC" participant="152116">
+      <body>Nope no work for me today</body>
+    </message>
+    <message id="m0003" time="2013-12-08 23:38:52 UTC" participant="153491">
+      <body>Good. It's a pass out on the couch kind of night.</body>
+    </message>
+    <message id="m0004" time="2013-12-09 00:00:13 UTC" participant="152116">
+      <body>For some. I'm putting down flooring in my grandmas house.</body>
+    </message>
+    <message id="m0005" time="2013-12-09 01:39:30 UTC" participant="153491">
+      <body>Whoa, good for you. Hey, my nap didn't go that smooth. I left the TV on and Some noisy guy with an accent was yelling really loud on some restaurant show. Annoying!</body>
+    </message>
+    <message id="m0006" time="2013-12-09 02:25:40 UTC" participant="152116">
+      <body>Oh how awful haha</body>
+    </message>
+    <message id="m0007" time="2013-12-09 03:50:24 UTC" participant="153491">
+      <body>Hardy har har! </body>
+    </message>
+    <message id="m0008" time="2013-12-09 03:51:23 UTC" participant="153491">
+      <body>Hope the weather is better tomorrow. Maybe I won't need/be tempted to take a nap then!</body>
+    </message>
+  </messages>
+</conversation>
+

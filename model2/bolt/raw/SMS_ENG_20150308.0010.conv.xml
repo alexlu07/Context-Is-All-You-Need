@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150308.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-08 23:28:46 UTC" participant="153416">
+      <body>Hey miss! We're back on normal schedule tomorrow right?</body>
+    </message>
+    <message id="m0001" time="2015-03-08 23:29:22 UTC" participant="153412">
+      <body>Yes we are!!! Unfortunately. </body>
+    </message>
+    <message id="m0002" time="2015-03-08 23:32:33 UTC" participant="153416">
+      <body>Haha it's cool with me! It'll be nice to see you.</body>
+    </message>
+    <message id="m0003" time="2015-03-08 23:33:06 UTC" participant="153412">
+      <body>Same here!!! Looking forward to it.</body>
+    </message>
+    <message id="m0004" time="2015-03-08 23:38:44 UTC" participant="153416">
+      <body>:) I'll see you in the morning then!</body>
+    </message>
+    <message id="m0005" time="2015-03-08 23:39:10 UTC" participant="153412">
+      <body>K</body>
+    </message>
+    <message id="m0006" time="2015-03-09 11:25:21 UTC" participant="153416">
+      <body>Ready?</body>
+    </message>
+    <message id="m0007" time="2015-03-09 11:29:57 UTC" participant="153412">
+      <body>Sorry! Yes!</body>
+    </message>
+    <message id="m0008" time="2015-03-09 11:31:14 UTC" participant="153416">
+      <body>No problem lol I'm here</body>
+    </message>
+    <message id="m0009" time="2015-03-09 12:38:02 UTC" participant="153416">
+      <body>Hola! What was the plate just in case?</body>
+    </message>
+    <message id="m0011" time="2015-03-09 13:01:53 UTC" participant="153416">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0012" time="2015-03-09 13:02:50 UTC" participant="153412">
+      <body>No problemo. </body>
+    </message>
+  </messages>
+</conversation>
+

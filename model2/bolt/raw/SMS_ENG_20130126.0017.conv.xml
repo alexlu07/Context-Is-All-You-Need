@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133056" time="2013-01-26 15:50:21 UTC">
+      <body>Good luck at your show tonight!!</body>
+    </message>
+    <message id="m0001" participant="133303" time="2013-01-26 17:23:45 UTC">
+      <body>Thanks I'll need it</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-01-26 17:38:56 UTC">
+      <body>Oh stop, you're going to be wonderful =)</body>
+    </message>
+    <message id="m0003" participant="133303" time="2013-01-26 18:42:07 UTC">
+      <body>Meh. I'm not so sure, but I appreciate it</body>
+    </message>
+    <message id="m0004" participant="133056" time="2013-01-26 18:44:54 UTC">
+      <body>You will be fine! And after all, it's gonna be your last gig for a while</body>
+    </message>
+    <message id="m0005" participant="133303" time="2013-01-26 18:46:24 UTC">
+      <body>It is. What're you up to today?</body>
+    </message>
+    <message id="m0006" participant="133303" time="2013-01-26 18:46:24 UTC">
+      <body>Nooooo. Going home and going to sleep. I drove Erin to work then slept until noon. I can't seem to wake up today</body>
+    </message>
+    <message id="m0007" participant="133056" time="2013-01-26 18:47:07 UTC">
+      <body>Going on last minute errands and packing up for school. Any plans after your show?</body>
+    </message>
+    <message id="m0008" participant="133056" time="2013-01-26 18:50:52 UTC">
+      <body>Oh Bo! You're probably overworked</body>
+    </message>
+  </messages>
+</conversation>

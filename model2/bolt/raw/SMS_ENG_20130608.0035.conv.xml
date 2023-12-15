@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132551" time="2013-06-08 20:14:16 UTC">
+      <body>You going to that party tomorrow? I'm about to come thru!</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-08 20:15:41 UTC">
+      <body>Haha maybe. I kinda wanna see what happens</body>
+    </message>
+    <message id="m0002" participant="132551" time="2013-06-08 20:17:49 UTC">
+      <body>Well lets go! </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-08 20:23:32 UTC">
+      <body>Depends what time I get home from NYC tomorrow. I'll let u kno</body>
+    </message>
+    <message id="m0004" participant="132551" time="2013-06-08 21:37:06 UTC">
+      <body>Oh word. Tell agata I said hi</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-06-08 21:43:33 UTC">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>

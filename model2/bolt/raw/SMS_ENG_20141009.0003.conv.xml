@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141009.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-09 14:21:43 UTC" participant="152584">
+      <body>Hey! Do you mind if we do 30 minutes today? 11:30-12?</body>
+    </message>
+    <message id="m0001" time="2014-10-09 14:37:25 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2014-10-09 15:21:28 UTC" participant="152584">
+      <body>Are you in a room?</body>
+    </message>
+    <message id="m0003" time="2014-10-09 15:21:51 UTC" participant="152417">
+      <body>714</body>
+    </message>
+  </messages>
+</conversation>
+

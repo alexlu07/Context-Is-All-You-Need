@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140722.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-22 12:57:16 UTC" participant="153546">
+      <body>I just got to Bartley</body>
+    </message>
+    <message id="m0001" time="2014-07-22 13:15:02 UTC" participant="153491">
+      <body>Oh yay!!! Can you meet me in the room I was in yesterday in like 25 minutes?</body>
+    </message>
+    <message id="m0002" time="2014-07-22 13:27:11 UTC" participant="153546">
+      <body>I'm in the classroom going over everything...</body>
+    </message>
+  </messages>
+</conversation>
+

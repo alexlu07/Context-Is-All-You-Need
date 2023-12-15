@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130727.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131201" time="2013-07-27 13:45:22 UTC">
+      <body>Hello. How are you in this lovely sat.</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-07-27 16:21:35 UTC">
+      <body>All is well. How are you?</body>
+    </message>
+    <message id="m0002" participant="131201" time="2013-07-27 17:15:29 UTC">
+      <body>Good. Had an early day with my niece</body>
+    </message>
+    <message id="m0003" participant="131201" time="2013-07-27 17:15:34 UTC">
+      <body>She's 3.</body>
+    </message>
+    <message id="m0004" participant="131201" time="2013-07-27 17:15:39 UTC">
+      <body>But it's cold in the bay today!</body>
+    </message>
+    <message id="m0005" participant="131201" time="2013-07-27 17:16:05 UTC">
+      <body>Such weird weather. Bc it was super nice yesterday.</body>
+    </message>
+  </messages>
+</conversation>

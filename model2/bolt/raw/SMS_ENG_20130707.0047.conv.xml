@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136639" time="2013-07-07 04:06:33 UTC">
+      <body>Yo </body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-07-07 04:07:45 UTC">
+      <body>Yo</body>
+    </message>
+    <message id="m0002" participant="136639" time="2013-07-07 04:08:02 UTC">
+      <body>How was it? </body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-07 04:08:41 UTC">
+      <body>Good time. Spent more than i should have but it was fun</body>
+    </message>
+    <message id="m0004" participant="136639" time="2013-07-07 04:09:04 UTC">
+      <body>How bad was ths damage? </body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-07-07 04:09:53 UTC">
+      <body>For which</body>
+    </message>
+    <message id="m0006" participant="136639" time="2013-07-07 04:10:21 UTC">
+      <body>How much did you spend? </body>
+    </message>
+    <message id="m0007" participant="136639" time="2013-07-07 04:17:47 UTC">
+      <body>And what do i owe for Carl? </body>
+    </message>
+    <message id="m0008" participant="136639" time="2013-07-07 22:46:15 UTC">
+      <body>Update on Chunky? Is he behaving? </body>
+    </message>
+    <message id="m0009" participant="130693" time="2013-07-07 23:37:11 UTC">
+      <body>Yup yup. Didn't eat much. Few treats though. Doing well</body>
+    </message>
+    <message id="m0010" participant="136639" time="2013-07-08 02:57:47 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0011" participant="130693" time="2013-07-08 02:58:11 UTC">
+      <body>Yo</body>
+    </message>
+    <message id="m0012" participant="136639" time="2013-07-08 02:58:27 UTC">
+      <body>I'm parked outside. Could you bring chunky down? </body>
+    </message>
+    <message id="m0013" participant="130693" time="2013-07-08 02:58:50 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0014" participant="136639" time="2013-07-08 02:59:29 UTC">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>

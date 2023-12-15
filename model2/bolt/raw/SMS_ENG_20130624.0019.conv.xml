@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130680" time="2013-06-24 17:40:55 UTC">
+      <body>hey there! how's your Monday going?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-24 17:50:03 UTC">
+      <body>Not bad</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-24 17:50:08 UTC">
+      <body>Works over</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-24 17:50:25 UTC">
+      <body>Yours?</body>
+    </message>
+    <message id="m0004" participant="130680" time="2013-06-24 17:57:16 UTC">
+      <body>it's okay. I'm also done work. it's really hot here today.</body>
+    </message>
+    <message id="m0005" participant="130680" time="2013-06-24 17:57:50 UTC">
+      <body>Do you like summer weather where you live?</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-06-24 18:08:43 UTC">
+      <body>Not a fan of r heat</body>
+    </message>
+    <message id="m0007" participant="130680" time="2013-06-24 19:10:07 UTC">
+      <body>what part of the country do you live in?</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-06-24 20:18:49 UTC">
+      <body>Philly area. You?</body>
+    </message>
+    <message id="m0009" participant="130680" time="2013-06-24 22:08:02 UTC">
+      <body>cool! me too.</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-06-25 08:19:31 UTC">
+      <body>You from philly originally?</body>
+    </message>
+    <message id="m0011" participant="130680" time="2013-06-25 08:34:27 UTC">
+      <body>Nope, NYC. Been here for 8 years though. What about you?</body>
+    </message>
+    <message id="m0012" participant="130979" time="2013-06-25 09:54:47 UTC">
+      <body>From Seattle.</body>
+    </message>
+    <message id="m0013" participant="130979" time="2013-06-25 09:55:01 UTC">
+      <body>Philly for about 7 years</body>
+    </message>
+    <message id="m0014" participant="130680" time="2013-06-25 10:05:01 UTC">
+      <body>what brought you to Philly ?</body>
+    </message>
+    <message id="m0015" participant="130979" time="2013-06-25 11:31:51 UTC">
+      <body>Work/wife. Been on the east coast for. About 15 hears</body>
+    </message>
+    <message id="m0016" participant="130979" time="2013-06-25 11:31:57 UTC">
+      <body>Years</body>
+    </message>
+    <message id="m0017" participant="130680" time="2013-06-25 15:25:04 UTC">
+      <body>What kind of work do you do?</body>
+    </message>
+    <message id="m0018" participant="130979" time="2013-06-25 15:35:09 UTC">
+      <body>Business Development for a marketing firm. U?</body>
+    </message>
+    <message id="m0019" participant="130680" time="2013-06-25 15:49:41 UTC">
+      <body>I do grassroots fundraising for a youth organizing group, fighting to save public education</body>
+    </message>
+    <message id="m0020" participant="130979" time="2013-06-25 15:52:01 UTC">
+      <body>I like it.</body>
+    </message>
+    <message id="m0021" participant="130680" time="2013-06-25 16:01:52 UTC">
+      <body>cool.</body>
+    </message>
+  </messages>
+</conversation>

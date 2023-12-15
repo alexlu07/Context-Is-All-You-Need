@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120825.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-08-25 23:36:14 UTC">
+      <body>Hey lady what is your weekend like? I'm heading home early</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-08-25 23:36:45 UTC">
+      <body>Ugh. Come over? Packing</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-08-25 23:38:14 UTC">
+      <body>I'm driving but will come there when I get in? Bring wine? </body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-08-25 23:39:03 UTC">
+      <body>Yeeeees!</body>
+    </message>
+    <message id="m0004" participant="131053" time="2012-08-25 23:47:22 UTC">
+      <body>Whats ur eta?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-08-25 23:58:26 UTC">
+      <body>Leaving Lancaster proper now</body>
+    </message>
+    <message id="m0006" participant="131053" time="2012-08-25 23:58:50 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

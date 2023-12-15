@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133111" time="2013-04-13 15:45:43 UTC">
+      <body>Hi Jennifer, do you have an ETA on my thesis edits?</body>
+    </message>
+    <message id="m0001" participant="133116" time="2013-04-13 15:46:45 UTC">
+      <body>I sent them to you last night. Did you check ?</body>
+    </message>
+    <message id="m0002" participant="133111" time="2013-04-13 15:47:46 UTC">
+      <body>I just did let me see if I can reload the inbox</body>
+    </message>
+    <message id="m0003" participant="133116" time="2013-04-13 15:48:53 UTC">
+      <body>My email client shows the message was sent at 9:57pm. CT</body>
+    </message>
+    <message id="m0004" participant="133111" time="2013-04-13 15:49:22 UTC">
+      <body>They didn't show up in my inbox but I found them with the search</body>
+    </message>
+    <message id="m0005" participant="133116" time="2013-04-13 15:49:55 UTC">
+      <body>Weird. So you have it now?</body>
+    </message>
+    <message id="m0006" participant="133111" time="2013-04-13 15:50:30 UTC">
+      <body>Yes I do, thanks</body>
+    </message>
+    <message id="m0007" participant="133111" time="2013-04-13 15:50:45 UTC">
+      <body>Time to make the final push</body>
+    </message>
+    <message id="m0008" participant="133116" time="2013-04-13 15:51:04 UTC">
+      <body>Ok. Let me know if you have questions</body>
+    </message>
+    <message id="m0009" participant="133111" time="2013-04-13 15:51:23 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

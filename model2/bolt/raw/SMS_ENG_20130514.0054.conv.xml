@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-14 23:44:04 UTC">
+      <body>I'm gonna do ezy pzy tomorrow just a heads up</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-05-15 22:10:18 UTC">
+      <body>We grabbed a table at the dinner. We're by the food!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-15 22:11:30 UTC">
+      <body>Ok we are getting back to campus now and we are gonna run and change. </body>
+    </message>
+    <message id="m0003" participant="135275" time="2013-05-16 03:18:28 UTC">
+      <body>Elise wants to head out so I'm gonna leave with her on the next bus probably</body>
+    </message>
+  </messages>
+</conversation>

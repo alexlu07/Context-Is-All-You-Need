@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110910.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-10 03:08:03 UTC">
+      <body>Keep me updated please. Im cleaning up. Is there anything I can do? Is he ok?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-09-10 03:13:16 UTC">
+      <body>Would you put all the bloody stuff in the washes on soak. Cold waters. I'll let you know</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-10 03:16:44 UTC">
+      <body>I threw the underwear and am stain treating the rug. Are the sheets on the banister bloody bc I'll do those too</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-10 03:17:06 UTC">
+      <body>Where is he bleeding from?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-10 03:20:37 UTC">
+      <body>I found the stuff in the chute</body>
+    </message>
+    <message id="m0005" participant="135103" time="2011-09-10 04:45:41 UTC">
+      <body>We'll be here for awhile. They're doing blood work</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-09-10 04:46:36 UTC">
+      <body>Why are they doing blood work? Do they suspect more issues?</body>
+    </message>
+    <message id="m0007" participant="135103" time="2011-09-10 04:47:22 UTC">
+      <body>I'm not sure</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-09-11 00:36:45 UTC">
+      <body>Is dad ok?</body>
+    </message>
+  </messages>
+</conversation>

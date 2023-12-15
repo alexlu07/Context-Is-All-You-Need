@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131103.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-03 17:24:54 UTC" participant="152417">
+      <body>1 it is</body>
+    </message>
+    <message id="m0001" time="2013-11-03 17:29:09 UTC" participant="152560">
+      <body>See you then love.</body>
+    </message>
+    <message id="m0002" time="2013-11-03 17:52:16 UTC" participant="152417">
+      <body>Sry make that 130</body>
+    </message>
+    <message id="m0003" time="2013-11-03 17:58:48 UTC" participant="152560">
+      <body>No prob; I will wait for you here outside.</body>
+    </message>
+  </messages>
+</conversation>
+

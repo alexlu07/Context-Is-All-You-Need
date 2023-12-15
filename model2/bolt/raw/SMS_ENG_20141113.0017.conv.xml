@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 00:54:03 UTC" participant="153472">
+      <body>I forget. When is our show? Nov. 19 or Dec. 19?</body>
+    </message>
+    <message id="m0001" time="2014-11-13 00:56:34 UTC" participant="152374">
+      <body>November! </body>
+    </message>
+    <message id="m0002" time="2014-11-13 00:57:41 UTC" participant="153472">
+      <body>Cool! That's next week! </body>
+    </message>
+  </messages>
+</conversation>
+

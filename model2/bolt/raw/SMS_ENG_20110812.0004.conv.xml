@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110812.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135129" time="2011-08-12 17:30:57 UTC">
+      <body>Lunch? Now?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-12 17:31:54 UTC">
+      <body>Ugh im swamped and Have no appetite. Sorry, I can't!</body>
+    </message>
+    <message id="m0002" participant="135129" time="2011-08-12 17:33:36 UTC">
+      <body>No worries!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140503.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-03 16:48:07 UTC" participant="153418">
+      <body>Hey Jim, sorry I missed your call. If you're still around, I'd like to see the upstairs apartment. I'll be available the rest of the day, so we can do this whenever it's convenient for you. </body>
+    </message>
+    <message id="m0001" time="2014-05-04 16:06:53 UTC" participant="153418">
+      <body>Hey Jim, would you happen to be around today to discuss about the apartment?</body>
+    </message>
+    <message id="m0002" time="2014-05-04 16:07:59 UTC" participant="153448">
+      <body>Sure. I am not in area but we can talk by phone.</body>
+    </message>
+    <message id="m0003" time="2014-05-04 16:08:52 UTC" participant="153418">
+      <body>Okay. When would be good for you? </body>
+    </message>
+    <message id="m0004" time="2014-05-04 16:09:40 UTC" participant="153448">
+      <body>10 minutes I will call you if that works.</body>
+    </message>
+    <message id="m0005" time="2014-05-04 16:10:06 UTC" participant="153418">
+      <body>Sure. I'll be waiting for your call.</body>
+    </message>
+  </messages>
+</conversation>
+

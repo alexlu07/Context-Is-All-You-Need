@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-28 21:59:15 UTC">
+      <body>U around?</body>
+    </message>
+    <message id="m0001" participant="135399" time="2013-05-28 22:05:04 UTC">
+      <body>Sort of whats up</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-28 22:05:38 UTC">
+      <body>I'm back I'm Philly was thinking of meeting up with Ingrid for dinner. You going to bed early?</body>
+    </message>
+    <message id="m0003" participant="135399" time="2013-05-28 22:09:55 UTC">
+      <body>Where are you going</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-28 22:26:17 UTC">
+      <body>I dunno yet should know any minute</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-28 22:28:52 UTC">
+      <body>Somewhere around here any places that would coerce you out?</body>
+    </message>
+    <message id="m0006" participant="135399" time="2013-05-28 22:33:49 UTC">
+      <body>As much as id love to see the both of you i think i might keep it any early evening im already pretty beat </body>
+    </message>
+    <message id="m0007" participant="135399" time="2013-05-28 22:43:28 UTC">
+      <body>Say hello to ingrid for me and thank you for thinking of me im sorry i have to be lame</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-05-28 22:44:06 UTC">
+      <body>Ok cool</body>
+    </message>
+  </messages>
+</conversation>

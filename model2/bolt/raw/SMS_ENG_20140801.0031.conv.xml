@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140801.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-01 02:12:13 UTC" participant="153895">
+      <body>Hey what's the price of Ryans two cakes if you deliver them tomorrow?  My mom is gonna pay for the cake.</body>
+    </message>
+    <message id="m0001" time="2014-08-01 02:37:40 UTC" participant="153244">
+      <body>south philly delivery? $102</body>
+    </message>
+    <message id="m0002" time="2014-08-01 03:04:08 UTC" participant="153895">
+      <body>Yes.   I'm at Stella Maris. </body>
+    </message>
+    <message id="m0003" time="2014-08-01 03:05:28 UTC" participant="153244">
+      <body>Ok cool, $102 total</body>
+    </message>
+    <message id="m0004" time="2014-08-01 12:14:34 UTC" participant="153895">
+      <body>What's the latest you can drop the cake off? And does it have to be kept in the fridge?  </body>
+    </message>
+    <message id="m0005" time="2014-08-01 12:42:26 UTC" participant="153244">
+      <body>Either before 8:00 or after 10:00.. and yea refrigerated</body>
+    </message>
+    <message id="m0006" time="2014-08-01 12:43:29 UTC" participant="153895">
+      <body>I'm thinking maybe after 10. I have cooking and setting up to do and I need to clear out the fridge for it to fit. </body>
+    </message>
+    <message id="m0007" time="2014-08-01 12:44:51 UTC" participant="153244">
+      <body>Ok that's fine I have something from 8-10 tonight so can grab it once im home and then drop it off real quick</body>
+    </message>
+    <message id="m0008" time="2014-08-01 12:45:42 UTC" participant="153895">
+      <body>Awesome thank you! My apartment looks like it threw up bubble guppies haha </body>
+    </message>
+    <message id="m0009" time="2014-08-01 12:46:27 UTC" participant="153244">
+      <body>Lmao! </body>
+    </message>
+    <message id="m0010" time="2014-08-01 12:53:59 UTC" participant="153895">
+      <body>If you aren't busy you girls are more then welcome to stop by and have some food and wine. </body>
+    </message>
+    <message id="m0011" time="2014-08-01 12:57:38 UTC" participant="153244">
+      <body>Thanks you but we have work at 8 am tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

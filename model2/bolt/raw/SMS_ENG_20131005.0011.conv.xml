@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131005.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-05 20:01:59 UTC" participant="154401">
+      <body>Il be there after 6 :)</body>
+    </message>
+    <message id="m0001" time="2013-10-05 20:02:28 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2013-10-05 22:06:59 UTC" participant="154401">
+      <body>Im catching the 6 30 train</body>
+    </message>
+    <message id="m0003" time="2013-10-05 22:11:47 UTC" participant="154352">
+      <body>Horay</body>
+    </message>
+    <message id="m0004" time="2013-10-05 22:26:37 UTC" participant="154401">
+      <body>:D</body>
+    </message>
+    <message id="m0005" time="2013-10-05 23:02:04 UTC" participant="154401">
+      <body>Passing prospect park</body>
+    </message>
+    <message id="m0006" time="2013-10-06 17:53:37 UTC" participant="154352">
+      <body>You coming back out?</body>
+    </message>
+  </messages>
+</conversation>
+

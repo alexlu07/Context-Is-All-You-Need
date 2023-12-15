@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140805.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-05 13:21:51 UTC" participant="153547">
+      <body>Are you coming to cobbs  creek?</body>
+    </message>
+    <message id="m0001" time="2014-08-05 13:24:34 UTC" participant="153562">
+      <body>I cant make it this morning actually...wish I could. Let me know how it is!</body>
+    </message>
+    <message id="m0002" time="2014-08-06 04:41:15 UTC" participant="153562">
+      <body>Who was the new mushroom man on the walk today?</body>
+    </message>
+  </messages>
+</conversation>
+

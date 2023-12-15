@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-13 00:23:28 UTC" participant="153283">
+      <body>!!! So many of my favorite people are in LA this week</body>
+    </message>
+    <message id="m0001" time="2013-02-13 00:24:04 UTC" participant="152734">
+      <body>You know your BFF Megan? We both rode the Santa monica ferris wheel like an hour apart this afternoon! Smallest world. </body>
+    </message>
+    <message id="m0002" time="2013-02-13 01:02:02 UTC" participant="152734">
+      <body>Catch a cab and meet us!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135473" time="2013-04-11 22:46:33 UTC">
+      <body>Hey can you send me the video of the people using my machine </body>
+    </message>
+    <message id="m0001" participant="135473" time="2013-04-12 16:23:28 UTC">
+      <body>Thank you!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-12 16:23:45 UTC">
+      <body>Of course!!!!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-12 16:23:47 UTC">
+      <body>;)</body>
+    </message>
+  </messages>
+</conversation>

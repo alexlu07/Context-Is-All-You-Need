@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120521.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-21 19:27:47 UTC">
+      <body>You missed the Econ test! Omg</body>
+    </message>
+    <message id="m0001" participant="136208" time="2012-05-21 19:28:48 UTC">
+      <body>I know, im a horrible person bleh :(</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-21 19:29:14 UTC">
+      <body>Nah it's cool. Whatevah. Omg Andrews having a party. Mad hype</body>
+    </message>
+  </messages>
+</conversation>

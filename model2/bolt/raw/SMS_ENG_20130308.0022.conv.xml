@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131028" time="2013-03-08 01:01:31 UTC">
+      <body>Can you check with your mom to make sure she got the check I sent her for Borba swing??</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-03-08 01:02:23 UTC">
+      <body>She did! She mentioned it the other day.</body>
+    </message>
+    <message id="m0002" participant="131028" time="2013-03-08 01:02:47 UTC">
+      <body>Oh good !</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-03-08 01:06:06 UTC">
+      <body>Skyping Sunday would be great! Not sure what time will work for me, but I'll let you know! When's good for you?</body>
+    </message>
+    <message id="m0004" participant="131028" time="2013-03-08 01:11:21 UTC">
+      <body>Morning is good for me. Let me know when works for you!</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-03-08 01:11:43 UTC">
+      <body>Ok, I will!!</body>
+    </message>
+    <message id="m0006" participant="131028" time="2013-03-08 01:13:44 UTC">
+      <body/>
+    </message>
+    <message id="m0007" participant="130712" time="2013-03-08 01:13:56 UTC">
+      <body>xoxoxo</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150117.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-17 18:02:52 UTC" participant="152128">
+      <body>Hey Pang Pang! What time did you want to go out today?</body>
+    </message>
+    <message id="m0001" time="2015-01-17 18:03:34 UTC" participant="153418">
+      <body>I'm free after 4:30.</body>
+    </message>
+    <message id="m0002" time="2015-01-17 18:06:01 UTC" participant="152128">
+      <body>Okay. Well I going over to my sister's to babysit later for a few hours. So I would  be heading out after that. Did you have anything in mind</body>
+    </message>
+    <message id="m0003" time="2015-01-17 18:07:12 UTC" participant="152128">
+      <body>?</body>
+    </message>
+    <message id="m0004" time="2015-01-17 18:07:39 UTC" participant="153418">
+      <body> Nope. I haven't really thought about it.</body>
+    </message>
+    <message id="m0005" time="2015-01-17 18:09:05 UTC" participant="152128">
+      <body>Did you want to do dinner around 8 then? And the  go out afterwards?</body>
+    </message>
+    <message id="m0006" time="2015-01-17 18:09:17 UTC" participant="152128">
+      <body>*then</body>
+    </message>
+    <message id="m0007" time="2015-01-17 18:09:29 UTC" participant="153418">
+      <body> Sure, no problem.</body>
+    </message>
+    <message id="m0008" time="2015-01-17 18:10:22 UTC" participant="152128">
+      <body>If you want to go out earlier, maybe our other friends might want to?</body>
+    </message>
+    <message id="m0010" time="2015-01-17 18:13:11 UTC" participant="152128">
+      <body>Okay.</body>
+    </message>
+    <message id="m0011" time="2015-01-18 00:34:16 UTC" participant="152128">
+      <body>Hey John, sorry I'm going to be late. I'm still with my nephews because My sister isn't home yet. She said she's on her way.</body>
+    </message>
+    <message id="m0012" time="2015-01-18 00:58:26 UTC" participant="153418">
+      <body>What time do you think you'll be out? </body>
+    </message>
+    <message id="m0013" time="2015-01-18 01:18:48 UTC" participant="152128">
+      <body>Leaving now. Where are you?</body>
+    </message>
+    <message id="m0014" time="2015-01-18 16:55:37 UTC" participant="153418">
+      <body>Hey, I'm gonna cancel today.
+It's going to be dangerous going home tonight, so I need to leave soon </body>
+    </message>
+    <message id="m0015" time="2015-01-18 16:55:42 UTC" participant="153418">
+      <body>Sorry about that.</body>
+    </message>
+    <message id="m0016" time="2015-01-18 17:20:22 UTC" participant="152128">
+      <body>Don't be sorry! I woke up and was reading that it's nasty outside. Please be careful going home and we can totally get Pho any time the next time you're back :)</body>
+    </message>
+  </messages>
+</conversation>
+

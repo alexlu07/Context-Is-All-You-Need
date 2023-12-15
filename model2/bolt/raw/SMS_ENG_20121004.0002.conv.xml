@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121004.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131205" time="2012-10-04 14:21:52 UTC">
+      <body>How did the retail therapy make u feel?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-04 14:32:07 UTC">
+      <body>It helped a bit. I wish we were already eating lunch, I don't want to go to esem</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-10-04 19:15:58 UTC">
+      <body> Hey. I'm done already, might just come over?</body>
+    </message>
+    <message id="m0003" participant="131205" time="2012-10-04 19:16:12 UTC">
+      <body>Yep!!</body>
+    </message>
+    <message id="m0004" participant="131205" time="2012-10-04 19:16:16 UTC">
+      <body>I've got studying stuffs to do but I'll feed ya</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-10-04 19:23:56 UTC">
+      <body>Yeah I too have much studying to do</body>
+    </message>
+    <message id="m0006" participant="131205" time="2012-10-04 19:24:15 UTC">
+      <body>Me2 :(</body>
+    </message>
+    <message id="m0007" participant="131205" time="2012-10-04 19:24:28 UTC">
+      <body>Just come up, doors unlocked</body>
+    </message>
+    <message id="m0008" participant="131205" time="2012-10-04 19:31:07 UTC">
+      <body>Wait r u coming over?</body>
+    </message>
+    <message id="m0009" participant="131205" time="2012-10-04 19:31:12 UTC">
+      <body>K. I'm leaving around 4:30</body>
+    </message>
+    <message id="m0010" participant="130664" time="2012-10-04 19:31:40 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

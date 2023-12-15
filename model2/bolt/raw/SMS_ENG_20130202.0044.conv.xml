@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-02 04:41:39 UTC" participant="154392">
+      <body>How was the event?   I had too much stuff to do so I couldn't make it.</body>
+    </message>
+    <message id="m0001" time="2013-02-02 19:51:10 UTC" participant="154392">
+      <body>Get your groundhog day foursquare badge by putting "groundhog" in your comment</body>
+    </message>
+    <message id="m0002" time="2013-02-02 21:07:35 UTC" participant="154352">
+      <body>Thanks for the reminder. Did you check out those Elk videos I sent you?</body>
+    </message>
+    <message id="m0003" time="2013-02-02 21:28:42 UTC" participant="154392">
+      <body>I checked out the ones I was in. The cinematography was excellent.  I on the otherhand need some improvement.</body>
+    </message>
+  </messages>
+</conversation>
+

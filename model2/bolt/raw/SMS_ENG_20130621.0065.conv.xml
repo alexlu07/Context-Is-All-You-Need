@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-21 21:00:08 UTC" participant="152374">
+      <body>Hey, let me know what section and row number you're in tomorrow, I'll try to say hi</body>
+    </message>
+    <message id="m0001" time="2013-06-21 21:03:28 UTC" participant="153490">
+      <body>Section 236 row 1..what bout u</body>
+    </message>
+    <message id="m0002" time="2013-06-21 21:04:15 UTC" participant="152374">
+      <body>138,  13. No throwing stuff au my head! ;-)</body>
+    </message>
+    <message id="m0003" time="2013-06-21 22:51:27 UTC" participant="153490">
+      <body>What time do they open the gates tomorrow?</body>
+    </message>
+    <message id="m0004" time="2013-06-21 22:58:07 UTC" participant="152374">
+      <body>Ashburn alley should be open two and a half hours before game time for watching batting practice</body>
+    </message>
+  </messages>
+</conversation>
+

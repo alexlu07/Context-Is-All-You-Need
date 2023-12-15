@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2013-06-04 21:46:28 UTC">
+      <body>Tomorrow is Wednesday. If the FedEx goes out tomorrow, it will arrive Thursday, not Friday. </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-04 21:47:03 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

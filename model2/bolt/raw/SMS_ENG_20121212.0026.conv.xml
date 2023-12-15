@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-12-12 22:52:14 UTC">
+      <body>Let me know your itinerary and please send me more songs</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-12 22:58:12 UTC">
+      <body>Ok if I get any more I will send them. I get into laguardia on Saturday the 15th at 4pm. I leave for Atlanta on January 13th at noon</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-12-12 23:00:10 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

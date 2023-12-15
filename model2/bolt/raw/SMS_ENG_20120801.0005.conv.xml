@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120801.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-08-01 19:47:33 UTC">
+      <body>Oh my gosh, so exciting! Good luck!!!!!!</body>
+    </message>
+    <message id="m0001" participant="131285" time="2012-08-01 19:50:51 UTC">
+      <body>Thanks :)</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-08-01 23:06:23 UTC">
+      <body>Congratulations!!!! Enjoy getting to know your little boy! So sweet!</body>
+    </message>
+    <message id="m0003" participant="131285" time="2012-08-01 23:06:57 UTC">
+      <body>Thanks :)</body>
+    </message>
+  </messages>
+</conversation>

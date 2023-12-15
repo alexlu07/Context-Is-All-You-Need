@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-20 22:48:29 UTC">
+      <body>Hey! Who's driving tomorrow? And what time should we meet?</body>
+    </message>
+    <message id="m0001" participant="135305" time="2013-02-20 22:51:44 UTC">
+      <body>I don't have my car right now :( where and when do you want to meet? </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-20 22:53:05 UTC">
+      <body>Blue bus stop. Do you remember how early we got there last time?</body>
+    </message>
+    <message id="m0003" participant="135305" time="2013-02-20 22:53:33 UTC">
+      <body>Yeah I think by 10 or 15 minutes </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-20 22:53:47 UTC">
+      <body>Ok so 8:10?</body>
+    </message>
+    <message id="m0005" participant="135305" time="2013-02-20 22:53:52 UTC">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150110.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-10 14:23:21 UTC" participant="153547">
+      <body>Be there around 10.</body>
+    </message>
+    <message id="m0001" time="2015-01-10 15:22:30 UTC" participant="153547">
+      <body>Do you have paint trays, rollers and roller covers?</body>
+    </message>
+    <message id="m0002" time="2015-01-10 15:27:34 UTC" participant="153602">
+      <body>I have rollers. Need some covers.</body>
+    </message>
+    <message id="m0003" time="2015-01-10 15:27:58 UTC" participant="153547">
+      <body>You got a paint tray</body>
+    </message>
+    <message id="m0004" time="2015-01-10 15:28:00 UTC" participant="153602">
+      <body>Another tray too
+</body>
+    </message>
+    <message id="m0005" time="2015-01-10 15:29:02 UTC" participant="153547">
+      <body>Ok. I gotta stop by lowes. Be there in an hr.</body>
+    </message>
+    <message id="m0006" time="2015-01-10 15:43:57 UTC" participant="153602">
+      <body>Alright.</body>
+    </message>
+  </messages>
+</conversation>
+

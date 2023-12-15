@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110728.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135129" time="2011-07-28 03:41:00 UTC">
+      <body>We're on our way!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-28 14:50:37 UTC">
+      <body>I forgot i had a docs appt this morning... I left at 8 and am still here! Yeesh. I better not take a lunch. Tomorrow?</body>
+    </message>
+    <message id="m0003" participant="135129" time="2011-07-28 17:10:39 UTC">
+      <body>Wah! Almost down!</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-28 17:11:07 UTC">
+      <body>I can't! Did you get my text?</body>
+    </message>
+    <message id="m0005" participant="135129" time="2011-07-28 17:12:16 UTC">
+      <body>Oh, no i didn't. Whats up?</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-07-28 17:12:29 UTC">
+      <body>I forgot i had a docs appt this morning... I left at 8 and am still here! Yeesh. I better not take a lunch. Tomorrow?</body>
+    </message>
+    <message id="m0007" participant="135129" time="2011-07-28 17:13:13 UTC">
+      <body>Yep, that works.</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-07-28 17:45:21 UTC">
+      <body>I'm sorry that didn't go through :(</body>
+    </message>
+    <message id="m0009" participant="135129" time="2011-07-29 14:42:09 UTC">
+      <body>I realized i cant do lunch today, i sign my new lease today.</body>
+    </message>
+    <message id="m0010" participant="131839" time="2011-07-29 14:42:35 UTC">
+      <body>Ah ok :) well enjoy! Next week?</body>
+    </message>
+    <message id="m0011" participant="135129" time="2011-07-29 14:44:22 UTC">
+      <body>I mean, maybe... If i dont have anything better to do. ;)</body>
+    </message>
+    <message id="m0012" participant="131839" time="2011-07-29 14:45:04 UTC">
+      <body>I won't bring my super drunk touchy feely friend this time?</body>
+    </message>
+    <message id="m0013" participant="135129" time="2011-07-29 14:46:45 UTC">
+      <body>Ha. No worries either way. I totally understand, i communicate with my hands when im drunk, too. ;)</body>
+    </message>
+  </messages>
+</conversation>

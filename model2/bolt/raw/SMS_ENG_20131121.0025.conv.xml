@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131121.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-21 18:34:03 UTC" participant="152116">
+      <body>I have to go to Princeton, NJ tomorrow for an interview. Do you know the best way to get to Jersey? Do you take NJTransit or Patco?</body>
+    </message>
+    <message id="m0001" time="2013-11-21 18:35:50 UTC" participant="153244">
+      <body>Patco only has certain stops so you gotta see if any of them are near Princeton....</body>
+    </message>
+    <message id="m0002" time="2013-11-21 18:36:30 UTC" participant="152116">
+      <body>Okay. But that's cheaper? That's why you did it</body>
+    </message>
+    <message id="m0003" time="2013-11-21 18:36:40 UTC" participant="153244">
+      <body>Google maps the address and use public transportation option. Should tell u what to take</body>
+    </message>
+    <message id="m0004" time="2013-11-21 18:37:19 UTC" participant="153244">
+      <body>I used patco bec the person lived 5 mins from the stop. The other options didn't stop there</body>
+    </message>
+    <message id="m0005" time="2013-11-21 18:37:43 UTC" participant="153244">
+      <body>I can check for you once I'm home.  Can't talk right now</body>
+    </message>
+    <message id="m0006" time="2013-11-21 18:38:09 UTC" participant="152116">
+      <body>Yeah I checke and I think it only have me buses which took two hours but I'll look more into</body>
+    </message>
+    <message id="m0007" time="2013-11-21 18:38:15 UTC" participant="152116">
+      <body>K thanks</body>
+    </message>
+  </messages>
+</conversation>
+

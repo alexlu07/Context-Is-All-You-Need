@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150216.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-16 18:15:24 UTC" participant="152212">
+      <body>Ingrid is having a baby!!!!!</body>
+    </message>
+    <message id="m0001" time="2015-02-16 18:15:32 UTC" participant="152212">
+      <body>I'm going to be an aunt!!!</body>
+    </message>
+    <message id="m0002" time="2015-02-17 10:05:25 UTC" participant="152325">
+      <body>Get up</body>
+    </message>
+    <message id="m0003" time="2015-02-17 10:05:49 UTC" participant="152325">
+      <body>Get</body>
+    </message>
+    <message id="m0004" time="2015-02-17 10:05:54 UTC" participant="152325">
+      <body>Up</body>
+    </message>
+    <message id="m0005" time="2015-02-17 10:05:58 UTC" participant="152212">
+      <body>Yessir</body>
+    </message>
+    <message id="m0006" time="2015-02-17 10:06:06 UTC" participant="152325">
+      <body>Ru</body>
+    </message>
+    <message id="m0007" time="2015-02-17 10:06:20 UTC" participant="152325">
+      <body>Up</body>
+    </message>
+    <message id="m0008" time="2015-02-17 11:29:08 UTC" participant="152212">
+      <body>Now I am</body>
+    </message>
+    <message id="m0009" time="2015-02-17 11:29:10 UTC" participant="152212">
+      <body>Omg</body>
+    </message>
+  </messages>
+</conversation>
+

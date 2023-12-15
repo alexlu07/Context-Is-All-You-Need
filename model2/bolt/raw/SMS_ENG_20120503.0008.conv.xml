@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120503.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-05-03 17:11:30 UTC">
+      <body>Want to watch some basketball tonight?</body>
+    </message>
+    <message id="m0001" participant="131305" time="2012-05-03 23:05:17 UTC">
+      <body>Workin late again man. wish i could</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-05-03 23:05:39 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

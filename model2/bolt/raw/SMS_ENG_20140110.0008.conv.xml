@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140110.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-10 01:08:06 UTC" participant="153572">
+      <body>Did u get package?</body>
+    </message>
+    <message id="m0001" time="2014-01-10 01:55:54 UTC" participant="153547">
+      <body>Yes. Thank you</body>
+    </message>
+    <message id="m0002" time="2014-01-10 13:25:16 UTC" participant="153572">
+      <body>Did u get ur splint?</body>
+    </message>
+    <message id="m0003" time="2014-01-10 13:30:59 UTC" participant="153572">
+      <body>When is art n palm beach?</body>
+    </message>
+    <message id="m0004" time="2014-01-10 13:33:12 UTC" participant="153547">
+      <body>The lady is unreliable so I am having second thoughts about sending my work. I'll talk to you later about it</body>
+    </message>
+    <message id="m0005" time="2014-01-10 13:34:10 UTC" participant="153572">
+      <body>OK</body>
+    </message>
+  </messages>
+</conversation>
+

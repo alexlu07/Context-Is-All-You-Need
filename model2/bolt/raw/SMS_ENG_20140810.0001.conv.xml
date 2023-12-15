@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 21:10:36 UTC" participant="152417">
+      <body>I forgot my concert attire! Thats what i was missing, can you bring my black suit from my closet?</body>
+    </message>
+    <message id="m0001" time="2014-08-10 21:30:30 UTC" participant="152560">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2014-08-11 02:04:14 UTC" participant="152417">
+      <body>Sorry i cant be there tonight, :-(.  I hope you're enjoying your night</body>
+    </message>
+    <message id="m0003" time="2014-08-11 17:40:16 UTC" participant="152560">
+      <body>What time is the concert tonight? What building is it in? </body>
+    </message>
+    <message id="m0004" time="2014-08-11 18:21:20 UTC" participant="152417">
+      <body>830, in the concert hall(upstairs of the same building the dance was in.  Can you bring ny black leather shoes too?  Teyre either on the shelf on top of my dresser or in one of the big tupperwares</body>
+    </message>
+    <message id="m0005" time="2014-08-11 18:22:47 UTC" participant="152560">
+      <body>Yes. See you tonight.</body>
+    </message>
+    <message id="m0006" time="2014-08-11 20:56:32 UTC" participant="152560">
+      <body>I'm leaving at 7 so I get there with enough time for you to put on your suit and get ready. </body>
+    </message>
+    <message id="m0007" time="2014-08-11 20:57:57 UTC" participant="152417">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>
+

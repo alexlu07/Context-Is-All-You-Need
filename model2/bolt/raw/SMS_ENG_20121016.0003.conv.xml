@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121016.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2012-10-16 20:43:07 UTC">
+      <body>Yo! So I should be able to make it to trans by 8, but may be a few late. Just give me a buzz when ya get there! ~ Kennedy </body>
+    </message>
+    <message id="m0001" participant="130932" time="2012-10-16 20:43:44 UTC">
+      <body>Okay cool! I'll probably be a few late so no worries. Also, is this your new number?</body>
+    </message>
+    <message id="m0002" participant="130932" time="2012-10-16 20:45:52 UTC">
+      <body>As in, should I replace the other one I have for you</body>
+    </message>
+    <message id="m0003" participant="130755" time="2012-10-16 20:46:24 UTC">
+      <body>Yuppers! I've had this one a while, while some poor woman in Missouri is still getting inundated with calls to my old #. </body>
+    </message>
+    <message id="m0004" participant="130932" time="2012-10-16 23:36:32 UTC">
+      <body>Can't get into my carshare car! I may be a little late</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-10-16 23:37:28 UTC">
+      <body>Okey doke. Just tell me when yr leavin, only takes me 12 minutes to get over there</body>
+    </message>
+    <message id="m0006" participant="130932" time="2012-10-16 23:38:40 UTC">
+      <body>Ok sweet</body>
+    </message>
+    <message id="m0007" participant="130932" time="2012-10-16 23:51:28 UTC">
+      <body>Still waiting..</body>
+    </message>
+    <message id="m0008" participant="130755" time="2012-10-16 23:52:10 UTC">
+      <body>Lamecakes! It just won't let you in? Weirds.</body>
+    </message>
+    <message id="m0009" participant="130932" time="2012-10-17 01:29:36 UTC">
+      <body>I've got my car sitch worked out for tomorrow, so l'll get there about 830. Thanks!!</body>
+    </message>
+    <message id="m0010" participant="130755" time="2012-10-17 01:29:59 UTC">
+      <body>Coolcool!</body>
+    </message>
+    <message id="m0011" participant="130932" time="2012-10-17 22:15:28 UTC">
+      <body>Hey - I'll give a call when I'm heading over. I may be a little later than 830, but not much.</body>
+    </message>
+    <message id="m0012" participant="130932" time="2012-10-18 22:47:28 UTC">
+      <body>I'll be over around 815. Cool?</body>
+    </message>
+    <message id="m0013" participant="130755" time="2012-10-18 22:48:29 UTC">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0014" participant="130932" time="2012-10-18 23:45:04 UTC">
+      <body>830!</body>
+    </message>
+    <message id="m0015" participant="130755" time="2012-10-18 23:46:18 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0016" participant="130932" time="2012-10-19 00:36:40 UTC">
+      <body>Hey I'm here</body>
+    </message>
+  </messages>
+</conversation>

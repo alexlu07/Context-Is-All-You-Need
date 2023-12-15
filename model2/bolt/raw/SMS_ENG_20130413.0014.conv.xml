@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131369" time="2013-04-13 04:10:47 UTC">
+      <body>Hey Angel....hows it going....whats the earliest you can do timmorow </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-13 04:11:04 UTC">
+      <body>how's 1130am?</body>
+    </message>
+    <message id="m0003" participant="131369" time="2013-04-13 04:54:12 UTC">
+      <body>Awsome see ya then</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-13 05:02:14 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0005" participant="131369" time="2013-04-13 21:25:34 UTC">
+      <body>Did You Hear "Rhythm Nation"Yet</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-04-13 22:17:49 UTC">
+      <body>nope. later.</body>
+    </message>
+    <message id="m0007" participant="131369" time="2013-04-13 22:20:42 UTC">
+      <body>Lol sorry ...shes quick</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-04-14 00:46:05 UTC">
+      <body>don't be sorry - she's awesome!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 23:53:35 UTC" participant="153900">
+      <body>What are you doing</body>
+    </message>
+    <message id="m0001" time="2014-09-21 00:09:25 UTC" participant="153244">
+      <body>At lowes buying paint for my bedroom</body>
+    </message>
+    <message id="m0002" time="2014-09-21 00:27:52 UTC" participant="153900">
+      <body>Have.nt heard from you how you been</body>
+    </message>
+    <message id="m0003" time="2014-09-21 00:38:25 UTC" participant="153244">
+      <body>Been fine... anytime I stop over you were working </body>
+    </message>
+    <message id="m0004" time="2014-09-21 00:39:12 UTC" participant="153900">
+      <body>I know next weekend is my last Phillies game</body>
+    </message>
+    <message id="m0005" time="2014-09-21 00:43:08 UTC" participant="153244">
+      <body>Oh right bec the season ends</body>
+    </message>
+    <message id="m0006" time="2014-09-21 23:20:56 UTC" participant="153244">
+      <body>Yea why</body>
+    </message>
+    <message id="m0007" time="2014-09-21 23:24:03 UTC" participant="153900">
+      <body>Dad made  macaroni in crock pot wanted to know if you wanted any</body>
+    </message>
+    <message id="m0008" time="2014-09-21 23:27:11 UTC" participant="153244">
+      <body>Oh I can pick it up after work if any left</body>
+    </message>
+    <message id="m0009" time="2014-09-21 23:28:24 UTC" participant="153900">
+      <body>Yea</body>
+    </message>
+    <message id="m0010" time="2014-09-21 23:29:34 UTC" participant="153244">
+      <body>Ok I get done around 1030</body>
+    </message>
+    <message id="m0011" time="2014-09-21 23:29:58 UTC" participant="153244">
+      <body>Enough for Steph too?</body>
+    </message>
+  </messages>
+</conversation>
+

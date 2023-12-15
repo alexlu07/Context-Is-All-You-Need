@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111008.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135096" time="2011-10-08 16:52:05 UTC">
+      <body>Did you just call on purpose?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-10-08 16:58:29 UTC">
+      <body>Nope my mistake! Your name is next to tim's on my favorites</body>
+    </message>
+    <message id="m0002" participant="135096" time="2011-10-08 17:10:03 UTC">
+      <body>Ha, I see ;)</body>
+    </message>
+  </messages>
+</conversation>

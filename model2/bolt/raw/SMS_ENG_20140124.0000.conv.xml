@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 15:42:27 UTC" participant="149387">
+      <body>Hey. How's it going? Haven't seen you in a while and just wanted to check in. I decided to do the Zoe sit solo (needed the money...), but told Michelle to keep you in mind for other sits. She mentioned you were leaving town? Going someplace warm, I hope!</body>
+    </message>
+    <message id="m0001" time="2014-01-24 16:21:03 UTC" participant="149306">
+      <body>No I'm going back to Boston for my friends bday. I will be down at the galley this weekend if you change ur mind and need help with a walk or two</body>
+    </message>
+    <message id="m0002" time="2014-01-24 16:31:54 UTC" participant="149387">
+      <body>Ok, will do. If I don't see you before you take off for Boston, have fun:-)</body>
+    </message>
+    <message id="m0003" time="2014-01-24 16:35:11 UTC" participant="149306">
+      <body>Thanks! Keep warm this week.</body>
+    </message>
+    <message id="m0004" time="2014-01-24 16:46:56 UTC" participant="149387">
+      <body>You too!</body>
+    </message>
+  </messages>
+</conversation>
+

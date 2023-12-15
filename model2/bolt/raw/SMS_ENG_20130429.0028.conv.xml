@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132550" time="2013-04-29 21:46:23 UTC">
+      <body>Just got your new prescription cards. Go figure. Expire in oct</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-04-29 21:57:12 UTC">
+      <body> Haha OK. I have no idea why they go to your house. I guess they are separate from the school dist or something</body>
+    </message>
+    <message id="m0002" participant="132550" time="2013-04-30 18:35:05 UTC">
+      <body>Freakin' Tatars</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-04-30 18:44:14 UTC">
+      <body>Freakin everybody as you'll see</body>
+    </message>
+  </messages>
+</conversation>

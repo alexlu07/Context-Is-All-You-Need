@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 18:32:59 UTC" participant="153804">
+      <body>Got my phone working again</body>
+    </message>
+    <message id="m0001" time="2014-10-20 21:41:20 UTC" participant="153817">
+      <body>What was wrong?</body>
+    </message>
+    <message id="m0002" time="2014-10-20 21:42:51 UTC" participant="153804">
+      <body>I'm going to a class to figure that out!!</body>
+    </message>
+    <message id="m0003" time="2014-10-21 14:30:00 UTC" participant="153817">
+      <body>Wow really?</body>
+    </message>
+  </messages>
+</conversation>
+

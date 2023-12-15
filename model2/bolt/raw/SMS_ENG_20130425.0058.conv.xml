@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-25 15:33:02 UTC" participant="153489">
+      <body>Hey! Are you going to ##### bday in ac?</body>
+    </message>
+    <message id="m0001" time="2013-04-25 15:59:15 UTC" participant="152374">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2013-04-25 16:00:19 UTC" participant="152374">
+      <body>I have a trip that week and my flight only gets back at 8 on Saturday night, there's just no way</body>
+    </message>
+  </messages>
+</conversation>
+

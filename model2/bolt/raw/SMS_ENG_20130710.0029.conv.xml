@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130870" time="2013-07-10 00:22:40 UTC">
+      <body>(01/02) Hey guys, I have Belle and Sebastian tickets for what I thought was today but is really tomorrow. So I won't be able to make it to rehearsal t</body>
+    </message>
+    <message id="m0001" participant="130870" time="2013-07-10 00:22:44 UTC">
+      <body>(02/02) omorrow night. Really sorry! Let me know if there's anything you want me to look at or focus on</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-10 00:41:12 UTC">
+      <body>Aren't we rehearsing Thursday?</body>
+    </message>
+    <message id="m0003" participant="130870" time="2013-07-10 00:42:10 UTC">
+      <body>That's what I thought but Corey said Wednesday. I'm totally down for Thursday</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-10 00:43:46 UTC">
+      <body>We said Thursday this week, Wednesday NEXT week</body>
+    </message>
+    <message id="m0005" participant="130870" time="2013-07-10 00:44:48 UTC">
+      <body>That's what I said! He believes only his calendar. I'll let him know</body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-07-10 00:45:18 UTC">
+      <body>....calendars are hard :-/</body>
+    </message>
+  </messages>
+</conversation>

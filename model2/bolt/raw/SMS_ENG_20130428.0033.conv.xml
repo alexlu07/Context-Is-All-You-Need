@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133111" time="2013-04-28 19:19:42 UTC">
+      <body>Are you getting groceries in the today?</body>
+    </message>
+    <message id="m0001" participant="133118" time="2013-04-28 19:43:42 UTC">
+      <body>Ah darn just arrived at grocery store, I can come back and pick you up</body>
+    </message>
+    <message id="m0002" participant="133118" time="2013-04-28 19:43:48 UTC">
+      <body>Haven't bought anything yet </body>
+    </message>
+    <message id="m0003" participant="133111" time="2013-04-28 19:44:18 UTC">
+      <body>Lol if you don't mind?</body>
+    </message>
+    <message id="m0004" participant="133111" time="2013-04-28 19:44:33 UTC">
+      <body>:/</body>
+    </message>
+    <message id="m0005" participant="133118" time="2013-04-28 19:44:39 UTC">
+      <body>Yeah no brt</body>
+    </message>
+    <message id="m0006" participant="133118" time="2013-04-28 19:48:29 UTC">
+      <body>Meant to text np, I'm outside</body>
+    </message>
+    <message id="m0007" participant="133118" time="2013-04-28 19:48:32 UTC">
+      <body>Jerry's liquor</body>
+    </message>
+    <message id="m0008" participant="133111" time="2013-04-28 19:50:42 UTC">
+      <body>s*** I forgot my money up stairs</body>
+    </message>
+  </messages>
+</conversation>

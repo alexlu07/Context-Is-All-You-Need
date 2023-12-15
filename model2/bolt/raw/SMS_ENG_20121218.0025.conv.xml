@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121218.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-18 03:23:29 UTC" participant="152417">
+      <body>Hey Vanessa, do you have any time tomorrow that you could take simone out?</body>
+    </message>
+    <message id="m0001" time="2012-12-18 06:01:47 UTC" participant="152533">
+      <body>I am staying in stowe tom..but have been thinking of her</body>
+    </message>
+    <message id="m0002" time="2012-12-18 12:44:11 UTC" participant="152417">
+      <body>Awe, sweet.  Have fun in stowe</body>
+    </message>
+  </messages>
+</conversation>
+

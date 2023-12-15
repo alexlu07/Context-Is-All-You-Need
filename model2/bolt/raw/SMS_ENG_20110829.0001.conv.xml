@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110829.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-29 20:26:39 UTC">
+      <body>What are you doing tonight?</body>
+    </message>
+    <message id="m0001" participant="135098" time="2011-08-29 20:57:42 UTC">
+      <body>Im hanging out in Anoka and then going for some going-away drinks for my friend Claire. You can join!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-29 20:58:53 UTC">
+      <body>Mmk ok. I don't know if I'm much for new people tonight. I sort of wanted to watch the vma's... Hah</body>
+    </message>
+    <message id="m0003" participant="135098" time="2011-08-29 21:02:19 UTC">
+      <body>Ha oh ok! Are you free tomorrow morning/ early afternoon?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-29 21:02:49 UTC">
+      <body>Nope, Medfinance as usual</body>
+    </message>
+    <message id="m0005" participant="135098" time="2011-08-29 21:03:46 UTC">
+      <body>Boo!! Well open mic tomorrow?</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-08-29 21:04:22 UTC">
+      <body>I'm moving tomorrow night :(</body>
+    </message>
+    <message id="m0007" participant="135098" time="2011-08-29 21:09:29 UTC">
+      <body>Oh crap! :(</body>
+    </message>
+    <message id="m0008" participant="135098" time="2011-08-29 22:26:00 UTC">
+      <body>Alright I'm going to open mic tonight with the girls so would you wanna come out for that?</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-08-29 22:26:57 UTC">
+      <body>Depends on how far along I am with stuff, I'll let you know. Thanks for checking :)</body>
+    </message>
+    <message id="m0010" participant="135098" time="2011-08-29 22:28:29 UTC">
+      <body>Of course!</body>
+    </message>
+  </messages>
+</conversation>

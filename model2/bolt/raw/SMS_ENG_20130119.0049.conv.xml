@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-19 00:48:21 UTC" participant="154392">
+      <body>Hey are you planning to go to the MMRBQ?</body>
+    </message>
+    <message id="m0001" time="2013-01-19 01:26:02 UTC" participant="154352">
+      <body>I hadn't thought about it yet this year. It sends like something fun to do. What's your plan?</body>
+    </message>
+    <message id="m0002" time="2013-01-19 01:31:42 UTC" participant="154392">
+      <body>I think they just announced the headliners.  Sound Garden, Alice in</body>
+    </message>
+    <message id="m0003" time="2013-01-19 01:31:52 UTC" participant="154392">
+      <body>Chains and cheap trick.  More bands to be announced.   Didn't you go last yea?</body>
+    </message>
+    <message id="m0004" time="2013-01-19 01:32:56 UTC" participant="154352">
+      <body>I weren't last year. It looks like tickets go on sale next Friday.</body>
+    </message>
+    <message id="m0005" time="2013-01-19 01:33:07 UTC" participant="154352">
+      <body>I went last year</body>
+    </message>
+  </messages>
+</conversation>
+

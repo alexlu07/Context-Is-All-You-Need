@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-28 21:03:41 UTC">
+      <body>Have you booked your flights home yet</body>
+    </message>
+    <message id="m0001" participant="136262" time="2012-11-28 21:16:24 UTC">
+      <body>Yeah im leaving dec. 20th like 6pm. Im flying delta</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-28 21:16:54 UTC">
+      <body>Oh ok never mind I'm going home on the 15th lol</body>
+    </message>
+    <message id="m0003" participant="136262" time="2012-11-28 21:18:16 UTC">
+      <body>Lucky you!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-28 21:19:06 UTC">
+      <body>I'm coming home on January 13th at noon maybe we're on the same flight</body>
+    </message>
+    <message id="m0005" participant="136262" time="2012-11-29 00:13:54 UTC">
+      <body>My flight is jan.13th 11AM</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-29 00:44:40 UTC">
+      <body>Mines at noon I think</body>
+    </message>
+    <message id="m0007" participant="136262" time="2012-11-29 02:03:53 UTC">
+      <body>Ooo maybe ill wait for ya at the airport and we can go back to emory together. But we'll figure dat out closer in time</body>
+    </message>
+  </messages>
+</conversation>

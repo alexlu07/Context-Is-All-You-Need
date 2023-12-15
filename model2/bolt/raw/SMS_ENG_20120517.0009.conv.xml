@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120517.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-17 22:32:00 UTC">
+      <body>Haha thanks :)</body>
+    </message>
+    <message id="m0001" participant="136209" time="2012-05-17 22:33:49 UTC">
+      <body>Np :) </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-17 23:03:08 UTC">
+      <body>So what are ya doin tomorrow</body>
+    </message>
+    <message id="m0003" participant="136209" time="2012-05-17 23:12:14 UTC">
+      <body>Ill text u in a lil I'm at work</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-17 23:12:38 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0005" participant="136209" time="2012-05-17 23:13:19 UTC">
+      <body>And I'm going t the park</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-05-17 23:13:45 UTC">
+      <body>Boooo</body>
+    </message>
+    <message id="m0007" participant="136209" time="2012-05-18 22:21:33 UTC">
+      <body>What's up?</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-05-18 22:24:37 UTC">
+      <body>Shows over. Heading to the park</body>
+    </message>
+    <message id="m0009" participant="136209" time="2012-05-18 22:44:23 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

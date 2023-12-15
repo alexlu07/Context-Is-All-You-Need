@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150330.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-30 01:46:40 UTC" participant="153886">
+      <body>Hey Jenna, could we have the Todman hours booked for the 19th? </body>
+    </message>
+    <message id="m0001" time="2015-03-30 01:46:40 UTC" participant="153886">
+      <body>It's just for backup </body>
+    </message>
+    <message id="m0002" time="2015-03-30 01:48:47 UTC" participant="153848">
+      <body>Absolutely, I’ll book it. </body>
+    </message>
+    <message id="m0003" time="2015-03-30 01:48:48 UTC" participant="153848">
+      <body>Which room do you want?</body>
+    </message>
+    <message id="m0004" time="2015-03-30 01:49:46 UTC" participant="153886">
+      <body>The biggest possible room</body>
+    </message>
+    <message id="m0005" time="2015-03-30 01:49:57 UTC" participant="153886">
+      <body>I think the one in the corner might be best </body>
+    </message>
+    <message id="m0006" time="2015-03-30 01:52:05 UTC" participant="153848">
+      <body>OK... I’ll have to find someone in sight and sound film... I can only book rehearsal and casting rooms. </body>
+    </message>
+    <message id="m0007" time="2015-03-30 01:55:12 UTC" participant="153848">
+      <body>just kidding, i booked it from 10-12:30, we can adjust schedule if necessary I think. </body>
+    </message>
+    <message id="m0008" time="2015-03-30 02:33:36 UTC" participant="153886">
+      <body>Ok awesome thanks </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111113.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2011-11-13 21:28:09 UTC">
+      <body>Dinner 5 15?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-11-13 21:32:19 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="131825" time="2011-11-13 22:17:52 UTC">
+      <body>We have a table in wilcox</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-11-13 22:22:16 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

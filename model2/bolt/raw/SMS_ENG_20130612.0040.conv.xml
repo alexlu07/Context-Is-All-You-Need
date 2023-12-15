@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-06-12 13:30:25 UTC">
+      <body>also can you bring ############### with you when we meet up today? </body>
+    </message>
+    <message id="m0001" participant="136384" time="2013-06-12 14:04:35 UTC">
+      <body>yeah. are you going to my house at all today?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-06-12 14:05:05 UTC">
+      <body>no, why? </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136637" time="2013-06-08 02:34:19 UTC">
+      <body>Hadn't heard much. The rain </body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-08 03:00:27 UTC">
+      <body>Ya. Good house party night</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-08 13:50:03 UTC">
+      <body>Nicole doing some grilling tomorrow. You trying to come thru?</body>
+    </message>
+    <message id="m0003" participant="136637" time="2013-06-08 13:50:44 UTC">
+      <body>Word.  Yeah</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-08 13:53:59 UTC">
+      <body>Just told a few folks. Prolly start around 4</body>
+    </message>
+    <message id="m0005" participant="136637" time="2013-06-08 13:54:58 UTC">
+      <body>Cool. I'll be back from Baltimore around then. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2012-11-11 19:38:54 UTC">
+      <body>Bryn din tonight?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-11 19:55:54 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2012-11-11 19:56:44 UTC">
+      <body>Neato.  How was teaching freshmen?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-11-11 19:58:46 UTC">
+      <body>Ehhhhh</body>
+    </message>
+    <message id="m0004" participant="135274" time="2012-11-11 20:08:36 UTC">
+      <body>Haha, sorry to hear that.  Last one though, right?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-11-11 20:09:27 UTC">
+      <body>Yes! :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130724.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-24 23:20:33 UTC" participant="153244">
+      <body>Moms onher way</body>
+    </message>
+    <message id="m0001" time="2013-07-25 22:29:28 UTC" participant="152116">
+      <body>The washing machine was acting weird earlier. The water never fully drained.</body>
+    </message>
+    <message id="m0002" time="2013-07-25 22:42:14 UTC" participant="153244">
+      <body>Dod you over fill it?</body>
+    </message>
+    <message id="m0003" time="2013-07-25 22:42:24 UTC" participant="153244">
+      <body>Did*</body>
+    </message>
+    <message id="m0004" time="2013-07-25 22:42:42 UTC" participant="152116">
+      <body>No</body>
+    </message>
+    <message id="m0005" time="2013-07-25 22:43:25 UTC" participant="152116">
+      <body>Nothing more than usual. I have towels in the dryer now. But I did my color beforehand and they load was even smaller and it still happened</body>
+    </message>
+    <message id="m0006" time="2013-07-25 22:44:44 UTC" participant="153244">
+      <body>Ok we will check it out</body>
+    </message>
+    <message id="m0007" time="2013-07-25 22:50:10 UTC" participant="152116">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130994" time="2013-06-11 14:17:23 UTC">
+      <body>Hi again</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-06-11 15:36:15 UTC">
+      <body>Hey there how are you?</body>
+    </message>
+    <message id="m0002" participant="130994" time="2013-06-11 15:51:08 UTC">
+      <body>Pretty good</body>
+    </message>
+    <message id="m0003" participant="130994" time="2013-06-11 15:59:34 UTC">
+      <body>Getting ready for a long bike ride sat</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-06-11 16:33:37 UTC">
+      <body>Cool. how long and where to?</body>
+    </message>
+    <message id="m0005" participant="130994" time="2013-06-11 16:46:55 UTC">
+      <body>Up to Provincetown on the cape</body>
+    </message>
+    <message id="m0006" participant="130994" time="2013-06-11 16:46:55 UTC">
+      <body>From Boston area</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-06-11 17:37:36 UTC">
+      <body>Oh how great. i think you were biking last time i texted you.</body>
+    </message>
+    <message id="m0008" participant="130994" time="2013-06-11 17:39:03 UTC">
+      <body>Training for the ride</body>
+    </message>
+    <message id="m0009" participant="130632" time="2013-06-11 21:06:11 UTC">
+      <body>How else do you train?</body>
+    </message>
+  </messages>
+</conversation>

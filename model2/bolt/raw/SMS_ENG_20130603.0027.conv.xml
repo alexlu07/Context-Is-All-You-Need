@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131945" time="2013-06-03 18:45:57 UTC">
+      <body>Rent is paid!  Sorry it's a little late, I just got my wisdom teeth out so I've been out of it for a while.</body>
+    </message>
+    <message id="m0001" participant="131954" time="2013-06-03 18:47:18 UTC">
+      <body>Great, thanks!</body>
+    </message>
+  </messages>
+</conversation>

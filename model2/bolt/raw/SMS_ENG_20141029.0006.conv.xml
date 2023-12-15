@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141029.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-29 01:51:20 UTC" participant="152593">
+      <body>Hey, it's Matt (the guy interested in the car). I sent you an email, but didn't realize until after I replied that you had put your number down. I was just wondering if this Saturday noon works for you?</body>
+    </message>
+    <message id="m0001" time="2014-10-29 01:52:18 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2014-10-29 02:06:53 UTC" participant="152593">
+      <body>Sorry, make that 1. Where are you located at?</body>
+    </message>
+    <message id="m0004" time="2014-10-29 02:45:10 UTC" participant="152593">
+      <body> Alright, I'll see you Saturday</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141205.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-05 23:39:48 UTC" participant="153405">
+      <body>Hey i will pick up the cake when I get home from the mall ok</body>
+    </message>
+    <message id="m0001" time="2014-12-05 23:40:21 UTC" participant="153244">
+      <body>Yea that's fine</body>
+    </message>
+    <message id="m0002" time="2014-12-06 02:44:23 UTC" participant="153405">
+      <body>Are u gonna be awake lol I'm still at the mall</body>
+    </message>
+    <message id="m0003" time="2014-12-06 02:53:54 UTC" participant="153244">
+      <body>What time? </body>
+    </message>
+    <message id="m0004" time="2014-12-06 03:00:09 UTC" participant="153405">
+      <body>Maybe an hr</body>
+    </message>
+    <message id="m0005" time="2014-12-06 03:01:35 UTC" participant="153244">
+      <body>Probably not bec I have work at 8.. what time is the party?</body>
+    </message>
+    <message id="m0006" time="2014-12-06 03:02:14 UTC" participant="153405">
+      <body>It's at 3</body>
+    </message>
+    <message id="m0007" time="2014-12-06 03:02:18 UTC" participant="153405">
+      <body>So I'll need it while ur at work</body>
+    </message>
+    <message id="m0008" time="2014-12-06 03:04:00 UTC" participant="153405">
+      <body>Ok I'm coming now</body>
+    </message>
+    <message id="m0009" time="2014-12-06 03:20:07 UTC" participant="153244">
+      <body> Text when you get here so the dog doesn't freak out from the door bell</body>
+    </message>
+    <message id="m0010" time="2014-12-06 03:45:34 UTC" participant="153405">
+      <body> At Oregon</body>
+    </message>
+  </messages>
+</conversation>
+

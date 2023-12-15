@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120103.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-01-03 01:07:54 UTC">
+      <body>What channel is the game on?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2012-01-03 01:13:24 UTC">
+      <body>Its not on TV</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-01-03 01:13:47 UTC">
+      <body>Where can you watch it?</body>
+    </message>
+    <message id="m0003" participant="135092" time="2012-01-03 01:14:24 UTC">
+      <body>I'm watching on my comp</body>
+    </message>
+  </messages>
+</conversation>

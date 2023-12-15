@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140110.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-10 01:22:50 UTC" participant="153466">
+      <body>You okay? We got suck for almost an hour on the train. And the rest of the evening has gone about as well.</body>
+    </message>
+    <message id="m0001" time="2014-01-10 01:24:40 UTC" participant="152374">
+      <body>He's home... But has to keep a ######## until he can see a ############, which might not happen until Wednesday... So that's lovely.</body>
+    </message>
+    <message id="m0002" time="2014-01-10 01:25:12 UTC" participant="152374">
+      <body>I'm trying to tell myself not to worry before we know what we're dealing with. It's not really working though.</body>
+    </message>
+  </messages>
+</conversation>
+

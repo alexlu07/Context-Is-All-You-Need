@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141002.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-02 02:16:32 UTC" participant="153543">
+      <body>finally home?</body>
+    </message>
+    <message id="m0001" time="2014-10-02 02:17:12 UTC" participant="153491">
+      <body>Yup. How was your meeting?</body>
+    </message>
+    <message id="m0002" time="2014-10-02 02:17:28 UTC" participant="153543">
+      <body>it was alright.. met with an architect.  </body>
+    </message>
+    <message id="m0003" time="2014-10-02 02:18:17 UTC" participant="153491">
+      <body>What are you building now?!</body>
+    </message>
+    <message id="m0004" time="2014-10-02 02:18:27 UTC" participant="153543">
+      <body>hahahah, parent’s house</body>
+    </message>
+    <message id="m0005" time="2014-10-02 02:18:40 UTC" participant="153543">
+      <body>maybe for right now, need to make sure it can happen first.</body>
+    </message>
+    <message id="m0006" time="2014-10-02 02:18:45 UTC" participant="153491">
+      <body>Wait so that's actually happening???</body>
+    </message>
+    <message id="m0007" time="2014-10-02 02:19:36 UTC" participant="153491">
+      <body>Damn, that was fast!</body>
+    </message>
+    <message id="m0008" time="2014-10-02 02:31:28 UTC" participant="153543">
+      <body>hahaha, my parents...</body>
+    </message>
+    <message id="m0009" time="2014-10-02 02:34:32 UTC" participant="153491">
+      <body>I feel ya!</body>
+    </message>
+    <message id="m0010" time="2014-10-02 20:57:59 UTC" participant="153491">
+      <body>Okay, I think I'm going to get back on melatonin again. I'm pissed!</body>
+    </message>
+    <message id="m0011" time="2014-10-03 00:31:23 UTC" participant="153543">
+      <body>what happened?</body>
+    </message>
+    <message id="m0012" time="2014-10-03 02:08:14 UTC" participant="153491">
+      <body>Multiple alarms on TWO phones, in addition to my stereo alarms, still overslept!</body>
+    </message>
+    <message id="m0013" time="2014-10-03 02:09:00 UTC" participant="153543">
+      <body>doesn’t melatonin make your sleep heavier?</body>
+    </message>
+    <message id="m0014" time="2014-10-03 02:12:11 UTC" participant="153491">
+      <body>I think so</body>
+    </message>
+    <message id="m0015" time="2014-10-03 02:12:16 UTC" participant="153543">
+      <body>that is true...</body>
+    </message>
+    <message id="m0016" time="2014-10-03 02:12:38 UTC" participant="153491">
+      <body>I think as long as you give yourself enough hours to sleep, it should be okay.</body>
+    </message>
+  </messages>
+</conversation>
+

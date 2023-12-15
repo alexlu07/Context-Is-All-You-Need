@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110818.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130859" time="2011-08-18 23:57:56 UTC">
+      <body>K. I might be sitting til late so ill let you know if im coming</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-08-18 23:59:24 UTC">
+      <body>No prob</body>
+    </message>
+    <message id="m0002" participant="130859" time="2011-08-24 18:20:18 UTC">
+      <body>Hey im up by girard and can be there in 45. Are you around then?</body>
+    </message>
+    <message id="m0003" participant="130755" time="2011-08-24 18:34:09 UTC">
+      <body>I get off work in 30 and will head straight over, so prolly!</body>
+    </message>
+    <message id="m0004" participant="130859" time="2011-08-24 18:50:22 UTC">
+      <body>Cool. Ill grab a bite and see you there. Need anything? </body>
+    </message>
+    <message id="m0005" participant="130755" time="2011-08-24 19:04:15 UTC">
+      <body>Mmmm....iced coffee?  Thanks!</body>
+    </message>
+    <message id="m0006" participant="130859" time="2011-08-24 19:24:44 UTC">
+      <body>K here</body>
+    </message>
+    <message id="m0007" participant="130755" time="2011-08-24 19:28:12 UTC">
+      <body>On my way</body>
+    </message>
+    <message id="m0008" participant="130859" time="2011-08-28 12:44:16 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0009" participant="130859" time="2011-08-29 20:30:50 UTC">
+      <body>I can be there 515 for sound check. Does that work?</body>
+    </message>
+    <message id="m0010" participant="130755" time="2011-08-29 20:39:51 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0011" participant="130859" time="2011-08-29 21:31:59 UTC">
+      <body>Whats the address? Im on broad and lombard</body>
+    </message>
+  </messages>
+</conversation>

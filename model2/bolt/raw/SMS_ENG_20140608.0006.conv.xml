@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140608.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-08 21:46:51 UTC" participant="153547">
+      <body>The front door to your house is wide open with no one inside</body>
+    </message>
+    <message id="m0001" time="2014-06-08 23:45:08 UTC" participant="153562">
+      <body>Thanks for the heads up man</body>
+    </message>
+    <message id="m0002" time="2014-06-08 23:45:33 UTC" participant="153562">
+      <body>How much of my useless shit did you steal?</body>
+    </message>
+  </messages>
+</conversation>
+

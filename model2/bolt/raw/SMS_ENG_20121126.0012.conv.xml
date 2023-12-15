@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121126.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131028" time="2012-11-26 15:48:01 UTC">
+      <body>Hope your doctors appointment goes well!! Keep me posted</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-11-26 15:58:18 UTC">
+      <body>Thank you!!! You're the greatest.</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-11-26 21:15:58 UTC">
+      <body>They changed my appt to next Monday and didn't bother to tell me!</body>
+    </message>
+    <message id="m0003" participant="131028" time="2012-11-26 21:51:02 UTC">
+      <body>What??? How does that even happen :(</body>
+    </message>
+  </messages>
+</conversation>

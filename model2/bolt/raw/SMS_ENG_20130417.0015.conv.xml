@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-17 22:20:19 UTC">
+      <body>can you get my texts?</body>
+    </message>
+    <message id="m0001" participant="131356" time="2013-04-17 22:21:21 UTC">
+      <body>I  got this one</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-17 22:21:41 UTC">
+      <body>cool. thx.</body>
+    </message>
+    <message id="m0003" participant="131356" time="2013-04-17 22:22:48 UTC">
+      <body>Did u get stood  up</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-17 22:23:16 UTC">
+      <body>i dunno yet.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-17 22:26:24 UTC">
+      <body>she's on her way...</body>
+    </message>
+    <message id="m0006" participant="131356" time="2013-04-17 22:27:05 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-17 22:28:00 UTC">
+      <body>yeah.</body>
+    </message>
+    <message id="m0008" participant="131356" time="2013-04-17 23:51:23 UTC">
+      <body>Toms making me a copy of alladin sane</body>
+    </message>
+  </messages>
+</conversation>

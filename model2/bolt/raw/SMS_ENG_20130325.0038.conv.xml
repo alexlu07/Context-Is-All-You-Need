@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135307" time="2013-03-25 17:40:16 UTC">
+      <body> Hi. There is a 3:10 bus from BMC that gets in at 3:20. So I will be t Zubrow soon after that </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-25 17:48:08 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

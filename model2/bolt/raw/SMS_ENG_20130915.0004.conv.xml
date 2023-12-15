@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130915.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-15 00:22:21 UTC" participant="154352">
+      <body>I see the Phillies nationals game on TV. Are you there?</body>
+    </message>
+    <message id="m0001" time="2013-09-15 04:20:50 UTC" participant="154390">
+      <body>I was there! Great game, had my phone off then. Wore my phils shirt and they won!!</body>
+    </message>
+    <message id="m0002" time="2013-09-15 14:16:15 UTC" participant="154352">
+      <body>Great</body>
+    </message>
+  </messages>
+</conversation>
+

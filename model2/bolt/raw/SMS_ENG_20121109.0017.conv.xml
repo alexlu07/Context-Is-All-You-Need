@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2012-11-09 12:21:19 UTC">
+      <body>Hey, I don't if anyone already told you, but please don't worry about coming to Key today. We can manage fine without you. Take it easy today!</body>
+    </message>
+    <message id="m0001" participant="131450" time="2012-11-09 13:11:45 UTC">
+      <body>Thanks, Allen! Sorry I won't be there to help out, but I hope it goes great today!</body>
+    </message>
+    <message id="m0002" participant="131453" time="2012-11-09 13:13:05 UTC">
+      <body>Thanks! Feel better!</body>
+    </message>
+  </messages>
+</conversation>

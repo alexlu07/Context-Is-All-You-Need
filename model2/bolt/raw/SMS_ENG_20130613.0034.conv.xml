@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-13 19:47:59 UTC">
+      <body>Tryna meet up for tonas bday</body>
+    </message>
+    <message id="m0001" participant="132572" time="2013-06-13 19:50:30 UTC">
+      <body>When?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-13 19:51:46 UTC">
+      <body>Like 5 at tavern</body>
+    </message>
+    <message id="m0003" participant="132572" time="2013-06-13 19:52:29 UTC">
+      <body>Today?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-13 19:53:00 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0005" participant="132572" time="2013-06-13 19:54:02 UTC">
+      <body>Cant today dude...</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-13 19:54:59 UTC">
+      <body>Ook</body>
+    </message>
+    <message id="m0007" participant="132572" time="2013-06-13 19:55:35 UTC">
+      <body>Have one for me!</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-13 19:56:36 UTC">
+      <body>Word</body>
+    </message>
+    <message id="m0009" participant="132572" time="2013-06-13 22:29:58 UTC">
+      <body>Tell tona i said happy bday dude...</body>
+    </message>
+  </messages>
+</conversation>

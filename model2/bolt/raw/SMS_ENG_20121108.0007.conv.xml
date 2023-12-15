@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121108.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-08 00:15:40 UTC">
+      <body>Hi! Sunday! Yes! Free anytime except 8-9pm EST</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-11-08 00:19:24 UTC">
+      <body>Er, EDT. You know what I mean. (Love you too!)</body>
+    </message>
+    <message id="m0002" participant="131028" time="2012-11-08 01:10:05 UTC">
+      <body>Haha! Perfect! How about 1 pm your time?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-11-08 01:10:28 UTC">
+      <body>Works for me! Talk to you then!!</body>
+    </message>
+  </messages>
+</conversation>

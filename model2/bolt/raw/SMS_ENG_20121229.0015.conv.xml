@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136220" time="2012-12-29 00:50:04 UTC">
+      <body>To, what are you doing tonight?</body>
+    </message>
+    <message id="m0001" participant="136220" time="2012-12-29 00:50:29 UTC">
+      <body>Yo*</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-29 00:55:19 UTC">
+      <body>Nothin</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-29 03:50:15 UTC">
+      <body>Are we gonna hang</body>
+    </message>
+  </messages>
+</conversation>

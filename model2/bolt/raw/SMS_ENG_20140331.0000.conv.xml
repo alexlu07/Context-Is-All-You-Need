@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140331.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-31 00:46:39 UTC" participant="153445">
+      <body>Hey! Everything ok?  </body>
+    </message>
+    <message id="m0001" time="2014-03-31 01:49:48 UTC" participant="153445">
+      <body>Hey! Everything ok?  </body>
+    </message>
+    <message id="m0002" time="2014-03-31 02:31:00 UTC" participant="153418">
+      <body>Yeah, don't worry about it. </body>
+    </message>
+    <message id="m0003" time="2014-03-31 02:35:28 UTC" participant="153445">
+      <body>Oh ok. Did you come home this weekend?  </body>
+    </message>
+    <message id="m0004" time="2014-03-31 02:42:37 UTC" participant="153418">
+      <body>I'm coming tonight. In the middle of something right now. </body>
+    </message>
+    <message id="m0005" time="2014-03-31 03:47:49 UTC" participant="153445">
+      <body>Ok be careful in the rain</body>
+    </message>
+  </messages>
+</conversation>
+

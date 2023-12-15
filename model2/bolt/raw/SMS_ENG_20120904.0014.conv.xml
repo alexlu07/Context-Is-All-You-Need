@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120904.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-04 20:24:43 UTC" participant="153307">
+      <body>The other 2 people made offers. I told them I was waiting to hear from you. Any trainer progress? :)</body>
+    </message>
+    <message id="m0001" time="2012-09-04 21:18:49 UTC" participant="152734">
+      <body>Trainer has promised to review the video tonight! In the meantime, I will be driving that way tomorrow afternoon - could I come see her again? </body>
+    </message>
+    <message id="m0002" time="2012-09-04 21:56:59 UTC" participant="153307">
+      <body>Thatd be fine.</body>
+    </message>
+    <message id="m0003" time="2012-09-04 23:19:04 UTC" participant="153307">
+      <body>what time were u thinking of being here?</body>
+    </message>
+    <message id="m0004" time="2012-09-05 01:29:43 UTC" participant="152734">
+      <body>I'm driving down from pa, and I think it'll be 6-630 - is that ok?</body>
+    </message>
+    <message id="m0005" time="2012-09-05 01:30:39 UTC" participant="153307">
+      <body>sure. keep me informed.</body>
+    </message>
+    <message id="m0006" time="2012-09-05 20:17:42 UTC" participant="152734">
+      <body>On the way - should be there 630-645, thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

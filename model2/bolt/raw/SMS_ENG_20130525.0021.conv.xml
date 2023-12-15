@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-25 05:41:43 UTC">
+      <body>Hey. Missing you. That's all.  ;-)</body>
+    </message>
+    <message id="m0001" participant="131373" time="2013-05-25 05:46:21 UTC">
+      <body>:) hi</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-25 05:49:27 UTC">
+      <body>Hi, beautiful...happy Friday.</body>
+    </message>
+    <message id="m0003" participant="131373" time="2013-05-25 05:50:32 UTC">
+      <body>What is this Friday you speak of</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-25 05:53:05 UTC">
+      <body>;-)</body>
+    </message>
+  </messages>
+</conversation>

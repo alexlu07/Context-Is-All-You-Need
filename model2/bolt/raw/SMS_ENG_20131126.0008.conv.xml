@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131126.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-26 01:29:09 UTC" participant="153562">
+      <body>You home? I got your stuff to drop back off and ill be swinging by yr place</body>
+    </message>
+    <message id="m0001" time="2013-11-26 01:58:58 UTC" participant="153547">
+      <body>Not home</body>
+    </message>
+    <message id="m0002" time="2013-11-26 02:05:30 UTC" participant="153562">
+      <body>K. Should i leave it on yr porch?</body>
+    </message>
+  </messages>
+</conversation>
+

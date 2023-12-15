@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-03 11:18:50 UTC">
+      <body>Hey! Nathaniel in Philly here, how are you?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-03 13:00:56 UTC">
+      <body>Philly, huh? This is jason, currently stuck in a traffic jam on i95 in jersey! Headed to DC. What do you get into in Philly?</body>
+    </message>
+    <message id="m0002" participant="134066" time="2013-07-03 13:37:22 UTC">
+      <body>Hey Jason. I just returned home from a bike ride, then am going to do a little painting job. Hope you're going some place fun!</body>
+    </message>
+    <message id="m0003" participant="130978" time="2013-07-03 22:09:07 UTC">
+      <body>Hi again, just arrived in DC, visiting another friend. how did your painting job go? do you like philly?</body>
+    </message>
+    <message id="m0004" participant="134066" time="2013-07-03 22:15:34 UTC">
+      <body>I like Philly. Too humid in the summer... But I'm getting to the beach w/ my gf this wkend. Now i'm just kicking it on the stoop w/ a Becks 4 pack</body>
+    </message>
+    <message id="m0005" participant="130978" time="2013-07-03 22:26:47 UTC">
+      <body>Oh yeah, what beach are you going to? Doing anything to honor your country this wknd?</body>
+    </message>
+    <message id="m0006" participant="134066" time="2013-07-03 22:31:16 UTC">
+      <body>Rehoboth in Delaware. Not much to honor in my opinion. You?</body>
+    </message>
+    <message id="m0007" participant="130978" time="2013-07-03 23:10:03 UTC">
+      <body>Not much to honor?!? Well just remember this wknd while youre relaxing on the beach that people died so you could do that. i'm reminded of a bumper sticker i</body>
+    </message>
+    <message id="m0008" participant="130978" time="2013-07-03 23:10:03 UTC">
+      <body>saw recently: 'before you burn the flag, be sure to wrap yourself in it'!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120801.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-08-01 13:16:33 UTC">
+      <body>You going to be around this afternoon?</body>
+    </message>
+    <message id="m0001" participant="135416" time="2012-08-01 13:17:52 UTC">
+      <body>I'm not. Sorry. Family in town. How long u here for?</body>
+    </message>
+  </messages>
+</conversation>

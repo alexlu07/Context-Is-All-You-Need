@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140831.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-31 23:06:37 UTC" participant="153557">
+      <body>Hi! Can I open a can of your baked beans to eat with my dog?</body>
+    </message>
+    <message id="m0001" time="2014-08-31 23:09:20 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-09-01 02:31:28 UTC" participant="153557">
+      <body>Are you at a raging party?</body>
+    </message>
+    <message id="m0003" time="2014-09-01 02:34:53 UTC" participant="153547">
+      <body>Coming home</body>
+    </message>
+  </messages>
+</conversation>
+

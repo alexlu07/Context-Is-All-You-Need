@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 16:29:52 UTC" participant="153286">
+      <body>I can probably do that</body>
+    </message>
+    <message id="m0001" time="2014-09-15 16:30:00 UTC" participant="152734">
+      <body>Beer garden after work Wednesday? I think Simone will come too</body>
+    </message>
+    <message id="m0002" time="2014-09-15 16:32:29 UTC" participant="152734">
+      <body>Cool! We should be there 515ish</body>
+    </message>
+  </messages>
+</conversation>
+

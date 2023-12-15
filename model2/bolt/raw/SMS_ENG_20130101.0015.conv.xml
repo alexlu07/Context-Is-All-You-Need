@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130101.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135280" time="2013-01-01 17:20:21 UTC">
+      <body>Hey my train comes in at 650 tonight :) I can't wait to see you!! </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-01 17:23:19 UTC">
+      <body>Awesome </body>
+    </message>
+  </messages>
+</conversation>

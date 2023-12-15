@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-02-03 23:26:59 UTC">
+      <body>How's your day going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-03 23:37:23 UTC">
+      <body>you're texting... impressive. my day's surprisingly productive. how's yours? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-02-04 00:40:06 UTC">
+      <body>Not so much. Watching the super bowl. How was church? Will i get to see you this week?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-04 00:53:05 UTC">
+      <body>is it... going well? (obviously sports talk is not my strong point.) church was good. i'd love to see you this week but i have to work a gallery opening thursday night. :/</body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-02-04 01:01:54 UTC">
+      <body>Not really. A gallery opening? When are you doing that?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-02-04 01:05:08 UTC">
+      <body>are you at least in good company? it's 6 to 10 on thursday. also working 4-7 friday and 12 to 4 saturday, if there are other times that fit your schedule... </body>
+    </message>
+    <message id="m0006" participant="136150" time="2013-02-04 01:56:25 UTC">
+      <body>I'm sure i can find sometime that works. Say tuesday?</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-02-04 02:16:04 UTC">
+      <body>lab 2:30 to 5:30. but after? </body>
+    </message>
+    <message id="m0008" participant="136150" time="2013-02-04 04:05:55 UTC">
+      <body>Sounds good.</body>
+    </message>
+  </messages>
+</conversation>

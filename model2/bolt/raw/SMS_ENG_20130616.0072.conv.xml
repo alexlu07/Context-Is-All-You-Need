@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-16 01:41:41 UTC" participant="152116">
+      <body>Im omw back from dorney. I'm going straight to Edens and spending the night there.</body>
+    </message>
+    <message id="m0001" time="2013-06-16 01:41:58 UTC" participant="152116">
+      <body>What time should I be back to get the bed frame?</body>
+    </message>
+    <message id="m0002" time="2013-06-16 03:46:11 UTC" participant="153244">
+      <body>Gotta get it at 2:00</body>
+    </message>
+    <message id="m0003" time="2013-06-16 03:46:50 UTC" participant="153244">
+      <body>And entertainment center too. Probably after the bed frame</body>
+    </message>
+    <message id="m0004" time="2013-06-16 03:47:03 UTC" participant="152116">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2013-06-16 03:47:12 UTC" participant="152116">
+      <body>With who?</body>
+    </message>
+    <message id="m0006" time="2013-06-16 03:48:00 UTC" participant="153244">
+      <body>Someone from work and someone he knows.  Maybe another person or two</body>
+    </message>
+    <message id="m0007" time="2013-06-16 03:49:16 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0008" time="2013-06-16 14:49:47 UTC" participant="152116">
+      <body>You're gonna be home, right?</body>
+    </message>
+    <message id="m0009" time="2013-06-16 15:30:33 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0010" time="2013-06-16 20:51:45 UTC" participant="152116">
+      <body>Im done</body>
+    </message>
+  </messages>
+</conversation>
+

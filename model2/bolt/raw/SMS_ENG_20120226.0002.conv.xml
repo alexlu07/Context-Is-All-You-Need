@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120226.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-26 20:21:02 UTC" participant="152374">
+      <body>So, I'm just about done packing. If you're free this evening, would you like to grab a bite to eat somewhere?</body>
+    </message>
+    <message id="m0001" time="2012-02-26 21:52:24 UTC" participant="152378">
+      <body>(1/2)Hey sorry just saw this. I'm visiting my parents today, my dad just got out of the hospital after surgery(great year for them :/) You free any other</body>
+    </message>
+    <message id="m0002" time="2012-02-26 21:52:29 UTC" participant="152378">
+      <body>(2/2)evening before you leave? Nothing like making it a last second thing</body>
+    </message>
+    <message id="m0003" time="2012-02-26 21:57:51 UTC" participant="152374">
+      <body>If it doesn't work out, don't worry about it!</body>
+    </message>
+    <message id="m0004" time="2012-02-27 00:58:06 UTC" participant="152374">
+      <body>We're having dinner at 6, barring disaster, so... 8:15?</body>
+    </message>
+    <message id="m0005" time="2012-02-27 01:00:24 UTC" participant="152378">
+      <body>How about we say 9 to be safe. That way there is no rush or awkward overlap :)</body>
+    </message>
+    <message id="m0006" time="2012-02-27 01:02:58 UTC" participant="152374">
+      <body>How about a deal at 8:45?  ;-)	I just know that I can't go TOO late 'cause I need to get a little sleep</body>
+    </message>
+  </messages>
+</conversation>
+

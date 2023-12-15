@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 18:40:00 UTC" participant="152428">
+      <body>I fly out early wed morning. Mom flies Tuesday.   Do u need me to drop him off Tuesday night?</body>
+    </message>
+    <message id="m0001" time="2014-09-15 18:42:31 UTC" participant="152417">
+      <body>Sure, that would be helpful</body>
+    </message>
+    <message id="m0002" time="2014-09-16 14:38:56 UTC" participant="152428">
+      <body>I m kind of stuck.  Do u think you could pick ip sammi today?    I forgot I am in hburg and will already be in the car for four hours</body>
+    </message>
+    <message id="m0003" time="2014-09-16 15:21:36 UTC" participant="152428">
+      <body>Fine thanks a lot</body>
+    </message>
+    <message id="m0004" time="2014-09-16 15:22:09 UTC" participant="152417">
+      <body>Sure, is it ok if i come for him around 7 or is that too late?</body>
+    </message>
+    <message id="m0005" time="2014-09-16 15:26:15 UTC" participant="152428">
+      <body>Do u want me to take u for Indian food?</body>
+    </message>
+    <message id="m0006" time="2014-09-16 15:32:10 UTC" participant="152417">
+      <body>Sounds good, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

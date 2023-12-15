@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110719.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135132" time="2011-07-19 01:40:33 UTC">
+      <body>Will you be in minnesota in sept?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-19 01:40:57 UTC">
+      <body>Im planning on it! Why?</body>
+    </message>
+    <message id="m0002" participant="135132" time="2011-07-19 01:41:09 UTC">
+      <body>I have a great gig you might be able to get in on.</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-19 01:41:33 UTC">
+      <body>Oooooo tell me more!</body>
+    </message>
+    <message id="m0004" participant="135132" time="2011-07-19 01:44:54 UTC">
+      <body>I'm singing with ben folds and Minn Orch again.  Sept 17th.  There might be a spot or two for girls, but I'm not sure yet.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-07-19 01:45:15 UTC">
+      <body>Yea yea! How do I get in? Does it pay?</body>
+    </message>
+    <message id="m0006" participant="135132" time="2011-07-19 01:47:33 UTC">
+      <body>(1 of 2) No pay, just resume building.   I'll give your email to my recruiter guy, and he'll contact you if his other girls can't do it.  I'm pretty sure one or</body>
+    </message>
+    <message id="m0007" participant="135132" time="2011-07-19 01:47:38 UTC">
+      <body>(2 of 2) both of them are in Europe.</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-07-19 01:48:38 UTC">
+      <body>Awesome! Thank you.</body>
+    </message>
+    <message id="m0009" participant="135132" time="2011-07-19 01:49:41 UTC">
+      <body>I'm gonna try to get Megan in too. </body>
+    </message>
+    <message id="m0010" participant="131839" time="2011-07-19 01:49:50 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

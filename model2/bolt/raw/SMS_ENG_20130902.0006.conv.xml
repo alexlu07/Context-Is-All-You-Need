@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130902.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-02 17:01:09 UTC" participant="154392">
+      <body>Dude we missed queens of the stone age.  I didn't realize they played.</body>
+    </message>
+    <message id="m0001" time="2013-09-02 17:02:19 UTC" participant="154352">
+      <body>Oh no. I also didn't realize they were there.</body>
+    </message>
+    <message id="m0002" time="2013-09-02 17:06:38 UTC" participant="154392">
+      <body>They played when we were watching Nero.  I think the stupid schedule said QSA</body>
+    </message>
+  </messages>
+</conversation>
+

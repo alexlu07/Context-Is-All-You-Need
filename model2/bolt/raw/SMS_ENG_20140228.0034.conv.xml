@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140228.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-28 22:03:51 UTC" participant="153244">
+      <body>Am I still picking you up?</body>
+    </message>
+    <message id="m0001" time="2014-02-28 22:04:40 UTC" participant="152116">
+      <body>Oh crap I forgot! I got done early and went to Eden's</body>
+    </message>
+    <message id="m0002" time="2014-02-28 22:04:50 UTC" participant="152116">
+      <body>Sorry today was crazy</body>
+    </message>
+    <message id="m0003" time="2014-02-28 22:05:20 UTC" participant="153244">
+      <body>Aw ok bec I cOuld have gotten you earlier too</body>
+    </message>
+    <message id="m0004" time="2014-02-28 22:05:21 UTC" participant="152116">
+      <body>please don't tell me you went to penn</body>
+    </message>
+    <message id="m0005" time="2014-02-28 22:05:47 UTC" participant="152116">
+      <body>I just totally forgot cause of the interview</body>
+    </message>
+    <message id="m0006" time="2014-02-28 22:05:47 UTC" participant="153244">
+      <body>Oh no I'm still going to rob. Traffic is crazy</body>
+    </message>
+    <message id="m0007" time="2014-02-28 22:07:11 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

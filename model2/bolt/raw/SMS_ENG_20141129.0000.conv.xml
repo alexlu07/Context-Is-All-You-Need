@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 21:45:02 UTC" participant="152118">
+      <body>Hey! I figured sammy and Jeff will be going to the restaurant together. do you know if Phuong was going to drive or if we were taking the train?</body>
+    </message>
+    <message id="m0001" time="2014-11-29 21:48:15 UTC" participant="152115">
+      <body>I'm not sure. Did you want to ask phuong? We haven't heard from anyone. But I also don't want to be late. I suppose we could take the train. But let me ask Sam what she's doing first I guess.</body>
+    </message>
+    <message id="m0002" time="2014-11-29 21:49:20 UTC" participant="152118">
+      <body>Okay. And then let me know and I'll ask Phuong.</body>
+    </message>
+    <message id="m0003" time="2014-11-29 21:49:28 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2014-11-29 21:57:53 UTC" participant="152115">
+      <body>So Jeff's picking Sam up. She didn't offer a ride so I said we'll meet them there. Want to ask phuong?</body>
+    </message>
+    <message id="m0005" time="2014-11-29 21:58:35 UTC" participant="152118">
+      <body>Sure.</body>
+    </message>
+    <message id="m0006" time="2014-11-29 22:07:30 UTC" participant="152118">
+      <body>Phuong said she thinks she's going to be late. So I'm taking that as a no.</body>
+    </message>
+    <message id="m0007" time="2014-11-29 22:10:11 UTC" participant="152115">
+      <body>Ok. So we should leave around 6:20 for the train then.</body>
+    </message>
+    <message id="m0008" time="2014-11-29 22:11:34 UTC" participant="152118">
+      <body>Okay. I'll walk myself on over to you before then :)</body>
+    </message>
+    <message id="m0009" time="2014-11-29 22:11:45 UTC" participant="152115">
+      <body>K</body>
+    </message>
+    <message id="m0010" time="2014-11-29 23:08:54 UTC" participant="152118">
+      <body>I'm on my way now.</body>
+    </message>
+    <message id="m0011" time="2014-11-29 23:09:25 UTC" participant="152115">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

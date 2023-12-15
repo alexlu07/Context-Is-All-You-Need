@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135268" time="2013-06-15 15:54:34 UTC">
+      <body>This is a nice coffee shop across from your house! I would blow all my money here haha</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-15 16:02:55 UTC">
+      <body>WHAT YOU ARE THERE? I am at HCA! Hahahaha how long will you be in Philly? Are you helping Lizzy?</body>
+    </message>
+    <message id="m0002" participant="135268" time="2013-06-15 16:04:20 UTC">
+      <body>I'm here because we just looked at Rosalie's place to possibly rent. It's two blocks from you!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-15 16:04:52 UTC">
+      <body>Ahhhhh do it!!!! :D is it nice? Cheap?</body>
+    </message>
+    <message id="m0004" participant="135268" time="2013-06-15 16:10:32 UTC">
+      <body>It's nice. $1700 for three bedrooms. I like it. Probably will be gone before we have a chance to apply though</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-06-15 16:11:12 UTC">
+      <body>That's awesome! Do you have a third person? I know it's you and Gabi</body>
+    </message>
+  </messages>
+</conversation>

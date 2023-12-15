@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150114.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-14 19:15:00 UTC" participant="153700">
+      <body>Hi Lindsey, Israel here. Hanging at Elixir (fyi)... See you at 3:-)</body>
+    </message>
+    <message id="m0001" time="2015-01-14 19:16:51 UTC" participant="153548">
+      <body>I don't know what Elixir is but it sounds exotic! I'm actually here at Uarts a little early, come up whenevs! No rush tho</body>
+    </message>
+    <message id="m0002" time="2015-01-14 19:17:25 UTC" participant="153700">
+      <body>Oh ok! Be over in 15</body>
+    </message>
+    <message id="m0003" time="2015-01-14 19:17:44 UTC" participant="153700">
+      <body>Elixir = good coffee</body>
+    </message>
+    <message id="m0004" time="2015-01-14 19:17:54 UTC" participant="153548">
+      <body>Awesome! You know where to go. </body>
+    </message>
+    <message id="m0005" time="2015-01-14 19:18:06 UTC" participant="153548">
+      <body>Good coffee is my life blood</body>
+    </message>
+    <message id="m0006" time="2015-01-14 19:18:24 UTC" participant="153700">
+      <body>Yes, I moonlight at Ultimo Coffee</body>
+    </message>
+    <message id="m0007" time="2015-01-14 19:21:03 UTC" participant="153548">
+      <body>Was just there yesterday. Omg. So good. See you soon </body>
+    </message>
+    <message id="m0008" time="2015-01-14 19:33:20 UTC" participant="153700">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-10 21:23:52 UTC">
+      <body>Now that I'm done with school I can finally communicate like a human - I love you and will return your call soon!!!!!</body>
+    </message>
+    <message id="m0001" participant="135095" time="2012-06-11 01:56:24 UTC">
+      <body>Ahhh alright. Are you done forever??? </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-11 02:06:08 UTC">
+      <body>No, just for the summer</body>
+    </message>
+  </messages>
+</conversation>

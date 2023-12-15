@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-02 19:58:42 UTC" participant="149378">
+      <body>Are you working in house tomorrow? Trying to get a pizza count for karina</body>
+    </message>
+    <message id="m0001" time="2013-07-02 21:31:16 UTC" participant="149306">
+      <body>Nope I wasn't planning on it </body>
+    </message>
+    <message id="m0002" time="2013-07-02 21:53:25 UTC" participant="149378">
+      <body>K. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140625.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-25 23:00:54 UTC" participant="153548">
+      <body>Are you at Julian's?</body>
+    </message>
+    <message id="m0001" time="2014-06-26 00:34:20 UTC" participant="153649">
+      <body>Yep, sorry. Missed your text </body>
+    </message>
+    <message id="m0002" time="2014-06-26 00:34:36 UTC" participant="153548">
+      <body>I'm out front. Been waiting</body>
+    </message>
+    <message id="m0003" time="2014-06-26 00:34:45 UTC" participant="153548">
+      <body>No one is answering</body>
+    </message>
+    <message id="m0004" time="2014-06-26 12:06:55 UTC" participant="153649">
+      <body>Sabrina's?</body>
+    </message>
+    <message id="m0005" time="2014-06-26 12:08:36 UTC" participant="153548">
+      <body>Yeah I'll drive.</body>
+    </message>
+    <message id="m0006" time="2014-06-26 12:09:36 UTC" participant="153649">
+      <body>Ok. See you then. </body>
+    </message>
+    <message id="m0007" time="2014-06-26 12:09:50 UTC" participant="153548">
+      <body>Give me 20 minutes. Then meet me at my house! 119 S. 50th</body>
+    </message>
+  </messages>
+</conversation>
+

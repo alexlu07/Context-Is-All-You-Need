@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131211.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-11 23:03:03 UTC" participant="152118">
+      <body>Hey John John! Did you apply for a job with the defense apartment??? Haha. I gotta phone call to have an interview about you.</body>
+    </message>
+    <message id="m0001" time="2013-12-11 23:54:51 UTC" participant="153418">
+      <body>Yeah, I need security clearance for my job. Just be cool and don't say I kidnap children. </body>
+    </message>
+    <message id="m0002" time="2013-12-11 23:55:43 UTC" participant="152118">
+      <body>Oh john. No worries. I gotchu! Why would I say anything to discredit you?</body>
+    </message>
+  </messages>
+</conversation>
+

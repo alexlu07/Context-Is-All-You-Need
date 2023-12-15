@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141015.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-15 19:03:11 UTC" participant="152571">
+      <body>Coming today?</body>
+    </message>
+    <message id="m0001" time="2014-10-15 19:14:18 UTC" participant="152417">
+      <body>On my way</body>
+    </message>
+    <message id="m0002" time="2014-10-15 19:15:38 UTC" participant="152417">
+      <body>Trumpet today?</body>
+    </message>
+    <message id="m0003" time="2014-10-15 19:16:05 UTC" participant="152571">
+      <body>Nah. It was 3-330. Let's reschedule</body>
+    </message>
+  </messages>
+</conversation>
+

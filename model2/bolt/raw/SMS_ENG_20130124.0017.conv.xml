@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130124.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133308" time="2013-01-24 22:11:12 UTC">
+      <body>I'm at wegmans and will buy a cookie cake for your roomies. What do you want it to say?</body>
+    </message>
+    <message id="m0001" participant="133056" time="2013-01-25 18:18:52 UTC">
+      <body>￼I stepped away for one minute!</body>
+    </message>
+    <message id="m0002" participant="133308" time="2013-01-25 18:43:50 UTC">
+      <body>Awwhh!!! I walked him this morning. If you want to, take him for a short walk later</body>
+    </message>
+    <message id="m0003" participant="133056" time="2013-01-25 18:43:58 UTC">
+      <body>I will!</body>
+    </message>
+    <message id="m0004" participant="133308" time="2013-01-25 21:22:08 UTC">
+      <body>On the phone</body>
+    </message>
+    <message id="m0005" participant="133056" time="2013-01-25 21:23:03 UTC">
+      <body>Not a problem! I just wanted to know what time we were going to the Apple store tomorrow </body>
+    </message>
+    <message id="m0006" participant="133308" time="2013-01-25 22:59:52 UTC">
+      <body>We should make an appointment at the freehold store. You have to do it online, what about 4pm? </body>
+    </message>
+    <message id="m0007" participant="133308" time="2013-01-26 00:21:15 UTC">
+      <body>I made it for 3:50 pm tomorrow</body>
+    </message>
+    <message id="m0008" participant="133056" time="2013-01-26 03:04:30 UTC">
+      <body>AHHH, I guess that's fine. I was going to visit Kevin at Montclair, I guess not</body>
+    </message>
+  </messages>
+</conversation>

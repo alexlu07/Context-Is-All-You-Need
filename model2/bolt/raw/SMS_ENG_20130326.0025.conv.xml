@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130326.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-03-26 18:53:35 UTC">
+      <body>Where's that</body>
+    </message>
+    <message id="m0001" participant="132550" time="2013-03-26 20:15:01 UTC">
+      <body>Were done here do you want us to stop by?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-03-26 20:17:31 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0003" participant="132550" time="2013-03-26 20:20:23 UTC">
+      <body>Second and market</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-03-26 20:22:14 UTC">
+      <body>I'm free until 515</body>
+    </message>
+    <message id="m0005" participant="132550" time="2013-03-26 20:23:45 UTC">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-03-27 15:48:43 UTC">
+      <body>Walked past gia yesterday...its closed down now :-(</body>
+    </message>
+    <message id="m0007" participant="132550" time="2013-03-27 16:04:54 UTC">
+      <body>What's Gia?</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-03-27 16:08:28 UTC">
+      <body>Salad store right?</body>
+    </message>
+    <message id="m0009" participant="132550" time="2013-03-27 16:09:16 UTC">
+      <body>That's terrible</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-03-27 16:13:35 UTC">
+      <body>Yea losing good salad spots!</body>
+    </message>
+    <message id="m0011" participant="132550" time="2013-03-27 16:22:17 UTC">
+      <body>Just got My salad at SEI. Same salad every day but at least it's a salad.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-24 15:51:11 UTC">
+      <body>Meet at magic carpet?</body>
+    </message>
+    <message id="m0001" participant="130834" time="2013-05-24 15:52:45 UTC">
+      <body>Ok its at 34th and walnut. I'm on the phone and will head there when done!</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-24 15:55:46 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-05-24 16:09:42 UTC">
+      <body>And a coffee? Thnx!</body>
+    </message>
+    <message id="m0004" participant="130834" time="2013-05-24 16:10:46 UTC">
+      <body>I was thinkin same. That will take a couple more minutes but def worth it!!</body>
+    </message>
+    <message id="m0005" participant="130834" time="2013-05-24 16:16:26 UTC">
+      <body>Milk?</body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-05-24 16:19:04 UTC">
+      <body>Please. Which building is it?</body>
+    </message>
+  </messages>
+</conversation>

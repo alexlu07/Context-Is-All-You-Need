@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140923.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-23 17:39:26 UTC" participant="153418">
+      <body>Hi Jim. Please give me a status update on my security deposit.</body>
+    </message>
+    <message id="m0001" time="2014-09-23 18:13:52 UTC" participant="153448">
+      <body>Hi John
+We will be sending it today. 
+Jim</body>
+    </message>
+    <message id="m0002" time="2014-09-23 18:26:16 UTC" participant="153418">
+      <body>Thank you.</body>
+    </message>
+  </messages>
+</conversation>
+

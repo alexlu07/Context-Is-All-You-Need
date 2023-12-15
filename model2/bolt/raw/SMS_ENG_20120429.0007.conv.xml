@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120429.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131324" time="2012-04-29 19:04:13 UTC">
+      <body>You still want to go to the windmill?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-29 19:08:59 UTC">
+      <body>I'd go later on after I eat dinner with my parents. Maybe catch the grizzlies game</body>
+    </message>
+    <message id="m0002" participant="131324" time="2012-04-29 19:12:42 UTC">
+      <body>Alright nice let me know, we could see if Matt wants to go </body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-29 19:13:06 UTC">
+      <body>Yeah I'll text him</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-04-30 00:45:48 UTC">
+      <body>I think I'm just gonna stay in for the night, I got too drunk last night and don't really feel like drinking again</body>
+    </message>
+    <message id="m0005" participant="131324" time="2012-04-30 00:56:30 UTC">
+      <body>Yea I was thinking the same thing, plus I gotta work tomorrow</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-04-30 01:09:31 UTC">
+      <body>Word, I'll be back in CT sometime soon</body>
+    </message>
+  </messages>
+</conversation>

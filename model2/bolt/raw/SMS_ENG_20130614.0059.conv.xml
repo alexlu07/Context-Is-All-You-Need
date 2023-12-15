@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-14 20:38:20 UTC" participant="152118">
+      <body>Congrats on your graduation John!!!! Can't wait to FINALLY see you again! Yay!</body>
+    </message>
+    <message id="m0001" time="2013-06-14 20:41:39 UTC" participant="153418">
+      <body>Thanks Jenny. :p See you tonight</body>
+    </message>
+    <message id="m0002" time="2013-06-15 00:28:13 UTC" participant="153418">
+      <body>Hey, you kinda/sorta ready?</body>
+    </message>
+    <message id="m0003" time="2013-06-15 00:46:50 UTC" participant="152118">
+      <body>I'm kinda sorta at acme. Sorry.</body>
+    </message>
+  </messages>
+</conversation>
+

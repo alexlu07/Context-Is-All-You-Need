@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-15 19:42:22 UTC">
+      <body>Everyone okay up there? Do they have any idea what happened?</body>
+    </message>
+    <message id="m0001" participant="135266" time="2013-04-15 19:43:24 UTC">
+      <body>No idea yet. We are fine. </body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-04-15 23:27:34 UTC">
+      <body>What's the dress code for rents for commencement and weekend events?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-15 23:28:35 UTC">
+      <body>Errrr no idea. Maybe khakis for the ceremonies? I dont really know</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 02:29:54 UTC" participant="153565">
+      <body>Did you get the coffee today? The post office says they delivered.</body>
+    </message>
+    <message id="m0001" time="2013-11-22 12:13:19 UTC" participant="153547">
+      <body>I got the coffee today . Thank u so much</body>
+    </message>
+    <message id="m0002" time="2013-11-22 12:30:25 UTC" participant="153565">
+      <body>Great. Glad it made it. I hope you enjoy it.</body>
+    </message>
+  </messages>
+</conversation>
+

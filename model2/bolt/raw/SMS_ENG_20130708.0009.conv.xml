@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131348" time="2013-07-08 13:52:37 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130583" time="2013-07-08 14:08:44 UTC">
+      <body>Yo! Be with you in a minute</body>
+    </message>
+    <message id="m0002" participant="130583" time="2013-07-08 14:09:27 UTC">
+      <body>How are you doing?</body>
+    </message>
+    <message id="m0003" participant="131348" time="2013-07-08 14:20:15 UTC">
+      <body>Awesome hru</body>
+    </message>
+    <message id="m0004" participant="130583" time="2013-07-08 14:32:16 UTC">
+      <body>Kinda rough but a happy ending. My daughter works in Japan. She was coming home for vacation, waiting in SF International Airport to change planes when</body>
+    </message>
+    <message id="m0005" participant="130583" time="2013-07-08 14:32:16 UTC">
+      <body>that Korean plane crashed. She's home now, safe, but a friend and I were in the phone &amp; Web &amp; email for many hours.</body>
+    </message>
+    <message id="m0006" participant="131348" time="2013-07-08 14:34:56 UTC">
+      <body>Oh wow did she see it happen</body>
+    </message>
+    <message id="m0008" participant="130583" time="2013-07-08 19:18:22 UTC">
+      <body>No, fortunately</body>
+    </message>
+    <message id="m0009" participant="130583" time="2013-07-08 19:18:27 UTC">
+      <body>Only in photos</body>
+    </message>
+    <message id="m0010" participant="131348" time="2013-07-08 19:19:09 UTC">
+      <body>So what do you do for a living</body>
+    </message>
+    <message id="m0011" participant="130583" time="2013-07-08 19:21:58 UTC">
+      <body>I'm a research linguist at penn, with the LDC actually. - I have to beg off for a bit. I'm having dinner w my daughter right now. Maybe in an hour or 90 min?</body>
+    </message>
+    <message id="m0012" participant="131348" time="2013-07-08 19:23:17 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

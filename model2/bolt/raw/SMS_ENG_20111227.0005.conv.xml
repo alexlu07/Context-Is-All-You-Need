@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111227.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-12-27 20:43:44 UTC" participant="153283">
+      <body>Do you know the name of the veggie friendly restaurant with veggie Philly cheesesteak ?</body>
+    </message>
+    <message id="m0001" time="2011-12-27 20:44:50 UTC" participant="152734">
+      <body>Govinda's is probably what you're thinking! I think blackbird is similar &amp; better</body>
+    </message>
+    <message id="m0002" time="2011-12-27 20:50:08 UTC" participant="153283">
+      <body>Blackbird it is!</body>
+    </message>
+    <message id="m0003" time="2011-12-27 22:07:45 UTC" participant="152734">
+      <body>Nice weather, huh?? Im heading home now, let me know what y'all are up to</body>
+    </message>
+    <message id="m0004" time="2011-12-27 22:09:04 UTC" participant="153283">
+      <body>Mix up w/ our order at blackbird. We are going to head in your direction when we are done here. Text you when we are on our way?</body>
+    </message>
+    <message id="m0005" time="2011-12-27 22:26:50 UTC" participant="152734">
+      <body>Perfect! Maybe we can go hide out &amp; drink beer someplace close until the rain stops</body>
+    </message>
+    <message id="m0006" time="2011-12-27 22:28:16 UTC" participant="153283">
+      <body>Excellent!</body>
+    </message>
+    <message id="m0007" time="2011-12-27 22:41:04 UTC" participant="153283">
+      <body>On our way!</body>
+    </message>
+    <message id="m0008" time="2011-12-27 22:45:26 UTC" participant="152734">
+      <body>Ok! You'll probably want to park on a number street if possible</body>
+    </message>
+    <message id="m0009" time="2011-12-27 22:47:28 UTC" participant="153283">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

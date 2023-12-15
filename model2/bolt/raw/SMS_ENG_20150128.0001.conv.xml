@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 15:42:35 UTC" participant="152574">
+      <body>I'm on my way but a couple of accidents are slowing me up! Getting a room at 11 should be easy!</body>
+    </message>
+    <message id="m0001" time="2015-01-28 15:44:07 UTC" participant="152417">
+      <body> Yep, I'm in 715</body>
+    </message>
+    <message id="m0002" time="2015-01-28 15:44:49 UTC" participant="152574">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

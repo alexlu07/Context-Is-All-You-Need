@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120913.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-13 22:26:03 UTC">
+      <body>So I know it's the start of the freakin weekend, but would you be free to chat tomorrow afternoon/evening?</body>
+    </message>
+    <message id="m0001" participant="131028" time="2012-09-14 00:58:20 UTC">
+      <body>Hmmm I'm not sure cause I think ##### and I are going out to dinner and a movie. What about sat or sun?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-14 01:01:30 UTC">
+      <body>Saturday night or Sunday during the day could work! </body>
+    </message>
+    <message id="m0003" participant="131028" time="2012-09-14 01:02:16 UTC">
+      <body>Sunday day works!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-09-14 01:06:54 UTC">
+      <body>Awesome. Looking forward to it!!!</body>
+    </message>
+    <message id="m0005" participant="131028" time="2012-09-14 01:24:08 UTC">
+      <body>Me too!!</body>
+    </message>
+  </messages>
+</conversation>

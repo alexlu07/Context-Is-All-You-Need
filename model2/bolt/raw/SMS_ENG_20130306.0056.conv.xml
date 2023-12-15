@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137260" time="2013-03-06 00:42:40 UTC">
+      <body>Hang out/talk soon? Like very soon? I wanna hear about this dance</body>
+    </message>
+    <message id="m0001" participant="137260" time="2013-03-06 00:42:40 UTC">
+      <body>And your life and stuff</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-03-06 00:43:30 UTC">
+      <body>Yes to everything </body>
+    </message>
+    <message id="m0003" participant="137260" time="2013-03-06 00:44:19 UTC">
+      <body>Brilliant</body>
+    </message>
+  </messages>
+</conversation>

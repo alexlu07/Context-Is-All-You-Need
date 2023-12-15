@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-30 19:37:54 UTC">
+      <body>Whatcha doin</body>
+    </message>
+    <message id="m0001" participant="136267" time="2012-11-30 19:38:35 UTC">
+      <body>Starbucks. Wazzzzzzzúp?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-30 19:39:13 UTC">
+      <body>I'm workin on a paper. Hüñgry thø</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-11-30 19:49:41 UTC">
+      <body>I'm not about that right now. But I'm d for some dinner in a few hours</body>
+    </message>
+  </messages>
+</conversation>

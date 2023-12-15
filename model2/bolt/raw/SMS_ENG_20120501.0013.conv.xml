@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120501.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135117" time="2012-05-01 02:33:24 UTC">
+      <body>Are you avoiding me? You said you wanted to be a friend Martha.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-05-01 02:34:09 UTC">
+      <body>Nope just really busy and was asleep when you called. The guilt doesn't work so well on me.</body>
+    </message>
+    <message id="m0002" participant="135117" time="2012-05-01 02:39:08 UTC">
+      <body>That's for sure. Not trying to guilt, just trying to understand. </body>
+    </message>
+    <message id="m0003" participant="135117" time="2012-05-01 02:39:49 UTC">
+      <body>Do you have any desire to talk? </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-05-01 02:40:25 UTC">
+      <body>Not at this moment, catching some z's when I can. But yes I do have the desire</body>
+    </message>
+    <message id="m0005" participant="135117" time="2012-05-01 02:41:57 UTC">
+      <body>Me too. Sorry to interrupt. Hope you're well </body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-05-01 02:42:24 UTC">
+      <body>Same to you, cowboy. Sorry to hear about your Philly internship</body>
+    </message>
+  </messages>
+</conversation>

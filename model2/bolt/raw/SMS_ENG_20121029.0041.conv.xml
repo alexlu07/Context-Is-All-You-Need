@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-29 21:51:48 UTC">
+      <body>Stay safe!</body>
+    </message>
+    <message id="m0001" participant="136279" time="2012-10-29 21:53:46 UTC">
+      <body>Thank you Will! How are you? How was your birthday.</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-29 22:00:52 UTC">
+      <body>I'm good, worried bout all my friends in the city! My birthday was fun, my mom came to visit and we went clothes shopping. And I partied with my hall mates obvi. How are you?</body>
+    </message>
+    <message id="m0003" participant="136279" time="2012-10-29 22:06:55 UTC">
+      <body>Haha thats great! Really, sounds like a fun time. Espesh since your mom came down and when she left, you got CRUNK. </body>
+    </message>
+    <message id="m0004" participant="136279" time="2012-10-29 22:10:28 UTC">
+      <body>Also, my internet is shitting itself and there is a wind like nothing i've seen before and there are things taking off already. Some cars have moved. Hoever, everyone is safe, and i appreciate your concern!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 23:40:26 UTC" participant="153548">
+      <body>Got a second interview!</body>
+    </message>
+    <message id="m0001" time="2014-11-18 23:50:20 UTC" participant="153632">
+      <body>Awesome. What job is this?</body>
+    </message>
+    <message id="m0003" time="2014-11-18 23:55:06 UTC" participant="153632">
+      <body>What would you be doing?</body>
+    </message>
+    <message id="m0004" time="2014-11-19 00:04:59 UTC" participant="153548">
+      <body>Associate professor</body>
+    </message>
+    <message id="m0005" time="2014-11-19 00:05:12 UTC" participant="153548">
+      <body>Of film</body>
+    </message>
+    <message id="m0006" time="2014-11-19 00:05:46 UTC" participant="153632">
+      <body>Awesome. Fingers crossed</body>
+    </message>
+  </messages>
+</conversation>
+

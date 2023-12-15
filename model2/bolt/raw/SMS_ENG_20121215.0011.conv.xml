@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2012-12-15 22:11:38 UTC">
+      <body>Let's brunch at 1pm?</body>
+    </message>
+    <message id="m0001" participant="131531" time="2012-12-15 22:20:46 UTC">
+      <body>Brunch it is! </body>
+    </message>
+    <message id="m0002" participant="131531" time="2012-12-16 17:19:37 UTC">
+      <body>Vinoteca at 1 right? </body>
+    </message>
+    <message id="m0003" participant="131528" time="2012-12-16 17:26:20 UTC">
+      <body>Yeah girl!</body>
+    </message>
+    <message id="m0004" participant="131528" time="2012-12-16 17:44:33 UTC">
+      <body>Do you mind if ciel and elisa nelson (bryn mawr) join?</body>
+    </message>
+    <message id="m0005" participant="131531" time="2012-12-16 17:45:12 UTC">
+      <body>Of course not! More the merrier it will be a great reunion </body>
+    </message>
+    <message id="m0006" participant="131531" time="2012-12-16 17:58:55 UTC">
+      <body>Just got here. Ill grab a table for four right? </body>
+    </message>
+    <message id="m0007" participant="131528" time="2012-12-16 18:00:01 UTC">
+      <body>If you can, we may be stuck at the bar. We're waiting for Elise.</body>
+    </message>
+    <message id="m0008" participant="131531" time="2012-12-16 18:03:05 UTC">
+      <body>Ok I'm at the bar with my name for a table in case. See you when you arrive! </body>
+    </message>
+  </messages>
+</conversation>

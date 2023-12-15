@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140222.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-22 14:25:23 UTC" participant="153548">
+      <body>I'm bringing butternut squash soup for lunch! </body>
+    </message>
+    <message id="m0001" time="2014-02-22 14:26:00 UTC" participant="153645">
+      <body>Awesome! I can bring some crackers and cheese? Sound ok? </body>
+    </message>
+    <message id="m0002" time="2014-02-22 14:26:08 UTC" participant="153645">
+      <body>Great! </body>
+    </message>
+    <message id="m0003" time="2014-02-22 14:26:10 UTC" participant="153548">
+      <body>Perfect! </body>
+    </message>
+    <message id="m0004" time="2014-02-22 14:26:16 UTC" participant="153548">
+      <body>See you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120612.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136251" time="2012-06-12 04:38:54 UTC">
+      <body>Hey were you thinking of going on thursday to the art gallery that christian was talking about?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-12 05:16:11 UTC">
+      <body>Uhhh maybe? I havent really thought about it yet</body>
+    </message>
+    <message id="m0002" participant="136251" time="2012-06-12 23:22:58 UTC">
+      <body>Ok i probably wont be  able to make it myself but we should definitely hang out at some point</body>
+    </message>
+  </messages>
+</conversation>

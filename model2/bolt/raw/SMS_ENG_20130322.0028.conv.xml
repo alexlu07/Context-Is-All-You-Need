@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-22 22:03:03 UTC">
+      <body>When are you eating?</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-03-22 22:03:48 UTC">
+      <body>Not sure, i was trying to figure out when hm would be back, but what about 6:15?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-22 22:04:53 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

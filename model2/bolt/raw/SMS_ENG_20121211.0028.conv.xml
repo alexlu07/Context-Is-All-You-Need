@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-11 23:29:52 UTC">
+      <body>Dinner?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-11 23:31:36 UTC">
+      <body>Don't forget about our power walk~</body>
+    </message>
+    <message id="m0002" participant="136274" time="2012-12-11 23:31:59 UTC">
+      <body>I won't! Can we maybe make it a study break though</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-11 23:32:44 UTC">
+      <body>Ok sure</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-11 23:32:57 UTC">
+      <body>12:12 12/12/12 is pretty cool though</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-18 19:15:45 UTC" participant="131350">
+      <body>hey, man...wanna get coffee this afternoon?</body>
+    </message>
+    <message id="m0001" time="2013-04-18 19:18:55 UTC" participant="131380">
+      <body>After four,I will call you buddy</body>
+    </message>
+    <message id="m0002" time="2013-04-18 19:19:24 UTC" participant="131350">
+      <body>cool!</body>
+    </message>
+  </messages>
+</conversation>
+

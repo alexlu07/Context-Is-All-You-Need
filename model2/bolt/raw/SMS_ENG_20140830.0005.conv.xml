@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140830.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-30 18:00:03 UTC" participant="152417">
+      <body>Maggie! I'm back.  Zach tells me that theres a cool beer garden at the end of spruce st, do you and Dan wanna meet up there tonight?</body>
+    </message>
+    <message id="m0001" time="2014-08-30 18:04:35 UTC" participant="152644">
+      <body>Ahh yes, spruce st harbor!That sounds great. We should be around by 7, and live really close, so just let me know when you want to head over </body>
+    </message>
+    <message id="m0002" time="2014-08-30 18:04:58 UTC" participant="152417">
+      <body>Sweet</body>
+    </message>
+    <message id="m0003" time="2014-08-30 23:14:57 UTC" participant="152644">
+      <body>Hey hey, I we're gonna start walking over to spruce st. No rush, just know we'll be there soon.</body>
+    </message>
+    <message id="m0004" time="2014-08-30 23:32:16 UTC" participant="152644">
+      <body>Cool beans. We've got no place to be, so take your time </body>
+    </message>
+    <message id="m0005" time="2014-08-30 23:32:23 UTC" participant="152417">
+      <body>Ok, ive just gotta walk simone quickly an then ill bike over</body>
+    </message>
+    <message id="m0006" time="2014-08-31 15:11:05 UTC" participant="152417">
+      <body>Im headed to pop up bagels at 1130, its at Beddia pizza</body>
+    </message>
+    <message id="m0007" time="2014-08-31 15:18:47 UTC" participant="152644">
+      <body>Oo ok, I'm going to have to pass. I went for a run this morning and now I'm depleted. It's sooo hot.</body>
+    </message>
+    <message id="m0008" time="2014-08-31 15:19:28 UTC" participant="152644">
+      <body>Consider it a rain check </body>
+    </message>
+    <message id="m0009" time="2014-08-31 15:25:12 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

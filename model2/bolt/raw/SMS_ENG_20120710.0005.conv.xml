@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120710.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-10 23:57:30 UTC">
+      <body>Hey Kaki Hope all is well with you.  Do you have robs number by any chance?   He had said he'd help me with some stuff this week</body>
+    </message>
+    <message id="m0001" participant="135398" time="2012-07-11 02:10:08 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0002" participant="135398" time="2012-07-11 02:10:08 UTC">
+      <body>Here u go!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-11 13:56:45 UTC">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>

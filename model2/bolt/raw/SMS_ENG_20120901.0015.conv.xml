@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120901.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-01 18:54:55 UTC">
+      <body>Whatcha doin today</body>
+    </message>
+    <message id="m0001" participant="136262" time="2012-09-01 18:57:13 UTC">
+      <body>Homework for now lol. Maybe going running later. You?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-01 18:59:02 UTC">
+      <body>Idk yet I have time to kill before my audition at 5pm. I might get a haircut?</body>
+    </message>
+    <message id="m0003" participant="136262" time="2012-09-01 19:00:34 UTC">
+      <body>Go for it! Good luck on your audition. Do you wanna grab dinner together later?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-01 19:02:13 UTC">
+      <body>Thanks! Yeah let's do that</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-01 20:52:48 UTC">
+      <body>When do you wanna eat</body>
+    </message>
+    <message id="m0006" participant="136262" time="2012-09-01 21:42:04 UTC">
+      <body>Ill meet you infront of dobbs at 7</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130717.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-07-17 12:21:40 UTC">
+      <body>Hi hi</body>
+    </message>
+    <message id="m0001" participant="130583" time="2013-07-17 12:23:38 UTC">
+      <body>Yo! -plait: I was just logging my lunch. I'm southbound on Amtrak &amp; ready to chat.</body>
+    </message>
+    <message id="m0002" participant="130583" time="2013-07-17 12:24:06 UTC">
+      <body>Oh, Jacob, Rachel, and Nye send greetings</body>
+    </message>
+    <message id="m0003" participant="130630" time="2013-07-17 12:24:31 UTC">
+      <body>Ah - I'm about to take a nap</body>
+    </message>
+    <message id="m0004" participant="130583" time="2013-07-17 12:26:15 UTC">
+      <body>Well that was my plan too before you clocked in. So later maybe? 3ish?</body>
+    </message>
+    <message id="m0005" participant="130630" time="2013-07-17 12:26:23 UTC">
+      <body>Saw dr this morning - apparently it's a valve issue of some Iind</body>
+    </message>
+    <message id="m0006" participant="130630" time="2013-07-17 12:26:27 UTC">
+      <body>Ttyl</body>
+    </message>
+    <message id="m0007" participant="130583" time="2013-07-17 12:27:33 UTC">
+      <body>Ooo. TTFN</body>
+    </message>
+    <message id="m0008" participant="130583" time="2013-07-17 15:16:14 UTC">
+      <body>Hiya. I just finished my guided meditation session, and the conductor announced 10-15 minutes to New York City.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-26 18:03:29 UTC" participant="153418">
+      <body>Hey! Do you want to go get ramen today?</body>
+    </message>
+    <message id="m0001" time="2013-01-26 20:56:52 UTC" participant="153443">
+      <body>Hey, 40 and walnut, right?</body>
+    </message>
+    <message id="m0002" time="2013-01-26 20:57:09 UTC" participant="153418">
+      <body>Yeah, we're on our way.</body>
+    </message>
+    <message id="m0003" time="2013-01-26 20:59:45 UTC" participant="153443">
+      <body>I just arrived there. Please call me when you get here.</body>
+    </message>
+    <message id="m0004" time="2013-01-27 00:08:21 UTC" participant="153443">
+      <body>Hey John, thanks for hanging out today. I'm on 47 bus now. Well, can you tell me the name of the Japanese professor whom we're gonna meet?</body>
+    </message>
+    <message id="m0005" time="2013-01-27 01:24:12 UTC" participant="153443">
+      <body>Thanks! And im home drinking coffee! Im safe! </body>
+    </message>
+  </messages>
+</conversation>
+

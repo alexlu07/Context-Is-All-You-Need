@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131354" time="2013-05-08 01:19:56 UTC">
+      <body>Hey u wanna come up to dubuque.  ?   Got some work for u</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-08 01:21:30 UTC">
+      <body>I would love to, but have some shit to take care of first.  Maybe 6mos, unfortunately.</body>
+    </message>
+    <message id="m0002" participant="131354" time="2013-05-08 01:22:10 UTC">
+      <body>My friend sais what ever</body>
+    </message>
+  </messages>
+</conversation>

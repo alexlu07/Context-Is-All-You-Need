@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130122.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-01-22 15:08:48 UTC">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-22 15:10:08 UTC">
+      <body>Oh I wad just picking up my phone to call you</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-23 12:29:33 UTC">
+      <body>￼Analog v mechanical pencil sharpners then mechanical pencils</body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-01-23 14:55:39 UTC">
+      <body>MIM!</body>
+    </message>
+  </messages>
+</conversation>

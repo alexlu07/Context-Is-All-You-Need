@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0091" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-22 20:35:02 UTC" participant="149363">
+      <body>What's your fake name? I'll send you a friend request.</body>
+    </message>
+    <message id="m0001" time="2013-05-22 20:39:48 UTC" participant="149306">
+      <body>
+Francis Drumm with a dog picture</body>
+    </message>
+    <message id="m0002" time="2013-05-22 20:41:16 UTC" participant="149363">
+      <body>The dog theme is hilarious.</body>
+    </message>
+    <message id="m0003" time="2013-05-22 20:42:17 UTC" participant="149306">
+      <body>It's so trusting</body>
+    </message>
+  </messages>
+</conversation>
+

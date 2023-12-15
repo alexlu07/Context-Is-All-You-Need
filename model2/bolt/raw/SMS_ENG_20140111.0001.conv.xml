@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140111.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-11 19:19:43 UTC" participant="149369">
+      <body>Ok, good deal</body>
+    </message>
+    <message id="m0001" time="2014-01-11 21:02:51 UTC" participant="149306">
+      <body>It will probably be ready at 6 or so but if you come at 7 it will be fine</body>
+    </message>
+    <message id="m0002" time="2014-01-11 21:05:32 UTC" participant="149369">
+      <body>Ok, I'll send you a text when i leave from here</body>
+    </message>
+    <message id="m0003" time="2014-01-11 21:08:24 UTC" participant="149306">
+      <body>Ok </body>
+    </message>
+    <message id="m0004" time="2014-01-11 22:40:07 UTC" participant="149369">
+      <body>I'm walking out of my door now</body>
+    </message>
+    <message id="m0005" time="2014-01-11 22:41:30 UTC" participant="149306">
+      <body>Perfect it will be ready in 45 min</body>
+    </message>
+    <message id="m0006" time="2014-01-11 22:42:32 UTC" participant="149369">
+      <body>Laura isn't coming though, she isn't feeling well. I hope that doesn't mess anything up</body>
+    </message>
+    <message id="m0007" time="2014-01-11 22:43:11 UTC" participant="149306">
+      <body>Nope hope she gets better</body>
+    </message>
+  </messages>
+</conversation>
+

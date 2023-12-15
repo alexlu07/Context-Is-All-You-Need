@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120924.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131531" time="2012-09-24 16:31:45 UTC">
+      <body>Did the move happen/ job decided? </body>
+    </message>
+    <message id="m0001" participant="131528" time="2012-09-24 16:48:00 UTC">
+      <body>Job decided: census. move happens next week</body>
+    </message>
+    <message id="m0002" participant="131531" time="2012-09-24 17:00:55 UTC">
+      <body>Woo!! I'm excited. </body>
+    </message>
+  </messages>
+</conversation>

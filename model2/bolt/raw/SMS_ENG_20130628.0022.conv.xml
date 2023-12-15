@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131509" time="2013-06-28 14:56:14 UTC">
+      <body>Sam: 
+
+When will you be in today to return your equipment. I was in early at 6:45 am in the event you stopped by after the red eye. 
+
+Please stop in earl</body>
+    </message>
+    <message id="m0001" participant="131509" time="2013-06-28 14:56:15 UTC">
+      <body>y this afternoon since I will be leaving around 3 PM today and I need to get the equipment since Pete will be leaving in the next half hour.
+
+Thanks.
+
+Jo</body>
+    </message>
+    <message id="m0002" participant="131509" time="2013-06-28 14:56:17 UTC">
+      <body>e</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-06-28 14:57:52 UTC">
+      <body>Be in around 1 pm. Need to hand in expense reports  and submit time sheet too.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-28 17:12:00 UTC">
+      <body>Hey joe, I'm on my way down now. Got held up.</body>
+    </message>
+    <message id="m0005" participant="131509" time="2013-06-28 17:27:57 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

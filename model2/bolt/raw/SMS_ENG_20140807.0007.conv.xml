@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140807.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-07 23:50:45 UTC" participant="152119">
+      <body>Johnnnn! I heard you're coming to Philly this Saturday but I have work. Booooo! :( How long will you be in the city? </body>
+    </message>
+    <message id="m0001" time="2014-08-07 23:54:47 UTC" participant="153418">
+      <body>Hey Sammy. Yeah, I'll be dropping by Saturday night.</body>
+    </message>
+    <message id="m0002" time="2014-08-07 23:54:57 UTC" participant="153418">
+      <body>I leave early Monday morning.</body>
+    </message>
+    <message id="m0003" time="2014-08-08 00:23:32 UTC" participant="152119">
+      <body>Oh nooo. I've got work Sunday afternoon and then I have plans for Sunday night. Waugh! This stinks, I miss you. :( </body>
+    </message>
+    <message id="m0004" time="2014-08-08 01:01:54 UTC" participant="153418">
+      <body>That sucks. :[
+I'm not sure when I'll be in the city again. I'll try to let you know earlier next time. Then we can hang out.</body>
+    </message>
+  </messages>
+</conversation>
+

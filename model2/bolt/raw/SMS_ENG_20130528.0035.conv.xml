@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131958" time="2013-05-28 01:01:35 UTC">
+      <body>Are we still switching tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131945" time="2013-05-28 01:02:15 UTC">
+      <body>Yes!  I was totally gonna remind you, but I forgot to...thanks!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121018.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="136295" time="2012-10-18 02:22:56 UTC">
+      <body>Are you guys still at the library?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-18 02:24:18 UTC">
+      <body>No, we left a while ago. No studying was being done</body>
+    </message>
+    <message id="m0003" participant="136295" time="2012-10-18 02:27:12 UTC">
+      <body>Haha ok well maybe tomorrow then. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131024.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-24 14:01:01 UTC" participant="152417">
+      <body>Artsriot is closing their restaurant already!  Im underemployed again in two weeks...</body>
+    </message>
+    <message id="m0001" time="2013-10-24 14:02:07 UTC" participant="152560">
+      <body>Why?! What happened so suddenly-it sounds like you guys are busy.</body>
+    </message>
+    <message id="m0002" time="2013-10-24 16:04:41 UTC" participant="152417">
+      <body>Even tho its starting to do well its not yet solvent and the owners feel like the restaurant is off course for their mission</body>
+    </message>
+    <message id="m0003" time="2013-10-24 23:57:19 UTC" participant="152560">
+      <body>Are you hungry? Leonardos or Pho?...Im tuckered out after that exam.</body>
+    </message>
+    <message id="m0004" time="2013-10-25 00:00:07 UTC" participant="152417">
+      <body>Leos! Ill be home in a little bit</body>
+    </message>
+    <message id="m0005" time="2013-10-25 00:14:37 UTC" participant="152560">
+      <body>Alrighty.</body>
+    </message>
+    <message id="m0006" time="2013-10-25 10:26:14 UTC" participant="152560">
+      <body>Quick question: do I put the coffee into your espresso maker first, and pour the water into the top part, then wait for it to pour into the bottom?</body>
+    </message>
+  </messages>
+</conversation>
+

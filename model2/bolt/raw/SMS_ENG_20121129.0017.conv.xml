@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121129.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135455" time="2012-11-29 16:58:12 UTC">
+      <body>Are y'all here?  Going to clover truck!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-29 16:58:27 UTC">
+      <body>Meeting with joe;(</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-29 17:55:42 UTC">
+      <body>Ahhhhhh</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-29 17:55:45 UTC">
+      <body>I want</body>
+    </message>
+    <message id="m0004" participant="135455" time="2012-11-29 18:04:05 UTC">
+      <body>Bake sale in lobby!!</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-29 18:09:11 UTC">
+      <body>Bring me a surprise?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-29 18:09:13 UTC">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0007" participant="135455" time="2012-11-29 18:10:12 UTC">
+      <body>U on 4?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131973" time="2013-06-23 22:50:28 UTC">
+      <body>Hey you still comin? </body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-23 22:51:11 UTC">
+      <body>Ha, literally just went to text you ...still at rehearsal...</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-23 23:25:43 UTC">
+      <body>:-//</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-06-24 02:21:37 UTC">
+      <body>Ugh, def not makin it out west...hope the party was schwell!!</body>
+    </message>
+    <message id="m0004" participant="131973" time="2013-06-24 02:32:22 UTC">
+      <body>You suck! Ha! </body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-24 02:35:25 UTC">
+      <body>Ack! I know! I bought a bottle of good tequila and errrrthang!!!</body>
+    </message>
+  </messages>
+</conversation>

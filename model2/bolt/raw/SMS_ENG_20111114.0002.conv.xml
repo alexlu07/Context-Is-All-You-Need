@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111114.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-11-14 18:09:05 UTC">
+      <body>Can my car be home when I get home for Christmas?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-11-14 18:09:50 UTC">
+      <body>We</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-11-14 18:10:26 UTC">
+      <body>We will do our best.</body>
+    </message>
+  </messages>
+</conversation>

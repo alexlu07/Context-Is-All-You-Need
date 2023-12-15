@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 12:28:31 UTC" participant="153451">
+      <body>Happy New Year!</body>
+    </message>
+    <message id="m0001" time="2014-01-01 19:20:04 UTC" participant="153418">
+      <body>Happy new year~</body>
+    </message>
+    <message id="m0002" time="2014-01-01 19:20:30 UTC" participant="153451">
+      <body>Thanks lol </body>
+    </message>
+    <message id="m0003" time="2014-01-01 19:21:42 UTC" participant="153451">
+      <body>What's your email?</body>
+    </message>
+    <message id="m0004" time="2014-01-01 19:26:44 UTC" participant="153451">
+      <body>Would you use that if you was tutoring?</body>
+    </message>
+    <message id="m0005" time="2014-01-01 19:27:15 UTC" participant="153418">
+      <body>Yes. </body>
+    </message>
+    <message id="m0006" time="2014-01-01 19:31:26 UTC" participant="153451">
+      <body>Ok cool </body>
+    </message>
+  </messages>
+</conversation>
+

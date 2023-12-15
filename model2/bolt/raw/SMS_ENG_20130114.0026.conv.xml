@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130114.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135364" time="2013-01-14 00:06:55 UTC">
+      <body>Hey love, can I call you in a little bit?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-14 01:38:56 UTC">
+      <body>Oh shit I really wanna talk</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-14 01:39:26 UTC">
+      <body>In a couple if hours</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-14 01:39:29 UTC">
+      <body>!?</body>
+    </message>
+  </messages>
+</conversation>

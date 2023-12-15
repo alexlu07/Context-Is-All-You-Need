@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120524.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-05-24 14:54:46 UTC">
+      <body>I got you</body>
+    </message>
+    <message id="m0001" participant="131822" time="2012-05-24 14:56:00 UTC">
+      <body>Quinton are you awake? I forgot my wallet in my room so can't get in the building</body>
+    </message>
+  </messages>
+</conversation>

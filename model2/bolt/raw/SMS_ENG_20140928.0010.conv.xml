@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140928.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-28 20:18:07 UTC" participant="153547">
+      <body>Hey Geoff, what's your email?  I got some of "Oracle/Samsara" framed up if you still want one. The round notebook paper. </body>
+    </message>
+    <message id="m0002" time="2014-09-29 16:24:03 UTC" participant="153547">
+      <body>Is there a typo in that email address?</body>
+    </message>
+    <message id="m0003" time="2014-09-29 16:29:52 UTC" participant="149366">
+      <body>the middle letter is an L. plus .com at the end</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 05:19:08 UTC" participant="152734">
+      <body>Happy new year!! </body>
+    </message>
+    <message id="m0001" time="2014-01-01 05:40:17 UTC" participant="153272">
+      <body>Happy new year!!!! Love ya!</body>
+    </message>
+    <message id="m0002" time="2014-01-02 02:59:02 UTC" participant="152734">
+      <body>Yo! We're back from the beach and gonna stay in fairfax til Friday on account of the weather. See you tomorrow maybe? Not sure if you're in ffax still! </body>
+    </message>
+  </messages>
+</conversation>
+

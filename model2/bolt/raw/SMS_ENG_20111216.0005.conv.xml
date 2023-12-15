@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111216.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131318" time="2011-12-16 22:05:45 UTC">
+      <body>Hey. Bob and i r at fins happy hour having clams etc.  Thanks for finding  this for all of us!  Chris left today.  Its officially over.  We r missing all!</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-12-16 22:06:58 UTC">
+      <body>Aw enjoy! Great working with you, see you at the party!</body>
+    </message>
+    <message id="m0002" participant="131318" time="2011-12-16 22:07:41 UTC">
+      <body>Ditto. C u there</body>
+    </message>
+  </messages>
+</conversation>

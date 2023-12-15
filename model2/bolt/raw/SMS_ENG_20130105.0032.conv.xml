@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-05 13:27:12 UTC" participant="152533">
+      <body>Heyo is simone available to play?</body>
+    </message>
+    <message id="m0001" time="2013-01-05 14:22:24 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2013-01-05 15:39:27 UTC" participant="152417">
+      <body>Still interested in taking her out?</body>
+    </message>
+    <message id="m0003" time="2013-01-05 16:19:12 UTC" participant="152533">
+      <body>Perhaps later in the afternoon</body>
+    </message>
+  </messages>
+</conversation>
+

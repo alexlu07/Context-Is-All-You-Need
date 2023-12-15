@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-16 02:18:21 UTC" participant="153466">
+      <body>What is your preferred brand of baseball glove?</body>
+    </message>
+    <message id="m0001" time="2013-03-16 02:38:50 UTC" participant="152374">
+      <body>Can't go wrong with Rawlings</body>
+    </message>
+  </messages>
+</conversation>
+

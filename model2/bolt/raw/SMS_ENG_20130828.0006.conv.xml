@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130828.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-28 16:41:32 UTC" participant="153244">
+      <body>Hey... did you met up with Steven? </body>
+    </message>
+    <message id="m0001" time="2013-08-28 16:54:03 UTC" participant="154895">
+      <body>No i didnt feel like it today...i have another class now</body>
+    </message>
+    <message id="m0002" time="2013-08-28 16:54:27 UTC" participant="153244">
+      <body>Oh ok. He at least text you?</body>
+    </message>
+    <message id="m0003" time="2013-08-28 16:56:23 UTC" participant="154895">
+      <body>Yeah</body>
+    </message>
+    <message id="m0004" time="2013-08-28 16:56:49 UTC" participant="153244">
+      <body>Ok good.. steven is cool. You'll like him. Going to chemistry now?</body>
+    </message>
+    <message id="m0005" time="2013-08-28 16:57:05 UTC" participant="153244">
+      <body>No sociology now</body>
+    </message>
+  </messages>
+</conversation>
+

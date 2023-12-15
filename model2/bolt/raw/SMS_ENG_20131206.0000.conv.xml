@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131206.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-06 02:19:16 UTC" participant="149387">
+      <body>How did the rest of your day with Zoe go?</body>
+    </message>
+    <message id="m0001" time="2013-12-06 02:53:30 UTC" participant="149306">
+      <body>No other problems once the leash was on.</body>
+    </message>
+    <message id="m0002" time="2013-12-06 02:54:56 UTC" participant="149387">
+      <body>Ok, good. Swimming in the Gulf of Mexico today was amazing. That's the one thing I miss living in Philly. </body>
+    </message>
+    <message id="m0003" time="2013-12-06 02:59:12 UTC" participant="149387">
+      <body>Haha. Just a little. We have dolphins.</body>
+    </message>
+    <message id="m0004" time="2013-12-06 02:59:37 UTC" participant="149306">
+      <body>Is swimming in the Delaware really that different?</body>
+    </message>
+    <message id="m0005" time="2013-12-06 03:00:56 UTC" participant="149306">
+      <body>We have mercury </body>
+    </message>
+    <message id="m0006" time="2013-12-06 03:01:20 UTC" participant="149387">
+      <body>Hard to beat that</body>
+    </message>
+  </messages>
+</conversation>
+

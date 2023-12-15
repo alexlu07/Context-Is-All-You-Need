@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130315.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-03-15 15:33:34 UTC">
+      <body>New orleans is awesome. How's your break going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-15 16:22:31 UTC">
+      <body>it's alright. hard to believe it's already friday. are you feeling better? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-03-15 17:14:27 UTC">
+      <body>Not particularly. Are you busy next week?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-15 17:32:07 UTC">
+      <body>not especially. sorry you're still feeling sick, but i'm glad you're still having a good time. :) </body>
+    </message>
+  </messages>
+</conversation>

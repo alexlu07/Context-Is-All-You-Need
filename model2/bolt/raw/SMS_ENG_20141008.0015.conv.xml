@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141008.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-08 13:00:37 UTC" participant="153544">
+      <body>Hey! What are up to Saturday at 10am?</body>
+    </message>
+    <message id="m0001" time="2014-10-08 13:29:26 UTC" participant="153491">
+      <body>Hi! I'm planning to take my nephews to the Oval for the County Fair event.</body>
+    </message>
+    <message id="m0002" time="2014-10-08 13:59:50 UTC" participant="153544">
+      <body>Oh nice!</body>
+    </message>
+    <message id="m0003" time="2014-10-08 14:06:16 UTC" participant="153491">
+      <body>You? Any plans?</body>
+    </message>
+    <message id="m0004" time="2014-10-08 14:59:49 UTC" participant="153544">
+      <body>Going to this free financial strategy event. Was curious if you wanted to come since you're into business</body>
+    </message>
+  </messages>
+</conversation>
+

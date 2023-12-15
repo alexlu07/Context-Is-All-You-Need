@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0075" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-02 22:44:57 UTC" participant="152537">
+      <body>You coming to the movie?</body>
+    </message>
+    <message id="m0001" time="2013-05-02 23:23:37 UTC" participant="152417">
+      <body>Eek, i couldnt convince Ria to come...so no :-(</body>
+    </message>
+    <message id="m0002" time="2013-05-02 23:26:15 UTC" participant="152537">
+      <body>All good. But you're missin' all the fun!</body>
+    </message>
+  </messages>
+</conversation>
+

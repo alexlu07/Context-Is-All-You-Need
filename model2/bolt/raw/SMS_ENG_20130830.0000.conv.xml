@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 22:12:05 UTC" participant="152417">
+      <body>Stu, what should we do with the doors in the shed? Leave em?</body>
+    </message>
+    <message id="m0001" time="2013-08-30 23:47:28 UTC" participant="152524">
+      <body>What are the doors?</body>
+    </message>
+    <message id="m0002" time="2013-08-31 01:00:50 UTC" participant="152417">
+      <body>Apparently over the years everyone took off their closet doors</body>
+    </message>
+    <message id="m0003" time="2013-08-31 01:02:38 UTC" participant="152524">
+      <body>Oh my. Lets leave them there and I'll figure them out after the weekend.</body>
+    </message>
+  </messages>
+</conversation>
+

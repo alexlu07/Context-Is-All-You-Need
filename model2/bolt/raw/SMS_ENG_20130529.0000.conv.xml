@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130707" time="2013-05-28 21:03:15 UTC">
+      <body>Hi again</body>
+    </message>
+    <message id="m0001" participant="130707" time="2013-05-29 12:46:04 UTC">
+      <body>Hello?</body>
+    </message>
+    <message id="m0002" participant="130633" time="2013-05-29 12:49:44 UTC">
+      <body>Hi. Sorry I've been quiet.</body>
+    </message>
+    <message id="m0003" participant="130707" time="2013-05-29 14:15:16 UTC">
+      <body>It's ok. I am just not how much we are supposed to text for this</body>
+    </message>
+    <message id="m0004" participant="130707" time="2013-05-29 17:57:09 UTC">
+      <body>How was your day?</body>
+    </message>
+    <message id="m0005" participant="130633" time="2013-05-29 17:58:25 UTC">
+      <body>Astoundingly unproductive. But I did find out I aced the class I just finished. :)</body>
+    </message>
+    <message id="m0006" participant="130707" time="2013-05-29 19:40:59 UTC">
+      <body>Oh good for you :)</body>
+    </message>
+  </messages>
+</conversation>

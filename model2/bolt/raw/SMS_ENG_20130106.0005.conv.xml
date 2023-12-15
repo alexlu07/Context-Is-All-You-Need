@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130106.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131424" time="2013-01-06 19:48:09 UTC">
+      <body>Hey!  Thx for 'hi'.  A pleasant surprise. Hope you are well. </body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-01-06 19:49:16 UTC">
+      <body>Hi Bob, So nice to hear from you! School starts Wednesday. I am resting up. How are you?</body>
+    </message>
+    <message id="m0002" participant="131424" time="2013-01-06 20:29:33 UTC">
+      <body>Resting up= great!  Life's pretty good thx.  We'll have to get together this winter/spring &amp; catch up. </body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-01-06 20:41:24 UTC">
+      <body>Lets shoot for winter rather than spring! Let me know when you're free. </body>
+    </message>
+  </messages>
+</conversation>

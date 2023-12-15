@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140906.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-06 16:25:23 UTC" participant="152429">
+      <body>There's a store near the British museum called It's All Greek to Me</body>
+    </message>
+    <message id="m0001" time="2014-09-06 16:26:38 UTC" participant="152417">
+      <body>Nice, can you take a photo for me?</body>
+    </message>
+    <message id="m0002" time="2014-09-06 16:32:00 UTC" participant="152429">
+      <body>Yeah I will</body>
+    </message>
+    <message id="m0003" time="2014-09-06 21:25:43 UTC" participant="152429">
+      <body>Charger?</body>
+    </message>
+    <message id="m0004" time="2014-09-06 21:25:46 UTC" participant="152429">
+      <body>Sorry wrong person</body>
+    </message>
+    <message id="m0005" time="2014-09-07 12:40:55 UTC" participant="152429">
+      <body>I got you a present</body>
+    </message>
+    <message id="m0006" time="2014-09-07 12:40:56 UTC" participant="152429">
+      <body>￼</body>
+    </message>
+    <message id="m0007" time="2014-09-07 14:36:19 UTC" participant="152429">
+      <body>It's a magnet</body>
+    </message>
+    <message id="m0008" time="2014-09-07 14:36:33 UTC" participant="152429">
+      <body>And the walls in my room are magnetic, so it's above my bed waiting for you</body>
+    </message>
+    <message id="m0009" time="2014-09-07 14:36:38 UTC" participant="152429">
+      <body>I'll give it to mom</body>
+    </message>
+    <message id="m0010" time="2014-09-07 15:00:50 UTC" participant="152417">
+      <body>Sweet! Thank you</body>
+    </message>
+  </messages>
+</conversation>
+

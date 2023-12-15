@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150501.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-05-01 20:43:54 UTC" participant="153804">
+      <body>R U having a great time w/your son? How's the weather?</body>
+    </message>
+    <message id="m0001" time="2015-05-01 21:06:42 UTC" participant="153817">
+      <body>Yes the weather  is perfect</body>
+    </message>
+    <message id="m0002" time="2015-05-01 21:17:06 UTC" participant="153804">
+      <body>Great way to treat yourself for Mother's Day!</body>
+    </message>
+    <message id="m0003" time="2015-05-01 21:17:54 UTC" participant="153817">
+      <body>But he has his moments!</body>
+    </message>
+    <message id="m0004" time="2015-05-01 21:18:40 UTC" participant="153804">
+      <body>He knows how to push your buttons after so many years!!</body>
+    </message>
+    <message id="m0005" time="2015-05-01 21:19:25 UTC" participant="153817">
+      <body>He gets mad at people not me.</body>
+    </message>
+    <message id="m0006" time="2015-05-01 21:20:54 UTC" participant="153804">
+      <body>Well you better nip that in the bud!nothing worst then angry men when they get older.</body>
+    </message>
+    <message id="m0007" time="2015-05-01 21:21:29 UTC" participant="153817">
+      <body>He is just like his father</body>
+    </message>
+    <message id="m0008" time="2015-05-01 21:22:36 UTC" participant="153804">
+      <body>but you still got to love them!</body>
+    </message>
+    <message id="m0009" time="2015-05-01 21:42:23 UTC" participant="153817">
+      <body>Yes I do!</body>
+    </message>
+  </messages>
+</conversation>
+

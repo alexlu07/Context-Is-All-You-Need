@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-11 22:46:10 UTC" participant="153442">
+      <body>Hey are you still on campus??</body>
+    </message>
+    <message id="m0001" time="2013-02-11 22:47:52 UTC" participant="153418">
+      <body>Yeah, you done lecture?</body>
+    </message>
+    <message id="m0002" time="2013-02-11 22:48:43 UTC" participant="153442">
+      <body>We are about to finish up any minute. Wanna meet at the main building?</body>
+    </message>
+    <message id="m0003" time="2013-02-11 22:49:08 UTC" participant="153418">
+      <body>K, head toward the CAD lab?</body>
+    </message>
+    <message id="m0004" time="2013-02-11 22:50:36 UTC" participant="153442">
+      <body>Yeah</body>
+    </message>
+    <message id="m0005" time="2013-02-11 22:53:20 UTC" participant="153442">
+      <body>We are on our way</body>
+    </message>
+    <message id="m0006" time="2013-02-11 22:54:03 UTC" participant="153418">
+      <body>Me too. Coming from Pearlstein though.</body>
+    </message>
+    <message id="m0007" time="2013-02-12 17:35:08 UTC" participant="153442">
+      <body>We only have a few things to fix. Most of the things that need to be done is spoken</body>
+    </message>
+    <message id="m0008" time="2013-02-12 21:42:30 UTC" participant="153418">
+      <body>You're free at 5, right? Where do you wanna meet?</body>
+    </message>
+    <message id="m0009" time="2013-02-12 21:45:09 UTC" participant="153442">
+      <body>Yeah I'm gonna grab a bite to eat and then I can meet at the cad lab.</body>
+    </message>
+    <message id="m0010" time="2013-02-12 21:45:45 UTC" participant="153418">
+      <body>Let me know when you're there and I'll drop by.</body>
+    </message>
+    <message id="m0011" time="2013-02-12 21:46:05 UTC" participant="153442">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" time="2013-02-12 22:14:45 UTC" participant="153442">
+      <body>I'm at the main building. Walking to lab now</body>
+    </message>
+    <message id="m0013" time="2013-02-12 22:15:12 UTC" participant="153418">
+      <body>Sorry, I'll be a little late. Got stuck at work.</body>
+    </message>
+    <message id="m0014" time="2013-02-12 22:16:18 UTC" participant="153442">
+      <body>That's cool. Ill be here for a while</body>
+    </message>
+    <message id="m0015" time="2013-02-12 22:31:34 UTC" participant="153418">
+      <body>I'm in the lab.</body>
+    </message>
+    <message id="m0016" time="2013-02-12 22:40:19 UTC" participant="153418">
+      <body>Uh...where are you?</body>
+    </message>
+    <message id="m0017" time="2013-02-12 22:41:02 UTC" participant="153442">
+      <body>Did u go to cad lab?</body>
+    </message>
+    <message id="m0018" time="2013-02-12 22:41:17 UTC" participant="153442">
+      <body>I'm in my way up</body>
+    </message>
+  </messages>
+</conversation>
+

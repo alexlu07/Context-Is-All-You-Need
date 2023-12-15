@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150223.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-23 14:01:47 UTC" participant="152212">
+      <body>just double checking... we are still on for this morning?</body>
+    </message>
+    <message id="m0001" time="2015-02-23 14:01:48 UTC" participant="152212">
+      <body>at 10 am?</body>
+    </message>
+    <message id="m0002" time="2015-02-23 14:04:48 UTC" participant="152256">
+      <body>Let's do it
+Just leaving now
+Maybe 10:15
+You need coffee?</body>
+    </message>
+    <message id="m0003" time="2015-02-23 14:04:48 UTC" participant="152212">
+      <body>always. you stopping at tatte?</body>
+    </message>
+    <message id="m0004" time="2015-02-23 14:04:48 UTC" participant="152256">
+      <body>No
+Going back way
+Too much traffic right now</body>
+    </message>
+    <message id="m0005" time="2015-02-23 14:06:51 UTC" participant="152212">
+      <body>alright. 10:15 then. or do want to do 10:30. Im working on this stuff here so it doesn’t matter to me.</body>
+    </message>
+    <message id="m0006" time="2015-02-23 14:52:51 UTC" participant="152256">
+      <body>Hi arrived at Massart </body>
+    </message>
+    <message id="m0007" time="2015-02-23 14:53:07 UTC" participant="152256">
+      <body>Going for coffee at pests</body>
+    </message>
+    <message id="m0008" time="2015-02-23 15:12:52 UTC" participant="152256">
+      <body>In my office</body>
+    </message>
+    <message id="m0009" time="2015-02-23 15:13:00 UTC" participant="152212">
+      <body>On ten</body>
+    </message>
+    <message id="m0010" time="2015-02-23 15:13:13 UTC" participant="152212">
+      <body>See u in 30 sec</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 15:59:46 UTC" participant="149306">
+      <body>Do u have any binoculars I can borrow for the day</body>
+    </message>
+    <message id="m0001" time="2013-05-04 16:23:28 UTC" participant="149360">
+      <body>I have a monocular in a fabric case on one of my desks</body>
+    </message>
+    <message id="m0002" time="2013-05-04 16:24:17 UTC" participant="149306">
+      <body>Ok thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

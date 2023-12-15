@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111005.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2011-10-05 04:18:08 UTC">
+      <body>Going to bed or staying up?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-10-05 04:18:35 UTC">
+      <body>Short answer: homeworkkkk</body>
+    </message>
+    <message id="m0002" participant="131823" time="2011-10-05 04:20:08 UTC">
+      <body>hhaha nevermind then!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-10-05 04:30:31 UTC">
+      <body>Sorry :-/ it sucks</body>
+    </message>
+    <message id="m0004" participant="131823" time="2011-10-05 04:32:02 UTC">
+      <body>:/  another time then?</body>
+    </message>
+  </messages>
+</conversation>

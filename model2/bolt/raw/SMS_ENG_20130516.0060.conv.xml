@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130516.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135304" time="2013-05-16 03:27:44 UTC">
+      <body>It's in the parking lot.</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-16 03:30:06 UTC">
+      <body>We are gonna take the next one I think, thanks :)</body>
+    </message>
+    <message id="m0002" participant="135304" time="2013-05-16 03:30:42 UTC">
+      <body>Have fun! :-)</body>
+    </message>
+  </messages>
+</conversation>

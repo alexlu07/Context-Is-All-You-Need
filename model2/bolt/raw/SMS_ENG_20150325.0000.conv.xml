@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150325.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-25 23:21:09 UTC" participant="152115">
+      <body>I'll be done in a few minutes</body>
+    </message>
+    <message id="m0001" time="2015-03-25 23:23:37 UTC" participant="152117">
+      <body>Dad's on his way</body>
+    </message>
+    <message id="m0002" time="2015-03-26 21:05:57 UTC" participant="152115">
+      <body>I'm with Michael.</body>
+    </message>
+    <message id="m0003" time="2015-03-26 21:06:37 UTC" participant="152117">
+      <body>Ok love you '</body>
+    </message>
+    <message id="m0004" time="2015-03-26 21:06:56 UTC" participant="152115">
+      <body>Love you</body>
+    </message>
+  </messages>
+</conversation>
+

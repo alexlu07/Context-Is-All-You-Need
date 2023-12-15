@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-05 13:50:58 UTC" participant="152534">
+      <body>Hey gabi. Would you like to get coffee or dinner tonight?</body>
+    </message>
+    <message id="m0001" time="2013-02-05 15:14:36 UTC" participant="152417">
+      <body>Yea, thatd be great, i play at dobra til 8, wanna meet there and then we can go elsewhere if wed like?</body>
+    </message>
+    <message id="m0002" time="2013-02-05 15:45:56 UTC" participant="152534">
+      <body>Yeah sure. I'll swing by there tonight.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-11 21:05:01 UTC">
+      <body>Hey what its Scott doing on Saturday?</body>
+    </message>
+    <message id="m0001" participant="136670" time="2013-07-11 23:05:27 UTC">
+      <body>He has church on Saturday 5-6:15pm.  Other than that, he's free.</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-11 23:20:05 UTC">
+      <body>Ok. Going to see if i have time to take him out. Maybe face and busters</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-11 23:20:10 UTC">
+      <body>Dave</body>
+    </message>
+    <message id="m0004" participant="136670" time="2013-07-11 23:20:40 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

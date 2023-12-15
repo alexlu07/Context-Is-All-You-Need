@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120205.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-05 17:45:12 UTC" participant="152374">
+      <body>Oh, cool. Do I just give them to you? Or are they changing all the locks?</body>
+    </message>
+    <message id="m0001" time="2012-02-05 19:32:13 UTC" participant="153464">
+      <body>Not changing locks, so you can give them to me</body>
+    </message>
+    <message id="m0002" time="2012-02-05 19:33:35 UTC" participant="152374">
+      <body>Okies. Will do :)</body>
+    </message>
+  </messages>
+</conversation>
+

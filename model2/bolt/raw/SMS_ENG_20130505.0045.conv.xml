@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-05 16:44:15 UTC" participant="152374">
+      <body>Hey, it's ########... I'm here a little early and the guy at the desk has no idea what I'm talking about</body>
+    </message>
+    <message id="m0001" time="2013-05-05 16:50:14 UTC" participant="152394">
+      <body>Oh super. I'm almost there</body>
+    </message>
+    <message id="m0002" time="2013-05-05 16:50:55 UTC" participant="152374">
+      <body>Okay. I'm just in inside the door</body>
+    </message>
+  </messages>
+</conversation>
+

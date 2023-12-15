@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140202.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-02 23:43:30 UTC" participant="153547">
+      <body>￼￼Pulled pork NC style and Brunswick stew with rabbit , chicken and pork</body>
+    </message>
+    <message id="m0001" time="2014-02-02 23:46:30 UTC" participant="153572">
+      <body>We'll B RT over.</body>
+    </message>
+    <message id="m0002" time="2014-02-02 23:57:10 UTC" participant="153572">
+      <body>Watching game?</body>
+    </message>
+    <message id="m0003" time="2014-02-02 23:59:37 UTC" participant="153547">
+      <body>What game?</body>
+    </message>
+    <message id="m0004" time="2014-02-03 00:00:55 UTC" participant="153572">
+      <body>Ha ha. Super Bowl</body>
+    </message>
+  </messages>
+</conversation>
+

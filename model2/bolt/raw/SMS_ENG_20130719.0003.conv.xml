@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-19 15:14:13 UTC">
+      <body>Howdy. How's your day going?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-19 21:39:37 UTC">
+      <body>Not bad, just too much driving on too little sleep. Spent the nite sleeping on the floor @ the Capitol, now i'm @ a water park resort in orlando with my fam.</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-19 21:40:21 UTC">
+      <body>Sorta surreal really. You off to a good wknd?</body>
+    </message>
+    <message id="m0003" participant="134066" time="2013-07-19 23:08:58 UTC">
+      <body>Yeah not up to much, trying to avoid the heat mostly</body>
+    </message>
+  </messages>
+</conversation>

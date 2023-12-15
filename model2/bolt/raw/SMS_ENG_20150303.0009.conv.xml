@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 22:53:52 UTC" participant="152766">
+      <body>Hey there. For March. An we do March 18?</body>
+    </message>
+    <message id="m0001" time="2015-03-03 22:58:08 UTC" participant="152766">
+      <body>Actually 19th ok?</body>
+    </message>
+    <message id="m0002" time="2015-03-03 23:51:37 UTC" participant="152735">
+      <body>Sure!</body>
+    </message>
+    <message id="m0003" time="2015-03-04 02:14:24 UTC" participant="152766">
+      <body>Ok awesome. 19th it is!</body>
+    </message>
+    <message id="m0004" time="2015-03-04 02:16:43 UTC" participant="152735">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

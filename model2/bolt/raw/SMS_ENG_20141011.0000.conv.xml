@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141011.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-10-11 18:53:18 UTC" participant="152119">
+      <body>Yeah, sure! I'm shopping with my mom now but we should be home before then. :) </body>
+    </message>
+    <message id="m0002" time="2014-10-11 18:55:46 UTC" participant="152115">
+      <body>Ok cool! Let me know when you get in and we'll go from there.</body>
+    </message>
+    <message id="m0003" time="2014-10-11 19:35:44 UTC" participant="152119">
+      <body>Hey Eden! I'm thinking I'm gonna get to your house closer to 5 because I promised I'd help my brother with something but he's being a lazy poop so he's a bit late. Is that okay? </body>
+    </message>
+    <message id="m0004" time="2014-10-11 19:36:39 UTC" participant="152115">
+      <body>Yeah that's fine haha</body>
+    </message>
+  </messages>
+</conversation>
+

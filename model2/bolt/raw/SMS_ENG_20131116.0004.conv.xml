@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131116.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-16 14:09:24 UTC" participant="153547">
+      <body>I need to cut this paper down for you. What are your dimensions for the laser cutter? 18" max right?</body>
+    </message>
+    <message id="m0001" time="2013-11-16 14:13:20 UTC" participant="153559">
+      <body>18x32</body>
+    </message>
+    <message id="m0002" time="2013-11-16 14:35:32 UTC" participant="153547">
+      <body>Ok, I think you could fit 4 images on 1 sheet if they are around 12" tall. Could you do an edition of more than 8? It's cool if you can't but I think I can definitely sell more than 8. I have the paper if you are available. I can give it to you Monday as well. I'm working on a house near fish town</body>
+    </message>
+    <message id="m0003" time="2013-11-16 15:55:19 UTC" participant="153559">
+      <body>Out of town till Sunday eve I'll hit you up then </body>
+    </message>
+  </messages>
+</conversation>
+

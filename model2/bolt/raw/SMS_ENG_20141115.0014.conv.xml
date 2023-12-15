@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141115.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-15 15:43:04 UTC" participant="153547">
+      <body>Fish fry tonight. I need firewood if you have any</body>
+    </message>
+    <message id="m0001" time="2014-11-15 15:44:37 UTC" participant="153547">
+      <body>Around 630.</body>
+    </message>
+    <message id="m0002" time="2014-11-15 22:14:10 UTC" participant="153547">
+      <body>Are u going to be able to make it?</body>
+    </message>
+    <message id="m0003" time="2014-11-15 22:40:37 UTC" participant="153562">
+      <body>Hey man, id really like to but I gotta tend to the mushrooms tonight</body>
+    </message>
+  </messages>
+</conversation>
+

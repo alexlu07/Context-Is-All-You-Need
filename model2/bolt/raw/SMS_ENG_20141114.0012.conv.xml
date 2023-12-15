@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 18:01:20 UTC" participant="153458">
+      <body>hey I am relapsing I think. I am just going to stay home and come in on the weekend. I am all congested and my eyes look infected</body>
+    </message>
+    <message id="m0001" time="2014-11-14 18:01:36 UTC" participant="153458">
+      <body>I will see you tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-11-15 16:42:57 UTC" participant="153418">
+      <body>You already working away? </body>
+    </message>
+  </messages>
+</conversation>
+

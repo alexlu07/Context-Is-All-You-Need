@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141019.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-19 14:39:57 UTC" participant="152417">
+      <body>I'm going up to Collin's bagel shop if you want to come or if you want one delivered</body>
+    </message>
+    <message id="m0001" time="2014-10-19 14:41:04 UTC" participant="152424">
+      <body>that would be great.  can't come but would love to try one </body>
+    </message>
+    <message id="m0002" time="2014-10-19 14:41:04 UTC" participant="152424">
+      <body>wow that's amazing</body>
+    </message>
+    <message id="m0003" time="2014-10-19 14:41:19 UTC" participant="152417">
+      <body>Nevermind, they sold out already!</body>
+    </message>
+    <message id="m0004" time="2014-10-19 14:41:30 UTC" participant="152417">
+      <body>In an hour and a half</body>
+    </message>
+  </messages>
+</conversation>
+

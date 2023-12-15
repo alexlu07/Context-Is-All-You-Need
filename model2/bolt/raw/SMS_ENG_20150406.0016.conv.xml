@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150406.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-06 01:15:56 UTC" participant="153244">
+      <body>9% battery</body>
+    </message>
+    <message id="m0001" time="2015-04-06 01:34:51 UTC" participant="153244">
+      <body>Yo where are you?
+2% battery</body>
+    </message>
+    <message id="m0002" time="2015-04-06 01:35:39 UTC" participant="153799">
+      <body>By leprechaun and crazy diamonds near the cashier</body>
+    </message>
+    <message id="m0003" time="2015-04-06 01:36:20 UTC" participant="153244">
+      <body>Ok if phone dies look for me near hot shot machine we played with double wheels</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136276" time="2012-11-28 23:35:20 UTC">
+      <body>Wanna take a break and go to woodruff for dinner in an hour?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-28 23:36:56 UTC">
+      <body>I just ate at the DUC :( plus I've been "taking a break" all day so it's time for me to work lolol</body>
+    </message>
+    <message id="m0002" participant="136276" time="2012-11-28 23:37:36 UTC">
+      <body>Haha ok I feel you. I've been at the library for the past 4 hours, so really need that break. </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-28 23:41:23 UTC">
+      <body>Damn girl get some food in you</body>
+    </message>
+    <message id="m0004" participant="136276" time="2012-11-28 23:41:37 UTC">
+      <body>I know :( I'm hungry. </body>
+    </message>
+  </messages>
+</conversation>

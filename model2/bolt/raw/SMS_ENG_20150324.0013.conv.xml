@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 19:09:52 UTC" participant="153421">
+      <body>What do you want for dinner ?</body>
+    </message>
+    <message id="m0001" time="2015-03-24 21:15:44 UTC" participant="153421">
+      <body>Chris I'm out side if you want wait in the car </body>
+    </message>
+    <message id="m0002" time="2015-03-24 21:17:04 UTC" participant="153417">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

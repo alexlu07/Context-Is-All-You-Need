@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120620.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-20 20:43:32 UTC" participant="153439">
+      <body>Hi!
+Are you free tomorrow or the day after tomorrow?</body>
+    </message>
+    <message id="m0001" time="2012-06-20 20:55:40 UTC" participant="153418">
+      <body>Hey, I'll be free on both days. I'll be busy starting from 3:30 on Friday though. When would it be convenient for you to meet up?</body>
+    </message>
+    <message id="m0002" time="2012-06-20 21:10:45 UTC" participant="153439">
+      <body>It is convenient for me to meet up at 1:30. Okay??</body>
+    </message>
+    <message id="m0003" time="2012-06-20 21:17:59 UTC" participant="153418">
+      <body>On both days?</body>
+    </message>
+    <message id="m0004" time="2012-06-20 21:30:13 UTC" participant="153439">
+      <body>Yes!
+Okay?</body>
+    </message>
+    <message id="m0005" time="2012-06-20 21:35:48 UTC" participant="153418">
+      <body>Okay~</body>
+    </message>
+    <message id="m0006" time="2012-06-21 17:29:22 UTC" participant="153418">
+      <body>Hey, I'm at the I-house. Just let me know when you're around.</body>
+    </message>
+    <message id="m0007" time="2012-06-21 17:36:40 UTC" participant="153439">
+      <body>Sorry
+i will get there 10 minutes later!</body>
+    </message>
+    <message id="m0008" time="2012-06-21 17:36:54 UTC" participant="153418">
+      <body>Okay.</body>
+    </message>
+  </messages>
+</conversation>
+

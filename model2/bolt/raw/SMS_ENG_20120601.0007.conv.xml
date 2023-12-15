@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120601.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-01 23:48:52 UTC">
+      <body>You won $500 from Random House!!!</body>
+    </message>
+    <message id="m0001" participant="136208" time="2012-06-02 01:14:40 UTC">
+      <body>Ah really! Wow. Thats not 1st place though booo &gt;:(</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-02 01:16:17 UTC">
+      <body>Yeah but that's more money than me! Plus you actually got money as opposed to an "honorable mention"</body>
+    </message>
+  </messages>
+</conversation>

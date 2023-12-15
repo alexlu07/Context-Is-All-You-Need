@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150214.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-14 20:22:21 UTC" participant="152123">
+      <body>Hey what's good</body>
+    </message>
+    <message id="m0001" time="2015-02-14 21:51:31 UTC" participant="153244">
+      <body>Hey, im out running errands right now</body>
+    </message>
+    <message id="m0002" time="2015-02-14 21:51:58 UTC" participant="152123">
+      <body>It's cool, I'll catchya later. Be safe.</body>
+    </message>
+    <message id="m0003" time="2015-02-14 21:52:26 UTC" participant="153244">
+      <body>Ok and I will</body>
+    </message>
+  </messages>
+</conversation>
+

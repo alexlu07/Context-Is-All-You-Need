@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 14:30:24 UTC" participant="152793">
+      <body>Hey Ingrid my phone is at 10% so try to come as soon as you can! I won't be at the office until 11 though so you have time </body>
+    </message>
+    <message id="m0001" time="2015-02-02 14:59:45 UTC" participant="152735">
+      <body>K! I don't have a fob so I'll just meet you at front door at 11 </body>
+    </message>
+    <message id="m0002" time="2015-02-02 16:09:17 UTC" participant="152735">
+      <body>Out front of crane :)</body>
+    </message>
+  </messages>
+</conversation>
+

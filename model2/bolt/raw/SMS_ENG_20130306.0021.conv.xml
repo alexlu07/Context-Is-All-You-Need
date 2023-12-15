@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-03-06 13:31:16 UTC">
+      <body>Thank you! :-)</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-03-07 11:50:49 UTC">
+      <body>Good morning! Just wanted to give a heads up that I'm going to the hs to hopefully pick up permission slips and I *think* I should be back in time to hop on the party train, but I'll let you know if it's looking like I'll be too late</body>
+    </message>
+    <message id="m0002" participant="131456" time="2013-03-07 12:20:00 UTC">
+      <body>Ok, good luck!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-03-07 13:16:00 UTC">
+      <body>Perfect timing! :-)</body>
+    </message>
+  </messages>
+</conversation>

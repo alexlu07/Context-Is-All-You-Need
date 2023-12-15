@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-14 23:10:49 UTC">
+      <body>Hey, beautiful...
+What's shakin'?</body>
+    </message>
+    <message id="m0001" participant="131371" time="2013-05-14 23:52:59 UTC">
+      <body>Hey how are you?</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-05-15 02:39:34 UTC">
+      <body>I'm alright. In Tucson for a little. Trying to get it together. How are you?</body>
+    </message>
+    <message id="m0007" participant="131371" time="2013-05-15 18:02:38 UTC">
+      <body>Get what together?</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-05-15 18:12:18 UTC">
+      <body>Prep for recording.</body>
+    </message>
+    <message id="m0009" participant="131371" time="2013-05-15 18:13:39 UTC">
+      <body>that's awesome! when do you record?</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-05-15 18:17:10 UTC">
+      <body>June 1st.</body>
+    </message>
+    <message id="m0011" participant="131371" time="2013-05-15 18:18:09 UTC">
+      <body>Omg, super exciting! Where?</body>
+    </message>
+    <message id="m0012" participant="131350" time="2013-05-15 18:20:06 UTC">
+      <body>W/ Jim waters @ waterworks west - here, in Tucson. He recorded/produced sonic youth, Jon Spencer blues explosion, etc...</body>
+    </message>
+    <message id="m0013" participant="131371" time="2013-05-15 18:32:54 UTC">
+      <body>Can't wait to hear the outcome!</body>
+    </message>
+  </messages>
+</conversation>

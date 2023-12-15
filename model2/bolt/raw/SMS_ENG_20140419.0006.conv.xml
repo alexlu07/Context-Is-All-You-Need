@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140419.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-19 18:37:06 UTC" participant="153547">
+      <body>Hey Chris, we are done at the Whitney and might want to drop our stuff at your place if u are around</body>
+    </message>
+    <message id="m0001" time="2014-04-19 18:38:22 UTC" participant="153589">
+      <body>sure. How long until you get here? ?o prob</body>
+    </message>
+    <message id="m0002" time="2014-04-19 18:39:47 UTC" participant="153547">
+      <body>I'm not sure, maybe 1hr or more</body>
+    </message>
+    <message id="m0003" time="2014-04-19 18:41:06 UTC" participant="153589">
+      <body>Ok see u then</body>
+    </message>
+    <message id="m0004" time="2014-04-19 18:41:22 UTC" participant="153589">
+      <body>U know how to get here? Are u driving?</body>
+    </message>
+    <message id="m0005" time="2014-04-19 18:57:20 UTC" participant="153547">
+      <body>We are taking the train. The jmz right?</body>
+    </message>
+    <message id="m0006" time="2014-04-19 18:58:35 UTC" participant="153589">
+      <body>Yepp. But the M does not run on the weekend. So take something to the JZ and transfer</body>
+    </message>
+    <message id="m0007" time="2014-04-19 18:59:11 UTC" participant="153589">
+      <body>Were also a 15 minute walk from the Ltrain</body>
+    </message>
+    <message id="m0008" time="2014-04-19 19:01:58 UTC" participant="153547">
+      <body>Ok we're right by the 456 so we'll take that to the JZ</body>
+    </message>
+    <message id="m0009" time="2014-04-19 19:03:27 UTC" participant="153589">
+      <body>Sounds about right. Walk down broadway towards the bridge when u get to bk. About 6 blocks</body>
+    </message>
+  </messages>
+</conversation>
+

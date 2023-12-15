@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-06-09 18:31:50 UTC">
+      <body>Do u want to switch Tuesday? Ill open and u can be 5pm?</body>
+    </message>
+    <message id="m0001" participant="137402" time="2013-06-09 18:36:21 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="137402" time="2013-06-09 18:36:56 UTC">
+      <body>I'm not on Tuesday</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-06-09 18:43:16 UTC">
+      <body>Oh wrong week! Ur on call, do u want to work? I'm 3:30</body>
+    </message>
+    <message id="m0004" participant="137402" time="2013-06-09 18:44:10 UTC">
+      <body>I won't be in Philly </body>
+    </message>
+    <message id="m0005" participant="131838" time="2013-06-09 18:44:31 UTC">
+      <body>Word. Thanks anyway </body>
+    </message>
+  </messages>
+</conversation>

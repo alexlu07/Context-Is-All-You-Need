@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110731.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135100" time="2011-07-31 03:36:33 UTC">
+      <body>What time is what happening tomorrow, gang?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-31 06:10:54 UTC">
+      <body>I'm available after 200 :)</body>
+    </message>
+    <message id="m0002" participant="135100" time="2011-07-31 06:12:32 UTC">
+      <body>Ok, looks like we're doing 830 </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-31 06:12:47 UTC">
+      <body>Dig</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-01 00:11:01 UTC">
+      <body>My brothers car just broke down by northfield and I have to take him to new ulm!!! Im sorry! I'll let you know when in back </body>
+    </message>
+    <message id="m0005" participant="135100" time="2011-08-01 00:12:47 UTC">
+      <body>Aight, what time are you thinking?  If it's too late we could reschedule.  I have to work at 11 anyway</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-08-01 01:00:28 UTC">
+      <body>Yea let's reachdule please. In sorry</body>
+    </message>
+    <message id="m0007" participant="135100" time="2011-08-01 01:02:21 UTC">
+      <body>Na, we're gonna meet up for a little bit anyway but I'll see ya whenever</body>
+    </message>
+  </messages>
+</conversation>

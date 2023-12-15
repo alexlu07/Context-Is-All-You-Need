@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111127.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-11-27 12:57:53 UTC">
+      <body>Luv u</body>
+    </message>
+    <message id="m0001" participant="131824" time="2011-11-27 13:25:00 UTC">
+      <body>Everything okay?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-11-27 13:28:15 UTC">
+      <body>Yepz</body>
+    </message>
+    <message id="m0003" participant="131824" time="2011-11-27 13:33:51 UTC">
+      <body>Yay.  Safe travels.</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-11-27 15:52:24 UTC">
+      <body>Land yet?</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-11-27 15:52:51 UTC">
+      <body>Indeed!</body>
+    </message>
+    <message id="m0006" participant="131824" time="2011-11-27 15:53:37 UTC">
+      <body>Great!  Let me know when you make it back to Princeton please :)</body>
+    </message>
+    <message id="m0007" participant="131821" time="2011-11-27 15:53:50 UTC">
+      <body>I will, don't you worry</body>
+    </message>
+    <message id="m0008" participant="131824" time="2011-11-27 15:54:14 UTC">
+      <body>:) xoxo</body>
+    </message>
+    <message id="m0009" participant="131821" time="2011-11-27 17:55:00 UTC">
+      <body>I'm here!</body>
+    </message>
+    <message id="m0010" participant="131824" time="2011-11-27 18:49:58 UTC">
+      <body>Have a great day :)</body>
+    </message>
+  </messages>
+</conversation>

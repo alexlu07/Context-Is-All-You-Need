@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136139" time="2013-02-24 07:56:23 UTC">
+      <body>Hey you left your wallet so text  me tomorrow when you come home and ill let you in </body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-24 07:57:00 UTC">
+      <body>oh no. could you put my emory card under the brick by the back door? </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-24 07:57:27 UTC">
+      <body>i don't want to make you wake up unnaturally early. </body>
+    </message>
+    <message id="m0003" participant="136139" time="2013-02-24 07:57:56 UTC">
+      <body>Um just text me ill wake up promise .. And call</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-24 07:58:37 UTC">
+      <body>i'll try! i'mma bank on my phone still being alive i guess. </body>
+    </message>
+  </messages>
+</conversation>

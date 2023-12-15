@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-20 23:01:32 UTC">
+      <body>when do you get off work? </body>
+    </message>
+    <message id="m0001" participant="136378" time="2013-04-21 02:34:12 UTC">
+      <body>Now. What's up?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-21 02:38:25 UTC">
+      <body>you're safe. just checking. </body>
+    </message>
+    <message id="m0003" participant="136378" time="2013-04-21 02:39:23 UTC">
+      <body>Is anything happening?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-21 02:40:03 UTC">
+      <body>not anymore! nari and i are about to go get ice cream. </body>
+    </message>
+    <message id="m0005" participant="136378" time="2013-04-21 02:40:53 UTC">
+      <body>I'm coming! Wait for me? Please please please.</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-04-21 02:41:01 UTC">
+      <body>kk! </body>
+    </message>
+  </messages>
+</conversation>

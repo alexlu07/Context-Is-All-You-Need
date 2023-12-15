@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131044" time="2013-05-13 15:44:59 UTC">
+      <body>Hey pretty lady! Hope you had a great trip! When did you want to meet up for dinner tonight?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-13 17:38:35 UTC">
+      <body>It was great, thanks! Hmm, wanna say 6:30? Where do you want to go?</body>
+    </message>
+    <message id="m0002" participant="131044" time="2013-05-13 18:33:19 UTC">
+      <body>630 is great. Wanna do ##########? I may need a ride, but will be in downtown #######</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-05-13 18:59:23 UTC">
+      <body>Sure! I've actually never been. Just let me know where you'll be and I'll pick you up at 630, no prob</body>
+    </message>
+    <message id="m0004" participant="131044" time="2013-05-13 20:24:22 UTC">
+      <body>It is really good, you'll love it! I may be close enough to walk, but ill let you know, thanks! Can't wait to see you!!</body>
+    </message>
+    <message id="m0005" participant="131044" time="2013-05-13 21:54:53 UTC">
+      <body>I will just meet you there! Cya soon gf!</body>
+    </message>
+    <message id="m0006" participant="130712" time="2013-05-13 21:55:21 UTC">
+      <body>Sounds good!!</body>
+    </message>
+    <message id="m0007" participant="131044" time="2013-05-13 22:20:53 UTC">
+      <body>I'm hanging out on the steps by ########## ;)</body>
+    </message>
+  </messages>
+</conversation>

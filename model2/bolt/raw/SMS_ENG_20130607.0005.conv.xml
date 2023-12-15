@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-07 13:18:52 UTC">
+      <body>Helloo, I'm sewing some giant bat wings. What are you doing?</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-07 13:19:41 UTC">
+      <body>At work!</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-06-07 13:19:41 UTC">
+      <body>That's very interesting!</body>
+    </message>
+    <message id="m0003" participant="131837" time="2013-06-07 13:21:57 UTC">
+      <body>What kind of work?</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-06-07 13:26:09 UTC">
+      <body>Office :( boo boring</body>
+    </message>
+    <message id="m0005" participant="131837" time="2013-06-07 13:38:10 UTC">
+      <body>It's ok. You're getting paid and I'm not.</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-06-07 14:19:51 UTC">
+      <body>There's not a big market for giant bat wings???</body>
+    </message>
+    <message id="m0007" participant="131837" time="2013-06-07 14:22:51 UTC">
+      <body>If there were, they would only be worth what they cost to make in Asia or South America.</body>
+    </message>
+    <message id="m0008" participant="131003" time="2013-06-07 15:55:46 UTC">
+      <body>What are they for?</body>
+    </message>
+    <message id="m0009" participant="131837" time="2013-06-07 16:22:48 UTC">
+      <body>A bike-powered bat puppet</body>
+    </message>
+    <message id="m0010" participant="131003" time="2013-06-07 17:22:07 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

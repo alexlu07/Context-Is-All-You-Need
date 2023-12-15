@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132553" time="2013-06-17 19:14:24 UTC">
+      <body>How was your weekend?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-17 19:17:21 UTC">
+      <body>It was alright. Did you go home to see your family Sunday??</body>
+    </message>
+    <message id="m0002" participant="132553" time="2013-06-17 20:14:22 UTC">
+      <body>No i didn't end up going.  </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-17 20:30:16 UTC">
+      <body>Same. When are we going to get our chess game on?</body>
+    </message>
+  </messages>
+</conversation>

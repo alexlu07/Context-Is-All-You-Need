@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120801.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135420" time="2012-08-01 17:04:11 UTC">
+      <body>Sorry i didnt get in touch last nite. Sidecar tnite?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-08-01 18:09:32 UTC">
+      <body>Oh maybe... I might be going to a show in west Philly wanna join?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-08-01 18:30:41 UTC">
+      <body>What time you thinking</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131220.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-20 02:31:17 UTC" participant="153665">
+      <body>Hey lady, what's your schedule looking like for tomorrow? When are you going to Shooters? Lemme know when you can and I'll come pick up DVDs. Thanks!</body>
+    </message>
+    <message id="m0001" time="2013-12-20 02:32:41 UTC" participant="153548">
+      <body>Hey!! I went today after work. Tape looks great! I'll be free after 12 tomorrow so anytime after that!</body>
+    </message>
+    <message id="m0002" time="2013-12-20 02:35:19 UTC" participant="153665">
+      <body>Awesome! I'm glad you got it done and that it looks great. I have to be in Center city at 6. Is it cool if I come by around 5 or so?</body>
+    </message>
+    <message id="m0003" time="2013-12-20 02:35:44 UTC" participant="153665">
+      <body>I can come earlier if you need me to.</body>
+    </message>
+    <message id="m0004" time="2013-12-20 02:35:44 UTC" participant="153665">
+      <body>Please shoot me your new address.</body>
+    </message>
+    <message id="m0006" time="2013-12-20 02:37:40 UTC" participant="153665">
+      <body>Great. Thank you!</body>
+    </message>
+    <message id="m0007" time="2013-12-20 21:24:56 UTC" participant="153665">
+      <body>I am running a little behind. I will be at your house around 5:30.</body>
+    </message>
+    <message id="m0008" time="2013-12-20 21:26:12 UTC" participant="153548">
+      <body>No prob bob. If there's no parking, just double park and I'll run out to you!</body>
+    </message>
+    <message id="m0009" time="2013-12-20 21:28:06 UTC" participant="153665">
+      <body>Awesome. Thanks! I'll let you know when I get there.</body>
+    </message>
+    <message id="m0010" time="2013-12-20 21:29:15 UTC" participant="153548">
+      <body>Cool. See ya soon</body>
+    </message>
+    <message id="m0011" time="2013-12-20 22:45:20 UTC" participant="153665">
+      <body>I'm at your house... "Now give me back my phone..."</body>
+    </message>
+    <message id="m0012" time="2013-12-20 22:45:44 UTC" participant="153548">
+      <body>Ha!! Coming out</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 20:45:58 UTC" participant="153547">
+      <body>I'm through security waiting to board. </body>
+    </message>
+    <message id="m0001" time="2013-12-29 20:49:00 UTC" participant="153572">
+      <body>Have a safe flight.</body>
+    </message>
+    <message id="m0002" time="2013-12-29 21:56:21 UTC" participant="153547">
+      <body>Not boarding til 7</body>
+    </message>
+    <message id="m0003" time="2013-12-29 22:37:12 UTC" participant="153547">
+      <body>There's a ground delay in philadelphia so I don't know when I'm leaving</body>
+    </message>
+    <message id="m0004" time="2013-12-30 02:10:43 UTC" participant="153547">
+      <body>Landed</body>
+    </message>
+    <message id="m0005" time="2013-12-30 02:17:12 UTC" participant="153572">
+      <body>Glad you're finally there. Walt &amp; wife just left. </body>
+    </message>
+    <message id="m0006" time="2013-12-30 03:28:33 UTC" participant="153572">
+      <body>Going 2 bed. R u home?</body>
+    </message>
+    <message id="m0007" time="2013-12-30 03:35:33 UTC" participant="153547">
+      <body> Yes</body>
+    </message>
+  </messages>
+</conversation>
+

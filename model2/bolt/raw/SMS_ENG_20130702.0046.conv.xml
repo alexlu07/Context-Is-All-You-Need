@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2013-07-02 00:27:22 UTC">
+      <body>How was first day at work?   </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-07-02 00:27:53 UTC">
+      <body>Amazing</body>
+    </message>
+    <message id="m0002" participant="131505" time="2013-07-02 00:29:57 UTC">
+      <body>I look forward to hearing about it.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-07-02 00:31:38 UTC">
+      <body>You will. But I need to finish dealing with some stuff. Kathy wants to drive to your house tomorrow</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-07-02 00:32:02 UTC">
+      <body>To pick up roku and health insurance check</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-07-02 00:32:40 UTC">
+      <body>The difference between my previous monthly plan and the current plan is $129.42</body>
+    </message>
+  </messages>
+</conversation>

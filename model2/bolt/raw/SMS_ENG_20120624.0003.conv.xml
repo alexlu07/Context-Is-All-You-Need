@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120624.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-06-24 18:12:54 UTC">
+      <body>It's been a busy weekend...can you talk at 5 so that I can get to bed early?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-06-24 19:06:27 UTC">
+      <body>No prob, talk to you then love bug!</body>
+    </message>
+  </messages>
+</conversation>

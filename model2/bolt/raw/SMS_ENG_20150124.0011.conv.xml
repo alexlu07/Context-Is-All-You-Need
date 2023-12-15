@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150124.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-24 19:04:31 UTC" participant="153491">
+      <body>Did it snow a lot up there?</body>
+    </message>
+    <message id="m0001" time="2015-01-24 19:05:27 UTC" participant="153543">
+      <body>Only about an inch. You? </body>
+    </message>
+    <message id="m0002" time="2015-01-24 19:08:45 UTC" participant="153491">
+      <body>It was coming down since last night so I would think it would be around that by now.</body>
+    </message>
+    <message id="m0003" time="2015-01-25 00:26:36 UTC" participant="153491">
+      <body>What's your favorite dessert?</body>
+    </message>
+    <message id="m0004" time="2015-01-25 02:35:58 UTC" participant="153543">
+      <body>Hmmm. Ice cream probably. </body>
+    </message>
+    <message id="m0005" time="2015-01-25 03:05:09 UTC" participant="153491">
+      <body>Oh I've been getting into baking lately and was looking into different desserts. Wondered if there was stuff I haven't thought if yet. Kind of hard to make ice cream in the oven...hahah.</body>
+    </message>
+    <message id="m0006" time="2015-01-25 04:21:27 UTC" participant="153543">
+      <body>lol. Cheesecake!! I love cheesecake. </body>
+    </message>
+    <message id="m0007" time="2015-01-25 04:29:48 UTC" participant="153491">
+      <body>Oreo cheesecake is on my list!!!</body>
+    </message>
+    <message id="m0008" time="2015-01-25 18:35:44 UTC" participant="153543">
+      <body>That sounds.... Amazing!! </body>
+    </message>
+  </messages>
+</conversation>
+

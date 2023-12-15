@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 01:06:56 UTC" participant="153244">
+      <body>Hey the bathroom is getting completely remodeled starting tomorrow so the bathroom will be off limits for the next three days</body>
+    </message>
+    <message id="m0001" time="2014-07-30 01:07:17 UTC" participant="154901">
+      <body>Ard cool</body>
+    </message>
+    <message id="m0002" time="2014-07-30 01:10:13 UTC" participant="153244">
+      <body>Make sure you shower tonight bec the guy is coming tomorrow morning and you'll have to shower/use the bathroom either at your moms or something for the next couple of days</body>
+    </message>
+    <message id="m0003" time="2014-07-30 01:10:47 UTC" participant="154901">
+      <body>Okay im omw now </body>
+    </message>
+    <message id="m0004" time="2014-07-30 01:11:03 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

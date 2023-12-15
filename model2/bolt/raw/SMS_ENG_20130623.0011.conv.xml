@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-06-23 20:02:02 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-06-23 21:07:44 UTC">
+      <body>hey was away from my phone all day left at home by accident how are you</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-06-23 21:24:28 UTC">
+      <body>I'm doing well. We're expecting rain which is unusual in June.</body>
+    </message>
+  </messages>
+</conversation>

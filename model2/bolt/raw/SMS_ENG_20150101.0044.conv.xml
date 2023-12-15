@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 15:24:26 UTC" participant="153804">
+      <body>Happy new year to you and Pat hope you had a good evening</body>
+    </message>
+    <message id="m0001" time="2015-01-01 15:25:52 UTC" participant="153804">
+      <body>Oh yeah it was a good evening SU won!!</body>
+    </message>
+    <message id="m0002" time="2015-01-01 15:34:22 UTC" participant="153804">
+      <body>Have you gotten any information back from prime team?</body>
+    </message>
+    <message id="m0003" time="2015-01-01 15:36:33 UTC" participant="153815">
+      <body>Happy New Year to you and Tom. Hopefully he is feeling better. No I haven't gotten anything from them</body>
+    </message>
+  </messages>
+</conversation>
+

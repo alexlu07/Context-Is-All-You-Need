@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136137" time="2013-01-27 20:02:20 UTC">
+      <body>Hey :) How's it going?</body>
+    </message>
+    <message id="m0001" participant="136137" time="2013-01-28 01:26:55 UTC">
+      <body>Did I say something wrong?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-01-28 02:16:12 UTC">
+      <body>no, i've just been busy, sorry. </body>
+    </message>
+    <message id="m0003" participant="136137" time="2013-01-28 02:40:50 UTC">
+      <body>You sure?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-01-28 03:08:18 UTC">
+      <body>you didn't say anything wrong, i promise. </body>
+    </message>
+    <message id="m0005" participant="136137" time="2013-01-28 03:14:52 UTC">
+      <body>I sure hope so. Because I like talking with you, and I'd hate to mess that up.</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-01-28 03:16:53 UTC">
+      <body>i've just had a lot going on, school-wise, and i've sort of started seeing someone, too. so other social stuff has sort of fallen by the way-side. </body>
+    </message>
+    <message id="m0007" participant="136137" time="2013-01-28 03:20:14 UTC">
+      <body>I see. So, would you rather me leave you be?</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-01-28 03:26:35 UTC">
+      <body>it's honestly up to you. i just can't promise you a lot. </body>
+    </message>
+    <message id="m0009" participant="136137" time="2013-01-28 03:29:23 UTC">
+      <body>That sounds like a yes, though I wish you'd just say it.</body>
+    </message>
+    <message id="m0010" participant="136112" time="2013-01-28 03:39:56 UTC">
+      <body>it's an "it's up to you". </body>
+    </message>
+    <message id="m0011" participant="136137" time="2013-01-28 03:43:43 UTC">
+      <body>Cards on the table: I like you. And if it's really up to me, I would like to keep talking with you.</body>
+    </message>
+    <message id="m0012" participant="136137" time="2013-01-28 04:10:26 UTC">
+      <body>Is that okay by you?</body>
+    </message>
+    <message id="m0013" participant="136112" time="2013-01-28 04:11:03 UTC">
+      <body>okay by me. </body>
+    </message>
+    <message id="m0014" participant="136137" time="2013-01-28 04:12:17 UTC">
+      <body>Glad to hear it :)</body>
+    </message>
+    <message id="m0015" participant="136137" time="2013-01-28 04:29:00 UTC">
+      <body>Can I catch you tomorrow?</body>
+    </message>
+  </messages>
+</conversation>

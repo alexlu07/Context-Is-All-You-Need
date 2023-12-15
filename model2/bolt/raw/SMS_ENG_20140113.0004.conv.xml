@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140113.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-13 03:54:43 UTC" participant="153491">
+      <body>"If you want to sing, you should sing right now."</body>
+    </message>
+    <message id="m0001" time="2014-01-13 11:50:49 UTC" participant="152116">
+      <body>Inspirational</body>
+    </message>
+    <message id="m0002" time="2014-01-14 01:26:05 UTC" participant="153491">
+      <body>You rang?</body>
+    </message>
+  </messages>
+</conversation>
+

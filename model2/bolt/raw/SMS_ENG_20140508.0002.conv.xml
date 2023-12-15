@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140508.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-08 14:26:08 UTC" participant="153286">
+      <body>Just let me know when/where tonight</body>
+    </message>
+    <message id="m0001" time="2014-05-08 14:34:42 UTC" participant="152734">
+      <body>So I'll be done around 430, how's 5ish? Anyplace you wanna go? There's a newish bar called strangelove at...11/spruce or so that's full of beer?</body>
+    </message>
+    <message id="m0002" time="2014-05-08 14:36:16 UTC" participant="153286">
+      <body>I have no preference other than center-city-ish. I'm gonna take the patco in.</body>
+    </message>
+    <message id="m0003" time="2014-05-08 14:42:05 UTC" participant="152734">
+      <body>Ok! Let's do strangeloves, 216 s 11th, used to be doc watson's. Same people as resurrection/local 44/Memphis! </body>
+    </message>
+    <message id="m0004" time="2014-05-08 14:43:46 UTC" participant="152734">
+      <body>Oh, and Simone has "plans" in "media", woof</body>
+    </message>
+    <message id="m0005" time="2014-05-08 14:45:20 UTC" participant="153286">
+      <body>Don't believe her lies</body>
+    </message>
+    <message id="m0006" time="2014-05-08 20:32:22 UTC" participant="153286">
+      <body>Just missed a patco. Eta 5:10</body>
+    </message>
+    <message id="m0007" time="2014-05-08 20:32:47 UTC" participant="152734">
+      <body>High 5! See you there</body>
+    </message>
+  </messages>
+</conversation>
+

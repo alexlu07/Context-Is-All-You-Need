@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 14:30:08 UTC" participant="153632">
+      <body>When are you going to paris?</body>
+    </message>
+    <message id="m0001" time="2015-03-24 14:34:35 UTC" participant="153548">
+      <body>April 6th still a few weeks off</body>
+    </message>
+    <message id="m0002" time="2015-03-24 14:35:28 UTC" participant="153632">
+      <body>Ok :)</body>
+    </message>
+  </messages>
+</conversation>
+

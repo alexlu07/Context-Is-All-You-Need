@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-12 17:49:16 UTC">
+      <body>teaching shawna at greg's at 10.  so...would you wanna do 9, or is sunday better for you?</body>
+    </message>
+    <message id="m0001" participant="131358" time="2013-04-12 17:50:12 UTC">
+      <body>Sundays better </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-12 17:51:36 UTC">
+      <body>cool.</body>
+    </message>
+  </messages>
+</conversation>

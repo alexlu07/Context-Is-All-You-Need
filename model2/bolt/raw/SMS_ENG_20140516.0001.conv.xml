@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140516.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-16 13:34:56 UTC" participant="152428">
+      <body>You have urgent ups mail from adp.   Cobra material?</body>
+    </message>
+    <message id="m0001" time="2014-05-16 14:17:29 UTC" participant="152417">
+      <body>Is that my former health insurance?</body>
+    </message>
+    <message id="m0002" time="2014-05-16 14:17:36 UTC" participant="152428">
+      <body>Want me to open or just bring it?</body>
+    </message>
+    <message id="m0003" time="2014-05-16 14:17:36 UTC" participant="152428">
+      <body>K</body>
+    </message>
+    <message id="m0004" time="2014-05-16 14:18:28 UTC" participant="152417">
+      <body>Both</body>
+    </message>
+  </messages>
+</conversation>
+

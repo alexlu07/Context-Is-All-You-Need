@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130108.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-08 17:06:08 UTC" participant="152535">
+      <body>Should I expect you after school today as well at Thursday? Thanks</body>
+    </message>
+    <message id="m0001" time="2013-01-08 17:31:21 UTC" participant="152417">
+      <body>Yep, i can be there today at 3ish and thursday at 1246</body>
+    </message>
+    <message id="m0002" time="2013-01-08 17:33:09 UTC" participant="152535">
+      <body>Ok so I will be in a meeting when you arrive. Give me a message when you arrive with where you are and I will come get you/show you the stacks and leave you to it. See you soon! G</body>
+    </message>
+    <message id="m0003" time="2013-01-08 19:56:26 UTC" participant="152417">
+      <body>Im at the band room</body>
+    </message>
+    <message id="m0004" time="2013-01-08 21:28:32 UTC" participant="152535">
+      <body>Did you find anything useful? Nice to see you. </body>
+    </message>
+    <message id="m0005" time="2013-01-08 21:29:37 UTC" participant="152417">
+      <body>I found some really cool stuff, but it all strikes me as too advanced</body>
+    </message>
+    <message id="m0006" time="2013-01-08 21:31:35 UTC" participant="152535">
+      <body>That's what I assumed. If you look on Jw pepper you can browse by level. Let me know if you need any help.</body>
+    </message>
+  </messages>
+</conversation>
+

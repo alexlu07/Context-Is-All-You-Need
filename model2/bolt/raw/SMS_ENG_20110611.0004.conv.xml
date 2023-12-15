@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110611.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-11 14:55:59 UTC">
+      <body>Are you in northfield tonight?</body>
+    </message>
+    <message id="m0001" participant="135105" time="2011-06-11 18:45:05 UTC">
+      <body>Sad! No, I'm in Monticello for another wedding!</body>
+    </message>
+    <message id="m0002" participant="135105" time="2011-06-11 18:45:51 UTC">
+      <body>Where are you staying right now? In the cities?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-11 18:46:04 UTC">
+      <body>I'm moving there tomorrow</body>
+    </message>
+  </messages>
+</conversation>

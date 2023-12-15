@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110805.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-05 02:30:59 UTC">
+      <body>Break a leg brother</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-08-05 02:52:46 UTC">
+      <body>I lub ya.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-05 14:03:48 UTC">
+      <body>How did it go last night?</body>
+    </message>
+  </messages>
+</conversation>

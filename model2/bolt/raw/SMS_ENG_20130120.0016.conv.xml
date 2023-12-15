@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130120.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135269" time="2013-01-20 21:10:22 UTC">
+      <body>Also, what to do about dinner? Dc is closed today.</body>
+    </message>
+    <message id="m0001" participant="135269" time="2013-01-21 02:24:11 UTC">
+      <body>Liza! Sam and matt are visiting.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-21 02:24:54 UTC">
+      <body>Ahh! Okay thanks ill be back at some point but someone who was abroad just got here!</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-01-21 16:15:44 UTC">
+      <body>Bruggers?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-21 16:16:04 UTC">
+      <body>Noon?</body>
+    </message>
+    <message id="m0005" participant="135269" time="2013-01-21 16:16:25 UTC">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>

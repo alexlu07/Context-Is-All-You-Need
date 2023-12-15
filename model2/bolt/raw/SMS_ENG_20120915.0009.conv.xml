@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120915.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-15 18:20:36 UTC">
+      <body>Hey crystal are you home?? I'm in your building! Let's hang out</body>
+    </message>
+    <message id="m0001" participant="135378" time="2012-09-15 18:20:48 UTC">
+      <body>Oh no! I'm on my way to downtown for the training. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-15 18:22:31 UTC">
+      <body>Oh have fun</body>
+    </message>
+    <message id="m0003" participant="135378" time="2012-09-15 18:25:04 UTC">
+      <body>Nice weather outside enjoy yourself</body>
+    </message>
+    <message id="m0004" participant="135378" time="2012-09-16 14:00:32 UTC">
+      <body>so still 11 today meet at their house?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-09-16 14:02:27 UTC">
+      <body>Yes yes... See you soon</body>
+    </message>
+    <message id="m0006" participant="135378" time="2012-09-16 14:02:40 UTC">
+      <body>See ya</body>
+    </message>
+    <message id="m0007" participant="135378" time="2012-09-16 14:58:10 UTC">
+      <body>Can u send me the address again. </body>
+    </message>
+    <message id="m0008" participant="135378" time="2012-09-16 14:58:30 UTC">
+      <body>Can't find it with my phone</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-09-16 14:58:45 UTC">
+      <body>240 Parker hill </body>
+    </message>
+    <message id="m0010" participant="135378" time="2012-09-16 15:04:32 UTC">
+      <body>I'm here   Where u at</body>
+    </message>
+  </messages>
+</conversation>

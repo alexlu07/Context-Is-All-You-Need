@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136382" time="2013-06-08 22:20:20 UTC">
+      <body>Are you avx to work Monday?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-08 22:20:39 UTC">
+      <body>definitely! i'll be around all next week. </body>
+    </message>
+  </messages>
+</conversation>

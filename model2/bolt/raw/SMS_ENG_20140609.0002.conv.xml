@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140609.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-09 12:37:40 UTC" participant="152117">
+      <body>Do you have a token to get home with? I forgot to leave them out for you.</body>
+    </message>
+    <message id="m0001" time="2014-06-09 12:37:58 UTC" participant="152115">
+      <body>I got some</body>
+    </message>
+    <message id="m0002" time="2014-06-09 12:38:41 UTC" participant="152117">
+      <body>Ok! Love you!</body>
+    </message>
+  </messages>
+</conversation>
+

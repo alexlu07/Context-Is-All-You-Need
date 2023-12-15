@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2012-11-10 22:41:01 UTC">
+      <body>Be there in ten min:)</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-11-10 22:41:10 UTC">
+      <body>Okay!</body>
+    </message>
+    <message id="m0002" participant="131032" time="2012-11-10 22:52:20 UTC">
+      <body>Here!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-11-11 18:12:54 UTC">
+      <body>Thank you!!</body>
+    </message>
+    <message id="m0004" participant="131032" time="2012-11-11 18:18:32 UTC">
+      <body>No prob thanks again for the invite it was great t get out of ###### for the night:)</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-11-11 18:19:09 UTC">
+      <body>Thanks for coming! Although we might have to skip it next year...I'm exhausted!!</body>
+    </message>
+    <message id="m0006" participant="131032" time="2012-11-11 18:21:29 UTC">
+      <body>Lol yea it was a pretty late night!</body>
+    </message>
+  </messages>
+</conversation>

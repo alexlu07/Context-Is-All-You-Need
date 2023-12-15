@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 12:38:26 UTC" participant="152417">
+      <body>Landed safely, splurged on a cab to get me to the early bus early.  What time should i meet you at blue cat tonight?</body>
+    </message>
+    <message id="m0001" time="2013-08-15 12:41:00 UTC" participant="152560">
+      <body>Oh that's great! I'm working 3:30-10ish, but I have to swing home around 3 to take the dogs out so maybe Ill see you then.</body>
+    </message>
+    <message id="m0002" time="2013-08-15 12:43:01 UTC" participant="152417">
+      <body>Yes! See you then</body>
+    </message>
+    <message id="m0003" time="2013-08-15 19:11:36 UTC" participant="152417">
+      <body>My bus is running late, ill come in around 9 to see you at el gato azul</body>
+    </message>
+    <message id="m0004" time="2013-08-15 19:42:57 UTC" participant="152560">
+      <body>See you then. The girls went out and ate dinner already.</body>
+    </message>
+  </messages>
+</conversation>
+

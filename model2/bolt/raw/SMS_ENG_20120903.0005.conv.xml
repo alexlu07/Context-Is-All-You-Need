@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120903.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130923" time="2012-09-03 14:56:27 UTC">
+      <body>Hi Kennedy, we are at  30th str and we will go soon to your apt! We will call you when we will be there. Jirina&amp;Joana</body>
+    </message>
+    <message id="m0001" participant="130755" time="2012-09-03 15:03:01 UTC">
+      <body>Great. Jeremy is going home in a few minutes. He should be back by the time you get there. If not, just hang tight and he will be there soon!</body>
+    </message>
+    <message id="m0002" participant="130923" time="2012-09-03 16:28:37 UTC">
+      <body>Hi, finally we are here, under the roof of the hair salon. :)</body>
+    </message>
+    <message id="m0004" participant="130923" time="2012-09-04 03:00:17 UTC">
+      <body>Hi, can we find some sheets/blanket/ pillows somewhere? :$ we are not sure if we could be up until you will come back. Thank you!</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-09-04 03:56:32 UTC">
+      <body>Sorry, still rehearsing. There are sheets in between fridge and couch</body>
+    </message>
+  </messages>
+</conversation>

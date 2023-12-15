@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120702.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-02 14:34:52 UTC">
+      <body/>
+    </message>
+    <message id="m0001" participant="135505" time="2012-07-02 14:36:48 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-02 16:19:21 UTC">
+      <body/>
+    </message>
+    <message id="m0003" participant="135505" time="2012-07-03 02:54:56 UTC">
+      <body>Omfg so drunk at a waspy party </body>
+    </message>
+    <message id="m0004" participant="135505" time="2012-07-03 02:54:56 UTC">
+      <body>Woot woot</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-07-03 03:46:11 UTC">
+      <body/>
+    </message>
+    <message id="m0006" participant="130622" time="2012-07-03 11:55:09 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

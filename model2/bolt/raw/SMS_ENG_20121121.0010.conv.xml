@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-11-21 02:32:45 UTC">
+      <body>Hey dude, sorry to bug you but do you know what your plan for the morning is?</body>
+    </message>
+    <message id="m0001" participant="131463" time="2012-11-21 02:34:10 UTC">
+      <body>Yea just asked, we'll come  by around 815? Ill text in the morning</body>
+    </message>
+    <message id="m0002" participant="131463" time="2012-11-21 02:34:21 UTC">
+      <body>Sorry Leighann just got home</body>
+    </message>
+    <message id="m0003" participant="131450" time="2012-11-21 02:37:13 UTC">
+      <body>No worries! And yeah that sounds great, just shoot me a text when you head out. Thanks!</body>
+    </message>
+    <message id="m0004" participant="131463" time="2012-11-21 13:13:55 UTC">
+      <body>Leaving our house now</body>
+    </message>
+    <message id="m0005" participant="131450" time="2012-11-21 13:14:14 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

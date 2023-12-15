@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-23 16:41:38 UTC" participant="152417">
+      <body>Im at abington hosp for an xray, hopefully it wont take too long</body>
+    </message>
+    <message id="m0001" time="2012-11-23 16:42:03 UTC" participant="152428">
+      <body>K</body>
+    </message>
+    <message id="m0002" time="2012-11-23 17:24:16 UTC" participant="152428">
+      <body>Ride is now for 2</body>
+    </message>
+  </messages>
+</conversation>
+

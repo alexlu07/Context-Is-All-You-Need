@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140415.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-15 11:20:20 UTC" participant="153561">
+      <body>Hey. I have to do something afterwards so I have to drive separate. I should be there by 8. </body>
+    </message>
+    <message id="m0001" time="2014-04-15 12:23:49 UTC" participant="153561">
+      <body>I hope
+You didn't take 676. Really bad traffic</body>
+    </message>
+    <message id="m0003" time="2014-04-15 12:41:26 UTC" participant="153547">
+      <body>Im outside</body>
+    </message>
+  </messages>
+</conversation>
+

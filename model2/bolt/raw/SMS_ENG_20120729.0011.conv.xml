@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120729.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-29 19:46:29 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="136224" time="2012-07-29 19:48:16 UTC">
+      <body>Oh geez </body>
+    </message>
+    <message id="m0002" participant="136224" time="2012-07-29 19:50:24 UTC">
+      <body>So this street fair </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-29 20:19:48 UTC">
+      <body>Oooh where is it</body>
+    </message>
+    <message id="m0004" participant="136224" time="2012-07-29 20:20:16 UTC">
+      <body>I'm on my way home. In jersey now but there one near Lincoln center </body>
+    </message>
+    <message id="m0005" participant="136224" time="2012-07-29 20:37:20 UTC">
+      <body>I'm so sad </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-07-29 20:38:15 UTC">
+      <body>Oh yeah there's always one there</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-07-29 21:06:44 UTC">
+      <body/>
+    </message>
+    <message id="m0008" participant="136224" time="2012-07-29 21:07:12 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

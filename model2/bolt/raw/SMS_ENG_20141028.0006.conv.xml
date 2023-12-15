@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141028.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-28 03:02:44 UTC" participant="152417">
+      <body>Hey Mike, i'm havin a halloween party on friday if you're free.  -gabi</body>
+    </message>
+    <message id="m0001" time="2014-10-28 14:24:00 UTC" participant="152591">
+      <body>Oh awesome thanks! I'll actually be working all weekend but I appreciate you thinkin of me. Where are you livin?</body>
+    </message>
+    <message id="m0002" time="2014-10-28 14:39:30 UTC" participant="152417">
+      <body>I'm living with my brother in point breeze.  Let's catch up sometime</body>
+    </message>
+  </messages>
+</conversation>
+

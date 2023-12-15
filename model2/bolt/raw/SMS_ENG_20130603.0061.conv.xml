@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-03 10:21:53 UTC">
+      <body>Ride?</body>
+    </message>
+    <message id="m0001" participant="137313" time="2013-06-03 10:35:44 UTC">
+      <body>Ok. 7:12</body>
+    </message>
+    <message id="m0002" participant="137313" time="2013-06-03 11:14:03 UTC">
+      <body>Let's go I'm outside</body>
+    </message>
+    <message id="m0003" participant="137313" time="2013-06-03 11:17:43 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-06-04 10:26:00 UTC">
+      <body>Ride? </body>
+    </message>
+    <message id="m0005" participant="137313" time="2013-06-04 10:27:12 UTC">
+      <body>No I'm sorry, I need to go in really early...</body>
+    </message>
+  </messages>
+</conversation>

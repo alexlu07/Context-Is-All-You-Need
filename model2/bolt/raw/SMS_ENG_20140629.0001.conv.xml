@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140629.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-29 16:27:56 UTC" participant="149306">
+      <body>AJ is home relaxing in the AC waiting for your return. Hope you had a great weekend. 
+####</body>
+    </message>
+    <message id="m0001" time="2014-06-29 16:39:25 UTC" participant="149443">
+      <body>Thank you######</body>
+    </message>
+    <message id="m0002" time="2014-06-29 18:56:49 UTC" participant="149443">
+      <body>###### We are not going to get to philly until 9 tonight.  Can you walk and feed AJ later today?</body>
+    </message>
+    <message id="m0003" time="2014-06-29 19:23:26 UTC" participant="149306">
+      <body>Yes I can do it at 630 or 7 ish</body>
+    </message>
+    <message id="m0004" time="2014-06-29 19:24:05 UTC" participant="149443">
+      <body>Thanks</body>
+    </message>
+    <message id="m0005" time="2014-06-29 19:25:34 UTC" participant="149306">
+      <body>No problem</body>
+    </message>
+    <message id="m0006" time="2014-06-29 23:23:45 UTC" participant="149306">
+      <body>AJ had his walk and his dinner and he's looking forward to your return.</body>
+    </message>
+  </messages>
+</conversation>
+

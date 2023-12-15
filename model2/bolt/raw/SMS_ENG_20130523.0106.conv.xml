@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0106" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-23 12:56:32 UTC" participant="152568">
+      <body>Hey gabi it's Dan I just found out my presentation is at 10:45 tomorrow. </body>
+    </message>
+    <message id="m0001" time="2013-05-23 16:19:10 UTC" participant="152417">
+      <body>It turns out they do need me at BHS tomorrow so unfortunately i cant make it.  Break a leg!</body>
+    </message>
+    <message id="m0002" time="2013-05-23 19:44:00 UTC" participant="152568">
+      <body>That's fine I was showing off our songs in the library today haha. Good stuff</body>
+    </message>
+  </messages>
+</conversation>
+

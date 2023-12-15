@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140310.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-10 17:38:14 UTC" participant="153553">
+      <body>Hello!! Wanted to see if you were free this Thursday during the day? Thought we could go see a movie or something! Let me know if you're around! :)</body>
+    </message>
+    <message id="m0001" time="2014-03-10 18:04:24 UTC" participant="153548">
+      <body>I totally am! I'd love to see a movie! Let's do it!!! </body>
+    </message>
+    <message id="m0002" time="2014-03-10 19:20:56 UTC" participant="153553">
+      <body>Awesome! Let's touch base later in the week! :)</body>
+    </message>
+  </messages>
+</conversation>
+

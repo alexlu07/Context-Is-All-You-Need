@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0079" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135273" time="2013-05-20 14:52:13 UTC">
+      <body>HAPPY BIRTHDAY!!! </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-20 14:52:49 UTC">
+      <body>Hahaha thank you friend!!! </body>
+    </message>
+    <message id="m0002" participant="135273" time="2013-05-20 14:54:14 UTC">
+      <body>You're welcome! Do you have plans for birthday lunch? I know Anna's in UCA training, right?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-20 14:56:14 UTC">
+      <body>I am with my dad for brunch right now. When I get back I will have nothing to do til 5...except read bechdels fun home </body>
+    </message>
+    <message id="m0004" participant="135273" time="2013-05-20 14:56:58 UTC">
+      <body>Okie dokie! Have a great time! </body>
+    </message>
+  </messages>
+</conversation>

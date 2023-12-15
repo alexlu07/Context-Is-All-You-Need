@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-10-06 05:08:18 UTC">
+      <body>Call me on your way home!</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-10-06 05:08:39 UTC">
+      <body>Ок:) </body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-10-06 05:09:14 UTC">
+      <body>If u dont hear from me till 12 call please. </body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-10-06 05:09:20 UTC">
+      <body>I know. </body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-10-06 05:09:20 UTC">
+      <body>I will</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-10-06 05:09:20 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0006" participant="131019" time="2012-10-06 05:09:36 UTC">
+      <body>Haha okay well just call when you drive!</body>
+    </message>
+    <message id="m0007" participant="131064" time="2012-10-06 05:10:34 UTC">
+      <body>Busy</body>
+    </message>
+    <message id="m0008" participant="131064" time="2012-10-06 06:53:51 UTC">
+      <body>So busy still. </body>
+    </message>
+    <message id="m0009" participant="131019" time="2012-10-06 06:54:07 UTC">
+      <body>It's okay call when you can (:</body>
+    </message>
+    <message id="m0010" participant="131064" time="2012-10-06 06:58:42 UTC">
+      <body>Mybe in 30</body>
+    </message>
+    <message id="m0011" participant="131019" time="2012-10-06 06:58:55 UTC">
+      <body>Okay (:</body>
+    </message>
+    <message id="m0012" participant="131064" time="2012-10-06 07:53:36 UTC">
+      <body>Talk?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141223.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-23 23:12:00 UTC" participant="153269">
+      <body>Jason wants to know if you leave by Allentown </body>
+    </message>
+    <message id="m0001" time="2014-12-23 23:14:11 UTC" participant="152734">
+      <body>Yeah. We're about 45 min to an hour depending on back roads and speedy driving. </body>
+    </message>
+    <message id="m0002" time="2014-12-23 23:14:43 UTC" participant="153269">
+      <body>My family really wants to know about this</body>
+    </message>
+    <message id="m0003" time="2014-12-23 23:14:59 UTC" participant="153269">
+      <body>Google maps makes it look like Allentown is closer than pally </body>
+    </message>
+    <message id="m0004" time="2014-12-23 23:15:01 UTC" participant="153269">
+      <body>Philly</body>
+    </message>
+    <message id="m0005" time="2014-12-23 23:15:06 UTC" participant="153269">
+      <body>(To revere)</body>
+    </message>
+    <message id="m0006" time="2014-12-23 23:19:24 UTC" participant="153269">
+      <body>Ok, everyone feels much better about doylestown</body>
+    </message>
+    <message id="m0007" time="2014-12-23 23:20:52 UTC" participant="153269">
+      <body>The plot thickens</body>
+    </message>
+    <message id="m0008" time="2014-12-23 23:21:12 UTC" participant="153269">
+      <body>I wish you guys would stop lying</body>
+    </message>
+    <message id="m0009" time="2014-12-23 23:21:46 UTC" participant="152734">
+      <body> But revere SOUNDS so much better. </body>
+    </message>
+    <message id="m0010" time="2014-12-23 23:36:32 UTC" participant="153269">
+      <body>That it true!</body>
+    </message>
+    <message id="m0011" time="2014-12-23 23:38:40 UTC" participant="153269">
+      <body>Man. Is your name really Richard? I don't know what to believe anymore</body>
+    </message>
+  </messages>
+</conversation>
+

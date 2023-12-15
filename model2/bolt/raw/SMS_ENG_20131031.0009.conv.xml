@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131031.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-31 13:35:40 UTC" participant="153654">
+      <body/>
+    </message>
+    <message id="m0001" time="2013-10-31 13:43:28 UTC" participant="153654">
+      <body>Me too!</body>
+    </message>
+    <message id="m0002" time="2013-10-31 18:48:32 UTC" participant="153654">
+      <body>Hey! When do you work at the lab? I need to come in at some point and turn some VHS to DVD for a class</body>
+    </message>
+    <message id="m0003" time="2013-10-31 20:02:53 UTC" participant="153548">
+      <body>I'm about to leave. there are students that will help BUT they are strict about copyright</body>
+    </message>
+    <message id="m0004" time="2013-10-31 20:03:12 UTC" participant="153654">
+      <body>Oh, I wouldn't do it today. I was just gonna come in one day when you're working. Okay, doesn't copyright protect educational use?</body>
+    </message>
+    <message id="m0005" time="2013-10-31 20:05:33 UTC" participant="153548">
+      <body>Not here. They are super strict but if I'm here I won't say anything. </body>
+    </message>
+    <message id="m0006" time="2013-10-31 20:07:28 UTC" participant="153654">
+      <body>Ok, thanks! What days are you normally there?</body>
+    </message>
+    <message id="m0007" time="2013-10-31 20:25:40 UTC" participant="153548">
+      <body>I am here Tuesday and Thursday. </body>
+    </message>
+    <message id="m0008" time="2013-10-31 20:35:12 UTC" participant="153654">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

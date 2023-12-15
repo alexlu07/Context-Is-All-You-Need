@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135355" time="2013-03-10 18:01:36 UTC">
+      <body>Dyou wanna hang before my train? 3-6?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-10 18:03:34 UTC">
+      <body>I would love to. I'm hosting some of my roommates friends for brunch now... Can I meet you for coffee at four thirty?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-10 18:06:02 UTC">
+      <body>I would say you should come over but I'm already bored. </body>
+    </message>
+    <message id="m0003" participant="135355" time="2013-03-10 18:33:36 UTC">
+      <body>Eeee I'm afraid I'd have to ask you for a ride to the airport in that case which is very likely too much trouble!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-10 18:35:43 UTC">
+      <body>I don't have a car!</body>
+    </message>
+    <message id="m0005" participant="135355" time="2013-03-10 18:42:56 UTC">
+      <body>Durn gal!!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-10 18:43:24 UTC">
+      <body>I thought you said 3-6.  You want to come over</body>
+    </message>
+    <message id="m0007" participant="135355" time="2013-03-10 19:43:25 UTC">
+      <body>Gonna head 2 airport try 2 do standby! Love you do much !</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-10 22:22:55 UTC">
+      <body>Ok lady love you!</body>
+    </message>
+  </messages>
+</conversation>

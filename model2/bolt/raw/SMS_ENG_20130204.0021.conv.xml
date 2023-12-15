@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-04 03:56:35 UTC">
+      <body>Hey walking home </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-02-04 04:09:36 UTC">
+      <body>Come in now Ianswer when I call u </body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-02-04 04:10:27 UTC">
+      <body>I'm here I'm just helping nico out he's going through a crisis I know it sounds very lame I'll be in in a second</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-02-04 04:14:16 UTC">
+      <body>I feel so bad leaving I'm trying really hard to I'm sorry you can ground me</body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-02-04 04:15:54 UTC">
+      <body> Answer the phone</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-02-04 04:16:08 UTC">
+      <body>I can't!! </body>
+    </message>
+  </messages>
+</conversation>

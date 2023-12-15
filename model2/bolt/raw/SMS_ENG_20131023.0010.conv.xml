@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131023.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-23 17:04:25 UTC" participant="154391">
+      <body>Should we meet up and grab a bite before the event?</body>
+    </message>
+    <message id="m0001" time="2013-10-23 17:12:19 UTC" participant="154352">
+      <body>I was planning on talking the train arriving at market east  at 6:45 and then walking over to trust</body>
+    </message>
+    <message id="m0002" time="2013-10-23 19:34:15 UTC" participant="154391">
+      <body>Alright, Mike and I will meet you at trust around 7.</body>
+    </message>
+  </messages>
+</conversation>
+

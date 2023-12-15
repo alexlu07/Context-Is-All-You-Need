@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140228.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-28 16:22:33 UTC" participant="153561">
+      <body>Any way i could borrow the van for a run to lowes? Ill put gas in it</body>
+    </message>
+    <message id="m0001" time="2014-02-28 16:25:27 UTC" participant="153547">
+      <body>We're using it right now. Maybe later</body>
+    </message>
+    <message id="m0002" time="2014-02-28 16:25:36 UTC" participant="153561">
+      <body>It's cool. Was just asking you first. </body>
+    </message>
+  </messages>
+</conversation>
+

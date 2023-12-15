@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-28 21:34:16 UTC" participant="152421">
+      <body>Shabbat shalom. Supper at 6:30. Coming?</body>
+    </message>
+    <message id="m0001" time="2012-12-28 21:46:08 UTC" participant="152417">
+      <body>I'm on my way back to Vermont I should be there but late</body>
+    </message>
+    <message id="m0002" time="2012-12-28 21:47:02 UTC" participant="152421">
+      <body>safe travels!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-09 17:47:18 UTC">
+      <body>Hey hey! How's the storm?</body>
+    </message>
+    <message id="m0001" participant="135266" time="2013-02-09 17:49:05 UTC">
+      <body>Seems to be over here. 2 ft. going out to shovel. Didn't lose power. </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-09 17:49:41 UTC">
+      <body>Alright. If you want to talk this afternoon/evening let me know :)</body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-02-09 17:50:36 UTC">
+      <body>K. Mom's sleeping now. </body>
+    </message>
+    <message id="m0004" participant="135266" time="2013-02-10 02:23:36 UTC">
+      <body>Tired from shoveling 2 ft of snow. Going to bed. Everything ok there?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-02-10 03:41:12 UTC">
+      <body>Sorry! Yes all's well here. Ill talk to you tomorrow!</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-02-10 23:22:37 UTC">
+      <body>Hi! When can you and mom talk?</body>
+    </message>
+    <message id="m0007" participant="135266" time="2013-02-10 23:24:24 UTC">
+      <body>How's 7:30 or 8:00?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-02-10 23:24:48 UTC">
+      <body>7:30s good...8 if need be</body>
+    </message>
+    <message id="m0009" participant="135266" time="2013-02-10 23:25:12 UTC">
+      <body>Ok </body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-02-11 00:45:39 UTC">
+      <body>Do you know when you and mom will be ready?</body>
+    </message>
+    <message id="m0011" participant="135266" time="2013-02-11 00:46:27 UTC">
+      <body>5 minutes. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150301.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-01 05:55:09 UTC" participant="153783">
+      <body>I need your help formatting my thesis please</body>
+    </message>
+    <message id="m0001" time="2015-03-01 23:21:41 UTC" participant="152116">
+      <body>When?</body>
+    </message>
+    <message id="m0002" time="2015-03-01 23:23:12 UTC" participant="153783">
+      <body>Whenever. I finished half of it!</body>
+    </message>
+    <message id="m0003" time="2015-03-01 23:23:25 UTC" participant="153783">
+      <body>Just sent it in for edits and reviews!!</body>
+    </message>
+    <message id="m0004" time="2015-03-01 23:24:52 UTC" participant="152116">
+      <body>When's it due</body>
+    </message>
+    <message id="m0005" time="2015-03-01 23:25:19 UTC" participant="153783">
+      <body>May 1st</body>
+    </message>
+    <message id="m0006" time="2015-03-01 23:26:43 UTC" participant="152116">
+      <body>Okay good. Cause I don't have time today</body>
+    </message>
+    <message id="m0007" time="2015-03-02 00:24:33 UTC" participant="153783">
+      <body>Oh yea take your time</body>
+    </message>
+  </messages>
+</conversation>
+

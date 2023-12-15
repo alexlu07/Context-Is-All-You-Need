@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 00:15:32 UTC" participant="152383">
+      <body>I have mail for u!</body>
+    </message>
+    <message id="m0001" time="2013-11-07 00:17:00 UTC" participant="152374">
+      <body>Yay! Will you be home in half an hour or so?</body>
+    </message>
+    <message id="m0002" time="2013-11-07 00:17:51 UTC" participant="152383">
+      <body>Yup</body>
+    </message>
+    <message id="m0003" time="2013-11-07 00:18:08 UTC" participant="152383">
+      <body>All night</body>
+    </message>
+    <message id="m0004" time="2013-11-07 00:19:12 UTC" participant="152374">
+      <body>Sweet, I'll be over in a bit. Thanks!!</body>
+    </message>
+  </messages>
+</conversation>
+

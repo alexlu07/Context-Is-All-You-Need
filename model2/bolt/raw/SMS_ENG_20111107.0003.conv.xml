@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111107.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-11-07 01:20:48 UTC">
+      <body>IT'S THE HAAAAAARVEST MONTH</body>
+    </message>
+    <message id="m0001" participant="135115" time="2011-11-07 01:47:40 UTC">
+      <body>Mmyes. You coming to new england to celebrate the season's bounty?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-11-07 01:48:27 UTC">
+      <body>The historical shores of colonization will sing songs of liberty like never before with the arrival of my bounty </body>
+    </message>
+    <message id="m0003" participant="135115" time="2011-11-07 01:53:02 UTC">
+      <body>And the eagles will soar over the last green valley and scream proclamations of our everlasting love</body>
+    </message>
+  </messages>
+</conversation>

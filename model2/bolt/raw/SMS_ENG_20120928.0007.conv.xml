@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120928.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-09-28 14:41:42 UTC">
+      <body>Yellow liquid started dripping out of my nose yesterday. It's not mucuosy at all, it looks more like urine. Is this er worthy?</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-09-28 18:50:13 UTC">
+      <body>Do u have a fever?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-09-28 19:08:31 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-09-28 21:53:30 UTC">
+      <body>Call me love I need more info</body>
+    </message>
+  </messages>
+</conversation>

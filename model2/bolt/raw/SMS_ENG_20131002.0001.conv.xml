@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131002.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-02 18:17:28 UTC" participant="152476">
+      <body>Hey gabi! I'm meeting someone at 4 in the south end, so unless you're off sooner i'll come by after that. Whats your address? Sorry about getting cut off last night</body>
+    </message>
+    <message id="m0002" time="2013-10-02 18:20:03 UTC" participant="152476">
+      <body>I'm still on the bus, but can prob get there by 3</body>
+    </message>
+    <message id="m0003" time="2013-10-02 18:27:59 UTC" participant="152417">
+      <body>I can come pick you up from the bus if you want</body>
+    </message>
+    <message id="m0004" time="2013-10-02 18:29:46 UTC" participant="152476">
+      <body>Gabi, you're awesome. Thank you. I think we just entered shelburne</body>
+    </message>
+    <message id="m0005" time="2013-10-02 18:56:15 UTC" participant="152417">
+      <body>Have you arrived?</body>
+    </message>
+    <message id="m0006" time="2013-10-02 18:56:31 UTC" participant="152476">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

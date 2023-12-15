@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-11 13:09:53 UTC">
+      <body>Any idea what dad might want for fathers day?</body>
+    </message>
+    <message id="m0001" participant="135618" time="2013-06-11 15:57:42 UTC">
+      <body>Dad would like polo shirts in summer colors. Size small.</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-11 15:58:59 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-11 15:59:07 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0004" participant="135618" time="2013-06-11 16:59:19 UTC">
+      <body>K.</body>
+    </message>
+  </messages>
+</conversation>

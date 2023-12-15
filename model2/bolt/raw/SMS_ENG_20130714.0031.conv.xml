@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137349" time="2013-07-14 18:28:16 UTC">
+      <body>Just thinking of you. How's it going?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-07-14 18:30:35 UTC">
+      <body>Do you have time to talk now? On the phone?</body>
+    </message>
+    <message id="m0002" participant="137349" time="2013-07-14 18:31:10 UTC">
+      <body>In 5 mins?</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-07-14 18:31:51 UTC">
+      <body>I'll wait for your call</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130720.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-20 12:15:54 UTC">
+      <body>Hey! How's your day? Still HOT here in Philly. Currently I'm at a justice for Trayvon Martin rally</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-20 12:35:16 UTC">
+      <body>Pretty good, just sitting by the pool in tourist land. Lot of folks @ the rally? Havent looked @ the news to see whats happening @ the FL Capitol, but i know</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-20 12:38:45 UTC">
+      <body>there's a rally in Gville today. interesting how this has really caught people's attention. will be something to see if anything comes of it...</body>
+    </message>
+    <message id="m0003" participant="134066" time="2013-07-20 12:41:39 UTC">
+      <body>Indeed. Shit's fucked that's for sure</body>
+    </message>
+  </messages>
+</conversation>

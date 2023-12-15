@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131022.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-22 15:46:08 UTC" participant="153631">
+      <body>Are you lunching at 1?</body>
+    </message>
+    <message id="m0001" time="2013-10-22 15:46:20 UTC" participant="153631">
+      <body>I mean I think you are but do you have specific plans?</body>
+    </message>
+    <message id="m0002" time="2013-10-22 16:51:39 UTC" participant="153548">
+      <body>Lunching at 1! Yes !</body>
+    </message>
+    <message id="m0003" time="2013-10-22 16:56:23 UTC" participant="153631">
+      <body>Ellicott brought me chili! We're sitting in the normal eating place</body>
+    </message>
+    <message id="m0004" time="2013-10-22 16:56:45 UTC" participant="153548">
+      <body>I'll meet you out there!</body>
+    </message>
+  </messages>
+</conversation>
+

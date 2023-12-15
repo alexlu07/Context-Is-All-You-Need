@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121008.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-08 01:46:20 UTC" participant="152383">
+      <body>I see that I missed a call from u. :)</body>
+    </message>
+    <message id="m0001" time="2012-10-08 01:46:25 UTC" participant="152383">
+      <body>What's up?</body>
+    </message>
+    <message id="m0002" time="2012-10-08 01:47:34 UTC" participant="152374">
+      <body>Yeah, sorry. Misdial that I couldn't catch quickly enough. But, hi!  :-D</body>
+    </message>
+    <message id="m0003" time="2012-10-08 01:48:45 UTC" participant="152383">
+      <body>Lol nice.</body>
+    </message>
+  </messages>
+</conversation>
+

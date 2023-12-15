@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-04 19:00:33 UTC" participant="152417">
+      <body>Shoot, i forgot about yesterday, are you around this afternoon?</body>
+    </message>
+    <message id="m0001" time="2013-01-04 21:53:04 UTC" participant="152549">
+      <body>I'm already en route home ...</body>
+    </message>
+    <message id="m0002" time="2013-01-05 16:15:34 UTC" participant="152417">
+      <body>Awe, dang. Sorry i missed you, but it was great to see you NYE!</body>
+    </message>
+  </messages>
+</conversation>
+

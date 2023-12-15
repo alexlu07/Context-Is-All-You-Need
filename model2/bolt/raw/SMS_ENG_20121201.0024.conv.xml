@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136273" time="2012-12-01 06:15:52 UTC">
+      <body>FUCK i forgot to go to Cox today. Finding a camera.</body>
+    </message>
+    <message id="m0001" participant="136273" time="2012-12-01 06:34:18 UTC">
+      <body>Are you okay with meeting for our project on sunday??</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-01 06:48:05 UTC">
+      <body>Yeah but on Sunday I have to meet a little bit earlier</body>
+    </message>
+    <message id="m0003" participant="136273" time="2012-12-01 08:51:56 UTC">
+      <body>What time?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-01 13:30:51 UTC">
+      <body>Around noon. We'd have to be done by 7</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-01 14:55:39 UTC">
+      <body>So when are we meeting?</body>
+    </message>
+    <message id="m0006" participant="136273" time="2012-12-01 15:10:08 UTC">
+      <body>I have to send out a group message to see when it works for lilliy and natalia but does 130 sound good? </body>
+    </message>
+    <message id="m0007" participant="136273" time="2012-12-01 19:48:10 UTC">
+      <body>Will comee and get me beforee you leave</body>
+    </message>
+    <message id="m0008" participant="136273" time="2012-12-01 19:49:32 UTC">
+      <body>Es</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-12-01 19:49:56 UTC">
+      <body>Ok! I'll be ready by 3</body>
+    </message>
+  </messages>
+</conversation>

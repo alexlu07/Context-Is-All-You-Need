@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110928.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-28 23:50:08 UTC">
+      <body>Are you coming home this weekend?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-09-28 23:56:39 UTC">
+      <body>Saturday 5 to Sunday afternoon</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-28 23:56:57 UTC">
+      <body>Why not on Friday?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-28 23:57:17 UTC">
+      <body>What are you coming home for?</body>
+    </message>
+    <message id="m0004" participant="135092" time="2011-09-28 23:57:51 UTC">
+      <body>Cleans mah roombah</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-09-28 23:58:08 UTC">
+      <body>Why not on fri?</body>
+    </message>
+    <message id="m0006" participant="135092" time="2011-09-29 00:47:57 UTC">
+      <body>I have dance rehearsal Saturday</body>
+    </message>
+  </messages>
+</conversation>

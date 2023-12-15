@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130798" time="2013-06-02 17:03:53 UTC">
+      <body>Hello! How are you today?</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-06-02 19:32:40 UTC">
+      <body>Hello! I'm well! Yourself?</body>
+    </message>
+    <message id="m0002" participant="130798" time="2013-06-02 19:46:12 UTC">
+      <body>Fine thanks! I'm in a Philly suburb, and I heard about ldc through my mom who used to work for them. How about you?</body>
+    </message>
+  </messages>
+</conversation>

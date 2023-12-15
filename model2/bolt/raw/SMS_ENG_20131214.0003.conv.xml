@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131214.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-14 23:18:39 UTC" participant="152417">
+      <body>Are you comin tonight?</body>
+    </message>
+    <message id="m0001" time="2013-12-14 23:21:36 UTC" participant="152535">
+      <body>No i cant make it. Are you good on folk?</body>
+    </message>
+    <message id="m0002" time="2013-12-14 23:44:33 UTC" participant="152417">
+      <body>Ok, Its doable, we'll miss you tho</body>
+    </message>
+    <message id="m0003" time="2013-12-14 23:45:04 UTC" participant="152535">
+      <body>Sorry. The familys in and i need to be around. Much love !</body>
+    </message>
+  </messages>
+</conversation>
+

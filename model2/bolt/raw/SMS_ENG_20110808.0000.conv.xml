@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110808.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-08 18:49:15 UTC">
+      <body>Hey! Just wanted to check in and see how you were doing. I'm still feeling weird about the buoyant thing, and hoping you're not!</body>
+    </message>
+    <message id="m0001" participant="135096" time="2011-08-08 18:52:02 UTC">
+      <body>Yep, I'm just reading by the lake... I guess I'm not really surprised that they would talk shit, so it's not bothering me. If I knew the issue, maybe I could work on it, but I guess they don't want to share that with me...</body>
+    </message>
+  </messages>
+</conversation>

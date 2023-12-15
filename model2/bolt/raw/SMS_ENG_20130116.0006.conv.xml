@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130116.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-01-16 12:28:19 UTC">
+      <body>Hey Abbe! Quick question...are you driving home after work today or do you have an appt?</body>
+    </message>
+    <message id="m0001" participant="131456" time="2013-01-16 12:37:16 UTC">
+      <body>I'm driving both ways</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-01-16 12:41:19 UTC">
+      <body>Okay, I'll be back on the train again today then :-)</body>
+    </message>
+    <message id="m0003" participant="131456" time="2013-01-16 12:44:37 UTC">
+      <body>Excellent! See you soon</body>
+    </message>
+  </messages>
+</conversation>

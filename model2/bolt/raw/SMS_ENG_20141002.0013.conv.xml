@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141002.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-02 19:31:12 UTC" participant="153557">
+      <body>Did I get a package and I am guessing you can't take me to the airport in the morning</body>
+    </message>
+    <message id="m0001" time="2014-10-02 19:31:12 UTC" participant="153557">
+      <body>If not I gotta get a shuttle ordered</body>
+    </message>
+    <message id="m0002" time="2014-10-02 19:33:07 UTC" participant="153547">
+      <body>I don't know if u got a package. I got the car back and I can take u</body>
+    </message>
+    <message id="m0003" time="2014-10-02 19:51:05 UTC" participant="153557">
+      <body>Okay thank you. </body>
+    </message>
+    <message id="m0004" time="2014-10-03 01:35:27 UTC" participant="153557">
+      <body>Are you ok?</body>
+    </message>
+    <message id="m0005" time="2014-10-03 10:45:04 UTC" participant="153557">
+      <body>I didn't have to take anything out or off for security but got tested for Ebola twice</body>
+    </message>
+    <message id="m0006" time="2014-10-03 10:45:04 UTC" participant="153557">
+      <body>Jeesh</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121005.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-05 21:19:17 UTC">
+      <body>Hey girl </body>
+    </message>
+    <message id="m0001" participant="135436" time="2012-10-05 21:20:32 UTC">
+      <body>Where you at?!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-05 21:20:44 UTC">
+      <body>Lilly I'm stuck in a group meeting ugh. Can I call in an hour?</body>
+    </message>
+    <message id="m0004" participant="135436" time="2012-10-05 22:22:14 UTC">
+      <body>We're still here but are about to leave. are you done?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121120.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135264" time="2012-11-20 19:46:08 UTC">
+      <body>I hope you have a wonderful Thanksgiving! Are you headed home or elsewhere? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-20 21:30:58 UTC">
+      <body>Home and thanks! </body>
+    </message>
+    <message id="m0002" participant="135264" time="2012-11-21 03:46:00 UTC">
+      <body>I'm in Montclair with Katherine &amp; her family. </body>
+    </message>
+  </messages>
+</conversation>

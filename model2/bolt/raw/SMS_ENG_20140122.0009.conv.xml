@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140122.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-22 13:56:16 UTC" participant="153651">
+      <body>Looks like u made it???</body>
+    </message>
+    <message id="m0001" time="2014-01-22 17:13:14 UTC" participant="153548">
+      <body>Made it!!!</body>
+    </message>
+    <message id="m0002" time="2014-01-22 17:13:25 UTC" participant="153548">
+      <body>Passed out as soon as I got home</body>
+    </message>
+    <message id="m0003" time="2014-01-22 17:20:35 UTC" participant="153651">
+      <body>Thank god. So glad</body>
+    </message>
+    <message id="m0004" time="2014-01-23 00:54:53 UTC" participant="153651">
+      <body>Was your class cancelled??</body>
+    </message>
+  </messages>
+</conversation>
+

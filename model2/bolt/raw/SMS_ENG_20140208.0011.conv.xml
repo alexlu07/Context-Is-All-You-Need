@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140208.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-08 14:14:10 UTC" participant="153548">
+      <body>Running a little slow this morning! Probably be at the studio closer to 10:30</body>
+    </message>
+    <message id="m0001" time="2014-02-08 14:14:48 UTC" participant="153645">
+      <body>Sounds perfect ! Do you need a ride? </body>
+    </message>
+    <message id="m0002" time="2014-02-08 14:16:26 UTC" participant="153548">
+      <body>I think I'm gonna ride my bike! Thank you though!</body>
+    </message>
+    <message id="m0003" time="2014-02-08 14:16:49 UTC" participant="153645">
+      <body>No problem</body>
+    </message>
+    <message id="m0004" time="2014-02-08 15:38:40 UTC" participant="153645">
+      <body>Be there in 5 </body>
+    </message>
+  </messages>
+</conversation>
+

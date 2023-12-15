@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150118.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-18 19:18:43 UTC" participant="153458">
+      <body>Jon can I get a ride Monday? Car is still in the shop</body>
+    </message>
+    <message id="m0001" time="2015-01-18 19:55:28 UTC" participant="153418">
+      <body>Yeah, I'll be around the same time.</body>
+    </message>
+    <message id="m0002" time="2015-01-18 19:59:00 UTC" participant="153458">
+      <body>K thx</body>
+    </message>
+  </messages>
+</conversation>
+

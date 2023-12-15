@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-05-05 19:03:51 UTC">
+      <body>What are your dinner plans?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-05 19:04:10 UTC">
+      <body>5:30!</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-05-05 19:04:27 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-06 16:06:53 UTC">
+      <body>reminder: phillies tickets go up on Haverticket today at 12:30 (in 25 min.)</body>
+    </message>
+    <message id="m0004" participant="135265" time="2013-05-06 16:17:22 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

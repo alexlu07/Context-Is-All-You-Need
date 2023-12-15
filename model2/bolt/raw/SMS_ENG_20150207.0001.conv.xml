@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150207.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-07 14:27:37 UTC" participant="152115">
+      <body>Hey. If you have time, would you be able to pick up a PlayStation II and a controller from that store? I'll give you the money when I see you. I didn't know that Michael has the first three Spyro games. He's giving them to me.</body>
+    </message>
+    <message id="m0001" time="2015-02-07 14:43:44 UTC" participant="152121">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2015-02-07 14:51:05 UTC" participant="152115">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" time="2015-02-07 16:31:02 UTC" participant="152121">
+      <body>On my way</body>
+    </message>
+    <message id="m0004" time="2015-02-07 17:06:23 UTC" participant="152115">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

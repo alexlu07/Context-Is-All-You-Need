@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-04-29 17:45:06 UTC">
+      <body>Hey, what's your new address? I'm in San Diego for the week, don't know if I'll have time for a visit though.</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-04-29 17:46:14 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="131503" time="2013-04-29 17:48:14 UTC">
+      <body>Where are you staying?</body>
+    </message>
+    <message id="m0004" participant="131503" time="2013-04-29 17:48:36 UTC">
+      <body>I might be able to catch up with you after work instead of having you come all the way up to Oceanside.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-04-29 17:52:55 UTC">
+      <body>Courtyard - San Diego Central - 8651 Spectrum Center Blvd.,, San Diego, 92123</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-04-29 17:53:39 UTC">
+      <body>Don't know how late I'll be working though...</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-04-29 17:54:39 UTC">
+      <body>The client is about a mile from the hotel.</body>
+    </message>
+    <message id="m0008" participant="131503" time="2013-04-29 17:56:20 UTC">
+      <body>You are fairly close to my work</body>
+    </message>
+    <message id="m0009" participant="131503" time="2013-04-29 17:56:27 UTC">
+      <body>A good 45 min drive from my house. </body>
+    </message>
+    <message id="m0010" participant="131503" time="2013-04-29 17:56:59 UTC">
+      <body>Let me know if you are open for a lunch (any day but today).</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-04-29 18:09:40 UTC">
+      <body>Will do. We just got to the client anyways.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-06-15 16:41:20 UTC">
+      <body>Hi there. What's up this weekend?</body>
+    </message>
+    <message id="m0001" participant="131528" time="2013-06-15 16:56:18 UTC">
+      <body>Hey, not too much. Heading to a fried chicken and champagne party. Didn't know that was akk. thing. You</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-06-15 17:11:22 UTC">
+      <body>Not much just laying low this weekend. Was to do a yard sale but my friend backed out</body>
+    </message>
+  </messages>
+</conversation>

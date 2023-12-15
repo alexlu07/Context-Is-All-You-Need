@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141205.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-05 21:43:18 UTC" participant="152417">
+      <body>I guess that's a nope</body>
+    </message>
+    <message id="m0001" time="2014-12-05 21:57:57 UTC" participant="152595">
+      <body>Hey, I'm sorry. This week has really sucked and I've been pretty insular. I have plans tonight. Maybe we could shoot for dinner before zach's thing next weekend?</body>
+    </message>
+    <message id="m0002" time="2014-12-05 23:27:57 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+    <message id="m0003" time="2014-12-05 23:53:31 UTC" participant="152417">
+      <body>And I'm sorry that your week sucked, but hopefully it was edifying at least</body>
+    </message>
+  </messages>
+</conversation>
+

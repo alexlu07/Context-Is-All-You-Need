@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150321.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-21 02:00:49 UTC" participant="153850">
+      <body>Hey Jenna! </body>
+    </message>
+    <message id="m0001" time="2015-03-21 02:03:44 UTC" participant="153850">
+      <body>What lol? </body>
+    </message>
+    <message id="m0002" time="2015-03-21 02:04:31 UTC" participant="153848">
+      <body>Hiiiiii ebaofutl!!!!</body>
+    </message>
+    <message id="m0003" time="2015-03-21 02:05:16 UTC" participant="153848">
+      <body>I love you</body>
+    </message>
+    <message id="m0004" time="2015-03-21 02:05:23 UTC" participant="153850">
+      <body>I love you too! </body>
+    </message>
+  </messages>
+</conversation>
+

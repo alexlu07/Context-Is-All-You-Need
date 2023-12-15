@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130721.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-21 01:26:30 UTC" participant="152116">
+      <body>We're staying at her place tonight</body>
+    </message>
+    <message id="m0001" time="2013-07-21 01:26:52 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2013-07-21 23:46:38 UTC" participant="152116">
+      <body>Nah I'm working on my thesis. Sorry</body>
+    </message>
+    <message id="m0003" time="2013-07-22 01:20:29 UTC" participant="153244">
+      <body>That's ok</body>
+    </message>
+  </messages>
+</conversation>
+

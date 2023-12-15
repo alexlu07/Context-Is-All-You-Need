@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-27 02:22:46 UTC" participant="153418">
+      <body>Hey, are CAD files on dropbox already? For the final design.</body>
+    </message>
+    <message id="m0001" time="2013-05-27 02:29:18 UTC" participant="153442">
+      <body>I don't think so. I'll have them saved on a flash drive. I can upload or send them to u tomorrow</body>
+    </message>
+    <message id="m0002" time="2013-05-27 02:29:53 UTC" participant="153418">
+      <body>I don't want them lol. Just put in a folder in Dropbox.</body>
+    </message>
+    <message id="m0003" time="2013-05-27 02:43:24 UTC" participant="153442">
+      <body>Lol ok</body>
+    </message>
+  </messages>
+</conversation>
+

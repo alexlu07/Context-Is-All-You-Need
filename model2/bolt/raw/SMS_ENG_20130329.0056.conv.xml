@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-29 22:47:27 UTC" participant="153418">
+      <body>Yeah, I'll see you around then.</body>
+    </message>
+    <message id="m0001" time="2013-03-29 22:49:15 UTC" participant="153418">
+      <body>I is here.</body>
+    </message>
+    <message id="m0002" time="2013-03-29 22:55:29 UTC" participant="153418">
+      <body>Ignore that last message.</body>
+    </message>
+    <message id="m0003" time="2013-03-30 18:12:56 UTC" participant="153443">
+      <body>Please call me when you come to around my place! Thanks!</body>
+    </message>
+    <message id="m0004" time="2013-03-30 18:13:59 UTC" participant="153418">
+      <body>I'll be there in 15 minutes or so.</body>
+    </message>
+    <message id="m0005" time="2013-03-30 18:18:54 UTC" participant="153443">
+      <body>Arigatou!!</body>
+    </message>
+  </messages>
+</conversation>
+

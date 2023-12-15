@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121014.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-14 13:56:48 UTC" participant="152421">
+      <body>Want to ride to Winooski in my car?</body>
+    </message>
+    <message id="m0001" time="2012-10-14 14:07:46 UTC" participant="152417">
+      <body>Sure, see you in a bit</body>
+    </message>
+    <message id="m0002" time="2012-10-14 14:07:49 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" time="2012-10-14 14:11:25 UTC" participant="152421">
+      <body>Picking up sol fiirst then u</body>
+    </message>
+  </messages>
+</conversation>
+

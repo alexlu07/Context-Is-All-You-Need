@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130808.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-08 17:09:30 UTC" participant="154393">
+      <body>Did you invite Bonnie to you cookout on Friday?</body>
+    </message>
+    <message id="m0001" time="2013-08-08 17:20:54 UTC" participant="154352">
+      <body>I hadn't thought to, but i could.</body>
+    </message>
+    <message id="m0002" time="2013-08-08 17:23:19 UTC" participant="154352">
+      <body>Do you think it would be a good idea to invite her?</body>
+    </message>
+    <message id="m0003" time="2013-08-08 19:17:37 UTC" participant="154393">
+      <body>It's a wildcard any time the subject is Bonnie,
+But I do know she would Appreciate the offer.</body>
+    </message>
+    <message id="m0004" time="2013-08-08 19:45:21 UTC" participant="154352">
+      <body>I let her know. She said she may be able to stop by.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130729.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130794" time="2013-07-29 16:34:46 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="136109" time="2013-07-29 18:32:33 UTC">
+      <body>Sorry I'm roaming I cant talk</body>
+    </message>
+  </messages>
+</conversation>

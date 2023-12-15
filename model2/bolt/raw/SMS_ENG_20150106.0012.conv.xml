@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150106.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-06 11:05:36 UTC" participant="153421">
+      <body>Opa is not going to work, he said he is going to pick you up but just in case he lost track of time call him </body>
+    </message>
+    <message id="m0001" time="2015-01-06 12:46:49 UTC" participant="153417">
+      <body>Okay</body>
+    </message>
+    <message id="m0002" time="2015-01-06 18:17:27 UTC" participant="153421">
+      <body>Chris opa going to pick you up</body>
+    </message>
+  </messages>
+</conversation>
+

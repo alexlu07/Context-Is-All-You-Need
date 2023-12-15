@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131451" time="2013-06-05 11:11:55 UTC">
+      <body>Hey! Woke up quite late today. Got my wisdom teeth removed yesterday and am spending a couple days lounging. How are you?</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-05 14:50:56 UTC">
+      <body>Oooh that sucks</body>
+    </message>
+    <message id="m0002" participant="131451" time="2013-06-05 15:17:31 UTC">
+      <body>I've actually been recovering quite well! The drugs seem to be doing the trick</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-06-05 15:40:57 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-06-05 15:40:57 UTC">
+      <body>So how many wisdom teeth?</body>
+    </message>
+    <message id="m0005" participant="131003" time="2013-06-05 15:41:26 UTC">
+      <body>I think I only had 2 when I got men out.</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-06-05 15:41:55 UTC">
+      <body>My sister had 4 and they were "impacted" or whatever</body>
+    </message>
+    <message id="m0007" participant="131451" time="2013-06-05 16:22:36 UTC">
+      <body>I had 4 too. They weren't impacted, but I just didnt want to get 2 out and have to deal.with everything all over again</body>
+    </message>
+  </messages>
+</conversation>

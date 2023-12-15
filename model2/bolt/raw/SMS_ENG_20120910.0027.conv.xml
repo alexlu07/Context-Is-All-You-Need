@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120910.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-10 17:03:50 UTC" participant="153294">
+      <body>Kari,
+Hope you had a great day yesterday and hope high school is going well.  
+I have a question when u get a chance.
+Melba</body>
+    </message>
+    <message id="m0001" time="2012-09-10 17:14:18 UTC" participant="152734">
+      <body>Wrong number</body>
+    </message>
+    <message id="m0002" time="2012-09-10 17:46:23 UTC" participant="153294">
+      <body>Sorry meant 704</body>
+    </message>
+    <message id="m0003" time="2012-09-10 18:03:38 UTC" participant="152734">
+      <body>No problem!</body>
+    </message>
+  </messages>
+</conversation>
+

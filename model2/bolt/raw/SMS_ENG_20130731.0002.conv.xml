@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131201" time="2013-07-31 01:53:15 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131201" time="2013-07-31 19:21:07 UTC">
+      <body>Hello. How is it going?</body>
+    </message>
+    <message id="m0002" participant="131201" time="2013-07-31 19:21:21 UTC">
+      <body>I have the weird time slot at night.</body>
+    </message>
+    <message id="m0003" participant="131201" time="2013-07-31 19:21:26 UTC">
+      <body>Some people never see my messages.</body>
+    </message>
+    <message id="m0004" participant="131201" time="2013-07-31 19:21:31 UTC">
+      <body>How is it going?</body>
+    </message>
+    <message id="m0005" participant="131889" time="2013-07-31 19:22:22 UTC">
+      <body>Hey. It's OK. I'm just getting ready to go to work</body>
+    </message>
+    <message id="m0006" participant="131201" time="2013-07-31 19:23:07 UTC">
+      <body>Oh wow.</body>
+    </message>
+    <message id="m0007" participant="131201" time="2013-07-31 19:23:33 UTC">
+      <body>I'm just getting off work</body>
+    </message>
+    <message id="m0008" participant="131201" time="2013-07-31 19:23:33 UTC">
+      <body>What do u do?</body>
+    </message>
+    <message id="m0009" participant="131889" time="2013-07-31 19:24:38 UTC">
+      <body>Yeah. Oh, I work at Walmart, and they schedule me for shifts that go until 10 or 11 PM</body>
+    </message>
+    <message id="m0010" participant="131201" time="2013-07-31 19:43:28 UTC">
+      <body>Oh my! That's late.</body>
+    </message>
+    <message id="m0011" participant="131201" time="2013-07-31 19:43:28 UTC">
+      <body>But guess it all works out. If you start late.</body>
+    </message>
+    <message id="m0012" participant="131201" time="2013-07-31 19:43:55 UTC">
+      <body>I like later shifts too.</body>
+    </message>
+    <message id="m0013" participant="131889" time="2013-07-31 19:46:37 UTC">
+      <body>Yeah, especially when the semester starts again</body>
+    </message>
+    <message id="m0014" participant="131201" time="2013-07-31 19:48:13 UTC">
+      <body>Yeah. That makes sense. What are you studying?</body>
+    </message>
+    <message id="m0015" participant="131889" time="2013-07-31 19:49:02 UTC">
+      <body>Microbiology</body>
+    </message>
+    <message id="m0016" participant="131201" time="2013-07-31 19:49:50 UTC">
+      <body>Premed?</body>
+    </message>
+    <message id="m0017" participant="131889" time="2013-07-31 19:52:03 UTC">
+      <body>I'm not sure yet. I think I'd like to teach biology classes</body>
+    </message>
+  </messages>
+</conversation>

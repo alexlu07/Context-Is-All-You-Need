@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140916.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-16 00:15:20 UTC" participant="153608">
+      <body>Hey Hunter this is Jimm . I bought the GMC Safari last year.  Is there a security code for the stereo? I took the battery out to charge and now the radio</body>
+    </message>
+    <message id="m0001" time="2014-09-16 00:15:30 UTC" participant="153608">
+      <body> is in lock mode. </body>
+    </message>
+    <message id="m0002" time="2014-09-16 01:14:06 UTC" participant="153547">
+      <body>Hi Jim I'm in class. It should be written by hand in the back of the manual. Or in the section describing the lock feature</body>
+    </message>
+    <message id="m0003" time="2014-09-16 01:33:45 UTC" participant="153608">
+      <body>Ok thanks </body>
+    </message>
+  </messages>
+</conversation>
+

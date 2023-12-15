@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131105.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-05 16:33:03 UTC" participant="153548">
+      <body>What time will you be in philly?</body>
+    </message>
+    <message id="m0001" time="2013-11-05 17:25:20 UTC" participant="153649">
+      <body>I think I land around 7pm or so. You gonna be around?</body>
+    </message>
+    <message id="m0002" time="2013-11-05 18:01:13 UTC" participant="153548">
+      <body>Yup!</body>
+    </message>
+  </messages>
+</conversation>
+

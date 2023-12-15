@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-04-13 22:56:38 UTC">
+      <body>Hey ######! My allergies are killing me, so we may not make it. Just wanted to give you a heads up.</body>
+    </message>
+    <message id="m0001" participant="131032" time="2013-04-14 00:33:56 UTC">
+      <body>Ooo that sucks!! Stupid pollen. Does it help if I told u we're making benedryl cocktails?:) Feel better!!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-04-14 00:34:20 UTC">
+      <body>Lol. Thanks!</body>
+    </message>
+  </messages>
+</conversation>

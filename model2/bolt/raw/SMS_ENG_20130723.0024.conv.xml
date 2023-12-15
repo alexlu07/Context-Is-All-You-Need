@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-23 23:01:51 UTC">
+      <body>Hope the BBQ was a success. I'm off tomorrow if yr around</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-24 16:21:02 UTC">
+      <body>You out on the town today?</body>
+    </message>
+    <message id="m0002" participant="130893" time="2013-07-24 16:23:28 UTC">
+      <body>Yes. Heading downtown now</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-07-24 16:55:05 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0004" participant="130893" time="2013-07-24 16:55:23 UTC">
+      <body>Whr u?</body>
+    </message>
+    <message id="m0006" participant="130893" time="2013-07-24 16:56:07 UTC">
+      <body>Cool. Ill be back north in like 2 hours</body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-07-24 17:10:14 UTC">
+      <body>K. Ya know me, I'll meet ya anywheres</body>
+    </message>
+    <message id="m0008" participant="131964" time="2013-07-24 19:12:53 UTC">
+      <body>I'll be downtown for a bit..</body>
+    </message>
+    <message id="m0009" participant="130893" time="2013-07-24 19:18:24 UTC">
+      <body>I'm here at 12th n walnut at cosi. </body>
+    </message>
+    <message id="m0010" participant="131964" time="2013-07-24 19:24:23 UTC">
+      <body>L</body>
+    </message>
+    <message id="m0011" participant="131964" time="2013-07-24 19:24:32 UTC">
+      <body>Ha, K</body>
+    </message>
+  </messages>
+</conversation>

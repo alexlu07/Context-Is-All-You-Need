@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140607.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-07 22:03:02 UTC" participant="153244">
+      <body>Hey, this upcoming week I'm scheduled for sun, fri, &amp; sat. But remember I said I couldn't do june 12, 13, or 14. I can only do sun for that week.</body>
+    </message>
+    <message id="m0001" time="2014-06-07 22:25:06 UTC" participant="153893">
+      <body>Ok ill change..thanks</body>
+    </message>
+    <message id="m0002" time="2014-06-07 22:33:28 UTC" participant="153244">
+      <body>K no problem</body>
+    </message>
+  </messages>
+</conversation>
+

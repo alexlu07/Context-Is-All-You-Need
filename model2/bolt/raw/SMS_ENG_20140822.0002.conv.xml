@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140822.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-22 01:13:17 UTC" participant="152118">
+      <body>Hey! So if you can, will you let me know if Michael can go out tomorrow? My sister asked if me and mike wanted to go to a crab boil but I wanted to make sure you guys couldn't do anything.</body>
+    </message>
+    <message id="m0001" time="2014-08-22 01:42:59 UTC" participant="152115">
+      <body>Yeah. He said he can't go out. I'm sorry.</body>
+    </message>
+    <message id="m0002" time="2014-08-22 01:43:35 UTC" participant="152118">
+      <body>It's okay! Mike isn't going to Russia so next time he comes down!</body>
+    </message>
+    <message id="m0003" time="2014-08-22 01:43:53 UTC" participant="152115">
+      <body>Haha. Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

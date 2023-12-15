@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 18:48:03 UTC" participant="153900">
+      <body>Hey you working</body>
+    </message>
+    <message id="m0001" time="2014-12-13 18:56:24 UTC" participant="153244">
+      <body>Yea why?</body>
+    </message>
+    <message id="m0002" time="2014-12-13 18:57:31 UTC" participant="153900">
+      <body>Was just wondering if you where go to ac Moore</body>
+    </message>
+    <message id="m0003" time="2014-12-13 19:13:11 UTC" participant="153244">
+      <body>Oh no</body>
+    </message>
+    <message id="m0004" time="2014-12-14 17:14:57 UTC" participant="153244">
+      <body>Aunt cheryl is coming in on wed so we need the gift for her and gary then.  What are we getting them?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-28 14:43:07 UTC" participant="152417">
+      <body>Good morning Bob, could i come and get my saxophone?</body>
+    </message>
+    <message id="m0001" time="2013-04-28 14:44:38 UTC" participant="152521">
+      <body>Yes. I do need to get going so right now is great.</body>
+    </message>
+  </messages>
+</conversation>
+

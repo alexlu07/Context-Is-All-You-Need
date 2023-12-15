@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137273" time="2013-03-30 22:46:08 UTC">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-03-30 22:46:41 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="137273" time="2013-03-30 22:47:20 UTC">
+      <body>Can i have some money to go to renatoes?</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-03-30 22:47:48 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="137273" time="2013-03-30 22:48:17 UTC">
+      <body>Thanks will be home in 5 min</body>
+    </message>
+    <message id="m0005" participant="137273" time="2013-03-30 23:24:30 UTC">
+      <body>Do you have any money for breakfast tomorrow?</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-03-30 23:25:18 UTC">
+      <body>You can always take my card to the coop</body>
+    </message>
+    <message id="m0007" participant="137273" time="2013-03-30 23:26:44 UTC">
+      <body>No but my friends want to go to dunken donuts</body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-03-30 23:27:20 UTC">
+      <body>Sorry no sunken donuts!!!</body>
+    </message>
+    <message id="m0009" participant="137273" time="2013-03-30 23:27:38 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0010" participant="137273" time="2013-03-31 00:34:35 UTC">
+      <body>Im at michaels</body>
+    </message>
+    <message id="m0011" participant="132437" time="2013-03-31 00:35:07 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0012" participant="132437" time="2013-03-31 03:05:24 UTC">
+      <body>Could you please bring me my purse. It might be in the kitchen or in the entrance. Thanks </body>
+    </message>
+    <message id="m0013" participant="137273" time="2013-03-31 20:06:32 UTC">
+      <body>Can i have until five to do my chores</body>
+    </message>
+    <message id="m0014" participant="132437" time="2013-03-31 20:06:58 UTC">
+      <body>I</body>
+    </message>
+    <message id="m0015" participant="132437" time="2013-03-31 20:07:03 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0016" participant="137273" time="2013-03-31 20:07:20 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0017" participant="132437" time="2013-03-31 20:07:36 UTC">
+      <body>Love</body>
+    </message>
+    <message id="m0018" participant="137273" time="2013-03-31 20:08:01 UTC">
+      <body>You too</body>
+    </message>
+    <message id="m0019" participant="132437" time="2013-03-31 20:08:39 UTC">
+      <body>Welcome to mutual admiration club!!!</body>
+    </message>
+    <message id="m0020" participant="137273" time="2013-03-31 20:09:01 UTC">
+      <body>Not funny</body>
+    </message>
+    <message id="m0021" participant="132437" time="2013-03-31 20:09:27 UTC">
+      <body>HAHAHAH</body>
+    </message>
+  </messages>
+</conversation>

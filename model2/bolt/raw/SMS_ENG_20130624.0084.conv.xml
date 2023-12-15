@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0084" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-24 15:49:57 UTC" participant="153472">
+      <body>Unless something crazy comes up at work this afternoon, I'll be ready for a swim at 6.</body>
+    </message>
+    <message id="m0001" time="2013-06-24 15:50:58 UTC" participant="152374">
+      <body>Yay! Same here. I'll text if anything changes, if not I'll see you at the pool.</body>
+    </message>
+    <message id="m0002" time="2013-06-24 15:52:04 UTC" participant="153472">
+      <body>Sounds great!</body>
+    </message>
+    <message id="m0003" time="2013-06-24 19:10:24 UTC" participant="153472">
+      <body>So do u think this weather will impact our swimming plans?</body>
+    </message>
+    <message id="m0004" time="2013-06-24 19:11:49 UTC" participant="152374">
+      <body>I hope not :-(  As bad as it is right now, the radar is really spotty. There's a chance it might clear up in time</body>
+    </message>
+    <message id="m0005" time="2013-06-24 21:48:17 UTC" participant="153472">
+      <body>Running late as usual but on my way.</body>
+    </message>
+  </messages>
+</conversation>
+

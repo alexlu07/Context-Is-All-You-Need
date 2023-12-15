@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0059" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130798" time="2013-05-26 15:06:47 UTC">
+      <body>Hello there!</body>
+    </message>
+    <message id="m0001" participant="130657" time="2013-05-26 15:07:29 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="130798" time="2013-05-26 15:09:03 UTC">
+      <body>How are you and where are you from?</body>
+    </message>
+    <message id="m0003" participant="130798" time="2013-05-26 15:12:34 UTC">
+      <body>I'm in a Philly suburb with my family for the weekend. My sister and I are about to cook a Philippine dessert. :)</body>
+    </message>
+    <message id="m0004" participant="130657" time="2013-05-26 15:15:47 UTC">
+      <body>thats so cool!!! I lived in philly about 2yrs ago. I good thank you. Im celebrating my sisters birthday. Im in California. We just ate Thai food</body>
+    </message>
+    <message id="m0005" participant="130798" time="2013-05-26 15:18:03 UTC">
+      <body>Ooh nice! My other sister is visiting California for a short vacation right now. She's in san Diego. Happy birthday to your sister!</body>
+    </message>
+    <message id="m0006" participant="130798" time="2013-05-26 17:13:24 UTC">
+      <body>Have you participated in other penn language lab studies?</body>
+    </message>
+    <message id="m0007" participant="130798" time="2013-05-26 17:14:02 UTC">
+      <body>The last time I participated, I had to take or make calls, with half of them being from a noisy environment!</body>
+    </message>
+  </messages>
+</conversation>

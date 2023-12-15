@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150409.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-09 21:55:56 UTC" participant="153875">
+      <body>What time is it at? </body>
+    </message>
+    <message id="m0001" time="2015-04-09 22:33:11 UTC" participant="153875">
+      <body>I'm here </body>
+    </message>
+    <message id="m0003" time="2015-04-10 01:01:52 UTC" participant="153875">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2015-04-10 01:01:52 UTC" participant="153875">
+      <body>This was the message</body>
+    </message>
+    <message id="m0005" time="2015-04-10 01:01:52 UTC" participant="153875">
+      <body>EXACTLY. </body>
+    </message>
+    <message id="m0006" time="2015-04-10 01:03:27 UTC" participant="153848">
+      <body>OMG it's typed </body>
+    </message>
+    <message id="m0007" time="2015-04-10 01:03:31 UTC" participant="153848">
+      <body/>
+    </message>
+    <message id="m0008" time="2015-04-10 01:04:00 UTC" participant="153875">
+      <body>Righttt? Like wow. What the actual hell</body>
+    </message>
+    <message id="m0009" time="2015-04-10 01:05:23 UTC" participant="153848">
+      <body>That's really neurotic actually. Wow.</body>
+    </message>
+  </messages>
+</conversation>
+

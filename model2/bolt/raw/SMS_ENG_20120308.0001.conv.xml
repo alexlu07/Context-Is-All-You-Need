@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120308.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131322" time="2012-03-08 02:08:00 UTC">
+      <body>This is a brutal beating</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-03-08 02:10:30 UTC">
+      <body>Haha yeah it is. A real shooting show. You there?</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-03-08 02:11:06 UTC">
+      <body>Nice</body>
+    </message>
+    <message id="m0003" participant="131322" time="2012-03-08 02:12:16 UTC">
+      <body>
+yeah me and nick went</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-03-08 02:12:55 UTC">
+      <body>Y'all just got some cheeburgers</body>
+    </message>
+  </messages>
+</conversation>

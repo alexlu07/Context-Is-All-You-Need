@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-02-05 21:21:30 UTC">
+      <body>Guess what were singing?</body>
+    </message>
+    <message id="m0001" participant="131825" time="2013-02-05 21:22:08 UTC">
+      <body>Wha?!</body>
+    </message>
+    <message id="m0002" participant="131821" time="2013-02-05 21:25:58 UTC">
+      <body>How Lovely are the Messengers!!!</body>
+    </message>
+    <message id="m0003" participant="131825" time="2013-02-05 21:31:52 UTC">
+      <body>NOOOOOO</body>
+    </message>
+    <message id="m0004" participant="131821" time="2013-02-05 21:42:36 UTC">
+      <body>:-P</body>
+    </message>
+    <message id="m0005" participant="131825" time="2013-02-06 00:00:00 UTC">
+      <body>Is chamber at 7:30?</body>
+    </message>
+    <message id="m0006" participant="131821" time="2013-02-06 00:03:56 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0007" participant="131825" time="2013-02-06 15:12:00 UTC">
+      <body>I can be there at 4:30</body>
+    </message>
+    <message id="m0008" participant="131825" time="2013-02-06 15:12:16 UTC">
+      <body>Or earlier I'd my lab ends early </body>
+    </message>
+  </messages>
+</conversation>

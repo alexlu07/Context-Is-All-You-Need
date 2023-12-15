@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140606.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-06 17:38:08 UTC" participant="153634">
+      <body>hey! I could talk this evening around 6 your time or Sunday if that's better for you!</body>
+    </message>
+    <message id="m0001" time="2014-06-06 17:50:52 UTC" participant="153548">
+      <body>Hey!! Let's try Sunday! I'm baking a couple of pies tonight for a birthday party. Tmw!</body>
+    </message>
+    <message id="m0002" time="2014-06-06 17:59:28 UTC" participant="153634">
+      <body>ok cool! good luck with your pies</body>
+    </message>
+  </messages>
+</conversation>
+

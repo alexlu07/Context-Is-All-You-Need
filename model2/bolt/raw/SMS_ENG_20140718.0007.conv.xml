@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140718.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-18 22:54:24 UTC" participant="153547">
+      <body>U up to anything tonight?</body>
+    </message>
+    <message id="m0001" time="2014-07-18 22:55:51 UTC" participant="153547">
+      <body>Also we should plan a bike trip soon</body>
+    </message>
+    <message id="m0002" time="2014-07-18 23:21:36 UTC" participant="153560">
+      <body>Want to come over and hangout on the roof and/or burn stuff. My friend Eric is coming over at some point. </body>
+    </message>
+    <message id="m0003" time="2014-07-18 23:26:11 UTC" participant="153547">
+      <body>Yeah. I'm gonna go have a beer at the record store and then head your way</body>
+    </message>
+    <message id="m0004" time="2014-07-18 23:30:53 UTC" participant="153560">
+      <body>I'll be here. </body>
+    </message>
+  </messages>
+</conversation>
+

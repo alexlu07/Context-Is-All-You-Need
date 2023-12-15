@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-03-30 19:16:32 UTC">
+      <body>Hey, I checked again and wendy said she'd pick us up between 4:30 and 5. You think you can be ready that early?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-30 19:16:45 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-30 19:42:40 UTC">
+      <body>Is anyone in the shower now?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-31 02:10:56 UTC">
+      <body>Andreas heteronormatized me!!!</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-03-31 23:46:38 UTC">
+      <body>You going to the meeting tonight?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-31 23:47:13 UTC">
+      <body>No I have too much to do :(</body>
+    </message>
+    <message id="m0006" participant="135275" time="2013-04-01 20:16:33 UTC">
+      <body>Dinner at 5:30?</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-04-01 20:16:44 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-04-01 21:03:53 UTC">
+      <body>Ill meet you there!</body>
+    </message>
+  </messages>
+</conversation>

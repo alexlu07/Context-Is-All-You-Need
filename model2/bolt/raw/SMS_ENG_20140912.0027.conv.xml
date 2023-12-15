@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140912.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-12 21:31:11 UTC" participant="153804">
+      <body>Is GARY up at the cottage did you happen to go with him?</body>
+    </message>
+    <message id="m0001" time="2014-09-12 22:05:47 UTC" participant="153813">
+      <body>Gary is I'm home. How is Tom, did he have the MRI? Doe¦n't he have metal in his knees?</body>
+    </message>
+    <message id="m0002" time="2014-09-12 22:09:12 UTC" participant="153804">
+      <body> No the MRI is on Tuesday evening but I'm not sure what you mean about having Neves</body>
+    </message>
+    <message id="m0003" time="2014-09-12 22:13:00 UTC" participant="153804">
+      <body>What do you mean about having metal in his knees</body>
+    </message>
+    <message id="m0004" time="2014-09-12 22:24:54 UTC" participant="153813">
+      <body>Didn't he have knee replacement using metal? If he has metal in his body he can't have an MRi.</body>
+    </message>
+    <message id="m0005" time="2014-09-12 22:33:22 UTC" participant="153804">
+      <body>Hope they figure that out by Tuesday night</body>
+    </message>
+  </messages>
+</conversation>
+

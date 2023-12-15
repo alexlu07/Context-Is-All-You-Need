@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150304.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-04 19:20:16 UTC" participant="153619">
+      <body>Could you get to the airport for a 7:30am flight or is later better?</body>
+    </message>
+    <message id="m0001" time="2015-03-04 19:21:03 UTC" participant="153547">
+      <body>730 is fine</body>
+    </message>
+    <message id="m0002" time="2015-03-04 19:21:43 UTC" participant="153619">
+      <body>O.k.</body>
+    </message>
+    <message id="m0003" time="2015-03-04 19:49:06 UTC" participant="153619">
+      <body>Waiting on Delta call me back.</body>
+    </message>
+    <message id="m0004" time="2015-03-04 21:40:23 UTC" participant="153619">
+      <body>O.K. I just emailed you the flights. 8:35 on Friday, but it's direct.</body>
+    </message>
+    <message id="m0005" time="2015-03-05 00:28:02 UTC" participant="153619">
+      <body>Be sure to check in electronically tomorrow morning.</body>
+    </message>
+    <message id="m0006" time="2015-03-05 00:28:36 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" time="2015-03-05 00:29:39 UTC" participant="153619">
+      <body>If there's any problem, these tickets are relatively easy to change.</body>
+    </message>
+  </messages>
+</conversation>
+

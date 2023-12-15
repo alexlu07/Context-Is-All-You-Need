@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-07 23:38:21 UTC">
+      <body>U  with Hicks?</body>
+    </message>
+    <message id="m0001" participant="136663" time="2013-07-07 23:38:49 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-07 23:39:23 UTC">
+      <body>K. Not leaving soon are you? Fell asleep. Going to stop by now</body>
+    </message>
+    <message id="m0003" participant="136663" time="2013-07-07 23:40:09 UTC">
+      <body>Naw, jus started eating</body>
+    </message>
+  </messages>
+</conversation>

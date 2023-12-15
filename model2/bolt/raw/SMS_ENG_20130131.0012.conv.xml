@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130131.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135278" time="2013-01-31 20:56:32 UTC">
+      <body>do I get paid for three hour shift even if nobody shows up for the first part?</body>
+    </message>
+    <message id="m0001" participant="135278" time="2013-01-31 20:56:32 UTC">
+      <body>Okay thanks!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-31 20:57:08 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

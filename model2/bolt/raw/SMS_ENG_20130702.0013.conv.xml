@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0013" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-07-02 16:46:09 UTC">
+      <body>Hey, hula girl... How's your day?</body>
+    </message>
+    <message id="m0001" participant="130975" time="2013-07-02 17:00:43 UTC">
+      <body>busy busy day at work.. 2 more hrs to go! u??</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-07-02 17:05:05 UTC">
+      <body>Captive in a car of 7 on a 15hr trip from Tucson, AZ to San Francisco.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-07-02 17:05:12 UTC">
+      <body>What kind of work do you do? What city are you in?</body>
+    </message>
+  </messages>
+</conversation>

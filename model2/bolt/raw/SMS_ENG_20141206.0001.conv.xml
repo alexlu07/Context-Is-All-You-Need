@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-06 20:03:14 UTC" participant="152125">
+      <body>Ok. Do you need a ride from the station?</body>
+    </message>
+    <message id="m0002" time="2014-12-06 20:04:14 UTC" participant="152115">
+      <body>No that's ok. But thank you.</body>
+    </message>
+    <message id="m0003" time="2014-12-06 20:05:17 UTC" participant="152125">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2014-12-06 20:46:40 UTC" participant="152125">
+      <body>Hey I am not sure if Todd is home. He hasn't answered my text. I am less than 5 minutes away, so I should be there when you get there. If not I'll be right around the corner.</body>
+    </message>
+    <message id="m0005" time="2014-12-06 20:47:22 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

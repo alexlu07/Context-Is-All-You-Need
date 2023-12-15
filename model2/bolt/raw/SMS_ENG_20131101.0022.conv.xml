@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131101.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-01 04:52:49 UTC" participant="154352">
+      <body>This is a text message</body>
+    </message>
+    <message id="m0001" time="2013-11-01 07:38:59 UTC" participant="154410">
+      <body>This is a text message</body>
+    </message>
+    <message id="m0002" time="2013-11-01 15:19:27 UTC" participant="154352">
+      <body>I see what you did there</body>
+    </message>
+    <message id="m0003" time="2013-11-01 15:19:56 UTC" participant="154410">
+      <body>;)</body>
+    </message>
+    <message id="m0004" time="2013-11-01 15:20:11 UTC" participant="154410">
+      <body>How are you today?</body>
+    </message>
+    <message id="m0005" time="2013-11-01 15:44:24 UTC" participant="154352">
+      <body>I am feeling pretty good today. Hire about you?</body>
+    </message>
+    <message id="m0006" time="2013-11-01 19:24:13 UTC" participant="154410">
+      <body>I am good but very tired. Do what are your plans for tonight?</body>
+    </message>
+    <message id="m0007" time="2013-11-01 20:43:01 UTC" participant="154352">
+      <body>I might go to a concert at Drexel or just relax at home.</body>
+    </message>
+    <message id="m0008" time="2013-11-01 22:08:01 UTC" participant="154410">
+      <body>Who is playing?  My girls convinced me to have a girls night out with them</body>
+    </message>
+    <message id="m0009" time="2013-11-01 22:20:20 UTC" participant="154352">
+      <body>Childish Gambino. What are you up to tonight?</body>
+    </message>
+    <message id="m0010" time="2013-11-01 23:03:04 UTC" participant="154410">
+      <body>There is a Halloween party close to my friends house. Had a great night yesterday but I am kind of happy when its all over ;)</body>
+    </message>
+  </messages>
+</conversation>
+

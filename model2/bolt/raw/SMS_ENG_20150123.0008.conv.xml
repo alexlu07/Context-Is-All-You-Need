@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 16:37:52 UTC" participant="152799">
+      <body>Hi Ingrid, this is Tyler about the pro tools. I don't live in Philly. I'm in bmore.</body>
+    </message>
+    <message id="m0001" time="2015-01-23 17:34:13 UTC" participant="152735">
+      <body>Hi Tyler, that's fine! I will ship it to you, and you can pay me via paypal? Does this work for you? </body>
+    </message>
+    <message id="m0002" time="2015-01-23 17:34:40 UTC" participant="152735">
+      <body>Or do you venmo? </body>
+    </message>
+    <message id="m0003" time="2015-01-23 23:33:24 UTC" participant="152799">
+      <body>Maybe PayPal.  Let me think if I want to do it that way.</body>
+    </message>
+  </messages>
+</conversation>
+

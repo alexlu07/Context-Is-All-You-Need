@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120303.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-03-03 21:55:49 UTC">
+      <body>Dinner?</body>
+    </message>
+    <message id="m0001" participant="131825" time="2012-03-03 22:06:38 UTC">
+      <body>I'm getting a kappa dinner tonight</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-03-03 22:06:53 UTC">
+      <body>Sigh</body>
+    </message>
+    <message id="m0003" participant="131825" time="2012-03-03 22:07:12 UTC">
+      <body>Ask Maura?</body>
+    </message>
+  </messages>
+</conversation>

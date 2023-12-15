@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0079" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136652" time="2013-06-17 21:59:46 UTC">
+      <body>CJ </body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-17 23:54:34 UTC">
+      <body>Great meeting you! Have a safe flight!</body>
+    </message>
+    <message id="m0002" participant="136652" time="2013-06-18 00:14:47 UTC">
+      <body>Thanks! And good luck with your speech tomorrow!</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-18 00:16:00 UTC">
+      <body>Thx!</body>
+    </message>
+  </messages>
+</conversation>

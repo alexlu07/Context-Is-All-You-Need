@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 19:48:16 UTC" participant="149372">
+      <body>Want to meet tomorrow? I got all your stuff together I think. I can come by with the van and drop it off and get that check. </body>
+    </message>
+    <message id="m0001" time="2014-08-08 20:34:05 UTC" participant="153547">
+      <body>I biked to French creek so I'm not around this weekend</body>
+    </message>
+    <message id="m0002" time="2014-08-08 22:25:36 UTC" participant="149372">
+      <body>Ok, can I go grab that check? Where would i find it?</body>
+    </message>
+    <message id="m0003" time="2014-08-08 22:53:11 UTC" participant="153547">
+      <body>Yeah it's in the vestibule . Please knock. Lindsey is home alone</body>
+    </message>
+    <message id="m0004" time="2014-08-08 22:53:26 UTC" participant="149372">
+      <body>Ok. Thx. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 23:33:27 UTC" participant="152122">
+      <body>I am here</body>
+    </message>
+    <message id="m0001" time="2014-10-20 23:34:26 UTC" participant="152115">
+      <body>Not done yet</body>
+    </message>
+    <message id="m0002" time="2014-10-21 20:29:10 UTC" participant="152115">
+      <body>If nothing goes wrong, I should be done by 730.</body>
+    </message>
+    <message id="m0003" time="2014-10-21 23:09:50 UTC" participant="152115">
+      <body>I'm done but can't clock out until 7:23</body>
+    </message>
+    <message id="m0004" time="2014-10-21 23:15:18 UTC" participant="152122">
+      <body>I am here</body>
+    </message>
+  </messages>
+</conversation>
+

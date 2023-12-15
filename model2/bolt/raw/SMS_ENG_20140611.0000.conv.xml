@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 20:32:09 UTC" participant="152115">
+      <body>We're having pizza for dinner. Are you coming straight here?</body>
+    </message>
+    <message id="m0001" time="2014-06-11 20:33:14 UTC" participant="152116">
+      <body>I was gonna shower first</body>
+    </message>
+    <message id="m0002" time="2014-06-11 20:33:30 UTC" participant="152115">
+      <body>Ok. Up to you.</body>
+    </message>
+    <message id="m0003" time="2014-06-11 21:59:16 UTC" participant="152116">
+      <body>I'm gonna come over first. I'm just leaving Penn now. I have to work on something for LDC.</body>
+    </message>
+    <message id="m0004" time="2014-06-11 22:12:53 UTC" participant="152115">
+      <body>Waa? Shucks. That sucks.</body>
+    </message>
+    <message id="m0005" time="2014-06-12 17:03:55 UTC" participant="152115">
+      <body>How's your day going?</body>
+    </message>
+    <message id="m0006" time="2014-06-12 17:59:21 UTC" participant="152116">
+      <body>Hey it's good so far. I met Staci for lunch.</body>
+    </message>
+    <message id="m0007" time="2014-06-12 18:14:12 UTC" participant="152116">
+      <body>How's yours?</body>
+    </message>
+    <message id="m0008" time="2014-06-12 19:50:39 UTC" participant="152115">
+      <body>Oh man. I get you vibrate in my pocket and then I got caught up. One thing after the other. Doing my job and the desk nurse. I got wrangled into doing everything. Phew.  But it's good. I felt et more productive I guess.</body>
+    </message>
+    <message id="m0009" time="2014-06-12 20:32:04 UTC" participant="152115">
+      <body>It is SO soupy outside. Come straight here to shower. I was soaked when I got home.</body>
+    </message>
+  </messages>
+</conversation>
+

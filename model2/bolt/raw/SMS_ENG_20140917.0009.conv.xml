@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140917.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-17 17:46:40 UTC" participant="153286">
+      <body>Still doing the beer garden?</body>
+    </message>
+    <message id="m0001" time="2014-09-17 18:06:08 UTC" participant="152734">
+      <body>Absolutely! Fine day for an outdoor beer, I'd say</body>
+    </message>
+    <message id="m0002" time="2014-09-17 21:08:17 UTC" participant="152734">
+      <body>So if you come up the stairs, go left, I'm back a little ways sittin on a tree stump</body>
+    </message>
+    <message id="m0003" time="2014-09-17 21:09:20 UTC" participant="153286">
+      <body>OK. I’m at work till 5:30 at least, but I’ll come when I cn</body>
+    </message>
+    <message id="m0004" time="2014-09-17 22:12:39 UTC" participant="153286">
+      <body>On my way</body>
+    </message>
+    <message id="m0005" time="2014-09-17 22:43:12 UTC" participant="153286">
+      <body>Confirmed: 8 legs</body>
+    </message>
+    <message id="m0006" time="2014-09-17 22:54:37 UTC" participant="152734">
+      <body>How do I know which one to emulate :(</body>
+    </message>
+  </messages>
+</conversation>
+

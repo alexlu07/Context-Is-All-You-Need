@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-29 00:44:27 UTC" participant="152374">
+      <body>You coming tonight? I'm on my way down</body>
+    </message>
+    <message id="m0001" time="2013-03-29 00:45:33 UTC" participant="153464">
+      <body>Yup! See you there</body>
+    </message>
+    <message id="m0002" time="2013-03-29 00:45:49 UTC" participant="152374">
+      <body>Yay!</body>
+    </message>
+  </messages>
+</conversation>
+

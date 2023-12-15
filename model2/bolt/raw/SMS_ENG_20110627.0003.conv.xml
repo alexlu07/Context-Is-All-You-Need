@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110627.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-27 16:28:24 UTC">
+      <body>Can you deposit that check today?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-06-27 16:29:20 UTC">
+      <body>Already done!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-27 16:29:38 UTC">
+      <body>Thank you</body>
+    </message>
+  </messages>
+</conversation>

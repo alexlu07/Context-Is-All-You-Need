@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 13:54:44 UTC" participant="153821">
+      <body>Did you get ULTA Watertown done yet? 
+Also have ra Fayetteville if you want to do it ... And have the time </body>
+    </message>
+    <message id="m0001" time="2015-02-04 13:56:33 UTC" participant="153804">
+      <body>Sure what's the store number</body>
+    </message>
+    <message id="m0002" time="2015-02-04 13:57:06 UTC" participant="153804">
+      <body>looking to going up to Watertown on Friday if weather cooperates</body>
+    </message>
+    <message id="m0004" time="2015-02-04 14:27:43 UTC" participant="153821">
+      <body>Yes that's the store 
+Do you have help Fri?</body>
+    </message>
+    <message id="m0005" time="2015-02-04 15:30:33 UTC" participant="153804">
+      <body>If there's no blizzard would love to have your help</body>
+    </message>
+    <message id="m0006" time="2015-02-04 16:07:48 UTC" participant="153821">
+      <body>Do you have any one else helping  that day? </body>
+    </message>
+    <message id="m0007" time="2015-02-05 13:43:09 UTC" participant="153804">
+      <body>Called Ulta and spoke with Melissa it's okay to come up</body>
+    </message>
+    <message id="m0008" time="2015-02-05 13:43:35 UTC" participant="153804">
+      <body>If 8 o'clock is better for you that's fine!</body>
+    </message>
+  </messages>
+</conversation>
+

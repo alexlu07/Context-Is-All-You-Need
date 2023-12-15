@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-28 05:43:46 UTC">
+      <body>Sorry I missed your call but thanks!!</body>
+    </message>
+    <message id="m0001" participant="136291" time="2012-10-28 05:46:15 UTC">
+      <body>Im sorry i missed midnight :(( r u in dobbs?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-28 05:46:39 UTC">
+      <body>Yeah I'm here</body>
+    </message>
+    <message id="m0003" participant="136291" time="2012-10-28 05:47:32 UTC">
+      <body>Ok how has your birthday been? </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-28 05:49:04 UTC">
+      <body>It's been nice so far! But also exhausting cuz im mad tired </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-10-28 05:53:55 UTC">
+      <body>I stayed in and watched tv with some people. It was good</body>
+    </message>
+    <message id="m0007" participant="136291" time="2012-10-28 05:55:07 UTC">
+      <body> :)</body>
+    </message>
+  </messages>
+</conversation>

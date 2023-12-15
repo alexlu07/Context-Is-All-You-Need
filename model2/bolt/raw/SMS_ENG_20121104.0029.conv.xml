@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121104.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-04 02:12:18 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="136263" time="2012-11-04 04:28:48 UTC">
+      <body>My rtoom</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-04 04:29:43 UTC">
+      <body>Are you still at Dobbs?</body>
+    </message>
+  </messages>
+</conversation>

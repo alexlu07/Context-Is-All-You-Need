@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150112.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-12 16:24:58 UTC" participant="152735">
+      <body>Welcome back!! </body>
+    </message>
+    <message id="m0001" time="2015-01-12 16:25:21 UTC" participant="152735">
+      <body>I'll ask Ann if any Saturday or Sunday after 3pm works for her </body>
+    </message>
+    <message id="m0002" time="2015-01-12 16:25:46 UTC" participant="152735">
+      <body>*anne </body>
+    </message>
+    <message id="m0003" time="2015-01-12 16:44:32 UTC" participant="152755">
+      <body>Yes that sounds fantastic! Thanks so much for coordinating! </body>
+    </message>
+    <message id="m0004" time="2015-01-12 19:30:07 UTC" participant="152735">
+      <body>Great cc-d you on email. Did it use the correct one? </body>
+    </message>
+    <message id="m0005" time="2015-01-12 19:30:12 UTC" participant="152735">
+      <body>*did I </body>
+    </message>
+    <message id="m0006" time="2015-01-12 22:11:08 UTC" participant="152735">
+      <body>How does Saturday 9am January 24th sound? That's not this coming Saturday but next. </body>
+    </message>
+    <message id="m0007" time="2015-01-12 22:47:09 UTC" participant="152755">
+      <body>Sounds perfect!!!!</body>
+    </message>
+    <message id="m0008" time="2015-01-12 22:47:28 UTC" participant="152755">
+      <body>Thank you so much, I'm really looking forward to it. I responded to your email as well. Sorry I haven't been replying, first day was quite hectic.</body>
+    </message>
+  </messages>
+</conversation>
+

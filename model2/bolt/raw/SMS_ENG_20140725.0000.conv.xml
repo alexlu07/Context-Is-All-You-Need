@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140725.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-25 02:20:48 UTC" participant="149387">
+      <body>Heya. You free for dinner this Sat? I'm working brunch but get off around 5.</body>
+    </message>
+    <message id="m0001" time="2014-07-25 02:22:21 UTC" participant="149306">
+      <body>Yup that sounds good!</body>
+    </message>
+    <message id="m0002" time="2014-07-25 03:04:48 UTC" participant="149387">
+      <body>Great! I'll text you after work on Sat and we can figure out when and where.</body>
+    </message>
+    <message id="m0003" time="2014-07-25 03:11:01 UTC" participant="149306">
+      <body>Okey doke</body>
+    </message>
+  </messages>
+</conversation>
+

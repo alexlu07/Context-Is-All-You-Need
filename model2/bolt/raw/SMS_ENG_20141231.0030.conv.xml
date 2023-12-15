@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141231.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-31 14:24:20 UTC" participant="153804">
+      <body>Would it be safe to make an appointment after 3 PM on Monday?</body>
+    </message>
+    <message id="m0001" time="2014-12-31 14:24:53 UTC" participant="153804">
+      <body>that's seven hours 8 to 3</body>
+    </message>
+    <message id="m0002" time="2014-12-31 14:25:32 UTC" participant="153804">
+      <body>is it safe to assume will be done by then?</body>
+    </message>
+    <message id="m0003" time="2014-12-31 14:25:58 UTC" participant="153821">
+      <body>Yes I think that would work if not I'll just stay to finish up</body>
+    </message>
+    <message id="m0004" time="2014-12-31 14:26:09 UTC" participant="153821">
+      <body>Happy new year!</body>
+    </message>
+    <message id="m0005" time="2014-12-31 14:27:17 UTC" participant="153804">
+      <body>Thanks and happy new year to you and yours!!</body>
+    </message>
+  </messages>
+</conversation>
+

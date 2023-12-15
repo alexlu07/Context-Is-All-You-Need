@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120415.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131330" time="2012-04-15 19:01:20 UTC">
+      <body>So we are shooting tomorrow. But I dont think we will need you. Will need you to finish episode 2 and help on episode 3</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-15 19:07:53 UTC">
+      <body>Ok cool. I'm going to try and finish the sign tomm</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-15 19:34:12 UTC">
+      <body>Send the 3rd script when you get a chance</body>
+    </message>
+    <message id="m0003" participant="131330" time="2012-04-15 19:41:52 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

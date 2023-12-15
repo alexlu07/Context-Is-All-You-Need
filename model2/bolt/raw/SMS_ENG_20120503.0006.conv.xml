@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120503.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2012-05-03 23:13:04 UTC">
+      <body>How are i, Sarichka!</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-05-03 23:13:04 UTC">
+      <body>You</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-05-03 23:13:17 UTC">
+      <body>I'm good, just studying. How are you?</body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-05-03 23:15:12 UTC">
+      <body>Good. Just saying hi:) Have a great day. </body>
+    </message>
+    <message id="m0004" participant="131019" time="2012-05-03 23:17:17 UTC">
+      <body>You too, i love you daddy (:</body>
+    </message>
+  </messages>
+</conversation>

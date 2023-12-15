@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120927.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-27 15:28:33 UTC" participant="152374">
+      <body>I know it's short notice and we just met up the other day, but are you free for lunch today?</body>
+    </message>
+    <message id="m0001" time="2012-09-27 15:29:34 UTC" participant="152384">
+      <body>Something up? I could make it, but not until 12:15.</body>
+    </message>
+    <message id="m0002" time="2012-09-27 15:30:46 UTC" participant="152374">
+      <body>12:15 is ok. I'm ready to blow a gasket is what's up. I will try not to make it an all-rant lunch, though</body>
+    </message>
+    <message id="m0003" time="2012-09-27 15:31:53 UTC" participant="152384">
+      <body>Great. 12:15. Meet at the center!? Keep gaskets intact until then!</body>
+    </message>
+    <message id="m0004" time="2012-09-27 15:32:13 UTC" participant="152374">
+      <body>Roger.</body>
+    </message>
+  </messages>
+</conversation>
+

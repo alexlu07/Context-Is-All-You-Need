@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0087" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-19 11:12:52 UTC" participant="152428">
+      <body>Trying to go to Boston on amtrak.   Police have closed train line between providence and Boston</body>
+    </message>
+    <message id="m0001" time="2013-04-19 11:17:13 UTC" participant="152417">
+      <body>You might need to walk.  One suspect was killd last night in a chase, they killed an mta officer</body>
+    </message>
+    <message id="m0002" time="2013-04-19 14:28:20 UTC" participant="152417">
+      <body>Are you missing your conference? </body>
+    </message>
+    <message id="m0003" time="2013-04-19 14:29:01 UTC" participant="152428">
+      <body>Don't know probably stuck in new haven.  Still on train</body>
+    </message>
+  </messages>
+</conversation>
+

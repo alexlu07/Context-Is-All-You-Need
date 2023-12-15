@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131396" time="2013-05-26 05:57:45 UTC">
+      <body>8-x</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-26 07:55:30 UTC">
+      <body>:-x</body>
+    </message>
+    <message id="m0002" participant="131396" time="2013-05-26 07:59:09 UTC">
+      <body>What's x's address? I just want to reference on the map.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-05-26 22:25:29 UTC">
+      <body>Hey, punkitty-punk!
+:-X</body>
+    </message>
+  </messages>
+</conversation>

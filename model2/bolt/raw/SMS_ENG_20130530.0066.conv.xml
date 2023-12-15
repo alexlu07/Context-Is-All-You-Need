@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-30 16:56:35 UTC">
+      <body>hola! am at mom's now. </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-05-30 18:46:37 UTC">
+      <body>Totally did not hear your message come. Sorry! Just got back and am about to shower. I fed Lily so no worries. See you soon as i can.</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-30 18:47:04 UTC">
+      <body>kk, no worries. see ya soon! </body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-05-30 18:47:34 UTC">
+      <body>actually, mom will drop me off, she's going that way. </body>
+    </message>
+  </messages>
+</conversation>

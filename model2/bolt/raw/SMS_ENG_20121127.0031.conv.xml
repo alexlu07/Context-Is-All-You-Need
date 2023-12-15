@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-27 23:43:55 UTC">
+      <body>Is our show on December 7 or 9?</body>
+    </message>
+    <message id="m0001" participant="136282" time="2012-11-28 00:29:12 UTC">
+      <body>7th</body>
+    </message>
+  </messages>
+</conversation>

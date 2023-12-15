@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150318.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-18 23:38:06 UTC" participant="152115">
+      <body>Happy Birthday! Love you.</body>
+    </message>
+    <message id="m0001" time="2015-03-18 23:52:10 UTC" participant="152121">
+      <body>Thanks</body>
+    </message>
+    <message id="m0002" time="2015-03-19 00:01:16 UTC" participant="152115">
+      <body>Oh my god. You're 30.</body>
+    </message>
+    <message id="m0003" time="2015-03-19 16:54:46 UTC" participant="152121">
+      <body>https://www.change.org/p/chris-christie-grant-me-a-pardon-a-mistake-shouldn-t-ruin-my-future</body>
+    </message>
+  </messages>
+</conversation>
+

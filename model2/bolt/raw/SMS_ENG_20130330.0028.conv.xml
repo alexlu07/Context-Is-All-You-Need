@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-03-30 18:47:02 UTC">
+      <body>fyi: my service comes and goes. We're upstairs though</body>
+    </message>
+    <message id="m0001" participant="131040" time="2013-03-30 21:36:19 UTC">
+      <body>Just woke up from a hardcore nap.  Are you still at the festival?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-03-30 21:59:43 UTC">
+      <body>Aw man! We're just heading out.</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-03-30 22:00:09 UTC">
+      <body>Back to ##########, thAt is. But we'll see you in May!</body>
+    </message>
+    <message id="m0004" participant="131040" time="2013-03-30 22:06:12 UTC">
+      <body>I am sorry to doze off and miss the day, but I must say that nap was glorious! ###### may be on to something with those :).  </body>
+    </message>
+    <message id="m0005" participant="131040" time="2013-03-30 22:07:03 UTC">
+      <body>Nice to see you even though it was short.  Looking forward to catching up more properly soon :).</body>
+    </message>
+    <message id="m0006" participant="130712" time="2013-03-30 22:07:21 UTC">
+      <body>I have yet to get on the nap bandwagon but I'm thinking I should...</body>
+    </message>
+    <message id="m0007" participant="131040" time="2013-03-30 22:08:07 UTC">
+      <body>######'s been preaching the good word of The Nap for some time now...</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130226.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-26 12:33:53 UTC" participant="152426">
+      <body>Just a heads up - Jessie and I have a virus</body>
+    </message>
+    <message id="m0001" time="2013-02-26 17:23:29 UTC" participant="152417">
+      <body>Awe, im sorry.  Ill make soup!  Im just past albany, i think ill be home at 5ish</body>
+    </message>
+    <message id="m0002" time="2013-02-26 17:25:47 UTC" participant="152426">
+      <body>I'm feeling a bit better now. I was able to teach but am on my way home</body>
+    </message>
+  </messages>
+</conversation>
+

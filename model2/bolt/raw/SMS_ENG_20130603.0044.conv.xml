@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135436" time="2013-06-03 16:42:40 UTC">
+      <body>Workin!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-03 16:42:55 UTC">
+      <body>Wanna play</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-03 17:03:44 UTC">
+      <body>I don't mean now silly. I'm working too .... Watcha doing later </body>
+    </message>
+    <message id="m0003" participant="135436" time="2013-06-03 17:57:51 UTC">
+      <body>Done at 4. What're you up to?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-06-03 20:00:03 UTC">
+      <body>I'm in studio.  Tentative plans with Saul   But come say hi?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-04 13:57:27 UTC">
+      <body>Did u apply!!???</body>
+    </message>
+    <message id="m0006" participant="135436" time="2013-06-04 14:51:44 UTC">
+      <body>Not yet....
+</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-06-04 15:20:05 UTC">
+      <body>Do it!!!</body>
+    </message>
+  </messages>
+</conversation>

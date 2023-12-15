@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120423.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-23 02:21:25 UTC">
+      <body>Barone or Filson let you know where your car was parked right?</body>
+    </message>
+    <message id="m0001" participant="131305" time="2012-04-23 02:24:21 UTC">
+      <body>Yeah i used it today. Thanks</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-23 02:24:46 UTC">
+      <body>Ok cool</body>
+    </message>
+  </messages>
+</conversation>

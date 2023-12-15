@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0002" participant="135266" time="2013-03-10 19:00:28 UTC">
+      <body>Have you left UMass? Do you have plans for leaving? ETA for home?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-10 19:34:37 UTC">
+      <body>Probably in about an hour. Ill definitely be home for dinner</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-10 21:04:06 UTC">
+      <body>Heading home</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-11 16:23:52 UTC">
+      <body>Hi Dad! For planning purposes, which nights (tonight/tomorrow) will you be home for dinner?</body>
+    </message>
+    <message id="m0006" participant="135266" time="2013-03-11 16:26:47 UTC">
+      <body>I can do both. </body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-03-11 16:28:00 UTC">
+      <body>Okay. Ill let you know which night ill be home once I hear from Charly. Likely ill eat with you and mom tomorrow night. </body>
+    </message>
+  </messages>
+</conversation>

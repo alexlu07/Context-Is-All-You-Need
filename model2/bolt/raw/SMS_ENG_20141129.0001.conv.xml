@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 21:50:29 UTC" participant="152115">
+      <body>Hey Sam. We're trying to figure out how we're getting to the restaurant. We didn't want to ask phuong so as not to be late so I think we're gonna take the train. Are you traveling with us or are we meeting you and Jeff there?</body>
+    </message>
+    <message id="m0001" time="2014-11-29 21:53:21 UTC" participant="152119">
+      <body>Oh! He's picking me up. I'm sorry, I didn't know you wouldn't have a ride.  </body>
+    </message>
+    <message id="m0002" time="2014-11-29 21:55:43 UTC" participant="152115">
+      <body>That's ok. Just wanted to make sure what you were doing. We'll meet you there. No worries.</body>
+    </message>
+  </messages>
+</conversation>
+

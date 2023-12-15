@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140623.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-23 12:41:47 UTC" participant="153548">
+      <body>What are you up to today wanna get lunch?</body>
+    </message>
+    <message id="m0001" time="2014-06-23 12:49:22 UTC" participant="153548">
+      <body>Or dinner.</body>
+    </message>
+    <message id="m0002" time="2014-06-23 16:05:51 UTC" participant="153548">
+      <body>LETS GO TO MADMEX!</body>
+    </message>
+    <message id="m0003" time="2014-06-23 19:15:43 UTC" participant="153649">
+      <body>I'm in talks until 530 then I'll try to get in touch. </body>
+    </message>
+    <message id="m0004" time="2014-06-23 19:16:03 UTC" participant="153548">
+      <body>Okay seeya</body>
+    </message>
+    <message id="m0005" time="2014-06-23 23:14:53 UTC" participant="153649">
+      <body>It's looking like I need to stick with the conference tonight. What are you up to Wednesday night?</body>
+    </message>
+    <message id="m0006" time="2014-06-23 23:18:26 UTC" participant="153548">
+      <body>Julian said something about a BBQ but I might be pretty late. I have a studio meeting at 6.</body>
+    </message>
+    <message id="m0007" time="2014-06-23 23:20:18 UTC" participant="153548">
+      <body>Good luck with yr talk!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141004.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-04 17:27:02 UTC" participant="149360">
+      <body>Are u at home? Can u help me mount the big print</body>
+    </message>
+    <message id="m0001" time="2014-10-04 17:27:41 UTC" participant="149306">
+      <body>Yes I'll be down in a min</body>
+    </message>
+  </messages>
+</conversation>
+

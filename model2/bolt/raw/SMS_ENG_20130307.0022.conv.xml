@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131408" time="2013-03-07 17:10:30 UTC">
+      <body>Hey it's angie for some reason I thought we had you down for pitching tonight as well as hitting. From 6-7</body>
+    </message>
+    <message id="m0001" participant="131403" time="2013-03-07 17:13:02 UTC">
+      <body>He can do both if you want.  </body>
+    </message>
+    <message id="m0002" participant="131408" time="2013-03-07 17:13:24 UTC">
+      <body>That would be great</body>
+    </message>
+  </messages>
+</conversation>

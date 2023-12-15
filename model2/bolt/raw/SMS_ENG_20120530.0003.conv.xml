@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120530.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131287" time="2012-05-30 11:08:13 UTC">
+      <body>Did I leave my camera there</body>
+    </message>
+    <message id="m0001" participant="131287" time="2012-05-30 22:29:41 UTC">
+      <body>Going through closet. Do you want me to keep the black CalTech coat or can it go to the Salvation Army?</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-05-30 22:31:01 UTC">
+      <body>It can go</body>
+    </message>
+    <message id="m0003" participant="131287" time="2012-05-30 22:32:45 UTC">
+      <body>Thanks! Will let ##### pick out one of the barn coats from the closet to keep here but the rest will go</body>
+    </message>
+  </messages>
+</conversation>

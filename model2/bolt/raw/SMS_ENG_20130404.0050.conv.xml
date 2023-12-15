@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-04 22:13:47 UTC">
+      <body>Vassar is confirmed </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-04-04 22:16:57 UTC">
+      <body>Ok. Are u at home? Let us talk about  the timing. </body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-04 22:17:22 UTC">
+      <body>I'm not home...can we talk about it later tonight? </body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-04-04 22:17:33 UTC">
+      <body>Sure. </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-04-05 22:08:46 UTC">
+      <body>Are you at home? </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-04-05 22:09:02 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-04-05 22:09:20 UTC">
+      <body>Can we drive to Rachel's in about an hour and a half? </body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-04-05 22:09:55 UTC">
+      <body>Yes. We need to consult about the trip first. </body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-04-05 22:15:41 UTC">
+      <body>I</body>
+    </message>
+    <message id="m0009" participant="137255" time="2013-04-05 22:15:47 UTC">
+      <body>K*</body>
+    </message>
+  </messages>
+</conversation>

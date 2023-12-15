@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120406.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-04-06 14:21:41 UTC">
+      <body>We need a fax number to reach you regarding the tabs for the car. We really need it today </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-04-06 14:31:08 UTC">
+      <body>I'm in class</body>
+    </message>
+    <message id="m0003" participant="135103" time="2012-04-06 14:44:13 UTC">
+      <body>We'll fax it. You need to sign it and fax it back right away. What is the time frame</body>
+    </message>
+    <message id="m0004" participant="135103" time="2012-04-06 14:53:36 UTC">
+      <body>Are you out of class at 10?</body>
+    </message>
+    <message id="m0005" participant="135103" time="2012-04-06 18:18:50 UTC">
+      <body>Please please please accept my apologies for all the rigamarole this morning. I read the expiration date wrong!!!!! Dad is soooooo pissed! </body>
+    </message>
+    <message id="m0006" participant="135103" time="2012-04-06 18:20:53 UTC">
+      <body>And I will need your drivers license number to change the address.
+</body>
+    </message>
+    <message id="m0008" participant="135103" time="2012-04-06 18:49:34 UTC">
+      <body>Thank you. Please don't be mad</body>
+    </message>
+    <message id="m0009" participant="131839" time="2012-04-06 18:50:01 UTC">
+      <body>I'm not mad!! I have no idea what's going on</body>
+    </message>
+    <message id="m0010" participant="135103" time="2012-04-06 18:57:08 UTC">
+      <body>OK will you answer my email?  I'll write again soon. Love you </body>
+    </message>
+    <message id="m0011" participant="135103" time="2012-04-07 17:41:42 UTC">
+      <body>Make sure you pay your credit card bill.  Chase has left a message. Would you like me to go to your account and pay it?</body>
+    </message>
+    <message id="m0012" participant="131839" time="2012-04-07 22:34:18 UTC">
+      <body>I did pay it... I paid it early! $25 was sent on the 27th</body>
+    </message>
+    <message id="m0013" participant="135103" time="2012-04-08 22:07:21 UTC">
+      <body>Happy Easter matt. I just woke up from a long nap and so glad Easter is done. I'm texting in case you are working.  Call me if have a chance. </body>
+    </message>
+  </messages>
+</conversation>

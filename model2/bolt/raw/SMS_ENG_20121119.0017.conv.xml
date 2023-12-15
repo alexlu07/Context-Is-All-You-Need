@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121119.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-19 19:33:34 UTC">
+      <body>In case you were also confused, we have no thesis mtg tomorrow</body>
+    </message>
+    <message id="m0001" participant="135281" time="2012-11-19 19:35:56 UTC">
+      <body>Ah, thank you.</body>
+    </message>
+  </messages>
+</conversation>

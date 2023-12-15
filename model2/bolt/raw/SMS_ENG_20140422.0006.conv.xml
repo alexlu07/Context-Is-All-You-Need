@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140422.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-22 16:00:34 UTC" participant="152646">
+      <body>Gabi. Its Justin from GC. Did Jim get in touch with you about Mia today at 4? </body>
+    </message>
+    <message id="m0001" time="2014-04-22 16:10:11 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" time="2014-04-22 16:11:06 UTC" participant="152646">
+      <body>Sweet. We'll see you then. I just found a note cleaning my desk and had a brief panic haha.</body>
+    </message>
+  </messages>
+</conversation>
+

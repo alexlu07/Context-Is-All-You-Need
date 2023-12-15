@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 18:56:01 UTC" participant="154393">
+      <body>Understood.
+Show is Saturday.
+When does it start,
+When do we have to be there,
+And who's driving?
+Also, how much so I owe you for the ticket?</body>
+    </message>
+    <message id="m0001" time="2013-11-07 19:17:50 UTC" participant="154352">
+      <body>Show at 7:30. Andres says he ours coming directly from something else in Allentown. I can drive if we meet at my place at 6:30. Ticket is $60.</body>
+    </message>
+  </messages>
+</conversation>
+

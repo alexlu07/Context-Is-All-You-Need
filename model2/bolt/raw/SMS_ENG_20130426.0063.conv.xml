@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136151" time="2013-04-26 19:55:12 UTC">
+      <body>how are your finals going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-26 19:55:51 UTC">
+      <body>they haven't started yet. last day of class is monday. how are you? </body>
+    </message>
+    <message id="m0002" participant="136151" time="2013-04-26 20:14:10 UTC">
+      <body>I'm doing great. Ah finals week just finished here. I forgot your school is a week behind</body>
+    </message>
+    <message id="m0003" participant="136151" time="2013-04-26 20:49:22 UTC">
+      <body>Actually I'm doing fantastic because sonic has several new flavors like mint, mango, and blackberry lol</body>
+    </message>
+    <message id="m0004" participant="136151" time="2013-04-27 00:15:44 UTC">
+      <body>it's your turn on Scrabble. The last game was good. I kept you from breaking 400</body>
+    </message>
+  </messages>
+</conversation>

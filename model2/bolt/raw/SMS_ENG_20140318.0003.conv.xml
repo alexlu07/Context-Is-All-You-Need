@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140318.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-18 11:20:32 UTC" participant="149372">
+      <body>5 min</body>
+    </message>
+    <message id="m0001" time="2014-03-18 12:14:36 UTC" participant="153547">
+      <body>Outside</body>
+    </message>
+    <message id="m0002" time="2014-03-18 12:14:36 UTC" participant="153547">
+      <body>Grab some toilet paper</body>
+    </message>
+    <message id="m0003" time="2014-03-19 11:12:00 UTC" participant="149372">
+      <body>Are you coming to get me at 7:25 or are we going there? I forgot what we decided. </body>
+    </message>
+  </messages>
+</conversation>
+

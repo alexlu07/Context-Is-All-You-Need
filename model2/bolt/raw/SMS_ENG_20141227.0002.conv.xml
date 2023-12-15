@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141227.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-27 14:57:57 UTC" participant="152417">
+      <body>Goodmorning, Whats the plan?</body>
+    </message>
+    <message id="m0001" time="2014-12-27 20:10:57 UTC" participant="152417">
+      <body>I dont have enough reception to call back, i'mparked right in front of the inn</body>
+    </message>
+    <message id="m0002" time="2014-12-27 20:11:44 UTC" participant="152560">
+      <body>Ok-I parked in a parking lot. I'll try to walk and find you. </body>
+    </message>
+  </messages>
+</conversation>
+

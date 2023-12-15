@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150306.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-06 14:00:03 UTC" participant="152304">
+      <body>Wow</body>
+    </message>
+    <message id="m0001" time="2015-03-06 14:00:32 UTC" participant="152304">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0002" time="2015-03-06 16:44:48 UTC" participant="152304">
+      <body>￼I took the Facebook "who should be your roommate" test
+</body>
+    </message>
+    <message id="m0003" time="2015-03-06 16:48:34 UTC" participant="152212">
+      <body>Omg</body>
+    </message>
+    <message id="m0004" time="2015-03-06 16:51:12 UTC" participant="152304">
+      <body>I got you first!</body>
+    </message>
+    <message id="m0005" time="2015-03-06 16:51:12 UTC" participant="152304">
+      <body>Come visit me</body>
+    </message>
+  </messages>
+</conversation>
+

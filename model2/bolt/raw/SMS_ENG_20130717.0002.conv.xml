@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130717.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136384" time="2013-07-17 17:01:46 UTC">
+      <body>Your rx is ready.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-07-17 17:18:24 UTC">
+      <body>kk, i'll try to come get it before you close. btw i told andrew and the other person. andrew was super nice about it, the other person didn't reply to my message. </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-07-17 17:20:04 UTC">
+      <body>also i started watching house of cards! </body>
+    </message>
+    <message id="m0003" participant="136384" time="2013-07-17 17:21:56 UTC">
+      <body>Do you like it?
+And I am super proud of your maturity.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-07-17 17:31:08 UTC">
+      <body>yeah, so far it's pretty intriguing. and thank you! </body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-07-17 17:42:47 UTC">
+      <body>i find all the breaking-the-fourth-wall narration to be distracting. </body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-07-17 18:34:21 UTC">
+      <body>also the character is from sc! weird! </body>
+    </message>
+  </messages>
+</conversation>

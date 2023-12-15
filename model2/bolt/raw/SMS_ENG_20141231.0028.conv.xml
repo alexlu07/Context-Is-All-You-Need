@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141231.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-31 21:11:36 UTC" participant="153804">
+      <body>Nate we are visiting Nana. Can you call back to say hello to Nana?Please &amp; thank you.</body>
+    </message>
+    <message id="m0001" time="2014-12-31 21:18:02 UTC" participant="153558">
+      <body>Yes I'll call when I get home in like 20-30 mins</body>
+    </message>
+    <message id="m0002" time="2014-12-31 21:18:52 UTC" participant="153804">
+      <body>It's okay we probably won't be here</body>
+    </message>
+    <message id="m0003" time="2014-12-31 21:19:11 UTC" participant="153558">
+      <body>I'm in the subway </body>
+    </message>
+    <message id="m0004" time="2014-12-31 21:19:24 UTC" participant="153558">
+      <body>Just wait till I get out</body>
+    </message>
+  </messages>
+</conversation>
+

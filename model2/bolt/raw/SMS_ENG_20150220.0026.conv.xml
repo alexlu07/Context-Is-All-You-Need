@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150220.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-20 16:42:01 UTC" participant="153665">
+      <body>It was fun recording with you yesterday. I hope I was able to provide what you needed. If there is anything else I can do to help, or if there is additional content we need to record, please just let me know. </body>
+    </message>
+    <message id="m0001" time="2015-02-20 18:10:08 UTC" participant="153548">
+      <body>I had a blast yesterday. So nice to work with people I love. We will be in touch the next few weeks. I kinda hope we get another day to hang out and work together but we shall see </body>
+    </message>
+    <message id="m0002" time="2015-02-20 18:12:16 UTC" participant="153665">
+      <body>Me too!</body>
+    </message>
+    <message id="m0003" time="2015-02-20 18:12:16 UTC" participant="153665">
+      <body>And yes, yes it is.</body>
+    </message>
+  </messages>
+</conversation>
+

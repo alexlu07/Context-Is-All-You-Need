@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-06-08 03:32:45 UTC">
+      <body>Still looking for a coffee pot</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-06-08 15:18:03 UTC">
+      <body>Haha! I remember. What issue are you having?</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-06-08 15:34:43 UTC">
+      <body>Mine broke and I have 4 lbs of coffee with no way to make it</body>
+    </message>
+  </messages>
+</conversation>

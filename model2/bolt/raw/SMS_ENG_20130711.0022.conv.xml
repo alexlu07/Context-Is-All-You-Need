@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0022" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134737" time="2013-07-11 21:21:07 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" participant="131889" time="2013-07-11 21:22:37 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="134737" time="2013-07-11 21:23:28 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="131889" time="2013-07-11 21:25:11 UTC">
+      <body>Tired. I just got back home from a long day of orientation at my new job</body>
+    </message>
+    <message id="m0004" participant="134737" time="2013-07-11 21:28:29 UTC">
+      <body>Where do your work?</body>
+    </message>
+    <message id="m0005" participant="131889" time="2013-07-11 21:29:48 UTC">
+      <body>I just got a job as a sales associate at Walmart</body>
+    </message>
+    <message id="m0006" participant="134737" time="2013-07-11 21:30:59 UTC">
+      <body>Not bad. Are you in school?</body>
+    </message>
+    <message id="m0007" participant="131889" time="2013-07-11 21:31:58 UTC">
+      <body>Yeah. I'm a senior at my university. You?</body>
+    </message>
+    <message id="m0008" participant="134737" time="2013-07-12 07:48:59 UTC">
+      <body>Same. What college do you go to?</body>
+    </message>
+  </messages>
+</conversation>

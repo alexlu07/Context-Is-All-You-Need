@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140103.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-03 22:37:03 UTC" participant="152560">
+      <body>I think I can get out early tonight-maybe we can try to slip over to Flatbread for a beer and bite...</body>
+    </message>
+    <message id="m0001" time="2014-01-03 23:04:48 UTC" participant="152417">
+      <body>Sweet!</body>
+    </message>
+    <message id="m0002" time="2014-01-04 00:08:40 UTC" participant="152560">
+      <body>:)</body>
+    </message>
+    <message id="m0003" time="2014-01-04 01:40:33 UTC" participant="152560">
+      <body>I'm pretty much finished here, come on down soon...</body>
+    </message>
+    <message id="m0004" time="2014-01-04 02:01:30 UTC" participant="152417">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

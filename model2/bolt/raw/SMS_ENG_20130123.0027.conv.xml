@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130123.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-23 18:28:33 UTC" participant="152417">
+      <body>I forgot to tell you, I saw a bod pod on the news.  It was in the room with lance Armstrong training</body>
+    </message>
+    <message id="m0001" time="2013-01-23 18:31:52 UTC" participant="152426">
+      <body>How cold is it in vt?</body>
+    </message>
+    <message id="m0002" time="2013-01-23 18:32:37 UTC" participant="152426">
+      <body>Jessie got her license!</body>
+    </message>
+    <message id="m0003" time="2013-01-23 18:33:47 UTC" participant="152417">
+      <body>It was -23 when i woke up!  And a wopping high of -17 now</body>
+    </message>
+    <message id="m0004" time="2013-01-23 18:38:26 UTC" participant="152426">
+      <body>Yikes! Do they cancel school when it's that cold?</body>
+    </message>
+    <message id="m0005" time="2013-01-23 18:39:12 UTC" participant="152417">
+      <body>Nope, but fortunately when its below 0 we dont go outside</body>
+    </message>
+  </messages>
+</conversation>
+

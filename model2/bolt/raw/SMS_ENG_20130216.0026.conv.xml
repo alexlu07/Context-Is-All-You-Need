@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-02-16 19:27:17 UTC">
+      <body>I have to do the clearance stuff this weekend. Any way you could help me?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2013-02-16 20:30:39 UTC">
+      <body>Sure.  What can I do?</body>
+    </message>
+  </messages>
+</conversation>

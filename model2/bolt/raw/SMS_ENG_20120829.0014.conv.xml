@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120829.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-29 02:44:03 UTC">
+      <body>I have your number now mwahahaha</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-29 02:44:11 UTC">
+      <body>I'm sitting right next to you</body>
+    </message>
+    <message id="m0002" participant="136264" time="2012-08-29 15:15:21 UTC">
+      <body>Yo when is your Italian?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-08-29 15:16:25 UTC">
+      <body>Today at 11:45 </body>
+    </message>
+  </messages>
+</conversation>

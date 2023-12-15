@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 12:13:26 UTC" participant="153848">
+      <body>Hey Ayesha! Just making sure you're on your way? </body>
+    </message>
+    <message id="m0001" time="2015-04-12 12:13:34 UTC" participant="153848">
+      <body>This is Jenna. </body>
+    </message>
+    <message id="m0002" time="2015-04-12 12:29:03 UTC" participant="153888">
+      <body>Hey girl! Yeah I'm almost there - walking there now. Sorry lots of sunday train issues!</body>
+    </message>
+    <message id="m0004" time="2015-04-12 12:29:20 UTC" participant="153848">
+      <body>You're fine! Thanks! </body>
+    </message>
+  </messages>
+</conversation>
+

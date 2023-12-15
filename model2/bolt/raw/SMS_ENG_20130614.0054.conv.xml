@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-14 22:19:57 UTC" participant="152417">
+      <body>Yo! Are you still in philly? im back for the weekend </body>
+    </message>
+    <message id="m0001" time="2013-06-15 00:36:53 UTC" participant="152482">
+      <body>Dude, gabi, wanna dance tonight? There's some good shit going down</body>
+    </message>
+    <message id="m0002" time="2013-06-15 01:08:21 UTC" participant="152417">
+      <body>Nah, im gonna save my dancing for WPO tomorrow.   We're goin to resurrection in a little bit</body>
+    </message>
+    <message id="m0003" time="2013-06-15 01:26:12 UTC" participant="152482">
+      <body>Where is that? I'm in south Philly now</body>
+    </message>
+    <message id="m0004" time="2013-06-15 01:27:13 UTC" participant="152417">
+      <body>Greys ferry n catherine st</body>
+    </message>
+    <message id="m0005" time="2013-06-15 02:07:07 UTC" participant="152482">
+      <body>Ya there now?</body>
+    </message>
+    <message id="m0006" time="2013-06-15 02:26:11 UTC" participant="152417">
+      <body>Ya, come on down</body>
+    </message>
+  </messages>
+</conversation>
+

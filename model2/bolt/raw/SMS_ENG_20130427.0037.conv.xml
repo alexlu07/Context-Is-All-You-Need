@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-04-27 00:55:28 UTC">
+      <body>Hey, we're walking to lord&amp;taylor. meet you by the door there to the outside?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-27 01:02:59 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-04-27 15:01:29 UTC">
+      <body>Brunch at 11:30ish?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-27 15:04:08 UTC">
+      <body>We came early because I am seeing an apartment at 11:45</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-27 15:13:02 UTC">
+      <body>Also if you haven't picked up your thesis yet would you mind grabbing mine too when you go?</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-04-27 15:15:44 UTC">
+      <body>Sure thing. Want me to just put it under your door or something?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-04-27 15:16:48 UTC">
+      <body>Sure :)</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-04-27 20:16:44 UTC">
+      <body>Anybody want to do dinner at 6?</body>
+    </message>
+  </messages>
+</conversation>

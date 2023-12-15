@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130720.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-20 22:03:26 UTC">
+      <body>How long you there for?</body>
+    </message>
+    <message id="m0001" participant="136669" time="2013-07-20 22:11:54 UTC">
+      <body>2am</body>
+    </message>
+  </messages>
+</conversation>

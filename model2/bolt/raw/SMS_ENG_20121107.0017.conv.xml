@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121107.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2012-11-07 23:34:24 UTC">
+      <body>￼I love this !!!!!! Thank you thank you thank you!!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-08 03:25:33 UTC">
+      <body>Were you surprised?  </body>
+    </message>
+    <message id="m0002" participant="135354" time="2012-11-08 13:11:28 UTC">
+      <body>Yes!!! Totally!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-08 13:26:16 UTC">
+      <body>Your birthday. Let's surprise mom...</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-08 13:26:35 UTC">
+      <body>And dad</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-08 13:26:39 UTC">
+      <body>Both of them</body>
+    </message>
+  </messages>
+</conversation>

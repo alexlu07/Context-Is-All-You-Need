@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136640" time="2013-06-18 14:58:20 UTC">
+      <body>Can you bring that stat book in the next time you come to the lab? </body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-18 15:39:21 UTC">
+      <body>Ya. Today</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-18 19:48:16 UTC">
+      <body>How the rest of it go?</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-18 19:49:17 UTC">
+      <body>Some of their comments and questions were frustrating</body>
+    </message>
+    <message id="m0004" participant="136640" time="2013-06-18 20:06:06 UTC">
+      <body>Yeah, there was a bit more of that, too. She was a little frustrated, but she passed pending some revisions of her thesis</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-06-18 20:07:07 UTC">
+      <body>Ok good</body>
+    </message>
+  </messages>
+</conversation>

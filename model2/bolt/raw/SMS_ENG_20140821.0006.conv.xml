@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140821.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-21 21:32:09 UTC" participant="153547">
+      <body>The print center isn't open today.:( I can take the bus home or walk</body>
+    </message>
+    <message id="m0001" time="2014-08-21 22:43:12 UTC" participant="153557">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-08-22 21:05:25 UTC" participant="153557">
+      <body>Just finished my script. Wanna drink a beer with me?</body>
+    </message>
+  </messages>
+</conversation>
+

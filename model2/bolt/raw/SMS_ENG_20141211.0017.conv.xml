@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141211.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-11 22:41:11 UTC" participant="152374">
+      <body>I'll be outside your place at 6! I can already taste the Lorenzos. </body>
+    </message>
+    <message id="m0001" time="2014-12-11 22:46:37 UTC" participant="153472">
+      <body>Sounds good! I'm ready for my Italian sausage!</body>
+    </message>
+    <message id="m0002" time="2014-12-11 22:59:52 UTC" participant="152374">
+      <body>Outside! </body>
+    </message>
+  </messages>
+</conversation>
+

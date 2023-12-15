@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0085" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-22 03:56:18 UTC">
+      <body>I have to take Soraya to the dentist tomorrow. Do you need the car </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-05-22 03:56:39 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-22 03:56:45 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-22 20:03:35 UTC">
+      <body>What's up</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-22 20:05:02 UTC">
+      <body>I can't talk. What is going on</body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-05-22 20:05:20 UTC">
+      <body>Why can't u talk </body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-05-22 20:06:21 UTC">
+      <body>I am at the therapist </body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-05-22 20:07:28 UTC">
+      <body>U said nothing about a therapy appointment. I was expecting to use the car now. I wish u had told me u wouldn't be back in time for me to use it so I could get going by bike earlier. </body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-05-22 21:04:29 UTC">
+      <body>I am very sorry about that. I had texted you last night about the car and you said you didn't need it. I assumed that was all day. You didn't mention the need for the car in the evening and I completely forgot about your schedule. It is always changing. Hard to keep up with.</body>
+    </message>
+    <message id="m0009" participant="137257" time="2013-05-22 21:41:20 UTC">
+      <body>I understand. I'll try to be more specific next time. I don't mind biking but just to go earlier. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141204.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-04 14:19:15 UTC" participant="153548">
+      <body>Hey! Meet you at Anderson basement around 11? We can come up with a gameplan for today?</body>
+    </message>
+    <message id="m0001" time="2014-12-04 14:20:50 UTC" participant="153660">
+      <body>Yes, awesome. </body>
+    </message>
+    <message id="m0002" time="2014-12-04 15:54:02 UTC" participant="153548">
+      <body>Running late. Printer is backed up. Be about 11:10</body>
+    </message>
+    <message id="m0003" time="2014-12-04 15:55:15 UTC" participant="153660">
+      <body>No problem ... just walked in the door.</body>
+    </message>
+  </messages>
+</conversation>
+

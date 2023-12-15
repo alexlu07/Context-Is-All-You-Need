@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131130.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-30 20:04:44 UTC" participant="153548">
+      <body>Did you have a fun thanksgiving!?</body>
+    </message>
+    <message id="m0001" time="2013-12-01 17:36:50 UTC" participant="153548">
+      <body>We introduced the cats, they love each other!</body>
+    </message>
+    <message id="m0002" time="2013-12-01 17:48:16 UTC" participant="153553">
+      <body>OMG! Really?? That's so awesome! What did they do??</body>
+    </message>
+  </messages>
+</conversation>
+

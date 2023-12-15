@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131005.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-05 16:37:51 UTC" participant="152417">
+      <body>Hey, im not recording today, wanna get together earlier?</body>
+    </message>
+    <message id="m0001" time="2013-10-05 17:38:08 UTC" participant="152535">
+      <body>Cool. I will be back in two hours. I will give ya a call. My place?</body>
+    </message>
+    <message id="m0002" time="2013-10-05 17:55:40 UTC" participant="152417">
+      <body>Cool, sure</body>
+    </message>
+    <message id="m0003" time="2013-10-05 18:05:14 UTC" participant="152535">
+      <body>Nice lets go for 3:30</body>
+    </message>
+    <message id="m0004" time="2013-10-05 18:14:24 UTC" participant="152535">
+      <body>Actually we'll be back at three. Come by </body>
+    </message>
+    <message id="m0005" time="2013-10-05 19:05:28 UTC" participant="152417">
+      <body>Be there in 15</body>
+    </message>
+    <message id="m0006" time="2013-10-05 19:05:36 UTC" participant="152535">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

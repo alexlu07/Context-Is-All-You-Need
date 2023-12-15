@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-02-28 21:28:32 UTC">
+      <body>How did your interview go?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-28 21:44:12 UTC">
+      <body>I think it went well! :) how was yours?</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-02-28 21:44:49 UTC">
+      <body>Both were great! I am glad your went well!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-28 21:46:45 UTC">
+      <body>Yay!!! :D</body>
+    </message>
+    <message id="m0004" participant="135265" time="2013-03-01 20:45:57 UTC">
+      <body>6 Din?</body>
+    </message>
+  </messages>
+</conversation>

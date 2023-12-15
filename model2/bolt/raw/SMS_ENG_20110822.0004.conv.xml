@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110822.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-22 15:01:56 UTC">
+      <body>I was in new ulm all day yesterday bc my dad was in the ER </body>
+    </message>
+    <message id="m0001" participant="135130" time="2011-08-22 16:32:04 UTC">
+      <body>Damn is he alright? </body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-22 16:33:01 UTC">
+      <body>Yea he's fine now. Just exhausted. As am I. I'll be back and forth this week. Shitty timing.</body>
+    </message>
+    <message id="m0003" participant="135130" time="2011-08-22 16:45:12 UTC">
+      <body>Glad he is ok. Take care of yourself. </body>
+    </message>
+    <message id="m0004" participant="135130" time="2011-08-23 03:21:57 UTC">
+      <body>Thanks for coming tonight! Sorry i had to run early! </body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-23 12:36:34 UTC">
+      <body>No worries. :) good luck today!</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-08-23 18:18:40 UTC">
+      <body>Bad news from home. Heading to new ulm so thurs won't work. Sorry to disappoint.</body>
+    </message>
+    <message id="m0007" participant="135130" time="2011-08-23 18:19:36 UTC">
+      <body>:( sorry to hear that. Hope he is ok </body>
+    </message>
+  </messages>
+</conversation>

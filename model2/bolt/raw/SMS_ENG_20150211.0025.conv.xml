@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150211.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-11 16:06:54 UTC" participant="153417">
+      <body>Sandwiches are here</body>
+    </message>
+    <message id="m0001" time="2015-02-12 10:35:23 UTC" participant="153417">
+      <body>Wawa?</body>
+    </message>
+    <message id="m0002" time="2015-02-12 10:35:44 UTC" participant="153420">
+      <body>Sure a burrito please. Your the best!!!</body>
+    </message>
+  </messages>
+</conversation>
+

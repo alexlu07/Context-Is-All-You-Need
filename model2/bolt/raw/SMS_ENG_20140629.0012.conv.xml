@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140629.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-29 15:53:10 UTC" participant="153562">
+      <body>Hey man can you meet us at my place? If not we cann pick you up</body>
+    </message>
+    <message id="m0001" time="2014-06-29 15:53:52 UTC" participant="153547">
+      <body>I can walk down there but it'll take about 15 min</body>
+    </message>
+    <message id="m0002" time="2014-06-29 15:54:42 UTC" participant="153562">
+      <body>Ok we can just pick you up. Tyler should be here soon to grab me</body>
+    </message>
+    <message id="m0003" time="2014-06-29 15:55:28 UTC" participant="153547">
+      <body>I'll ride my bike</body>
+    </message>
+    <message id="m0004" time="2014-06-29 15:56:15 UTC" participant="153562">
+      <body>We gotta pick up honest toms too so its no biggie</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2013-04-13 13:30:32 UTC">
+      <body>When did you get in??</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-04-13 13:31:19 UTC">
+      <body>Yesterday evening...spent the whooole day flying/driving..</body>
+    </message>
+    <message id="m0002" participant="131473" time="2013-04-13 13:31:51 UTC">
+      <body>Yuck but you're safely there ...</body>
+    </message>
+    <message id="m0003" participant="131473" time="2013-04-13 13:32:11 UTC">
+      <body>We are scrambling to get out to Matthews wedding</body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-04-13 13:35:31 UTC">
+      <body>Ahh yes--have fun!</body>
+    </message>
+    <message id="m0005" participant="131473" time="2013-04-13 13:36:24 UTC">
+      <body>One can only hope...lot of driving</body>
+    </message>
+  </messages>
+</conversation>

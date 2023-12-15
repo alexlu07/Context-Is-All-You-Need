@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137312" time="2013-07-08 22:00:32 UTC">
+      <body>Did you get your book?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-08 22:15:28 UTC">
+      <body>YES! Thank you SO much! </body>
+    </message>
+    <message id="m0002" participant="137312" time="2013-07-08 22:24:10 UTC">
+      <body>Fantastic</body>
+    </message>
+    <message id="m0003" participant="137312" time="2013-07-09 01:08:15 UTC">
+      <body>Just re-adding nevo to the group chat 2.0</body>
+    </message>
+    <message id="m0004" participant="137312" time="2013-07-09 18:18:40 UTC">
+      <body>Nevo, max and i are going to the 4th street deli in philly for dinner if anyone wants to join</body>
+    </message>
+    <message id="m0005" participant="137312" time="2013-07-09 18:20:48 UTC">
+      <body>It is both much and cheap food</body>
+    </message>
+    <message id="m0006" participant="137312" time="2013-07-09 18:54:56 UTC">
+      <body>Cool, well leave around 5:30</body>
+    </message>
+    <message id="m0007" participant="137312" time="2013-07-10 00:25:29 UTC">
+      <body>￼Our night is better than yours</body>
+    </message>
+  </messages>
+</conversation>

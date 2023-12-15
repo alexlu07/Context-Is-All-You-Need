@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111207.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-12-07 02:23:47 UTC">
+      <body>Thought of you a lot today!!!!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-07 02:24:14 UTC">
+      <body>Have a couple questions for you: should I email? Or are you around?</body>
+    </message>
+    <message id="m0002" participant="135093" time="2011-12-07 02:25:28 UTC">
+      <body>I'm around!</body>
+    </message>
+  </messages>
+</conversation>

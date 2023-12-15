@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131123.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-23 13:34:34 UTC" participant="152734">
+      <body>Hey, Meg's not taking lucky to the horse park after all. Short notice but let me know if you have time for a lesson this weekend?</body>
+    </message>
+    <message id="m0001" time="2013-11-23 13:34:56 UTC" participant="153298">
+      <body>Today at noon? :)</body>
+    </message>
+    <message id="m0002" time="2013-11-23 13:45:10 UTC" participant="152734">
+      <body>Yup, see you then! Thanks :)</body>
+    </message>
+    <message id="m0003" time="2013-11-23 13:45:28 UTC" participant="153298">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

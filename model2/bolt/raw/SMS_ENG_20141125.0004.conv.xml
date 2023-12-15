@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141125.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-25 00:19:01 UTC" participant="152417">
+      <body>I hit reject on #49 dim sum but my phone lists it as accepted, i'm signed off for the night.  Thanks</body>
+    </message>
+    <message id="m0001" time="2014-11-25 00:20:40 UTC" participant="152590">
+      <body>ok thank you</body>
+    </message>
+    <message id="m0002" time="2014-11-25 14:58:41 UTC" participant="152590">
+      <body>good morning. Could you let us know what time you're signing on. We have an order right now if you're available.</body>
+    </message>
+    <message id="m0003" time="2014-11-25 15:00:45 UTC" participant="152417">
+      <body>Ill be signed in in 45</body>
+    </message>
+    <message id="m0004" time="2014-11-25 15:01:23 UTC" participant="152590">
+      <body>great thanks</body>
+    </message>
+    <message id="m0005" time="2014-11-25 15:03:54 UTC" participant="152590">
+      <body>great. We'll see you in a bit</body>
+    </message>
+    <message id="m0006" time="2014-11-25 18:07:24 UTC" participant="152590">
+      <body>sent order. copy?</body>
+    </message>
+    <message id="m0007" time="2014-11-25 18:07:53 UTC" participant="152417">
+      <body>Got it, thx</body>
+    </message>
+    <message id="m0008" time="2014-11-25 18:57:30 UTC" participant="152417">
+      <body>Im goin to sign off and come back for the dinner shift around 63 , thx</body>
+    </message>
+    <message id="m0009" time="2014-11-25 18:57:41 UTC" participant="152417">
+      <body>6:30*</body>
+    </message>
+    <message id="m0010" time="2014-11-25 23:31:04 UTC" participant="152590">
+      <body>sent order. copy?</body>
+    </message>
+    <message id="m0011" time="2014-11-25 23:31:10 UTC" participant="152590">
+      <body>thanks for coming back man</body>
+    </message>
+    <message id="m0012" time="2014-11-25 23:31:36 UTC" participant="152417">
+      <body> Roger</body>
+    </message>
+    <message id="m0013" time="2014-11-26 00:01:15 UTC" participant="152590">
+      <body>try to be delicate with the pizza. sent u new order. copy?</body>
+    </message>
+    <message id="m0014" time="2014-11-26 00:01:44 UTC" participant="152417">
+      <body>Gotcha</body>
+    </message>
+  </messages>
+</conversation>
+

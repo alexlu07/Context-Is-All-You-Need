@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110908.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-09-08 22:58:34 UTC">
+      <body>Room 304</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-08 22:58:55 UTC">
+      <body>Also, do you have any old plates we could have?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-09-08 23:11:54 UTC">
+      <body>I'll send some.</body>
+    </message>
+    <message id="m0003" participant="131824" time="2011-09-09 00:17:45 UTC">
+      <body>Happy International Literacy Day!</body>
+    </message>
+  </messages>
+</conversation>

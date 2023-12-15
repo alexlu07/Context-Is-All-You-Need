@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120217.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130892" time="2012-02-17 20:19:23 UTC">
+      <body>You two still coming over? 
+Joe che</body>
+    </message>
+    <message id="m0001" participant="130755" time="2012-02-17 20:54:32 UTC">
+      <body>Yes if it's still ok! What time is good for you?</body>
+    </message>
+    <message id="m0002" participant="130892" time="2012-02-17 20:55:34 UTC">
+      <body>Anytime before 7pm.</body>
+    </message>
+    <message id="m0003" participant="130755" time="2012-02-17 20:59:14 UTC">
+      <body>Ok we're in Chelsea, will head over now!</body>
+    </message>
+    <message id="m0004" participant="130892" time="2012-02-17 21:11:07 UTC">
+      <body>Cool.</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-02-18 07:11:47 UTC">
+      <body>Just got out.shall we head back to yr place?</body>
+    </message>
+  </messages>
+</conversation>

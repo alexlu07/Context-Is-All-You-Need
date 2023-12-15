@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134311" time="2013-06-20 22:38:35 UTC">
+      <body>Hey cuz.  Just checking in,  start that drive yet?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-20 22:39:08 UTC">
+      <body>, just crossed the Verrazano probably be there around 930 or so</body>
+    </message>
+    <message id="m0002" participant="134311" time="2013-06-20 22:48:03 UTC">
+      <body>Ok cool sounds good.  Safe drive</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-21 00:53:12 UTC">
+      <body>Marina right?</body>
+    </message>
+    <message id="m0004" participant="134311" time="2013-06-21 00:56:02 UTC">
+      <body>Yessir</body>
+    </message>
+    <message id="m0005" participant="134311" time="2013-06-21 01:12:07 UTC">
+      <body>Any hamptons traffic?</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-06-21 01:12:43 UTC">
+      <body>Nope about 20 minutes out</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120615.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-15 22:50:02 UTC">
+      <body>When are you arriving??</body>
+    </message>
+    <message id="m0001" participant="135131" time="2012-06-15 22:54:47 UTC">
+      <body>8:30, maybe.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 02:14:24 UTC" participant="152607">
+      <body>Gabs</body>
+    </message>
+    <message id="m0002" time="2015-01-30 02:22:44 UTC" participant="152417">
+      <body>Hey! Hows it goin?</body>
+    </message>
+    <message id="m0003" time="2015-01-30 02:24:45 UTC" participant="152607">
+      <body>Ugh so </body>
+    </message>
+    <message id="m0004" time="2015-01-30 02:24:52 UTC" participant="152607">
+      <body>Guess who's staying at my apt tomorrow night?</body>
+    </message>
+    <message id="m0005" time="2015-01-30 02:26:21 UTC" participant="152607">
+      <body>Jake. HAHA</body>
+    </message>
+    <message id="m0006" time="2015-01-30 02:28:22 UTC" participant="152417">
+      <body>Cool, I hope</body>
+    </message>
+    <message id="m0007" time="2015-01-30 02:28:42 UTC" participant="152607">
+      <body>Oyyyy </body>
+    </message>
+    <message id="m0008" time="2015-01-30 02:45:37 UTC" participant="152417">
+      <body>Hows your last semester goin?</body>
+    </message>
+    <message id="m0009" time="2015-01-30 16:00:00 UTC" participant="152607">
+      <body>It's rad, happy to be almost done. Already starting to study for the Bar tho!</body>
+    </message>
+    <message id="m0010" time="2015-01-30 16:00:00 UTC" participant="152607">
+      <body>How are you doing? </body>
+    </message>
+    <message id="m0011" time="2015-01-30 18:27:12 UTC" participant="152417">
+      <body>I'm great, i have a better schedule and more hands on classes this semester.  When are you coming to hang out in philly?</body>
+    </message>
+  </messages>
+</conversation>
+

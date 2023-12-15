@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131450" time="2013-01-10 17:39:56 UTC">
+      <body>Yessss. Is it still potluck or just drinking? Can't wait to see you!</body>
+    </message>
+    <message id="m0002" participant="131454" time="2013-01-10 18:48:24 UTC">
+      <body>You get an exclusive invitation for 7pm...yes, bring some form of food </body>
+    </message>
+    <message id="m0003" participant="131454" time="2013-01-10 18:50:40 UTC">
+      <body>(I'm going to try to make something vegan, too) </body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-01-10 18:57:38 UTC">
+      <body>Ooh I feel so special! Fun!! I'll make something delicious and vegan :-)</body>
+    </message>
+    <message id="m0005" participant="131454" time="2013-01-10 18:58:44 UTC">
+      <body>Hahaha yayayaya</body>
+    </message>
+  </messages>
+</conversation>

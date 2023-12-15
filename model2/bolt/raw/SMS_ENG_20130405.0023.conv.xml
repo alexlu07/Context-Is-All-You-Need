@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131452" time="2013-04-05 22:47:44 UTC">
+      <body>Tsild would it be possible for you to send me a picture of a main coon cat.  One that demonstrates the size. I'm trying to explain it to Jon baczek and he's not getting how big it is</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-04-05 23:38:13 UTC">
+      <body>Or do a google image search,  there are some good ones out there</body>
+    </message>
+    <message id="m0002" participant="131452" time="2013-04-06 00:07:50 UTC">
+      <body>How much do they weigh fully grown</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-04-06 01:16:25 UTC">
+      <body>It ranges...maybe from 18-30 lbs?</body>
+    </message>
+  </messages>
+</conversation>

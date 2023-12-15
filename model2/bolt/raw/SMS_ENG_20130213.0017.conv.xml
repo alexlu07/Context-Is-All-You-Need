@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135461" time="2013-02-13 19:29:04 UTC">
+      <body>how is dmi crew? thank you sofie!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-13 19:34:21 UTC">
+      <body>Everyone was fine I'm heading up there now</body>
+    </message>
+    <message id="m0002" participant="135461" time="2013-02-13 19:48:16 UTC">
+      <body>great thanks!</body>
+    </message>
+    <message id="m0003" participant="135461" time="2013-02-13 20:05:20 UTC">
+      <body>one guys on his way. two dudes total on your tour </body>
+    </message>
+  </messages>
+</conversation>

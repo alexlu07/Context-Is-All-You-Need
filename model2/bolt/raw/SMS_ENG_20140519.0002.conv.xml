@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140519.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-19 14:33:27 UTC" participant="152116">
+      <body>Are you doing the business minor?</body>
+    </message>
+    <message id="m0001" time="2014-05-19 14:43:43 UTC" participant="153491">
+      <body>Yes I am.</body>
+    </message>
+    <message id="m0002" time="2014-05-19 14:59:58 UTC" participant="152116">
+      <body>When's it start again?</body>
+    </message>
+    <message id="m0003" time="2014-05-19 16:57:07 UTC" participant="153491">
+      <body>Tuesday.</body>
+    </message>
+    <message id="m0004" time="2014-05-19 16:57:30 UTC" participant="152116">
+      <body>Next Tuesday?</body>
+    </message>
+    <message id="m0005" time="2014-05-19 16:57:58 UTC" participant="153491">
+      <body>A week from tomorrow.</body>
+    </message>
+    <message id="m0006" time="2014-05-19 20:40:21 UTC" participant="152116">
+      <body>Hey that's more minutes of fame than I ever had.</body>
+    </message>
+    <message id="m0007" time="2014-05-19 20:42:33 UTC" participant="152116">
+      <body>Please that was hardly fame. That was me shaking like a fool for six minutes. </body>
+    </message>
+    <message id="m0008" time="2014-05-19 20:45:04 UTC" participant="152116">
+      <body>:P</body>
+    </message>
+    <message id="m0009" time="2014-05-19 23:55:23 UTC" participant="152116">
+      <body>Haha thanks, Sam :)</body>
+    </message>
+  </messages>
+</conversation>
+

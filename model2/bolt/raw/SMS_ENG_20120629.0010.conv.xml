@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120629.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136213" time="2012-06-29 16:21:20 UTC">
+      <body>Sup today?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-29 16:24:30 UTC">
+      <body>Nothing. I'm hanging with Jordan for a bit, then going to moms to pack, then heading to my friends house around 4:30 or 5</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-29 16:26:09 UTC">
+      <body>Where are you now</body>
+    </message>
+    <message id="m0003" participant="136213" time="2012-06-29 16:32:00 UTC">
+      <body>Cool I'm at moms house. Packing for where?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-29 17:15:41 UTC">
+      <body>My Friends house in nj. Coming over now</body>
+    </message>
+    <message id="m0005" participant="136213" time="2012-06-29 17:21:04 UTC">
+      <body>Wanna bring breakfast?!</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-06-30 00:25:57 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-06-30 14:13:45 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0008" participant="136213" time="2012-06-30 16:42:40 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

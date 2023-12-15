@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 13:06:34 UTC" participant="153900">
+      <body>Is Steph coming to new York</body>
+    </message>
+    <message id="m0001" time="2014-06-02 14:33:38 UTC" participant="153900">
+      <body>I am ordering the zoo tickets is steph coming</body>
+    </message>
+    <message id="m0002" time="2014-06-02 17:32:31 UTC" participant="153900">
+      <body>Ok I am ordering the tickets</body>
+    </message>
+    <message id="m0003" time="2014-06-02 18:08:40 UTC" participant="153900">
+      <body>######## I need my insurance card tonight</body>
+    </message>
+    <message id="m0004" time="2014-06-02 21:38:58 UTC" participant="153244">
+      <body>No but I get done work around 6 can I give it to you then? </body>
+    </message>
+  </messages>
+</conversation>
+

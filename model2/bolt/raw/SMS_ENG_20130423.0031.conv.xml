@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-04-23 01:45:00 UTC">
+      <body>How was your day beautiful? You know i enjoyed seeing you yesterday.</body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-04-23 19:58:54 UTC">
+      <body>Hey beautiful. When do i get to see you again?</body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-04-24 02:09:57 UTC">
+      <body>What's your email?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-24 02:10:32 UTC">
+      <body>#######@#####.edu or ########@#########.net :) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130828.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-28 17:52:26 UTC" participant="152417">
+      <body>Actually would 730 tomorrow be OK?</body>
+    </message>
+    <message id="m0001" time="2013-08-28 17:53:28 UTC" participant="152488">
+      <body>Sure, 7:30 works fine. See you there.</body>
+    </message>
+    <message id="m0002" time="2013-08-28 17:58:26 UTC" participant="152417">
+      <body>Great, thanks</body>
+    </message>
+    <message id="m0003" time="2013-08-29 17:02:50 UTC" participant="152488">
+      <body>Hey Gabi, remember when I said 7:30 PM would be okay? Looks like I can't do it. How about we shoot for Saturday morning? Josh mentioned that's the soonest you could get in anyway. Any time in the morn is fine (I have an early bird 3-year old).</body>
+    </message>
+    <message id="m0004" time="2013-08-29 17:06:06 UTC" participant="152488">
+      <body>Housekeeping items to plan for: I'll need 1st month's rent, signatures on W9 &amp; lease, then I owe you keys. We'll do a quick run-through on the remaining work we're doing too (nothing to impede move-in though).</body>
+    </message>
+  </messages>
+</conversation>
+

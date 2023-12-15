@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131015.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-15 16:12:18 UTC" participant="149306">
+      <body>Do you have a key for Daniels place with you?</body>
+    </message>
+    <message id="m0001" time="2013-10-15 16:12:44 UTC" participant="149387">
+      <body>I think so</body>
+    </message>
+    <message id="m0002" time="2013-10-15 16:13:30 UTC" participant="149306">
+      <body>Ok D's leaving so we will need to lock up when I leave</body>
+    </message>
+    <message id="m0003" time="2013-10-15 16:14:27 UTC" participant="149387">
+      <body>Ok. Want me to make a spare of D's key?</body>
+    </message>
+    <message id="m0004" time="2013-10-15 16:14:50 UTC" participant="149306">
+      <body>No </body>
+    </message>
+    <message id="m0005" time="2013-10-15 16:14:56 UTC" participant="149387">
+      <body>K. See you soon</body>
+    </message>
+  </messages>
+</conversation>
+

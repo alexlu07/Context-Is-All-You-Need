@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131219.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-19 23:08:22 UTC" participant="153547">
+      <body>How's it going? Still in crits?</body>
+    </message>
+    <message id="m0001" time="2013-12-19 23:08:37 UTC" participant="153557">
+      <body>I am waiting for the bus </body>
+    </message>
+    <message id="m0002" time="2013-12-19 23:08:48 UTC" participant="153557">
+      <body>It's going real good tho. </body>
+    </message>
+    <message id="m0003" time="2013-12-19 23:09:47 UTC" participant="153547">
+      <body>I'm making dinner but u can't eat it unfortunately. Do u want me to pu a tater in the oven?</body>
+    </message>
+    <message id="m0004" time="2013-12-19 23:10:29 UTC" participant="153557">
+      <body>Yeah! I went to trader joes to pick up a few things. So I am gonna make sauted squash.</body>
+    </message>
+    <message id="m0005" time="2013-12-19 23:10:56 UTC" participant="153557">
+      <body>I'll be home pretty soon. </body>
+    </message>
+    <message id="m0006" time="2013-12-20 20:43:44 UTC" participant="153557">
+      <body>Are you here! I need my wrapping paper.</body>
+    </message>
+    <message id="m0007" time="2013-12-20 20:44:56 UTC" participant="153547">
+      <body>Not there u can grab it</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 15:28:00 UTC" participant="152793">
+      <body>Hey Ingrid I'm good for 5 today. Could you pick me up from Crane? Or should I meet you somewhere else?</body>
+    </message>
+    <message id="m0001" time="2015-01-23 18:27:59 UTC" participant="152735">
+      <body>From crane is fine </body>
+    </message>
+    <message id="m0002" time="2015-01-23 21:49:52 UTC" participant="152793">
+      <body>On my way down!</body>
+    </message>
+    <message id="m0003" time="2015-01-23 21:49:54 UTC" participant="152735">
+      <body>Here </body>
+    </message>
+    <message id="m0004" time="2015-01-23 21:50:00 UTC" participant="152735">
+      <body>Out front in car w dark windows lol </body>
+    </message>
+    <message id="m0005" time="2015-01-23 21:51:02 UTC" participant="152735">
+      <body>Take your time. I'm early. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 14:08:38 UTC" participant="149372">
+      <body>Where is the new ridgid radio?</body>
+    </message>
+    <message id="m0001" time="2014-04-12 14:09:47 UTC" participant="153547">
+      <body>It's at my house. Take my iPod out if you grab it</body>
+    </message>
+    <message id="m0002" time="2014-04-12 14:10:10 UTC" participant="149372">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-04-12 14:11:12 UTC" participant="149372">
+      <body>I guess I am going to get the flat tire fixed too. Be prepared to split that and the $600 for Andy. </body>
+    </message>
+    <message id="m0004" time="2014-04-12 14:12:56 UTC" participant="153547">
+      <body>Take the tire to dal fix, not a mechanic. It'll be $10 or so</body>
+    </message>
+    <message id="m0005" time="2014-04-12 14:13:13 UTC" participant="153547">
+      <body>Flat fix i mean</body>
+    </message>
+    <message id="m0006" time="2014-04-12 14:13:20 UTC" participant="149372">
+      <body>Where?</body>
+    </message>
+    <message id="m0007" time="2014-04-12 14:13:20 UTC" participant="149372">
+      <body>Which one?</body>
+    </message>
+    <message id="m0008" time="2014-04-12 16:14:13 UTC" participant="149372">
+      <body>Any idea where the electric stapler is? Not in the van cubby. </body>
+    </message>
+    <message id="m0009" time="2014-04-12 16:14:56 UTC" participant="149372">
+      <body>Ok. I'll dig around in the van a little more. </body>
+    </message>
+    <message id="m0010" time="2014-04-12 16:15:34 UTC" participant="153547">
+      <body>Hmm I think I saw it Thursday not in the cubby but maybe not. Adam used it at panama to staple the tar paper last</body>
+    </message>
+  </messages>
+</conversation>
+

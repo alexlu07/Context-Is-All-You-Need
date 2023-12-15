@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2013-05-09 21:15:11 UTC">
+      <body>Your plants are ready to be put in the ground.   Stop by if you can to pick them up.</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-05-10 18:28:04 UTC">
+      <body>Hey, what kind of blueberry bush do I have? Boy or girl?</body>
+    </message>
+    <message id="m0002" participant="131505" time="2013-05-10 18:31:12 UTC">
+      <body>A girl.  I put your other plants out front.  Only one boy needed for several girls.  Go with an early fruiting type so they bloom at the same time.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-05-10 18:31:55 UTC">
+      <body>So I need a boy bush?</body>
+    </message>
+    <message id="m0004" participant="131505" time="2013-05-10 18:32:23 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" participant="131505" time="2013-05-11 16:00:19 UTC">
+      <body>Did you find the bleeding heart? </body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-05-11 16:00:43 UTC">
+      <body>Yes. And purchased.</body>
+    </message>
+    <message id="m0007" participant="131505" time="2013-05-11 16:01:47 UTC">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-05-11 17:41:13 UTC">
+      <body>Do you have potting soil?</body>
+    </message>
+  </messages>
+</conversation>

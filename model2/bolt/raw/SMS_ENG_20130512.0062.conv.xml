@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-12 06:11:59 UTC">
+      <body>Call me!!!!!!!!!!!!!!!!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-12 19:35:27 UTC">
+      <body>Check yo email. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-13 00:56:35 UTC">
+      <body>Do u still want to help me out</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-13 01:52:49 UTC">
+      <body>U said you'd help me!</body>
+    </message>
+    <message id="m0004" participant="135470" time="2013-05-13 03:28:13 UTC">
+      <body>I will call you tomorrow when I'm fresh to listen okay? </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-13 03:29:14 UTC">
+      <body>Ok. Am or pm?</body>
+    </message>
+    <message id="m0006" participant="135470" time="2013-05-13 03:30:10 UTC">
+      <body>Am about eleven </body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-05-13 03:30:28 UTC">
+      <body>Perfect. </body>
+    </message>
+    <message id="m0008" participant="135470" time="2013-05-13 03:32:34 UTC">
+      <body>Alright, talk to you tomorrow around eleven love you good night</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-05-13 03:32:55 UTC">
+      <body>Right back at u. </body>
+    </message>
+  </messages>
+</conversation>

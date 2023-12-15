@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 19:04:23 UTC" participant="153548">
+      <body>Hey! 3 pm work for you? Where would you like to meet up?</body>
+    </message>
+    <message id="m0001" time="2014-01-24 19:11:43 UTC" participant="153660">
+      <body>Sure. Are you going to be in West Philly? Can we do Baltimore Green Line?</body>
+    </message>
+    <message id="m0002" time="2014-01-24 19:11:59 UTC" participant="153548">
+      <body>Sounds great! See you there.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-04-10 22:01:23 UTC">
+      <body>You guys want an inside or outside tabl?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-10 22:01:42 UTC">
+      <body>Outside!</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-04-11 02:17:46 UTC">
+      <body>Lunt?</body>
+    </message>
+  </messages>
+</conversation>

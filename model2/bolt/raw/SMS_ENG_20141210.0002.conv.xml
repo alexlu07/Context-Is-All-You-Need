@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141210.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-10 23:40:53 UTC" participant="152590">
+      <body>this is for 7:30 pickup so you've got some time</body>
+    </message>
+    <message id="m0001" time="2014-12-10 23:40:55 UTC" participant="152590">
+      <body>dinner shoild be busy tonight</body>
+    </message>
+    <message id="m0002" time="2014-12-10 23:41:29 UTC" participant="152417">
+      <body>K, thanks</body>
+    </message>
+    <message id="m0003" time="2014-12-11 00:37:26 UTC" participant="152590">
+      <body>got you a pickup right next to your current dropoff</body>
+    </message>
+    <message id="m0004" time="2014-12-11 01:44:52 UTC" participant="152417">
+      <body>Got anythin that will land me back in South Philly for the night?</body>
+    </message>
+    <message id="m0005" time="2014-12-11 02:09:49 UTC" participant="152590">
+      <body>I'm looking for something going towards south philly for you</body>
+    </message>
+    <message id="m0006" time="2014-12-11 02:10:00 UTC" participant="152590">
+      <body>but I got this in the meantime</body>
+    </message>
+  </messages>
+</conversation>
+

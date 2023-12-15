@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 06:40:51 UTC" participant="153491">
+      <body>Hey, if you're up by then, and since I am paranoid, would you mind calling to wake me up at 6 tomorrow pretty please???</body>
+    </message>
+    <message id="m0001" time="2013-12-13 13:27:19 UTC" participant="153491">
+      <body>I think I've hit almost every red light on the way here.</body>
+    </message>
+    <message id="m0002" time="2013-12-13 13:41:46 UTC" participant="152116">
+      <body>That's why it's good to leave early. Are you at penn now?</body>
+    </message>
+    <message id="m0003" time="2013-12-13 13:46:15 UTC" participant="153491">
+      <body>Sitting in the lobby.</body>
+    </message>
+    <message id="m0004" time="2013-12-13 13:51:22 UTC" participant="152116">
+      <body>Good. Look at you.</body>
+    </message>
+    <message id="m0005" time="2013-12-13 13:51:24 UTC" participant="152116">
+      <body>And goodluck.</body>
+    </message>
+    <message id="m0006" time="2013-12-13 13:51:30 UTC" participant="152116">
+      <body>But you got this</body>
+    </message>
+    <message id="m0007" time="2013-12-13 19:29:04 UTC" participant="152116">
+      <body>Did you hear from Sam?</body>
+    </message>
+    <message id="m0008" time="2013-12-13 23:43:02 UTC" participant="153491">
+      <body>No, what happened??</body>
+    </message>
+  </messages>
+</conversation>
+

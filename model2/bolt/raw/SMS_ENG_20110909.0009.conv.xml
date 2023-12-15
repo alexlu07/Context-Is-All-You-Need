@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110909.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131832" time="2011-09-09 22:58:26 UTC">
+      <body>Hey quinton its ian is there any chance you'd be around at 7:45 to let me into the room?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-09 23:04:13 UTC">
+      <body>There is</body>
+    </message>
+    <message id="m0002" participant="131832" time="2011-09-09 23:06:09 UTC">
+      <body>Kk thanks ill let you know if im gonna be a few minutes late</body>
+    </message>
+    <message id="m0003" participant="131832" time="2011-09-09 23:38:35 UTC">
+      <body>Um probably gona be closer to 7:55</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-09-09 23:38:51 UTC">
+      <body>I'm not going anywhere</body>
+    </message>
+  </messages>
+</conversation>

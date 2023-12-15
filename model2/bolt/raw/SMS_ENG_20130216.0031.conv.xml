@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134305" time="2013-02-16 19:37:02 UTC">
+      <body>Please call me when you get the chance</body>
+    </message>
+    <message id="m0001" participant="134305" time="2013-02-16 19:37:13 UTC">
+      <body>Sorry</body>
+    </message>
+    <message id="m0002" participant="134305" time="2013-02-16 19:37:33 UTC">
+      <body>Accident. Thanks!</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-02-16 19:44:14 UTC">
+      <body>So I don't need to call? </body>
+    </message>
+    <message id="m0004" participant="134305" time="2013-02-16 19:54:37 UTC">
+      <body>Nope sorry</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-02-16 19:55:07 UTC">
+      <body>Haha. No problem </body>
+    </message>
+  </messages>
+</conversation>

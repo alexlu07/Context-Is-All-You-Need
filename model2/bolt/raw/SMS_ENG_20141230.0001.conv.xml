@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 21:49:52 UTC" participant="152424">
+      <body>what time are you coming over and would you and Simone like to watch the interview?</body>
+    </message>
+    <message id="m0001" time="2014-12-30 21:51:41 UTC" participant="152417">
+      <body>Yes!  I can head over at 730ish i suppose</body>
+    </message>
+    <message id="m0002" time="2014-12-30 21:52:05 UTC" participant="152424">
+      <body>works for
+me</body>
+    </message>
+  </messages>
+</conversation>
+

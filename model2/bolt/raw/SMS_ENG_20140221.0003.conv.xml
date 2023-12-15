@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140221.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-21 23:30:40 UTC" participant="152734">
+      <body>Hey, no Richard for dinner tomorrow, FYI. He has another birthday party!</body>
+    </message>
+    <message id="m0001" time="2014-02-21 23:41:59 UTC" participant="153298">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

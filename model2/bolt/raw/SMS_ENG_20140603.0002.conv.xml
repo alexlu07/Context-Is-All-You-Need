@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140603.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-03 17:04:00 UTC" participant="152535">
+      <body>Cortina said you are playing today. Whats up?</body>
+    </message>
+    <message id="m0001" time="2014-06-03 17:14:11 UTC" participant="152417">
+      <body>Shoot, sorry, i didnt see them last week and only 4 kids came yesterday so i didnt get the word out</body>
+    </message>
+    <message id="m0002" time="2014-06-03 17:18:56 UTC" participant="152535">
+      <body>Ok cool! No worries. Just wantd to know we are on the same page. Peace!!</body>
+    </message>
+  </messages>
+</conversation>
+

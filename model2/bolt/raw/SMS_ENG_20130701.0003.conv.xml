@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134866" time="2013-07-01 19:24:01 UTC">
+      <body>I just got chased by a racoon from our dumpster!</body>
+    </message>
+    <message id="m0001" participant="134906" time="2013-07-01 19:24:48 UTC">
+      <body>Lol that's random</body>
+    </message>
+    <message id="m0002" participant="134906" time="2013-07-01 19:24:48 UTC">
+      <body>Wonder what goodies are in the dumpster lol</body>
+    </message>
+    <message id="m0003" participant="134866" time="2013-07-01 19:26:46 UTC">
+      <body>Yeah it was half under some trash so I had a good head start</body>
+    </message>
+    <message id="m0004" participant="134906" time="2013-07-01 19:26:56 UTC">
+      <body>Haha well that's good. Those bastards are mean!</body>
+    </message>
+  </messages>
+</conversation>

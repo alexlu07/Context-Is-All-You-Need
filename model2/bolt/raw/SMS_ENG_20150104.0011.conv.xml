@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 00:01:50 UTC" participant="153557">
+      <body>How's the show??</body>
+    </message>
+    <message id="m0001" time="2015-01-04 00:28:11 UTC" participant="153547">
+      <body>It's good. Weather is shit so not too crazy but still really crowded </body>
+    </message>
+    <message id="m0002" time="2015-01-04 00:29:52 UTC" participant="153557">
+      <body>Oh good. Are Chris and zooey there</body>
+    </message>
+    <message id="m0003" time="2015-01-04 00:51:46 UTC" participant="153547">
+      <body>Yes</body>
+    </message>
+    <message id="m0004" time="2015-01-04 17:31:06 UTC" participant="153547">
+      <body>My bus is supposed to get back around 3pm</body>
+    </message>
+    <message id="m0005" time="2015-01-04 17:31:44 UTC" participant="153557">
+      <body>I'll pick you up.</body>
+    </message>
+    <message id="m0006" time="2015-01-04 19:30:19 UTC" participant="153557">
+      <body>u close?</body>
+    </message>
+    <message id="m0007" time="2015-01-04 19:30:49 UTC" participant="153547">
+      <body>I guess</body>
+    </message>
+    <message id="m0008" time="2015-01-04 19:31:12 UTC" participant="153557">
+      <body>ok ill head down</body>
+    </message>
+    <message id="m0009" time="2015-01-04 19:31:43 UTC" participant="153547">
+      <body>No I'm still in no</body>
+    </message>
+    <message id="m0010" time="2015-01-04 19:31:48 UTC" participant="153547">
+      <body>Mk</body>
+    </message>
+    <message id="m0011" time="2015-01-04 19:31:52 UTC" participant="153547">
+      <body>Mk</body>
+    </message>
+    <message id="m0012" time="2015-01-04 19:31:57 UTC" participant="153547">
+      <body>Nj </body>
+    </message>
+    <message id="m0014" time="2015-01-04 19:33:06 UTC" participant="153557">
+      <body>Ha. Well let me know when you get to the first stop</body>
+    </message>
+    <message id="m0015" time="2015-01-04 19:33:07 UTC" participant="153547">
+      <body>I'm on the Ben frank bridge</body>
+    </message>
+    <message id="m0016" time="2015-01-04 19:39:35 UTC" participant="153547">
+      <body>First stop</body>
+    </message>
+    <message id="m0017" time="2015-01-04 19:52:32 UTC" participant="153557">
+      <body>Here under bridge
+</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131218.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-18 18:13:02 UTC" participant="152424">
+      <body>a steak pun is rare medium well done</body>
+    </message>
+    <message id="m0001" time="2013-12-18 19:48:44 UTC" participant="152417">
+      <body>Yes! Ps im roasting a bacon chicken tonight</body>
+    </message>
+    <message id="m0002" time="2013-12-18 19:54:02 UTC" participant="152424">
+      <body>a chicken made of bacon?</body>
+    </message>
+    <message id="m0003" time="2013-12-18 19:54:35 UTC" participant="152417">
+      <body>A chicken hog-tied with bacon</body>
+    </message>
+    <message id="m0004" time="2013-12-18 19:54:40 UTC" participant="152424">
+      <body>beware: the bacon cooks a lot faster</body>
+    </message>
+  </messages>
+</conversation>
+

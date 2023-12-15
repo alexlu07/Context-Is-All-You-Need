@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136729" time="2013-01-10 18:13:19 UTC">
+      <body>do u got a printer/scanner at the crib?</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-01-10 18:48:41 UTC">
+      <body>It's a lil slow but yeah. What you lookin to do?</body>
+    </message>
+    <message id="m0002" participant="136729" time="2013-01-10 19:11:53 UTC">
+      <body>i can do it later i thought it was due today</body>
+    </message>
+  </messages>
+</conversation>

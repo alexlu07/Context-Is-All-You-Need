@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-30 19:05:09 UTC" participant="152417">
+      <body>Hey jessie are you in control of the listserve? Could you take dov and jakob off the list?
+Thanks
+-g</body>
+    </message>
+    <message id="m0001" time="2012-11-30 19:29:04 UTC" participant="152526">
+      <body>Jeremy is. It may take some time, but I will ask him to do it. I will let you know when it's done. </body>
+    </message>
+    <message id="m0002" time="2012-11-30 19:31:12 UTC" participant="152526">
+      <body>What is Jakob's email address?</body>
+    </message>
+    <message id="m0003" time="2012-11-30 19:31:19 UTC" participant="152417">
+      <body>Thanks jessie</body>
+    </message>
+  </messages>
+</conversation>
+

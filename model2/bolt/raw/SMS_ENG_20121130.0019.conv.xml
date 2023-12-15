@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-30 20:16:33 UTC">
+      <body>WANNA GET LUNCH</body>
+    </message>
+    <message id="m0001" participant="136262" time="2012-11-30 20:17:31 UTC">
+      <body>IM GOING TO PUBLIX NOW. Wanna come?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-30 20:20:49 UTC">
+      <body>Why publix??</body>
+    </message>
+    <message id="m0003" participant="136262" time="2012-11-30 20:22:22 UTC">
+      <body>Im getting some groceries. </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-30 20:23:29 UTC">
+      <body>Nahhh I'm good don't need anything at publix</body>
+    </message>
+  </messages>
+</conversation>

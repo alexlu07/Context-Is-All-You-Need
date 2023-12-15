@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120929.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-29 15:01:23 UTC">
+      <body>We are playing you in soccer today woooooo</body>
+    </message>
+    <message id="m0001" participant="136205" time="2012-09-29 15:02:49 UTC">
+      <body>WOOT WOOT MAROONS!!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-29 15:06:53 UTC">
+      <body>LOL DAS CUTE EAGLES OR DIE!!!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110801.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-01 01:50:02 UTC">
+      <body>What are you doing? I'm in northfield.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-01 03:43:37 UTC">
+      <body>Im super tired tye, I have to get back. Is that ok?</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-08-01 03:44:29 UTC">
+      <body>Yeps</body>
+    </message>
+  </messages>
+</conversation>

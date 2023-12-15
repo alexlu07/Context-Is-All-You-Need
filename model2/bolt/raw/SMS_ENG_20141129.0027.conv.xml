@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 19:01:28 UTC" participant="154900">
+      <body>do u have cream or tan or even gold heels?</body>
+    </message>
+    <message id="m0001" time="2014-11-29 19:15:47 UTC" participant="153244">
+      <body>I don't think so but I can double check when I get home</body>
+    </message>
+    <message id="m0002" time="2014-11-29 19:16:24 UTC" participant="154900">
+      <body>okay!</body>
+    </message>
+    <message id="m0003" time="2014-11-30 01:14:16 UTC" participant="154900">
+      <body>do u think they will loook good </body>
+    </message>
+    <message id="m0004" time="2014-11-30 01:18:06 UTC" participant="153244">
+      <body>They might look okay..</body>
+    </message>
+    <message id="m0005" time="2014-11-30 01:19:00 UTC" participant="154900">
+      <body>okay ill let you know</body>
+    </message>
+  </messages>
+</conversation>
+

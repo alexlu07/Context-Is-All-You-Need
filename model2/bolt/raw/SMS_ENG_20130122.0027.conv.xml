@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130122.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-01-22 23:10:48 UTC">
+      <body>Sorry had to run. Did you see my text that I am going tonight? </body>
+    </message>
+    <message id="m0001" participant="134291" time="2013-01-22 23:33:33 UTC">
+      <body>I did.  I'm not gonna be able to make it tonight. Still trying to get out of here.</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-01-22 23:34:39 UTC">
+      <body>I hear ya. Just didn't want to leave you hanging.  Maybe next week </body>
+    </message>
+    <message id="m0003" participant="134291" time="2013-01-22 23:46:41 UTC">
+      <body>I'm definitely in. My fat ass needs to move badly.</body>
+    </message>
+  </messages>
+</conversation>

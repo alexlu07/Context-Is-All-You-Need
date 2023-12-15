@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121118.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-18 17:21:45 UTC">
+      <body>Come to the library with me?</body>
+    </message>
+    <message id="m0001" participant="136264" time="2012-11-18 17:22:09 UTC">
+      <body>In Starbucks with Andrew in village. </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-18 17:22:31 UTC">
+      <body>O0o0o0o0o0o0oh</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-18 17:41:35 UTC">
+      <body>May I join u</body>
+    </message>
+    <message id="m0004" participant="136264" time="2012-11-18 17:41:43 UTC">
+      <body>Ya</body>
+    </message>
+    <message id="m0005" participant="136264" time="2012-11-18 17:41:46 UTC">
+      <body>Hellz ya</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-18 17:41:56 UTC">
+      <body>Good because I'm already walking over</body>
+    </message>
+    <message id="m0007" participant="136264" time="2012-11-18 20:18:07 UTC">
+      <body>I'm good ate at chipotle</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-11-18 20:27:18 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-11-18 20:27:47 UTC">
+      <body>Andrew and I are going to cox for lunch wanna join?</body>
+    </message>
+  </messages>
+</conversation>

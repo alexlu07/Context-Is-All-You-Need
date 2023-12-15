@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 21:59:31 UTC" participant="153547">
+      <body>Are you going to be home this evening?</body>
+    </message>
+    <message id="m0001" time="2014-11-01 22:08:08 UTC" participant="153557">
+      <body>I'm in NY!!!</body>
+    </message>
+    <message id="m0002" time="2014-11-01 22:08:25 UTC" participant="153547">
+      <body>Oh!</body>
+    </message>
+    <message id="m0003" time="2014-11-01 22:08:39 UTC" participant="153557">
+      <body>I'll be back tmw.</body>
+    </message>
+    <message id="m0004" time="2014-11-02 15:40:33 UTC" participant="153557">
+      <body>Hey! You working today?</body>
+    </message>
+    <message id="m0005" time="2014-11-02 15:51:51 UTC" participant="153547">
+      <body>No. I'm out getting underwear</body>
+    </message>
+    <message id="m0006" time="2014-11-02 18:39:20 UTC" participant="153557">
+      <body>Okay! My bus gets in at 5:05! Let's have dinner together!</body>
+    </message>
+    <message id="m0007" time="2014-11-02 19:40:31 UTC" participant="153557">
+      <body>Can you please get a thong?</body>
+    </message>
+    <message id="m0008" time="2014-11-02 21:12:27 UTC" participant="153547">
+      <body>I can pick u up</body>
+    </message>
+    <message id="m0009" time="2014-11-02 21:14:39 UTC" participant="153557">
+      <body>Okay! I'll be at the megabus stop</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120821.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-08-21 23:55:10 UTC">
+      <body>Do you wanna get lunch with me and Johnny tomorrow before you go to work? </body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-08-21 23:56:18 UTC">
+      <body>Yay! Okay so we'll see you tonight at midnight though? And should we invite mom too?</body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-08-22 00:00:00 UTC">
+      <body>See you toninght. Decide about ur mom. </body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-08-22 00:00:00 UTC">
+      <body>Im ok either way</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-08-22 00:02:08 UTC">
+      <body>I ll b happy to see u. </body>
+    </message>
+  </messages>
+</conversation>

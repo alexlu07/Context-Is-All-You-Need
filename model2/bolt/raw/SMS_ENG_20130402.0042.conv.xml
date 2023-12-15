@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130402.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-02 20:55:50 UTC" participant="152567">
+      <body>I can make it tonight but would you be willing to give me ride home?</body>
+    </message>
+    <message id="m0001" time="2013-04-02 21:15:25 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

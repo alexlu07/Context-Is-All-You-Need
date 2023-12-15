@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141228.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-28 13:00:09 UTC" participant="152735">
+      <body>Hi I don't see the last drop keys- either of them. Not sure if you closed last night, but might you have them?</body>
+    </message>
+    <message id="m0001" time="2014-12-28 13:17:52 UTC" participant="152784">
+      <body>Stop texting me</body>
+    </message>
+    <message id="m0002" time="2014-12-28 13:18:15 UTC" participant="152735">
+      <body>Ok one set was left in basement and I found it</body>
+    </message>
+  </messages>
+</conversation>
+

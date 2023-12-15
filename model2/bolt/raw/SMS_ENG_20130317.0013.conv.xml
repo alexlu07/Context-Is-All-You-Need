@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-03-17 23:46:36 UTC">
+      <body>WE'RE BUYING A HOUSE!!!!!!!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-03-17 23:46:55 UTC">
+      <body>Tell you all about it tomorrow night!!</body>
+    </message>
+    <message id="m0002" participant="131023" time="2013-03-18 22:49:41 UTC">
+      <body>Can we do 4:10?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-03-18 22:49:55 UTC">
+      <body>Whatever you want, Mama</body>
+    </message>
+    <message id="m0004" participant="131023" time="2013-03-18 22:50:28 UTC">
+      <body>Talk to u soon!</body>
+    </message>
+  </messages>
+</conversation>

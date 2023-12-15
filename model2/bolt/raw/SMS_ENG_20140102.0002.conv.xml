@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140102.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-02 02:31:28 UTC" participant="152486">
+      <body>Hi. I had left u a msg about  a friend staying w me. Shes not coming anymore :)</body>
+    </message>
+    <message id="m0001" time="2014-01-02 02:57:17 UTC" participant="152417">
+      <body>Ok, and let us know if we can help with anything</body>
+    </message>
+    <message id="m0002" time="2014-01-02 03:18:24 UTC" participant="152486">
+      <body>Thanka</body>
+    </message>
+  </messages>
+</conversation>
+

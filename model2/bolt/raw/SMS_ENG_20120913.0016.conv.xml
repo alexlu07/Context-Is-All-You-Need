@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120913.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136263" time="2012-09-13 18:57:04 UTC">
+      <body>No I'm studying. Sorry</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-13 18:57:45 UTC">
+      <body>Food?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-14 02:26:18 UTC">
+      <body>When are we going to woodruff</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-14 02:26:49 UTC">
+      <body>We are in my room</body>
+    </message>
+    <message id="m0004" participant="136263" time="2012-09-14 02:27:12 UTC">
+      <body>11:30</body>
+    </message>
+    <message id="m0005" participant="136263" time="2012-09-14 02:27:12 UTC">
+      <body>Where'd you go?</body>
+    </message>
+    <message id="m0006" participant="136263" time="2012-09-14 02:27:12 UTC">
+      <body>Okay we're here </body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-14 02:27:53 UTC">
+      <body>Ok so when are we gonna leave</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-14 02:28:14 UTC">
+      <body>Okcooool</body>
+    </message>
+    <message id="m0009" participant="136263" time="2012-09-14 02:52:48 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-09-14 02:53:11 UTC">
+      <body>Are you still there</body>
+    </message>
+    <message id="m0011" participant="136164" time="2012-09-14 02:53:47 UTC">
+      <body>Is it fun</body>
+    </message>
+    <message id="m0012" participant="136263" time="2012-09-14 02:54:56 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0013" participant="136164" time="2012-09-14 03:06:46 UTC">
+      <body>Are we still going to woodruff</body>
+    </message>
+    <message id="m0014" participant="136263" time="2012-09-14 03:09:52 UTC">
+      <body>Duh</body>
+    </message>
+  </messages>
+</conversation>

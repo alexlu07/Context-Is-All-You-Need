@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130326.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-26 22:44:21 UTC" participant="152534">
+      <body>Hey man- do you want to get a drink later tonight?</body>
+    </message>
+    <message id="m0001" time="2013-03-27 01:39:44 UTC" participant="152417">
+      <body>Sorry, im headed out of town super early for passover, id love to next week when i get back</body>
+    </message>
+    <message id="m0002" time="2013-03-27 03:16:14 UTC" participant="152534">
+      <body>Alright. Give a shout next weekend. Cheers.</body>
+    </message>
+  </messages>
+</conversation>
+

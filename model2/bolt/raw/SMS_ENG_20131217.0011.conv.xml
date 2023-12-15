@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131217.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-17 18:48:28 UTC" participant="153548">
+      <body>Hey!! I'm on my way to the blue line now. I will probably be 15 minutes late</body>
+    </message>
+    <message id="m0001" time="2013-12-17 18:52:29 UTC" participant="153667">
+      <body>Take your time!</body>
+    </message>
+  </messages>
+</conversation>
+

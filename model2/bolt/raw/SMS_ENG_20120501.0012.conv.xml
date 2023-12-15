@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120501.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-05-01 03:39:44 UTC">
+      <body>Did u get a W-2?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-05-01 04:24:32 UTC">
+      <body>Fire safety violation fine?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-05-01 04:24:32 UTC">
+      <body>Yes.  $25 fine</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-05-01 04:25:14 UTC">
+      <body>Seriously?</body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-05-01 04:26:17 UTC">
+      <body>I don't know how to bring it up without being super awkward but that was our loser suitemates</body>
+    </message>
+    <message id="m0005" participant="131824" time="2012-05-01 04:26:40 UTC">
+      <body>LOL.</body>
+    </message>
+  </messages>
+</conversation>

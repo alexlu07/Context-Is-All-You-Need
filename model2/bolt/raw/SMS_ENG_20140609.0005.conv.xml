@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140609.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-09 20:12:58 UTC" participant="152744">
+      <body>Are you at the coffee shop today?</body>
+    </message>
+    <message id="m0001" time="2014-06-09 20:34:07 UTC" participant="152735">
+      <body>Booooo no, I was there yesterday :(</body>
+    </message>
+    <message id="m0002" time="2014-06-09 20:34:13 UTC" participant="152735">
+      <body>Whatcha doing Wednesday?</body>
+    </message>
+  </messages>
+</conversation>
+

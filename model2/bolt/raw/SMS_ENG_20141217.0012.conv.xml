@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141217.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-17 22:13:46 UTC" participant="153618">
+      <body>Hey hunter! This is Matt, we emailed about the amp on craigslist. Is it alright if I come right at 6?</body>
+    </message>
+    <message id="m0001" time="2014-12-17 22:26:43 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-12-17 23:06:40 UTC" participant="153618">
+      <body>Yep on my way</body>
+    </message>
+    <message id="m0003" time="2014-12-17 23:06:53 UTC" participant="153547">
+      <body>You have the address?</body>
+    </message>
+  </messages>
+</conversation>
+

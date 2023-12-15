@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131004.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-04 22:48:18 UTC" participant="153415">
+      <body>Michael still has not made plans for how to get home so we will be in a pinch.</body>
+    </message>
+    <message id="m0001" time="2013-10-04 22:49:04 UTC" participant="153418">
+      <body>Then give me a call for when you need a ride. I also need an address. </body>
+    </message>
+    <message id="m0002" time="2013-10-04 22:50:31 UTC" participant="153415">
+      <body>Ok. Thanks John. It's at the Susquehanna bank center, Camden NJ.</body>
+    </message>
+    <message id="m0003" time="2013-10-04 22:50:55 UTC" participant="153418">
+      <body>All right. I'll be awaiting your call. </body>
+    </message>
+  </messages>
+</conversation>
+

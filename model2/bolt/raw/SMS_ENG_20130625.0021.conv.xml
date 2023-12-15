@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130625.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134304" time="2013-06-25 15:55:30 UTC">
+      <body>Back home from airport. Will start working in a few minutes </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-25 16:09:35 UTC">
+      <body>Okay thanks. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130919.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-19 23:31:53 UTC" participant="152417">
+      <body>Hey Julian could you teach manuelas lesson tomorrow 4 to 5 PM</body>
+    </message>
+    <message id="m0001" time="2013-09-19 23:32:36 UTC" participant="152541">
+      <body>Id like to but im pretty sure i have lessons during that time</body>
+    </message>
+    <message id="m0002" time="2013-09-20 13:53:52 UTC" participant="152417">
+      <body>On the schedule you didn't have anything but I'll talk to Matt. Im feeling crummy and don't want to come in today</body>
+    </message>
+    <message id="m0003" time="2013-09-20 16:16:28 UTC" participant="152541">
+      <body>Ok if im free i can do it. </body>
+    </message>
+    <message id="m0004" time="2013-09-20 17:58:50 UTC" participant="152541">
+      <body>Ya im not free. Im booked solid </body>
+    </message>
+    <message id="m0005" time="2013-09-20 17:59:24 UTC" participant="152417">
+      <body>K, thanks.  Matt said he'd make some calls for me</body>
+    </message>
+  </messages>
+</conversation>
+

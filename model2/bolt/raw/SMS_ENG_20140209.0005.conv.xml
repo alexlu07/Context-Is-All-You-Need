@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140209.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-09 16:30:59 UTC" participant="153491">
+      <body>Hey, do you need a ride to Eden's?</body>
+    </message>
+    <message id="m0001" time="2014-02-09 16:31:47 UTC" participant="152118">
+      <body>Sure! If you're offering </body>
+    </message>
+    <message id="m0002" time="2014-02-09 16:32:54 UTC" participant="153491">
+      <body>Hahah yes I am :) oh I'm just leaving my house now so take your time!</body>
+    </message>
+    <message id="m0003" time="2014-02-09 16:33:49 UTC" participant="152118">
+      <body>Ok cool. I'll be ready by the time you come down!</body>
+    </message>
+    <message id="m0004" time="2014-02-09 16:35:03 UTC" participant="153491">
+      <body>Okay. </body>
+    </message>
+    <message id="m0005" time="2014-02-09 16:35:22 UTC" participant="153491">
+      <body>See you soon!</body>
+    </message>
+    <message id="m0006" time="2014-02-09 16:58:00 UTC" participant="153491">
+      <body>Hey Jen, I'm out front</body>
+    </message>
+  </messages>
+</conversation>
+

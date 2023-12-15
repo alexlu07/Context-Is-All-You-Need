@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140825.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-25 23:00:34 UTC" participant="152417">
+      <body>I live in Philly! Woah!</body>
+    </message>
+    <message id="m0001" time="2014-08-25 23:02:24 UTC" participant="152424">
+      <body>wowowowowow.  free tonight?  want to meet at Sardine bar?</body>
+    </message>
+    <message id="m0002" time="2014-08-25 23:08:59 UTC" participant="152417">
+      <body>Ive got a ton of unloading to do at aaron's but if i can manage to unload my car id love to</body>
+    </message>
+  </messages>
+</conversation>
+

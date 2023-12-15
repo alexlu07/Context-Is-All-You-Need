@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130810.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-10 20:33:09 UTC" participant="149369">
+      <body>(1/2) I'm trying to see if Chris just wants to go with you guys and I'll just take the train. The bus is much better especially for getting back afterward. Ther</body>
+    </message>
+    <message id="m0001" time="2013-08-10 20:33:09 UTC" participant="149369">
+      <body>(2/2) e is a chance everyone taking the train back tonight will have to wait in Chester for an hour</body>
+    </message>
+    <message id="m0002" time="2013-08-10 20:34:05 UTC" participant="149306">
+      <body>Ok lemme know what he says</body>
+    </message>
+    <message id="m0003" time="2013-08-10 20:35:45 UTC" participant="149369">
+      <body>Looks like he is going to take the bus with you guys</body>
+    </message>
+    <message id="m0004" time="2013-08-10 20:36:25 UTC" participant="149369">
+      <body>I'm going to try to buy my way onto the bus home if i can</body>
+    </message>
+    <message id="m0005" time="2013-08-10 20:36:50 UTC" participant="149306">
+      <body>Ok good</body>
+    </message>
+  </messages>
+</conversation>
+

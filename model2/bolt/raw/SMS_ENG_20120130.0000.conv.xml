@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120130.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2012-01-30 03:44:00 UTC">
+      <body>##########. His name is Joel Langer. My grandparents will be home and theyll make sure you have a lovely day!</body>
+    </message>
+    <message id="m0001" participant="131823" time="2012-01-30 22:09:04 UTC">
+      <body>Hey! How are you doin??</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-01-30 23:19:51 UTC">
+      <body>I was napping xD</body>
+    </message>
+  </messages>
+</conversation>

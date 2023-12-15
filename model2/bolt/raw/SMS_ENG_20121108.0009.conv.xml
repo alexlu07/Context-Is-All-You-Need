@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121108.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2012-11-08 21:15:10 UTC">
+      <body>Want to do dinner at 5?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-08 21:15:55 UTC">
+      <body>I told Emily 6 already...</body>
+    </message>
+    <message id="m0002" participant="135275" time="2012-11-08 21:17:50 UTC">
+      <body>But...but I have a thesis meeting at 6. And emily has lots of people to go with. :(</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-11-08 21:20:36 UTC">
+      <body>I'm gonna text her</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-08 21:20:52 UTC">
+      <body>Also how do you know that?</body>
+    </message>
+    <message id="m0005" participant="135275" time="2012-11-08 21:22:13 UTC">
+      <body>Not sure, but I know elise is going and usually most of our suite goes at 6</body>
+    </message>
+  </messages>
+</conversation>

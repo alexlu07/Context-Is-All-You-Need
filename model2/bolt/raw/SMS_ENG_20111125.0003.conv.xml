@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111125.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2011-11-25 06:55:50 UTC">
+      <body>Nora's staying overnight, not sure if they'll release her tomorrow, skull fractures so might have to operate.  I'll keep ya posted, and thx again for contacting me.</body>
+    </message>
+    <message id="m0001" participant="130878" time="2011-11-25 14:06:10 UTC">
+      <body>Thanks for contacting me. I am in Ithaca until sunday. I' ll call you when I am back. Let me know if you need anything</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-11-25 17:07:09 UTC">
+      <body>Yupyup.  She's at my place sleeping now so we'll keep an eye on her</body>
+    </message>
+  </messages>
+</conversation>

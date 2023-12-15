@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120223.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-02-23 04:27:27 UTC">
+      <body>Tell me about the game
+Tonight!</body>
+    </message>
+    <message id="m0001" participant="135092" time="2012-02-23 04:30:04 UTC">
+      <body>We wonnnnnnn! Last second! Miss yewwwwwww</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-02-23 04:30:15 UTC">
+      <body>By how much?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-02-23 04:30:23 UTC">
+      <body>Who's point? Ringo?</body>
+    </message>
+    <message id="m0004" participant="135092" time="2012-02-23 04:30:59 UTC">
+      <body>Ridnour. With a floater.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-02-23 04:31:13 UTC">
+      <body>What's a floater?</body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-02-23 04:31:25 UTC">
+      <body>Like, might as well try sort of thing?</body>
+    </message>
+    <message id="m0007" participant="135092" time="2012-02-23 04:32:21 UTC">
+      <body>Look it up. It was crazyyyyyyyh</body>
+    </message>
+  </messages>
+</conversation>

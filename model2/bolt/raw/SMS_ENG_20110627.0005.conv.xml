@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110627.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135126" time="2011-06-27 13:53:46 UTC">
+      <body>Hi. No problem. I'll swing by today and bring it to you. What's your last name?</body>
+    </message>
+    <message id="m0002" participant="135126" time="2011-06-27 14:00:00 UTC">
+      <body>(1/2) Are you going to be in the uptown area this afternoon by any chance?&lt;:)&gt; i work at the tea garden today from 2 till 8. Is there anyway you could swing by </body>
+    </message>
+    <message id="m0003" participant="135126" time="2011-06-27 14:00:10 UTC">
+      <body>(2/2) sometime today to pick up the check? If not it'll have to wait till after 8 tonight. Is that ok? </body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-27 14:18:22 UTC">
+      <body>Tonight is totally fine. Thanks, Hannah.</body>
+    </message>
+  </messages>
+</conversation>

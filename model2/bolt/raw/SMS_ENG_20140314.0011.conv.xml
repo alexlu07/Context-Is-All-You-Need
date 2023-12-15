@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-14 15:27:39 UTC" participant="153641">
+      <body>Happy birthday! How many jager bombs have you had so far today?</body>
+    </message>
+    <message id="m0001" time="2014-03-14 15:29:02 UTC" participant="153548">
+      <body>Thanks B! Breakfast bombs! </body>
+    </message>
+    <message id="m0002" time="2014-03-14 15:34:19 UTC" participant="153641">
+      <body>Delicious! Let me know if u go out and celebrate! And we're going dancing tmw, of course, if u wanna come!</body>
+    </message>
+    <message id="m0003" time="2014-03-14 15:46:03 UTC" participant="153548">
+      <body>I think I might go see the new Wes Anderson movie tonight. Not sure yet but I'll let you know!</body>
+    </message>
+    <message id="m0004" time="2014-03-14 15:56:51 UTC" participant="153641">
+      <body>That sounds fun. It's very purple. Let me know!</body>
+    </message>
+    <message id="m0005" time="2014-03-14 22:43:58 UTC" participant="153641">
+      <body>If u go to the movie, what time-ish?</body>
+    </message>
+  </messages>
+</conversation>
+

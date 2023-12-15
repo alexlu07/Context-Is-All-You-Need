@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150211.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-11 14:50:59 UTC" participant="152314">
+      <body>Traffic is really bad coming to you I don't know if you still want to wait or get one closer</body>
+    </message>
+    <message id="m0001" time="2015-02-11 14:51:14 UTC" participant="152212">
+      <body>I think they will charge me if I cancel</body>
+    </message>
+    <message id="m0002" time="2015-02-11 14:51:28 UTC" participant="152212">
+      <body>Maybe you can cancel it</body>
+    </message>
+    <message id="m0003" time="2015-02-11 14:51:38 UTC" participant="152314">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

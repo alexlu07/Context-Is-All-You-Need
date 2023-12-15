@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-12 16:40:19 UTC">
+      <body>Are we studying today?</body>
+    </message>
+    <message id="m0001" participant="136293" time="2012-12-12 17:18:15 UTC">
+      <body>Umm idk! You should ask everyone on the fb group an let me know :D I'm blocked from it right now haha</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-12 17:24:12 UTC">
+      <body>Haha whaaaat why?</body>
+    </message>
+    <message id="m0003" participant="136293" time="2012-12-12 17:27:07 UTC">
+      <body>I'm trying to be productive so I shut myself out :)</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-12 19:10:57 UTC">
+      <body>Ohhh ok haha I thought someone kicked you out for spamming them or something</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-12 21:10:51 UTC">
+      <body>Mad people wanna study with us</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-12-12 23:32:06 UTC">
+      <body>Longstreet at 9!</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-12-13 03:03:34 UTC">
+      <body>Come to the DUC!</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-12-13 18:04:31 UTC">
+      <body>4:00 at the DUC?</body>
+    </message>
+    <message id="m0009" participant="136293" time="2012-12-13 18:06:37 UTC">
+      <body>Studying?</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-12-13 18:06:46 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0011" participant="136293" time="2012-12-13 18:17:27 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

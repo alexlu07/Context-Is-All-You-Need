@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140401.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-01 19:38:35 UTC" participant="153548">
+      <body>Hi! I think I am at or near your house. Can't find the email with the house number</body>
+    </message>
+    <message id="m0001" time="2014-04-01 19:39:01 UTC" participant="153642">
+      <body>806... Be there in a sec.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-09-18 16:09:36 UTC">
+      <body>Would there be a day next week that you could go to lunch with me and Jeanne?</body>
+    </message>
+    <message id="m0001" participant="135099" time="2012-09-18 16:10:40 UTC">
+      <body>Hummmm. How long you gonna be around for? </body>
+    </message>
+    <message id="m0002" participant="135099" time="2012-09-18 16:10:40 UTC">
+      <body>Friday would work for me!! Will I be able to see you outside of lunch?? </body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-09-18 16:10:55 UTC">
+      <body>I think Sunday to Sunday - its ok if you can't</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-09-18 16:12:11 UTC">
+      <body>Yes please! And cool - ill see if it works for her :)</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-09-18 16:12:47 UTC">
+      <body>Me too !!!</body>
+    </message>
+    <message id="m0006" participant="135099" time="2012-09-18 16:12:48 UTC">
+      <body>Perf!!! I want you to meet jason! </body>
+    </message>
+  </messages>
+</conversation>

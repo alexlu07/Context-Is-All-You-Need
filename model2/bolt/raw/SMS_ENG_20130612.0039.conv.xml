@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-12 13:10:45 UTC">
+      <body>So u wanna hang out Saturday?</body>
+    </message>
+    <message id="m0001" participant="135620" time="2013-06-13 00:18:14 UTC">
+      <body>Yeah! That would be fun!</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-13 02:03:22 UTC">
+      <body>Yay finally!</body>
+    </message>
+    <message id="m0003" participant="135620" time="2013-06-13 16:47:31 UTC">
+      <body>Haha yeah lemme know what u wanna do</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-13 16:48:24 UTC">
+      <body>What part of the city r u in again?</body>
+    </message>
+    <message id="m0005" participant="135620" time="2013-06-13 17:50:27 UTC">
+      <body>Im at 15th and locust</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-13 18:05:18 UTC">
+      <body>Ooh Ur right downtown with the big shots. Well we could hang out up my way in Fairmonunt or I can come to center city. Which would u rather</body>
+    </message>
+    <message id="m0007" participant="135620" time="2013-06-14 00:24:36 UTC">
+      <body>Haha I don't mind going to fairmount. </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-14 00:52:26 UTC">
+      <body>OK then let's go on a bar crawl in Fairmount</body>
+    </message>
+    <message id="m0009" participant="135620" time="2013-06-14 03:30:55 UTC">
+      <body>That sounds like fun!</body>
+    </message>
+  </messages>
+</conversation>

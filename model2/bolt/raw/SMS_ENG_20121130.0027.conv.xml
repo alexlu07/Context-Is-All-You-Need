@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-30 13:41:03 UTC" participant="152534">
+      <body>Hey. Do you have a break today where you could give a call?</body>
+    </message>
+    <message id="m0001" time="2012-11-30 15:21:25 UTC" participant="152534">
+      <body>t king street next week instead?</body>
+    </message>
+    <message id="m0002" time="2012-11-30 15:21:26 UTC" participant="152534">
+      <body>Hey man. I'm actually feeling a little overwhelmed with how much i'm trying to fit into the day. I'm wondering if you would be up for playing for kids a</body>
+    </message>
+    <message id="m0003" time="2012-11-30 16:41:34 UTC" participant="152417">
+      <body>Thats fine with me too</body>
+    </message>
+    <message id="m0004" time="2012-11-30 16:42:49 UTC" participant="152534">
+      <body>Cool cool. Thanks for being flexible. Let's shoot for next week.</body>
+    </message>
+  </messages>
+</conversation>
+

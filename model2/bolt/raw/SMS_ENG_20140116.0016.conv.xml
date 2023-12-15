@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140116.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-16 14:03:26 UTC" participant="152374">
+      <body>Yo! This is my mobile number. I'm up for coffee</body>
+    </message>
+    <message id="m0001" time="2014-01-16 14:05:51 UTC" participant="153973">
+      <body>Cool. I'll be walking from #### to ######, recommendation on where to meet?</body>
+    </message>
+    <message id="m0002" time="2014-01-16 14:06:56 UTC" participant="152374">
+      <body>We can meet at the ### coffee on ########, that's right outside the ###### entrance. That ok?</body>
+    </message>
+    <message id="m0003" time="2014-01-16 14:07:22 UTC" participant="153973">
+      <body>Okk</body>
+    </message>
+    <message id="m0004" time="2014-01-16 14:25:21 UTC" participant="152374">
+      <body>I'm here. Grabbing a table upstairs</body>
+    </message>
+    <message id="m0005" time="2014-01-16 14:27:21 UTC" participant="153973">
+      <body>Train just got in. On my way</body>
+    </message>
+  </messages>
+</conversation>
+

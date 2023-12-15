@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140521.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-21 20:18:08 UTC" participant="153305">
+      <body>Would you be available to ride Titan tomorrow night? </body>
+    </message>
+    <message id="m0001" time="2014-05-21 21:02:56 UTC" participant="153305">
+      <body>Okay no prob! :)</body>
+    </message>
+    <message id="m0002" time="2014-05-21 21:04:08 UTC" participant="152734">
+      <body>I'll be in the city late, sorry</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121007.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135359" time="2012-10-07 19:05:06 UTC">
+      <body>I probably can do 4:30</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-07 19:08:47 UTC">
+      <body>Perfect I think it will only take a minute</body>
+    </message>
+    <message id="m0002" participant="135359" time="2012-10-07 20:17:12 UTC">
+      <body>Argh sorry im about to get on the subway. 5 for sure! is that ok with yuo?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-07 20:17:44 UTC">
+      <body>I have a meeting at five... 7?</body>
+    </message>
+    <message id="m0004" participant="135359" time="2012-10-07 20:18:54 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

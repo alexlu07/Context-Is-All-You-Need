@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-28 04:08:51 UTC" participant="153244">
+      <body>Almost home? ?</body>
+    </message>
+    <message id="m0001" time="2013-06-29 03:09:46 UTC" participant="152116">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0002" time="2013-06-29 03:10:28 UTC" participant="153244">
+      <body>No why?</body>
+    </message>
+    <message id="m0003" time="2013-06-29 03:11:31 UTC" participant="152116">
+      <body>Im on my way over with John and Sam. Just a heads up</body>
+    </message>
+    <message id="m0004" time="2013-06-29 03:14:53 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0005" time="2013-06-29 03:48:30 UTC" participant="153244">
+      <body>We beat u</body>
+    </message>
+  </messages>
+</conversation>
+

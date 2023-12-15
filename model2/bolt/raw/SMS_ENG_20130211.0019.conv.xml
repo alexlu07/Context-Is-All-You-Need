@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-11 23:58:57 UTC">
+      <body>My face started bleeding I had to go get boloco u want anything</body>
+    </message>
+    <message id="m0001" participant="135389" time="2013-02-12 00:00:00 UTC">
+      <body>Hahah, I love you. Can you get me a berry smoothie? I'D BE MOST GRATEFUL. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-12 00:01:49 UTC">
+      <body>Yes I can is there any specifications like size or whipped cream that I should know about</body>
+    </message>
+    <message id="m0003" participant="135389" time="2013-02-12 00:02:08 UTC">
+      <body>Haha, no whipped cream! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140306.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-06 17:24:56 UTC" participant="153418">
+      <body>Happy birthday, Jenny</body>
+    </message>
+    <message id="m0001" time="2014-03-06 19:11:34 UTC" participant="152118">
+      <body>Thank you john. You're gonna be here this weekend?</body>
+    </message>
+    <message id="m0002" time="2014-03-06 19:33:17 UTC" participant="153418">
+      <body>I'm in Philadelphia already. I'm not sure if I can make it to your party; I have business to take care of. Sorry. </body>
+    </message>
+    <message id="m0003" time="2014-03-06 19:33:50 UTC" participant="152118">
+      <body>Awwww.</body>
+    </message>
+    <message id="m0004" time="2014-03-06 19:33:59 UTC" participant="152118">
+      <body>That's okay.</body>
+    </message>
+    <message id="m0005" time="2014-03-06 19:34:32 UTC" participant="153418">
+      <body>I'll show up if I can. </body>
+    </message>
+    <message id="m0006" time="2014-03-06 19:35:47 UTC" participant="152118">
+      <body>:)  Okie dokie! Thank you!!</body>
+    </message>
+  </messages>
+</conversation>
+

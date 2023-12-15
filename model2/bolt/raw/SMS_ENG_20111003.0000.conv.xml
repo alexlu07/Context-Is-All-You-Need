@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111003.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-10-03 12:23:40 UTC">
+      <body>I'm done!</body>
+    </message>
+    <message id="m0001" participant="131832" time="2011-10-03 12:24:05 UTC">
+      <body>K thanks</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-10-03 12:24:37 UTC">
+      <body>Sorry. I intentionally got up earlier to beat you</body>
+    </message>
+    <message id="m0003" participant="131832" time="2011-10-03 12:42:14 UTC">
+      <body>Lol</body>
+    </message>
+  </messages>
+</conversation>

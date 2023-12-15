@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150213.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-13 17:21:30 UTC" participant="152417">
+      <body>I can sign in at 1 </body>
+    </message>
+    <message id="m0001" time="2015-02-13 17:21:43 UTC" participant="152590">
+      <body>please do</body>
+    </message>
+    <message id="m0002" time="2015-02-13 18:45:14 UTC" participant="152417">
+      <body>Im signed in and available til 5 if youve got orders for me, i can sign back in tonight 830-10</body>
+    </message>
+    <message id="m0003" time="2015-02-13 18:45:31 UTC" participant="152590">
+      <body>ok</body>
+    </message>
+    <message id="m0004" time="2015-02-13 23:18:29 UTC" participant="152417">
+      <body>Im signed back in</body>
+    </message>
+  </messages>
+</conversation>
+

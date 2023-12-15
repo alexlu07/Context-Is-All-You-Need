@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137319" time="2013-05-15 01:27:47 UTC">
+      <body>Did you end up being free on June 29th at 2?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-15 01:30:51 UTC">
+      <body>Yeah I'm good to go as far as I can tell! </body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-15 01:30:58 UTC">
+      <body>And excited! </body>
+    </message>
+    <message id="m0003" participant="137319" time="2013-05-15 01:32:04 UTC">
+      <body>Yaaaay thanks! I should have your music to ya this week.</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-15 01:32:12 UTC">
+      <body>Great! </body>
+    </message>
+  </messages>
+</conversation>

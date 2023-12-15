@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130868" time="2013-06-19 23:10:30 UTC">
+      <body>Yessir, what time?  I'm thinkin the earlier the better...</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-19 23:40:31 UTC">
+      <body>Kook, lets say 12 or 1?</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-19 23:40:49 UTC">
+      <body>Haha *cool*</body>
+    </message>
+    <message id="m0003" participant="130868" time="2013-06-20 03:18:24 UTC">
+      <body>Actually... hmm... how about 2, kook?  :-P</body>
+    </message>
+    <message id="m0006" participant="130868" time="2013-06-20 16:10:49 UTC">
+      <body>3:00 lol</body>
+    </message>
+    <message id="m0007" participant="130868" time="2013-06-20 16:11:59 UTC">
+      <body>But 2:30 [or 3] is fine haha</body>
+    </message>
+    <message id="m0008" participant="131964" time="2013-06-20 16:12:34 UTC">
+      <body>Ha, awesome</body>
+    </message>
+    <message id="m0009" participant="131964" time="2013-06-20 17:09:52 UTC">
+      <body>Fugh. I suck. Just got called into work...boo</body>
+    </message>
+    <message id="m0010" participant="130868" time="2013-06-20 17:47:29 UTC">
+      <body>No!  What does this mean??  lol when are you free next?  I'm still freeish all day, and if not today, Sunday</body>
+    </message>
+    <message id="m0011" participant="131964" time="2013-06-20 17:48:23 UTC">
+      <body>Busy all night, I'll get back to ya with another day</body>
+    </message>
+  </messages>
+</conversation>

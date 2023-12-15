@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120704.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135400" time="2012-07-04 23:36:32 UTC">
+      <body>Hows ur 4th so far</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-05 00:55:34 UTC">
+      <body>Nice calm</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-05 00:56:16 UTC">
+      <body>Lots of people at my studio. </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-05 00:56:19 UTC">
+      <body>U?</body>
+    </message>
+    <message id="m0004" participant="135400" time="2012-07-05 01:21:04 UTC">
+      <body>So good at my second party </body>
+    </message>
+    <message id="m0005" participant="135400" time="2012-07-05 01:21:04 UTC">
+      <body>First one here oops</body>
+    </message>
+  </messages>
+</conversation>

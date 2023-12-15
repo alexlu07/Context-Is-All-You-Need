@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131523" time="2013-06-02 09:37:21 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-06-02 10:39:06 UTC">
+      <body>Hello, what's up?</body>
+    </message>
+    <message id="m0002" participant="131523" time="2013-06-02 12:26:16 UTC">
+      <body>Just got done with church. How about you?</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-06-02 12:53:40 UTC">
+      <body>Working on some writing.</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-06-02 12:54:04 UTC">
+      <body>I haven't been to church in a long time. lapsed catholic.</body>
+    </message>
+    <message id="m0005" participant="131523" time="2013-06-02 12:57:37 UTC">
+      <body>Lapsed? As in you used to be catholic?</body>
+    </message>
+    <message id="m0006" participant="130632" time="2013-06-02 12:59:17 UTC">
+      <body>yeah i went to catholic school and everything</body>
+    </message>
+    <message id="m0007" participant="131523" time="2013-06-02 14:11:34 UTC">
+      <body>Yea catholic school never seemed like it would be fun. You a student now somewhere?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121217.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-12-17 13:52:55 UTC">
+      <body>Just to let u and jj know that I believe you are with me for Christmas Day!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-17 16:24:57 UTC">
+      <body>I know! I will call you later to discuss holiday plans</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-12-17 16:26:05 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-12-18 16:12:44 UTC">
+      <body>Please send me ur wish list </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-18 18:17:21 UTC">
+      <body>Ok I will make one ASAP</body>
+    </message>
+  </messages>
+</conversation>

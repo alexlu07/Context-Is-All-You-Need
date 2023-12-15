@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-10 15:55:06 UTC" participant="152417">
+      <body>Hey bob, could i pick up those congas this afternoon?</body>
+    </message>
+    <message id="m0001" time="2013-03-10 15:58:12 UTC" participant="152521">
+      <body>Yes.  I'm going to try and be there at 2 pm.</body>
+    </message>
+    <message id="m0002" time="2013-03-10 16:01:42 UTC" participant="152417">
+      <body>K, ill stop by when i can</body>
+    </message>
+  </messages>
+</conversation>
+

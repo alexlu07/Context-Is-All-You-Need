@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-13 03:47:49 UTC" participant="153444">
+      <body>hey! i havr a question. if i am given a X(f) eqn and asked to find x(n) how should i approach it. for eg: X(F) = 2+10cos(2pif)-6cos(4pif). </body>
+    </message>
+    <message id="m0001" time="2013-06-13 03:51:04 UTC" participant="153444">
+      <body>i though of writing X(f) in terms of exponentials..and then taking the FT of it..then il get shifted impulses. and then i did.that Cn= foX(nfo)..
+annd th</body>
+    </message>
+    <message id="m0002" time="2013-06-13 03:51:13 UTC" participant="153444">
+      <body>en x(n)=C-n </body>
+    </message>
+    <message id="m0003" time="2013-06-13 03:52:23 UTC" participant="153418">
+      <body>just take the FT directly.</body>
+    </message>
+    <message id="m0004" time="2013-06-13 03:52:46 UTC" participant="153418">
+      <body>2 -&gt; 2 * delta</body>
+    </message>
+    <message id="m0005" time="2013-06-13 03:53:11 UTC" participant="153418">
+      <body>FT of cos and delta also exist. They're shifted deltas.</body>
+    </message>
+    <message id="m0006" time="2013-06-13 03:53:37 UTC" participant="153418">
+      <body>you can also break it down into exponentials first. Both ways work.</body>
+    </message>
+    <message id="m0007" time="2013-06-13 04:23:54 UTC" participant="153444">
+      <body>gotcha! should i worry about quiz 7 stuff? argh the distortionless stuff? </body>
+    </message>
+    <message id="m0008" time="2013-06-13 04:40:40 UTC" participant="153418">
+      <body>There were no questions about that for me.</body>
+    </message>
+    <message id="m0009" time="2013-06-13 13:45:29 UTC" participant="153444">
+      <body> hey do u know how to so graphical and analytical convolution in discrete time ? there is a homework problem</body>
+    </message>
+    <message id="m0010" time="2013-06-13 16:03:09 UTC" participant="153444">
+      <body>and to find the phase angle and magnitude of a sync function? </body>
+    </message>
+    <message id="m0011" time="2013-06-14 01:37:40 UTC" participant="153418">
+      <body>..uh...I don't know. That also wasn't on the test. </body>
+    </message>
+    <message id="m0012" time="2013-06-14 01:42:27 UTC" participant="153444">
+      <body>ok thanks. i did the mock.and looked at the last few quizes. i dont know wat else to look at. hmm the ln question on the mock exam... where we had to fin</body>
+    </message>
+    <message id="m0013" time="2013-06-14 01:42:34 UTC" participant="153444">
+      <body>d x(n),,was the question in the final - related to the ln question difficult? i knw u said it wasnt ln , but was it hard? </body>
+    </message>
+    <message id="m0014" time="2013-06-14 01:42:57 UTC" participant="153418">
+      <body>No. Just algebra.</body>
+    </message>
+    <message id="m0015" time="2013-06-14 01:43:30 UTC" participant="153418">
+      <body>That ln problem is nothing more than some tricky algebra to make it look like a FT pair.</body>
+    </message>
+    <message id="m0016" time="2013-06-14 01:45:01 UTC" participant="153444">
+      <body>ya the ln is easy..because we know how to do it already..but was not sure if he will give a weird looking function where we have no clue of how to approach it</body>
+    </message>
+    <message id="m0017" time="2013-06-14 01:48:06 UTC" participant="153418">
+      <body>Just relax and do some algebra.</body>
+    </message>
+  </messages>
+</conversation>
+

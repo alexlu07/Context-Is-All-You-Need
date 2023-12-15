@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-14 15:47:12 UTC" participant="153557">
+      <body>Can I use the car to pick up Sarah at 3:30? </body>
+    </message>
+    <message id="m0001" time="2014-03-14 15:50:23 UTC" participant="153547">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" time="2014-03-14 15:50:39 UTC" participant="153547">
+      <body>Happy birthday!</body>
+    </message>
+    <message id="m0003" time="2014-03-14 15:51:28 UTC" participant="153557">
+      <body>Thanks!! I've just been birthday cleaning. </body>
+    </message>
+    <message id="m0004" time="2014-03-14 15:51:28 UTC" participant="153557">
+      <body>Cool huh.</body>
+    </message>
+    <message id="m0005" time="2014-03-14 20:53:16 UTC" participant="153557">
+      <body>Hey! Sarah and I are going to see the new Wes Anderson movie at 6 then have dinner downtown if you want to join us. We are gonna take the train.</body>
+    </message>
+    <message id="m0006" time="2014-03-14 21:29:06 UTC" participant="153547">
+      <body>Ok be home in a minute. I'm not gonna go</body>
+    </message>
+    <message id="m0007" time="2014-03-14 21:43:28 UTC" participant="153547">
+      <body>I guess you left already. Have a good time</body>
+    </message>
+    <message id="m0008" time="2014-03-14 21:47:44 UTC" participant="153557">
+      <body>See you later. Phone is gonna die.</body>
+    </message>
+    <message id="m0009" time="2014-03-15 01:14:40 UTC" participant="153557">
+      <body>If you aren't in bed already, stay IPA minute! We are on the way home
+</body>
+    </message>
+  </messages>
+</conversation>
+

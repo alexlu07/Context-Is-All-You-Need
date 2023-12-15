@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120625.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-25 17:45:18 UTC">
+      <body>Hey! How was your weekend?</body>
+    </message>
+    <message id="m0001" participant="136209" time="2012-06-25 17:52:25 UTC">
+      <body>Hey , it was good got to spend time with fam, how bout you how were the hamptons???</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-25 18:10:25 UTC">
+      <body>Good! I had a really great time, very fun and relaxing. All good people too. We all missed you!</body>
+    </message>
+    <message id="m0003" participant="136209" time="2012-06-25 18:54:51 UTC">
+      <body>Aww , I missed you guys also !! But there is always next time . </body>
+    </message>
+  </messages>
+</conversation>

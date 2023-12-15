@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 17:01:32 UTC" participant="153556">
+      <body>Can you meet us at cedar today</body>
+    </message>
+    <message id="m0001" time="2014-02-07 17:07:09 UTC" participant="153547">
+      <body>Probably not for a while. I should be back west around 130 or so if u need to grab keys</body>
+    </message>
+    <message id="m0002" time="2014-02-07 17:07:43 UTC" participant="153556">
+      <body>I have keys, could I grab a check from you at the end of the day</body>
+    </message>
+    <message id="m0003" time="2014-02-07 17:29:42 UTC" participant="153547">
+      <body>U gotta talk to Michael about that.  </body>
+    </message>
+    <message id="m0004" time="2014-02-07 17:31:07 UTC" participant="153547">
+      <body>I got the checkbook, but I don't have access to the account to check the balance so I just need to make sure it's ok first</body>
+    </message>
+    <message id="m0005" time="2014-02-07 21:37:21 UTC" participant="153556">
+      <body>Can I swing by in a couple minutes and grab a check</body>
+    </message>
+  </messages>
+</conversation>
+

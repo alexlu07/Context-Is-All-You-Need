@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130430.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-04-30 00:46:37 UTC">
+      <body>Can you bring in my ear buds if you see them in the car?</body>
+    </message>
+    <message id="m0001" participant="131586" time="2013-04-30 02:11:50 UTC">
+      <body>Yep! Coming home now! :)</body>
+    </message>
+    <message id="m0002" participant="131586" time="2013-04-30 21:36:28 UTC">
+      <body>I don't like not having the free time with you!</body>
+    </message>
+    <message id="m0003" participant="131528" time="2013-04-30 21:37:15 UTC">
+      <body>I know! This is the worst!</body>
+    </message>
+  </messages>
+</conversation>

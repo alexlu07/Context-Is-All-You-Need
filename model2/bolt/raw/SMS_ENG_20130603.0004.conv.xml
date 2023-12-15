@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-03 14:51:25 UTC">
+      <body>I'm supposed to get into the greyhound station at 3. Can u pick me up?</body>
+    </message>
+    <message id="m0001" participant="131873" time="2013-06-03 14:53:29 UTC">
+      <body>Dad has doctor appt at 1:30 so you might need to wait a bit but I can probably do it</body>
+    </message>
+    <message id="m0002" participant="131873" time="2013-06-03 14:57:01 UTC">
+      <body>Mom has busy day at work, lee is doing meetings for his business, maybe he can get you, try him</body>
+    </message>
+    <message id="m0003" participant="131837" time="2013-06-03 14:57:33 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="131837" time="2013-06-03 15:31:20 UTC">
+      <body>Lee said he'd get me.</body>
+    </message>
+    <message id="m0005" participant="131837" time="2013-06-03 19:09:25 UTC">
+      <body>I'm getting in now</body>
+    </message>
+  </messages>
+</conversation>

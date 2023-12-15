@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0057" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-05-26 15:55:21 UTC">
+      <body>Hi grasp!</body>
+    </message>
+    <message id="m0001" participant="130661" time="2013-05-26 16:33:39 UTC">
+      <body>Hi, how's it going?</body>
+    </message>
+    <message id="m0002" participant="130630" time="2013-05-26 16:50:32 UTC">
+      <body>Goes Ok. You?</body>
+    </message>
+    <message id="m0003" participant="130661" time="2013-05-26 17:44:24 UTC">
+      <body>Good. I have a couple of friends who've flown out to San Francisco, so I'm roaming around with them. Do you have any plans for the long weekend?</body>
+    </message>
+    <message id="m0004" participant="130630" time="2013-05-26 23:01:19 UTC">
+      <body>Working - I'm a freelance writer</body>
+    </message>
+  </messages>
+</conversation>

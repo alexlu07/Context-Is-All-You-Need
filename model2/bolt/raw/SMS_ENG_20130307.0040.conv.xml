@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135305" time="2013-03-07 00:50:08 UTC">
+      <body>Hey Liza! Where do you stand on tomorrow morning?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-07 00:51:03 UTC">
+      <body>I am staying in Maryland. Did you guys figure out transportation? Can I help in any way with lesson planning?</body>
+    </message>
+    <message id="m0002" participant="135305" time="2013-03-07 00:53:20 UTC">
+      <body>No worries, we can take the r100, did you tell Marla you're not coming?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-07 00:53:44 UTC">
+      <body>Yep I emailed her. </body>
+    </message>
+  </messages>
+</conversation>

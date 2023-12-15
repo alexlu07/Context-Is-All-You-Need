@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150406.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-06 01:33:42 UTC" participant="153900">
+      <body>How are you doing at casino</body>
+    </message>
+    <message id="m0001" time="2015-04-06 04:27:28 UTC" participant="153900">
+      <body>Ok good night </body>
+    </message>
+    <message id="m0002" time="2015-04-06 04:27:55 UTC" participant="153244">
+      <body>We're home</body>
+    </message>
+    <message id="m0003" time="2015-04-06 04:29:48 UTC" participant="153900">
+      <body>Ok good night </body>
+    </message>
+    <message id="m0004" time="2015-04-06 04:30:34 UTC" participant="153244">
+      <body>Night</body>
+    </message>
+    <message id="m0005" time="2015-04-06 11:56:03 UTC" participant="153900">
+      <body>Are you stopping bye to get yours and Steph ravioli</body>
+    </message>
+    <message id="m0006" time="2015-04-06 23:31:27 UTC" participant="153244">
+      <body>Did u say u had chicken for me too?</body>
+    </message>
+    <message id="m0007" time="2015-04-06 23:32:24 UTC" participant="153900">
+      <body>If you want</body>
+    </message>
+    <message id="m0008" time="2015-04-06 23:50:38 UTC" participant="153244">
+      <body>Ok well im still at work... ill stop over when I get done. Ill probably Jay eat at your house</body>
+    </message>
+    <message id="m0009" time="2015-04-06 23:50:45 UTC" participant="153244">
+      <body>Just* eat</body>
+    </message>
+    <message id="m0010" time="2015-04-06 23:51:09 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0011" time="2015-04-07 00:04:53 UTC" participant="153244">
+      <body>Leaving work now</body>
+    </message>
+    <message id="m0012" time="2015-04-07 00:05:19 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

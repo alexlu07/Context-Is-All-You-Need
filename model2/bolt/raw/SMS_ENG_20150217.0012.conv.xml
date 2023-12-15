@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150217.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-17 12:12:19 UTC" participant="153258">
+      <body>Offices closed today...</body>
+    </message>
+    <message id="m0001" time="2015-02-17 12:13:39 UTC" participant="153244">
+      <body>Got it. Thank you.</body>
+    </message>
+  </messages>
+</conversation>
+

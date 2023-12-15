@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140820.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-20 18:28:22 UTC" participant="153553">
+      <body>Or would you rather do lunch and a cocktail at the continental and a movie? I kinda wanna see mood indigo!</body>
+    </message>
+    <message id="m0001" time="2014-08-20 19:09:10 UTC" participant="153548">
+      <body>Yeah I could do that. Movie sounds great. I'd love to see that one. </body>
+    </message>
+    <message id="m0002" time="2014-08-20 19:34:11 UTC" participant="153553">
+      <body>Cool! Let's head down around 1:30? Movie starts at 4 so that'll give us time to talk awhile and get kinda drunk.</body>
+    </message>
+    <message id="m0003" time="2014-08-20 20:32:02 UTC" participant="153548">
+      <body>Perfect! </body>
+    </message>
+  </messages>
+</conversation>
+

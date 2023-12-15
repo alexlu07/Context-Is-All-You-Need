@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140813.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-13 15:36:20 UTC" participant="152417">
+      <body>Do we have quijote? </body>
+    </message>
+    <message id="m0002" time="2014-08-13 22:11:45 UTC" participant="152654">
+      <body>I can't receive group messages.a. What are you guys talking about?</body>
+    </message>
+    <message id="m0003" time="2014-08-13 22:12:43 UTC" participant="152417">
+      <body>I asked if its time for heady topper</body>
+    </message>
+    <message id="m0004" time="2014-08-13 22:12:45 UTC" participant="152654">
+      <body>Still can't read  it :</body>
+    </message>
+    <message id="m0005" time="2014-08-13 22:13:27 UTC" participant="152654">
+      <body>Lets do it!</body>
+    </message>
+  </messages>
+</conversation>
+

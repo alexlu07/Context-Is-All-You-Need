@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130131.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-01-31 22:14:58 UTC">
+      <body>Leaving. Be there in ten to fifteen.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-01 07:03:06 UTC">
+      <body>saturday looks good. :) </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-02-01 15:27:20 UTC">
+      <body>Sounds good. I had a great time last night.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-01 15:29:19 UTC">
+      <body>i had an amazing time too, thank you for everything. </body>
+    </message>
+  </messages>
+</conversation>

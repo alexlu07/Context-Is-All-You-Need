@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135406" time="2012-11-25 03:58:56 UTC">
+      <body>Sofie, I just thought of a great idea</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-25 03:59:20 UTC">
+      <body>Go time</body>
+    </message>
+    <message id="m0002" participant="135406" time="2012-11-25 04:01:04 UTC">
+      <body>What about a t-shirt with a great print on the front and  your website and twitter on the bottom of the back of the t-shirt</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-25 04:08:03 UTC">
+      <body>Hahahaha</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-25 04:08:06 UTC">
+      <body>I love it </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-25 04:08:26 UTC">
+      <body>Looks like I need to start making some shirts </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140111.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-11 17:30:42 UTC" participant="152560">
+      <body>I'm on 149-I hear the roads are icy, so I might start taking my time. See you soon.</body>
+    </message>
+    <message id="m0001" time="2014-01-11 17:39:21 UTC" participant="152417">
+      <body>Forecast for Fort Ann says 34, but be careful anyway</body>
+    </message>
+    <message id="m0002" time="2014-01-12 16:48:19 UTC" participant="152417">
+      <body>You rock!</body>
+    </message>
+    <message id="m0003" time="2014-01-12 16:50:41 UTC" participant="152560">
+      <body>I'm shaking right now!!! :)</body>
+    </message>
+  </messages>
+</conversation>
+

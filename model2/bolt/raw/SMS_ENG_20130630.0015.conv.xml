@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130630.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136635" time="2013-06-30 18:03:59 UTC">
+      <body>Yo what u up to? Got a few folks over. Come thru if u free</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-30 20:43:04 UTC">
+      <body>Thx. At a wedding</body>
+    </message>
+    <message id="m0002" participant="136635" time="2013-07-01 00:04:14 UTC">
+      <body>Lol. Recruit for the site!</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-01 01:36:18 UTC">
+      <body>Hahaja</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140826.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-26 00:33:42 UTC" participant="152374">
+      <body>I'm heading up to Philly flavors. Care to join? :) </body>
+    </message>
+    <message id="m0001" time="2014-08-26 00:35:16 UTC" participant="153472">
+      <body>Just got home from our walk. 15mins ago I would have jumped on this idea! </body>
+    </message>
+    <message id="m0002" time="2014-08-26 00:36:01 UTC" participant="152374">
+      <body>Rats! Can I drop off your ########## goody at least? </body>
+    </message>
+    <message id="m0003" time="2014-08-26 00:37:27 UTC" participant="153472">
+      <body>Sure! We're here.</body>
+    </message>
+    <message id="m0004" time="2014-08-26 00:37:52 UTC" participant="152374">
+      <body>Cool. Be down in a few minutes, I'm already leaning </body>
+    </message>
+    <message id="m0005" time="2014-08-26 00:37:58 UTC" participant="152374">
+      <body>Leaving </body>
+    </message>
+    <message id="m0006" time="2014-08-26 00:43:39 UTC" participant="152374">
+      <body>I'm outside! </body>
+    </message>
+  </messages>
+</conversation>
+

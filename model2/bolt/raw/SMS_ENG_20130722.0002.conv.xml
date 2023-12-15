@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130821" time="2013-07-22 18:49:21 UTC">
+      <body>Is there an Upholstery P.O. Box where people can send donations?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-22 19:09:14 UTC">
+      <body>Um, no...just my address I spose</body>
+    </message>
+    <message id="m0002" participant="130821" time="2013-07-22 19:15:08 UTC">
+      <body>Ok:  Upholstery c/o Jeremy Proudy
+              &lt;&lt;enter your address&gt;&gt;</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-07-22 19:16:10 UTC">
+      <body>Jeremy Prouty 
+1535 Spring Garden St 
+Apt 2R
+Phila, PA  19130</body>
+    </message>
+    <message id="m0004" participant="130821" time="2013-07-22 19:17:22 UTC">
+      <body>Got it.</body>
+    </message>
+  </messages>
+</conversation>

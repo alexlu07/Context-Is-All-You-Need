@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141111.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-11 15:40:48 UTC" participant="152570">
+      <body>Mind if we do later tomorrow? I'm getting my sax tweaked in the morning. </body>
+    </message>
+    <message id="m0001" time="2014-11-11 15:40:48 UTC" participant="152570">
+      <body>If it can't work, I will postpone the shop</body>
+    </message>
+    <message id="m0002" time="2014-11-11 15:46:49 UTC" participant="152417">
+      <body>I'm booked the rest of the day tomorrow, sorry.  I could also meet Thursday at 1 or friday morning</body>
+    </message>
+    <message id="m0003" time="2014-11-11 15:47:12 UTC" participant="152570">
+      <body>Is 9 Friday too early?</body>
+    </message>
+    <message id="m0004" time="2014-11-11 16:46:17 UTC" participant="152417">
+      <body>I could do friday at 9</body>
+    </message>
+    <message id="m0005" time="2014-11-11 16:55:28 UTC" participant="152570">
+      <body>Tremendous. Thanks, man</body>
+    </message>
+  </messages>
+</conversation>
+

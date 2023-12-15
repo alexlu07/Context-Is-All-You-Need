@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 14:26:31 UTC" participant="153804">
+      <body>Can't remember if I updated you I'm working on Monday</body>
+    </message>
+    <message id="m0001" time="2014-12-30 14:27:09 UTC" participant="153804">
+      <body>First day will be Tuesday and will be working at Fairmount Wegmans I'll let you know the time</body>
+    </message>
+    <message id="m0002" time="2014-12-30 14:27:54 UTC" participant="153804">
+      <body>probably leaving around 7:15</body>
+    </message>
+    <message id="m0003" time="2014-12-30 14:28:37 UTC" participant="153815">
+      <body>Okay. So we start on tuesday. You start on Monday. Sounds good</body>
+    </message>
+    <message id="m0004" time="2014-12-30 14:29:09 UTC" participant="153804">
+      <body>I'll talk to you before then</body>
+    </message>
+    <message id="m0005" time="2014-12-30 14:29:32 UTC" participant="153815">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

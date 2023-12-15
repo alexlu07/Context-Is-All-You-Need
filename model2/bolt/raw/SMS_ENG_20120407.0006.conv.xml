@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120407.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130899" time="2012-04-07 21:00:21 UTC">
+      <body>wow, that sounds interesting!  how much would i pay a month?</body>
+    </message>
+    <message id="m0001" participant="130899" time="2012-04-07 21:06:17 UTC">
+      <body>wow, that is so cool, i am so interested.  could we set up a date next week for me to check it out?</body>
+    </message>
+    <message id="m0002" participant="130899" time="2012-04-07 21:08:23 UTC">
+      <body>ooh! i think its good! im at work now but soon as i can check my schedule i'll text u.  thanks lady!</body>
+    </message>
+    <message id="m0003" participant="130899" time="2012-04-07 21:18:27 UTC">
+      <body>saweeeet</body>
+    </message>
+    <message id="m0004" participant="130899" time="2012-04-10 22:11:15 UTC">
+      <body>heya! yes! sorry bout the delay. what time would be good for you?</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-04-10 22:11:47 UTC">
+      <body>Around 5ish? Or 10:30 am</body>
+    </message>
+    <message id="m0006" participant="130899" time="2012-04-10 22:12:30 UTC">
+      <body>i think 10:30 would be better for me, thats ok w you?</body>
+    </message>
+    <message id="m0008" participant="130899" time="2012-04-10 22:39:57 UTC">
+      <body>aweeesomeeee! thanks lady, see u tomorrow!</body>
+    </message>
+    <message id="m0009" participant="130755" time="2012-04-10 22:40:59 UTC">
+      <body>Yupyup!</body>
+    </message>
+    <message id="m0010" participant="130899" time="2012-04-11 13:05:42 UTC">
+      <body>Heya!  could u resend me the address?</body>
+    </message>
+    <message id="m0012" participant="130899" time="2012-04-11 13:07:06 UTC">
+      <body>awesome, thanks so much!</body>
+    </message>
+    <message id="m0013" participant="130899" time="2012-04-11 14:20:00 UTC">
+      <body>heya! im early, if ure here yet</body>
+    </message>
+    <message id="m0014" participant="130755" time="2012-04-11 14:20:33 UTC">
+      <body>Nope, be there shortly</body>
+    </message>
+    <message id="m0015" participant="130899" time="2012-04-11 14:21:01 UTC">
+      <body>cool beans</body>
+    </message>
+  </messages>
+</conversation>

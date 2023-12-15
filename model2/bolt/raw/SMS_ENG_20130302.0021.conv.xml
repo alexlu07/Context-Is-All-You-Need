@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130302.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-03-02 21:08:01 UTC">
+      <body>6 din?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2013-03-03 19:27:29 UTC">
+      <body>Bryn din?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-03 19:52:03 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0003" participant="135265" time="2013-03-03 20:57:18 UTC">
+      <body>I will queer everything!!</body>
+    </message>
+  </messages>
+</conversation>

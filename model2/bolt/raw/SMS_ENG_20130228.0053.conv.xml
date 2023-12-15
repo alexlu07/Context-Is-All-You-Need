@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-28 23:22:58 UTC" participant="153418">
+      <body>You're going to Boston this Sunday, right?</body>
+    </message>
+    <message id="m0001" time="2013-03-01 00:52:07 UTC" participant="153443">
+      <body>No! Did you see my email?</body>
+    </message>
+    <message id="m0002" time="2013-03-01 01:26:17 UTC" participant="153418">
+      <body>Yes. You said you're going to Boston 14 to 16. You mean from the 14th to the 16th in March?</body>
+    </message>
+    <message id="m0003" time="2013-03-01 03:20:31 UTC" participant="153443">
+      <body>Oh yes! That's what I meant! Sorry for confusing you! :( </body>
+    </message>
+  </messages>
+</conversation>
+

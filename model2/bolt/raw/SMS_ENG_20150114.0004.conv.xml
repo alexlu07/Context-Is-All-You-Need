@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150114.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-14 19:49:50 UTC" participant="153244">
+      <body>Hey, my medical evaluation is rescheduled for next Wednesday. </body>
+    </message>
+    <message id="m0001" time="2015-01-14 20:10:32 UTC" participant="153260">
+      <body>Good, let me know what happens. I'm sure you will do just fine.</body>
+    </message>
+    <message id="m0002" time="2015-01-14 20:15:08 UTC" participant="153244">
+      <body>Yea I'll keep you posted.</body>
+    </message>
+  </messages>
+</conversation>
+

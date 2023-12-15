@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0094" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-14 20:36:24 UTC">
+      <body>Are you at strayer</body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-05-14 20:41:36 UTC">
+      <body>At whole foods going to strayer at 5</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-14 21:12:56 UTC">
+      <body>Where are the gluten free cookies</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-05-14 21:16:21 UTC">
+      <body>
+ They are on the shelf above the toaster hidden in the left hand corner. </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-14 22:01:19 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-05-15 17:26:34 UTC">
+      <body>My exam tomorrow starts at 12 so I need to leave at 11:40 </body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-05-15 17:43:32 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

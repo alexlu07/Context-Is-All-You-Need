@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130904.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-04 12:56:16 UTC" participant="152842">
+      <body>CocoRosie. Familiar? </body>
+    </message>
+    <message id="m0001" time="2013-09-04 12:56:32 UTC" participant="152842">
+      <body>Obsessed! They'll be at the TLA on Nov 9. Wanna go? </body>
+    </message>
+    <message id="m0002" time="2013-09-04 12:56:59 UTC" participant="152734">
+      <body>Sure! You like? </body>
+    </message>
+    <message id="m0003" time="2013-09-04 13:06:56 UTC" participant="152734">
+      <body>Tentative yes! Do you know how much?</body>
+    </message>
+    <message id="m0004" time="2013-09-04 13:07:12 UTC" participant="152842">
+      <body>General admission $58. </body>
+    </message>
+    <message id="m0005" time="2013-09-04 13:07:12 UTC" participant="152842">
+      <body>Lol.  Yeah- understand. </body>
+    </message>
+    <message id="m0006" time="2013-09-04 13:08:20 UTC" participant="152734">
+      <body>Good lord. I think that is too many dollars for me, sorry! </body>
+    </message>
+    <message id="m0007" time="2013-09-04 17:12:32 UTC" participant="152842">
+      <body>Ha! Actually I found them directly through the TLA for $29.  </body>
+    </message>
+    <message id="m0008" time="2013-09-04 21:07:51 UTC" participant="152734">
+      <body>Let's do it!</body>
+    </message>
+    <message id="m0009" time="2013-09-04 22:06:56 UTC" participant="152842">
+      <body>Awesome! </body>
+    </message>
+    <message id="m0010" time="2013-09-04 22:15:24 UTC" participant="152842">
+      <body>I'm getting my tickets tonight. Ill let you know for certain what I pay! </body>
+    </message>
+    <message id="m0011" time="2013-09-05 01:04:00 UTC" participant="152842">
+      <body>Yep. $29. :)  </body>
+    </message>
+    <message id="m0012" time="2013-09-05 02:51:23 UTC" participant="152734">
+      <body>Awesome, I'll order tomorrow!</body>
+    </message>
+    <message id="m0013" time="2013-09-05 02:52:07 UTC" participant="152842">
+      <body>:)  cool!   </body>
+    </message>
+  </messages>
+</conversation>
+

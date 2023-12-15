@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121101.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-01 21:35:52 UTC">
+      <body>Do you still want to meet</body>
+    </message>
+    <message id="m0001" participant="135414" time="2012-11-01 22:43:12 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-11-01 22:43:12 UTC">
+      <body>Be out in about 20 mins</body>
+    </message>
+    <message id="m0003" participant="135414" time="2012-11-01 22:43:12 UTC">
+      <body>Longwood t stop? Half hour?</body>
+    </message>
+    <message id="m0004" participant="135414" time="2012-11-01 22:43:12 UTC">
+      <body>Oh wait no</body>
+    </message>
+    <message id="m0005" participant="135414" time="2012-11-01 22:43:12 UTC">
+      <body>Jk yes there. Sorry</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-01 22:43:26 UTC">
+      <body>When where?</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-11-01 22:45:04 UTC">
+      <body>Ok great </body>
+    </message>
+    <message id="m0008" participant="135414" time="2012-11-01 22:45:20 UTC">
+      <body>Was thinking it only went to Copley but its fine. Longwood t stop on Huntington at 7:15-7:20</body>
+    </message>
+    <message id="m0009" participant="135414" time="2012-11-01 22:45:20 UTC">
+      <body>I'll text you when I'm leaving the hospital </body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-11-01 22:46:34 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0011" participant="135414" time="2012-11-01 23:12:38 UTC">
+      <body>Leaving</body>
+    </message>
+    <message id="m0012" participant="135414" time="2012-11-01 23:12:38 UTC">
+      <body>Be at longwood &amp; Huntington in about 5 mins</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-11-01 23:13:05 UTC">
+      <body>I'm at longwood and Brookline
+</body>
+    </message>
+    <message id="m0014" participant="130622" time="2012-11-01 23:14:58 UTC">
+      <body>Ohhh my bad</body>
+    </message>
+    <message id="m0015" participant="135414" time="2012-11-01 23:16:37 UTC">
+      <body>No worries, see you in a few</body>
+    </message>
+  </messages>
+</conversation>

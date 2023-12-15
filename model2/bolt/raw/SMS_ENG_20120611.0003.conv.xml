@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-06-11 00:09:33 UTC">
+      <body>Are you watching the tonies?  And I hope Scottie is feeling better and we need directions 
+Shannon</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-11 00:12:34 UTC">
+      <body>I'm at another play not watchin the Tony's</body>
+    </message>
+    <message id="m0003" participant="135103" time="2012-06-11 00:12:58 UTC">
+      <body>
+Ok</body>
+    </message>
+  </messages>
+</conversation>

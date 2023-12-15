@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121117.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135280" time="2012-11-17 17:30:48 UTC">
+      <body>Hey! We won our first game and I think we are heading to Philly later. Our next game is tomorrow at 1 if you want to come</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-17 17:32:03 UTC">
+      <body>Congrats! </body>
+    </message>
+    <message id="m0002" participant="135280" time="2012-11-17 17:33:43 UTC">
+      <body>Haha no worries if not I will see you when you are home!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-11-17 17:34:07 UTC">
+      <body>Where is the place/the pitch?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-11-17 17:39:44 UTC">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>

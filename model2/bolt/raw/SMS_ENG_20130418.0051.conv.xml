@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135355" time="2013-04-18 03:35:28 UTC">
+      <body>Going to be in Philly the 22nd - 30th Ill see you there !? Maybe?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-18 13:06:37 UTC">
+      <body>If may or April?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-18 13:06:42 UTC">
+      <body>Of ?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-18 13:07:08 UTC">
+      <body>Ill be in Philly at the end of may?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-18 13:07:59 UTC">
+      <body>What will you be doing? Should I make a special trip ?</body>
+    </message>
+    <message id="m0005" participant="135355" time="2013-04-18 16:08:32 UTC">
+      <body>Just hanging!!</body>
+    </message>
+  </messages>
+</conversation>

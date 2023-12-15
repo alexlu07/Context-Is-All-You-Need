@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141102.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-02 17:18:51 UTC" participant="153591">
+      <body>you back in philly</body>
+    </message>
+    <message id="m0001" time="2014-11-02 17:19:12 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-11-02 17:19:32 UTC" participant="153591">
+      <body>I want to come up</body>
+    </message>
+    <message id="m0003" time="2014-11-02 17:59:06 UTC" participant="153547">
+      <body>Ok! I teach Mondays and Tuesdays but only from 4-530pm.  I am probably working on a bathroom weds-fri. But not certain </body>
+    </message>
+    <message id="m0004" time="2014-11-02 17:59:44 UTC" participant="153591">
+      <body>I work m-f so maybe Saturday </body>
+    </message>
+  </messages>
+</conversation>
+

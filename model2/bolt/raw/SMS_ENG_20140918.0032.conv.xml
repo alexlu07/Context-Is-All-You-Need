@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140918.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-18 01:43:39 UTC" participant="153244">
+      <body>Did we tell you Halloween party November 1st ?</body>
+    </message>
+    <message id="m0001" time="2014-09-18 02:10:47 UTC" participant="152116">
+      <body>Oh no. But that's good to know. I'm excited for it.</body>
+    </message>
+    <message id="m0002" time="2014-09-18 02:16:09 UTC" participant="153244">
+      <body>Cool lol, me too!</body>
+    </message>
+    <message id="m0003" time="2014-09-18 02:16:57 UTC" participant="152116">
+      <body>Yeah I can't wait</body>
+    </message>
+    <message id="m0004" time="2014-09-18 02:17:17 UTC" participant="152116">
+      <body>Did you post anything yet?</body>
+    </message>
+    <message id="m0005" time="2014-09-18 02:17:34 UTC" participant="153244">
+      <body>Good! Tell your friends</body>
+    </message>
+    <message id="m0006" time="2014-09-18 02:17:44 UTC" participant="153244">
+      <body>What do you mean? On fb?</body>
+    </message>
+    <message id="m0007" time="2014-09-18 02:17:51 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2014-09-18 02:18:49 UTC" participant="153244">
+      <body>No not yet. But its invite only so we wouldn't actually post anything. Maybe generate an event on fb though, but that's about it</body>
+    </message>
+    <message id="m0009" time="2014-09-18 02:19:02 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

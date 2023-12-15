@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140824.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-24 15:57:52 UTC" participant="153806">
+      <body>Yep</body>
+    </message>
+    <message id="m0001" time="2014-08-24 15:57:52 UTC" participant="153806">
+      <body>Who is this?</body>
+    </message>
+    <message id="m0002" time="2014-08-24 15:58:26 UTC" participant="153804">
+      <body>Did you say about 1:30?</body>
+    </message>
+    <message id="m0003" time="2014-08-24 15:59:59 UTC" participant="153804">
+      <body>Liz</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150316.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-16 17:52:18 UTC" participant="152212">
+      <body>Hey lee! Just planning out the rest of my day. I’m in C-town now, and I want to know how much time I have until you want to work/if you want to work today... let me know.</body>
+    </message>
+    <message id="m0001" time="2015-03-16 18:05:50 UTC" participant="152256">
+      <body>I can leave around 3:30
+We can work in Ctown if you are still there</body>
+    </message>
+    <message id="m0002" time="2015-03-16 18:40:05 UTC" participant="152212">
+      <body>ok that works too</body>
+    </message>
+    <message id="m0003" time="2015-03-16 18:40:06 UTC" participant="152212">
+      <body>!</body>
+    </message>
+    <message id="m0004" time="2015-03-16 18:40:09 UTC" participant="152212">
+      <body/>
+    </message>
+    <message id="m0005" time="2015-03-16 18:53:21 UTC" participant="152256">
+      <body>Just done with meeting</body>
+    </message>
+    <message id="m0006" time="2015-03-16 21:54:00 UTC" participant="152212">
+      <body>oh hay!</body>
+    </message>
+    <message id="m0007" time="2015-03-16 21:56:30 UTC" participant="152256">
+      <body>Hay is for horses</body>
+    </message>
+    <message id="m0008" time="2015-03-16 21:56:54 UTC" participant="152256">
+      <body>Guess where I am</body>
+    </message>
+    <message id="m0009" time="2015-03-16 21:59:34 UTC" participant="152256">
+      <body>You are so quiet
+</body>
+    </message>
+  </messages>
+</conversation>
+

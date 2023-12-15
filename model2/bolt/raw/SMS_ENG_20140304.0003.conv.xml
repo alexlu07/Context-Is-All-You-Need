@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140304.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-04 14:17:36 UTC" participant="152560">
+      <body>Morning! Are you heading up to Burlytown? </body>
+    </message>
+    <message id="m0001" time="2014-03-04 14:19:28 UTC" participant="152417">
+      <body>Yep, my train leaves in 40 mins</body>
+    </message>
+    <message id="m0002" time="2014-03-04 14:19:44 UTC" participant="152560">
+      <body>Can't wait! </body>
+    </message>
+    <message id="m0003" time="2014-03-04 14:26:12 UTC" participant="152417">
+      <body>Im scheduled to get in at 8:17, and i've got spielpalast at 9 </body>
+    </message>
+    <message id="m0004" time="2014-03-04 20:13:52 UTC" participant="152560">
+      <body>Where are you now baby? </body>
+    </message>
+    <message id="m0005" time="2014-03-04 21:49:11 UTC" participant="152417">
+      <body>Montague MA, i have cousins who live here</body>
+    </message>
+    <message id="m0006" time="2014-03-04 22:29:51 UTC" participant="152560">
+      <body>So very Shakespearean sounding. </body>
+    </message>
+    <message id="m0007" time="2014-03-05 01:07:25 UTC" participant="152417">
+      <body>Eta: 829</body>
+    </message>
+    <message id="m0008" time="2014-03-05 01:08:16 UTC" participant="152560">
+      <body>Im here waiting for ya. </body>
+    </message>
+    <message id="m0009" time="2014-03-05 01:08:16 UTC" participant="152560">
+      <body>:)</body>
+    </message>
+    <message id="m0010" time="2014-03-05 03:25:44 UTC" participant="152560">
+      <body>Let me know when I should head downtown...</body>
+    </message>
+    <message id="m0011" time="2014-03-05 03:35:57 UTC" participant="152417">
+      <body>Emma or phin can drop me off,  we had an interview before meeting so we still have a lot to flesh out.  Thank you though babe</body>
+    </message>
+    <message id="m0012" time="2014-03-05 03:36:41 UTC" participant="152560">
+      <body>Ok, see you later. </body>
+    </message>
+  </messages>
+</conversation>
+

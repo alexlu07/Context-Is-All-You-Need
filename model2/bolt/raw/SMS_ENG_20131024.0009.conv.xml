@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131024.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-24 01:48:33 UTC" participant="153548">
+      <body>Did you get a ticket?</body>
+    </message>
+    <message id="m0001" time="2013-10-24 01:48:39 UTC" participant="153548">
+      <body>I'm about to buy mine.</body>
+    </message>
+    <message id="m0002" time="2013-10-24 01:50:05 UTC" participant="153641">
+      <body>Not yet. Just finished teaching. Which dates? What airline?</body>
+    </message>
+    <message id="m0003" time="2013-10-24 01:52:17 UTC" participant="153548">
+      <body>Air canada from January 3-17th</body>
+    </message>
+    <message id="m0004" time="2013-10-24 01:52:29 UTC" participant="153548">
+      <body>I looked on Travelocity</body>
+    </message>
+    <message id="m0005" time="2013-10-24 01:52:37 UTC" participant="153548">
+      <body>There are two tickets left</body>
+    </message>
+  </messages>
+</conversation>
+

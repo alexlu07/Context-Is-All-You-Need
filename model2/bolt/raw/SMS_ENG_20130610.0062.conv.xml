@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136644" time="2013-06-10 15:47:32 UTC">
+      <body>Hi Samuel.  What time is good for u for lunch? </body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-10 15:52:38 UTC">
+      <body>Can we actually hold off today. I have an abstract i want to submit for a conference today. Rest of week im pretty open. We can do fri if sideah is free then if it is before 2</body>
+    </message>
+    <message id="m0002" participant="136644" time="2013-06-10 15:58:02 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

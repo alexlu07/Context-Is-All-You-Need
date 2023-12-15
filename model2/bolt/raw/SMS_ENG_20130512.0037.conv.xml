@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-12 01:30:05 UTC">
+      <body>Hey lady, wanna go to a james blake concert in dc tomorrow night? </body>
+    </message>
+    <message id="m0001" participant="131591" time="2013-05-12 20:58:22 UTC">
+      <body>Oops! Late reply, sorry! I.work early Mon am, so probably not. Thanks for remembering me, whoever!.</body>
+    </message>
+    <message id="m0003" participant="131591" time="2013-05-12 22:15:32 UTC">
+      <body>I mean however, not whoever..auto correct strikes again! Doh! </body>
+    </message>
+  </messages>
+</conversation>

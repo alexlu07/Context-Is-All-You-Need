@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110823.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-23 18:56:47 UTC">
+      <body>Earthquake? You ok?</body>
+    </message>
+    <message id="m0001" participant="135134" time="2011-08-23 19:47:59 UTC">
+      <body>Yes! That was so bizarre! Thanks for checking :-) </body>
+    </message>
+  </messages>
+</conversation>

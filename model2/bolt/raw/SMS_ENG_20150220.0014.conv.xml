@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150220.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-20 15:28:02 UTC" participant="152734">
+      <body>Hey, let me know if you wanna get lunch later, I'm around </body>
+    </message>
+    <message id="m0001" time="2015-02-20 15:47:06 UTC" participant="153298">
+      <body>Yes! Let's do it :) does 1 at piper work for u? :)</body>
+    </message>
+    <message id="m0002" time="2015-02-20 15:50:12 UTC" participant="152734">
+      <body>Yeah! See you there </body>
+    </message>
+    <message id="m0003" time="2015-02-20 15:51:28 UTC" participant="153298">
+      <body>Great! </body>
+    </message>
+    <message id="m0004" time="2015-02-20 17:18:29 UTC" participant="153298">
+      <body>Ok, we have customers here who are not getting out and are making us late! We will be more like 1:30 now! Sorry!!! </body>
+    </message>
+    <message id="m0005" time="2015-02-20 17:24:57 UTC" participant="152734">
+      <body>That's a little easier actually! See you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

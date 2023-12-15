@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-08 00:15:48 UTC">
+      <body>I'm buying a new computer. When are you working next. Can you make commission off my purchase?</body>
+    </message>
+    <message id="m0001" participant="135386" time="2013-06-08 01:27:23 UTC">
+      <body>Nah but I can help you set it up. Data migration?</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-06-08 01:27:28 UTC">
+      <body>What was cost to fix yours?</body>
+    </message>
+  </messages>
+</conversation>

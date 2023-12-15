@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2013-02-28 03:28:37 UTC">
+      <body>Haha...Sarah lee just made it to a list of the 30 best female alternative singers...she was number 30</body>
+    </message>
+    <message id="m0001" participant="131473" time="2013-02-28 03:30:03 UTC">
+      <body>Hmm not sure</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-28 03:30:09 UTC">
+      <body>Haha... who was the authority on that call? </body>
+    </message>
+  </messages>
+</conversation>

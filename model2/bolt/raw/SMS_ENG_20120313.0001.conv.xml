@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120313.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-03-13 14:01:28 UTC">
+      <body>I sent you some money.  Be sure to get your mail Friday and then deposit it before you leave.  You are required to eat properly in Europe :)</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-03-13 14:01:47 UTC">
+      <body>Tried to send Euros but couldn't.</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-03-13 15:00:48 UTC">
+      <body>Okay!</body>
+    </message>
+  </messages>
+</conversation>

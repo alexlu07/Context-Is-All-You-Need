@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-02-19 18:31:23 UTC">
+      <body>Happy Foucault day!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-19 20:52:03 UTC">
+      <body>Thanks! I impressed Ullman :)</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-02-19 21:03:32 UTC">
+      <body>So proud :)</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-19 21:09:37 UTC">
+      <body>Can you get picture messages?</body>
+    </message>
+    <message id="m0004" participant="135265" time="2013-02-19 21:10:15 UTC">
+      <body>No sorry</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-02-19 21:41:31 UTC">
+      <body>Are you in Lloyd?</body>
+    </message>
+  </messages>
+</conversation>

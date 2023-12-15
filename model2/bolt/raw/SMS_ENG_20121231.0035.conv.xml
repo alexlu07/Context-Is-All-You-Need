@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-12-31 20:19:14 UTC">
+      <body>How's your timing doing? What time should we plan on trying to get there?</body>
+    </message>
+    <message id="m0001" participant="136731" time="2012-12-31 20:19:54 UTC">
+      <body>We are 5 min away from home</body>
+    </message>
+    <message id="m0002" participant="131015" time="2012-12-31 23:04:53 UTC">
+      <body>Is it cool if we get there around 8?</body>
+    </message>
+    <message id="m0003" participant="136731" time="2012-12-31 23:09:35 UTC">
+      <body>Of course! Come anytime!</body>
+    </message>
+    <message id="m0004" participant="136731" time="2012-12-31 23:09:50 UTC">
+      <body>We are getting...things...going!</body>
+    </message>
+    <message id="m0005" participant="136731" time="2013-01-01 00:41:15 UTC">
+      <body>Call raleigh if you have issues</body>
+    </message>
+    <message id="m0006" participant="136731" time="2013-01-01 00:41:21 UTC">
+      <body>My phone is dj</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-29 16:38:24 UTC" participant="153300">
+      <body>Hey Juila! I told you how tall that horse is right? 16hh still growing. Would you want to go meet him at all sometime? I'm free this week!</body>
+    </message>
+    <message id="m0001" time="2012-12-29 23:27:24 UTC" participant="152734">
+      <body>Sure! Tomorrow, Tuesday or next weekend would be best for me. Thanks!</body>
+    </message>
+    <message id="m0002" time="2012-12-30 00:42:40 UTC" participant="153300">
+      <body>Ok let's do next weekend!</body>
+    </message>
+    <message id="m0003" time="2012-12-30 00:46:56 UTC" participant="153300">
+      <body>I'll message my friend tomorrow</body>
+    </message>
+    <message id="m0004" time="2012-12-30 01:06:22 UTC" participant="152734">
+      <body>Cool! I'm supposed to go look at a horse Saturday 1/5 at 10 but the girl has been sketchy. Any other time works, thanks!</body>
+    </message>
+    <message id="m0005" time="2012-12-30 01:08:16 UTC" participant="153300">
+      <body>Ok I'll see if we can do like 1pm or something </body>
+    </message>
+  </messages>
+</conversation>
+

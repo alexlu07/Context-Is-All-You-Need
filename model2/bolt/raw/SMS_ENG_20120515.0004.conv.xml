@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120515.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-15 16:02:55 UTC">
+      <body>Is your band performing on Friday?</body>
+    </message>
+    <message id="m0001" participant="136222" time="2012-05-15 16:14:08 UTC">
+      <body>Nah they're all graduated, can't compete. </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-15 16:51:19 UTC">
+      <body>Oh man. None of my friends in bands are performing :(</body>
+    </message>
+  </messages>
+</conversation>

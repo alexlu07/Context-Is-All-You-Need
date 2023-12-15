@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130403.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-03 22:15:41 UTC" participant="132555">
+      <body>Hey Dan, how's it going?  I just wanted to make sure you're still good for doing the video shoot next Saturday (the 13th).  </body>
+    </message>
+    <message id="m0001" time="2013-04-03 22:16:10 UTC" participant="130747">
+      <body>Yep everything is good for next weekend</body>
+    </message>
+    <message id="m0002" time="2013-04-03 22:16:22 UTC" participant="130747">
+      <body>Its 1pm right?</body>
+    </message>
+    <message id="m0003" time="2013-04-03 22:22:20 UTC" participant="132555">
+      <body>Cool, we'll see you next weekend.  </body>
+    </message>
+    <message id="m0004" time="2013-04-03 22:22:52 UTC" participant="132555">
+      <body>Yeah, 1pm is when we're booked. </body>
+    </message>
+    <message id="m0005" time="2013-04-03 22:23:58 UTC" participant="130747">
+      <body>yep. I'm ready to go. Checked out cure videos. Looks very doable</body>
+    </message>
+  </messages>
+</conversation>
+

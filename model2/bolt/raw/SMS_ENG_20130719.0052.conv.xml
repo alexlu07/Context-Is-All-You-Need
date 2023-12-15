@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-19 23:30:56 UTC" participant="152374">
+      <body>Ok I'm ready, just text or call when you're nearby and I'll come out :-)</body>
+    </message>
+    <message id="m0001" time="2013-07-19 23:32:22 UTC" participant="153489">
+      <body>Ok.. gps says half hr</body>
+    </message>
+    <message id="m0002" time="2013-07-19 23:32:40 UTC" participant="152374">
+      <body>Cool, safe travels</body>
+    </message>
+    <message id="m0003" time="2013-07-19 23:57:42 UTC" participant="153489">
+      <body>Well be there in 3 mins</body>
+    </message>
+    <message id="m0004" time="2013-07-20 00:00:45 UTC" participant="153489">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

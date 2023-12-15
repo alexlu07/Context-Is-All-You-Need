@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140417.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-17 15:40:48 UTC" participant="153678">
+      <body>Hi! How are u feeling about 6pm yoga tonight? </body>
+    </message>
+    <message id="m0001" time="2014-04-17 15:42:01 UTC" participant="153548">
+      <body>I think so! I'm so sore but I feel motivated!</body>
+    </message>
+    <message id="m0002" time="2014-04-17 15:42:42 UTC" participant="153678">
+      <body>Yes! Me too! Let's do it. Wanna meet at 50th and bmore at 545? </body>
+    </message>
+    <message id="m0003" time="2014-04-17 15:43:08 UTC" participant="153548">
+      <body>Perfect!! I'll meet you there!</body>
+    </message>
+    <message id="m0004" time="2014-04-17 15:45:04 UTC" participant="153678">
+      <body>☺️</body>
+    </message>
+    <message id="m0005" time="2014-04-17 15:46:30 UTC" participant="153548">
+      <body/>
+    </message>
+    <message id="m0006" time="2014-04-17 15:46:59 UTC" participant="153678">
+      <body>Wow! I like that!! </body>
+    </message>
+    <message id="m0007" time="2014-04-17 15:47:12 UTC" participant="153678">
+      <body>Ha ha! I knew right away! </body>
+    </message>
+    <message id="m0008" time="2014-04-17 15:47:13 UTC" participant="153548">
+      <body>Those are yoga moves</body>
+    </message>
+    <message id="m0009" time="2014-04-17 15:47:24 UTC" participant="153548">
+      <body>In case you were wondering</body>
+    </message>
+    <message id="m0010" time="2014-04-17 15:49:16 UTC" participant="153548">
+      <body>Namaste</body>
+    </message>
+  </messages>
+</conversation>
+

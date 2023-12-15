@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150215.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-15 17:32:01 UTC" participant="152212">
+      <body>Hi Zach! </body>
+    </message>
+    <message id="m0001" time="2015-02-15 17:55:03 UTC" participant="152212">
+      <body>Yes call when your back...</body>
+    </message>
+    <message id="m0002" time="2015-02-15 20:07:28 UTC" participant="152250">
+      <body>Meant to ask you one more thing. Do you happen to have all of Katherine's type lectures? I only have one of them and I have a hankering to see the others! :)
+</body>
+    </message>
+    <message id="m0003" time="2015-02-15 20:38:31 UTC" participant="152212">
+      <body>oh i shared with you what i have... its not necessarily type though</body>
+    </message>
+    <message id="m0004" time="2015-02-15 21:22:08 UTC" participant="152250">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

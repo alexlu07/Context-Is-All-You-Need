@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140713.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-13 17:34:38 UTC" participant="153547">
+      <body>Can you dehydrate some chanterelles for me</body>
+    </message>
+    <message id="m0001" time="2014-07-13 17:35:20 UTC" participant="153562">
+      <body>I sure can</body>
+    </message>
+    <message id="m0002" time="2014-07-13 17:35:44 UTC" participant="153547">
+      <body>You around today at all?</body>
+    </message>
+    <message id="m0003" time="2014-07-13 17:56:09 UTC" participant="153562">
+      <body>Yeah im around now</body>
+    </message>
+    <message id="m0004" time="2014-07-13 17:57:25 UTC" participant="153547">
+      <body>Be right over</body>
+    </message>
+  </messages>
+</conversation>
+

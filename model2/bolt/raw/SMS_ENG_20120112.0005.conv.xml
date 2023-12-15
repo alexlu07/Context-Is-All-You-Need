@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120112.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-01-12 02:41:01 UTC" participant="152374">
+      <body>I went inside. You'll see me as soon as you walk in the theater.</body>
+    </message>
+    <message id="m0001" time="2012-01-13 02:11:58 UTC" participant="152378">
+      <body>Lemme know when you pull up</body>
+    </message>
+    <message id="m0002" time="2012-01-13 02:14:18 UTC" participant="152374">
+      <body>Just parked. Walking over now.</body>
+    </message>
+  </messages>
+</conversation>
+

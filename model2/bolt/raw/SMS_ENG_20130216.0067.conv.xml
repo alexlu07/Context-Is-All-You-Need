@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-16 16:12:08 UTC" participant="152417">
+      <body>Hey stu, we've got two squirrels in our trap</body>
+    </message>
+    <message id="m0002" time="2013-02-16 16:16:32 UTC" participant="152524">
+      <body>Thanks.I'll come by later.</body>
+    </message>
+    <message id="m0003" time="2013-02-16 18:53:00 UTC" participant="152524">
+      <body>One of the squirrels managed to escape .  The other one is now at a new home. Please keep your eyes on the trap. Thanks</body>
+    </message>
+    <message id="m0004" time="2013-02-16 22:26:13 UTC" participant="152524">
+      <body>Just got 2 more squirrels</body>
+    </message>
+    <message id="m0005" time="2013-02-17 00:22:00 UTC" participant="152417">
+      <body>Awesome, thanks Stu</body>
+    </message>
+  </messages>
+</conversation>
+

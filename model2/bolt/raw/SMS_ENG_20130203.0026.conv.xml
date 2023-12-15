@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135291" time="2013-02-03 13:53:20 UTC">
+      <body>Hey are you still up for going to Haverford house tonight for dinner?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-03 15:30:53 UTC">
+      <body>Yeah! We will be back by midnight right? Also what time do we need to leave?</body>
+    </message>
+    <message id="m0002" participant="135291" time="2013-02-03 15:45:04 UTC">
+      <body>Gosh I hope so -I was hoping to be back by 9 or 10 at the latest. Let me check the train schedule and ill let you know. Probs around 6ish</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-03 15:47:15 UTC">
+      <body>Perfect </body>
+    </message>
+    <message id="m0004" participant="135291" time="2013-02-03 16:31:35 UTC">
+      <body>Ok so if we take the r5 and then the market Frankfurt line we will need to leave about 5:30ish. This way is slightly more expensive. If we take the r100 we can leave take the 5:30 or 6:00 and then the el. This way is cheaper but we need 6 one dollar bills. Also google maps is being a poop and refusing to tell me which r100 train we should take. </body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-02-03 16:34:25 UTC">
+      <body>Okay I don't think I have six dollar bills...either way is fine!</body>
+    </message>
+    <message id="m0006" participant="135291" time="2013-02-03 16:36:02 UTC">
+      <body>I don't have exact change either (only twenties). We could take the r5 there are make change on the train and then decide which way to go back when we leave. </body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-02-03 16:41:04 UTC">
+      <body>Ok </body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-02-03 16:41:12 UTC">
+      <body>What times the r5</body>
+    </message>
+    <message id="m0009" participant="135291" time="2013-02-03 16:42:40 UTC">
+      <body>5:52. We can meet at the top of the path by Barclay at 5:35 or 5:40 ish?</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-02-03 16:43:06 UTC">
+      <body>Ok :) </body>
+    </message>
+    <message id="m0011" participant="135080" time="2013-02-03 21:03:18 UTC">
+      <body>Meet us in Lloyd 41?</body>
+    </message>
+    <message id="m0012" participant="135291" time="2013-02-03 21:03:47 UTC">
+      <body>Ok. On my way</body>
+    </message>
+  </messages>
+</conversation>

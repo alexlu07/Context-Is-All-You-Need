@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141116.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-16 02:54:56 UTC" participant="153425">
+      <body>Hey! Is this still your number? It's Ele</body>
+    </message>
+    <message id="m0001" time="2014-11-16 03:50:52 UTC" participant="153417">
+      <body>Yes it is! It was so nice seeing you today!</body>
+    </message>
+    <message id="m0002" time="2014-11-16 03:54:39 UTC" participant="153425">
+      <body>Good seeing you too! A date is in order for sure to catch up. I just finished finals this week and have off next but I'm going away in a few days and have a bunch of errands before. But maybe the week of Thanksgiving we can meet up if you're free for coffee or grab a bite let me know </body>
+    </message>
+    <message id="m0003" time="2014-11-16 03:55:23 UTC" participant="153417">
+      <body>Definitely!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120625.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-25 17:03:38 UTC" participant="153418">
+      <body>Mm, okay. From this point on, I'll usually only be free on Fridays or the weekend.</body>
+    </message>
+    <message id="m0001" time="2012-06-25 18:46:59 UTC" participant="153439">
+      <body>Okay!
+Can i meet you on July 6th?</body>
+    </message>
+    <message id="m0002" time="2012-06-25 18:59:34 UTC" participant="153418">
+      <body>July 6th is good. What time? I'm busy from 3:00 and on.</body>
+    </message>
+    <message id="m0003" time="2012-06-25 22:47:17 UTC" participant="153439">
+      <body>I'm not sure because my class will have started then. I have not know what time my class will start.. </body>
+    </message>
+    <message id="m0004" time="2012-06-26 03:22:29 UTC" participant="153418">
+      <body>That's all right. Just let me know whenever you find out.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111118.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131314" time="2011-11-18 18:36:27 UTC">
+      <body>Hey man its paul did u go home for our day off or are u around?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-11-18 18:36:50 UTC">
+      <body>Went back to Philly</body>
+    </message>
+    <message id="m0002" participant="131314" time="2011-11-18 18:38:01 UTC">
+      <body>Ight have a good one</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-11-18 18:38:17 UTC">
+      <body>You too bro</body>
+    </message>
+  </messages>
+</conversation>

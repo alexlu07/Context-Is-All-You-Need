@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-01-29 00:40:12 UTC">
+      <body>Hey, I just found a $100 check you wrote to Kathy back in October. It was in a card in my bag. What should I do with it?</body>
+    </message>
+    <message id="m0001" participant="131505" time="2013-01-29 00:43:47 UTC">
+      <body>Cash it.  Losing checks is my schtick.  Don't try to horn in on my territory.   Love you.</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-01-29 00:44:26 UTC">
+      <body>Thanks! It'll have to wait till I get home.</body>
+    </message>
+    <message id="m0003" participant="131505" time="2013-01-29 00:46:00 UTC">
+      <body>And happy birthday.   I never forget October 2nd.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-01-29 00:46:39 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

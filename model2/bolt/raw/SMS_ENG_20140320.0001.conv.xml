@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 20:44:07 UTC" participant="149306">
+      <body>Do u think I could swing by Freeman's and get my check today or is it too late </body>
+    </message>
+    <message id="m0001" time="2014-03-20 22:11:12 UTC" participant="149440">
+      <body>Just got your message. I am in DC. You can try Butch in the morning.</body>
+    </message>
+    <message id="m0002" time="2014-03-21 04:28:15 UTC" participant="149306">
+      <body>Ok I'll swing by there 2moro. Have fun in the district</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137319" time="2013-06-26 18:26:19 UTC">
+      <body>Could you come at 6:40 tonight?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-06-26 18:29:13 UTC">
+      <body>I have a doctors app at 6:30 but I can come at like 7:30</body>
+    </message>
+    <message id="m0002" participant="137319" time="2013-06-26 18:30:09 UTC">
+      <body>Okay thanks!</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-26 18:30:18 UTC">
+      <body>So 7:30? </body>
+    </message>
+    <message id="m0004" participant="137319" time="2013-06-26 18:35:44 UTC">
+      <body>Yeah that's great! Same place</body>
+    </message>
+    <message id="m0005" participant="137319" time="2013-06-26 23:54:46 UTC">
+      <body>You coming?</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-26 23:57:38 UTC">
+      <body>Yup here</body>
+    </message>
+    <message id="m0007" participant="137319" time="2013-06-26 23:57:52 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0008" participant="137319" time="2013-06-27 19:15:08 UTC">
+      <body>Tonight = 8:30 @ Wallingford Presbyterian Church, 110 East Brookhaven Rd</body>
+    </message>
+  </messages>
+</conversation>

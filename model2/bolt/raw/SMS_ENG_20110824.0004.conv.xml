@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110824.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-24 17:19:49 UTC">
+      <body>Dad is in room 88 on the second floor. When will you be here?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-08-24 17:20:42 UTC">
+      <body>45 minz</body>
+    </message>
+  </messages>
+</conversation>

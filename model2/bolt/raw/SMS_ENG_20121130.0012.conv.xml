@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-11-30 19:42:14 UTC">
+      <body>I'm here, see next train is 3:25. should i get tix?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-11-30 19:42:50 UTC">
+      <body>and morristown, yes?</body>
+    </message>
+    <message id="m0002" participant="131282" time="2012-11-30 19:58:20 UTC">
+      <body>yes</body>
+    </message>
+    <message id="m0003" participant="131282" time="2012-11-30 19:59:26 UTC">
+      <body>to all.be there in two minutes</body>
+    </message>
+  </messages>
+</conversation>

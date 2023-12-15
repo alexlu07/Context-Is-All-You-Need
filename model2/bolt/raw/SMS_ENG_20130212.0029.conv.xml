@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-12 05:21:14 UTC">
+      <body>Food at noon?</body>
+    </message>
+    <message id="m0001" participant="135269" time="2013-02-12 06:06:05 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135269" time="2013-02-12 16:56:50 UTC">
+      <body>Dc</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-02-12 17:01:59 UTC">
+      <body>Left side</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-12 17:05:48 UTC">
+      <body>Coming sry</body>
+    </message>
+  </messages>
+</conversation>

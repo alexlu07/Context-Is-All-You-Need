@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-10-25 16:06:23 UTC" participant="153610">
+      <body> (2/2) -just as part of my past work sample</body>
+    </message>
+    <message id="m0002" time="2014-10-25 16:07:24 UTC" participant="153548">
+      <body>Oh yes! I completely forgot to send this to you! Can I Dropbox you a file?</body>
+    </message>
+    <message id="m0003" time="2014-10-25 16:08:02 UTC" participant="153610">
+      <body>Sure. That would be great.</body>
+    </message>
+  </messages>
+</conversation>
+

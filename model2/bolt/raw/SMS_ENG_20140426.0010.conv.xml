@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140426.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-26 18:23:21 UTC" participant="153547">
+      <body>Hey do you want to do lunch tomorrow. I can come to ellicot city</body>
+    </message>
+    <message id="m0001" time="2014-04-26 18:35:21 UTC" participant="153591">
+      <body>sure </body>
+    </message>
+    <message id="m0002" time="2014-04-26 19:17:23 UTC" participant="153591">
+      <body>wanna do Indian buffet mmmmmm</body>
+    </message>
+    <message id="m0003" time="2014-04-26 19:17:50 UTC" participant="153547">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0004" time="2014-04-27 13:34:20 UTC" participant="153547">
+      <body>Hey I could come by and hang out for bit before lunch if you are up and available </body>
+    </message>
+    <message id="m0005" time="2014-04-27 13:43:55 UTC" participant="153591">
+      <body>if you want  im just cleaning my house and drinking coffee in my pjs</body>
+    </message>
+    <message id="m0006" time="2014-04-27 13:48:39 UTC" participant="153547">
+      <body>I'm gonna stop and say hello to some people. Then I will head your way. What is your address ?</body>
+    </message>
+    <message id="m0008" time="2014-04-27 13:52:04 UTC" participant="153547">
+      <body>Charles village</body>
+    </message>
+  </messages>
+</conversation>
+

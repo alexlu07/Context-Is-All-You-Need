@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-19 20:49:59 UTC">
+      <body>can we do 930 tomorrow - for you and shawna?</body>
+    </message>
+    <message id="m0001" participant="131358" time="2013-04-19 20:52:09 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-19 20:53:33 UTC">
+      <body>cool. see you then!</body>
+    </message>
+    <message id="m0004" participant="131358" time="2013-04-20 14:44:12 UTC">
+      <body>Timing is too tight maybe tomorrow for lessons? today wont work until ~ 4</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-20 15:07:25 UTC">
+      <body>k. let's count on tomorrow.</body>
+    </message>
+    <message id="m0006" participant="131358" time="2013-04-20 15:07:54 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

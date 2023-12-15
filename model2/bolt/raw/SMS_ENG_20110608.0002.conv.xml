@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110608.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135106" time="2011-06-08 01:54:51 UTC">
+      <body>Is this still your cell number?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-08 01:56:14 UTC">
+      <body>Yes indeed pretty</body>
+    </message>
+    <message id="m0002" participant="135106" time="2011-06-08 01:58:10 UTC">
+      <body>Yay!!!! I miss you.</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-08 01:58:46 UTC">
+      <body>I  miss you! Are you coming to mn anytime soon?</body>
+    </message>
+    <message id="m0004" participant="135106" time="2011-06-08 02:01:04 UTC">
+      <body>August probably!</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-08 02:01:23 UTC">
+      <body>Yayyyyyyyy</body>
+    </message>
+    <message id="m0006" participant="135106" time="2011-06-08 02:04:14 UTC">
+      <body>I'm so excited. Can we have an awesome few Minnesotan days?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-06-08 02:05:28 UTC">
+      <body>Of COURSe</body>
+    </message>
+  </messages>
+</conversation>

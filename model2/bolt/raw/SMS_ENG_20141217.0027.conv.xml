@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141217.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-17 15:32:35 UTC" participant="153900">
+      <body>Hey what time you picking me up</body>
+    </message>
+    <message id="m0001" time="2014-12-17 19:05:17 UTC" participant="153900">
+      <body>Hey what time are you done work today</body>
+    </message>
+    <message id="m0002" time="2014-12-17 19:23:59 UTC" participant="153900">
+      <body>Victor picked up the gift card Dor aunt Cheryl and I got the wine you owe him 35 dollars</body>
+    </message>
+    <message id="m0003" time="2014-12-17 19:48:37 UTC" participant="153244">
+      <body>Ok you said pick you up at 545</body>
+    </message>
+    <message id="m0004" time="2014-12-17 19:50:41 UTC" participant="153900">
+      <body>Just come right to the doors on 9th street</body>
+    </message>
+    <message id="m0005" time="2014-12-17 22:32:41 UTC" participant="153900">
+      <body>Let me know when you are outside</body>
+    </message>
+    <message id="m0006" time="2014-12-17 22:47:24 UTC" participant="153244">
+      <body>Ok... im on my way</body>
+    </message>
+    <message id="m0007" time="2014-12-18 03:17:05 UTC" participant="153900">
+      <body>Before you buy a book for Michael let me know</body>
+    </message>
+  </messages>
+</conversation>
+

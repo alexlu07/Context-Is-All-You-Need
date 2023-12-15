@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-25 19:09:28 UTC">
+      <body>Maybe bring uncle Steven my cd player in the basement? </body>
+    </message>
+    <message id="m0001" participant="131528" time="2013-05-26 16:24:56 UTC">
+      <body>Bring the netbook and don't forget Stephen's dunkin donuts</body>
+    </message>
+    <message id="m0002" participant="131585" time="2013-05-26 16:51:39 UTC">
+      <body>Are you not coming back?</body>
+    </message>
+    <message id="m0003" participant="131528" time="2013-05-26 16:52:23 UTC">
+      <body>Nope, on my way to jh</body>
+    </message>
+    <message id="m0004" participant="131585" time="2013-05-26 16:52:41 UTC">
+      <body>Mom?</body>
+    </message>
+    <message id="m0005" participant="131528" time="2013-05-26 17:46:13 UTC">
+      <body>We are here. Did mom get back yet. </body>
+    </message>
+    <message id="m0006" participant="131585" time="2013-05-26 17:50:05 UTC">
+      <body>Heading towards 95</body>
+    </message>
+  </messages>
+</conversation>

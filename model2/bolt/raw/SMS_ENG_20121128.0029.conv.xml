@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136274" time="2012-11-28 02:48:32 UTC">
+      <body>Power walk sometime this week? </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-28 04:26:21 UTC">
+      <body>Yes! Sounds good. Weds and fri are best for me</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-28 19:10:58 UTC">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0003" participant="136274" time="2012-11-28 19:16:16 UTC">
+      <body>Already ate!</body>
+    </message>
+  </messages>
+</conversation>

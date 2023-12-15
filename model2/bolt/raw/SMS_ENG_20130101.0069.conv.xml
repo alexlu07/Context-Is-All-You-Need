@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130101.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-01 19:16:16 UTC" participant="152420">
+      <body>Dobra 2 nite see u?</body>
+    </message>
+    <message id="m0001" time="2013-01-01 19:51:43 UTC" participant="152417">
+      <body>Yep, chris will be there too</body>
+    </message>
+    <message id="m0002" time="2013-01-01 21:31:51 UTC" participant="152420">
+      <body>I'll bring drums</body>
+    </message>
+  </messages>
+</conversation>
+

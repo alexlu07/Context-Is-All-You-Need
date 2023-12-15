@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121115.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2012-11-15 16:35:09 UTC">
+      <body>Left side?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-15 16:36:07 UTC">
+      <body>K! We are coming</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-16 06:55:42 UTC">
+      <body>Would you be interested in food at 11?</body>
+    </message>
+    <message id="m0003" participant="135274" time="2012-11-16 07:22:25 UTC">
+      <body>I would, but I'm meeting with jen at 11.  I don't think it will take too long, hopefully i can catch the end of your lunch. </body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-17 02:18:44 UTC">
+      <body>Awesome show!! :D</body>
+    </message>
+  </messages>
+</conversation>

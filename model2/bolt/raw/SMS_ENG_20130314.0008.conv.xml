@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130314.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130948" time="2013-04-04 21:34:13 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="130948" time="2013-04-04 22:04:23 UTC">
+      <body>50th and Baltimore, well, just south of Baltimore on 50th.</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-04-04 22:05:40 UTC">
+      <body>Nice! Where's it at?</body>
+    </message>
+    <message id="m0004" participant="130755" time="2013-04-04 23:19:40 UTC">
+      <body>Sweet</body>
+    </message>
+  </messages>
+</conversation>

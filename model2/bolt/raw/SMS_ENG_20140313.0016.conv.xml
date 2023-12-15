@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 15:02:08 UTC" participant="153585">
+      <body>Hi hunter! It's amanda.  are you still interested in selling that tent? If its still available, i'd love to pick it up in the next few days :)</body>
+    </message>
+    <message id="m0001" time="2014-03-13 22:24:45 UTC" participant="153547">
+      <body>I think I still have it but I'm only available on the weekend</body>
+    </message>
+    <message id="m0002" time="2014-03-13 22:27:56 UTC" participant="153585">
+      <body>Awesomeeee. Is sunday ok?</body>
+    </message>
+    <message id="m0003" time="2014-03-13 22:36:16 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-13 22:01:22 UTC">
+      <body>Hey Charles, very dark over at front st. All the lighting on 1st floor is out.</body>
+    </message>
+    <message id="m0001" participant="130858" time="2013-06-13 22:22:11 UTC">
+      <body>I heard
+On it </body>
+    </message>
+    <message id="m0002" participant="130858" time="2013-06-13 22:22:12 UTC">
+      <body>Thx</body>
+    </message>
+  </messages>
+</conversation>

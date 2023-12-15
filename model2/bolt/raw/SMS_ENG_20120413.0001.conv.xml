@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120413.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131307" time="2012-04-13 19:48:32 UTC">
+      <body>I'm home what's good tonight</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-13 19:51:54 UTC">
+      <body>Not sure, haven't heard from anyone yet</body>
+    </message>
+    <message id="m0002" participant="131307" time="2012-04-14 16:51:10 UTC">
+      <body>BBQ today?</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-14 16:51:58 UTC">
+      <body>Maybe later, I got a bunch of stuff to do during the day</body>
+    </message>
+  </messages>
+</conversation>

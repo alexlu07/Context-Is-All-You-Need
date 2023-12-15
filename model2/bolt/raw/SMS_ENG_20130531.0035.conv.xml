@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-31 17:19:23 UTC">
+      <body>Yo! So what's the official word on the Barnes bbq?</body>
+    </message>
+    <message id="m0001" participant="131973" time="2013-05-31 17:31:20 UTC">
+      <body>Its on the 23rd in west philly - for reals! More details to come...</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-31 18:08:49 UTC">
+      <body>Ok cool. And we're playing a house party in west Philly tomorrow night if you're free!!</body>
+    </message>
+    <message id="m0003" participant="131973" time="2013-05-31 18:10:07 UTC">
+      <body>Damn I be in nyc! One day the star will align...</body>
+    </message>
+  </messages>
+</conversation>

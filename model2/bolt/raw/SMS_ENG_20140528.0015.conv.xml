@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140528.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-28 12:38:26 UTC" participant="152116">
+      <body>Did you tell Steph about me moving out?</body>
+    </message>
+    <message id="m0001" time="2014-05-28 12:40:14 UTC" participant="153244">
+      <body>No.. is that you coming in?</body>
+    </message>
+    <message id="m0002" time="2014-05-28 12:46:45 UTC" participant="153244">
+      <body>Nevermind.  Was Steph. I've been home sick yesterday and today with a 24 hr stomach bug. I wouldn't wish that on my worst enemy... ill talk to her when she gets home from work tonight</body>
+    </message>
+    <message id="m0003" time="2014-05-28 12:47:59 UTC" participant="152116">
+      <body>Oh well I hope you feel better. You don't have to. I was just wondering. I can tell her</body>
+    </message>
+  </messages>
+</conversation>
+

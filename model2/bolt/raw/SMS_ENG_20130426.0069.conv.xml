@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-26 16:26:32 UTC" participant="149306">
+      <body>What is your textpenn username so I can add you?</body>
+    </message>
+    <message id="m0001" time="2013-04-26 17:19:51 UTC" participant="149363">
+      <body>Edward. Although my account is getting an error message, so I don't know what's up with it.</body>
+    </message>
+    <message id="m0002" time="2013-04-26 17:21:59 UTC" participant="149306">
+      <body>Yeah I couldn't add Edward </body>
+    </message>
+    <message id="m0003" time="2013-04-26 17:22:37 UTC" participant="149363">
+      <body>Yeah, prob still messed up.</body>
+    </message>
+  </messages>
+</conversation>
+

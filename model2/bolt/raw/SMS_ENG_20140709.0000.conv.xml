@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140709.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-09 16:16:14 UTC" participant="149360">
+      <body>Happy birthday!</body>
+    </message>
+    <message id="m0001" time="2014-07-09 16:17:44 UTC" participant="149306">
+      <body>Thanks man </body>
+    </message>
+    <message id="m0002" time="2014-07-09 16:18:40 UTC" participant="149360">
+      <body>I'll split a ribeye with u for dinner if you don't have other plans</body>
+    </message>
+    <message id="m0003" time="2014-07-09 16:22:28 UTC" participant="149306">
+      <body>Thanks but My stomach is really fucked up, pretty much just been in bed and the bathroom. I may be able to eat a few bites but it may be better to put off a day or two</body>
+    </message>
+  </messages>
+</conversation>
+

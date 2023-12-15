@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 17:49:56 UTC" participant="153900">
+      <body>What time are you coming over tonight</body>
+    </message>
+    <message id="m0001" time="2014-10-20 17:51:04 UTC" participant="153244">
+      <body>About 730</body>
+    </message>
+    <message id="m0002" time="2014-10-20 17:53:19 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-10-20 18:15:06 UTC" participant="153900">
+      <body>So I order something for dad it cost 150 for xmas do you want to chip in</body>
+    </message>
+    <message id="m0004" time="2014-10-20 18:16:03 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-10-21 02:55:56 UTC" participant="153900">
+      <body>They are funny</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130118.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133056" time="2013-01-18 14:16:58 UTC">
+      <body>￼THIS IS AMAZING</body>
+    </message>
+    <message id="m0001" participant="133302" time="2013-01-18 14:36:48 UTC">
+      <body>Half sorry about that:)</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-01-18 14:38:36 UTC">
+      <body>Half forgiven </body>
+    </message>
+    <message id="m0003" participant="133302" time="2013-01-18 14:39:39 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

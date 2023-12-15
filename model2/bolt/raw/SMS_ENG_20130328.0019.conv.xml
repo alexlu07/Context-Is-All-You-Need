@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-28 23:03:27 UTC">
+      <body>where's a good place to park?</body>
+    </message>
+    <message id="m0001" participant="131382" time="2013-03-28 23:04:17 UTC">
+      <body>Any guest spot by pool I will come out </body>
+    </message>
+  </messages>
+</conversation>

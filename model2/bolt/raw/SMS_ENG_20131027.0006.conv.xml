@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131027.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-27 16:26:46 UTC" participant="153548">
+      <body>4:30 a good time for you?</body>
+    </message>
+    <message id="m0001" time="2013-10-27 17:10:24 UTC" participant="153640">
+      <body>Sure. U riding or walking?</body>
+    </message>
+    <message id="m0002" time="2013-10-27 17:12:01 UTC" participant="153548">
+      <body>I'll have my bike. </body>
+    </message>
+    <message id="m0003" time="2013-10-27 17:12:15 UTC" participant="153640">
+      <body>Cool. </body>
+    </message>
+    <message id="m0004" time="2013-10-27 20:31:46 UTC" participant="153548">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>
+

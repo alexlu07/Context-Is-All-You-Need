@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140930.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-30 19:41:23 UTC" participant="152570">
+      <body>Back to 3pm tomorrow? Clarinet time yet? We can do whatever you want, instrument-wise. Not worried about your sax playing!</body>
+    </message>
+    <message id="m0001" time="2014-09-30 19:44:00 UTC" participant="152570">
+      <body>That's cool</body>
+    </message>
+    <message id="m0002" time="2014-09-30 19:44:26 UTC" participant="152417">
+      <body> O shoot, I forgot we're at 3 and just scheduled a meeting at 315, can we do 11 again?  And yep clarinet</body>
+    </message>
+    <message id="m0003" time="2014-09-30 19:44:53 UTC" participant="152570">
+      <body>Might have to find a room, but shouldn't be a big problem</body>
+    </message>
+    <message id="m0004" time="2014-09-30 19:46:08 UTC" participant="152570">
+      <body>No sweat</body>
+    </message>
+    <message id="m0005" time="2014-09-30 19:46:27 UTC" participant="152417">
+      <body>Cool, thanks for being flexible!</body>
+    </message>
+    <message id="m0006" time="2014-10-01 14:38:51 UTC" participant="152417">
+      <body>I'm in 715</body>
+    </message>
+    <message id="m0007" time="2014-10-01 14:38:56 UTC" participant="152570">
+      <body>Ok cool. Almost to campus. Coffee needed. </body>
+    </message>
+  </messages>
+</conversation>
+

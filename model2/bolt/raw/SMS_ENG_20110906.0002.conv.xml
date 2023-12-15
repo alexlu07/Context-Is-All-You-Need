@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110906.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-09-06 19:24:10 UTC">
+      <body>Can I have people stay in the room tonight?</body>
+    </message>
+    <message id="m0001" participant="131822" time="2011-09-06 19:25:23 UTC">
+      <body>How many and where do you want to put them? Tim is moving stuff in today so their room prob#s won't work but dunno. Tim also said he might get a couch btw</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-09-06 19:25:56 UTC">
+      <body>The futon and stuffs. That's cool. Will it be in the common room?</body>
+    </message>
+    <message id="m0003" participant="131822" time="2011-09-06 19:26:42 UTC">
+      <body>Think so?</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-09-06 19:27:17 UTC">
+      <body>Is there still a metric ton of junk therein?</body>
+    </message>
+    <message id="m0005" participant="131822" time="2011-09-06 19:35:36 UTC">
+      <body>It's decreased since Cynthia took her stuff</body>
+    </message>
+    <message id="m0006" participant="131821" time="2011-09-06 19:35:49 UTC">
+      <body>Ohh what a relief</body>
+    </message>
+    <message id="m0007" participant="131821" time="2011-09-07 01:24:16 UTC">
+      <body>Are you in the room?</body>
+    </message>
+    <message id="m0008" participant="131822" time="2011-09-07 01:24:43 UTC">
+      <body>Kinda I'm in the study</body>
+    </message>
+    <message id="m0009" participant="131821" time="2011-09-07 01:25:17 UTC">
+      <body>Okay cool so you can queue me up in the elevator in like 30 minutes</body>
+    </message>
+  </messages>
+</conversation>

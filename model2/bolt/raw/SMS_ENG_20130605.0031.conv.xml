@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132343" time="2013-06-05 16:43:59 UTC">
+      <body>Just saw news about collapsed building in philly.  Just checking to be sure you and kennedy are ok.  Please let us know.  Thanks
+aunt karla</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-05 17:10:27 UTC">
+      <body>We are fine, thanks for checking. Awful though, it was an apartment and a store.</body>
+    </message>
+    <message id="m0002" participant="132343" time="2013-06-05 17:16:31 UTC">
+      <body>Thanks for letting me know. Hope you guys are doing good.  When are you coming home?</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-06-05 17:29:36 UTC">
+      <body>We're doin well. How are the Burtons? I'm planning on August 19th - 23rd</body>
+    </message>
+    <message id="m0004" participant="132343" time="2013-06-05 17:31:14 UTC">
+      <body>We are keeping busy.  See you soon.</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-05 17:31:58 UTC">
+      <body>Will do. Love you</body>
+    </message>
+    <message id="m0006" participant="132343" time="2013-06-05 17:32:42 UTC">
+      <body>Love you too.</body>
+    </message>
+  </messages>
+</conversation>

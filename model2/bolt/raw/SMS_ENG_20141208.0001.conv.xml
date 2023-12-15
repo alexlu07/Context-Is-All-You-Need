@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141208.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-08 16:41:49 UTC" participant="152115">
+      <body>Nooo!  She did that to herself?!</body>
+    </message>
+    <message id="m0001" time="2014-12-08 16:42:51 UTC" participant="152121">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" time="2014-12-08 16:46:32 UTC" participant="152115">
+      <body>Is she fine with it? She doesn't look upset.</body>
+    </message>
+    <message id="m0003" time="2014-12-08 17:16:01 UTC" participant="152121">
+      <body>Yes it's now being cut at the store</body>
+    </message>
+    <message id="m0004" time="2014-12-08 18:12:57 UTC" participant="152115">
+      <body>Oh man. I'm sad. But as long as she's fine I guess it's ok. Haha.</body>
+    </message>
+  </messages>
+</conversation>
+

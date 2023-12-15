@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-07-08 21:34:05 UTC">
+      <body>Hello again kelvin. Should I call you kelvin or Kevin?</body>
+    </message>
+    <message id="m0001" participant="130748" time="2013-07-09 00:04:24 UTC">
+      <body>Kevin is fine since it is my name :-)</body>
+    </message>
+  </messages>
+</conversation>

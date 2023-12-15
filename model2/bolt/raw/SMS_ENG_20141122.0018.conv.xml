@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141122.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-22 23:15:59 UTC" participant="152123">
+      <body>Hey. Any word?</body>
+    </message>
+    <message id="m0001" time="2014-11-22 23:20:26 UTC" participant="153244">
+      <body>Im about to shower now,  then her. Going to la fusion</body>
+    </message>
+    <message id="m0002" time="2014-11-22 23:20:38 UTC" participant="152123">
+      <body>Cool. </body>
+    </message>
+    <message id="m0003" time="2014-11-22 23:20:58 UTC" participant="153244">
+      <body>Sorry she even kept bugging me to text you but I wasnt near my phone</body>
+    </message>
+    <message id="m0004" time="2014-11-22 23:21:23 UTC" participant="153244">
+      <body>Aiming for 8, is that good?</body>
+    </message>
+    <message id="m0005" time="2014-11-22 23:21:48 UTC" participant="152123">
+      <body>That works. Can I come early? 7ish?</body>
+    </message>
+    <message id="m0006" time="2014-11-23 00:25:57 UTC" participant="152123">
+      <body>Is it cool if I head over?</body>
+    </message>
+    <message id="m0007" time="2014-11-23 00:32:23 UTC" participant="153244">
+      <body>Yeav that's fine</body>
+    </message>
+    <message id="m0008" time="2014-11-23 03:08:16 UTC" participant="152123">
+      <body>I accidentally left the pad Thai somewhere in your house. Think it's in the porch. You can toss it</body>
+    </message>
+  </messages>
+</conversation>
+

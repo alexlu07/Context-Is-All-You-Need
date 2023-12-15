@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 12:48:05 UTC" participant="153417">
+      <body>We're leaving now</body>
+    </message>
+    <message id="m0001" time="2015-01-09 21:41:02 UTC" participant="153421">
+      <body>Chris are you got there okay ?</body>
+    </message>
+    <message id="m0002" time="2015-01-09 23:41:42 UTC" participant="153417">
+      <body>We're almost there. The phone reception is really bad. I'll try calling you when I get there.</body>
+    </message>
+    <message id="m0003" time="2015-01-09 23:42:17 UTC" participant="153421">
+      <body> Okay</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140718.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-18 15:30:00 UTC" participant="154352">
+      <body>How's the trip going?</body>
+    </message>
+    <message id="m0001" time="2014-07-18 15:31:12 UTC" participant="154390">
+      <body>Alright, pretty smooth sailing so far. In Connecticut now :-)</body>
+    </message>
+  </messages>
+</conversation>
+

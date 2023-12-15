@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134301" time="2013-04-04 20:26:24 UTC">
+      <body>Wings tonight</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-04-04 20:31:02 UTC">
+      <body>Not tonight.  Sorry </body>
+    </message>
+    <message id="m0002" participant="134301" time="2013-04-04 20:34:36 UTC">
+      <body>Ol</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140223.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-23 15:54:52 UTC" participant="152417">
+      <body>Hey Jessie, sorry i havent gotten back to you yet.  Ill be at the flynn for rehearsals from 2-830 today if you're able to stop by to drop off the file</body>
+    </message>
+    <message id="m0001" time="2014-02-23 16:14:53 UTC" participant="152526">
+      <body>Do you have a thumb drive?</body>
+    </message>
+    <message id="m0002" time="2014-02-23 16:16:54 UTC" participant="152417">
+      <body>Yea</body>
+    </message>
+    <message id="m0003" time="2014-02-23 16:25:36 UTC" participant="152526">
+      <body>Ok. I'm not sure what time I'll get there. I'll text when I know. I'll swing through burlington on my way back to school. </body>
+    </message>
+    <message id="m0004" time="2014-02-23 16:31:08 UTC" participant="152417">
+      <body>Great, thank ya!</body>
+    </message>
+    <message id="m0005" time="2014-02-23 22:02:40 UTC" participant="152526">
+      <body>Hey. Headed there now. Be there in 10 mins</body>
+    </message>
+  </messages>
+</conversation>
+

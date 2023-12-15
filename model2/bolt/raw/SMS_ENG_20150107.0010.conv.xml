@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 21:06:17 UTC" participant="153548">
+      <body>I'm here! I went down to baggage claim</body>
+    </message>
+    <message id="m0001" time="2015-01-07 21:11:28 UTC" participant="153634">
+      <body>almost there</body>
+    </message>
+    <message id="m0002" time="2015-01-07 21:15:05 UTC" participant="153634">
+      <body>here! farthest lane</body>
+    </message>
+  </messages>
+</conversation>
+

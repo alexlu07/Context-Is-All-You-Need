@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120113.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135136" time="2012-01-13 20:55:19 UTC">
+      <body>Let's hang before the show!!!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-01-13 21:00:22 UTC">
+      <body>Im seeing a show beforehand! We'll have to how see how the timing works out... Or you should could to the Japan society to see the show at 8!!!!!!</body>
+    </message>
+    <message id="m0002" participant="135136" time="2012-01-14 00:45:39 UTC">
+      <body>Heyo. Meet ya after your japan show.  Where is it?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-01-14 01:12:56 UTC">
+      <body>The show is at Japan society the other show is at Here</body>
+    </message>
+    <message id="m0004" participant="135136" time="2012-01-14 01:23:21 UTC">
+      <body>I thought it was at the public. Where's here?</body>
+    </message>
+    <message id="m0005" participant="135136" time="2012-01-14 01:28:49 UTC">
+      <body>Figured it out!  Text me when the japanese are through with you! </body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-01-14 02:25:11 UTC">
+      <body>They're through! On our way :)</body>
+    </message>
+    <message id="m0007" participant="135136" time="2012-01-14 02:29:39 UTC">
+      <body>To here?</body>
+    </message>
+    <message id="m0008" participant="131839" time="2012-01-14 02:34:43 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0009" participant="131839" time="2012-01-14 03:10:59 UTC">
+      <body>Where you at?</body>
+    </message>
+  </messages>
+</conversation>

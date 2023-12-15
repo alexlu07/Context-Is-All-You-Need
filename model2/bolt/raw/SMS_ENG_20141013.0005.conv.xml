@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141013.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-13 03:59:46 UTC" participant="153491">
+      <body>I am so tired!</body>
+    </message>
+    <message id="m0001" time="2014-10-13 03:59:51 UTC" participant="153491">
+      <body>Need a nap.</body>
+    </message>
+    <message id="m0002" time="2014-10-13 04:26:28 UTC" participant="153543">
+      <body>No time? Power nap. </body>
+    </message>
+    <message id="m0003" time="2014-10-13 11:25:45 UTC" participant="153491">
+      <body>Took one. Woke around 3:30 and got a move on things. They left :( </body>
+    </message>
+    <message id="m0004" time="2014-10-13 11:26:02 UTC" participant="153491">
+      <body>When are you leaving?</body>
+    </message>
+    <message id="m0005" time="2014-10-13 16:27:44 UTC" participant="153543">
+      <body>Aw man, feels like they were just here.  I will be leaving around 7pm eastern time</body>
+    </message>
+    <message id="m0006" time="2014-10-13 22:44:10 UTC" participant="153491">
+      <body>Yea, that visit went by fast. Excited or sad to leave?</body>
+    </message>
+  </messages>
+</conversation>
+

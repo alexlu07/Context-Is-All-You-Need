@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121021.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-21 20:23:32 UTC">
+      <body>10 minutes sound good to you</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-21 20:23:55 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135434" time="2012-10-21 20:24:32 UTC">
+      <body>Can we do 5?</body>
+    </message>
+    <message id="m0003" participant="135434" time="2012-10-21 20:28:48 UTC">
+      <body>5pm</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-21 20:29:15 UTC">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-21 20:29:26 UTC">
+      <body>I thou u meant five minutes heehee</body>
+    </message>
+    <message id="m0006" participant="135434" time="2012-10-21 20:56:32 UTC">
+      <body>5:30pm sorry!</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-10-21 21:00:17 UTC">
+      <body>You call me when your ready I'm flexible.  Send me your email I'll email you my questions as well</body>
+    </message>
+    <message id="m0009" participant="135434" time="2012-10-21 21:43:28 UTC">
+      <body>On Skype</body>
+    </message>
+    <message id="m0011" participant="135434" time="2012-10-21 21:49:52 UTC">
+      <body>Working ok?</body>
+    </message>
+    <message id="m0012" participant="130622" time="2012-10-21 21:50:08 UTC">
+      <body>Ringing </body>
+    </message>
+  </messages>
+</conversation>

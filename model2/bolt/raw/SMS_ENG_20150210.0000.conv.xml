@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150210.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-10 20:55:02 UTC" participant="152117">
+      <body>Hey chicken, trying to figure out what to make for dinner, are you working tomorrow. Let me know. love you, mom</body>
+    </message>
+    <message id="m0001" time="2015-02-10 20:57:09 UTC" participant="152115">
+      <body>Not working tomorrow.</body>
+    </message>
+    <message id="m0002" time="2015-02-10 20:58:31 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2015-02-10 21:07:31 UTC" participant="152117">
+      <body>Would  you and Michael eat bowties and cottage cheese?</body>
+    </message>
+    <message id="m0004" time="2015-02-10 21:08:01 UTC" participant="152115">
+      <body>I guess.</body>
+    </message>
+    <message id="m0005" time="2015-02-10 21:08:21 UTC" participant="152115">
+      <body>It's fine. I have chicken dip to eat afterwards.</body>
+    </message>
+    <message id="m0006" time="2015-02-10 21:08:32 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

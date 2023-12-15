@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150405.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-05 14:10:05 UTC" participant="153548">
+      <body>Eileen! I have champagne but do you need me to grab anything else for brunch?</body>
+    </message>
+    <message id="m0001" time="2015-04-05 14:21:52 UTC" participant="153655">
+      <body>No I think we are good! See you soon!</body>
+    </message>
+    <message id="m0002" time="2015-04-05 15:16:35 UTC" participant="153548">
+      <body>I think I'm  here! 803?</body>
+    </message>
+  </messages>
+</conversation>
+

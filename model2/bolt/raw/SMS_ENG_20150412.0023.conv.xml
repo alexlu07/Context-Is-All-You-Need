@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 12:52:17 UTC" participant="153804">
+      <body>Can U save me Almay coupon if your not going to use it?</body>
+    </message>
+    <message id="m0001" time="2015-04-12 12:54:05 UTC" participant="153815">
+      <body>Yes I will save it for you!</body>
+    </message>
+    <message id="m0002" time="2015-04-12 12:54:46 UTC" participant="153804">
+      <body>Thank U!</body>
+    </message>
+    <message id="m0003" time="2015-04-12 13:33:42 UTC" participant="153815">
+      <body>Can't find Almay coupon. Is it in the coupon flyers?</body>
+    </message>
+    <message id="m0004" time="2015-04-12 13:34:55 UTC" participant="153804">
+      <body>Suppose to be,don't bother to keep looking</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-08 23:03:57 UTC">
+      <body>Daniel it's Sofie.  Call my phone.  Amelia's is dead. </body>
+    </message>
+    <message id="m0001" participant="135483" time="2013-04-08 23:04:53 UTC">
+      <body>I'm in the ambulance. I'm fine and will call as soon as I can</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-08 23:08:17 UTC">
+      <body>Ok please do!!! </body>
+    </message>
+    <message id="m0003" participant="135483" time="2013-04-09 00:51:23 UTC">
+      <body>Did you try to call me just now?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-09 00:52:07 UTC">
+      <body>Accident   Any news? Did u reach Amelia?</body>
+    </message>
+    <message id="m0005" participant="135483" time="2013-04-09 00:56:56 UTC">
+      <body>Still at the hospital. Haven't heard from her yet</body>
+    </message>
+  </messages>
+</conversation>

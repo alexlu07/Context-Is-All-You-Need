@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-27 14:49:04 UTC" participant="153244">
+      <body>Hey Steph is on her way to get the truck now,  what time are you guys coming? </body>
+    </message>
+    <message id="m0001" time="2013-04-27 14:49:46 UTC" participant="152116">
+      <body>I'm on my way. Waiting for the train</body>
+    </message>
+    <message id="m0002" time="2013-04-27 14:54:04 UTC" participant="153244">
+      <body>Cool</body>
+    </message>
+    <message id="m0003" time="2013-04-27 15:09:58 UTC" participant="152116">
+      <body>Almost there. At Ellsworth federal. Is she back yet?</body>
+    </message>
+  </messages>
+</conversation>
+

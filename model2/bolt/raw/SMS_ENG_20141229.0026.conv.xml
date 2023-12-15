@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141229.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-29 20:35:57 UTC" participant="153244">
+      <body>Lol no you don't have to wrap them. But ill pick them up after work tonight! </body>
+    </message>
+    <message id="m0001" time="2014-12-29 20:36:29 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-12-29 20:55:26 UTC" participant="153244">
+      <body>I shOuld have a package coming this week</body>
+    </message>
+    <message id="m0003" time="2014-12-29 20:59:00 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

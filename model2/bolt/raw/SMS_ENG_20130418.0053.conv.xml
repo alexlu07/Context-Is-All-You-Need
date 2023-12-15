@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135469" time="2013-04-18 12:56:32 UTC">
+      <body>Running late 9:40 arrival</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-18 13:06:11 UTC">
+      <body>Ok ill be finishing up the paper. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-18 22:27:25 UTC">
+      <body>I forgot to come back!!￼</body>
+    </message>
+    <message id="m0003" participant="135469" time="2013-04-18 23:42:56 UTC">
+      <body>Come tomorrow if you want
+More time after 10 ish I have early meeting</body>
+    </message>
+  </messages>
+</conversation>

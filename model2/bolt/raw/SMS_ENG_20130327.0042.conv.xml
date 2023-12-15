@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-27 00:30:01 UTC">
+      <body>Hey! Ceasar... Just confirming that we are still on for tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135477" time="2013-03-27 00:31:07 UTC">
+      <body>Yes we are. My day had changed a lot. What times are you free</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-27 00:40:23 UTC">
+      <body>The best time for me is around 2, will you be at MIT?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-27 00:40:57 UTC">
+      <body>(I teach from 8 to one, then I have class from five onward..)</body>
+    </message>
+    <message id="m0004" participant="135477" time="2013-03-27 00:41:13 UTC">
+      <body>Yes. How are you coming</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-27 01:56:26 UTC">
+      <body>Ill take the t.  So ill get off at Kendall, unless there is something easier.  </body>
+    </message>
+    <message id="m0006" participant="135477" time="2013-03-27 01:57:13 UTC">
+      <body>Sounds good. I'll meet you there at 2</body>
+    </message>
+    <message id="m0007" participant="135477" time="2013-03-27 02:11:18 UTC">
+      <body>You must be home   Let me know</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-27 02:23:00 UTC">
+      <body>Sure. That sounds good.  Ill call you then. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141111.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-11 20:33:04 UTC" participant="149360">
+      <body> Can I use your truck tomorrow. I'll pay you</body>
+    </message>
+    <message id="m0001" time="2014-11-11 20:34:38 UTC" participant="149306">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

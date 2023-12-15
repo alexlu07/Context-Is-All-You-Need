@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0044" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-05-26 09:03:07 UTC">
+      <body>Hello Turklin. What's happening?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-26 09:55:06 UTC">
+      <body>Mr. Muffins! I'm almost fully recovered from a hang over. How are you?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-05-26 12:05:22 UTC">
+      <body>Haha! Was in the same boat around the same time. Forgot I signed up for this.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-05-26 12:05:54 UTC">
+      <body>My texts may be somewhat spread out. Distracted.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-05-26 16:02:21 UTC">
+      <body>Hang over working itself out?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-26 19:25:30 UTC">
+      <body>Oh yeah! How are you doing</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-05-26 19:26:44 UTC">
+      <body>Just finished running. Heading to Home Depot before it closes.</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-05-26 19:28:49 UTC">
+      <body>Did you participate in the initial conference call chat line?</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-05-26 19:51:10 UTC">
+      <body>No way. I must have missed out.</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-05-26 19:52:07 UTC">
+      <body>That was like a year ago.</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-05-26 19:54:26 UTC">
+      <body>It was cool, like 15 phone calls of 10 minutes, recorded, on random subjects.</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-05-26 19:54:52 UTC">
+      <body>Paid some guaranteed amount.</body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-05-26 19:57:22 UTC">
+      <body>Awesome</body>
+    </message>
+    <message id="m0013" participant="130622" time="2013-05-26 19:57:29 UTC">
+      <body>This is just raffle</body>
+    </message>
+    <message id="m0014" participant="130706" time="2013-05-26 19:58:28 UTC">
+      <body>Yeah, I know.</body>
+    </message>
+    <message id="m0015" participant="130706" time="2013-05-26 20:07:39 UTC">
+      <body>So what's the objective, just random chat? How'd you end up getting involved?</body>
+    </message>
+  </messages>
+</conversation>

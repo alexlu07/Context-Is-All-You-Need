@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140325.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-25 19:07:34 UTC" participant="153547">
+      <body>Will 3pm tmrw work for you?</body>
+    </message>
+    <message id="m0001" time="2014-03-25 19:07:44 UTC" participant="153584">
+      <body>Yes.</body>
+    </message>
+    <message id="m0002" time="2014-03-26 16:25:23 UTC" participant="153547">
+      <body>We're setting the tub</body>
+    </message>
+    <message id="m0003" time="2014-03-26 16:25:36 UTC" participant="153584">
+      <body>Ok. </body>
+    </message>
+  </messages>
+</conversation>
+

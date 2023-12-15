@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121224.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-24 21:55:25 UTC">
+      <body>Hey there! Merry Christmas Eve! </body>
+    </message>
+    <message id="m0001" participant="135263" time="2012-12-24 21:56:47 UTC">
+      <body>Hey Liza! Im going to be there from 26th-1st. Hows break treating you?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-24 21:58:50 UTC">
+      <body>Ok sweet </body>
+    </message>
+    <message id="m0003" participant="135263" time="2012-12-24 22:28:16 UTC">
+      <body>Haha good, sleep is v impt. I'm good! Enjoying Florida and absence of work. Am in church right now, but let's catch up later. Hope it's happy drama not bad drama</body>
+    </message>
+    <message id="m0004" participant="135263" time="2012-12-25 18:37:34 UTC">
+      <body>Merry Christmas Liza!! Hope you are having an awesome day</body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-12-25 19:25:19 UTC">
+      <body>You too! </body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-12-26 19:02:42 UTC">
+      <body>Hey there! Are you with Elise yet? Can I fill you in at some point? (Btw Elise doesn't know about it so don't say anything?) sorry to be cryptic...let me know when I can fill you in?</body>
+    </message>
+    <message id="m0007" participant="135263" time="2012-12-26 19:03:28 UTC">
+      <body>Hey, I'm on my way to the airport... My mom flight is before mine so I'll text you as soon as we part ways. Should be around 4:30. Does that work?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2012-12-26 19:04:39 UTC">
+      <body>Okay! That's after Anna gets here but it should be okay. </body>
+    </message>
+    <message id="m0009" participant="135263" time="2012-12-26 20:24:27 UTC">
+      <body>Just got to my terminal, phone now?</body>
+    </message>
+    <message id="m0010" participant="135263" time="2012-12-27 03:29:04 UTC">
+      <body>Blah?</body>
+    </message>
+  </messages>
+</conversation>

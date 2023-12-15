@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-01 00:27:10 UTC">
+      <body>Jawn picking up a lot of natural reverb or echo. Anyway to get that out</body>
+    </message>
+    <message id="m0001" participant="132534" time="2013-07-01 00:28:42 UTC">
+      <body>Maybe it's picking up bleed from the head phones? Not sure</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-01 00:30:00 UTC">
+      <body>hmm how do I listen to the beat then? Gotta put headphones into interface too?</body>
+    </message>
+    <message id="m0003" participant="132534" time="2013-07-01 00:32:19 UTC">
+      <body>Maybe - try recording something without any beat - see if you're getting that echo</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-01 00:33:55 UTC">
+      <body>Yeah good idea</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-07-01 00:34:22 UTC">
+      <body>I gotta get an adapter to put headphones directly into interface</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-07-01 00:43:34 UTC">
+      <body>def still just as bad with no beat :"&gt;</body>
+    </message>
+    <message id="m0007" participant="132534" time="2013-07-01 00:46:00 UTC">
+      <body>I'd have to look - you're starting off with a clean track, no built in effects? sometimes for example "male pop vocals" will automatically adjust reverb etc</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-07-01 00:50:40 UTC">
+      <body>Yeah that's what I did</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-07-01 00:51:06 UTC">
+      <body>I'm giving it a rest for now. I'll have to mess with it more later</body>
+    </message>
+  </messages>
+</conversation>

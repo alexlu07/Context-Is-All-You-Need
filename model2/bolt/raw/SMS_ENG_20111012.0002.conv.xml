@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111012.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135107" time="2011-10-12 03:42:58 UTC">
+      <body>Martha.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-10-12 10:28:26 UTC">
+      <body>Luke</body>
+    </message>
+    <message id="m0002" participant="135107" time="2011-10-12 13:10:20 UTC">
+      <body>Tell me about Philadelphia. </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-10-12 13:16:33 UTC">
+      <body>It's a lot to tell!</body>
+    </message>
+    <message id="m0004" participant="135107" time="2011-10-12 13:17:20 UTC">
+      <body>Call me on your lunch break</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-10-12 13:17:44 UTC">
+      <body>Can I call you after class instead?</body>
+    </message>
+    <message id="m0006" participant="135107" time="2011-10-12 13:18:21 UTC">
+      <body>Anytime that pleases you </body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-10-12 13:21:56 UTC">
+      <body>Keel</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-10-12 13:22:02 UTC">
+      <body>Or kewl</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-10-12 16:00:21 UTC">
+      <body>Hm???</body>
+    </message>
+    <message id="m0010" participant="135107" time="2011-10-12 16:02:32 UTC">
+      <body>Wait for it.</body>
+    </message>
+    <message id="m0011" participant="131839" time="2011-10-12 16:18:43 UTC">
+      <body>Am I waiting for something or to understand?</body>
+    </message>
+    <message id="m0012" participant="135107" time="2011-10-12 16:53:33 UTC">
+      <body>The Brill Building in New York city was a very famous songwriters/publishers building in the 50's and 60's where Carole King and Gerry Coffin and a plethora if others wrote many many hits.  The lyric I sent was from "Will you still love me tomorrow?". Written by Carole King while she worked at the Brill. :)</body>
+    </message>
+    <message id="m0013" participant="131839" time="2011-10-12 18:00:45 UTC">
+      <body>I had the lyric but I assumed the building was for somebody else???</body>
+    </message>
+  </messages>
+</conversation>

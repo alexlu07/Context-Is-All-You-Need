@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 22:52:17 UTC" participant="152417">
+      <body>I got a flat, can you reassign this?</body>
+    </message>
+    <message id="m0001" time="2014-12-09 22:52:31 UTC" participant="152590">
+      <body>Yep, I'll get someone else on it. Thanks</body>
+    </message>
+    <message id="m0002" time="2014-12-09 23:27:01 UTC" participant="152590">
+      <body>got you an order if you're ready to roll again</body>
+    </message>
+    <message id="m0003" time="2014-12-09 23:27:46 UTC" participant="152417">
+      <body>Yep, got my old bike out and ready.  Thx</body>
+    </message>
+    <message id="m0004" time="2014-12-09 23:27:55 UTC" participant="152590">
+      <body>awesome</body>
+    </message>
+    <message id="m0005" time="2014-12-09 23:44:34 UTC" participant="152590">
+      <body>got another one for you after this delivery is complete</body>
+    </message>
+    <message id="m0006" time="2014-12-10 00:28:31 UTC" participant="152590">
+      <body>got a good sized pickup for you at Davio's</body>
+    </message>
+    <message id="m0007" time="2014-12-10 01:02:20 UTC" participant="152417">
+      <body>Restaurant forgot one of the entrees and just put it in so im still waiting, this will most likely be on time but possibly a little late</body>
+    </message>
+    <message id="m0008" time="2014-12-10 01:02:57 UTC" participant="152590">
+      <body>Ok, thanks for the heads up and sorry for the long wait here. I'll update the customer if necessary</body>
+    </message>
+    <message id="m0009" time="2014-12-10 01:03:05 UTC" participant="152590">
+      <body>Did you catch the mistake?</body>
+    </message>
+    <message id="m0010" time="2014-12-10 01:03:23 UTC" participant="152417">
+      <body>Yep!</body>
+    </message>
+    <message id="m0011" time="2014-12-10 01:08:07 UTC" participant="152590">
+      <body>awesome. tacking a bonus onto your payout</body>
+    </message>
+    <message id="m0012" time="2014-12-10 01:22:55 UTC" participant="152590">
+      <body>awesome work on that one, delivered on time</body>
+    </message>
+    <message id="m0013" time="2014-12-10 01:23:03 UTC" participant="152590">
+      <body>davio's always takes forevver to make the food</body>
+    </message>
+    <message id="m0014" time="2014-12-10 01:34:02 UTC" participant="152417">
+      <body>Thanks, thats it for me for the night, thanks</body>
+    </message>
+    <message id="m0015" time="2014-12-10 01:34:15 UTC" participant="152590">
+      <body>no problem, thanks alot for coming in!</body>
+    </message>
+  </messages>
+</conversation>
+

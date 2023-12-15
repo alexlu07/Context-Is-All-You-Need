@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136298" time="2012-12-12 13:58:29 UTC">
+      <body>Hey willie,
+Can i send u a package...when do u leave for Ny?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-12 16:07:05 UTC">
+      <body>Haha sure you can! Did you get my address last time I sent it? I'm leaving on Saturday so maybe you should send it to my New York address, or wait until January. Also HAPPY BIRTHDAY!!!!!</body>
+    </message>
+    <message id="m0002" participant="136298" time="2012-12-12 16:51:42 UTC">
+      <body>Uh oh...it may arrive on Friday...hope you get it...its yummy</body>
+    </message>
+    <message id="m0003" participant="136298" time="2012-12-12 16:53:15 UTC">
+      <body>Thanjs for the bday wishes...safe trip home...miss you</body>
+    </message>
+  </messages>
+</conversation>

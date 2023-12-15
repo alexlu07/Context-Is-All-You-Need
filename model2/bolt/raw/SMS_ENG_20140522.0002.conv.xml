@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140522.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-22 17:10:24 UTC" participant="152472">
+      <body>Hey Gabi! Its Sila. When/where is rehearsal tonight for Anwar?</body>
+    </message>
+    <message id="m0001" time="2014-05-22 17:54:47 UTC" participant="152417">
+      <body>Its at the flynn dance studio, probably the upstairs one.  Im not sure about time, maybe 6 or 7</body>
+    </message>
+    <message id="m0002" time="2014-05-22 19:37:36 UTC" participant="152472">
+      <body>Ok lmk when you do, I can't get ahold of the guys :)</body>
+    </message>
+  </messages>
+</conversation>
+

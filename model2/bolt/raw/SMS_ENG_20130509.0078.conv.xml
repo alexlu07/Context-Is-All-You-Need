@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137258" time="2013-05-09 15:53:36 UTC">
+      <body>Did you read the new hyperbole and a half?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-09 17:13:58 UTC">
+      <body>I don't read that </body>
+    </message>
+    <message id="m0002" participant="137258" time="2013-05-09 19:05:56 UTC">
+      <body>It's about depression. It's good</body>
+    </message>
+    <message id="m0003" participant="137258" time="2013-05-09 22:37:18 UTC">
+      <body>What is your spirit color</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-09 22:39:35 UTC">
+      <body>Probably a deep purple? </body>
+    </message>
+    <message id="m0005" participant="137258" time="2013-05-09 22:40:10 UTC">
+      <body>I'm into that</body>
+    </message>
+  </messages>
+</conversation>

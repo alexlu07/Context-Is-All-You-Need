@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131053" time="2012-10-29 23:14:18 UTC">
+      <body>Hey love u ok?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-30 00:59:01 UTC">
+      <body>Yes, we are good, how are u?</body>
+    </message>
+    <message id="m0002" participant="131053" time="2012-10-30 00:59:34 UTC">
+      <body>Im fine</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-10-30 01:00:47 UTC">
+      <body>Good, I need to see u soon!</body>
+    </message>
+    <message id="m0004" participant="131053" time="2012-10-30 01:01:10 UTC">
+      <body>God meeee toooo</body>
+    </message>
+    <message id="m0005" participant="131053" time="2012-10-30 19:54:39 UTC">
+      <body>Do u happen to know maries address?</body>
+    </message>
+    <message id="m0006" participant="130664" time="2012-10-30 20:03:34 UTC">
+      <body>Nope sorry</body>
+    </message>
+    <message id="m0007" participant="131053" time="2012-10-30 20:06:09 UTC">
+      <body>Its kool!</body>
+    </message>
+  </messages>
+</conversation>

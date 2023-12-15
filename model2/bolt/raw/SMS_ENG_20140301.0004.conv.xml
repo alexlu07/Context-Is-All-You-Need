@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140301.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-01 14:12:50 UTC" participant="153548">
+      <body>Irit! I have to postpone our Saturday studio session til next week. So much to do before Julia arrives! </body>
+    </message>
+    <message id="m0001" time="2014-03-01 14:13:20 UTC" participant="153645">
+      <body>No problem! I look forward to it. Send some pictures of the shoot - and good luck! </body>
+    </message>
+    <message id="m0002" time="2014-03-01 14:14:48 UTC" participant="153548">
+      <body>Thanks! I will definitely do that. I'll see you next week!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120924.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-24 17:27:31 UTC">
+      <body>U still around. </body>
+    </message>
+    <message id="m0001" participant="135383" time="2012-09-24 18:39:35 UTC">
+      <body>No I am back home already</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-25 18:26:32 UTC">
+      <body>Where r u</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-25 18:26:49 UTC">
+      <body>Thanx!!! That one is my best friend</body>
+    </message>
+    <message id="m0004" participant="135383" time="2012-09-25 18:29:45 UTC">
+      <body>On my way home</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-09-25 18:31:42 UTC">
+      <body>Thank for complement</body>
+    </message>
+  </messages>
+</conversation>

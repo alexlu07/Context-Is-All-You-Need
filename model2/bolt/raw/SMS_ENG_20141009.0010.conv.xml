@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141009.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-09 21:18:19 UTC" participant="152374">
+      <body>I'm at #### and #############! </body>
+    </message>
+    <message id="m0001" time="2014-10-09 21:19:44 UTC" participant="153472">
+      <body>Ok! I'll be right out. </body>
+    </message>
+  </messages>
+</conversation>
+

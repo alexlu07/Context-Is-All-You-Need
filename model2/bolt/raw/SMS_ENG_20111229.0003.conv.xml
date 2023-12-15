@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111229.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-12-29 15:15:42 UTC">
+      <body>The procedure hasn't started yet. Still waiting. Hope the funeral goes well</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-29 15:43:23 UTC">
+      <body>I'm thinking of you and dad. Be at church at 1030 right?</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-12-29 15:46:00 UTC">
+      <body>Right! Or if you were me a little before : ,  love you</body>
+    </message>
+    <message id="m0003" participant="135103" time="2011-12-29 16:13:39 UTC">
+      <body>Dad just went in</body>
+    </message>
+    <message id="m0004" participant="135103" time="2011-12-29 17:55:07 UTC">
+      <body>Dad will need surgery. We'll meet with a surgeon this afternoon and be home tonight. Would you call nan a and papa and my mom? Tell them what i told you and that i'll call them later</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-12-29 17:56:20 UTC">
+      <body>Ok, I will. When is the surgery?</body>
+    </message>
+    <message id="m0006" participant="135103" time="2011-12-29 17:57:50 UTC">
+      <body>We won't know until after we meet the surgeon. How was the funeral?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-12-29 18:07:29 UTC">
+      <body>It was fine, Gary was nervous. What kind or surgery?</body>
+    </message>
+    <message id="m0008" participant="135103" time="2011-12-29 18:17:01 UTC">
+      <body>Bypass </body>
+    </message>
+  </messages>
+</conversation>

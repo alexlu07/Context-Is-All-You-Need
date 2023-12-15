@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140318.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-18 01:17:36 UTC" participant="154390">
+      <body>Did you find a picture you liked of yourself for the profile you were setting up?</body>
+    </message>
+    <message id="m0001" time="2014-03-18 01:20:07 UTC" participant="154390">
+      <body>Hm, we'll have to start taking more pictures! What profile is it for?</body>
+    </message>
+    <message id="m0002" time="2014-03-18 01:26:44 UTC" participant="154390">
+      <body>Cool! I forgot to mention on the phone that Mom wanted to get together soon, we were thinking maybe to meet in Baltimore Saturday. You free to join?</body>
+    </message>
+    <message id="m0003" time="2014-03-18 01:38:53 UTC" participant="154352">
+      <body>I don't think I can make it this weekend. What's the plan for Sat?</body>
+    </message>
+    <message id="m0004" time="2014-03-18 01:52:03 UTC" participant="154390">
+      <body>Mom heard of some festival ... Not sure, but may drive there for the day</body>
+    </message>
+  </messages>
+</conversation>
+

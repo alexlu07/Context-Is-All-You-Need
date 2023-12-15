@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121008.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-08 16:18:03 UTC">
+      <body>Lillian I missssss u!!!!</body>
+    </message>
+    <message id="m0001" participant="135436" time="2012-10-08 16:19:12 UTC">
+      <body>You in the studio today?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-08 16:19:21 UTC">
+      <body>Oh yeah!</body>
+    </message>
+    <message id="m0003" participant="135436" time="2012-10-08 16:22:12 UTC">
+      <body>I'll be there in an hour or two. i'm doing some housework and then heading over. see you soon!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-08 16:22:24 UTC">
+      <body>Great!!!!!! I can't wait </body>
+    </message>
+  </messages>
+</conversation>

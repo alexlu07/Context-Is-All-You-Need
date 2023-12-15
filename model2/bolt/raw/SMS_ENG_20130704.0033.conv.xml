@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130704.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-07-04 22:46:01 UTC">
+      <body>You're away for this weekend right? </body>
+    </message>
+    <message id="m0001" participant="136726" time="2013-07-04 23:14:59 UTC">
+      <body>I am</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-07-04 23:17:34 UTC">
+      <body>Okie Dokie Doggy Daddy!  Have fun without me......if that's even possible.</body>
+    </message>
+    <message id="m0003" participant="136726" time="2013-07-04 23:18:03 UTC">
+      <body>Haha, it will be hard for sure</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-07-04 23:18:58 UTC">
+      <body>Good luck.</body>
+    </message>
+  </messages>
+</conversation>

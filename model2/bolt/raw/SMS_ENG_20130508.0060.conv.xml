@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136378" time="2013-05-08 18:11:36 UTC">
+      <body>We're going out tonight, and you're obviously invited. I know you probably don't want to, but I figured I'd ask anyway.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-05-08 18:13:05 UTC">
+      <body>yeah, i'll be packing and sleeping furiously. thanks though! </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-09 03:49:37 UTC">
+      <body>are you by yourself? </body>
+    </message>
+    <message id="m0003" participant="136378" time="2013-05-09 03:50:15 UTC">
+      <body>Yes ma'am.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-05-09 03:50:23 UTC">
+      <body>phew </body>
+    </message>
+  </messages>
+</conversation>

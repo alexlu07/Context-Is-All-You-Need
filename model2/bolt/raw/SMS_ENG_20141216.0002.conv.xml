@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141216.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-16 03:13:43 UTC" participant="152417">
+      <body>Hello?</body>
+    </message>
+    <message id="m0001" time="2014-12-16 20:20:09 UTC" participant="152560">
+      <body>I think I'm going to hop on the 4:41 train, and I'll be at Suburban at 5:44.</body>
+    </message>
+    <message id="m0002" time="2014-12-16 20:27:53 UTC" participant="152417">
+      <body>Great.  I couldnt get a reservation until 830, but we could walk and grab a drink at Eulogy before dinner or play quizzo at Locust Bar</body>
+    </message>
+    <message id="m0003" time="2014-12-16 20:29:35 UTC" participant="152560">
+      <body>Cool. See you soon.</body>
+    </message>
+    <message id="m0004" time="2014-12-16 22:11:35 UTC" participant="152417">
+      <body>Are you getting off at market east(jefferson) or suburban?</body>
+    </message>
+    <message id="m0005" time="2014-12-16 22:12:30 UTC" participant="152560">
+      <body>Which one is closer?</body>
+    </message>
+    <message id="m0006" time="2014-12-16 22:13:48 UTC" participant="152417">
+      <body>Market east</body>
+    </message>
+    <message id="m0007" time="2014-12-16 22:14:54 UTC" participant="152560">
+      <body>Cool, I'll hop off there.</body>
+    </message>
+    <message id="m0008" time="2014-12-16 22:35:25 UTC" participant="152560">
+      <body>Hmmm-is Jefferson the same as Market East?</body>
+    </message>
+    <message id="m0009" time="2014-12-16 22:36:28 UTC" participant="152417">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

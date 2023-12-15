@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150401.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-01 21:41:20 UTC" participant="152770">
+      <body>Can I send an email tomorrow or Friday about a meeting? I am fried </body>
+    </message>
+    <message id="m0001" time="2015-04-01 21:50:32 UTC" participant="152735">
+      <body>Yeah! Soumya and I are remeasure ing the crane tomorrow to give Thom measurements for his large wall piece bc Kyle said he lost my maps/drawings </body>
+    </message>
+    <message id="m0002" time="2015-04-01 21:50:54 UTC" participant="152735">
+      <body>I told him and he said that was fine. He seems very nice.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131028.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-28 23:53:53 UTC" participant="153651">
+      <body>What time r y free? </body>
+    </message>
+    <message id="m0001" time="2013-10-28 23:54:07 UTC" participant="153548">
+      <body>I'm free now'</body>
+    </message>
+    <message id="m0002" time="2013-10-28 23:54:11 UTC" participant="153548">
+      <body>!</body>
+    </message>
+    <message id="m0003" time="2013-10-28 23:54:54 UTC" participant="153651">
+      <body>Skype or gchat?</body>
+    </message>
+    <message id="m0004" time="2013-10-28 23:55:01 UTC" participant="153548">
+      <body>Skype!</body>
+    </message>
+    <message id="m0005" time="2013-10-28 23:55:18 UTC" participant="153548">
+      <body>What's yr user name?</body>
+    </message>
+  </messages>
+</conversation>
+

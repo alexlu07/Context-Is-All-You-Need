@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141119.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-19 00:05:08 UTC" participant="152766">
+      <body>Hey Ingrid. What is your dog walking situation tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-11-19 00:06:16 UTC" participant="152735">
+      <body>Same thing! Done at 6. I can be at your place at 6:10? </body>
+    </message>
+    <message id="m0002" time="2014-11-19 00:06:39 UTC" participant="152735">
+      <body>Or, you can bring Kyle to me at Rittenhouse earlier?</body>
+    </message>
+    <message id="m0003" time="2014-11-19 00:06:53 UTC" participant="152735">
+      <body>And we can walk ruby together. Here was ruby today </body>
+    </message>
+    <message id="m0004" time="2014-11-19 00:07:08 UTC" participant="152735">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2014-11-19 00:10:40 UTC" participant="152766">
+      <body>Ok because of the cold 610 will be fine. We will leave the second you get here</body>
+    </message>
+    <message id="m0006" time="2014-11-19 00:10:40 UTC" participant="152766">
+      <body>Otherwise we would have brought him to you. It's just too cold!</body>
+    </message>
+    <message id="m0007" time="2014-11-19 00:23:37 UTC" participant="152735">
+      <body>Ok I will try to come ASAP! Maybe I can make it by 6!</body>
+    </message>
+    <message id="m0008" time="2014-11-19 00:23:40 UTC" participant="152735">
+      <body>Will def try </body>
+    </message>
+    <message id="m0009" time="2014-11-19 00:28:36 UTC" participant="152766">
+      <body>Sounds good but no pressure!</body>
+    </message>
+    <message id="m0010" time="2014-11-19 01:23:23 UTC" participant="152735">
+      <body/>
+    </message>
+    <message id="m0011" time="2014-11-19 23:09:16 UTC" participant="152735">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>
+

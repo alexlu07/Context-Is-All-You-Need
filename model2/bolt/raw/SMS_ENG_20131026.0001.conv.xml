@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131026.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-26 20:17:19 UTC" participant="149387">
+      <body>Hey. Just wondering what time you walked Zoe today?</body>
+    </message>
+    <message id="m0001" time="2013-10-26 20:44:09 UTC" participant="149306">
+      <body>12</body>
+    </message>
+    <message id="m0002" time="2013-10-26 20:56:32 UTC" participant="149387">
+      <body>Ok, thanks. Could I get the spare key back from you after you finish the lunch walk tomorrow? I'll be at Beau till 4. If you feel like it, we could grab a beer or something.</body>
+    </message>
+    <message id="m0003" time="2013-10-26 20:57:37 UTC" participant="149306">
+      <body>Yeah I'll drop it off after the walk</body>
+    </message>
+    <message id="m0004" time="2013-10-26 21:02:56 UTC" participant="149387">
+      <body>Ok, I don't have my phone on me when working, so if I don't see you outside, come in. What are you up to tonight?</body>
+    </message>
+    <message id="m0005" time="2013-10-26 21:05:33 UTC" participant="149306">
+      <body>Helping Daniel put out fires</body>
+    </message>
+    <message id="m0006" time="2013-10-26 21:09:50 UTC" participant="149387">
+      <body>Ah, we could smell the fire from next door. All is ok, I hope. </body>
+    </message>
+    <message id="m0007" time="2013-10-26 21:10:18 UTC" participant="149306">
+      <body>Minor fire</body>
+    </message>
+    <message id="m0008" time="2013-10-26 21:10:57 UTC" participant="149306">
+      <body>No one was injured and minimal property was damaged</body>
+    </message>
+    <message id="m0009" time="2013-10-26 21:12:14 UTC" participant="149387">
+      <body>Shit. Good that you guys are ok. If y'all need any help, let me know. </body>
+    </message>
+    <message id="m0010" time="2013-10-26 21:13:11 UTC" participant="149306">
+      <body>It's not serious we just have to do some clean up</body>
+    </message>
+    <message id="m0011" time="2013-10-26 21:19:15 UTC" participant="149387">
+      <body>Ok, cool. Say hi to D for me. See ya tomorrow. </body>
+    </message>
+    <message id="m0012" time="2013-10-27 19:58:56 UTC" participant="149387">
+      <body>You in the area? I have potatoes and avo salsa if you want 'em.</body>
+    </message>
+  </messages>
+</conversation>
+

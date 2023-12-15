@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-29 11:56:46 UTC">
+      <body>Be there in 10...this is dan</body>
+    </message>
+    <message id="m0001" participant="135633" time="2013-06-29 11:57:40 UTC">
+      <body>Take ur time Dan. Still waiting for train myself.</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-29 12:00:17 UTC">
+      <body>When will u be there</body>
+    </message>
+    <message id="m0003" participant="135633" time="2013-06-29 12:00:44 UTC">
+      <body>15 min</body>
+    </message>
+    <message id="m0004" participant="135633" time="2013-06-29 12:15:53 UTC">
+      <body>Arrived</body>
+    </message>
+    <message id="m0005" participant="135633" time="2013-06-30 11:53:16 UTC">
+      <body>Waiting for train. Be there ~8:15</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-30 12:00:59 UTC">
+      <body>ok</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-06-30 12:12:37 UTC">
+      <body>I'm here now</body>
+    </message>
+  </messages>
+</conversation>

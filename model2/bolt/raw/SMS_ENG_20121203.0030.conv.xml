@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121203.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136263" time="2012-12-03 05:28:32 UTC">
+      <body>I do. It's in luke's room. I'm not there but you can get it. Amin is there</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-03 05:28:52 UTC">
+      <body>Do you have any milk</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-03 20:12:10 UTC">
+      <body>Let's get dinner at like 6?</body>
+    </message>
+    <message id="m0003" participant="136263" time="2012-12-03 20:12:47 UTC">
+      <body>Sounds good :) </body>
+    </message>
+    <message id="m0004" participant="136263" time="2012-12-03 21:35:34 UTC">
+      <body>Tin drum with Elena and I?</body>
+    </message>
+    <message id="m0005" participant="136263" time="2012-12-03 22:53:52 UTC">
+      <body>Coming?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-12-03 22:55:29 UTC">
+      <body>Yes! Sorry I didn't respond earlier</body>
+    </message>
+    <message id="m0007" participant="136263" time="2012-12-03 22:55:51 UTC">
+      <body>Okay meet me in the parlour!</body>
+    </message>
+  </messages>
+</conversation>

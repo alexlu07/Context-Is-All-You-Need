@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120816.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-08-16 18:37:19 UTC">
+      <body>At Cupsogue/westhampton beach tonite! How's everything going?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-16 19:15:40 UTC">
+      <body>Great! Everything here is fine. We are leaving early tomorrow morning</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-08-16 19:16:35 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-08-17 14:41:38 UTC">
+      <body>What is ur ETA?</body>
+    </message>
+  </messages>
+</conversation>

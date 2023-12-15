@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-08 15:57:11 UTC">
+      <body>Hey mama.  Did you get my $300 check? Can you wait until next week to deposit it? I locked myself out of my apartment and had to pay a locksmith.</body>
+    </message>
+    <message id="m0001" participant="131588" time="2013-05-08 16:04:05 UTC">
+      <body>Whoa ur lucky. I didn't deposit it yet.  Yes I'll hold unto it :-*</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-08 16:04:36 UTC">
+      <body>Whew. Thank you.</body>
+    </message>
+  </messages>
+</conversation>

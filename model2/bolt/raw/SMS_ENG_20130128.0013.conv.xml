@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130128.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130941" time="2013-01-28 21:52:43 UTC">
+      <body>Give a call if you can. Im free!</body>
+    </message>
+    <message id="m0001" participant="130941" time="2013-02-07 14:43:04 UTC">
+      <body>Hey! What is trannys address? </body>
+    </message>
+    <message id="m0003" participant="130941" time="2013-02-07 21:19:00 UTC">
+      <body>Is there an internet thing at the space?</body>
+    </message>
+    <message id="m0004" participant="130941" time="2013-02-07 21:19:34 UTC">
+      <body>Sorry so many questions. I think jeremy is at work.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2013-02-28 00:42:47 UTC">
+      <body>We're coming! But running late.....still starting at 8?</body>
+    </message>
+    <message id="m0008" participant="130941" time="2013-02-28 00:59:33 UTC">
+      <body>We can wait! When will you be here!</body>
+    </message>
+    <message id="m0009" participant="130755" time="2013-02-28 01:01:42 UTC">
+      <body>Like, 8 minutes!</body>
+    </message>
+    <message id="m0010" participant="130941" time="2013-02-28 01:03:26 UTC">
+      <body>Great</body>
+    </message>
+  </messages>
+</conversation>

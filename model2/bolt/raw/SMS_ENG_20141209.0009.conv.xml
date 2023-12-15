@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 11:07:44 UTC" participant="153421">
+      <body>Chris  not working today </body>
+    </message>
+    <message id="m0001" time="2014-12-09 11:37:14 UTC" participant="153417">
+      <body>You're not working? Why not?</body>
+    </message>
+    <message id="m0002" time="2014-12-09 12:13:52 UTC" participant="153421">
+      <body>Hormones is going to fl tomorrow, so I'm off yesterday and today </body>
+    </message>
+    <message id="m0003" time="2014-12-09 13:06:49 UTC" participant="153417">
+      <body>Ohh okay</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111212.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2011-12-12 23:17:20 UTC">
+      <body>3 ba?</body>
+    </message>
+    <message id="m0002" participant="131019" time="2011-12-12 23:18:36 UTC">
+      <body>Yes. I gave the </body>
+    </message>
+    <message id="m0003" participant="131019" time="2011-12-12 23:18:52 UTC">
+      <body>Password to someone and hey went crazy watching too much surf</body>
+    </message>
+    <message id="m0004" participant="131019" time="2011-12-12 23:27:51 UTC">
+      <body>Okay.. Sorry? What's the problem with changing the password?</body>
+    </message>
+    <message id="m0005" participant="131064" time="2011-12-12 23:28:00 UTC">
+      <body>Dont do it anymore please. </body>
+    </message>
+    <message id="m0006" participant="131019" time="2011-12-12 23:30:05 UTC">
+      <body>Well it was Maddie I didn't think she would do it. Anyway don't forget ti put me on the insurance</body>
+    </message>
+    <message id="m0007" participant="131064" time="2011-12-12 23:30:08 UTC">
+      <body>No problem - just i dont feel like i should be sponsoring other kids entertainment. </body>
+    </message>
+    <message id="m0008" participant="131064" time="2011-12-12 23:30:08 UTC">
+      <body>Unless they are orphans. </body>
+    </message>
+  </messages>
+</conversation>

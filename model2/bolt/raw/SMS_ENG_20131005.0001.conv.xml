@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131005.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-05 21:36:40 UTC" participant="152504">
+      <body>Your on mon wed are u avail sat or sun?</body>
+    </message>
+    <message id="m0001" time="2013-10-06 17:12:08 UTC" participant="152417">
+      <body>Hey, sorry i missed this txt yesterday, ive got family stuff going on in philly so ill be away the next two weekends, so ill be on mon, wed this week and next</body>
+    </message>
+    <message id="m0002" time="2013-10-06 19:40:21 UTC" participant="152504">
+      <body>We have to switch to an employee model tomorrow. We need to have dri vers working a min 3 days a week. If you cant meet the min I hAve to ask you not to show up this week. Sorry man</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 21:09:20 UTC" participant="153423">
+      <body>Where would u like to go</body>
+    </message>
+    <message id="m0001" time="2014-11-29 21:10:08 UTC" participant="153417">
+      <body>Wherever you like</body>
+    </message>
+    <message id="m0002" time="2014-11-29 21:13:14 UTC" participant="153423">
+      <body>Have u been to Nordstrom rack or uniglow yet?</body>
+    </message>
+    <message id="m0003" time="2014-11-29 21:15:44 UTC" participant="153423">
+      <body>Is it nic</body>
+    </message>
+    <message id="m0004" time="2014-11-29 21:16:24 UTC" participant="153417">
+      <body>Yeah I went last weekend lol</body>
+    </message>
+    <message id="m0005" time="2014-11-29 21:17:40 UTC" participant="153417">
+      <body>The uniqlo is nice.. I wasn't too impressed with nordstr rack though</body>
+    </message>
+    <message id="m0006" time="2014-11-29 22:37:48 UTC" participant="153423">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0007" time="2014-11-29 22:38:04 UTC" participant="153423">
+      <body>Can we maybe walk around town? </body>
+    </message>
+    <message id="m0008" time="2014-11-29 22:38:21 UTC" participant="153417">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-07-08 13:56:53 UTC">
+      <body>Hi shorthair808!</body>
+    </message>
+    <message id="m0001" participant="134852" time="2013-07-08 14:08:12 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0002" participant="134852" time="2013-07-08 14:09:27 UTC">
+      <body>Hi otherdeb!</body>
+    </message>
+    <message id="m0003" participant="134852" time="2013-07-08 14:10:18 UTC">
+      <body>How are you this Monday?</body>
+    </message>
+    <message id="m0004" participant="130630" time="2013-07-08 15:51:46 UTC">
+      <body>Doing okay - trying to stay cool</body>
+    </message>
+    <message id="m0005" participant="130630" time="2013-07-08 15:51:46 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0006" participant="134852" time="2013-07-08 15:55:04 UTC">
+      <body>Same here. I'm trying to make it through the last week of my summer class.</body>
+    </message>
+    <message id="m0007" participant="134852" time="2013-07-08 15:55:19 UTC">
+      <body>Without going crazy, that is.</body>
+    </message>
+    <message id="m0008" participant="130630" time="2013-07-08 19:32:44 UTC">
+      <body>What are you taking?</body>
+    </message>
+    <message id="m0009" participant="134852" time="2013-07-08 19:43:00 UTC">
+      <body>Spanish. What are you doing for the summer?</body>
+    </message>
+    <message id="m0010" participant="130630" time="2013-07-08 19:44:59 UTC">
+      <body>I'm a freelance web content provider. Hopefully, working.</body>
+    </message>
+    <message id="m0011" participant="134852" time="2013-07-08 19:49:05 UTC">
+      <body>Oh, super. That sounds like more fun than summer Spanish class.</body>
+    </message>
+    <message id="m0012" participant="130630" time="2013-07-08 19:50:34 UTC">
+      <body>Don't know about fun, but it does pay the bills</body>
+    </message>
+  </messages>
+</conversation>

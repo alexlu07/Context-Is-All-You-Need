@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141011.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-11 11:59:42 UTC" participant="154902">
+      <body>Gm, Saren called out</body>
+    </message>
+    <message id="m0001" time="2014-10-11 12:00:54 UTC" participant="153244">
+      <body>Ok thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-01 16:27:56 UTC">
+      <body>So do you have your summers off?</body>
+    </message>
+    <message id="m0001" participant="135631" time="2013-07-01 16:32:56 UTC">
+      <body>For the most part. I'm teaching summer school and working for penn for a few days</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-01 16:35:45 UTC">
+      <body>Did summer school start today?</body>
+    </message>
+    <message id="m0003" participant="135631" time="2013-07-01 16:41:06 UTC">
+      <body>Nope I have this week off.</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-01 16:42:10 UTC">
+      <body>Nice doing anything fun?</body>
+    </message>
+  </messages>
+</conversation>

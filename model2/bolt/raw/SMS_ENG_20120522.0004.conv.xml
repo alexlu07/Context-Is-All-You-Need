@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120522.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-22 03:17:25 UTC">
+      <body>Talking points in psych?</body>
+    </message>
+    <message id="m0001" participant="136205" time="2012-05-22 03:17:58 UTC">
+      <body>You know it!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-22 03:18:23 UTC">
+      <body>H0LL@</body>
+    </message>
+    <message id="m0003" participant="136205" time="2012-05-22 03:19:24 UTC">
+      <body>We in there like swimwear</body>
+    </message>
+  </messages>
+</conversation>

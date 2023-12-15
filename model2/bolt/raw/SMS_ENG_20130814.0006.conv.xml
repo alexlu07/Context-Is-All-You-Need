@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130814.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-14 10:54:07 UTC" participant="152116">
+      <body>What time are you two done in the shower?</body>
+    </message>
+    <message id="m0001" time="2013-08-14 16:57:30 UTC" participant="152116">
+      <body>The interview went really well I think. I found out next week.</body>
+    </message>
+    <message id="m0002" time="2013-08-14 16:57:31 UTC" participant="152116">
+      <body>*find</body>
+    </message>
+    <message id="m0003" time="2013-08-14 17:18:29 UTC" participant="153244">
+      <body>Awesome!!!</body>
+    </message>
+  </messages>
+</conversation>
+

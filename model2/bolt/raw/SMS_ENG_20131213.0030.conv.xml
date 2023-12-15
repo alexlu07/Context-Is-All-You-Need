@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 16:24:19 UTC" participant="152374">
+      <body>If you're driving out to the murder mystery thing tonight, can I grab a ride with you?</body>
+    </message>
+    <message id="m0001" time="2013-12-13 16:24:56 UTC" participant="154093">
+      <body>Of course</body>
+    </message>
+    <message id="m0002" time="2013-12-13 16:25:17 UTC" participant="152374">
+      <body>Perfect! Thank you so much. When should I be ready to go?</body>
+    </message>
+    <message id="m0003" time="2013-12-13 16:25:37 UTC" participant="154093">
+      <body>About 7</body>
+    </message>
+    <message id="m0004" time="2013-12-13 16:26:02 UTC" participant="154093">
+      <body>I'll txt when going</body>
+    </message>
+    <message id="m0005" time="2013-12-13 16:26:16 UTC" participant="152374">
+      <body>Ok. Thanks :)</body>
+    </message>
+    <message id="m0006" time="2013-12-13 23:18:09 UTC" participant="154093">
+      <body>### offered to drive us, he'll let me know when he is on his way</body>
+    </message>
+    <message id="m0007" time="2013-12-14 00:04:04 UTC" participant="152374">
+      <body>I'm just going to take my own car, I'll see you there</body>
+    </message>
+    <message id="m0008" time="2013-12-14 00:04:45 UTC" participant="154093">
+      <body>Okay</body>
+    </message>
+    <message id="m0009" time="2013-12-14 00:05:06 UTC" participant="154093">
+      <body>You know what, I'll just drive</body>
+    </message>
+    <message id="m0010" time="2013-12-14 00:05:22 UTC" participant="154093">
+      <body>I'm ready to go anyway</body>
+    </message>
+    <message id="m0011" time="2013-12-14 00:06:40 UTC" participant="152374">
+      <body>Are you sure?</body>
+    </message>
+    <message id="m0012" time="2013-12-14 00:06:48 UTC" participant="152374">
+      <body>Where are you parked, I'll meet you</body>
+    </message>
+    <message id="m0013" time="2013-12-14 00:07:17 UTC" participant="154093">
+      <body>Down from my house</body>
+    </message>
+    <message id="m0014" time="2013-12-14 00:07:22 UTC" participant="152374">
+      <body>K, on my way</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-05-19 21:38:48 UTC">
+      <body>Hey Mom! Reminder: I'm busy tonight. When's good for you to talk?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2013-05-19 21:40:02 UTC">
+      <body>Tomorrow?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-05-19 21:41:06 UTC">
+      <body>Okay! 4? 4:30? 5?</body>
+    </message>
+    <message id="m0003" participant="131023" time="2013-05-19 21:42:17 UTC">
+      <body>4 is good. Talk to you tomorrow! Xo</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-05-19 21:43:54 UTC">
+      <body>See you then!</body>
+    </message>
+  </messages>
+</conversation>

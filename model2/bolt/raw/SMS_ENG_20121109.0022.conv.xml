@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-09 18:33:52 UTC">
+      <body>We meet at 430?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-09 18:34:10 UTC">
+      <body>Can you still meet?</body>
+    </message>
+    <message id="m0002" participant="135395" time="2012-11-09 21:11:28 UTC">
+      <body>I'm
+Parked</body>
+    </message>
+    <message id="m0003" participant="135395" time="2012-11-09 21:11:28 UTC">
+      <body>Coming at you now</body>
+    </message>
+    <message id="m0004" participant="135395" time="2012-11-09 21:11:28 UTC">
+      <body>Whee is that?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-09 21:12:38 UTC">
+      <body>Meet at Pete's</body>
+    </message>
+    <message id="m0006" participant="135395" time="2012-11-09 21:13:36 UTC">
+      <body>I'm where the geese were</body>
+    </message>
+  </messages>
+</conversation>

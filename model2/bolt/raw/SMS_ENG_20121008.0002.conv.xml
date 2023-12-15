@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121008.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131054" time="2012-10-08 11:48:42 UTC">
+      <body>I can see you today at 530 pm in west philly ok?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-08 18:04:21 UTC">
+      <body>Ok, I can do that</body>
+    </message>
+    <message id="m0002" participant="131054" time="2012-10-08 19:13:10 UTC">
+      <body>Ok see you then!</body>
+    </message>
+  </messages>
+</conversation>

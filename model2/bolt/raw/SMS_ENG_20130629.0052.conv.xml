@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-29 12:58:08 UTC" participant="153418">
+      <body>Can you send me your schedule sometime?</body>
+    </message>
+    <message id="m0001" time="2013-06-29 13:10:10 UTC" participant="153445">
+      <body>All of my classes starts on 10:00. And no class on Fridays. </body>
+    </message>
+    <message id="m0002" time="2013-06-30 01:03:13 UTC" participant="153418">
+      <body>I start work on Monday. Would you mind getting there at 9?</body>
+    </message>
+    <message id="m0003" time="2013-06-30 01:04:09 UTC" participant="153445">
+      <body>That'd be great! I'll go with you then.  </body>
+    </message>
+    <message id="m0004" time="2013-06-30 01:04:25 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+    <message id="m0005" time="2013-06-30 01:05:20 UTC" participant="153445">
+      <body>Thanks</body>
+    </message>
+    <message id="m0006" time="2013-06-30 01:05:36 UTC" participant="153445">
+      <body>Your Audi's service light came on, were you able to check it? </body>
+    </message>
+    <message id="m0007" time="2013-06-30 01:06:12 UTC" participant="153418">
+      <body>There's a few issues with the car that I'm ignoring for now since my dad still drives the car.</body>
+    </message>
+    <message id="m0008" time="2013-06-30 01:11:09 UTC" participant="153445">
+      <body>Oh I see. It's a nice car and I hope it'll be alright for now. </body>
+    </message>
+  </messages>
+</conversation>
+

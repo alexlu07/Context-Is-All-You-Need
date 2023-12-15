@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150327.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-27 12:52:57 UTC" participant="152116">
+      <body>Okay cool.</body>
+    </message>
+    <message id="m0001" time="2015-03-27 12:53:22 UTC" participant="152116">
+      <body>Yeah we are doing something tomorrow for Phuong. We just didn't decide what yet.</body>
+    </message>
+    <message id="m0002" time="2015-03-27 22:38:30 UTC" participant="152116">
+      <body>Cassy says her and Jimmy could go. What time would it be?</body>
+    </message>
+    <message id="m0003" time="2015-03-27 22:42:11 UTC" participant="153491">
+      <body>Oh good. I'm aiming for 8:30-9. </body>
+    </message>
+    <message id="m0004" time="2015-03-27 22:47:48 UTC" participant="152116">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2015-03-27 22:54:39 UTC" participant="153491">
+      <body>Please remind them to being their IDs if they're coming to Frankford afterwards!</body>
+    </message>
+    <message id="m0006" time="2015-03-27 22:54:45 UTC" participant="153491">
+      <body>*being</body>
+    </message>
+    <message id="m0007" time="2015-03-27 22:54:55 UTC" participant="153491">
+      <body>**bring</body>
+    </message>
+    <message id="m0008" time="2015-03-27 22:55:28 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

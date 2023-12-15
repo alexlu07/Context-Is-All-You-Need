@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130930.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-30 20:10:18 UTC" participant="152504">
+      <body>Are you planning on showing up today?</body>
+    </message>
+    <message id="m0001" time="2013-09-30 20:15:52 UTC" participant="152417">
+      <body>Yeah, i just hot your message, i assumed it was 5 like the other night.  I can be in at 430 if you want</body>
+    </message>
+    <message id="m0002" time="2013-09-30 20:17:06 UTC" participant="152417">
+      <body>Yeah, i just got your message.  I can be in at 430</body>
+    </message>
+    <message id="m0003" time="2013-09-30 20:17:32 UTC" participant="152504">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

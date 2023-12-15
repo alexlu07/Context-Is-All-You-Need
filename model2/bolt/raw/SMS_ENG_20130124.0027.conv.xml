@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130124.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-24 23:03:51 UTC">
+      <body>I miss you!!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-24 23:04:02 UTC">
+      <body>What are you doing this weekend?</body>
+    </message>
+    <message id="m0002" participant="135439" time="2013-01-25 00:04:16 UTC">
+      <body>I may go to Ikea on Saturday but during the day. We can actually go out tomorrow night. Just the two of us. It would be fun. </body>
+    </message>
+  </messages>
+</conversation>

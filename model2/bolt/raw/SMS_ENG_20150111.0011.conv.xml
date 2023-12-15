@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150111.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-11 17:05:41 UTC" participant="153418">
+      <body>You didn't come in yesterday, did you? </body>
+    </message>
+    <message id="m0001" time="2015-01-12 00:42:58 UTC" participant="153458">
+      <body>Nope I am coming in now though </body>
+    </message>
+    <message id="m0002" time="2015-01-12 06:45:23 UTC" participant="153458">
+      <body>John did you set the alarm when you left? </body>
+    </message>
+    <message id="m0003" time="2015-01-12 06:45:57 UTC" participant="153418">
+      <body>I don't think so.</body>
+    </message>
+    <message id="m0004" time="2015-01-12 06:46:25 UTC" participant="153418">
+      <body>I don't see why I'd set it if I wasn't the last one out.</body>
+    </message>
+    <message id="m0005" time="2015-01-12 06:46:42 UTC" participant="153418">
+      <body>You still there? </body>
+    </message>
+  </messages>
+</conversation>
+

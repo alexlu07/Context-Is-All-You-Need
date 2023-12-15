@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-14 01:48:49 UTC">
+      <body>thank you again for the help on the test! </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-02-14 01:57:21 UTC">
+      <body>Haha no prob! How did it go?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-14 01:57:58 UTC">
+      <body>not bad! definitely could've done worse. </body>
+    </message>
+    <message id="m0003" participant="136129" time="2013-02-14 02:00:01 UTC">
+      <body>Sounds good! Instead of doing Arabic I'm watching ten things I hate about you lol</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-14 02:00:44 UTC">
+      <body>i freaking love that movie. they filmed it at my friend's high school in seattle and she's an extra in it! </body>
+    </message>
+  </messages>
+</conversation>

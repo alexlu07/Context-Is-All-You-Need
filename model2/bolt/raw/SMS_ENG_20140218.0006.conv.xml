@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140218.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-18 15:10:56 UTC" participant="153652">
+      <body>Did you make it home?</body>
+    </message>
+    <message id="m0001" time="2014-02-18 15:28:56 UTC" participant="153548">
+      <body>I'm home!!! It's so cold</body>
+    </message>
+    <message id="m0002" time="2014-02-18 15:29:07 UTC" participant="153652">
+      <body>Yay! Boo!</body>
+    </message>
+    <message id="m0003" time="2014-02-18 15:29:34 UTC" participant="153652">
+      <body>Was your flight better going home then flying here?</body>
+    </message>
+    <message id="m0004" time="2014-02-18 15:31:54 UTC" participant="153548">
+      <body>Everything was on time but the planes smelled like
+Poop. Maybe it was me!!</body>
+    </message>
+    <message id="m0005" time="2014-02-18 15:32:12 UTC" participant="153652">
+      <body>We gross</body>
+    </message>
+    <message id="m0006" time="2014-02-18 15:32:16 UTC" participant="153652">
+      <body>I hope it wasn't you!</body>
+    </message>
+  </messages>
+</conversation>
+

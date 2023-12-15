@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141224.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-24 20:39:28 UTC" participant="152428">
+      <body>Did u make bread?</body>
+    </message>
+    <message id="m0001" time="2014-12-24 21:08:26 UTC" participant="152417">
+      <body>I'm going to bake popovers</body>
+    </message>
+  </messages>
+</conversation>
+

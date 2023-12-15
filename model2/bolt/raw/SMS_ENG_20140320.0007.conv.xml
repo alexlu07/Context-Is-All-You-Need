@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 17:10:44 UTC" participant="153491">
+      <body>Is Katch free tomorrow? You should ask her to come out and play tomorrow too!</body>
+    </message>
+    <message id="m0001" time="2014-03-20 17:16:40 UTC" participant="152116">
+      <body>Haha that's random. You want to hang with Katch? She actually just texted me so that's a coincidence</body>
+    </message>
+    <message id="m0002" time="2014-03-20 19:09:32 UTC" participant="153491">
+      <body>Hahah that's funny! Yea sure! I thought it'd be a nice gesture. </body>
+    </message>
+    <message id="m0003" time="2014-03-20 20:24:19 UTC" participant="152116">
+      <body>It is. I can see. I don't know when she wants to go out</body>
+    </message>
+    <message id="m0004" time="2014-03-20 20:42:30 UTC" participant="153491">
+      <body>Tell her to come out and play!</body>
+    </message>
+    <message id="m0005" time="2014-03-21 00:56:42 UTC" participant="153491">
+      <body>Are you working?</body>
+    </message>
+    <message id="m0006" time="2014-03-21 13:55:22 UTC" participant="152116">
+      <body>I wound up asking Katch. She would've liked to come out with us actually. She has a shoot though this afternoon</body>
+    </message>
+    <message id="m0007" time="2014-03-21 15:49:39 UTC" participant="152116">
+      <body>I just called to say I'm shutting my phone off for the lecture so it doesn't ring.</body>
+    </message>
+  </messages>
+</conversation>
+

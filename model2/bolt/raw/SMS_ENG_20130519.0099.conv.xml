@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0099" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-19 20:54:45 UTC" participant="152374">
+      <body>Hey, you around this evening? Want to grab some ice cream and catch up?</body>
+    </message>
+    <message id="m0001" time="2013-05-19 20:56:13 UTC" participant="153472">
+      <body>ah...love to, but I'm meeting a friend at Doma. maybe some night this week?</body>
+    </message>
+    <message id="m0002" time="2013-05-19 20:56:47 UTC" participant="152374">
+      <body>This week is a bit crazy with work. Next week then :-) Enjoy Doma!</body>
+    </message>
+    <message id="m0003" time="2013-05-19 20:57:39 UTC" participant="153472">
+      <body>Ok. Deff next week!</body>
+    </message>
+  </messages>
+</conversation>
+

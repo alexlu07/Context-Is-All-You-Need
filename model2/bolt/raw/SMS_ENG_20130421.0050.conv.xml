@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-21 19:07:31 UTC">
+      <body>Canada </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-04-21 19:59:49 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-04-21 20:33:52 UTC">
+      <body>Oui out </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-04-21 20:33:56 UTC">
+      <body>Oui* </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-04-21 22:19:46 UTC">
+      <body>Where r u. I'll be at hotel soon. Take your time</body>
+    </message>
+  </messages>
+</conversation>

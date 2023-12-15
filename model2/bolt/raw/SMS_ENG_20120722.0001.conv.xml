@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120722.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-07-22 16:33:46 UTC">
+      <body>Could we either talk earlier or tomorrow?  I want to go out to dinner @ 5 with Ed.</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-07-22 17:30:48 UTC">
+      <body>Earlier's good! Tomorrow isn't. What time? I'm free all afternoon.</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-07-22 18:14:45 UTC">
+      <body>How about 6 your time?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-07-22 19:15:31 UTC">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>

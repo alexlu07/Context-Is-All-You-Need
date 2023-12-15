@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140206.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-06 15:04:21 UTC" participant="152847">
+      <body>I'm thinking of heading to 30th around 10:30.</body>
+    </message>
+    <message id="m0001" time="2014-02-06 15:09:02 UTC" participant="152374">
+      <body>I can't go. Ended up having to go to dentist appointment this morning and am just getting to work. Can't afford to miss any more time, we're too behind with #### gone</body>
+    </message>
+    <message id="m0002" time="2014-02-06 15:09:14 UTC" participant="152374">
+      <body>Let me know how it is :/</body>
+    </message>
+    <message id="m0003" time="2014-02-06 15:27:02 UTC" participant="152847">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

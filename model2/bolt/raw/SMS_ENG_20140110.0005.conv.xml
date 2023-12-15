@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140110.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-10 13:45:36 UTC" participant="153561">
+      <body>I'll be a few mins late. 676 backed up</body>
+    </message>
+    <message id="m0001" time="2014-01-10 14:13:20 UTC" participant="153561">
+      <body>5 mins away. Roads were pretty icy</body>
+    </message>
+    <message id="m0002" time="2014-01-10 14:25:52 UTC" participant="153561">
+      <body>Pulling up in 1 min</body>
+    </message>
+    <message id="m0003" time="2014-01-11 00:30:28 UTC" participant="153547">
+      <body>Hey, I need to run to the post office in the morning and I would like to hit up the farmers market. Can u do 1030 or 11am instead?</body>
+    </message>
+    <message id="m0004" time="2014-01-11 00:31:37 UTC" participant="153561">
+      <body>Sure no problem. I just have to be in south Philly at 3 so need to leave at 230 that cool?</body>
+    </message>
+    <message id="m0005" time="2014-01-11 00:34:08 UTC" participant="153561">
+      <body>Sounds like a good plan. If you need help at the store loading lemme know</body>
+    </message>
+    <message id="m0006" time="2014-01-11 00:34:24 UTC" participant="153547">
+      <body>Yeah I will grab ply and another 2 sheets of green board and 2x10 in the early am and I figure it will take us maybe 2 or 3 hrs at the most</body>
+    </message>
+    <message id="m0007" time="2014-01-11 00:37:07 UTC" participant="153547">
+      <body>Nah I'll be fine</body>
+    </message>
+  </messages>
+</conversation>
+

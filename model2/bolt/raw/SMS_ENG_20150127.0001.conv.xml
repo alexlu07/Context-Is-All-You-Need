@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150127.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-27 13:57:31 UTC" participant="152417">
+      <body>Hey Kevin, can we do 11 oclock on Wednesdays?</body>
+    </message>
+    <message id="m0001" time="2015-01-27 16:02:08 UTC" participant="152574">
+      <body>Fine with me and as long as we won't get in trouble.</body>
+    </message>
+  </messages>
+</conversation>
+

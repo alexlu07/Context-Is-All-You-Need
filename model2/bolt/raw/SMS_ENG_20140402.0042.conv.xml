@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 21:55:22 UTC" participant="153895">
+      <body>Hey is there any way to cut back the order for cupcakes to 60 instead of 100  if not its fine. I just heard from the mother in law that there aren't that many people </body>
+    </message>
+    <message id="m0001" time="2014-04-02 22:32:03 UTC" participant="153244">
+      <body>Yea that's no problem... ill adjust the pricing and let you know how much</body>
+    </message>
+    <message id="m0002" time="2014-04-02 22:37:25 UTC" participant="153895">
+      <body>Okay thank you so much!</body>
+    </message>
+    <message id="m0003" time="2014-04-03 03:15:29 UTC" participant="153244">
+      <body>Hey so the new price is 78 + delivery = $88 total</body>
+    </message>
+    <message id="m0004" time="2014-04-03 18:48:27 UTC" participant="153895">
+      <body>Thank you sorry I just saw this text. </body>
+    </message>
+  </messages>
+</conversation>
+

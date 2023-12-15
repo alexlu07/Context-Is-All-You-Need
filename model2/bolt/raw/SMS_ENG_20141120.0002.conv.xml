@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141120.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-20 14:13:20 UTC" participant="152570">
+      <body>Just wanted to ask: are you ok with skipping next week, or possibly meeting Monday? I'm skipping town on Tuesday for thanksgiving in the south. </body>
+    </message>
+    <message id="m0001" time="2014-11-20 15:23:45 UTC" participant="152417">
+      <body>Let's just meet Dec 3rd.  Im free to meet at 11 or between 1 and 4</body>
+    </message>
+    <message id="m0002" time="2014-11-20 15:52:05 UTC" participant="152570">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>
+

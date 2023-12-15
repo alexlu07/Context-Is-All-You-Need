@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140121.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-21 17:08:57 UTC" participant="152417">
+      <body>Can you do a gig feb 8th in the evening?</body>
+    </message>
+    <message id="m0001" time="2014-01-21 17:38:57 UTC" participant="152420">
+      <body>In Boston that weekend.</body>
+    </message>
+    <message id="m0002" time="2014-01-21 20:29:15 UTC" participant="152417">
+      <body>Awe dang, ok</body>
+    </message>
+  </messages>
+</conversation>
+

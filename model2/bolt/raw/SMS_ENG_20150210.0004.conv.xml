@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150210.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-10 16:53:17 UTC" participant="152212">
+      <body>hey lee whatcha doing</body>
+    </message>
+    <message id="m0001" time="2015-02-10 16:54:30 UTC" participant="152256">
+      <body>Sitting at my desk organizing papers after a morning of shoveling snow
+And you</body>
+    </message>
+    <message id="m0002" time="2015-02-10 16:54:45 UTC" participant="152256">
+      <body>Should I read what you did before we talk?</body>
+    </message>
+    <message id="m0003" time="2015-02-10 16:55:00 UTC" participant="152212">
+      <body>i was trying to cross things off my list</body>
+    </message>
+    <message id="m0004" time="2015-02-10 16:55:04 UTC" participant="152212">
+      <body>yeah, look it over</body>
+    </message>
+    <message id="m0005" time="2015-02-10 16:55:11 UTC" participant="152212">
+      <body>or call me and we can do it together</body>
+    </message>
+    <message id="m0006" time="2015-02-10 16:55:15 UTC" participant="152212">
+      <body>whatever is easier for you</body>
+    </message>
+    <message id="m0007" time="2015-02-10 16:55:28 UTC" participant="152256">
+      <body>Ok 
+I'll look and call you soon</body>
+    </message>
+    <message id="m0008" time="2015-02-10 16:55:28 UTC" participant="152212">
+      <body>ok great</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-06 14:14:19 UTC" participant="152734">
+      <body>Hello from mechanicsville va! What's the address again? </body>
+    </message>
+    <message id="m0001" time="2012-09-06 14:47:28 UTC" participant="153269">
+      <body>And you have Jenny right?  I hope she's not trying to work!</body>
+    </message>
+    <message id="m0002" time="2012-09-06 16:55:28 UTC" participant="153269">
+      <body>Hi where are you now??</body>
+    </message>
+    <message id="m0003" time="2012-09-06 17:46:18 UTC" participant="152734">
+      <body>Yo we're eatin tacos - Baja grill/bad bean. Come for a beer/lunch then custard? </body>
+    </message>
+    <message id="m0004" time="2012-09-06 17:46:40 UTC" participant="153269">
+      <body>Yes!  We're about 15 minutes from there, order w/o us</body>
+    </message>
+    <message id="m0005" time="2012-09-06 17:47:24 UTC" participant="152734">
+      <body>We did! See you shortly </body>
+    </message>
+  </messages>
+</conversation>
+

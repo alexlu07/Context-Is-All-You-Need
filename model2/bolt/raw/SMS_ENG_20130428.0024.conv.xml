@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131440" time="2013-04-28 19:30:13 UTC">
+      <body>I have a large backpack that you could borrow, though I wouldn't call it a backpacking pack per se. I could bring it over and you could test it out if you like.</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-04-28 20:35:05 UTC">
+      <body>Is it the green one you have has a long time? Would it fit a tent? </body>
+    </message>
+    <message id="m0002" participant="131440" time="2013-04-28 21:13:08 UTC">
+      <body>Yep, that's the one. It would probably fit a smaller tent. Worth testing, certainly.</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-04-28 21:24:12 UTC">
+      <body>Perfect. I used that to get this same tent to Paul Pitchoford camp. If I could borrow it again that would be great!</body>
+    </message>
+  </messages>
+</conversation>

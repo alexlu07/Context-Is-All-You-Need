@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-26 02:18:34 UTC">
+      <body>Let me know the plan</body>
+    </message>
+    <message id="m0001" participant="136663" time="2013-07-26 02:24:01 UTC">
+      <body>Jus got to Byblos</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-26 02:33:52 UTC">
+      <body>Ok. May catch a cab</body>
+    </message>
+    <message id="m0003" participant="136663" time="2013-07-26 02:36:17 UTC">
+      <body>Bet</body>
+    </message>
+    <message id="m0004" participant="136663" time="2013-07-26 03:39:54 UTC">
+      <body>Come thru</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-07-26 03:40:49 UTC">
+      <body>Stuck here. Think ima just chill to tomorrow</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-26 17:09:05 UTC">
+      <body>At walnut room?</body>
+    </message>
+    <message id="m0007" participant="136663" time="2013-07-26 17:10:03 UTC">
+      <body>Naw, couldn't make it.  U see the Johnny walker/cigars event tonight? It's by ur crib</body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-07-26 17:10:21 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0009" participant="130693" time="2013-07-26 17:13:08 UTC">
+      <body>How would i see it?</body>
+    </message>
+    <message id="m0010" participant="136663" time="2013-07-26 17:14:52 UTC">
+      <body>Via email blackie, just sent to u</body>
+    </message>
+  </messages>
+</conversation>

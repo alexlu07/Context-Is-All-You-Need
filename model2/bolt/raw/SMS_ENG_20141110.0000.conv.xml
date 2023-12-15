@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141110.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-10 18:46:59 UTC" participant="152115">
+      <body>I love you.</body>
+    </message>
+    <message id="m0001" time="2014-11-10 22:11:18 UTC" participant="152116">
+      <body>I love you too.</body>
+    </message>
+    <message id="m0002" time="2014-11-10 22:11:19 UTC" participant="152116">
+      <body>And sorry, I'm just seeing this.</body>
+    </message>
+  </messages>
+</conversation>
+

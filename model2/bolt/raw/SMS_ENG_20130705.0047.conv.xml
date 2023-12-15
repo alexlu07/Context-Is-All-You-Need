@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-07-05 20:09:28 UTC">
+      <body>  Leaving now. Pick you up where I dropped you off</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-07-05 20:09:44 UTC">
+      <body>Coo!</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-07-05 20:32:54 UTC">
+      <body>Here</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-07-06 14:51:14 UTC">
+      <body>8.25" x 13"</body>
+    </message>
+  </messages>
+</conversation>

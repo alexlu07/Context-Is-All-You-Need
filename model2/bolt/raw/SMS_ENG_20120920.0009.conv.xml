@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120920.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-20 13:32:43 UTC">
+      <body>￼This bike was left behind at school.... Want it... It's probably your perfect size.  </body>
+    </message>
+    <message id="m0001" participant="135406" time="2012-09-20 17:57:20 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-20 18:48:56 UTC">
+      <body>Ok you come to mass art to get it? I will check  if it's there?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-20 18:49:49 UTC">
+      <body>Long time</body>
+    </message>
+    <message id="m0004" participant="135406" time="2012-09-20 18:50:40 UTC">
+      <body>How long has it been there?</body>
+    </message>
+    <message id="m0005" participant="135406" time="2012-09-20 18:50:40 UTC">
+      <body>Okay. Not sure if I can come today. I'm a a work function </body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-09-20 18:51:05 UTC">
+      <body>Ok when you can... Maybe this week</body>
+    </message>
+    <message id="m0007" participant="135406" time="2012-09-20 18:54:56 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

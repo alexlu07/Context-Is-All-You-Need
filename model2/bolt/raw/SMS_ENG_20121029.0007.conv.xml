@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-29 15:34:57 UTC">
+      <body>How you in the storm</body>
+    </message>
+    <message id="m0001" participant="135364" time="2012-10-29 21:09:21 UTC">
+      <body>Alright, aside from a really wet bathroom. How are you? Want to talk in a little bit?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-29 21:10:09 UTC">
+      <body>Yes. I'll call you in an hour or so</body>
+    </message>
+    <message id="m0003" participant="135364" time="2012-10-29 21:10:54 UTC">
+      <body>Sounds great:)</body>
+    </message>
+  </messages>
+</conversation>

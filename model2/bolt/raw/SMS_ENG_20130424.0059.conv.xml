@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-24 23:48:08 UTC" participant="154352">
+      <body>Hey man. There is a thing I'll be going to next Thursday (5/2) where we can hang out. 1601 Locust St around 6:30.</body>
+    </message>
+    <message id="m0001" time="2013-04-25 03:03:12 UTC" participant="154391">
+      <body>Ok, What's the thing?</body>
+    </message>
+    <message id="m0002" time="2013-04-25 11:04:53 UTC" participant="154352">
+      <body>Opening reception for the Philly branch of the mens'  clothier Suit Supply.</body>
+    </message>
+  </messages>
+</conversation>
+

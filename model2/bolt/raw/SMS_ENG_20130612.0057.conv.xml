@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-12 00:22:19 UTC" participant="152374">
+      <body>Hey, sorry to be a bother, but can I get a definitive time for tomorrow's meeting? I need to plan how I'm getting to work and it depends on when the meeting is!</body>
+    </message>
+    <message id="m0001" time="2013-06-12 00:27:30 UTC" participant="152394">
+      <body>6:30 I'd what I'm going to say.  Not sure why no one is answering.  Sorry!</body>
+    </message>
+    <message id="m0002" time="2013-06-12 00:28:41 UTC" participant="152374">
+      <body>Ok. See you then! Thanks :-)</body>
+    </message>
+    <message id="m0003" time="2013-06-12 00:30:54 UTC" participant="152394">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>
+

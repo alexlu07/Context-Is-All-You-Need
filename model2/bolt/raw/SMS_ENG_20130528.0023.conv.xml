@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0023" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-05-28 14:52:19 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130994" time="2013-05-28 14:59:18 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-05-28 15:00:26 UTC">
+      <body>What up?</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-05-28 15:01:31 UTC">
+      <body>My kid just learned to ride a bike</body>
+    </message>
+    <message id="m0004" participant="130994" time="2013-05-28 15:03:13 UTC">
+      <body>That's great. Am taking mine to ice skating</body>
+    </message>
+    <message id="m0005" participant="131218" time="2013-05-28 15:08:02 UTC">
+      <body>I'm in california and its 70 degrees. Nice weather for a bike ride</body>
+    </message>
+    <message id="m0006" participant="131218" time="2013-05-28 15:08:02 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0007" participant="130994" time="2013-05-28 15:28:23 UTC">
+      <body>Boston area</body>
+    </message>
+    <message id="m0008" participant="131218" time="2013-05-28 15:29:52 UTC">
+      <body>How are things there since the bombing</body>
+    </message>
+    <message id="m0009" participant="130994" time="2013-05-28 15:31:07 UTC">
+      <body>Pretty much back to normal</body>
+    </message>
+    <message id="m0010" participant="130994" time="2013-05-28 15:55:51 UTC">
+      <body>It's nice weather here too today</body>
+    </message>
+    <message id="m0011" participant="131218" time="2013-05-28 15:57:35 UTC">
+      <body>That's nice.</body>
+    </message>
+    <message id="m0012" participant="131218" time="2013-05-28 20:02:47 UTC">
+      <body>What work do you do?</body>
+    </message>
+    <message id="m0013" participant="130994" time="2013-05-29 09:24:55 UTC">
+      <body>Teach college</body>
+    </message>
+  </messages>
+</conversation>

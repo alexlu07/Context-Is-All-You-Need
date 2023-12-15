@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140904.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-04 20:19:10 UTC" participant="152560">
+      <body>I think I'll catch the 7:32 train in Lansdale, and arrive at Suburban at 8:25. </body>
+    </message>
+    <message id="m0001" time="2014-09-04 21:09:07 UTC" participant="152417">
+      <body>Perfect, i get out at 820</body>
+    </message>
+    <message id="m0002" time="2014-09-04 22:46:19 UTC" participant="152417">
+      <body>I couldnt find any good shows tonight.  Can i invite some folks to meet us at that beer garden on south street?</body>
+    </message>
+    <message id="m0003" time="2014-09-04 22:49:19 UTC" participant="152560">
+      <body>Sure</body>
+    </message>
+    <message id="m0004" time="2014-09-05 00:42:19 UTC" participant="152560">
+      <body>Do I get on the southbound local or express?</body>
+    </message>
+    <message id="m0005" time="2014-09-05 00:44:25 UTC" participant="152417">
+      <body>Local</body>
+    </message>
+  </messages>
+</conversation>
+

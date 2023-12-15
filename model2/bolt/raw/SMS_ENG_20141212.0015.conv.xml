@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141212.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-12 15:00:30 UTC" participant="153591">
+      <body>what time will you be around tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-12-12 15:01:01 UTC" participant="153591">
+      <body>I'm working an overnight shift tonight 9p-7a so I need to sleep until tomorrow afternoon, usually 1ish</body>
+    </message>
+    <message id="m0002" time="2014-12-12 16:12:43 UTC" participant="153547">
+      <body>Phill has a party tomorrow night which I'll be avoiding. You wanna hang out in the night?</body>
+    </message>
+    <message id="m0003" time="2014-12-12 16:13:55 UTC" participant="153547">
+      <body>Or on Sunday? Get some Indian buffet?</body>
+    </message>
+    <message id="m0004" time="2014-12-12 22:57:10 UTC" participant="153591">
+      <body>oooh indian buffet</body>
+    </message>
+    <message id="m0005" time="2014-12-13 00:15:39 UTC" participant="153547">
+      <body>Can u do that on Sunday?</body>
+    </message>
+    <message id="m0006" time="2014-12-13 00:17:38 UTC" participant="153591">
+      <body>yeah </body>
+    </message>
+  </messages>
+</conversation>
+

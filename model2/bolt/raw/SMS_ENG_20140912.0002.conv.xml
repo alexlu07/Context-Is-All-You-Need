@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140912.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-12 19:17:35 UTC" participant="152115">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0001" time="2014-09-12 19:19:01 UTC" participant="152121">
+      <body>Elmwood park zoo in nooristown</body>
+    </message>
+    <message id="m0002" time="2014-09-12 19:20:45 UTC" participant="152115">
+      <body>Haha. She's done for. It looks nice there.</body>
+    </message>
+    <message id="m0003" time="2014-09-12 19:25:21 UTC" participant="152121">
+      <body>It is</body>
+    </message>
+  </messages>
+</conversation>
+

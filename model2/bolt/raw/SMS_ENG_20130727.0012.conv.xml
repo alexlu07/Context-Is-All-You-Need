@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130727.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-07-27 22:34:21 UTC">
+      <body>Is your brother still looking for a place in Philly?</body>
+    </message>
+    <message id="m0001" participant="136732" time="2013-07-28 00:13:37 UTC">
+      <body>Na he moved back to Colorado</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-07-28 00:14:41 UTC">
+      <body>Blahhh!    Pussy!  </body>
+    </message>
+    <message id="m0003" participant="131015" time="2013-07-28 00:15:26 UTC">
+      <body>I was gonna say, I might have a spot opening up in my crib...  But, nooooOOOOooo</body>
+    </message>
+    <message id="m0004" participant="136732" time="2013-07-28 00:16:14 UTC">
+      <body>I know I know</body>
+    </message>
+  </messages>
+</conversation>

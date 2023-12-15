@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141028.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-28 18:27:12 UTC" participant="152575">
+      <body>Hey I printed out all of the chords so whenever you're free I can meet you at Merriam </body>
+    </message>
+    <message id="m0001" time="2014-10-28 18:54:25 UTC" participant="152417">
+      <body>Cool, how is 3:46?</body>
+    </message>
+    <message id="m0002" time="2014-10-28 19:01:28 UTC" participant="152575">
+      <body>I can't do 3:45 but 3:46 works. Hahahaha </body>
+    </message>
+    <message id="m0003" time="2014-10-28 19:40:19 UTC" participant="152575">
+      <body>Which floor should I look for a room on? </body>
+    </message>
+    <message id="m0004" time="2014-10-28 19:41:22 UTC" participant="152417">
+      <body>My bass is on the fifth floor.  And sorry, ill be there at 3:54</body>
+    </message>
+    <message id="m0005" time="2014-10-28 19:41:52 UTC" participant="152575">
+      <body>Hahaha. Okay.  Well the 5th floor seems to be occupied as does the 6th so I'm gonna try the 7th </body>
+    </message>
+    <message id="m0006" time="2014-10-28 19:50:19 UTC" participant="152575">
+      <body>I got 708 </body>
+    </message>
+  </messages>
+</conversation>
+

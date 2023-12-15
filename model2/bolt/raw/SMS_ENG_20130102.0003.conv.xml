@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131456" time="2013-01-02 02:17:28 UTC">
+      <body>Happy new year! Just checking, you're not riding in tomorrow, right?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-01-02 02:18:36 UTC">
+      <body>That is correct. Happy new year to you too! :-)</body>
+    </message>
+    <message id="m0002" participant="131456" time="2013-01-02 02:29:02 UTC">
+      <body>Great-see you tomorrow!</body>
+    </message>
+  </messages>
+</conversation>

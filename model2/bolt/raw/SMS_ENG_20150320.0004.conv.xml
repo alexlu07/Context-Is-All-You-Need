@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150320.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-20 14:13:21 UTC" participant="152252">
+      <body>Are you busy tonight? </body>
+    </message>
+    <message id="m0001" time="2015-03-20 19:25:49 UTC" participant="152212">
+      <body>yeah - i don’t think I’m going to do anything. I couldn’t sleep at all last night </body>
+    </message>
+    <message id="m0002" time="2015-03-20 19:25:55 UTC" participant="152212">
+      <body>but i do miss u</body>
+    </message>
+  </messages>
+</conversation>
+

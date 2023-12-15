@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-17 16:59:05 UTC">
+      <body>Hey! Just a heads up, you're not in my schedule for tonight.
+-Liza</body>
+    </message>
+    <message id="m0001" participant="135313" time="2013-04-17 17:16:48 UTC">
+      <body>Oh I thought I was.. Is someone else there?</body>
+    </message>
+    <message id="m0002" participant="135313" time="2013-04-17 17:16:48 UTC">
+      <body>What do I do?</body>
+    </message>
+    <message id="m0003" participant="135313" time="2013-04-17 17:16:48 UTC">
+      <body>I went ahead and reserved so I must have missed this week </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-17 17:17:46 UTC">
+      <body>Yeah someone is. We could either not meet until next week or meet this weekend</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-04-17 17:20:06 UTC">
+      <body>No worries! it happens :) Do you still not have anything due? Can you meet this weekend?</body>
+    </message>
+    <message id="m0006" participant="135313" time="2013-04-17 17:21:04 UTC">
+      <body>Yeah I could! But do ya have time for that?</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-04-17 17:23:50 UTC">
+      <body>Yeah! My thesis is due Friday so I'm good for the weekend...just not before</body>
+    </message>
+    <message id="m0008" participant="135313" time="2013-04-17 17:24:24 UTC">
+      <body>Omg! We could have a party!</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-04-17 17:25:11 UTC">
+      <body>Oh my suite is having a wine and cheese/pizza and beer regatta Friday night </body>
+    </message>
+  </messages>
+</conversation>

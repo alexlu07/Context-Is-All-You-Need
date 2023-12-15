@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111023.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-10-23 15:02:11 UTC">
+      <body>Are you coming today??!!</body>
+    </message>
+    <message id="m0001" participant="135093" time="2011-10-23 15:19:41 UTC">
+      <body>I'm not :( needed some rest and have to get organized before the week starts!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-10-23 15:41:44 UTC">
+      <body>Bummer... :( I may come to NYC Saturday night...? How would that work for you?</body>
+    </message>
+    <message id="m0003" participant="135093" time="2011-10-23 15:58:05 UTC">
+      <body>That would be awesome!! My parents are here and we are going to a show but we can either do dinner or get together after - yipeeeee!</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-10-23 15:58:55 UTC">
+      <body>Oh right! Well I don't want to impose... I'll let you know</body>
+    </message>
+    <message id="m0005" participant="135093" time="2011-10-23 15:59:42 UTC">
+      <body>No no - it would be fun!!! </body>
+    </message>
+  </messages>
+</conversation>

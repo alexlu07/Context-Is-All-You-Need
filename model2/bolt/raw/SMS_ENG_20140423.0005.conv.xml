@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 01:10:49 UTC" participant="153491">
+      <body>Would you be able to get me a Penn agenda book?</body>
+    </message>
+    <message id="m0001" time="2014-04-23 01:13:09 UTC" participant="152116">
+      <body>Like buy one?</body>
+    </message>
+    <message id="m0002" time="2014-04-23 01:13:35 UTC" participant="153491">
+      <body>No the free ones!</body>
+    </message>
+    <message id="m0003" time="2014-04-23 01:15:23 UTC" participant="152116">
+      <body>They only have free ones at the beginning of the school year</body>
+    </message>
+    <message id="m0004" time="2014-04-23 01:16:22 UTC" participant="153491">
+      <body>Oh that makes sense. never mind then, thanks!</body>
+    </message>
+    <message id="m0006" time="2014-04-23 22:51:13 UTC" participant="152116">
+      <body>Yeah they would like to see some things related to language and attention to detail</body>
+    </message>
+    <message id="m0007" time="2014-04-23 22:56:40 UTC" participant="153491">
+      <body>Hmmmm, language.</body>
+    </message>
+    <message id="m0008" time="2014-04-23 22:56:50 UTC" participant="153491">
+      <body>That may be a problem.</body>
+    </message>
+  </messages>
+</conversation>
+

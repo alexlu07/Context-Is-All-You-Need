@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-05-12 20:39:41 UTC" participant="153547">
+      <body>I can pick u up tomorrow at 9am. What is your address?</body>
+    </message>
+    <message id="m0002" time="2014-05-13 12:27:34 UTC" participant="153547">
+      <body>I'm running early. Are u about ready?</body>
+    </message>
+    <message id="m0003" time="2014-05-13 12:28:16 UTC" participant="153561">
+      <body>I need 15 mins</body>
+    </message>
+    <message id="m0004" time="2014-05-13 12:36:29 UTC" participant="153547">
+      <body>I'm outside whenever u r ready</body>
+    </message>
+    <message id="m0005" time="2014-05-13 12:39:22 UTC" participant="153561">
+      <body>Couple minutes</body>
+    </message>
+  </messages>
+</conversation>
+

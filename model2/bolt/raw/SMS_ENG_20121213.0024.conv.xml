@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-13 23:01:08 UTC" participant="154352">
+      <body>Reminder: ski trip tomorrow. Leaving from outside the credit union at 3 PM. Be there by 245.</body>
+    </message>
+    <message id="m0001" time="2012-12-13 23:34:54 UTC" participant="154392">
+      <body>Roger that!</body>
+    </message>
+    <message id="m0002" time="2012-12-14 00:06:41 UTC" participant="154352">
+      <body>Archer live panel/show Jan 11 http://concerts.livenation.com/event/0200498CC4CABB34?page=tmln&amp;tmid=0200498CC4CABB34</body>
+    </message>
+    <message id="m0003" time="2012-12-14 19:46:16 UTC" participant="154392">
+      <body>Where you at?</body>
+    </message>
+  </messages>
+</conversation>
+

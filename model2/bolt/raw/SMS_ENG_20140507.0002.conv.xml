@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140507.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-07 00:21:10 UTC" participant="152734">
+      <body>Beer after work? Tomorrow or Thursday maybe?</body>
+    </message>
+    <message id="m0001" time="2014-05-07 00:23:28 UTC" participant="153286">
+      <body>Yes but Thursday would be better! </body>
+    </message>
+    <message id="m0002" time="2014-05-07 00:25:24 UTC" participant="152734">
+      <body>Thursday it is! Simone &amp; I usually drink then - I'll see what she's up to too?</body>
+    </message>
+    <message id="m0003" time="2014-05-07 01:37:35 UTC" participant="153286">
+      <body>Yup that's fine</body>
+    </message>
+  </messages>
+</conversation>
+

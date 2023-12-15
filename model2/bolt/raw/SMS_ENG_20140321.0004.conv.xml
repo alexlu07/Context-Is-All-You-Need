@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 01:29:46 UTC" participant="152119">
+      <body>Hey John. How have you been? </body>
+    </message>
+    <message id="m0001" time="2014-03-21 02:02:53 UTC" participant="153418">
+      <body>Busy. I just made dinner after getting home from work. How are you doing? </body>
+    </message>
+    <message id="m0002" time="2014-03-21 02:05:31 UTC" participant="152119">
+      <body>I'm all right. Hope you're enjoying your dinner. </body>
+    </message>
+    <message id="m0003" time="2014-03-21 02:23:24 UTC" participant="153418">
+      <body>It's okay. I need to improve my cooking skill.</body>
+    </message>
+    <message id="m0004" time="2014-03-21 02:24:07 UTC" participant="152119">
+      <body>Haha what did you make? </body>
+    </message>
+    <message id="m0005" time="2014-03-21 02:25:44 UTC" participant="153418">
+      <body>I made scrambled eggs with pasta. I wanted to use olive oil and garlic to keep it from being too dry, but I didn't use enough oil.</body>
+    </message>
+    <message id="m0006" time="2014-03-21 02:25:56 UTC" participant="153418">
+      <body>So it's kinda dry.</body>
+    </message>
+    <message id="m0007" time="2014-03-21 02:27:01 UTC" participant="152119">
+      <body>I'm sorry. That sounds good though. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131105.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-05 15:36:30 UTC" participant="154352">
+      <body>Do you want to go to a concert on Thursday?</body>
+    </message>
+    <message id="m0001" time="2013-11-05 17:03:25 UTC" participant="154410">
+      <body>Which band?</body>
+    </message>
+    <message id="m0002" time="2013-11-05 17:14:34 UTC" participant="154352">
+      <body>Adventure club</body>
+    </message>
+    <message id="m0003" time="2013-11-05 19:37:49 UTC" participant="154410">
+      <body>Sounds awesome!  I am in.</body>
+    </message>
+    <message id="m0004" time="2013-11-05 20:12:03 UTC" participant="154352">
+      <body>I'm getting my ticket later. Do you want me to grab you one?</body>
+    </message>
+    <message id="m0005" time="2013-11-05 20:36:07 UTC" participant="154410">
+      <body>How much is it</body>
+    </message>
+    <message id="m0006" time="2013-11-05 20:58:13 UTC" participant="154352">
+      <body>Do you want to grab something to eat before the show?</body>
+    </message>
+    <message id="m0007" time="2013-11-05 21:55:56 UTC" participant="154410">
+      <body>When does it start? I need to ask when I am off, sometimes I need to work longer.</body>
+    </message>
+    <message id="m0008" time="2013-11-05 22:04:32 UTC" participant="154352">
+      <body>Concert starts at 8:30. I was thinking we could meet nearby around 7 to eat.</body>
+    </message>
+    <message id="m0009" time="2013-11-06 14:27:48 UTC" participant="154410">
+      <body>They didnt told me yet. Hope they will tell me today.  Did you bought your ticket already?</body>
+    </message>
+    <message id="m0010" time="2013-11-06 14:57:21 UTC" participant="154352">
+      <body>Let me know when you know and I'll grab them.</body>
+    </message>
+  </messages>
+</conversation>
+

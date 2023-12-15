@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140325.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-25 20:33:34 UTC" participant="153548">
+      <body>Are you going to Fiona's screening and if so sit by me!</body>
+    </message>
+    <message id="m0001" time="2014-03-25 20:34:10 UTC" participant="153633">
+      <body>Hey, lady!  I am going and will look for you!  For sure. :)</body>
+    </message>
+    <message id="m0002" time="2014-03-25 20:34:26 UTC" participant="153548">
+      <body>Yay! </body>
+    </message>
+  </messages>
+</conversation>
+

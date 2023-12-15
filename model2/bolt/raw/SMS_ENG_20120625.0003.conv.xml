@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120625.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-25 01:38:44 UTC">
+      <body>My mom and dad are really wanting me to spend more time with them tomorrow. :(</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-25 01:39:06 UTC">
+      <body>I'm really glad we had the time we did have though.</body>
+    </message>
+    <message id="m0002" participant="135116" time="2012-06-25 12:50:49 UTC">
+      <body>Me too. I am going to see brave again! I'll always think of you.</body>
+    </message>
+  </messages>
+</conversation>

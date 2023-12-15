@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130409.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-09 00:25:33 UTC">
+      <body>Just so you know, my thesis draft is due April 19th (in a week and a half). Should we start apt hunting before that or can it be after?</body>
+    </message>
+    <message id="m0001" participant="135293" time="2013-04-09 01:01:52 UTC">
+      <body>After is good I think! </body>
+    </message>
+  </messages>
+</conversation>

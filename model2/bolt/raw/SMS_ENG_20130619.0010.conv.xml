@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130751" time="2013-06-19 12:17:00 UTC">
+      <body>hey there</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-06-19 13:15:29 UTC">
+      <body>Hi! How are you?</body>
+    </message>
+    <message id="m0002" participant="130751" time="2013-06-19 13:44:44 UTC">
+      <body>great enjoying the day. how was the poconos?</body>
+    </message>
+    <message id="m0003" participant="130751" time="2013-06-19 13:45:41 UTC">
+      <body>went to the shore on monday it was amazing</body>
+    </message>
+    <message id="m0004" participant="130995" time="2013-06-19 17:06:46 UTC">
+      <body>It was a lot of fun!</body>
+    </message>
+    <message id="m0005" participant="130995" time="2013-06-19 17:07:29 UTC">
+      <body>That's awesome! Which shore did you go to?</body>
+    </message>
+  </messages>
+</conversation>

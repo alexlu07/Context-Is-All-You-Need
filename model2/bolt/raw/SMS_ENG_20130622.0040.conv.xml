@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130622.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136637" time="2013-06-22 15:45:16 UTC">
+      <body>How much was the W suite ?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-22 15:45:44 UTC">
+      <body>300</body>
+    </message>
+    <message id="m0002" participant="136637" time="2013-06-22 15:47:16 UTC">
+      <body>What % was the discount? I'm trying to figure out whether to get a room, where I'm staying, etc</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-22 15:48:23 UTC">
+      <body>About 100 off i think</body>
+    </message>
+    <message id="m0004" participant="136637" time="2013-06-22 15:49:15 UTC">
+      <body>Ok.  </body>
+    </message>
+    <message id="m0005" participant="136637" time="2013-06-22 15:56:01 UTC">
+      <body>Is the suite big enough for me to split with yall?</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-06-22 16:47:24 UTC">
+      <body>Trying to figure out best options. Room may change but yes u can split watever we go with</body>
+    </message>
+    <message id="m0007" participant="136637" time="2013-06-22 18:22:41 UTC">
+      <body>Cool let me know when y'all decide </body>
+    </message>
+  </messages>
+</conversation>

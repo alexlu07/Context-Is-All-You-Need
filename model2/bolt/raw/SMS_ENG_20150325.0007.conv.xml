@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150325.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-25 01:45:37 UTC" participant="152212">
+      <body>everything is a mess?</body>
+    </message>
+    <message id="m0001" time="2015-03-25 01:45:38 UTC" participant="152212">
+      <body>Im ok. just super light headed. been lying down.</body>
+    </message>
+    <message id="m0002" time="2015-03-25 01:45:39 UTC" participant="152212">
+      <body>whats going on</body>
+    </message>
+    <message id="m0003" time="2015-03-26 01:21:35 UTC" participant="152252">
+      <body>How you feeling? </body>
+    </message>
+  </messages>
+</conversation>
+

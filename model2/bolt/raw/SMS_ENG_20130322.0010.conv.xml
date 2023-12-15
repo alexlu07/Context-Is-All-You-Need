@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131173" time="2013-03-22 16:37:17 UTC">
+      <body>Going to see sheetal?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-03-22 17:46:08 UTC">
+      <body>Yes, will you be there?</body>
+    </message>
+    <message id="m0002" participant="131173" time="2013-03-22 17:46:40 UTC">
+      <body>I was thinking about it, not sure</body>
+    </message>
+    <message id="m0003" participant="131173" time="2013-03-22 18:27:12 UTC">
+      <body>Are you take Todd?</body>
+    </message>
+    <message id="m0004" participant="131173" time="2013-03-22 18:27:12 UTC">
+      <body>Taking</body>
+    </message>
+  </messages>
+</conversation>

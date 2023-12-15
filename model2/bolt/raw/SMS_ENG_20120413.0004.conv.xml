@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120413.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-13 20:05:43 UTC" participant="152380">
+      <body>I was thinking we could meet at your apt tomorrow because the lobster roll place is east of new haven. What time is good for you?</body>
+    </message>
+    <message id="m0001" time="2012-04-13 20:09:10 UTC" participant="152374">
+      <body>Anytime, I'm free all day! Any chance i could interest you in bowling as well? :-D If not, just lobster is fine too!</body>
+    </message>
+    <message id="m0002" time="2012-04-13 20:55:07 UTC" participant="152374">
+      <body>Ha ha. No worries, it'll be fun! Let me know  :-)</body>
+    </message>
+    <message id="m0003" time="2012-04-13 23:25:50 UTC" participant="152380">
+      <body>Is 12:30 ok?  We can pick you up.  And we can decide tomorrow when to go bowling.  I think the place down the street from me is like  15 after 5pm for 2</body>
+    </message>
+    <message id="m0004" time="2012-04-13 23:25:52 UTC" participant="152380">
+      <body>hours of bowling.</body>
+    </message>
+    <message id="m0005" time="2012-04-14 18:36:07 UTC" participant="152374">
+      <body>How about I pick you up at 7 for bowling? They said it's six bucks a game tonight</body>
+    </message>
+    <message id="m0006" time="2012-04-14 18:37:42 UTC" participant="152374">
+      <body>Sweet, see you later!</body>
+    </message>
+  </messages>
+</conversation>
+

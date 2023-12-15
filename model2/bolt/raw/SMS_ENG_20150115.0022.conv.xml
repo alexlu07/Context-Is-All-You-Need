@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150115.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-15 23:17:11 UTC" participant="153804">
+      <body>Was it 8 to 4 or 430 today</body>
+    </message>
+    <message id="m0001" time="2015-01-15 23:18:10 UTC" participant="153815">
+      <body>8 to 430. </body>
+    </message>
+    <message id="m0002" time="2015-01-15 23:18:31 UTC" participant="153804">
+      <body>I guess I should've written it down thanks</body>
+    </message>
+    <message id="m0003" time="2015-01-15 23:19:35 UTC" participant="153815">
+      <body>No prob! </body>
+    </message>
+    <message id="m0004" time="2015-01-16 13:31:15 UTC" participant="153804">
+      <body>So glad we're not working today!!</body>
+    </message>
+    <message id="m0005" time="2015-01-16 13:32:11 UTC" participant="153815">
+      <body>Me too. Relaxed in my pajamas this morning!</body>
+    </message>
+  </messages>
+</conversation>
+

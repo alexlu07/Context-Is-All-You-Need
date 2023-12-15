@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140418.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-18 02:26:11 UTC" participant="153244">
+      <body>Can't pick you up this week</body>
+    </message>
+    <message id="m0001" time="2014-04-18 12:16:50 UTC" participant="154895">
+      <body>You can't pick me up today?</body>
+    </message>
+    <message id="m0002" time="2014-04-18 12:50:22 UTC" participant="153244">
+      <body>Correct</body>
+    </message>
+    <message id="m0003" time="2014-04-18 12:51:19 UTC" participant="154895">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

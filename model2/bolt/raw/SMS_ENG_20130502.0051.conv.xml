@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2013-05-02 17:10:20 UTC">
+      <body>Sorry I missed your call. Hey I think I will be in Boston and so hope to go to your presentation on may 14! </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-02 18:19:19 UTC">
+      <body>I've completely restructured this thing. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-02 18:19:52 UTC">
+      <body>You were very helpful.  I wish I had more figured out... Then our conversations would be more fun!  </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-02 18:20:06 UTC">
+      <body>I will soon enough</body>
+    </message>
+    <message id="m0004" participant="135354" time="2013-05-02 18:20:48 UTC">
+      <body>I love our conversations! They make me think! </body>
+    </message>
+    <message id="m0005" participant="135354" time="2013-05-02 18:21:40 UTC">
+      <body>And you have already figured out so much.</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-02 18:22:08 UTC">
+      <body>It's my nap time. Your so nice!</body>
+    </message>
+    <message id="m0007" participant="135354" time="2013-05-02 18:22:45 UTC">
+      <body>Ha, I took one earlier!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150218.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-18 23:47:35 UTC" participant="152115">
+      <body>Tell daddy to be here by 730</body>
+    </message>
+    <message id="m0001" time="2015-02-19 00:05:17 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2015-02-19 19:31:58 UTC" participant="152115">
+      <body>Michael is getting us Chipotle for dinner.</body>
+    </message>
+    <message id="m0003" time="2015-02-19 19:32:10 UTC" participant="152115">
+      <body>So we don't need dinner.</body>
+    </message>
+    <message id="m0004" time="2015-02-19 19:33:46 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

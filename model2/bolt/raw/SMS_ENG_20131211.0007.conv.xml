@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131211.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-11 20:16:38 UTC" participant="153472">
+      <body>Do you have any plans for tomorrow night? If not, would you like to go see the Flyers game with me? I have free tix coming my way.</body>
+    </message>
+    <message id="m0001" time="2013-12-11 20:19:22 UTC" participant="152374">
+      <body>Would love to go! Free ##### time is the best :)</body>
+    </message>
+    <message id="m0002" time="2013-12-11 20:20:25 UTC" participant="153472">
+      <body>And hockey! Don't forget free hockey too! So glad you can make it!</body>
+    </message>
+    <message id="m0003" time="2013-12-11 20:21:01 UTC" participant="152374">
+      <body>When do you want to leave? I assume we'll take the subway?</body>
+    </message>
+    <message id="m0004" time="2013-12-11 20:22:31 UTC" participant="153472">
+      <body>Def the subway. I don't have the tix yet and didn't look up the game start. Let me check....</body>
+    </message>
+    <message id="m0005" time="2013-12-11 20:24:21 UTC" participant="153472">
+      <body>Game starts at 7. Want to leave my place around 6:15?</body>
+    </message>
+    <message id="m0006" time="2013-12-11 20:24:50 UTC" participant="152374">
+      <body>Works for me. We'll probably miss a few minutes but that's fine with me</body>
+    </message>
+    <message id="m0007" time="2013-12-11 20:26:07 UTC" participant="153472">
+      <body>We could go at 6 too. Actually we should prob plan for 6 as I'm usually running a lil late.</body>
+    </message>
+    <message id="m0008" time="2013-12-11 20:26:24 UTC" participant="152374">
+      <body>Ha ha, OK. 6 it is :)</body>
+    </message>
+    <message id="m0009" time="2013-12-11 20:28:11 UTC" participant="153472">
+      <body>I hope it's a decent game. This is not their best season.</body>
+    </message>
+    <message id="m0010" time="2013-12-11 20:32:45 UTC" participant="152374">
+      <body>No it isn't, but we'll have fun anyway!</body>
+    </message>
+  </messages>
+</conversation>
+

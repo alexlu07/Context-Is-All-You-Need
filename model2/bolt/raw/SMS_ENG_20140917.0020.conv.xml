@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140917.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-17 22:39:15 UTC" participant="153804">
+      <body>Are you getting rain in El Paso?</body>
+    </message>
+    <message id="m0001" time="2014-09-17 22:40:28 UTC" participant="153808">
+      <body>Not really. It's been raining a lil bit. Off and on over a few days. Why??? Did you see a bad report or something ?</body>
+    </message>
+    <message id="m0002" time="2014-09-17 22:41:07 UTC" participant="153804">
+      <body>Yes I just saw on the news</body>
+    </message>
+    <message id="m0003" time="2014-09-17 22:42:06 UTC" participant="153808">
+      <body>￼Not to bad right now. </body>
+    </message>
+    <message id="m0004" time="2014-09-17 22:43:49 UTC" participant="153804">
+      <body>Stay safe</body>
+    </message>
+  </messages>
+</conversation>
+

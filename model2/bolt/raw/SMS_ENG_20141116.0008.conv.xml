@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141116.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-16 01:55:12 UTC" participant="153423">
+      <body>￼do u like this drink? I want to buy it for byob?d
+</body>
+    </message>
+    <message id="m0001" time="2014-11-16 03:51:11 UTC" participant="153417">
+      <body>I've never had it</body>
+    </message>
+    <message id="m0002" time="2014-11-16 03:52:13 UTC" participant="153423">
+      <body>Oh ok I'll try to order some, really good. How was last night. Sorry was really tired last night</body>
+    </message>
+    <message id="m0003" time="2014-11-16 03:52:32 UTC" participant="153417">
+      <body>Oh no it's no problem. We had fun lol lots of lamb</body>
+    </message>
+    <message id="m0004" time="2014-11-16 03:52:32 UTC" participant="153423">
+      <body>Good I'm glad you had lots of lamb. It's the best thing off the menu</body>
+    </message>
+  </messages>
+</conversation>
+

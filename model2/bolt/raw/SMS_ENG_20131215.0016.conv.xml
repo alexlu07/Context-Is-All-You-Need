@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131215.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-15 22:17:05 UTC" participant="153244">
+      <body>Steph said don't eat all the choc chip!!</body>
+    </message>
+    <message id="m0001" time="2013-12-15 22:18:12 UTC" participant="154901">
+      <body>I won't</body>
+    </message>
+    <message id="m0002" time="2013-12-16 15:57:15 UTC" participant="153244">
+      <body>Hey just so ya know, you owe me $19 for Michael's xmas gift, $43 for cod for Steph, and still owe me $14 for your ID replacement. That's $76. </body>
+    </message>
+    <message id="m0003" time="2013-12-16 15:57:36 UTC" participant="153244">
+      <body>You can pay me lil by lil but wanted to give you the total</body>
+    </message>
+    <message id="m0004" time="2013-12-16 16:20:58 UTC" participant="154901">
+      <body>Ight okay I gotcha</body>
+    </message>
+  </messages>
+</conversation>
+

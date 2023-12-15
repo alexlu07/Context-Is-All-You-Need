@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120201.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-02-01 00:32:48 UTC">
+      <body>What's the name of the sad Israeli love movie?</body>
+    </message>
+    <message id="m0001" participant="135093" time="2012-02-01 01:57:18 UTC">
+      <body>The bubble</body>
+    </message>
+  </messages>
+</conversation>

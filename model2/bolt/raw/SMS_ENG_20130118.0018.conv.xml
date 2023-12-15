@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130118.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-18 22:16:18 UTC">
+      <body>I got the mail. Love you!</body>
+    </message>
+    <message id="m0001" participant="135266" time="2013-01-19 02:41:31 UTC">
+      <body>Leaving for RI around 10:30 in the morning. </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-19 02:41:46 UTC">
+      <body>L</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-19 02:41:55 UTC">
+      <body>*k</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-19 14:15:58 UTC">
+      <body>Is 10:30 when we actually have to leave or is it what you told mom? If latter, what time do we actually have to leave?</body>
+    </message>
+    <message id="m0005" participant="135266" time="2013-01-19 14:17:44 UTC">
+      <body>No later than 11:00, but that is pushing it. </body>
+    </message>
+  </messages>
+</conversation>

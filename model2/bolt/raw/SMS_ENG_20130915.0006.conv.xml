@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130915.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-15 22:57:38 UTC" participant="154406">
+      <body>you shoud have come. we had a BBQ and played frisbee</body>
+    </message>
+    <message id="m0001" time="2013-09-16 00:45:45 UTC" participant="154352">
+      <body>Sounds like fun. I didn't know I was invited.</body>
+    </message>
+    <message id="m0002" time="2013-09-16 00:47:51 UTC" participant="154406">
+      <body>it was on the cs fb page</body>
+    </message>
+    <message id="m0003" time="2013-09-16 01:05:39 UTC" participant="154352">
+      <body>I ended up going out to dinner with the parents.</body>
+    </message>
+    <message id="m0004" time="2013-09-16 01:32:02 UTC" participant="154406">
+      <body>do they live here</body>
+    </message>
+    <message id="m0005" time="2013-09-16 02:31:40 UTC" participant="154352">
+      <body>They live nearby and it's restaurant week, so yum.</body>
+    </message>
+  </messages>
+</conversation>
+

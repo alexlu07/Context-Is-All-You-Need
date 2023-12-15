@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 22:29:22 UTC" participant="153881">
+      <body>I take it you would like me to wear the same thing I did last week?</body>
+    </message>
+    <message id="m0001" time="2015-02-25 22:31:32 UTC" participant="153848">
+      <body>Yes, that'd be great. Did you get the email I sent last night with the script attached? </body>
+    </message>
+    <message id="m0002" time="2015-02-25 22:32:17 UTC" participant="153881">
+      <body>Yea I did. Sorry l didn't reply to confirm</body>
+    </message>
+    <message id="m0003" time="2015-02-25 22:32:59 UTC" participant="153848">
+      <body>No problem, just wanted to make sure! Thanks again. </body>
+    </message>
+    <message id="m0004" time="2015-02-25 22:37:45 UTC" participant="153881">
+      <body>You're welcome. See you tomorrow at 9</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-08 18:13:16 UTC">
+      <body>Should I order the chromebook with you 9512 Visa?</body>
+    </message>
+    <message id="m0001" participant="131585" time="2013-05-08 18:55:55 UTC">
+      <body>How much again?</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-08 18:56:59 UTC">
+      <body>249, I'll give you 80</body>
+    </message>
+    <message id="m0003" participant="131528" time="2013-05-08 20:47:44 UTC">
+      <body>I have to order before 5 to get it by Thursday...</body>
+    </message>
+    <message id="m0004" participant="131528" time="2013-05-08 21:56:09 UTC">
+      <body>Your info doesn't seem to available in my Amazon. It's probably safer to send it home. Either you can order it on my account or you can give me your info.</body>
+    </message>
+    <message id="m0006" participant="131528" time="2013-05-09 18:23:26 UTC">
+      <body>Ooooo.  This guy at work just sent me a link to a book about valuing video game societies.  Crazy. </body>
+    </message>
+  </messages>
+</conversation>

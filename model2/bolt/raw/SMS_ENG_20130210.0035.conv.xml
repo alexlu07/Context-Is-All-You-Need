@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-10 23:18:14 UTC">
+      <body>Hey lee we still on for tomorrow morning with the laser cutter?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-10 23:18:30 UTC">
+      <body>And work too?</body>
+    </message>
+    <message id="m0002" participant="135469" time="2013-02-10 23:20:24 UTC">
+      <body>Yes
+Which first?
+Starting After 9:30 What exact time good for you?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-10 23:20:47 UTC">
+      <body>I am free from 9:30 to 12:30</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-10 23:21:09 UTC">
+      <body>Actually lets say 12 not 12:30</body>
+    </message>
+    <message id="m0005" participant="135469" time="2013-02-11 00:30:53 UTC">
+      <body>9:30 confirmed</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-02-11 00:31:25 UTC">
+      <body>Great.  Ill ask sky if wants a laser demo</body>
+    </message>
+    <message id="m0007" participant="135469" time="2013-02-11 00:46:56 UTC">
+      <body>Yes anyone else also</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-02-11 00:52:35 UTC">
+      <body>No it would just be her</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-02-11 14:37:06 UTC">
+      <body>Lee  just wanted to let you know I was here! </body>
+    </message>
+    <message id="m0010" participant="135469" time="2013-02-11 14:45:20 UTC">
+      <body>In parking lot
+Almost here</body>
+    </message>
+  </messages>
+</conversation>

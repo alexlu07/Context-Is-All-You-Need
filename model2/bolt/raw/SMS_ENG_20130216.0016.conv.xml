@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-02-16 14:55:37 UTC">
+      <body>Looks fine. Heading home now, but might stop at kentlands. Any groceries?</body>
+    </message>
+    <message id="m0001" participant="131282" time="2013-02-16 14:56:32 UTC">
+      <body>fruit for me?</body>
+    </message>
+    <message id="m0002" participant="131282" time="2013-02-16 14:56:42 UTC">
+      <body>don't know what we ate eating this week</body>
+    </message>
+    <message id="m0003" participant="131281" time="2013-02-16 14:57:03 UTC">
+      <body>Oranges,apples, nanas?</body>
+    </message>
+    <message id="m0004" participant="131282" time="2013-02-16 14:58:25 UTC">
+      <body>apples and bananas for her</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140601.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-01 20:41:25 UTC" participant="152115">
+      <body>What are you doing?</body>
+    </message>
+    <message id="m0001" time="2014-06-01 22:14:35 UTC" participant="152116">
+      <body>Test</body>
+    </message>
+    <message id="m0002" time="2014-06-01 22:14:50 UTC" participant="152115">
+      <body>Okay</body>
+    </message>
+    <message id="m0003" time="2014-06-02 14:31:24 UTC" participant="152116">
+      <body>I'm meeting Taryn and emerald at 5:30.</body>
+    </message>
+    <message id="m0004" time="2014-06-02 15:11:02 UTC" participant="152115">
+      <body>Ok. Good.</body>
+    </message>
+    <message id="m0005" time="2014-06-02 17:09:43 UTC" participant="152116">
+      <body>I'm gonna go to shower at my parents'  first</body>
+    </message>
+    <message id="m0006" time="2014-06-02 17:37:01 UTC" participant="152115">
+      <body>Ok.</body>
+    </message>
+    <message id="m0007" time="2014-06-02 17:37:26 UTC" participant="152115">
+      <body>You are in an update mood today. I like it. Haha.</body>
+    </message>
+    <message id="m0008" time="2014-06-02 17:39:53 UTC" participant="152116">
+      <body>Good. I was hoping you would.</body>
+    </message>
+    <message id="m0009" time="2014-06-02 20:01:00 UTC" participant="152115">
+      <body>Where are you eating dinner?</body>
+    </message>
+    <message id="m0010" time="2014-06-02 20:16:42 UTC" participant="152115">
+      <body>You cleared off the couch. That deserves an extra I love you :)</body>
+    </message>
+    <message id="m0011" time="2014-06-02 20:16:48 UTC" participant="152115">
+      <body>Thank you.</body>
+    </message>
+    <message id="m0012" time="2014-06-02 20:19:49 UTC" participant="152116">
+      <body>Were going to chili's</body>
+    </message>
+    <message id="m0013" time="2014-06-02 20:19:50 UTC" participant="152116">
+      <body>Haha really? I did it just for you.</body>
+    </message>
+    <message id="m0014" time="2014-06-02 20:22:35 UTC" participant="152115">
+      <body>We are having eggplant parm tonight so there will be plenty of leftovers if you don't want to get something big at chili' s.</body>
+    </message>
+    <message id="m0015" time="2014-06-02 20:24:42 UTC" participant="152116">
+      <body>Okay thans</body>
+    </message>
+    <message id="m0016" time="2014-06-02 20:24:43 UTC" participant="152116">
+      <body>Okay thans</body>
+    </message>
+    <message id="m0017" time="2014-06-02 20:24:43 UTC" participant="152116">
+      <body>*thanks</body>
+    </message>
+  </messages>
+</conversation>
+

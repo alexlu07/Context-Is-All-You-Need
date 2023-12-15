@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131031.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-31 23:20:20 UTC" participant="153244">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0001" time="2013-10-31 23:20:50 UTC" participant="154901">
+      <body>Getting my phone switch</body>
+    </message>
+  </messages>
+</conversation>
+

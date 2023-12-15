@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131468" time="2013-03-27 18:54:06 UTC">
+      <body>Hey! Are you going to yoga tonight?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-03-27 19:01:55 UTC">
+      <body>Sadly I'm not! My aunt and uncle are in town so I'm meeting them right after work, then I have a preview event for penn! :-)</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-03-27 19:02:31 UTC">
+      <body>And friday--Wednesday I'm going to be in Illinois for work :-(</body>
+    </message>
+  </messages>
+</conversation>

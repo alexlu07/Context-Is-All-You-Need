@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130321.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135302" time="2013-03-21 13:09:20 UTC">
+      <body>Hey I know it's a bit last minute but if you want to get lunch today I could do that anytime from 11:30 to 12:30/1</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-21 13:12:25 UTC">
+      <body>I'm at placement sorry!</body>
+    </message>
+    <message id="m0002" participant="135302" time="2013-03-21 13:13:36 UTC">
+      <body>Ok no prob! Thought maybe your tues/thurs schedule might be the same. Have fun!</body>
+    </message>
+  </messages>
+</conversation>

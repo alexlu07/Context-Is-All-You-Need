@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-06-24 14:18:00 UTC">
+      <body>Did we get our expense check fri or today?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-24 14:27:56 UTC">
+      <body>Don't know, haven't submitted for a bit.</body>
+    </message>
+    <message id="m0002" participant="131507" time="2013-06-24 14:28:40 UTC">
+      <body>Oh bummer. K </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150116.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-16 12:56:32 UTC" participant="153602">
+      <body>OK</body>
+    </message>
+    <message id="m0001" time="2015-01-16 12:57:16 UTC" participant="153547">
+      <body>Running late. Be there 830</body>
+    </message>
+  </messages>
+</conversation>
+

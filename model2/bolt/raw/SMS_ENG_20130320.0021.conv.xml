@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135293" time="2013-03-20 11:46:08 UTC">
+      <body>When works for you to see my pretty face? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-20 13:13:03 UTC">
+      <body>Hey! So I am getting breakfast with Fairleigh from 9:45-10:15, then I am free again at around 11:20ish, maybe 11:10, until 3. When are you eating lunch?</body>
+    </message>
+    <message id="m0002" participant="135293" time="2013-03-20 13:34:49 UTC">
+      <body>I was meeting Lizzie for lunch from 11-11:40 or so so you should come by at 11:20 or so and hang out on the DC! </body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-20 13:35:04 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0004" participant="135293" time="2013-03-20 15:25:52 UTC">
+      <body>Apparently I need to talk to you about housing. Remind me when I see you </body>
+    </message>
+  </messages>
+</conversation>

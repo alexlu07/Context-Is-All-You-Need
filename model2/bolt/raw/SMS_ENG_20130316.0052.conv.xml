@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-16 19:03:58 UTC" participant="152417">
+      <body>Eek, sorry, im still out running errands, ill see you after work</body>
+    </message>
+    <message id="m0001" time="2013-03-16 19:24:29 UTC" participant="152560">
+      <body>See you.</body>
+    </message>
+    <message id="m0002" time="2013-03-17 02:54:53 UTC" participant="152417">
+      <body>Im at home, see you when youre out</body>
+    </message>
+    <message id="m0003" time="2013-03-17 04:43:49 UTC" participant="152560">
+      <body>Just getting out now-grabbing a beer with the crew at VPB.</body>
+    </message>
+    <message id="m0004" time="2013-03-17 16:28:26 UTC" participant="152417">
+      <body>￼Look who came to rehearsal!</body>
+    </message>
+    <message id="m0005" time="2013-03-17 16:30:01 UTC" participant="152560">
+      <body>Go beagles!</body>
+    </message>
+  </messages>
+</conversation>
+

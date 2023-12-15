@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140605.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-05 22:00:23 UTC" participant="149306">
+      <body>Hi Amanda, just wanted to let you know I'm with biggie and he seems really happy today. We went for a walk in the sun and he scarfed down his dinner. Have a great weekend. 
+####</body>
+    </message>
+    <message id="m0001" time="2014-06-05 22:45:20 UTC" participant="149352">
+      <body>Thanks ######Have a great night :)</body>
+    </message>
+    <message id="m0002" time="2014-06-05 22:49:21 UTC" participant="149306">
+      <body>You're welcome</body>
+    </message>
+  </messages>
+</conversation>
+

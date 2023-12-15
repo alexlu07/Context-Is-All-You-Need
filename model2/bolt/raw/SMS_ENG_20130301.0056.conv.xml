@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-01 21:19:37 UTC" participant="152417">
+      <body>Do you know where the bread stone is?</body>
+    </message>
+    <message id="m0001" time="2013-03-01 21:20:40 UTC" participant="152426">
+      <body>Look in the outdoor grill</body>
+    </message>
+    <message id="m0002" time="2013-03-01 21:25:02 UTC" participant="152417">
+      <body>Got it, challahs goin inthe oven soon</body>
+    </message>
+    <message id="m0003" time="2013-03-01 21:26:37 UTC" participant="152426">
+      <body>I love your challah but will need my oven by 5:35</body>
+    </message>
+  </messages>
+</conversation>
+

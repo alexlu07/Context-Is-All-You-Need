@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-27 16:38:56 UTC">
+      <body>Can you ask grandma if she has a traditional or family recipe for canolis and if I can have it if she does? </body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-11-27 16:55:27 UTC">
+      <body>Just called grandma and unfortunately she doesn't have a family recipe for canolis......but she has a few in her cook book if you'd like them?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-27 17:01:18 UTC">
+      <body>Sure I will take one!</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-11-27 17:05:16 UTC">
+      <body>She is looking for a recipe when she finds one you'll call her . When do u need it?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-27 17:05:50 UTC">
+      <body>I don't need it until this weekend. Thank you!</body>
+    </message>
+    <message id="m0005" participant="136219" time="2012-11-27 17:14:34 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

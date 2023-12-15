@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121226.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-26 15:03:56 UTC" participant="154393">
+      <body>Are we going to Sugarloaf Maine for our annual New Year's eve ski vacation?</body>
+    </message>
+    <message id="m0001" time="2012-12-26 15:09:19 UTC" participant="154352">
+      <body>I looked at the site last time I texted and it looked pretty much booked up</body>
+    </message>
+    <message id="m0002" time="2012-12-26 15:15:04 UTC" participant="154393">
+      <body>I'll call.
+What nights should I book,
+If possible?
+I'm thinking Friday night to    And including Monday night, leaving Tuesday afternoon.</body>
+    </message>
+    <message id="m0003" time="2012-12-26 15:34:59 UTC" participant="154352">
+      <body>That sounds good as long as we leave early enough on Tuesday for the 9.5 hour drive home</body>
+    </message>
+    <message id="m0004" time="2012-12-27 01:56:02 UTC" participant="154352">
+      <body>Any luck on the ski mountain search?</body>
+    </message>
+    <message id="m0005" time="2012-12-27 13:30:38 UTC" participant="154393">
+      <body>Did you take tomorrow off?</body>
+    </message>
+    <message id="m0006" time="2012-12-27 13:31:37 UTC" participant="154352">
+      <body>I am already off. Did you find anything available?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131024.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-24 23:51:01 UTC" participant="153570">
+      <body>Did you send that last text to Katya?</body>
+    </message>
+    <message id="m0001" time="2013-10-24 23:51:44 UTC" participant="153548">
+      <body>I didn't! </body>
+    </message>
+    <message id="m0002" time="2013-10-24 23:52:42 UTC" participant="153548">
+      <body>I'll tell her about it when I see her next!</body>
+    </message>
+    <message id="m0003" time="2013-10-24 23:53:02 UTC" participant="153570">
+      <body>Ok. </body>
+    </message>
+  </messages>
+</conversation>
+

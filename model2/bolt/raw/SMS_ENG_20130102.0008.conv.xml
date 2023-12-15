@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135289" time="2013-01-02 23:12:41 UTC">
+      <body>Free later? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-02 23:28:05 UTC">
+      <body>Sorry I'm in New York headed to DC! Ill be back in a week... When do you head back?</body>
+    </message>
+    <message id="m0002" participant="135289" time="2013-01-03 00:02:21 UTC">
+      <body>Oh woops! I'm leaving on Sunday. Well we should meet in philly again before too long</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-03 00:02:40 UTC">
+      <body>Yes I agree :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140130.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-30 13:17:13 UTC" participant="153491">
+      <body>So what did Amy say?</body>
+    </message>
+    <message id="m0001" time="2014-01-30 13:18:45 UTC" participant="152116">
+      <body>I was gonna tell you. I didn't meet with her. We had to postpone. We're meeting at noon today.</body>
+    </message>
+    <message id="m0002" time="2014-01-30 13:22:58 UTC" participant="153491">
+      <body>Okay. </body>
+    </message>
+    <message id="m0003" time="2014-01-30 22:40:34 UTC" participant="153491">
+      <body>Yeaaaaaz mothas!!!!</body>
+    </message>
+  </messages>
+</conversation>
+

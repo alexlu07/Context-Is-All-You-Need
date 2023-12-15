@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120627.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136249" time="2012-06-27 12:44:39 UTC">
+      <body>Hey dude, do you know if you can come to my show on the 11th?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-27 12:53:45 UTC">
+      <body>I think I'll be able to!</body>
+    </message>
+    <message id="m0002" participant="136249" time="2012-06-27 12:54:24 UTC">
+      <body>When could i bring you a ticket?</body>
+    </message>
+  </messages>
+</conversation>

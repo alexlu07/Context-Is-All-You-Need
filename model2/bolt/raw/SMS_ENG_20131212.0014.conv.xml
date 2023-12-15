@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131212.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-12 23:26:04 UTC" participant="153548">
+      <body>Text me when you are close! </body>
+    </message>
+    <message id="m0001" time="2013-12-12 23:34:09 UTC" participant="153640">
+      <body>On south st bridge!</body>
+    </message>
+    <message id="m0002" time="2013-12-12 23:34:24 UTC" participant="153640">
+      <body>Where r u?</body>
+    </message>
+    <message id="m0003" time="2013-12-12 23:34:45 UTC" participant="153548">
+      <body>Cool! I'll start walking in a few!! See you soon.</body>
+    </message>
+    <message id="m0004" time="2013-12-12 23:37:13 UTC" participant="153548">
+      <body>I'm at walnut and 40th not far at all</body>
+    </message>
+    <message id="m0005" time="2013-12-12 23:37:43 UTC" participant="153548">
+      <body>Well, 41st</body>
+    </message>
+  </messages>
+</conversation>
+

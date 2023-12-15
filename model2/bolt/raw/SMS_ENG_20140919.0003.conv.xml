@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140919.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-19 01:14:40 UTC" participant="152424">
+      <body>please call when you get a chance</body>
+    </message>
+    <message id="m0001" time="2014-09-19 01:18:56 UTC" participant="152424">
+      <body>I'll call in one sec</body>
+    </message>
+    <message id="m0002" time="2014-09-19 15:34:24 UTC" participant="152424">
+      <body>ct scan today, surgery Monday.  doctors are great and they are pushing me through.  doc is confident that it is early stage.</body>
+    </message>
+    <message id="m0003" time="2014-09-19 15:44:40 UTC" participant="152417">
+      <body>Good good, let me know what i can do to help you through.  Stay strong! </body>
+    </message>
+    <message id="m0004" time="2014-09-19 15:45:04 UTC" participant="152424">
+      <body>thank you</body>
+    </message>
+    <message id="m0005" time="2014-09-19 19:39:01 UTC" participant="152417">
+      <body>Do you have plans tonight? I decided not to play at Estia, do you want to go to dinner somewhere?</body>
+    </message>
+    <message id="m0006" time="2014-09-19 19:39:44 UTC" participant="152424">
+      <body>not sure, about to have ct scan.  probably taking it easy</body>
+    </message>
+  </messages>
+</conversation>
+

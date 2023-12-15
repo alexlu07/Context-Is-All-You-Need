@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131361" time="2013-02-19 01:04:38 UTC">
+      <body>Joann is up early so you get there between 8 and 9.</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-19 02:17:26 UTC">
+      <body>cool.</body>
+    </message>
+  </messages>
+</conversation>

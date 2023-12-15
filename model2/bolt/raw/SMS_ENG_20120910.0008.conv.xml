@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120910.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-09-10 19:39:27 UTC">
+      <body>Happy Monday Pix!  I have to go to the paralegal with Tashie, how late can we talk?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-09-10 20:35:06 UTC">
+      <body>Um, 9...but we could talk tomorrow if that's better.</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-09-10 21:40:02 UTC">
+      <body>How about Wed. Instead?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-09-10 21:40:53 UTC">
+      <body>Sure! 5/8pm still?</body>
+    </message>
+    <message id="m0004" participant="131023" time="2012-09-10 21:41:52 UTC">
+      <body>Yep, that works for me, ok for you?</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-09-10 21:42:22 UTC">
+      <body>Yep! Talk to you then!</body>
+    </message>
+    <message id="m0006" participant="131023" time="2012-09-10 21:43:02 UTC">
+      <body>Ok, love you!</body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-09-10 21:43:59 UTC">
+      <body>Love you!</body>
+    </message>
+  </messages>
+</conversation>

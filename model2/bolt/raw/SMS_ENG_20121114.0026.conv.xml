@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-14 23:11:07 UTC">
+      <body>Are you well enough for the gym tonight</body>
+    </message>
+    <message id="m0001" participant="136274" time="2012-11-15 00:18:31 UTC">
+      <body>Yeah but idk when I finish dance</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-15 01:58:48 UTC">
+      <body>It's all gucci I'm prolly gonna go at 9:30 anyway</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-15 17:45:13 UTC">
+      <body>How long is the show tonight</body>
+    </message>
+    <message id="m0004" participant="136274" time="2012-11-15 17:45:26 UTC">
+      <body>Hour and a half</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-11-15 17:47:45 UTC">
+      <body>Ok I think I can only stay till 9 is that ok?</body>
+    </message>
+    <message id="m0006" participant="136274" time="2012-11-15 17:48:48 UTC">
+      <body>Yeah just leave at intermission </body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-11-15 17:51:29 UTC">
+      <body>Aight coool</body>
+    </message>
+  </messages>
+</conversation>

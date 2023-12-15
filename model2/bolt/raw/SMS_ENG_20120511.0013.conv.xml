@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120511.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-11 18:34:22 UTC">
+      <body>What movie do you want to see? And where do you want to have brunch?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-11 18:54:13 UTC">
+      <body>Also prom permission slip is on my desk</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-05-12 00:00:46 UTC">
+      <body>I think Bernie. Not sure about where to eat yet.</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-12 02:05:35 UTC">
+      <body>On my way home!</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-05-12 02:06:22 UTC">
+      <body>I was wondering!</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-05-12 02:09:02 UTC">
+      <body>Getting dinner first so you don't need to worry about feeding us</body>
+    </message>
+    <message id="m0006" participant="136202" time="2012-05-12 02:09:38 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" participant="136202" time="2012-05-12 19:20:31 UTC">
+      <body>R u coming back here before the concert?</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-05-12 19:20:43 UTC">
+      <body>Yeah. I'll be home by 6</body>
+    </message>
+    <message id="m0009" participant="136202" time="2012-05-12 19:21:28 UTC">
+      <body>Ok and will y both want to eat?</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-05-12 19:22:21 UTC">
+      <body>I'll have some chili. He won't be here till 7:30 so we'll eat out</body>
+    </message>
+    <message id="m0011" participant="136202" time="2012-05-12 19:23:20 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

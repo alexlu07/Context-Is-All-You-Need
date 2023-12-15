@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-20 22:55:48 UTC">
+      <body>We are leaving HC at 8:10 tomorrow so see you at pem arch around 8:20?</body>
+    </message>
+    <message id="m0001" participant="135307" time="2013-02-20 22:56:00 UTC">
+      <body>Okay cool</body>
+    </message>
+  </messages>
+</conversation>

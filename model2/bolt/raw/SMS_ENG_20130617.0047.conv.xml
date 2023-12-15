@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-06-17 16:20:45 UTC">
+      <body>I didn't see you so I went downstairs, sorry!</body>
+    </message>
+    <message id="m0001" participant="135327" time="2013-06-18 16:08:32 UTC">
+      <body>Hey let me know if you still need help with that guy. Also if I can't pick up pat is good to ask of she's free. I've never had to deal with insurance companies before for research participants, but he may just need you to confirm he has an appointment in order to get transport from them</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-06-18 19:10:40 UTC">
+      <body>Do RR and PB need reminder calls that they're coming in?</body>
+    </message>
+    <message id="m0003" participant="135327" time="2013-06-18 19:52:52 UTC">
+      <body>Yes. </body>
+    </message>
+  </messages>
+</conversation>

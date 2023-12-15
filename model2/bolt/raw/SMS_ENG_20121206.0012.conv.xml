@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121206.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135292" time="2012-12-06 19:19:02 UTC">
+      <body>Hey! Call me when you can. I have some feedback re: your cv, if ya still want it!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-12-06 19:20:11 UTC">
+      <body>I'm running to class...can I call you at 4? I'm free from 4-5:15 and after 6. Thank you so much for looking at it! :)</body>
+    </message>
+    <message id="m0002" participant="135292" time="2012-12-06 19:21:35 UTC">
+      <body>Let's do after 6!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-12-06 19:22:18 UTC">
+      <body>Ok perfect:)</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-12-06 23:04:14 UTC">
+      <body>Hey! When is good for you to talk?</body>
+    </message>
+    <message id="m0005" participant="135292" time="2012-12-07 22:41:43 UTC">
+      <body>Sent you my cv plus a few others in two emails.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-12-07 22:59:34 UTC">
+      <body>Thank you!!! :)</body>
+    </message>
+  </messages>
+</conversation>

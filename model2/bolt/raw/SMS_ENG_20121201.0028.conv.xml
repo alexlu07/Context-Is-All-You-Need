@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-01 22:25:11 UTC">
+      <body>Hey what's up? It's Will</body>
+    </message>
+    <message id="m0001" participant="136310" time="2012-12-01 23:13:04 UTC">
+      <body>Good just studying what about you? </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-01 23:59:35 UTC">
+      <body>Just finished working on a group project. What are you doing tonight</body>
+    </message>
+    <message id="m0003" participant="136310" time="2012-12-02 01:12:25 UTC">
+      <body>I'll probably go to frat row but not sure </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-02 01:48:06 UTC">
+      <body>Same. I'll let you know if I'm going out</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-02 05:06:32 UTC">
+      <body>Where'd you go</body>
+    </message>
+  </messages>
+</conversation>

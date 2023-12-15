@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0029" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130661" time="2013-05-19 14:58:48 UTC">
+      <body>Hi Edward!</body>
+    </message>
+    <message id="m0001" participant="130529" time="2013-05-19 14:59:48 UTC">
+      <body>Hey grawp. How's your weekend going?</body>
+    </message>
+    <message id="m0002" participant="130661" time="2013-05-19 15:03:08 UTC">
+      <body>Good, actually. I'm on my way to Maker Faire in San Mateo, CA</body>
+    </message>
+    <message id="m0003" participant="130661" time="2013-05-19 15:03:38 UTC">
+      <body>It's basically a show and tell, except on a much bigger scale. :)</body>
+    </message>
+    <message id="m0004" participant="130661" time="2013-05-19 15:06:06 UTC">
+      <body>How about you?</body>
+    </message>
+    <message id="m0005" participant="130529" time="2013-05-19 15:14:30 UTC">
+      <body>Excellent. What sorts of things do people typically make to show and tell at this fair?</body>
+    </message>
+    <message id="m0006" participant="130529" time="2013-05-19 15:14:30 UTC">
+      <body>About to head to pick up a few groceries. Mostly just cleaning and going about my daily maintenance today.</body>
+    </message>
+    <message id="m0007" participant="130661" time="2013-05-20 10:34:59 UTC">
+      <body>(1/2)Hey, sorry I couldn't reply earlier. There were robots, steampunk vehicles, crazy bicycles, R2D2s and a whole lot of other stuff. Kind of a tech-meets-art</body>
+    </message>
+    <message id="m0008" participant="130661" time="2013-05-20 10:35:21 UTC">
+      <body>(2/2)thing. Lots of fun!</body>
+    </message>
+    <message id="m0009" participant="130529" time="2013-05-20 10:44:05 UTC">
+      <body>Nice. Sounds pretty sweet. Were you participating or just spectating?</body>
+    </message>
+    <message id="m0010" participant="130661" time="2013-05-20 10:50:35 UTC">
+      <body>I was just spectating. It happens every year in the SF bay area, I'm hoping I'll be able to go next year too.</body>
+    </message>
+    <message id="m0011" participant="130661" time="2013-05-20 10:51:53 UTC">
+      <body>How's your day going?</body>
+    </message>
+    <message id="m0012" participant="130529" time="2013-05-20 10:52:47 UTC">
+      <body>Pretty good. About to head into a meeting. How bout yourself?</body>
+    </message>
+    <message id="m0013" participant="130661" time="2013-05-20 10:56:13 UTC">
+      <body>On my way to work. Have a good day!</body>
+    </message>
+    <message id="m0014" participant="130529" time="2013-05-20 11:34:58 UTC">
+      <body>You too!</body>
+    </message>
+  </messages>
+</conversation>

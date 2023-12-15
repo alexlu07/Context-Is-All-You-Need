@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-05-15 00:25:08 UTC">
+      <body>Wings tomorrow? </body>
+    </message>
+    <message id="m0001" participant="134301" time="2013-05-15 00:31:37 UTC">
+      <body>Thursday would probably work better. I'm not at my internship any longer </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-05-15 01:07:43 UTC">
+      <body>Don't think I can do Thursday </body>
+    </message>
+    <message id="m0003" participant="134301" time="2013-05-15 01:09:06 UTC">
+      <body>Ok. Wednesday works </body>
+    </message>
+    <message id="m0004" participant="134301" time="2013-05-15 01:09:45 UTC">
+      <body>I have a meeting after work. Probably til 5:30. I could meet up by 6.</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-05-15 01:10:09 UTC">
+      <body>Ok. If it works for you </body>
+    </message>
+    <message id="m0006" participant="134301" time="2013-05-15 01:11:10 UTC">
+      <body>Yeah its fine... Tuesdays and Thursdays usually work better because Sammy has dance and I wouldn't be able to see the girls until later in the night anyway </body>
+    </message>
+    <message id="m0007" participant="134301" time="2013-05-15 01:11:26 UTC">
+      <body>But tomorrow will do at 6</body>
+    </message>
+    <message id="m0008" participant="134301" time="2013-05-15 21:30:09 UTC">
+      <body>I'll be there probably about 10 minutes late</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-05-15 21:30:59 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0011" participant="134301" time="2013-05-15 21:47:27 UTC">
+      <body>Nevermind I'll be there on time</body>
+    </message>
+    <message id="m0012" participant="134301" time="2013-05-15 22:01:05 UTC">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>

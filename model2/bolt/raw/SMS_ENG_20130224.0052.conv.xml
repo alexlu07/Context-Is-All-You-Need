@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136153" time="2013-02-24 02:13:32 UTC">
+      <body>Hey, are we all set for rides tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-24 02:14:11 UTC">
+      <body>i was just about to send out a text. you coming? </body>
+    </message>
+    <message id="m0002" participant="136153" time="2013-02-24 02:14:41 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0003" participant="136153" time="2013-02-24 14:02:32 UTC">
+      <body>Okay! I'll let you know what happens. Is anyone else going today!</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-24 14:04:23 UTC">
+      <body>just you and meghan! </body>
+    </message>
+    <message id="m0005" participant="136153" time="2013-02-24 14:04:50 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0006" participant="136153" time="2013-02-24 17:35:33 UTC">
+      <body>Idx tonight at 5:30 with an Oscar party afterwards. Meghan is going to pick us up at woodruff but I'm not sure what time so you'd have to ask her about that</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-02-24 17:35:59 UTC">
+      <body>okay, thanks so much! </body>
+    </message>
+    <message id="m0008" participant="136153" time="2013-02-24 20:20:34 UTC">
+      <body>Can you ask Meghan what time we should meet her?</body>
+    </message>
+    <message id="m0009" participant="136112" time="2013-02-24 20:30:51 UTC">
+      <body>sure! </body>
+    </message>
+    <message id="m0010" participant="136153" time="2013-02-24 20:31:30 UTC">
+      <body>Thanks </body>
+    </message>
+    <message id="m0011" participant="136112" time="2013-02-24 20:33:58 UTC">
+      <body>she says 5:20</body>
+    </message>
+    <message id="m0012" participant="136153" time="2013-02-24 20:34:27 UTC">
+      <body>Awesome</body>
+    </message>
+  </messages>
+</conversation>

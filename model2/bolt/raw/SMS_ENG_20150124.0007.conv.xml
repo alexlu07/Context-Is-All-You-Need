@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150124.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-24 12:31:06 UTC" participant="153259">
+      <body>Hey are we open today </body>
+    </message>
+    <message id="m0001" time="2015-01-24 12:59:19 UTC" participant="153244">
+      <body>As far as I know yea... I haven't heard anything</body>
+    </message>
+    <message id="m0002" time="2015-01-24 12:59:36 UTC" participant="153259">
+      <body>It's open lol. See u there. </body>
+    </message>
+    <message id="m0003" time="2015-01-24 13:00:02 UTC" participant="153244">
+      <body>Lol see ya there</body>
+    </message>
+  </messages>
+</conversation>
+

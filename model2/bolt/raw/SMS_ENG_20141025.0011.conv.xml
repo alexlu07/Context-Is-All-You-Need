@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-25 23:00:18 UTC" participant="153547">
+      <body>Hey Adam can you shoot me an email about the work. I was busy with shit today. </body>
+    </message>
+    <message id="m0001" time="2014-10-26 00:01:36 UTC" participant="153547">
+      <body>Also, I'm pretty sure I'm gonna sell all my music gear so if there's any chance you could help me record something it would be awesome </body>
+    </message>
+    <message id="m0002" time="2014-10-26 00:31:18 UTC" participant="153561">
+      <body>Yeah for sure. I'm gonna text back in a little bit busy now</body>
+    </message>
+  </messages>
+</conversation>
+

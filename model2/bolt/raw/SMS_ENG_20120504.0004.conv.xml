@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120504.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-05-04 15:13:33 UTC">
+      <body>What must one wear to formals?</body>
+    </message>
+    <message id="m0001" participant="131825" time="2012-05-04 15:23:44 UTC">
+      <body>Tux tonight I think</body>
+    </message>
+    <message id="m0002" participant="131825" time="2012-05-04 15:23:44 UTC">
+      <body>And then tomorrow is semi formal </body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-05-04 15:26:16 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121011.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135440" time="2012-10-11 23:57:52 UTC">
+      <body>yo girl. what are you doing tomorrow? im playing a little hookey and am in town</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-12 01:07:06 UTC">
+      <body>Robin I have reviews tomorrow!!!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-12 01:07:18 UTC">
+      <body>I mean not tomorrow next week but sat night</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-12 01:08:35 UTC">
+      <body>I'm free</body>
+    </message>
+    <message id="m0004" participant="135440" time="2012-10-12 01:23:12 UTC">
+      <body>ok!!! we should do something! i will text you sat am</body>
+    </message>
+  </messages>
+</conversation>

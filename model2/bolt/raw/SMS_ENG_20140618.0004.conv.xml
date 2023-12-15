@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140618.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-18 21:00:22 UTC" participant="152429">
+      <body>Wait are you in philly right now?</body>
+    </message>
+    <message id="m0001" time="2014-06-18 21:01:33 UTC" participant="152417">
+      <body>No, i snagged that photo from google street view, its the view from aarons street where ill be living in sept</body>
+    </message>
+    <message id="m0002" time="2014-06-18 21:05:04 UTC" participant="152429">
+      <body>With Aaron?</body>
+    </message>
+    <message id="m0003" time="2014-06-18 21:19:45 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" time="2014-06-18 21:22:08 UTC" participant="152429">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>
+

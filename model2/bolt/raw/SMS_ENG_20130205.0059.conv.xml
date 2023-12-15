@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-05 14:06:45 UTC" participant="154352">
+      <body>I just got my plane ticket to Jackson hole</body>
+    </message>
+    <message id="m0001" time="2013-02-06 00:54:52 UTC" participant="154390">
+      <body>Yay, awesome! When are your times for arriving/leaving?</body>
+    </message>
+    <message id="m0002" time="2013-02-06 00:56:27 UTC" participant="154352">
+      <body>https://www.kayak.com/trips/A_YA6b</body>
+    </message>
+  </messages>
+</conversation>
+

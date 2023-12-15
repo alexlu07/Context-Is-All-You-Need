@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140307.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-07 03:36:45 UTC" participant="152563">
+      <body>Hey, it's Greg wondering if you will be available next Monday and Tuesday?</body>
+    </message>
+    <message id="m0001" time="2014-03-07 04:01:19 UTC" participant="152417">
+      <body>Hey Greg! I'll be at Urintetown rehearsals again.  Why?</body>
+    </message>
+  </messages>
+</conversation>
+

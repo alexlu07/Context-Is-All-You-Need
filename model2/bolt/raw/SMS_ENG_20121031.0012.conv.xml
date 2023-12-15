@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121031.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-31 12:15:58 UTC">
+      <body>Hey lady.  How are you holding up?  Power? Friends? Family?</body>
+    </message>
+    <message id="m0001" participant="135355" time="2012-10-31 15:44:08 UTC">
+      <body>No/yes/yes. Trying to escape somehow</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-31 15:50:21 UTC">
+      <body>Come here </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-31 15:51:22 UTC">
+      <body>Now </body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-31 15:51:26 UTC">
+      <body>Live with me</body>
+    </message>
+  </messages>
+</conversation>

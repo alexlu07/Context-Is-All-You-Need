@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0035" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-05-20 13:40:58 UTC">
+      <body>Hey, how's the start of your week?</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-05-20 14:09:54 UTC">
+      <body>Hello! It's doing well! Off to a slow start but... Well Mondays. Yourself?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-05-20 14:11:31 UTC">
+      <body>Exactly the same, just trying to get my priorities straight for the week</body>
+    </message>
+  </messages>
+</conversation>

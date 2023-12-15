@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121102.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-02 04:29:57 UTC">
+      <body>I'm out back</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-02 04:31:04 UTC">
+      <body>There's a cop here too. Awks</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-03 00:17:06 UTC">
+      <body>What's the plan</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-11-03 05:09:20 UTC">
+      <body>Where'd y'all go?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-03 05:10:23 UTC">
+      <body>Back to Dobbs. We're about to smoke</body>
+    </message>
+    <message id="m0005" participant="136267" time="2012-11-03 05:11:28 UTC">
+      <body> Ight. Count me out. Don't smoke my drugs</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-03 05:12:33 UTC">
+      <body>Ok we won't</body>
+    </message>
+    <message id="m0007" participant="136267" time="2012-11-03 05:12:57 UTC">
+      <body>  </body>
+    </message>
+    <message id="m0008" participant="136267" time="2012-11-03 15:42:56 UTC">
+      <body>Food?</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-11-03 15:44:41 UTC">
+      <body>Sorry just ate, I have practice at 12</body>
+    </message>
+    <message id="m0010" participant="136267" time="2012-11-03 15:45:43 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

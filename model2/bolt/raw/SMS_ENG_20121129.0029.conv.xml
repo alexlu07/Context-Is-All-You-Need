@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121129.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-29 01:52:41 UTC" participant="152734">
+      <body>Hello - Saturday at 330 works for me, thanks! Can you send me the exact address? </body>
+    </message>
+    <message id="m0001" time="2012-11-29 01:59:09 UTC" participant="152734">
+      <body>Sounds great! See you Saturday. </body>
+    </message>
+    <message id="m0002" time="2012-11-29 02:01:22 UTC" participant="153298">
+      <body>Ok! :)</body>
+    </message>
+  </messages>
+</conversation>
+
