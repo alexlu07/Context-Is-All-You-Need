@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150427.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-27 11:50:26 UTC" participant="153804">
+      <body>Just heard Southlake Tahoe got a bunch of snow you going out there tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-04-27 11:54:16 UTC" participant="153817">
+      <body>Yes I am!! It's supposed to warm up into 60s</body>
+    </message>
+    <message id="m0002" time="2015-04-27 11:54:38 UTC" participant="153817">
+      <body>What. Are you up to?</body>
+    </message>
+    <message id="m0003" time="2015-04-27 11:57:03 UTC" participant="153804">
+      <body>Tom is in Santa Clara &amp; it's going to be 80 there today!</body>
+    </message>
+    <message id="m0004" time="2015-04-27 12:00:59 UTC" participant="153804">
+      <body>I have 5 more stores to finish up the April blitz project.Think I'll get it done today since it's not very nice out.</body>
+    </message>
+    <message id="m0005" time="2015-04-27 12:09:10 UTC" participant="153804">
+      <body>When are you coming back?</body>
+    </message>
+    <message id="m0006" time="2015-04-27 16:40:32 UTC" participant="153804">
+      <body>What time is your flight?</body>
+    </message>
+    <message id="m0007" time="2015-04-27 19:51:34 UTC" participant="153817">
+      <body>I return Sunday and leave tomo night at 6:30. Long ass flight</body>
+    </message>
+    <message id="m0008" time="2015-04-27 20:29:36 UTC" participant="153804">
+      <body>-
+Hopefully you'll get to sleep some!</body>
+    </message>
+  </messages>
+</conversation>
+

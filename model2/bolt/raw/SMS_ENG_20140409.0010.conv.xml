@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140409.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-09 20:28:48 UTC" participant="153631">
+      <body>I just had a meeting with Jenifer and she says she's gonna buy Every Speed for the library right now </body>
+    </message>
+    <message id="m0001" time="2014-04-09 20:30:44 UTC" participant="153631">
+      <body>She said "At that price? I'll get it right now"</body>
+    </message>
+    <message id="m0002" time="2014-04-10 15:33:50 UTC" participant="153548">
+      <body>Yeahhhhh! Awesome! Instill haven't set up the paypal to a bank account</body>
+    </message>
+    <message id="m0003" time="2014-04-10 15:34:20 UTC" participant="153548">
+      <body>I'm working in my PJs today!</body>
+    </message>
+    <message id="m0004" time="2014-04-10 16:36:16 UTC" participant="153631">
+      <body>What a life!</body>
+    </message>
+    <message id="m0005" time="2014-04-10 16:42:10 UTC" participant="153548">
+      <body>The best!</body>
+    </message>
+  </messages>
+</conversation>
+

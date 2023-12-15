@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140403.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-03 22:00:01 UTC" participant="153681">
+      <body>Hey Lindsey, this is Kelsey. I'm coming to look at the monitor you have for sale tonight. My plans actually changed and I can get there around 6:30? Does that still work for you?</body>
+    </message>
+    <message id="m0001" time="2014-04-03 22:00:26 UTC" participant="153548">
+      <body>Sure! I will be here. </body>
+    </message>
+    <message id="m0002" time="2014-04-03 22:00:32 UTC" participant="153681">
+      <body>Great. See you soon!</body>
+    </message>
+    <message id="m0003" time="2014-04-03 22:01:10 UTC" participant="153548">
+      <body>See you! You can text or ring the bell when you get to the house</body>
+    </message>
+  </messages>
+</conversation>
+

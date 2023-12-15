@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140716.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-16 11:48:16 UTC" participant="153561">
+      <body>I'm leaving now so I'll be there by 815-830 </body>
+    </message>
+    <message id="m0001" time="2014-07-16 12:13:52 UTC" participant="153561">
+      <body>Cool thanks for comin out</body>
+    </message>
+    <message id="m0002" time="2014-07-16 12:14:41 UTC" participant="153547">
+      <body>I'll be there around 9 or so</body>
+    </message>
+  </messages>
+</conversation>
+

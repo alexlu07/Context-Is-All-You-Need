@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137395" time="2013-07-11 01:31:44 UTC">
+      <body>Are you still up?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-07-11 03:22:32 UTC">
+      <body>Yeah, what's up?</body>
+    </message>
+    <message id="m0002" participant="137395" time="2013-07-11 03:22:40 UTC">
+      <body>I was going to call while I was driving.</body>
+    </message>
+    <message id="m0003" participant="137395" time="2013-07-11 03:23:52 UTC">
+      <body>I lost my phone for a few days</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-07-11 03:24:12 UTC">
+      <body>Sorry, phone was on charger and I was downstairs</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-07-11 03:24:31 UTC">
+      <body>Everything ok?</body>
+    </message>
+    <message id="m0006" participant="137395" time="2013-07-11 03:24:31 UTC">
+      <body>I will give you a call later in the week or over the weekend.</body>
+    </message>
+    <message id="m0007" participant="137395" time="2013-07-11 03:24:40 UTC">
+      <body>Yeah, just wanted to hear about your new job</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-07-11 03:25:10 UTC">
+      <body>Sounds good. So far so good.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120407.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131307" time="2012-04-07 17:41:07 UTC">
+      <body>Could you maybe pick me up from the airport</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-07 17:47:06 UTC">
+      <body>I can't cus I have to leave for work soon. I got an overnight shoot. Sorry bro</body>
+    </message>
+    <message id="m0002" participant="131307" time="2012-04-07 17:47:34 UTC">
+      <body>It's cool</body>
+    </message>
+  </messages>
+</conversation>

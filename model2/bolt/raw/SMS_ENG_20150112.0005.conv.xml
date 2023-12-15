@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150112.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-12 20:08:08 UTC" participant="152787">
+      <body>did u get my email?</body>
+    </message>
+    <message id="m0001" time="2015-01-12 20:23:02 UTC" participant="152735">
+      <body>Yep! I'll email you right back. (I'm in car now.)</body>
+    </message>
+    <message id="m0002" time="2015-01-12 20:38:17 UTC" participant="152735">
+      <body>I emailed you back my login in info. Thank you!</body>
+    </message>
+    <message id="m0003" time="2015-01-12 20:56:41 UTC" participant="152735">
+      <body>Actually- I followed your directions and just did it myself. Thanks! Worked perfectly </body>
+    </message>
+    <message id="m0004" time="2015-01-12 21:51:39 UTC" participant="152787">
+      <body>ok cool!</body>
+    </message>
+  </messages>
+</conversation>
+

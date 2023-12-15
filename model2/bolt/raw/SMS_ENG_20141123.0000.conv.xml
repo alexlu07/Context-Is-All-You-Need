@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141123.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-23 20:24:48 UTC" participant="152417">
+      <body>How's your back feelin?</body>
+    </message>
+    <message id="m0001" time="2014-11-23 21:15:04 UTC" participant="152595">
+      <body>Hey! Thanks for asking. It's feeling much better, but still depends on the hour/day. How's your armpit?</body>
+    </message>
+    <message id="m0002" time="2014-11-23 21:19:48 UTC" participant="152417">
+      <body>Cured, i guess i can't wear deodorant, i'm just doomed to be stinky</body>
+    </message>
+    <message id="m0003" time="2014-11-23 21:24:59 UTC" participant="152417">
+      <body>Do you have school this week?/wanna hang out mon or tues?</body>
+    </message>
+    <message id="m0004" time="2014-11-24 19:52:04 UTC" participant="152595">
+      <body>Hey dude, I do in fact have lots of school and homework this week, as well as family time Tuesday to Saturday. Not the ideal week for hanging out unfortunately. </body>
+    </message>
+  </messages>
+</conversation>
+

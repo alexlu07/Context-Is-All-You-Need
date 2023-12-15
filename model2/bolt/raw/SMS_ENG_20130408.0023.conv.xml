@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-04-08 06:46:45 UTC">
+      <body>Are you going to the thing this weekend?</body>
+    </message>
+    <message id="m0001" participant="131831" time="2013-04-08 14:38:12 UTC">
+      <body>Yep planning on coming down after work Friday</body>
+    </message>
+    <message id="m0002" participant="131821" time="2013-04-08 19:18:49 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

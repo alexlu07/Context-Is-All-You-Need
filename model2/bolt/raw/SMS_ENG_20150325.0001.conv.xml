@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150325.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-25 23:31:27 UTC" participant="152115">
+      <body>Ah. You cleaned.</body>
+    </message>
+    <message id="m0001" time="2015-03-26 16:50:08 UTC" participant="152121">
+      <body>No I ripped the walls down</body>
+    </message>
+    <message id="m0002" time="2015-03-26 16:59:43 UTC" participant="152115">
+      <body>Oh. I guess I'm not that familiar with your basement.</body>
+    </message>
+    <message id="m0003" time="2015-03-26 16:59:54 UTC" participant="152115">
+      <body>Haha.</body>
+    </message>
+    <message id="m0004" time="2015-03-26 17:00:10 UTC" participant="152121">
+      <body>Lol</body>
+    </message>
+    <message id="m0005" time="2015-03-26 17:00:18 UTC" participant="152115">
+      <body>So is that is or are you planning more for it?</body>
+    </message>
+    <message id="m0006" time="2015-03-26 17:00:59 UTC" participant="152121">
+      <body>A fully finished basement in time</body>
+    </message>
+    <message id="m0007" time="2015-03-26 17:01:24 UTC" participant="152115">
+      <body>Ok. Cool.</body>
+    </message>
+  </messages>
+</conversation>
+

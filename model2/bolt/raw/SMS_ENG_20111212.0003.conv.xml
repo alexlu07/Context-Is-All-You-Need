@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111212.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-12-12 00:01:53 UTC">
+      <body>Do you remember the name of the half sized business card company?</body>
+    </message>
+    <message id="m0001" participant="135096" time="2011-12-12 00:02:28 UTC">
+      <body>Moo.com!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-12-12 00:02:35 UTC">
+      <body>Thanks!!!!!</body>
+    </message>
+  </messages>
+</conversation>

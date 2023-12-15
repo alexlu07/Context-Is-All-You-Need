@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130305.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135469" time="2013-03-05 17:20:52 UTC">
+      <body>Hi
+When are you working for me this week?
+We need to set up a routine</body>
+    </message>
+    <message id="m0001" participant="135469" time="2013-03-05 17:21:04 UTC">
+      <body>Good luck
+You ready?</body>
+    </message>
+    <message id="m0002" participant="135469" time="2013-03-05 17:21:04 UTC">
+      <body>Your review is today?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-05 17:21:17 UTC">
+      <body>Thursday at ten!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-05 17:21:22 UTC">
+      <body>Every week </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-05 17:21:29 UTC">
+      <body>Yes tonight</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-05 17:21:35 UTC">
+      <body>I'm very nervous </body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-03-05 17:21:46 UTC">
+      <body>But I'll come say hi tomorrow </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-05 17:22:04 UTC">
+      <body>!</body>
+    </message>
+    <message id="m0009" participant="135469" time="2013-03-05 17:23:12 UTC">
+      <body>I know you will
+Take a deep breath and explain yourself  as only you can</body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-03-05 17:23:22 UTC">
+      <body>I'm in ok shape. I've been more confident in the past  but ill be ok. </body>
+    </message>
+    <message id="m0011" participant="130622" time="2013-03-05 17:46:55 UTC">
+      <body>Haha. I'm gonna try my hardest!</body>
+    </message>
+  </messages>
+</conversation>

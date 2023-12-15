@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120105.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131320" time="2012-01-05 04:17:44 UTC">
+      <body>Hey, where do you live now?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-01-05 04:18:13 UTC">
+      <body>South Philly </body>
+    </message>
+    <message id="m0002" participant="131320" time="2012-01-05 04:22:00 UTC">
+      <body>Gocha. I'll be in north east philly around noon tomorrow until around 4 or so. Donno if i'll have enough time, but if you're not busy we might be able to</body>
+    </message>
+    <message id="m0003" participant="131320" time="2012-01-05 04:22:02 UTC">
+      <body> meet up later in the day before I have to go back.</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-01-05 14:40:42 UTC">
+      <body>Hey man I gotta work today so I can't meet up. I was planning on visiting LA at some point this year so I'll hit you up when I'm out there</body>
+    </message>
+    <message id="m0005" participant="131320" time="2012-01-05 17:06:49 UTC">
+      <body>Gocha, brotha. For sure.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150313.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-13 18:11:49 UTC" participant="153884">
+      <body>So it looks like tomorrow is rainy and may be more of a museam day.  I have a hankeing to go to the Frick (never been) though it woul be a far cry from the galleries of Chelsea.  I am, of course, open for suggestions.   </body>
+    </message>
+    <message id="m0001" time="2015-03-13 19:49:20 UTC" participant="153848">
+      <body>I've never been either. What time were you thinking? </body>
+    </message>
+    <message id="m0002" time="2015-03-13 20:23:02 UTC" participant="153884">
+      <body>Noon thirtyish?</body>
+    </message>
+    <message id="m0003" time="2015-03-13 21:07:11 UTC" participant="153848">
+      <body>Great, meet you there? </body>
+    </message>
+    <message id="m0004" time="2015-03-13 22:01:09 UTC" participant="153884">
+      <body>I suppose that makes the most sense.  See you then.</body>
+    </message>
+    <message id="m0005" time="2015-03-14 16:43:33 UTC" participant="153884">
+      <body>So I suppose that our meeting plans lacked the sort of specificity that rainy meeting plans should never be without...if you are on your way, I could meet you at yourtrain stop.</body>
+    </message>
+    <message id="m0006" time="2015-03-14 16:44:57 UTC" participant="153848">
+      <body> Just got off the train! I'm headed to the museum now! </body>
+    </message>
+    <message id="m0007" time="2015-03-14 16:47:51 UTC" participant="153884">
+      <body>Nice.  The enterance is on  70th street.</body>
+    </message>
+  </messages>
+</conversation>
+

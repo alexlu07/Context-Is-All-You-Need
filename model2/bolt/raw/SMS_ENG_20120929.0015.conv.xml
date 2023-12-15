@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120929.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136286" time="2012-09-29 23:08:41 UTC">
+      <body>My bad I called the wrong will</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-29 23:20:37 UTC">
+      <body>Oh so you don't wanna talk to me? :(</body>
+    </message>
+    <message id="m0002" participant="136286" time="2012-09-29 23:23:18 UTC">
+      <body>I wish I was calling you for the reason I was calling the other will. I was making a liquor run and I would love to party with you</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-29 23:25:14 UTC">
+      <body>Hahaha we'll make it happen some day</body>
+    </message>
+  </messages>
+</conversation>

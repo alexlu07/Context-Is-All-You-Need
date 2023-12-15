@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140718.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-18 16:39:45 UTC" participant="152115">
+      <body>Is daddy picking me up today?</body>
+    </message>
+    <message id="m0001" time="2014-07-18 16:42:24 UTC" participant="152117">
+      <body>Dont know yet. He is wating for sears to come from 1 to 5 while i'm at work. If i get home before 330 i'll let u know and have him get u which i probably will make it.love u!!!</body>
+    </message>
+    <message id="m0002" time="2014-07-18 16:42:38 UTC" participant="152115">
+      <body>Ok.</body>
+    </message>
+    <message id="m0003" time="2014-07-18 17:49:26 UTC" participant="152117">
+      <body>I'm home. I'll have dad get u at 3:30. Love you!</body>
+    </message>
+    <message id="m0004" time="2014-07-18 17:50:40 UTC" participant="152115">
+      <body>Ok. Thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

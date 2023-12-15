@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120725.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-25 20:28:09 UTC">
+      <body>Let's hang out on Friday</body>
+    </message>
+    <message id="m0001" participant="136241" time="2012-07-25 20:39:12 UTC">
+      <body>The olympics are friday tho</body>
+    </message>
+    <message id="m0002" participant="136241" time="2012-07-25 20:39:22 UTC">
+      <body>Wait what time?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-25 20:49:18 UTC">
+      <body>Probably like early afternoon. When do the Olympics start</body>
+    </message>
+    <message id="m0004" participant="136241" time="2012-07-25 20:59:27 UTC">
+      <body>Ok sounds good :)</body>
+    </message>
+  </messages>
+</conversation>

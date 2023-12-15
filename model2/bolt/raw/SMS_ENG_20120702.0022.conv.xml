@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120702.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-07-02 20:41:05 UTC" participant="153439">
+      <body>I'm free after 10am on Friday.
+What time is available for you?</body>
+    </message>
+    <message id="m0001" time="2012-07-02 20:42:10 UTC" participant="153439">
+      <body>And, dont you have free time from Monday to Thursday, do you?</body>
+    </message>
+    <message id="m0002" time="2012-07-02 22:08:12 UTC" participant="153418">
+      <body>Hey! I'll be free on Friday at 11:30. Are you all right meeting then? And yeah, I'll be busy for the rest of this week.</body>
+    </message>
+    <message id="m0003" time="2012-07-03 02:18:13 UTC" participant="153439">
+      <body>11:30 is nice:)</body>
+    </message>
+  </messages>
+</conversation>
+

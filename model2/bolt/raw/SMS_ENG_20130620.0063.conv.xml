@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-20 19:40:23 UTC" participant="153445">
+      <body>Good morning. I'll be arriving at the airport 1:30 in the morning. Do you think you'll be awake to pick me up? </body>
+    </message>
+    <message id="m0001" time="2013-06-20 21:45:25 UTC" participant="153418">
+      <body>Yes.</body>
+    </message>
+    <message id="m0002" time="2013-06-20 22:25:00 UTC" participant="153445">
+      <body>Thanks. But I actually don't know what time zone that is. So it might be later than 1:30. I'll let you know. </body>
+    </message>
+    <message id="m0003" time="2013-06-21 03:29:00 UTC" participant="153418">
+      <body>Uh...I'm gonna wait until you tell me which timezone. Call or text whenever.</body>
+    </message>
+    <message id="m0004" time="2013-06-21 05:07:00 UTC" participant="153445">
+      <body>I just landed, haven't got out the plane though, and phone is very low on battery</body>
+    </message>
+    <message id="m0005" time="2013-06-21 05:08:24 UTC" participant="153418">
+      <body>I'm leaving now. Which airline?</body>
+    </message>
+    <message id="m0006" time="2013-06-21 05:09:03 UTC" participant="153445">
+      <body>United, please</body>
+    </message>
+    <message id="m0007" time="2013-06-21 05:09:18 UTC" participant="153445">
+      <body>It'll take a while because luggage</body>
+    </message>
+    <message id="m0008" time="2013-06-21 05:31:05 UTC" participant="153418">
+      <body>I'm here at the United exit.</body>
+    </message>
+    <message id="m0009" time="2013-06-21 05:32:46 UTC" participant="153445">
+      <body>Okay I'm at terminal e </body>
+    </message>
+    <message id="m0010" time="2013-06-21 05:34:24 UTC" participant="153445">
+      <body>Right below the united sign</body>
+    </message>
+    <message id="m0011" time="2013-06-21 05:35:05 UTC" participant="153445">
+      <body>Next to the yellow line across the street</body>
+    </message>
+  </messages>
+</conversation>
+

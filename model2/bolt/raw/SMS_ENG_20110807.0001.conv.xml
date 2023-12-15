@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110807.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130789" time="2011-08-07 12:16:03 UTC">
+      <body>I know yr on ritner but whats yr street number again?</body>
+    </message>
+    <message id="m0002" participant="130789" time="2011-08-07 13:46:00 UTC">
+      <body>Ok i might a little after ten.</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-08-07 13:46:26 UTC">
+      <body>No prob. I'll be here</body>
+    </message>
+    <message id="m0004" participant="130789" time="2011-10-11 20:26:36 UTC">
+      <body>Can u send yr address again.</body>
+    </message>
+  </messages>
+</conversation>

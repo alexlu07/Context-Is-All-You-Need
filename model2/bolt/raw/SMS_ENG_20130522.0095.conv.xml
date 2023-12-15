@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0095" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-22 02:53:47 UTC" participant="152116">
+      <body> Victors taking me to get the bookshelf from
+Katch</body>
+    </message>
+    <message id="m0001" time="2013-05-22 03:26:23 UTC" participant="152116">
+      <body>We're headin back</body>
+    </message>
+    <message id="m0002" time="2013-05-23 02:05:07 UTC" participant="153244">
+      <body>Want ice cream? We are ordering</body>
+    </message>
+    <message id="m0003" time="2013-05-23 02:06:09 UTC" participant="152116">
+      <body>Sure I'm actually in the mood for it</body>
+    </message>
+    <message id="m0004" time="2013-05-23 02:15:11 UTC" participant="153244">
+      <body>What do you want?  Getting it from steak em up</body>
+    </message>
+    <message id="m0005" time="2013-05-23 02:25:23 UTC" participant="152116">
+      <body>CN I haha e a chocolate milkshake with malt</body>
+    </message>
+    <message id="m0006" time="2013-05-23 02:25:31 UTC" participant="152116">
+      <body>*can I have</body>
+    </message>
+    <message id="m0007" time="2013-05-23 02:26:05 UTC" participant="153244">
+      <body>Sure can</body>
+    </message>
+  </messages>
+</conversation>
+

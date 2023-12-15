@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135473" time="2013-02-12 17:28:44 UTC">
+      <body>Waiting for quote on vinyl</body>
+    </message>
+    <message id="m0001" participant="135473" time="2013-02-12 17:28:54 UTC">
+      <body>Will let you know!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-12 18:41:57 UTC">
+      <body>Yay </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-12 18:42:06 UTC">
+      <body>Thanks Jeff that's awesome!!!!</body>
+    </message>
+    <message id="m0004" participant="135473" time="2013-02-12 20:43:18 UTC">
+      <body>Will send you stuff tomorrrow</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-12 20:53:43 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

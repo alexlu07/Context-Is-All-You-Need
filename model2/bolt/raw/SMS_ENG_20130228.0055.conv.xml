@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-28 00:10:36 UTC" participant="154392">
+      <body>Dinner with bon at the cabin at 5:30</body>
+    </message>
+    <message id="m0001" time="2013-02-28 04:15:14 UTC" participant="154392">
+      <body>I'm walking down</body>
+    </message>
+    <message id="m0002" time="2013-02-28 06:02:23 UTC" participant="154392">
+      <body>Were you guys at?</body>
+    </message>
+    <message id="m0003" time="2013-02-28 07:38:27 UTC" participant="154352">
+      <body>Were you at?</body>
+    </message>
+    <message id="m0004" time="2013-02-28 07:46:47 UTC" participant="154392">
+      <body>Where are you?  I'm outside</body>
+    </message>
+    <message id="m0005" time="2013-02-28 13:20:57 UTC" participant="154392">
+      <body>Can you get my micro sd card from stevo?</body>
+    </message>
+  </messages>
+</conversation>
+

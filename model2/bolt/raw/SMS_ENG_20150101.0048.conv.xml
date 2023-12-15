@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 02:01:30 UTC" participant="152116">
+      <body>I'm going to be going to bed soon, so Happy New Year! I hope you have fun tonight.</body>
+    </message>
+    <message id="m0001" time="2015-01-01 02:02:06 UTC" participant="153783">
+      <body>Haha happy new year old man!!</body>
+    </message>
+    <message id="m0002" time="2015-01-01 02:02:18 UTC" participant="152116">
+      <body>Haha thanks</body>
+    </message>
+  </messages>
+</conversation>
+

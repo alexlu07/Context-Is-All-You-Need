@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-15 17:03:57 UTC">
+      <body>Kenny is running JugBabies tomorrow at 11:30 - 12:30. You down?</body>
+    </message>
+    <message id="m0001" participant="130870" time="2013-06-15 20:16:15 UTC">
+      <body>Yeah I can do that!</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-15 20:18:18 UTC">
+      <body>:)) you = bestest</body>
+    </message>
+    <message id="m0003" participant="130870" time="2013-06-16 15:07:31 UTC">
+      <body>Is this rehearsal BYOC?</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-16 15:10:29 UTC">
+      <body>Bring your own... Chair? We have them</body>
+    </message>
+    <message id="m0005" participant="130870" time="2013-06-16 15:11:11 UTC">
+      <body>Coffee </body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-06-16 15:11:39 UTC">
+      <body>Haha, we gots coffee</body>
+    </message>
+  </messages>
+</conversation>

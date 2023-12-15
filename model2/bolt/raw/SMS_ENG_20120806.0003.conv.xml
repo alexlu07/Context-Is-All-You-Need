@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120806.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131282" time="2012-08-06 23:59:21 UTC">
+      <body>I don't really have signal here</body>
+    </message>
+    <message id="m0001" participant="131282" time="2012-08-06 23:59:36 UTC">
+      <body>so I guess text if you need me</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-08-07 00:00:12 UTC">
+      <body>Ok. she are and fell asleep shortly after you left</body>
+    </message>
+    <message id="m0003" participant="131282" time="2012-08-07 00:01:03 UTC">
+      <body>hopefully she actually stays asleep then</body>
+    </message>
+    <message id="m0004" participant="131281" time="2012-08-07 00:01:37 UTC">
+      <body>Yeah. I didn't swaddle her so I'm resigned to her waking up at some point</body>
+    </message>
+    <message id="m0005" participant="131282" time="2012-08-07 00:01:50 UTC">
+      <body>hopefully she actually stays asleep then</body>
+    </message>
+  </messages>
+</conversation>

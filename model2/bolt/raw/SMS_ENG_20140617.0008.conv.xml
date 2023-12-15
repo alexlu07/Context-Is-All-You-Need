@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140617.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-17 13:39:02 UTC" participant="153658">
+      <body>Where are you</body>
+    </message>
+    <message id="m0001" time="2014-06-17 17:46:49 UTC" participant="153548">
+      <body>We just got on 340. We had to stop a couple times.</body>
+    </message>
+    <message id="m0002" time="2014-06-17 18:20:18 UTC" participant="153658">
+      <body>Ok take your time</body>
+    </message>
+  </messages>
+</conversation>
+

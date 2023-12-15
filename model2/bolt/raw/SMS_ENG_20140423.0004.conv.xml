@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 21:44:57 UTC" participant="153472">
+      <body>Just leaving work now. On te trolly. Will text as soon as I'm home.</body>
+    </message>
+    <message id="m0001" time="2014-04-23 21:45:05 UTC" participant="153472">
+      <body>Got to ################ then we're on our way!</body>
+    </message>
+    <message id="m0002" time="2014-04-23 21:45:15 UTC" participant="152374">
+      <body>OK! </body>
+    </message>
+    <message id="m0003" time="2014-04-23 22:10:01 UTC" participant="153472">
+      <body>On our way. Meet u outside?</body>
+    </message>
+    <message id="m0004" time="2014-04-23 22:10:22 UTC" participant="152374">
+      <body>Yup! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130718.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134861" time="2013-07-18 23:12:54 UTC">
+      <body>Hi.</body>
+    </message>
+    <message id="m0001" participant="135730" time="2013-07-18 23:19:30 UTC">
+      <body>Hello, I think we've talked before</body>
+    </message>
+    <message id="m0002" participant="134861" time="2013-07-18 23:20:21 UTC">
+      <body>Yeah. Your name sounds familiar.</body>
+    </message>
+    <message id="m0003" participant="134861" time="2013-07-18 23:21:05 UTC">
+      <body>But which one are you?</body>
+    </message>
+    <message id="m0004" participant="134861" time="2013-07-18 23:21:05 UTC">
+      <body>I'm the computational linguist in Pittsburgh.</body>
+    </message>
+    <message id="m0005" participant="135730" time="2013-07-18 23:23:58 UTC">
+      <body>I'm a Tufts student studying cognitive science from upstate NY</body>
+    </message>
+    <message id="m0006" participant="134861" time="2013-07-18 23:25:42 UTC">
+      <body>Ok. You were the last one I talked to.</body>
+    </message>
+    <message id="m0007" participant="134861" time="2013-07-18 23:26:56 UTC">
+      <body>I actually don't have time to text. I'm leaving tomorrow for the International Linguistics Olympiad. Www.ioling.org.</body>
+    </message>
+    <message id="m0008" participant="135730" time="2013-07-18 23:26:56 UTC">
+      <body>Ok, how are you?</body>
+    </message>
+    <message id="m0009" participant="134861" time="2013-07-18 23:28:21 UTC">
+      <body>I'm the chair of the north American branch. Www.naclo.cs.cmu.edu.</body>
+    </message>
+    <message id="m0010" participant="134861" time="2013-07-18 23:28:50 UTC">
+      <body>12 high school students are going with me and some other coaches and chaperones.</body>
+    </message>
+    <message id="m0011" participant="135730" time="2013-07-18 23:28:50 UTC">
+      <body>Cool, I'll look it up!</body>
+    </message>
+    <message id="m0012" participant="135730" time="2013-07-18 23:30:11 UTC">
+      <body>Sounds awesome, I'll take a look</body>
+    </message>
+  </messages>
+</conversation>

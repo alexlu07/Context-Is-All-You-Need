@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-12-11 13:02:16 UTC">
+      <body>About a minute away</body>
+    </message>
+    <message id="m0001" participant="131507" time="2012-12-11 13:03:45 UTC">
+      <body>K that's fine</body>
+    </message>
+    <message id="m0002" participant="130706" time="2012-12-12 11:33:24 UTC">
+      <body>I'll be getting dropped off at N Philadelphia directly. See you there!</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-13 04:59:33 UTC">
+      <body>Hey, be at your house in the am</body>
+    </message>
+    <message id="m0004" participant="131507" time="2012-12-14 01:22:45 UTC">
+      <body>Bruce asked about u</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-12-14 02:59:47 UTC">
+      <body>Are you guys still at the Rutz?</body>
+    </message>
+    <message id="m0006" participant="130706" time="2012-12-14 03:00:04 UTC">
+      <body>Kathy and I are walking down</body>
+    </message>
+    <message id="m0007" participant="131507" time="2012-12-14 03:02:45 UTC">
+      <body>I am about ti leave. Bruce and most ppl r still here</body>
+    </message>
+    <message id="m0008" participant="130706" time="2012-12-14 03:05:14 UTC">
+      <body>Cool. We're nearly there</body>
+    </message>
+    <message id="m0009" participant="131507" time="2012-12-14 14:19:26 UTC">
+      <body>Hey, did u book a room for me for the hilton?</body>
+    </message>
+    <message id="m0010" participant="130706" time="2012-12-14 14:19:47 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0011" participant="131507" time="2012-12-14 14:22:15 UTC">
+      <body>Thank you, i was just making sure because the hilton u sent me looks like there was only one room. Have a nice day off</body>
+    </message>
+    <message id="m0012" participant="130706" time="2012-12-14 14:22:57 UTC">
+      <body>Yeah, I booked three rooms and got three separate confirms. One for each room.</body>
+    </message>
+    <message id="m0013" participant="131507" time="2012-12-14 14:28:26 UTC">
+      <body>Ohhh that makes sense now. Thank you again.</body>
+    </message>
+  </messages>
+</conversation>

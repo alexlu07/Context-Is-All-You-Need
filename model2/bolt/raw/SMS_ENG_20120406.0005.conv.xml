@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120406.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-06 00:52:02 UTC" participant="153466">
+      <body>Noticed, couldn't help but think of you.</body>
+    </message>
+    <message id="m0001" time="2012-04-06 01:00:03 UTC" participant="152374">
+      <body>Damn I miss seeing that. Thanks for sending it.</body>
+    </message>
+    <message id="m0002" time="2012-04-06 01:03:31 UTC" participant="153466">
+      <body>Not sure if it was a good idea, or a terrible idea.  Either way, I thought of you.</body>
+    </message>
+    <message id="m0003" time="2012-04-06 01:04:01 UTC" participant="152374">
+      <body>Good idea!</body>
+    </message>
+    <message id="m0004" time="2012-04-06 01:12:35 UTC" participant="153466">
+      <body>Be safe driving tomorrow.</body>
+    </message>
+  </messages>
+</conversation>
+

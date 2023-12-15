@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140319.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-19 22:06:20 UTC" participant="154900">
+      <body>do you like this </body>
+    </message>
+    <message id="m0001" time="2014-03-19 22:26:11 UTC" participant="153244">
+      <body>Yes I do</body>
+    </message>
+  </messages>
+</conversation>
+

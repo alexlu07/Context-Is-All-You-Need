@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120421.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-21 16:12:16 UTC">
+      <body>Hey do you know where in Philly I could purchase a basic black barbers cape?</body>
+    </message>
+    <message id="m0001" participant="131342" time="2012-04-21 16:14:00 UTC">
+      <body>Def at any beauty supply store, there is a sallys on east Oregon</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-21 16:14:24 UTC">
+      <body>Ok cool. Thanks</body>
+    </message>
+  </messages>
+</conversation>

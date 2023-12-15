@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-20 19:11:57 UTC" participant="153244">
+      <body>Do you work tues?</body>
+    </message>
+    <message id="m0001" time="2014-12-20 19:22:44 UTC" participant="153900">
+      <body>Yea why</body>
+    </message>
+    <message id="m0002" time="2014-12-20 19:25:01 UTC" participant="153244">
+      <body>Set up consultation for eyes. Wanted someone to come with me</body>
+    </message>
+  </messages>
+</conversation>
+

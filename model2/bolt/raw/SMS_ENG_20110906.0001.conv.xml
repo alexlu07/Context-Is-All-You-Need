@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110906.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-09-06 20:52:25 UTC">
+      <body>What's that Chinese eBay style site?</body>
+    </message>
+    <message id="m0001" participant="131302" time="2011-09-06 20:53:44 UTC">
+      <body>Dhgate.com</body>
+    </message>
+    <message id="m0002" participant="130692" time="2011-09-06 20:54:00 UTC">
+      <body>Cool. Thanks</body>
+    </message>
+    <message id="m0003" participant="131302" time="2011-09-06 20:54:52 UTC">
+      <body>No prob</body>
+    </message>
+  </messages>
+</conversation>

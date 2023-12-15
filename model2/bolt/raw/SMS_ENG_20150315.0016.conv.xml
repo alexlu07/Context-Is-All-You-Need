@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150315.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-15 16:58:56 UTC" participant="152128">
+      <body>Hey John, would you mind texting me to let me know when you're 10-15 minutes away from Eden's house so I know when to leave?</body>
+    </message>
+    <message id="m0001" time="2015-03-15 17:00:13 UTC" participant="153418">
+      <body>Okay!</body>
+    </message>
+    <message id="m0002" time="2015-03-15 17:28:52 UTC" participant="153418">
+      <body>I'll be there in 15 minutes.</body>
+    </message>
+    <message id="m0003" time="2015-03-15 17:32:13 UTC" participant="152128">
+      <body>Meeting in South Philly right?</body>
+    </message>
+    <message id="m0004" time="2015-03-15 17:33:05 UTC" participant="153418">
+      <body>Eden's place</body>
+    </message>
+  </messages>
+</conversation>
+

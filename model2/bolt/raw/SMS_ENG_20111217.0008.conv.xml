@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111217.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-12-17 02:22:56 UTC" participant="153277">
+      <body>Sorry we couldn't make it! We had a funeral this morning, and I'm fired from the last two weeks at work.</body>
+    </message>
+    <message id="m0001" time="2011-12-17 02:22:56 UTC" participant="153277">
+      <body>Hope everyone is having a good time though!</body>
+    </message>
+    <message id="m0002" time="2011-12-17 03:32:55 UTC" participant="152734">
+      <body>Bummer :( we miss you!</body>
+    </message>
+  </messages>
+</conversation>
+

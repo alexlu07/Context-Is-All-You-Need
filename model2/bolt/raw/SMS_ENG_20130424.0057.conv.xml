@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-24 17:52:31 UTC" participant="152417">
+      <body>Its so nice outside, perhaps we should go for ein bier unt pretzel on ze roof of das bier haus</body>
+    </message>
+    <message id="m0001" time="2013-04-24 17:59:37 UTC" participant="152560">
+      <body>I gotta throw my laundry in and do a grocery run...</body>
+    </message>
+    <message id="m0002" time="2013-04-24 18:17:15 UTC" participant="152417">
+      <body>After your hair appointment, or should i say after you get banged</body>
+    </message>
+    <message id="m0003" time="2013-04-24 18:18:01 UTC" participant="152560">
+      <body>Haha! That sounds lovely.</body>
+    </message>
+    <message id="m0004" time="2013-04-24 18:30:46 UTC" participant="152560">
+      <body>Need anything from the grocery store?</body>
+    </message>
+    <message id="m0005" time="2013-04-24 18:31:39 UTC" participant="152417">
+      <body>Coffee! :-) please and thanks</body>
+    </message>
+    <message id="m0006" time="2013-04-24 18:32:17 UTC" participant="152560">
+      <body>No prob. What kind?</body>
+    </message>
+    <message id="m0007" time="2013-04-24 18:44:15 UTC" participant="152417">
+      <body>Medium roast</body>
+    </message>
+    <message id="m0008" time="2013-04-24 21:56:28 UTC" participant="152560">
+      <body>Lost track of time-on my way!</body>
+    </message>
+    <message id="m0009" time="2013-04-24 22:02:19 UTC" participant="152417">
+      <body>Im on the 2nd floor</body>
+    </message>
+    <message id="m0010" time="2013-04-24 22:08:35 UTC" participant="152417">
+      <body> Now on roof</body>
+    </message>
+    <message id="m0011" time="2013-04-24 22:13:10 UTC" participant="152560">
+      <body>I'm downstairs</body>
+    </message>
+    <message id="m0012" time="2013-04-24 22:13:55 UTC" participant="152417">
+      <body>Come on up, i got us a table</body>
+    </message>
+  </messages>
+</conversation>
+

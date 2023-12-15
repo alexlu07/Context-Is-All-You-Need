@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136151" time="2013-02-14 17:41:30 UTC">
+      <body>Happy valentines day</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-14 17:41:52 UTC">
+      <body>you too </body>
+    </message>
+    <message id="m0002" participant="136151" time="2013-02-14 17:42:55 UTC">
+      <body>An excuse to wear that pretty red dress</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-14 17:43:16 UTC">
+      <body>nope, no plans. got some really cute socks on, though. </body>
+    </message>
+    <message id="m0004" participant="136151" time="2013-02-14 17:49:09 UTC">
+      <body>Well hell, lemme see what you think constitutes some cute socks lol</body>
+    </message>
+  </messages>
+</conversation>

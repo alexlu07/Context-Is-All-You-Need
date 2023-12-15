@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131223.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-23 23:25:52 UTC" participant="149360">
+      <body>Are you home? We're gonna make tacos</body>
+    </message>
+    <message id="m0001" time="2013-12-23 23:26:22 UTC" participant="149306">
+      <body>No </body>
+    </message>
+  </messages>
+</conversation>
+

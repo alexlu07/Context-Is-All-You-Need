@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 14:20:03 UTC" participant="149376">
+      <body>Hey! I'm wanting to have a party saturday the 27th, everybody brings the makings for a cocktail or wine, I make delicious cocktail snacks. Whaddya say?</body>
+    </message>
+    <message id="m0001" time="2014-12-09 18:53:31 UTC" participant="153547">
+      <body>Who's this?</body>
+    </message>
+    <message id="m0002" time="2014-12-09 18:55:51 UTC" participant="149376">
+      <body>Lynda</body>
+    </message>
+    <message id="m0003" time="2014-12-09 18:56:47 UTC" participant="153547">
+      <body>Oh hi! I'm sober and avoiding parties but thanks</body>
+    </message>
+    <message id="m0004" time="2014-12-09 19:07:42 UTC" participant="149376">
+      <body>Anytime. Have a wonderful holiday!</body>
+    </message>
+  </messages>
+</conversation>
+

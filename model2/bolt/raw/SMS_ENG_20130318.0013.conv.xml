@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131468" time="2013-03-18 19:50:54 UTC">
+      <body>Hey! Are you going to yoga tonight?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-03-18 20:02:18 UTC">
+      <body>Yup! How did the race go?? How are your legs feeling??</body>
+    </message>
+    <message id="m0002" participant="131468" time="2013-03-18 20:48:55 UTC">
+      <body>I'm going to try to go! Practice got cancelled tonight. You have Pancake Monday with Dan tonight, right?</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-03-18 20:52:40 UTC">
+      <body>Yay! We actually did pancakes last night haha so no plans if you want to grab dinner after! :-)</body>
+    </message>
+    <message id="m0004" participant="131468" time="2013-03-18 20:53:14 UTC">
+      <body>I would love that!!</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-03-18 20:56:29 UTC">
+      <body>Wonderful!!!</body>
+    </message>
+    <message id="m0006" participant="131450" time="2013-03-18 22:11:00 UTC">
+      <body>Not sure what your eta is but I'm in the middle on the far side of the room--I'll try to hold the spot next to me for you :-)</body>
+    </message>
+    <message id="m0007" participant="131468" time="2013-03-18 22:12:23 UTC">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>

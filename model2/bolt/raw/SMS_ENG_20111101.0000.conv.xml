@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111101.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-11-01 01:04:29 UTC">
+      <body>I hope you are having a nice Halloween :)</body>
+    </message>
+    <message id="m0001" participant="131824" time="2011-11-01 22:31:05 UTC">
+      <body>Having a fun trip?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-11-01 22:33:53 UTC">
+      <body>Yepz</body>
+    </message>
+    <message id="m0003" participant="131824" time="2011-11-01 22:34:28 UTC">
+      <body>Yay :)</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-11-02 14:05:34 UTC">
+      <body>Your portfolio is now worth $#######! :)</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-11-02 14:46:20 UTC">
+      <body>Hooray!</body>
+    </message>
+  </messages>
+</conversation>

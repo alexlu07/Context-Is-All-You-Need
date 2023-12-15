@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 22:03:40 UTC" participant="152212">
+      <body>http://lightpattern.info</body>
+    </message>
+    <message id="m0001" time="2015-03-30 16:05:46 UTC" participant="152212">
+      <body>u around later today? </body>
+    </message>
+    <message id="m0002" time="2015-03-30 20:53:50 UTC" participant="152250">
+      <body>Hey there. Sorry I didn't see this earlier. Had class then meetings. Heading to bus now. Will text you when I get back to Ann Arbor </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140425.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-25 12:42:08 UTC" participant="153244">
+      <body>What time do you finish school today?</body>
+    </message>
+    <message id="m0001" time="2014-04-25 12:42:36 UTC" participant="154895">
+      <body>I dont know yet</body>
+    </message>
+    <message id="m0002" time="2014-04-25 12:43:01 UTC" participant="153244">
+      <body>Ok let me know. I get done work at 3:00</body>
+    </message>
+    <message id="m0003" time="2014-04-25 12:43:48 UTC" participant="154895">
+      <body>I should still be in lab at that time.</body>
+    </message>
+    <message id="m0004" time="2014-04-25 12:44:10 UTC" participant="153244">
+      <body>The lab is your last class?</body>
+    </message>
+    <message id="m0005" time="2014-04-25 12:46:21 UTC" participant="153244">
+      <body>You're on the same schedule right?  Idk y I was thinking you had a diff schedule.  I'm picking you up today?</body>
+    </message>
+    <message id="m0006" time="2014-04-25 12:48:07 UTC" participant="154895">
+      <body>If you feel like it, you dont have to if you dont want to, and its next week i have a differnet schedule, exam day</body>
+    </message>
+    <message id="m0007" time="2014-04-25 12:58:41 UTC" participant="153244">
+      <body>No I want to</body>
+    </message>
+    <message id="m0008" time="2014-04-25 12:59:23 UTC" participant="153244">
+      <body>I have to run to the bank after work then I'm go get you </body>
+    </message>
+    <message id="m0009" time="2014-04-25 12:59:39 UTC" participant="154895">
+      <body>Ok</body>
+    </message>
+    <message id="m0011" time="2014-04-25 20:11:15 UTC" participant="154895">
+      <body>Where you is?</body>
+    </message>
+    <message id="m0012" time="2014-04-25 20:12:41 UTC" participant="153244">
+      <body>Onmy way</body>
+    </message>
+  </messages>
+</conversation>
+

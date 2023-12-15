@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121030.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-30 18:44:50 UTC">
+      <body>Hey!!! Sarah! What happened? Is everything totally screwed up</body>
+    </message>
+    <message id="m0001" participant="135401" time="2012-10-30 18:54:56 UTC">
+      <body>Yes but bk hts is fine. We lost internet tv phone. Crazy though</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-30 18:55:12 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="135401" time="2012-10-30 19:05:21 UTC">
+      <body>Freaked but fine. You ok there?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-30 19:08:21 UTC">
+      <body>The weather never really got that bad here but def scary to see pictures of new York.  Manhattan, red hook.  How are your parents?</body>
+    </message>
+    <message id="m0005" participant="135401" time="2012-10-30 23:38:25 UTC">
+      <body>They're fine. Phone/internet not working well</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 23:57:52 UTC" participant="152586">
+      <body>Aaron has no phone</body>
+    </message>
+    <message id="m0001" time="2014-11-14 23:57:52 UTC" participant="152586">
+      <body>I can when I get back later</body>
+    </message>
+    <message id="m0002" time="2014-11-14 23:57:52 UTC" participant="152586">
+      <body>Not that soon though</body>
+    </message>
+    <message id="m0003" time="2014-11-14 23:57:52 UTC" participant="152586">
+      <body>No soap, radio</body>
+    </message>
+    <message id="m0004" time="2014-11-15 15:20:55 UTC" participant="152417">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

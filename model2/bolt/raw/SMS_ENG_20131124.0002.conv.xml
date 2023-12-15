@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131124.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-24 18:42:14 UTC" participant="153418">
+      <body>Hey Jim, is there going to be anyone at your office today, tomorrow, or Tuesday?</body>
+    </message>
+    <message id="m0001" time="2013-11-24 18:43:18 UTC" participant="153448">
+      <body>Yes Mon 7-2</body>
+    </message>
+    <message id="m0002" time="2013-11-24 18:43:40 UTC" participant="153418">
+      <body>Okay, thanks. </body>
+    </message>
+  </messages>
+</conversation>
+

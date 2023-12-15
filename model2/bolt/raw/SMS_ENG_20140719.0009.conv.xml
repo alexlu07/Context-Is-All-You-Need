@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140719.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-19 03:31:12 UTC" participant="153645">
+      <body>Is it okay if we push back out studio hang out till noon tomorrow? Or I can just meet you at noon? </body>
+    </message>
+    <message id="m0001" time="2014-07-19 13:24:47 UTC" participant="153548">
+      <body>Noon is good! See you then!</body>
+    </message>
+    <message id="m0002" time="2014-07-19 13:25:07 UTC" participant="153645">
+      <body>Awesome - thanks </body>
+    </message>
+    <message id="m0003" time="2014-07-19 15:51:06 UTC" participant="153645">
+      <body>Went to the satellite to grab a snack - text me if you want anything </body>
+    </message>
+    <message id="m0004" time="2014-07-19 15:51:28 UTC" participant="153645">
+      <body>No problem! </body>
+    </message>
+    <message id="m0005" time="2014-07-19 15:51:31 UTC" participant="153548">
+      <body>Ice coffee!!! </body>
+    </message>
+    <message id="m0006" time="2014-07-19 15:51:46 UTC" participant="153548">
+      <body>With cream if you have an extra hand. I'm running a few minutes late</body>
+    </message>
+    <message id="m0007" time="2014-07-19 15:52:45 UTC" participant="153548">
+      <body>You are the best.</body>
+    </message>
+  </messages>
+</conversation>
+

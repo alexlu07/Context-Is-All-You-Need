@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120215.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-15 21:38:27 UTC" participant="152374">
+      <body>You have another package here:-)</body>
+    </message>
+    <message id="m0001" time="2012-02-15 23:30:13 UTC" participant="152374">
+      <body>So what's the birthday plan, dude?</body>
+    </message>
+    <message id="m0002" time="2012-02-15 23:42:43 UTC" participant="153464">
+      <body>Right now, hanging with ##### and ##### at ####. Cancelled my ##### lesson. You're welcome to join if you want. Tomorrow, happy hour at #######, followed by ##### lounge or something</body>
+    </message>
+    <message id="m0003" time="2012-02-15 23:43:58 UTC" participant="152374">
+      <body>Can't do tonight, but will plan for happy hour tomorrow!</body>
+    </message>
+  </messages>
+</conversation>
+

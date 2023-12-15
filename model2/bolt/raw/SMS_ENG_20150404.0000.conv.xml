@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150404.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-04 13:48:41 UTC" participant="153414">
+      <body>Hey darling. Think 10:35. As stupid as it sounds, we're late because of the wind. This bus cant get over 50mph</body>
+    </message>
+    <message id="m0001" time="2015-04-04 13:50:19 UTC" participant="153412">
+      <body>Okie dokie baby</body>
+    </message>
+    <message id="m0002" time="2015-04-04 14:28:38 UTC" participant="153412">
+      <body>Did you pass the airport?</body>
+    </message>
+    <message id="m0003" time="2015-04-04 14:29:34 UTC" participant="153414">
+      <body>Yerp. Almost there.</body>
+    </message>
+    <message id="m0004" time="2015-04-04 14:40:40 UTC" participant="153412">
+      <body>Let me know when you're at 30th por favor</body>
+    </message>
+    <message id="m0005" time="2015-04-04 14:42:37 UTC" participant="153414">
+      <body>Walking to the station now</body>
+    </message>
+  </messages>
+</conversation>
+

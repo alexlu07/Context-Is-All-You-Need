@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0076" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-06 16:52:48 UTC" participant="152734">
+      <body>Hey, let me know how your schedule's looking for this evening - I can go over to Tanya's whenever.</body>
+    </message>
+    <message id="m0001" time="2013-05-06 17:10:24 UTC" participant="153305">
+      <body>Plan to be ready to ride at 6:30 and Tanya is going to help you with him. I'll be there at 7 to get on and go for a hack with you. </body>
+    </message>
+    <message id="m0002" time="2013-05-06 17:10:24 UTC" participant="153305">
+      <body>Tanya will be coming from
+Lesson at HP And might be running late. </body>
+    </message>
+    <message id="m0003" time="2013-05-06 17:25:34 UTC" participant="152734">
+      <body>Roger that!</body>
+    </message>
+  </messages>
+</conversation>
+

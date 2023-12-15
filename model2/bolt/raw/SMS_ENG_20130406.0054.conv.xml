@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135282" time="2013-04-06 16:44:46 UTC">
+      <body>Coming?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-06 16:45:07 UTC">
+      <body>Yes I'm sorry I'm passing founders</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-06 20:50:54 UTC">
+      <body>5:15?</body>
+    </message>
+    <message id="m0003" participant="135282" time="2013-04-06 20:52:03 UTC">
+      <body>Works for me</body>
+    </message>
+  </messages>
+</conversation>

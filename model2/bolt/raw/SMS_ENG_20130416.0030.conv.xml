@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-04-16 21:00:24 UTC">
+      <body>What's your status.</body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-04-16 21:00:48 UTC">
+      <body>Almost there </body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-04-16 21:01:24 UTC">
+      <body>Okay, packbg up</body>
+    </message>
+    <message id="m0003" participant="131502" time="2013-04-17 20:57:42 UTC">
+      <body>Here</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-04-17 20:58:02 UTC">
+      <body>Shutting down</body>
+    </message>
+  </messages>
+</conversation>

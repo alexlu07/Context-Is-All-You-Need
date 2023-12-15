@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140908.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-08 17:04:00 UTC" participant="149383">
+      <body>Hey! Can I borrow your truck to go pick up some furniture for the new apartment tonight? Or anytime this week that works for you for me to borrow.</body>
+    </message>
+    <message id="m0001" time="2014-09-08 17:17:20 UTC" participant="149306">
+      <body>Sure, I'll be around tonight</body>
+    </message>
+    <message id="m0002" time="2014-09-08 17:32:18 UTC" participant="149383">
+      <body>Excellent! Thanks so much. Can we come by for the keys at 530? </body>
+    </message>
+    <message id="m0003" time="2014-09-08 17:32:30 UTC" participant="149306">
+      <body>Yeah sure</body>
+    </message>
+    <message id="m0004" time="2014-09-08 17:32:57 UTC" participant="149383">
+      <body>Yess. Much appreciated </body>
+    </message>
+    <message id="m0005" time="2014-09-08 17:57:05 UTC" participant="149306">
+      <body>No prob</body>
+    </message>
+    <message id="m0006" time="2014-09-08 21:24:16 UTC" participant="149383">
+      <body>Hey we are walking over in a few minutes!</body>
+    </message>
+    <message id="m0007" time="2014-09-08 21:25:37 UTC" participant="149306">
+      <body>Ok I'm here</body>
+    </message>
+    <message id="m0008" time="2014-09-08 21:34:29 UTC" participant="149383">
+      <body>We are outside!</body>
+    </message>
+  </messages>
+</conversation>
+

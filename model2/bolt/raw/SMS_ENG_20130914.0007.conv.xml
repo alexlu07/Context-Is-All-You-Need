@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130914.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-14 18:41:32 UTC" participant="149297">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2013-09-15 16:25:36 UTC" participant="153834">
+      <body>Where r you</body>
+    </message>
+    <message id="m0002" time="2013-09-15 16:26:57 UTC" participant="149297">
+      <body>￼Too lazy to stand</body>
+    </message>
+    <message id="m0003" time="2013-09-15 16:27:15 UTC" participant="153834">
+      <body>Babe</body>
+    </message>
+    <message id="m0004" time="2013-09-15 16:27:22 UTC" participant="153834">
+      <body>Don't leave me in here</body>
+    </message>
+    <message id="m0005" time="2013-09-15 16:27:31 UTC" participant="149297">
+      <body>Help</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130324.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-24 15:30:12 UTC">
+      <body>Hey! Do you want a ride to ihop? I forget if you're going.</body>
+    </message>
+    <message id="m0001" participant="135310" time="2013-03-24 15:32:35 UTC">
+      <body>Thanks for the offer, but can't make it :/ tell me how it goes!</body>
+    </message>
+  </messages>
+</conversation>

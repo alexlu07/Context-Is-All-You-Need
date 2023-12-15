@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-16 18:24:03 UTC">
+      <body>Happy Father's day. You get my gift?</body>
+    </message>
+    <message id="m0001" participant="132550" time="2013-06-16 18:25:51 UTC">
+      <body>Thanks. No. How are you doing? How's your back? What present?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-16 18:26:50 UTC">
+      <body> I got you a gift. Thought it'd be there by now. I guess in a day or two</body>
+    </message>
+    <message id="m0003" participant="132550" time="2013-06-16 18:28:57 UTC">
+      <body> Nope nothing arrived. I assume you mailed it. I just checked outside no packages. I'll let you know when I get it. Thanks a lot.</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-16 22:21:49 UTC">
+      <body>Yea it'll probably arrive tomorrow. </body>
+    </message>
+  </messages>
+</conversation>

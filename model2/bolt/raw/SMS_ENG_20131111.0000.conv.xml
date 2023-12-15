@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131111.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-11 15:51:18 UTC" participant="153317">
+      <body>Hi:) are u riding tonight? I was thinking if u are we could do a hack together?</body>
+    </message>
+    <message id="m0001" time="2013-11-11 18:10:29 UTC" participant="152734">
+      <body>Sure! What time?</body>
+    </message>
+    <message id="m0002" time="2013-11-11 19:58:56 UTC" participant="153317">
+      <body>Great! I will be at the barn at 5pm right after work!</body>
+    </message>
+    <message id="m0003" time="2013-11-11 20:32:30 UTC" participant="152734">
+      <body>I hate to say it but I think it'll be dark! I'll be around though :)</body>
+    </message>
+    <message id="m0004" time="2013-11-11 21:15:44 UTC" participant="153317">
+      <body>Yea I was just looking at the sky thinking it doesn't look good:/ darn! Ok;)</body>
+    </message>
+  </messages>
+</conversation>
+

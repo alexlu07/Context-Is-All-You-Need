@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 23:36:46 UTC" participant="152119">
+      <body>Hey John! I feel like it's been a while since we talked. How are you? I miss ya! Are you coming back to philly anytime soon? </body>
+    </message>
+    <message id="m0001" time="2015-01-06 04:45:13 UTC" participant="153418">
+      <body>Hey Sam, it has been a while. Sorry for getting back to you so late; I get out of work pretty late. I'm pretty good though. I hope your holidays were relaxing! I'll be in Philadelphia a few times this month. The closest is next weekend. Hopefully you'll be free?</body>
+    </message>
+    <message id="m0002" time="2015-01-06 16:47:56 UTC" participant="152119">
+      <body>Yes, my holidays were good. Glad to hear you are okay and that I'll be seeing you soon. :) I don't know about this Saturday yet but I know I'm free this </body>
+    </message>
+    <message id="m0003" time="2015-01-06 16:47:58 UTC" participant="152119">
+      <body>Sunday! @</body>
+    </message>
+  </messages>
+</conversation>
+

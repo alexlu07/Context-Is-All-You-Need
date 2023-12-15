@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120428.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131322" time="2012-04-28 15:25:52 UTC">
+      <body>Where you watching the games?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-28 15:29:03 UTC">
+      <body>I'll be in CT this weekend for a wedding</body>
+    </message>
+    <message id="m0002" participant="131322" time="2012-04-28 20:38:47 UTC">
+      <body>Miami is flopping so much right now I'm going crazy</body>
+    </message>
+  </messages>
+</conversation>

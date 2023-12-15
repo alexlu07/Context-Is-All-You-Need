@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140111.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-11 01:18:51 UTC" participant="152116">
+      <body>We're at a restaurant called Miyabi on 10th and locust</body>
+    </message>
+    <message id="m0001" time="2014-01-11 01:36:59 UTC" participant="153491">
+      <body>Okay.</body>
+    </message>
+    <message id="m0002" time="2014-01-11 01:48:29 UTC" participant="152116">
+      <body>This is my new favorite restaurant.</body>
+    </message>
+  </messages>
+</conversation>
+

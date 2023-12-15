@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134289" time="2013-06-08 17:22:09 UTC">
+      <body>Sushi? </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-08 17:32:40 UTC">
+      <body>Out in Seattle </body>
+    </message>
+    <message id="m0002" participant="134289" time="2013-06-08 17:34:05 UTC">
+      <body>Word. Next time. Travel safely. </body>
+    </message>
+  </messages>
+</conversation>

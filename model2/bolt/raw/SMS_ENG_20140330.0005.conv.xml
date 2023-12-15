@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140330.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-30 18:21:17 UTC" participant="152119">
+      <body>Hey John. How are you? We haven't talked in a while. </body>
+    </message>
+    <message id="m0001" time="2014-03-31 00:06:08 UTC" participant="153418">
+      <body>Hey Sammy. I've been pretty busy, but keeping it together. 
+
+Need to drive back to Philly later tonight. </body>
+    </message>
+    <message id="m0002" time="2014-03-31 00:08:31 UTC" participant="152119">
+      <body>I'm glad you're doing all right. Be careful driving tonight. </body>
+    </message>
+  </messages>
+</conversation>
+

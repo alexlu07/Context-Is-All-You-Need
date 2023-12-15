@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120516.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-16 14:09:16 UTC">
+      <body>Heyyyyyy</body>
+    </message>
+    <message id="m0001" participant="136226" time="2012-05-16 14:55:24 UTC">
+      <body>Hello will! How are you</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-16 14:57:43 UTC">
+      <body>I'm doing fine! How are you? Long time no see</body>
+    </message>
+    <message id="m0003" participant="136226" time="2012-05-16 14:58:43 UTC">
+      <body>Very true, i'm fine. Semester's all done now.</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-16 14:59:54 UTC">
+      <body>Awesome. We still have a month of school. Ugh. I'm going to Emory next year tho holla</body>
+    </message>
+  </messages>
+</conversation>

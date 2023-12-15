@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130704.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134852" time="2013-07-04 14:53:00 UTC">
+      <body>Hey!</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-07-04 16:40:01 UTC">
+      <body>hello</body>
+    </message>
+    <message id="m0002" participant="134852" time="2013-07-04 16:42:38 UTC">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-07-04 18:05:41 UTC">
+      <body>im at the beach!!</body>
+    </message>
+    <message id="m0004" participant="134852" time="2013-07-04 18:48:38 UTC">
+      <body>I'm jealous. But I got to see my family today, that was cool.</body>
+    </message>
+    <message id="m0005" participant="134852" time="2013-07-05 09:33:08 UTC">
+      <body>How was your Fourth of July?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-07-05 12:15:05 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-07-05 13:04:30 UTC">
+      <body>What did u do?</body>
+    </message>
+    <message id="m0008" participant="134852" time="2013-07-05 13:08:16 UTC">
+      <body>I watched a parade with my family lol. It's this really extravagant parade in the middle of a rural small town that doesn't care about littering the street with candy. You?</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-07-05 13:09:29 UTC">
+      <body>Where u from</body>
+    </message>
+    <message id="m0010" participant="134852" time="2013-07-05 13:10:17 UTC">
+      <body>Wisconsin. You?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141108.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-08 00:18:54 UTC" participant="153576">
+      <body>How is fest life??!!</body>
+    </message>
+    <message id="m0001" time="2014-11-08 01:02:45 UTC" participant="153548">
+      <body>It's really funny. </body>
+    </message>
+    <message id="m0002" time="2014-11-08 01:02:52 UTC" participant="153548">
+      <body>Lady fest</body>
+    </message>
+    <message id="m0003" time="2014-11-08 01:03:10 UTC" participant="153576">
+      <body>Finally</body>
+    </message>
+    <message id="m0004" time="2014-11-08 01:12:21 UTC" participant="153548">
+      <body>I've met some awesome people. We've been super busy about to watch movies now.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-01 16:47:28 UTC" participant="154401">
+      <body>So its raining is the concert still happening</body>
+    </message>
+    <message id="m0001" time="2013-08-01 17:10:37 UTC" participant="154352">
+      <body>canceled</body>
+    </message>
+    <message id="m0002" time="2013-08-01 17:10:45 UTC" participant="154352">
+      <body>If you want we can still hang</body>
+    </message>
+    <message id="m0003" time="2013-08-01 17:12:27 UTC" participant="154401">
+      <body>I would like that</body>
+    </message>
+    <message id="m0004" time="2013-08-01 17:31:20 UTC" participant="154352">
+      <body>movie at my place?</body>
+    </message>
+    <message id="m0005" time="2013-08-01 17:35:10 UTC" participant="154401">
+      <body>Sure where do u live?</body>
+    </message>
+    <message id="m0006" time="2013-08-01 17:42:05 UTC" participant="154352">
+      <body>ridley park</body>
+    </message>
+    <message id="m0007" time="2013-08-01 17:42:34 UTC" participant="154352">
+      <body>I can still swing by and pick you up</body>
+    </message>
+    <message id="m0008" time="2013-08-01 17:43:42 UTC" participant="154401">
+      <body>Ok cool :D</body>
+    </message>
+    <message id="m0009" time="2013-08-01 21:20:15 UTC" participant="154401">
+      <body>Text me when u leave</body>
+    </message>
+    <message id="m0010" time="2013-08-01 21:22:00 UTC" participant="154352">
+      <body>I left a few minutes ago</body>
+    </message>
+    <message id="m0011" time="2013-08-01 21:28:30 UTC" participant="154401">
+      <body>Ok!</body>
+    </message>
+    <message id="m0012" time="2013-08-01 21:40:30 UTC" participant="154352">
+      <body>I'm here</body>
+    </message>
+    <message id="m0013" time="2013-08-01 21:41:46 UTC" participant="154401">
+      <body>Coming</body>
+    </message>
+  </messages>
+</conversation>
+

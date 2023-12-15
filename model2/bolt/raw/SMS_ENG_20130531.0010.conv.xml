@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-05-31 14:28:25 UTC">
+      <body>Hey, have any plans for the weekend?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-31 14:30:42 UTC">
+      <body>Hey! How are you? Actually, starting tomorrow, i'm in the studio for 2 Weeks recording a CD. How about you?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-05-31 14:32:25 UTC">
+      <body>I'm doing well, glad to have some time off from work! I've got two jobs. That's awesome that you're recording</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-05-31 14:32:51 UTC">
+      <body>What do you play? Or do you sing?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-31 14:36:43 UTC">
+      <body>May I ask what you do for work? This project is totally self-indulgent. The core of it is 9 songs about my ex. I'm singing (not well), playing guitar (m</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-05-31 14:36:58 UTC">
+      <body>y main instrument) and bass. The producer knows a drummer who's willing to play on it...we'll see... ;-)</body>
+    </message>
+    <message id="m0006" participant="130562" time="2013-05-31 15:25:38 UTC">
+      <body>Wow that's a big project the</body>
+    </message>
+    <message id="m0007" participant="130562" time="2013-05-31 15:26:46 UTC">
+      <body>I bartend and run food and also work on projects for a data company from my computer from home</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-05-31 15:33:13 UTC">
+      <body>I went to bartending school in NYC. Bartended one event: a wedding reception. Sliced my finger while making garni. Yeah... What city are you in? I'm fr</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-05-31 15:33:23 UTC">
+      <body>om Los Angeles, but in Tucson for the next month or so.</body>
+    </message>
+    <message id="m0010" participant="130562" time="2013-05-31 15:41:10 UTC">
+      <body>I'm in philly - and I sliced my finger this week haha</body>
+    </message>
+    <message id="m0011" participant="131350" time="2013-05-31 15:50:11 UTC">
+      <body>Crazy. I like Philly. Haven't been there in years. Never lived there, just visited when I lived in NYC. What music do you like?</body>
+    </message>
+  </messages>
+</conversation>

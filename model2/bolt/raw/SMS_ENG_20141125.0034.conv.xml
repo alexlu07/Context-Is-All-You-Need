@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141125.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-25 03:16:17 UTC" participant="152123">
+      <body>Hey, so, the Ferguson ruling is in. Be safe, keep your eyes open. </body>
+    </message>
+    <message id="m0001" time="2014-11-25 03:23:55 UTC" participant="153244">
+      <body>Steph and I were just talking about that.  Thanks. </body>
+    </message>
+    <message id="m0002" time="2014-11-25 03:24:33 UTC" participant="153244">
+      <body>Becareful as well</body>
+    </message>
+    <message id="m0003" time="2014-11-25 03:24:43 UTC" participant="152123">
+      <body>Thank you</body>
+    </message>
+  </messages>
+</conversation>
+

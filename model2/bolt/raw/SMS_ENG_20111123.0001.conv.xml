@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111123.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2011-11-23 06:10:45 UTC">
+      <body>Heyy how Minnesota??</body>
+    </message>
+    <message id="m0001" participant="131063" time="2011-11-23 06:13:00 UTC">
+      <body>Flight got delayed again so I just got in about an hr ago but it's all snowy! Should be fun. Is everything going well in Seattle? I miss you!</body>
+    </message>
+    <message id="m0002" participant="131019" time="2011-11-23 06:35:57 UTC">
+      <body>Aww that's awesome! I'm sorry it got delayed again tho :/ it's not snowin here but it's raining a lot. I miss you oo!</body>
+    </message>
+  </messages>
+</conversation>

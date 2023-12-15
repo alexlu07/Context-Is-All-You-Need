@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133303" time="2013-06-17 11:37:36 UTC">
+      <body>Are you on the train today?</body>
+    </message>
+    <message id="m0001" participant="133303" time="2013-06-17 11:41:52 UTC">
+      <body>Ok cool. See you soon</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-06-17 11:42:44 UTC">
+      <body>Yes, but a later train. I don't have to be in till 10am, haha</body>
+    </message>
+    <message id="m0003" participant="133056" time="2013-06-17 12:41:47 UTC">
+      <body>The 8:21 train is insanity. So crowded. Avoid if possible</body>
+    </message>
+  </messages>
+</conversation>

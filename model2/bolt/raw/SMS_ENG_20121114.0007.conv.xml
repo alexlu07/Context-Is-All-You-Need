@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131456" time="2012-11-14 13:16:28 UTC">
+      <body>Headed straight to you again</body>
+    </message>
+    <message id="m0001" participant="131456" time="2012-11-15 13:13:28 UTC">
+      <body>On my way!</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-11-16 12:17:36 UTC">
+      <body>Hey Abbe, I'm going to drive in today (yoga post-work) so I'll see you at cal!</body>
+    </message>
+    <message id="m0003" participant="131456" time="2012-11-16 12:22:25 UTC">
+      <body>Thanks for the heads up--see ya there</body>
+    </message>
+  </messages>
+</conversation>

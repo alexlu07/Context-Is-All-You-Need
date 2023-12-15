@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140102.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-02 18:19:44 UTC" participant="152118">
+      <body>Hope you're enjoying Disney!!!!</body>
+    </message>
+    <message id="m0001" time="2014-01-03 17:20:25 UTC" participant="153491">
+      <body>Thank you!!! Jenny, it's so cold! I changed three times already. </body>
+    </message>
+    <message id="m0002" time="2014-01-03 17:21:02 UTC" participant="152118">
+      <body>We got 6 in of snow.</body>
+    </message>
+    <message id="m0003" time="2014-01-03 17:21:07 UTC" participant="152118">
+      <body>So we're cold.</body>
+    </message>
+    <message id="m0004" time="2014-01-03 17:21:52 UTC" participant="153491">
+      <body>No way! I heard it was 2!!</body>
+    </message>
+    <message id="m0005" time="2014-01-03 17:22:16 UTC" participant="153491">
+      <body>Okay, I feel like I can't complain now.</body>
+    </message>
+    <message id="m0006" time="2014-01-03 17:24:40 UTC" participant="152118">
+      <body>Nope.</body>
+    </message>
+    <message id="m0007" time="2014-01-03 17:25:58 UTC" participant="153491">
+      <body>But I was kind of unprepared. Didn't bring gloves or my hat. It's unusually cold for Florida at this time.</body>
+    </message>
+    <message id="m0008" time="2014-01-03 17:53:25 UTC" participant="152118">
+      <body>Haha. I believe it.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130526" time="2013-05-06 09:24:27 UTC">
+      <body>Hi, how was your weekend?</body>
+    </message>
+    <message id="m0001" participant="130520" time="2013-05-06 09:34:50 UTC">
+      <body>Not too good, was sick</body>
+    </message>
+    <message id="m0002" participant="130520" time="2013-05-06 09:35:18 UTC">
+      <body>How about yours?</body>
+    </message>
+    <message id="m0003" participant="130526" time="2013-05-06 10:01:10 UTC">
+      <body>Sorry u were sick :(. I hate being sick when the weather is good.</body>
+    </message>
+    <message id="m0004" participant="130526" time="2013-05-06 10:01:10 UTC">
+      <body>We were househunting</body>
+    </message>
+    <message id="m0005" participant="130520" time="2013-05-06 10:04:25 UTC">
+      <body>Are you buying a house?</body>
+    </message>
+    <message id="m0006" participant="130520" time="2013-05-06 10:05:21 UTC">
+      <body>Thats awesome</body>
+    </message>
+  </messages>
+</conversation>

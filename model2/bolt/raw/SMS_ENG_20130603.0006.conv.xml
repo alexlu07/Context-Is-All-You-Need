@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131805" time="2013-06-03 09:10:52 UTC">
+      <body>hello ek2108</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-03 09:41:07 UTC">
+      <body>Hi squid</body>
+    </message>
+    <message id="m0002" participant="131805" time="2013-06-03 09:44:43 UTC">
+      <body>How are you doing today?</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-06-03 10:09:34 UTC">
+      <body>Good toy?</body>
+    </message>
+    <message id="m0004" participant="131805" time="2013-06-03 10:11:09 UTC">
+      <body>Hahaha What is toy?</body>
+    </message>
+    <message id="m0005" participant="131003" time="2013-06-03 10:12:22 UTC">
+      <body>That would be "you" haha oops</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-06-03 10:12:27 UTC">
+      <body>Usually autocorrect takes care of these things for me</body>
+    </message>
+    <message id="m0007" participant="131805" time="2013-06-03 10:19:20 UTC">
+      <body>And they told me proper spelling would matter. Do you have an android, apple, or windows phone?</body>
+    </message>
+    <message id="m0008" participant="131805" time="2013-06-03 10:20:18 UTC">
+      <body>I run on android.</body>
+    </message>
+    <message id="m0009" participant="131003" time="2013-06-03 10:29:00 UTC">
+      <body>iPhone 4</body>
+    </message>
+    <message id="m0010" participant="131805" time="2013-06-03 11:29:12 UTC">
+      <body>Oooo cool. Have you jail broken your phone?</body>
+    </message>
+    <message id="m0011" participant="131003" time="2013-06-03 11:31:31 UTC">
+      <body>Haha no</body>
+    </message>
+    <message id="m0012" participant="131003" time="2013-06-03 11:32:02 UTC">
+      <body>I've had the iPhone for like a year now but before that it was a flip phone</body>
+    </message>
+    <message id="m0013" participant="131003" time="2013-06-03 11:32:09 UTC">
+      <body>So you can see I am very technologically advanced</body>
+    </message>
+    <message id="m0014" participant="131805" time="2013-06-03 15:00:04 UTC">
+      <body>That's alright technology can be easy to explain with the right understanding</body>
+    </message>
+  </messages>
+</conversation>

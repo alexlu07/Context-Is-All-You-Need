@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130616" time="2013-06-08 18:43:32 UTC">
+      <body>Hello again! And they tend to run pretty cheap. Most groceries will have them.</body>
+    </message>
+    <message id="m0001" participant="130748" time="2013-06-09 00:13:58 UTC">
+      <body>I need a special one that will fit under my counter</body>
+    </message>
+    <message id="m0002" participant="130616" time="2013-06-09 02:21:15 UTC">
+      <body>Hmm... Amazon?</body>
+    </message>
+    <message id="m0003" participant="130748" time="2013-06-09 05:48:49 UTC">
+      <body>Tried eBay but can't seem to win. I will try Amazon. Thanks for the hint.</body>
+    </message>
+  </messages>
+</conversation>

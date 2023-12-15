@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130319.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-19 23:53:13 UTC">
+      <body>Was it you that wanted the new tegan and sara album or someone else?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2013-03-19 23:53:36 UTC">
+      <body>It was me :)</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-03-20 18:29:03 UTC">
+      <body>6 din?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-20 21:25:24 UTC">
+      <body>Are others going at 6?</body>
+    </message>
+  </messages>
+</conversation>

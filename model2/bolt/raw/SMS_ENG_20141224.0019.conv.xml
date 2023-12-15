@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141224.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-24 02:31:12 UTC" participant="153632">
+      <body>Be careful going up to moms tomorrow!   Love you</body>
+    </message>
+    <message id="m0001" time="2014-12-24 03:08:35 UTC" participant="153548">
+      <body>I'm here!</body>
+    </message>
+    <message id="m0002" time="2014-12-24 03:08:55 UTC" participant="153632">
+      <body>Whoa!</body>
+    </message>
+    <message id="m0003" time="2014-12-24 03:09:13 UTC" participant="153632">
+      <body>Have fun. Love you all. </body>
+    </message>
+    <message id="m0004" time="2014-12-24 03:15:05 UTC" participant="153548">
+      <body>Love u too!</body>
+    </message>
+  </messages>
+</conversation>
+

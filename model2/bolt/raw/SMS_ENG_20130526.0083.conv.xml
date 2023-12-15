@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133111" time="2013-05-26 00:59:49 UTC">
+      <body>come down and see what I have purchased for you</body>
+    </message>
+    <message id="m0001" participant="133113" time="2013-05-26 19:47:07 UTC">
+      <body>Ian wants to know when youll be back for groceries</body>
+    </message>
+    <message id="m0002" participant="133111" time="2013-05-26 19:47:54 UTC">
+      <body>I'm leaving now so I'll be back by 2:30ish</body>
+    </message>
+  </messages>
+</conversation>

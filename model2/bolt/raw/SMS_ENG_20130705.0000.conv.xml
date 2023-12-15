@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134874" time="2013-07-05 05:01:29 UTC">
+      <body>Hi! How was your 4th of July?</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-07-05 12:20:57 UTC">
+      <body>Hi it was nice and laid back. Yours?</body>
+    </message>
+    <message id="m0002" participant="134874" time="2013-07-05 12:25:29 UTC">
+      <body>Mine too. Avoided the crowd all day. Was able to see the fireworks from home tho.</body>
+    </message>
+    <message id="m0003" participant="130751" time="2013-07-05 14:57:05 UTC">
+      <body>Thats the best</body>
+    </message>
+    <message id="m0004" participant="130751" time="2013-07-05 14:58:22 UTC">
+      <body>Where about are you? I live in philly.</body>
+    </message>
+  </messages>
+</conversation>

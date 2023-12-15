@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131200" time="2013-07-31 12:14:29 UTC">
+      <body>What does 808 refer to?</body>
+    </message>
+    <message id="m0001" participant="134852" time="2013-07-31 12:17:58 UTC">
+      <body>It looks like "BOB"</body>
+    </message>
+    <message id="m0002" participant="134852" time="2013-07-31 12:18:22 UTC">
+      <body>It's just my go-to number because it's goofy</body>
+    </message>
+  </messages>
+</conversation>

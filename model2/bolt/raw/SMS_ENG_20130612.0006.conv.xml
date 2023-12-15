@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" time="2013-06-12 12:57:35 UTC" participant="130623">
+      <body>Hi! My day is insane, how's youirs?</body>
+    </message>
+    <message id="m0001" time="2013-06-12 12:59:51 UTC" participant="131003">
+      <body>You again?</body>
+    </message>
+    <message id="m0002" time="2013-06-12 12:59:51 UTC" participant="131003">
+      <body>Haha just kidding :)</body>
+    </message>
+    <message id="m0003" time="2013-06-12 12:59:56 UTC" participant="131003">
+      <body>It's not bad</body>
+    </message>
+    <message id="m0004" time="2013-06-13 09:53:31 UTC" participant="130623">
+      <body>Today's mood: choice paralysis. How're you?</body>
+    </message>
+  </messages>
+</conversation>
+

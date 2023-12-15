@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-27 20:24:02 UTC">
+      <body>would it be possible for you to pick tyler up from clairmont tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136142" time="2013-04-27 20:24:30 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-27 20:25:36 UTC">
+      <body>thanks! i'll get someone else to pick candace up unless you want to get her too. </body>
+    </message>
+    <message id="m0003" participant="136142" time="2013-04-27 20:58:59 UTC">
+      <body>If jenn acn pick her up, i'll let her. If not, i'll pick her up too. Jason is really busy right now, so don't ask him.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-27 20:59:32 UTC">
+      <body>yeah, i never ask him, haha. thanks for the help! </body>
+    </message>
+    <message id="m0005" participant="136142" time="2013-04-27 20:59:59 UTC">
+      <body>Ok, yw.</body>
+    </message>
+    <message id="m0006" participant="136142" time="2013-04-27 21:00:22 UTC">
+      <body>Thanks for organizing rides. It's a load off!</body>
+    </message>
+  </messages>
+</conversation>

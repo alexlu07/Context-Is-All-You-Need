@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120922.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-22 00:27:42 UTC" participant="152734">
+      <body>Have you been to shake shack? Next level custard man</body>
+    </message>
+    <message id="m0001" time="2012-09-22 01:20:36 UTC" participant="153272">
+      <body>No i havent but have heard gooood thingss...will checkit out!</body>
+    </message>
+    <message id="m0002" time="2012-09-22 01:52:11 UTC" participant="152734">
+      <body>Like, probably definitely the best custard I've had! </body>
+    </message>
+  </messages>
+</conversation>
+

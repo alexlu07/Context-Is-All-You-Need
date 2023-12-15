@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0033" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131016" time="2013-05-22 13:28:59 UTC">
+      <body>Hello, how are you?</body>
+    </message>
+    <message id="m0001" participant="131016" time="2013-05-22 13:35:47 UTC">
+      <body>Hello, how are you?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-05-22 13:45:47 UTC">
+      <body>Hi, I'm doing well - watching our new kitten meet our old cat. How bout you?</body>
+    </message>
+    <message id="m0003" participant="131016" time="2013-05-22 13:47:46 UTC">
+      <body>Aww, thats so cute :) just taking a break from work, gonna grab lunch soon. What kind of cats are they?</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-05-22 13:49:52 UTC">
+      <body>The new guy is all black and our older one is all white with a few black markings - both strays we rescued</body>
+    </message>
+    <message id="m0005" participant="131016" time="2013-05-22 13:58:21 UTC">
+      <body>Thats awesome. Good on you :) how are they handling each other?</body>
+    </message>
+    <message id="m0006" participant="130562" time="2013-05-22 14:15:43 UTC">
+      <body>There's been some hissing but it should be all good soon. Our cat is a year and a half and this new guy is all of 11wks</body>
+    </message>
+    <message id="m0007" participant="131016" time="2013-05-22 14:19:46 UTC">
+      <body>Thats adorable. I wish i could have a cat but im allergic :/</body>
+    </message>
+    <message id="m0008" participant="130562" time="2013-05-22 14:46:19 UTC">
+      <body>Have any pets at all?</body>
+    </message>
+    <message id="m0009" participant="131016" time="2013-05-22 14:51:34 UTC">
+      <body>My mum has a dog but ive developed an allergy for her too :/ its tragic really. Do you have any other pets?</body>
+    </message>
+    <message id="m0010" participant="130562" time="2013-05-22 15:09:20 UTC">
+      <body>Nope just these two cats. They're enough as it is</body>
+    </message>
+    <message id="m0011" participant="131016" time="2013-05-22 15:14:47 UTC">
+      <body>Gotcha. yea, I would imagine theyd be a handful.</body>
+    </message>
+  </messages>
+</conversation>

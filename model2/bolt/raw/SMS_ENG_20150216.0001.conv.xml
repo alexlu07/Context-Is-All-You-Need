@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150216.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-16 21:50:37 UTC" participant="152117">
+      <body>Hey chicken it's mom. I'm just getting in from work, no doubt I am ordering dinner so what would you like? I'm thinking cheesesteaks from pizza shack. let me know what you want love you</body>
+    </message>
+    <message id="m0001" time="2015-02-16 21:55:43 UTC" participant="152115">
+      <body>Chicken cheese steak</body>
+    </message>
+    <message id="m0002" time="2015-02-16 21:56:18 UTC" participant="152117">
+      <body>Ok How about Michael</body>
+    </message>
+    <message id="m0003" time="2015-02-16 22:38:58 UTC" participant="152115">
+      <body>I can split</body>
+    </message>
+    <message id="m0004" time="2015-02-16 22:40:51 UTC" participant="152117">
+      <body>Didn't hear back so I got each of you one</body>
+    </message>
+  </messages>
+</conversation>
+

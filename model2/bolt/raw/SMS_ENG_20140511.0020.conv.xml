@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140511.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-11 21:33:00 UTC" participant="153900">
+      <body>Kinda looking for a suv or station wagon</body>
+    </message>
+    <message id="m0001" time="2014-05-11 21:49:05 UTC" participant="153244">
+      <body>Yea well that's noy in your budget</body>
+    </message>
+    <message id="m0002" time="2014-05-11 21:49:41 UTC" participant="153900">
+      <body>Excuse me</body>
+    </message>
+  </messages>
+</conversation>
+

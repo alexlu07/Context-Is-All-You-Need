@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120914.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-09-14 18:30:51 UTC">
+      <body>Heard your campus was
+Under threat but now safe. Happy to hear the latter! Hope you're well.</body>
+    </message>
+    <message id="m0001" participant="135117" time="2012-09-14 18:34:46 UTC">
+      <body>Yeah it was strange ... hope you're breaking a leg with the show</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-09-14 18:49:50 UTC">
+      <body>Thanks, I think I am... How's school going?</body>
+    </message>
+  </messages>
+</conversation>

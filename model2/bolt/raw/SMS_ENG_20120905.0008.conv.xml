@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120905.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-09-05 00:53:20 UTC">
+      <body>Are you back at Princeton?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-09-05 00:53:21 UTC">
+      <body>Yeah but can't get into room</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-09-05 00:55:28 UTC">
+      <body>Ugh!  Where are you going to sleep?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-09-05 02:49:35 UTC">
+      <body> Tower</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-09-05 03:03:28 UTC">
+      <body>K Tks.  I would have gotten you a hotel :)</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-09-05 03:06:34 UTC">
+      <body>Lol no its cool</body>
+    </message>
+  </messages>
+</conversation>

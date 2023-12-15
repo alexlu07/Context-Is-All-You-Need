@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-28 17:00:22 UTC">
+      <body>Did you and holly pick a date for el Leon Boracho?</body>
+    </message>
+    <message id="m0001" participant="130823" time="2013-06-28 17:09:27 UTC">
+      <body>Aug 24</body>
+    </message>
+  </messages>
+</conversation>

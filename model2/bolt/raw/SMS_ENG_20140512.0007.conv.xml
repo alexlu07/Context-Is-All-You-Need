@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-12 20:35:12 UTC" participant="149351">
+      <body>Hey how's things? I am gonna drive Nates truck to Lowes after you get back from Tague. Could you shoot me a txt when yr home? Thanks man!</body>
+    </message>
+    <message id="m0001" time="2014-05-12 20:35:12 UTC" participant="149351">
+      <body>Oh ok cool. Thanks!</body>
+    </message>
+    <message id="m0002" time="2014-05-12 20:36:24 UTC" participant="153547">
+      <body>I'm back</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150422.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-22 11:30:37 UTC" participant="153412">
+      <body> Hey. Ready when you are :)</body>
+    </message>
+    <message id="m0001" time="2015-04-22 11:35:04 UTC" participant="153416">
+      <body>Okay! Leaving the house now</body>
+    </message>
+  </messages>
+</conversation>
+

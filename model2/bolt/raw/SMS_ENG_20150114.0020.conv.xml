@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150114.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-14 12:52:26 UTC" participant="153547">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0001" time="2015-01-15 12:43:21 UTC" participant="153547">
+      <body>I'm leaving in a minute. I got to run by lowes so probably get there 840</body>
+    </message>
+    <message id="m0002" time="2015-01-15 12:46:44 UTC" participant="153602">
+      <body>Alright</body>
+    </message>
+  </messages>
+</conversation>
+

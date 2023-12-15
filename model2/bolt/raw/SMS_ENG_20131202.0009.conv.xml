@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131202.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-02 15:44:20 UTC" participant="153548">
+      <body>What time/day are you guys arriving in philly? I'm all over the place this weekend</body>
+    </message>
+    <message id="m0001" time="2013-12-02 15:54:49 UTC" participant="153649">
+      <body>Hey, I think we're arriving late Friday. Like 11pm or so. Are you moved into hunter's?</body>
+    </message>
+    <message id="m0002" time="2013-12-02 17:10:42 UTC" participant="153548">
+      <body>No I move on the 15th. Late Friday is good. I won't be home til about midnight that night.</body>
+    </message>
+    <message id="m0003" time="2013-12-02 17:10:59 UTC" participant="153548">
+      <body>But my apartment is all boxes!</body>
+    </message>
+    <message id="m0004" time="2013-12-02 17:12:32 UTC" participant="153649">
+      <body>Ok, I'll KIT as it gets closer. Woo hoo!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="132437" time="2013-04-21 23:01:02 UTC">
+      <body>Thanks.</body>
+    </message>
+    <message id="m0002" participant="137361" time="2013-04-21 23:25:29 UTC">
+      <body>This man is leaving Carlton and going to UCLA</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-04-21 23:26:20 UTC">
+      <body>I think I know him from the program in Switzerland that I used to attend.</body>
+    </message>
+  </messages>
+</conversation>

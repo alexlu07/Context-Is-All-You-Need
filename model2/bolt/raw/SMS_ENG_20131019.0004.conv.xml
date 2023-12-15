@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131019.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-19 15:31:01 UTC" participant="152631">
+      <body>Are you in vermont this weekend?</body>
+    </message>
+    <message id="m0001" time="2013-10-19 15:50:15 UTC" participant="152417">
+      <body>Hey Joseph, I'm in Philly again this weekend.  Will you still be in Vt tomorrow night?</body>
+    </message>
+    <message id="m0002" time="2013-10-19 15:51:11 UTC" participant="152631">
+      <body>Going back tomorrow afternoon</body>
+    </message>
+  </messages>
+</conversation>
+

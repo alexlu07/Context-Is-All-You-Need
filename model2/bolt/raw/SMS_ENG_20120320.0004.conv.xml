@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120320.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135136" time="2012-03-20 19:41:47 UTC">
+      <body>Missed your call. What up?!</body>
+    </message>
+    <message id="m0001" participant="135136" time="2012-03-20 19:51:51 UTC">
+      <body>Just got your message. Sounds amazing! I have dress rehearsal that night but maybe could come to the after party and then see it next week?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-20 19:57:44 UTC">
+      <body>Do it! Definitely try and see it. I'll know more specifically after I see it - but across the board I hear phenomenal things.</body>
+    </message>
+  </messages>
+</conversation>

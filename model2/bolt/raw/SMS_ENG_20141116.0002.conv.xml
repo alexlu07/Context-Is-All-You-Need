@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141116.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-16 17:29:50 UTC" participant="152417">
+      <body>I slept in today, to a tardy 9:30!  Should i get tickets to WPO for Tues? I'm out on deliveries and not far from WCL</body>
+    </message>
+    <message id="m0001" time="2014-11-16 17:33:52 UTC" participant="152595">
+      <body>Yeah! Sure</body>
+    </message>
+    <message id="m0002" time="2014-11-16 17:36:51 UTC" participant="152595">
+      <body>Shoot wait what time would it start? I have a call at 7pm...it'll probably go until 8 or 8:30. </body>
+    </message>
+    <message id="m0003" time="2014-11-16 17:50:10 UTC" participant="152417">
+      <body>Show starts at 8, that shouldnt be too much of a problem</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121223.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-12-23 20:38:56 UTC">
+      <body>What time do you guys expect to be back?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-23 20:49:49 UTC">
+      <body>I'm coming home now but then going out again. I should be back for good by like 7 or 8</body>
+    </message>
+  </messages>
+</conversation>

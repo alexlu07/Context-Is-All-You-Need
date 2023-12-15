@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 19:12:00 UTC" participant="152595">
+      <body>Hmmmmmm</body>
+    </message>
+    <message id="m0001" time="2014-12-13 19:12:14 UTC" participant="152417">
+      <body>What newspaper do grapes read?</body>
+    </message>
+    <message id="m0002" time="2014-12-13 19:13:43 UTC" participant="152417">
+      <body>The daily currant!</body>
+    </message>
+    <message id="m0003" time="2014-12-13 19:14:08 UTC" participant="152595">
+      <body>Sure</body>
+    </message>
+    <message id="m0004" time="2014-12-13 19:14:42 UTC" participant="152417">
+      <body>Are we on for dinner?</body>
+    </message>
+    <message id="m0005" time="2014-12-13 19:15:51 UTC" participant="152417">
+      <body>Where should we go?</body>
+    </message>
+    <message id="m0007" time="2014-12-13 19:38:51 UTC" participant="152417">
+      <body>Yea</body>
+    </message>
+    <message id="m0008" time="2014-12-13 20:11:44 UTC" participant="152595">
+      <body>How do you feel about indian food?</body>
+    </message>
+    <message id="m0009" time="2014-12-13 20:13:08 UTC" participant="152417">
+      <body>I'm all about it</body>
+    </message>
+    <message id="m0010" time="2014-12-13 20:20:16 UTC" participant="152595">
+      <body>Want to meet there at 7:45?</body>
+    </message>
+    <message id="m0011" time="2014-12-13 20:21:59 UTC" participant="152417">
+      <body>Sure, At which place?</body>
+    </message>
+    <message id="m0012" time="2014-12-13 20:43:44 UTC" participant="152595">
+      <body>Oh sorry. There's a restaurant on like 16th and south? I've never been, but it has decent reviews</body>
+    </message>
+    <message id="m0013" time="2014-12-13 22:39:26 UTC" participant="152417">
+      <body>Cool, i know the one.  I'll see you there</body>
+    </message>
+    <message id="m0014" time="2014-12-14 00:50:42 UTC" participant="152417">
+      <body>Im here, where yat?</body>
+    </message>
+  </messages>
+</conversation>
+

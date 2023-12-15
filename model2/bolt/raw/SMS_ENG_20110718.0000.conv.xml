@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110718.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135107" time="2011-07-18 03:16:04 UTC">
+      <body>I am. Awake.  The only one awake. </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-18 03:26:23 UTC">
+      <body>I see the sun break out. It slows, no clouds.</body>
+    </message>
+  </messages>
+</conversation>

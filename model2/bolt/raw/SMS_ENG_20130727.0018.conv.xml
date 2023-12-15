@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130727.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137397" time="2013-07-27 16:44:48 UTC">
+      <body>Hi there, it's Jenny! So I have to go to Swarthmore this afternoon and will be there through dinner. I will probably leave there around 8ish. If that's not too late I can come by on my way home. If tomorrow is better just let me know!</body>
+    </message>
+    <message id="m0002" participant="137397" time="2013-07-27 16:50:55 UTC">
+      <body>Great! I will text you when I'm nearby</body>
+    </message>
+    <message id="m0003" participant="137397" time="2013-07-28 00:23:02 UTC">
+      <body>Leaving Swarthmore now</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-07-28 00:23:27 UTC">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-07-28 02:55:09 UTC">
+      <body>Hey, thanks for coming by. You (and Trevor) should come by more often!</body>
+    </message>
+    <message id="m0006" participant="137397" time="2013-07-28 02:58:38 UTC">
+      <body>Thanks for having me! It was great to catch up!  We would love to hang out!</body>
+    </message>
+  </messages>
+</conversation>

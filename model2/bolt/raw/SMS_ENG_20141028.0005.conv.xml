@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141028.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-28 23:39:24 UTC" participant="152590">
+      <body>hey gabriel, everything cool ?</body>
+    </message>
+    <message id="m0001" time="2014-10-28 23:42:01 UTC" participant="152417">
+      <body>Yea, i've got a lot of homework i'm trying to get done, if you're short on other riders and need me i can start taking some orders</body>
+    </message>
+    <message id="m0002" time="2014-10-28 23:43:31 UTC" participant="152590">
+      <body>no worries at all we're all set. thanks for letting us know</body>
+    </message>
+    <message id="m0003" time="2014-10-29 22:37:23 UTC" participant="152590">
+      <body>got you a pickup from supper</body>
+    </message>
+    <message id="m0004" time="2014-10-29 22:37:42 UTC" participant="152417">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

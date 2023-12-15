@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 23:02:00 UTC" participant="154405">
+      <body>R we carpooling?</body>
+    </message>
+    <message id="m0001" time="2013-11-07 23:04:16 UTC" participant="154352">
+      <body>I'm heading out now to meet ze german piret for food</body>
+    </message>
+    <message id="m0002" time="2013-11-07 23:04:33 UTC" participant="154405">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2013-11-08 01:45:04 UTC" participant="154405">
+      <body>R u there?</body>
+    </message>
+    <message id="m0004" time="2013-11-08 01:48:04 UTC" participant="154405">
+      <body>I'm in line now</body>
+    </message>
+    <message id="m0005" time="2013-11-08 01:48:38 UTC" participant="154352">
+      <body>Walking over now. Be there in ten</body>
+    </message>
+    <message id="m0006" time="2013-11-08 01:49:25 UTC" participant="154405">
+      <body>I'm across from gas station</body>
+    </message>
+    <message id="m0007" time="2013-11-08 02:05:27 UTC" participant="154352">
+      <body>In the over 21 line across from you</body>
+    </message>
+    <message id="m0008" time="2013-11-08 02:05:54 UTC" participant="154405">
+      <body>Is it shorter?</body>
+    </message>
+    <message id="m0009" time="2013-11-08 02:08:10 UTC" participant="154352">
+      <body>I think so based ok total length, but probably not based on your advanced line position</body>
+    </message>
+    <message id="m0010" time="2013-11-08 02:08:45 UTC" participant="154405">
+      <body>Ok I c u inside</body>
+    </message>
+    <message id="m0011" time="2013-11-08 02:29:24 UTC" participant="154405">
+      <body>I dont think I can buy alcohol</body>
+    </message>
+    <message id="m0012" time="2013-11-08 02:39:42 UTC" participant="154352">
+      <body>Why not? We are at the upper bar area.</body>
+    </message>
+    <message id="m0013" time="2013-11-08 12:38:04 UTC" participant="154405">
+      <body>My bad for not saying bye hope u had good time</body>
+    </message>
+    <message id="m0014" time="2013-11-08 12:42:48 UTC" participant="154352">
+      <body>No problem. I forgot too. It was fun.</body>
+    </message>
+    <message id="m0015" time="2013-11-08 13:42:41 UTC" participant="154352">
+      <body>Do you have that pull up bar for me to try?</body>
+    </message>
+    <message id="m0016" time="2013-11-08 16:01:41 UTC" participant="154405">
+      <body>I will check</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120510.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-10 02:34:03 UTC">
+      <body>Good luck on your exam!!!</body>
+    </message>
+    <message id="m0001" participant="136209" time="2012-05-10 10:47:52 UTC">
+      <body>Thanks :) </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-10 16:06:07 UTC">
+      <body>How was it</body>
+    </message>
+    <message id="m0003" participant="136209" time="2012-05-10 16:14:30 UTC">
+      <body>It was good so long though</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-11 12:09:59 UTC">
+      <body>I made my prom payment yesterday :)</body>
+    </message>
+    <message id="m0005" participant="136209" time="2012-05-11 12:32:07 UTC">
+      <body>Kk :)  did u hand in the permission slip</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-05-11 12:33:20 UTC">
+      <body>Not yet but I will</body>
+    </message>
+    <message id="m0007" participant="136209" time="2012-05-11 12:38:46 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

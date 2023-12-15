@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111014.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135092" time="2011-10-14 23:57:35 UTC">
+      <body>You called me sugaaaaaa</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-10-14 23:57:46 UTC">
+      <body>When????</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-10-14 23:58:57 UTC">
+      <body>That pink song</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-10-15 00:00:02 UTC">
+      <body>Don't know you're talking about</body>
+    </message>
+    <message id="m0004" participant="135092" time="2011-10-15 00:00:59 UTC">
+      <body>Ughhhhh</body>
+    </message>
+  </messages>
+</conversation>

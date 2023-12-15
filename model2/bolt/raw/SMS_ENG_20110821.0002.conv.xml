@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110821.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130860" time="2011-08-21 01:49:44 UTC">
+      <body>Need extra hands tomorrow @12-2pm?</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-08-21 02:47:20 UTC">
+      <body>Sure!  Ww are rehearsing til 1:30, but if you wanna come paint we'll be here!</body>
+    </message>
+    <message id="m0002" participant="130860" time="2011-08-21 14:02:09 UTC">
+      <body>Eta 1230pm :-)</body>
+    </message>
+    <message id="m0003" participant="130860" time="2011-08-21 16:16:51 UTC">
+      <body>Here:-)</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-08-21 16:18:25 UTC">
+      <body>Just a min</body>
+    </message>
+  </messages>
+</conversation>

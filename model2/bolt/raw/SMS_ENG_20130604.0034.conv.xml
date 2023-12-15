@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-04 23:58:02 UTC">
+      <body>Late notice but my dad is coming up for the Mariners game tonight if you want to come up. </body>
+    </message>
+    <message id="m0001" participant="134305" time="2013-06-05 00:17:58 UTC">
+      <body>Thanks for TE invite don't think I can get there in time.</body>
+    </message>
+    <message id="m0002" participant="134305" time="2013-06-05 00:18:00 UTC">
+      <body>For the</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-05 00:31:00 UTC">
+      <body>My fault for late notice. </body>
+    </message>
+  </messages>
+</conversation>

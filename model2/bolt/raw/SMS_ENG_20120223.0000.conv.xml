@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120223.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-02-23 03:37:46 UTC">
+      <body>I am jealous that you went to Hogwarts.</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-02-23 03:38:08 UTC">
+      <body>I didn't I was at mock rial</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-02-23 03:38:39 UTC">
+      <body>Ok then you have to go with me.</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-02-23 03:39:04 UTC">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>

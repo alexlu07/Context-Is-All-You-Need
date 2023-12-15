@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130930.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-30 21:23:48 UTC" participant="152378">
+      <body>any preference of food tonight? at least a general area of the world :)</body>
+    </message>
+    <message id="m0001" time="2013-09-30 21:27:34 UTC" participant="152374">
+      <body>I kinda just want a salad</body>
+    </message>
+    <message id="m0002" time="2013-09-30 21:34:04 UTC" participant="152378">
+      <body>ok... i'll see what in the area has something that's not crap.</body>
+    </message>
+  </messages>
+</conversation>
+

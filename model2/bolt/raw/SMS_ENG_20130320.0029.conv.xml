@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135428" time="2013-03-20 20:43:44 UTC">
+      <body>Hey Sofie I know u must be crazy busy no need to call back. Megan and I will see you tonight probably around 7!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-20 21:13:32 UTC">
+      <body>Ok if you need anything text me</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-20 21:13:52 UTC">
+      <body>Ill be checking my phone periodically</body>
+    </message>
+  </messages>
+</conversation>

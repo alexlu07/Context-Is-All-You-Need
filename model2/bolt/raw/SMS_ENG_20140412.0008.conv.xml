@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 04:03:11 UTC" participant="153562">
+      <body>What are you doing later tomorrow (sat)? </body>
+    </message>
+    <message id="m0001" time="2014-04-12 13:20:30 UTC" participant="153547">
+      <body>I gotta grab some supplies and work on frames today. Why, what's up?</body>
+    </message>
+    <message id="m0002" time="2014-04-12 14:07:37 UTC" participant="153562">
+      <body>I was wonderingnif you wanted to project a few hrs of this psy conference later. Its basically a documentary </body>
+    </message>
+    <message id="m0003" time="2014-04-12 14:09:15 UTC" participant="153547">
+      <body>Maybe. My projector is being funny. One of the pins for hdmi is bent or something.</body>
+    </message>
+    <message id="m0004" time="2014-04-12 14:10:46 UTC" participant="153562">
+      <body>Ok I have one as well but I haven't tried it out in a while. Ill check out the situation.</body>
+    </message>
+    <message id="m0005" time="2014-04-12 18:26:46 UTC" participant="153547">
+      <body>Also it would be great if you could get the fridge this weekend</body>
+    </message>
+    <message id="m0006" time="2014-04-12 20:27:04 UTC" participant="153562">
+      <body>Ok cool. Can we plan to grab it tomorrow afternoon?</body>
+    </message>
+    <message id="m0007" time="2014-04-12 21:32:03 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2014-04-12 21:32:33 UTC" participant="153547">
+      <body>Btw I have dinner plans I forgot about tonight so no projecting</body>
+    </message>
+    <message id="m0009" time="2014-04-12 21:35:02 UTC" participant="153562">
+      <body>No sweat. See ya tomorra</body>
+    </message>
+  </messages>
+</conversation>
+

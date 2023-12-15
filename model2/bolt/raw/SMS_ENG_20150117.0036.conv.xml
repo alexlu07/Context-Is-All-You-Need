@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150117.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-17 19:30:48 UTC" participant="153900">
+      <body>Ok I made reservation for 5 so be there before then</body>
+    </message>
+    <message id="m0001" time="2015-01-17 20:44:39 UTC" participant="153244">
+      <body>Thats early. Im still at work.  I'll probably be late</body>
+    </message>
+    <message id="m0002" time="2015-01-17 20:45:28 UTC" participant="153900">
+      <body>What time do you get done</body>
+    </message>
+    <message id="m0003" time="2015-01-17 21:06:03 UTC" participant="153900">
+      <body>And is Steph coming</body>
+    </message>
+    <message id="m0004" time="2015-01-17 21:13:47 UTC" participant="153244">
+      <body>Leaving in a bit and no she isn't</body>
+    </message>
+    <message id="m0005" time="2015-01-17 21:14:09 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2015-01-17 22:06:11 UTC" participant="153900">
+      <body>Are you on your way</body>
+    </message>
+    <message id="m0007" time="2015-01-18 01:23:01 UTC" participant="153244">
+      <body>Parked in my same spot</body>
+    </message>
+  </messages>
+</conversation>
+

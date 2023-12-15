@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121022.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-10-22 03:54:59 UTC">
+      <body>Hey dad, I'm leaving Seattle soon, should be in Oakland around 11, I'll text you when I land. I love you (:</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-10-22 03:56:48 UTC">
+      <body>Love u ! Have safe flight!</body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-10-22 03:56:48 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-10-22 06:18:42 UTC">
+      <body>Landed (:</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-10-22 06:19:23 UTC">
+      <body>Yeah! Thank u. Leka nosht. </body>
+    </message>
+    <message id="m0007" participant="131019" time="2012-10-22 19:59:53 UTC">
+      <body>Are you alive? Just checking (:</body>
+    </message>
+    <message id="m0010" participant="131019" time="2012-10-22 22:53:31 UTC">
+      <body>Are you working today?</body>
+    </message>
+    <message id="m0011" participant="131064" time="2012-10-22 22:53:52 UTC">
+      <body>Не</body>
+    </message>
+    <message id="m0012" participant="131019" time="2012-10-22 22:54:35 UTC">
+      <body>Can I call you at 5?</body>
+    </message>
+    <message id="m0014" participant="131019" time="2012-10-22 22:59:18 UTC">
+      <body>(:</body>
+    </message>
+  </messages>
+</conversation>

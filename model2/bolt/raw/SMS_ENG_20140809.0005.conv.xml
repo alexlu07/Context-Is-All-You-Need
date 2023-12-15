@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140809.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-09 19:18:36 UTC" participant="152734">
+      <body>On my way, be there around 415 (uncle Ricky's)</body>
+    </message>
+    <message id="m0001" time="2014-08-10 04:39:31 UTC" participant="152734">
+      <body>I'm back! No worries</body>
+    </message>
+    <message id="m0002" time="2014-08-10 13:06:29 UTC" participant="153268">
+      <body>Thanks for coming</body>
+    </message>
+  </messages>
+</conversation>
+

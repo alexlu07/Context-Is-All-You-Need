@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130922" time="2013-07-13 00:15:10 UTC">
+      <body>Has it started? We are locked out. </body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-13 00:17:49 UTC">
+      <body>On my way</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140923.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-23 14:09:01 UTC" participant="153547">
+      <body>Hey Brian, I need to get that $ from u</body>
+    </message>
+    <message id="m0001" time="2014-09-23 14:47:37 UTC" participant="153562">
+      <body>Yo holla. I got yr money, dirty</body>
+    </message>
+    <message id="m0002" time="2014-09-23 15:47:51 UTC" participant="153562">
+      <body>Yo.</body>
+    </message>
+    <message id="m0003" time="2014-09-23 15:49:19 UTC" participant="153547">
+      <body>Ok. When are you around? I got work at 4</body>
+    </message>
+    <message id="m0004" time="2014-09-23 15:57:29 UTC" participant="153562">
+      <body>I can swing over before then</body>
+    </message>
+    <message id="m0005" time="2014-09-23 19:15:23 UTC" participant="153562">
+      <body>On the way over now.</body>
+    </message>
+  </messages>
+</conversation>
+

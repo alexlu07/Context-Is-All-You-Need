@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137397" time="2013-08-01 12:49:04 UTC">
+      <body>How did her interview go??</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-08-01 12:50:20 UTC">
+      <body>Hey! Went very well! She got a face to face! August 7 at 1:00pm</body>
+    </message>
+    <message id="m0002" participant="137397" time="2013-08-01 12:51:15 UTC">
+      <body>Excellent!!! How long was her phone interview?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-08-01 17:55:05 UTC">
+      <body>I think it was around 20 minutes or so.</body>
+    </message>
+  </messages>
+</conversation>

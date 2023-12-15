@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130912.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-12 20:55:24 UTC" participant="154392">
+      <body>Yo, where you at?</body>
+    </message>
+    <message id="m0001" time="2013-09-12 20:55:52 UTC" participant="154352">
+      <body>walking to the train station now</body>
+    </message>
+    <message id="m0002" time="2013-09-12 20:56:24 UTC" participant="154392">
+      <body>Ok. I'm at the train station</body>
+    </message>
+  </messages>
+</conversation>
+

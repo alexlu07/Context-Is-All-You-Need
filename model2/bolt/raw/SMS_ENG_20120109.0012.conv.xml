@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120109.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-01-09 03:27:20 UTC">
+      <body>Did you arrive safely back at Princeton?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-09 04:37:49 UTC">
+      <body>Yepz</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-01-09 14:35:44 UTC">
+      <body>Good luck on your project</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-01-09 14:58:06 UTC">
+      <body>Thanks it's at 11?</body>
+    </message>
+  </messages>
+</conversation>

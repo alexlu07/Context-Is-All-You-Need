@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131383" time="2013-05-20 05:06:33 UTC">
+      <body>Just hit town. Having a bite at Denny's at i10 and Ina. Wanna join us?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-20 05:22:27 UTC">
+      <body>Not tonight...thanks, though. Glad you made it safely.</body>
+    </message>
+    <message id="m0003" participant="131383" time="2013-05-20 05:23:32 UTC">
+      <body>Ok. Tomorrow at 6:30 is Athena's grad. </body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-20 05:29:03 UTC">
+      <body>Cool.</body>
+    </message>
+  </messages>
+</conversation>

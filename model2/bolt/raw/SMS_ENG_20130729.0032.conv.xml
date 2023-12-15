@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130729.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137309" time="2013-07-29 21:23:29 UTC">
+      <body>Did sensei reply yet?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-07-30 20:04:55 UTC">
+      <body>Only the minutes I specified. Not the whole thing. Ok?</body>
+    </message>
+    <message id="m0002" participant="137309" time="2013-07-30 22:33:57 UTC">
+      <body>What are we going to have for dinner?</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-07-30 22:52:50 UTC">
+      <body>I don't know. Maybe leftovers? Do you have ideas? I'll be home about 9:10</body>
+    </message>
+    <message id="m0004" participant="137309" time="2013-07-30 22:54:02 UTC">
+      <body>No leftovers.  Maybe chinese?</body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-07-30 22:55:03 UTC">
+      <body>Money for Chinese until aug 1</body>
+    </message>
+  </messages>
+</conversation>

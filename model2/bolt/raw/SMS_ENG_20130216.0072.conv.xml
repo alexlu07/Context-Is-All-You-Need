@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-16 19:02:04 UTC" participant="153443">
+      <body>Yo! do you mind if we're gonna meet at starbucks in the book store of UPenn? </body>
+    </message>
+    <message id="m0001" time="2013-02-16 19:39:55 UTC" participant="153418">
+      <body>Uh. Around 34th?</body>
+    </message>
+    <message id="m0002" time="2013-02-16 19:41:30 UTC" participant="153443">
+      <body>I believe so! The second floor!</body>
+    </message>
+    <message id="m0003" time="2013-02-16 20:04:07 UTC" participant="153418">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

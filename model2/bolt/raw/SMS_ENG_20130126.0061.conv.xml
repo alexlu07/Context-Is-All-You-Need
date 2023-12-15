@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-26 04:03:12 UTC" participant="154352">
+      <body>What is your Skype name?</body>
+    </message>
+    <message id="m0002" time="2013-01-26 04:44:01 UTC" participant="154352">
+      <body>I just sent you a contact request</body>
+    </message>
+    <message id="m0003" time="2013-01-27 01:34:02 UTC" participant="154352">
+      <body>Did you get your ticket for tomorrow?</body>
+    </message>
+    <message id="m0004" time="2013-01-27 01:40:13 UTC" participant="154392">
+      <body>I was on the web getting the tickets last night when I went to get my cred</body>
+    </message>
+    <message id="m0005" time="2013-01-27 01:41:20 UTC" participant="154392">
+      <body>it card from my camelbak it wasn't in my boot bag.  I'm not sure if I'm going to now.</body>
+    </message>
+    <message id="m0006" time="2013-01-27 02:40:19 UTC" participant="154392">
+      <body>Is stevo going?  He said he might yesterday.  I saw a paypal option ill try it when I get home</body>
+    </message>
+  </messages>
+</conversation>
+

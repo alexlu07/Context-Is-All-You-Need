@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141207.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-07 19:11:40 UTC" participant="152417">
+      <body>If you've got any time, i'm going to hear my voice teacher's grad recital tonight, it'd be great to have some company</body>
+    </message>
+    <message id="m0001" time="2014-12-07 21:17:52 UTC" participant="152595">
+      <body>Hey, I don't really have time tonight. In a study session now and then have another immediately after. Busy time</body>
+    </message>
+    <message id="m0002" time="2014-12-07 23:18:00 UTC" participant="152417">
+      <body>Gotcha.  suerte.</body>
+    </message>
+  </messages>
+</conversation>
+

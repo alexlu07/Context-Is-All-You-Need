@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-04-24 23:24:11 UTC">
+      <body>Ryan messages me. He's pretty certain Pat passed away.</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-04-24 23:24:17 UTC">
+      <body>Messages</body>
+    </message>
+    <message id="m0002" participant="131517" time="2013-04-24 23:36:28 UTC">
+      <body>Really damn. Ok thanks for lettin me know</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-04-25 12:23:41 UTC">
+      <body>Send me your email, I'll send the funeral information.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-04-25 12:26:03 UTC">
+      <body>Thanks.</body>
+    </message>
+    <message id="m0006" participant="131517" time="2013-04-25 15:28:00 UTC">
+      <body>Sunday 6-8 mcconaghy  Monday funeral at Colman 10Am</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-04-25 15:28:49 UTC">
+      <body>Yeah, sorry. Forgot to email details this morning.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135394" time="2012-11-06 12:44:26 UTC">
+      <body>When you vote you need to bring proof of residence you can talk to ariel for details</body>
+    </message>
+    <message id="m0001" participant="135394" time="2012-11-07 04:31:22 UTC">
+      <body>Are you watching</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-07 04:32:17 UTC">
+      <body>No not watching tv but on sites!! Yay!!</body>
+    </message>
+    <message id="m0003" participant="135394" time="2012-11-07 04:33:40 UTC">
+      <body>Congratulations!</body>
+    </message>
+  </messages>
+</conversation>

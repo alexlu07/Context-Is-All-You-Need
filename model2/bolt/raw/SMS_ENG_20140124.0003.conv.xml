@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 23:37:38 UTC" participant="152417">
+      <body>No scifi night but thw dance may go to 11</body>
+    </message>
+    <message id="m0001" time="2014-01-25 01:33:52 UTC" participant="152560">
+      <body>I'm getting out early. See you after the dance?</body>
+    </message>
+    <message id="m0002" time="2014-01-25 01:34:44 UTC" participant="152417">
+      <body>Ya</body>
+    </message>
+    <message id="m0003" time="2014-01-25 14:24:00 UTC" participant="152560">
+      <body>I forgot to ask-what is Tiki's address? </body>
+    </message>
+    <message id="m0005" time="2014-01-25 15:59:21 UTC" participant="152560">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0006" time="2014-01-25 23:06:30 UTC" participant="152417">
+      <body>Im home safe</body>
+    </message>
+  </messages>
+</conversation>
+

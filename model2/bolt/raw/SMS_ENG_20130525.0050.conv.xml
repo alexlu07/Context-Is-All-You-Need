@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-25 22:55:36 UTC">
+      <body>So I might be free tomorrow</body>
+    </message>
+    <message id="m0001" participant="132551" time="2013-05-25 23:17:40 UTC">
+      <body>For realsies?!</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-05-25 23:18:29 UTC">
+      <body>yeah I think so</body>
+    </message>
+    <message id="m0003" participant="132551" time="2013-05-26 01:52:55 UTC">
+      <body>Coming to kevs BBQ?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-05-26 01:58:09 UTC">
+      <body>Maybe</body>
+    </message>
+    <message id="m0005" participant="132551" time="2013-05-27 01:06:02 UTC">
+      <body>Not making it? :(</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-05-27 01:11:12 UTC">
+      <body>Nah fallin back</body>
+    </message>
+    <message id="m0007" participant="132551" time="2013-05-27 01:27:07 UTC">
+      <body>Lame man. Super lame. </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-05-27 01:30:31 UTC">
+      <body>Went hard this weekend yo. Need to revover</body>
+    </message>
+    <message id="m0009" participant="132551" time="2013-05-27 02:06:31 UTC">
+      <body>You could recover tomorrow. Whatevs</body>
+    </message>
+  </messages>
+</conversation>

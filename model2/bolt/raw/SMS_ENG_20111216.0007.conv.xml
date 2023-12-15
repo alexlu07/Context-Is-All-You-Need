@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111216.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-12-16 19:39:05 UTC">
+      <body>Respond to this message ASAP confirming that you'll be at the Dinky at 3:10!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-12-16 19:39:21 UTC">
+      <body>Yeps</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-12-17 05:17:49 UTC">
+      <body>Hey Chris I forgot when I wa at your house but do you have a pair of black shoes I could wear tomorrow? I'm a size 9 but any bigger size is fine, too.</body>
+    </message>
+    <message id="m0003" participant="131830" time="2011-12-17 05:22:54 UTC">
+      <body>I'll be sure to grab some tomorrow morning, quinton. Good thinking</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-12-17 11:32:32 UTC">
+      <body>Thanks!!</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-12-17 12:40:08 UTC">
+      <body>Have you left yet? I forgot to mention that I also don't have socks</body>
+    </message>
+  </messages>
+</conversation>

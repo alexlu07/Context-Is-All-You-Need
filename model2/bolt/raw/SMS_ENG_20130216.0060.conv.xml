@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136153" time="2013-02-16 19:39:32 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-16 19:40:00 UTC">
+      <body>okay, thanks! what are we having for breakfast? :) </body>
+    </message>
+    <message id="m0002" participant="136153" time="2013-02-16 19:48:49 UTC">
+      <body>I was thinking chocolate chip muffins</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-16 19:49:12 UTC">
+      <body>yum! </body>
+    </message>
+  </messages>
+</conversation>

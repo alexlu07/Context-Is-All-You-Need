@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130101.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-01-01 02:05:19 UTC">
+      <body>Happy New Year's Eve! Is there any way you could call in a sinus infection antibiotic to a 24 hr pharmacy for Richie? Is there a 24 hr one near us?</body>
+    </message>
+    <message id="m0001" participant="131026" time="2013-01-02 00:32:40 UTC">
+      <body>Hi there--I haven't responded because I've been working through my own feverish haze. I have the plague :-( Did ####### get anything figured out?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-02 02:46:43 UTC">
+      <body>Augh, we all do! Yeah, he was able to get a script. Feel better!</body>
+    </message>
+  </messages>
+</conversation>

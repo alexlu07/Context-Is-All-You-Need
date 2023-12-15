@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136154" time="2013-02-09 23:25:33 UTC">
+      <body>I can't make it tomorrow. I have a presentation meeting with my partner and her availability for Sunday was limited.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-10 00:14:01 UTC">
+      <body>no problem, thanks for letting me know! </body>
+    </message>
+  </messages>
+</conversation>

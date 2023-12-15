@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0013" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134871" time="2013-07-23 12:20:33 UTC">
+      <body>Hey. What's up!</body>
+    </message>
+    <message id="m0001" participant="135220" time="2013-07-23 13:02:52 UTC">
+      <body>Accidentally slept through my class haha what about you?</body>
+    </message>
+    <message id="m0002" participant="134871" time="2013-07-23 13:04:30 UTC">
+      <body>Oh no! I'm good. I am just spending the day with my daughter.</body>
+    </message>
+    <message id="m0003" participant="135220" time="2013-07-23 13:52:07 UTC">
+      <body>Cool what are y'all doing?</body>
+    </message>
+    <message id="m0004" participant="134871" time="2013-07-23 14:53:47 UTC">
+      <body>Reading a lot of books. Haha. I just put her down for a nap.</body>
+    </message>
+    <message id="m0005" participant="135220" time="2013-07-23 15:46:45 UTC">
+      <body>Wish I could take a nap</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-14 04:38:00 UTC">
+      <body>Can you wake me up at 6 tomorrow it's very important that I'm at school early </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-02-14 04:38:19 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-02-14 04:39:28 UTC">
+      <body>But I'll tell u just once so you'll have to wake yourself up after that please. Sleep well I love you. </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-02-14 04:39:30 UTC">
+      <body>Thanks </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-02-14 04:39:59 UTC">
+      <body>Love you too! </body>
+    </message>
+  </messages>
+</conversation>

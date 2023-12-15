@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150125.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-25 16:07:24 UTC" participant="153244">
+      <body>Can I do laundry at your house today? </body>
+    </message>
+    <message id="m0001" time="2015-01-25 16:07:49 UTC" participant="153900">
+      <body>Yea what time</body>
+    </message>
+    <message id="m0002" time="2015-01-25 16:08:27 UTC" participant="153244">
+      <body>I can come over around 1230? I have work at 4</body>
+    </message>
+    <message id="m0003" time="2015-01-25 16:09:19 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2015-01-25 17:44:07 UTC" participant="153244">
+      <body>Made that 130 instead</body>
+    </message>
+    <message id="m0005" time="2015-01-25 17:44:34 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2015-01-25 18:45:26 UTC" participant="153900">
+      <body>Are you coming</body>
+    </message>
+    <message id="m0007" time="2015-01-25 18:45:56 UTC" participant="153244">
+      <body>On my way</body>
+    </message>
+    <message id="m0008" time="2015-01-25 18:50:50 UTC" participant="153244">
+      <body>Open the door</body>
+    </message>
+    <message id="m0009" time="2015-01-25 18:51:14 UTC" participant="153900">
+      <body>Its open</body>
+    </message>
+    <message id="m0010" time="2015-01-25 22:46:20 UTC" participant="153900">
+      <body>Did you want me to put your clothes back in your hamper</body>
+    </message>
+    <message id="m0011" time="2015-01-25 22:46:47 UTC" participant="153244">
+      <body>Yea you can.</body>
+    </message>
+    <message id="m0012" time="2015-01-25 22:50:20 UTC" participant="153244">
+      <body>If I driver down your way ill come get it sooner. Also I forgot dads check so ill drop that off when I get the clothes</body>
+    </message>
+    <message id="m0013" time="2015-01-26 00:06:11 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

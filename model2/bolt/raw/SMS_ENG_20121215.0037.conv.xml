@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-15 15:15:36 UTC">
+      <body>Hey Sammie are you coming with me today?</body>
+    </message>
+    <message id="m0001" participant="136300" time="2012-12-15 15:21:36 UTC">
+      <body>I'm cabbing. You have someone to go with right?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-15 15:25:58 UTC">
+      <body>No I don't :(</body>
+    </message>
+    <message id="m0003" participant="136300" time="2012-12-15 15:30:08 UTC">
+      <body>Oh no :( I'm sorry. Do you want to cab it? Or you're for sure taking MARTA?</body>
+    </message>
+    <message id="m0004" participant="136300" time="2012-12-15 15:32:16 UTC">
+      <body>Yeah. I'm splitting with one other person so 3 of us would be perf!</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-15 15:32:47 UTC">
+      <body>I would share a cab with you (if you wanted) because it wouldn't be too expensive if I split it with someone</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-12-15 15:34:29 UTC">
+      <body>Ok sounds good! Thanks! When are you leaving</body>
+    </message>
+    <message id="m0007" participant="136300" time="2012-12-15 15:36:32 UTC">
+      <body>11</body>
+    </message>
+    <message id="m0008" participant="136300" time="2012-12-15 15:36:32 UTC">
+      <body>Okay cool. It's gonna be behind LSM. </body>
+    </message>
+    <message id="m0009" participant="136300" time="2012-12-15 15:36:32 UTC">
+      <body>See you then :)</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-12-15 15:37:13 UTC">
+      <body>Good with me</body>
+    </message>
+  </messages>
+</conversation>

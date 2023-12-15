@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120922.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-22 16:06:42 UTC">
+      <body>Hey Ben can you help me get to Clairmont campus</body>
+    </message>
+    <message id="m0001" participant="136284" time="2012-09-22 16:56:54 UTC">
+      <body>Yeah no problem. Who is this? </body>
+    </message>
+    <message id="m0004" participant="136284" time="2012-09-22 17:31:02 UTC">
+      <body>Call me if you have a problem</body>
+    </message>
+  </messages>
+</conversation>

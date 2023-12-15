@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-06-11 11:19:39 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="131523" time="2013-06-11 11:31:24 UTC">
+      <body>Sup Muggs? How's it going?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-06-11 11:43:43 UTC">
+      <body>Going alright. I slept in and feel fuzzy headed</body>
+    </message>
+    <message id="m0003" participant="131523" time="2013-06-11 12:44:39 UTC">
+      <body>Haha you go drinking last night?</body>
+    </message>
+    <message id="m0004" participant="130664" time="2013-06-11 13:11:30 UTC">
+      <body>No, I went canoeing and camping over the weekend. Still catching up on sleep</body>
+    </message>
+    <message id="m0005" participant="131523" time="2013-06-11 13:48:36 UTC">
+      <body>O very nice. I went to a park with waterfalls in Virginia</body>
+    </message>
+    <message id="m0006" participant="130664" time="2013-06-11 13:50:45 UTC">
+      <body>That sounds great! Where in Virginia?</body>
+    </message>
+    <message id="m0007" participant="131523" time="2013-06-11 13:56:04 UTC">
+      <body>On skyline drive at white oak canyon. You can Google it its an awesome place</body>
+    </message>
+    <message id="m0008" participant="130664" time="2013-06-11 14:08:59 UTC">
+      <body>That's great. I'm trying to find a camping destination for later in the summer. I wanted to find something around the mineral springs</body>
+    </message>
+    <message id="m0009" participant="131523" time="2013-06-11 14:11:21 UTC">
+      <body>The mineral springs where?</body>
+    </message>
+    <message id="m0010" participant="130664" time="2013-06-11 14:13:29 UTC">
+      <body>In Virginia. There is a town called Bath which has established itself as a spa destination, but I would like to find something in the peripheral.</body>
+    </message>
+    <message id="m0011" participant="131523" time="2013-06-11 21:57:44 UTC">
+      <body>OK. Are you from Virginia?</body>
+    </message>
+  </messages>
+</conversation>

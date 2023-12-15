@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-05-13 11:22:09 UTC">
+      <body>On the plane. I love you!!</body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-05-13 11:22:40 UTC">
+      <body>Love you too</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-05-13 13:45:36 UTC">
+      <body>Cool!</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-05-13 13:45:48 UTC">
+      <body>Landed. Disembarking shortly.</body>
+    </message>
+    <message id="m0004" participant="131502" time="2013-05-14 00:53:20 UTC">
+      <body>Just heard something run by in the attic. That's not positive.</body>
+    </message>
+    <message id="m0005" participant="131502" time="2013-05-14 00:55:28 UTC">
+      <body>I'm guessing</body>
+    </message>
+    <message id="m0006" participant="131502" time="2013-05-14 00:55:28 UTC">
+      <body>lol. </body>
+    </message>
+    <message id="m0007" participant="131502" time="2013-05-14 00:55:28 UTC">
+      <body>Ok. Have fun</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-05-14 00:55:44 UTC">
+      <body>Squirrel?</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-05-14 00:56:06 UTC">
+      <body>Just throw Angie up there</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-05-14 00:57:00 UTC">
+      <body>Alright. Done the application. I'm goin to go run.</body>
+    </message>
+  </messages>
+</conversation>

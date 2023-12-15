@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130632" time="2013-07-15 10:19:10 UTC">
+      <body>Hey there</body>
+    </message>
+    <message id="m0001" participant="133240" time="2013-07-15 10:28:48 UTC">
+      <body>Hellooo</body>
+    </message>
+    <message id="m0002" participant="130632" time="2013-07-15 10:31:44 UTC">
+      <body>What's up?</body>
+    </message>
+    <message id="m0003" participant="133240" time="2013-07-15 12:22:12 UTC">
+      <body>Not much. Went back to sleep by mistake</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-07-15 20:37:19 UTC">
+      <body>Im in camden where are you?</body>
+    </message>
+    <message id="m0006" participant="133240" time="2013-07-15 20:43:15 UTC">
+      <body>Urbaba</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-07-15 20:51:30 UTC">
+      <body>Where is that?</body>
+    </message>
+    <message id="m0008" participant="133240" time="2013-07-15 20:52:44 UTC">
+      <body>Sorry meant urbana. In Illinois</body>
+    </message>
+    <message id="m0009" participant="130632" time="2013-07-15 20:57:33 UTC">
+      <body>Haha thought it was a foreign city that i was ignorant of..</body>
+    </message>
+    <message id="m0010" participant="130632" time="2013-07-15 20:58:16 UTC">
+      <body>A friend of mine got his phd at urbana</body>
+    </message>
+    <message id="m0011" participant="133240" time="2013-07-15 21:05:55 UTC">
+      <body>Nope. Not foreign..so how long u been doing this</body>
+    </message>
+    <message id="m0012" participant="130632" time="2013-07-15 21:16:44 UTC">
+      <body>Since may actually! it's been a stretch. although i havent been doing it dilligently. you?</body>
+    </message>
+    <message id="m0013" participant="133240" time="2013-07-15 21:34:37 UTC">
+      <body>Just a few weeks</body>
+    </message>
+    <message id="m0014" participant="130632" time="2013-07-15 22:28:11 UTC">
+      <body>What are your thoughts?</body>
+    </message>
+  </messages>
+</conversation>

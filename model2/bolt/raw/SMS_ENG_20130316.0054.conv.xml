@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-16 19:35:58 UTC" participant="153418">
+      <body>Okay. Next week then~</body>
+    </message>
+    <message id="m0001" time="2013-03-16 21:41:49 UTC" participant="153443">
+      <body>Sorry! See ya next week :) </body>
+    </message>
+    <message id="m0002" time="2013-03-16 21:42:15 UTC" participant="153443">
+      <body>oh! When can you seem to make it to Sagami, john?</body>
+    </message>
+    <message id="m0003" time="2013-03-16 21:43:00 UTC" participant="153418">
+      <body>How about next weekend?</body>
+    </message>
+    <message id="m0004" time="2013-03-16 21:50:36 UTC" participant="153443">
+      <body>I think its okay! Ill ask tomi as well:)</body>
+    </message>
+    <message id="m0005" time="2013-03-16 21:59:59 UTC" participant="153418">
+      <body>Okay.</body>
+    </message>
+    <message id="m0006" time="2013-03-16 22:03:51 UTC" participant="153443">
+      <body>Cool:)</body>
+    </message>
+  </messages>
+</conversation>
+

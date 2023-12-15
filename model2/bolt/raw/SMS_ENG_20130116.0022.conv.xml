@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130116.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136137" time="2013-01-16 20:40:52 UTC">
+      <body>Hey you :)</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-16 22:17:17 UTC">
+      <body>hey! how are things? </body>
+    </message>
+    <message id="m0002" participant="136137" time="2013-01-16 22:24:00 UTC">
+      <body>Pretty good. How are things with you?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-16 22:39:05 UTC">
+      <body>good. about to go to a pilates class, i'll text you after? </body>
+    </message>
+    <message id="m0004" participant="136137" time="2013-01-16 22:43:55 UTC">
+      <body>For sure :)</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-01-17 00:36:00 UTC">
+      <body>hi again! </body>
+    </message>
+    <message id="m0006" participant="136137" time="2013-01-17 00:38:40 UTC">
+      <body>Hi back! How was your class?</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-01-17 00:46:06 UTC">
+      <body>good. i haven't worked out in sooo long so it felt amazing. how was your day? </body>
+    </message>
+    <message id="m0008" participant="136137" time="2013-01-17 00:50:21 UTC">
+      <body>An amazing workout? Must've been some class. Nothing too exciting here. Reading and lesson planning.</body>
+    </message>
+    <message id="m0009" participant="136112" time="2013-01-17 01:33:44 UTC">
+      <body>how do your students seem so far? and it was really good! i just really needed to be stretched out and whatever. </body>
+    </message>
+    <message id="m0010" participant="136137" time="2013-01-17 01:43:27 UTC">
+      <body>Stretched out? That sounds painful. Students seem okay so far. The big class should be interesting.</body>
+    </message>
+    <message id="m0011" participant="136112" time="2013-01-17 01:44:34 UTC">
+      <body>but it's good pain! is the big class the one you were surprised to find out you were teaching? </body>
+    </message>
+    <message id="m0012" participant="136137" time="2013-01-17 01:45:51 UTC">
+      <body>Good pain? Is that even possible? And yes, that's the surprise class. All 80 of them.</body>
+    </message>
+    <message id="m0013" participant="136112" time="2013-01-17 01:49:17 UTC">
+      <body>but of course. i'm surprised you're surprised by the idea. </body>
+    </message>
+    <message id="m0014" participant="136112" time="2013-01-17 01:49:29 UTC">
+      <body>also 80 is a lot of people. </body>
+    </message>
+    <message id="m0015" participant="136137" time="2013-01-17 01:51:29 UTC">
+      <body>Can't say I've ever enjoyed pain. The idea is foreign to me. But yes, it's a whole lot of people.</body>
+    </message>
+  </messages>
+</conversation>

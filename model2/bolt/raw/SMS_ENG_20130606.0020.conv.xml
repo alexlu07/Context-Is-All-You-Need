@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-06 16:12:37 UTC">
+      <body>Does around 130 at the convention center work? </body>
+    </message>
+    <message id="m0001" participant="134281" time="2013-06-06 16:18:43 UTC">
+      <body>Works well. I'll call when I get to Seattle and you can tell me where you'll be. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-06 16:22:58 UTC">
+      <body>Thank you very much </body>
+    </message>
+  </messages>
+</conversation>

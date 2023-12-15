@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-19 00:37:05 UTC" participant="152417">
+      <body>Just got home and fed ze doggy, are you for a walk?</body>
+    </message>
+    <message id="m0001" time="2013-02-19 00:40:02 UTC" participant="152560">
+      <body>Absolutely.</body>
+    </message>
+    <message id="m0002" time="2013-02-19 00:45:12 UTC" participant="152560">
+      <body>Meet u outside?</body>
+    </message>
+    <message id="m0003" time="2013-02-19 16:34:33 UTC" participant="152417">
+      <body>Whats the difference between a cat and a comma?</body>
+    </message>
+    <message id="m0004" time="2013-02-19 16:39:14 UTC" participant="152560">
+      <body>Different kind of pause [paws] ?</body>
+    </message>
+    <message id="m0005" time="2013-02-19 16:41:39 UTC" participant="152417">
+      <body>Yep! One has claws at the end of its paws, the other is the pause at the end of a clause</body>
+    </message>
+    <message id="m0006" time="2013-02-19 16:44:03 UTC" participant="152560">
+      <body>Aha! That's great.</body>
+    </message>
+  </messages>
+</conversation>
+

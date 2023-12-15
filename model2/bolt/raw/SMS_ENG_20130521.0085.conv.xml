@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0085" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-05-21 21:01:34 UTC">
+      <body>Hey I can't come this weekend, but I'll def visit soon &lt;3</body>
+    </message>
+    <message id="m0001" participant="137409" time="2013-05-22 19:50:31 UTC">
+      <body>so how was it? ;-) </body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-05-22 20:02:40 UTC">
+      <body>Oh geez. I'm on a rollercoaster right now.</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-05-22 20:02:54 UTC">
+      <body>But definitely fun ;)</body>
+    </message>
+  </messages>
+</conversation>

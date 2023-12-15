@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 15:21:52 UTC" participant="153848">
+      <body>Is Aaron on ur trip too?</body>
+    </message>
+    <message id="m0001" time="2015-03-24 15:24:45 UTC" participant="153863">
+      <body>No lol</body>
+    </message>
+    <message id="m0002" time="2015-03-24 15:33:17 UTC" participant="153848">
+      <body>Oh he just txted a stupid random picture </body>
+    </message>
+    <message id="m0003" time="2015-03-24 15:40:25 UTC" participant="153863">
+      <body>Uh ok</body>
+    </message>
+    <message id="m0004" time="2015-03-24 16:05:59 UTC" participant="153848">
+      <body>What are you guys doing today?</body>
+    </message>
+    <message id="m0005" time="2015-03-24 16:08:42 UTC" participant="153863">
+      <body>Stuff</body>
+    </message>
+  </messages>
+</conversation>
+

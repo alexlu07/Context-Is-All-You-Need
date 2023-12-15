@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 00:07:34 UTC" participant="153547">
+      <body>Are you around so I can drop off the tile saw</body>
+    </message>
+    <message id="m0001" time="2015-01-20 00:08:02 UTC" participant="149372">
+      <body>Yeah, leaving in 10 min though. </body>
+    </message>
+    <message id="m0002" time="2015-01-20 00:08:14 UTC" participant="153547">
+      <body>Ok be right there</body>
+    </message>
+    <message id="m0003" time="2015-01-20 15:51:24 UTC" participant="153547">
+      <body>-Dropping off a letter from Phila tax rev . Ive had it maybe 5 days so check it soon</body>
+    </message>
+    <message id="m0004" time="2015-01-20 15:55:46 UTC" participant="149372">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2015-01-20 19:31:12 UTC" participant="149372">
+      <body>Where is that scrapyard and Tinicum?</body>
+    </message>
+    <message id="m0006" time="2015-01-20 19:31:12 UTC" participant="149372">
+      <body>*in</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131119.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-19 15:12:41 UTC" participant="153643">
+      <body>Yo Lindsey! What time are you leaving to walk to the studio today? </body>
+    </message>
+    <message id="m0001" time="2013-11-19 16:03:51 UTC" participant="153548">
+      <body>Hi! I think we are going to try and leave 10 minutes before 12. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2012-12-12 22:11:12 UTC">
+      <body>Are u at school. Do you have a usb for your phone or wall charger? I'm on my way. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-12 22:13:39 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135386" time="2012-12-12 22:15:28 UTC">
+      <body>Ok phew</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-12 22:17:45 UTC">
+      <body>When u coming </body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-12 22:17:51 UTC">
+      <body>Wanna get dinner</body>
+    </message>
+    <message id="m0005" participant="135386" time="2012-12-12 22:21:52 UTC">
+      <body>Kinda where. I'm on the bus almost to brigham circle</body>
+    </message>
+    <message id="m0006" participant="135386" time="2012-12-12 22:21:52 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-12-12 22:21:57 UTC">
+      <body>Maybe simmons</body>
+    </message>
+    <message id="m0008" participant="135386" time="2012-12-12 22:36:48 UTC">
+      <body>Walkin. I missed the stop. See ya in a few</body>
+    </message>
+    <message id="m0009" participant="135386" time="2012-12-13 04:54:24 UTC">
+      <body>Feeling better?</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-12-13 04:54:58 UTC">
+      <body>Yes beer helped still bleeding though</body>
+    </message>
+    <message id="m0011" participant="135386" time="2012-12-13 05:05:04 UTC">
+      <body>Yikes</body>
+    </message>
+  </messages>
+</conversation>

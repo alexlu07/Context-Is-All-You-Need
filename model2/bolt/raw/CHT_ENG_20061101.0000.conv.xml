@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20061101.0000" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" time="2006-11-01 20:07:35 UTC" participant="153798">
+      <body>yeah</body>
+    </message>
+    <message id="m0001" time="2006-11-01 20:10:07 UTC" participant="153798">
+      <body>i am leaving soon.. but do you want to write back or call me?</body>
+    </message>
+    <message id="m0002" time="2006-11-01 20:10:32 UTC" participant="152697">
+      <body>sure.  when are you free?</body>
+    </message>
+    <message id="m0003" time="2006-11-01 20:11:37 UTC" participant="153798">
+      <body>do you want to talk now for 10 or 15 minutes?</body>
+    </message>
+    <message id="m0005" time="2006-11-01 20:14:19 UTC" participant="153798">
+      <body>the number isn't going through</body>
+    </message>
+    <message id="m0006" time="2006-11-01 20:15:15 UTC" participant="152697">
+      <body>oh, i mean 503, not 502</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130106.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-01-06 18:00:53 UTC">
+      <body>Yes and yes.</body>
+    </message>
+    <message id="m0001" participant="131028" time="2013-01-06 18:01:04 UTC">
+      <body>10 pacific is now right? Is it bad I'm not sure about this...</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-06 18:02:16 UTC">
+      <body>Just logged on!</body>
+    </message>
+    <message id="m0003" participant="131028" time="2013-01-06 18:02:25 UTC">
+      <body>I'm ready when you are!</body>
+    </message>
+    <message id="m0004" participant="131028" time="2013-01-06 18:03:55 UTC">
+      <body>Hmmm my Skype is being weird. Hold on...</body>
+    </message>
+  </messages>
+</conversation>

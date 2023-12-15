@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137386" time="2013-06-15 02:05:52 UTC">
+      <body>Do u have parking for tomorrow? Saw ur add on Craigslist. </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-15 02:11:04 UTC">
+      <body>Yep. We can accommodate. What time are you expecting to arrive?</body>
+    </message>
+    <message id="m0002" participant="137386" time="2013-06-15 02:14:24 UTC">
+      <body>Hi. Just heard back from someone right by you. (I think your neighbor). They were at $25 so I think I'm heading there. Thanks for getting back to me. </body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-06-15 02:17:14 UTC">
+      <body>Okay, thanks. </body>
+    </message>
+  </messages>
+</conversation>

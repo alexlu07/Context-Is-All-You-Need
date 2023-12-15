@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120729.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136258" time="2012-07-29 20:56:32 UTC">
+      <body>Hey William, this is Ibo driving instructor! How are you? Are we still on for today at 6.15pm?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-29 21:07:34 UTC">
+      <body>Yes I am ready for our lesson today!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-29 22:04:27 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" participant="136258" time="2012-07-29 22:04:48 UTC">
+      <body>The adress is ######################## right?</body>
+    </message>
+    <message id="m0004" participant="136258" time="2012-07-29 22:15:28 UTC">
+      <body>Running 5 min late sorry!</body>
+    </message>
+    <message id="m0005" participant="136258" time="2012-07-29 22:24:00 UTC">
+      <body>Im here!</body>
+    </message>
+  </messages>
+</conversation>

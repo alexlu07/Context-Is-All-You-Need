@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-21 19:50:31 UTC">
+      <body>WhAt u doing tonight?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-21 20:16:32 UTC">
+      <body>I miss u come play with me</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-21 20:16:51 UTC">
+      <body>Chappaqua!!!</body>
+    </message>
+    <message id="m0003" participant="135393" time="2012-11-21 20:18:08 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0004" participant="135393" time="2012-11-22 18:50:40 UTC">
+      <body>Gonna be there in a few hrs </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-22 18:53:39 UTC">
+      <body>Are you ok? What was your Facebook post about?</body>
+    </message>
+  </messages>
+</conversation>

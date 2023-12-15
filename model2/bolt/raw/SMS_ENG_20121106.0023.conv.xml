@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135390" time="2012-11-06 22:34:19 UTC">
+      <body>You left your poster, want me to take it?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-06 22:38:34 UTC">
+      <body>Oh shit ill come down</body>
+    </message>
+    <message id="m0002" participant="135390" time="2012-11-06 22:39:27 UTC">
+      <body>Ok its on the table</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-06 23:04:46 UTC">
+      <body> Thanks!!</body>
+    </message>
+    <message id="m0004" participant="135390" time="2012-11-06 23:51:59 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

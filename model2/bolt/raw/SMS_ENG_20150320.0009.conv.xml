@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150320.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-20 17:52:44 UTC" participant="153412">
+      <body>My train is going to be like 5 mins late so we won't get to the hospital until probably around 215. That  okay?</body>
+    </message>
+    <message id="m0001" time="2015-03-20 17:53:04 UTC" participant="153413">
+      <body>We'll pick you up from the train station?</body>
+    </message>
+    <message id="m0002" time="2015-03-20 17:54:51 UTC" participant="153412">
+      <body>Oh okay!!!! That's awesome. Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

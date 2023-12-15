@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2013-01-19 19:50:24 UTC">
+      <body>Hey, when are you getting back?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-19 19:51:13 UTC">
+      <body>3-5ish tomorrow</body>
+    </message>
+    <message id="m0002" participant="135267" time="2013-01-19 19:52:32 UTC">
+      <body>Sweeet! I can't wait to see you! And also talk about Ben Le.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-19 19:56:39 UTC">
+      <body>Haha me neither, and sounds good </body>
+    </message>
+    <message id="m0004" participant="135267" time="2013-01-19 19:56:48 UTC">
+      <body>:D</body>
+    </message>
+  </messages>
+</conversation>

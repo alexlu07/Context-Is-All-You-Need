@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110918.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-18 19:13:48 UTC">
+      <body>What are you up to today? Want to go to a movie at 4? It's supposed to be Really cool</body>
+    </message>
+    <message id="m0001" participant="135098" time="2011-09-19 01:27:14 UTC">
+      <body>Aw I'm so sad I missed it!! I was rehearsing at Vfair all day!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-19 13:49:06 UTC">
+      <body>Ah no worries :)</body>
+    </message>
+    <message id="m0003" participant="135098" time="2011-09-19 13:56:16 UTC">
+      <body>What movie was it?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-19 14:49:18 UTC">
+      <body>Life in a day, I think you'd really like it!</body>
+    </message>
+    <message id="m0005" participant="135098" time="2011-09-20 00:54:36 UTC">
+      <body>Hey! Still thinkin you.d wanna sing a civil wars song or two tonight?</body>
+    </message>
+    <message id="m0006" participant="135098" time="2011-09-21 00:07:45 UTC">
+      <body>Address please!</body>
+    </message>
+    <message id="m0008" participant="135098" time="2011-09-21 00:08:51 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-09-21 00:09:06 UTC">
+      <body>Mmk:)</body>
+    </message>
+    <message id="m0010" participant="131839" time="2011-09-21 00:11:23 UTC">
+      <body>JT says I'm deciding about open mic night... What would you want to sing?</body>
+    </message>
+    <message id="m0011" participant="135098" time="2011-09-21 00:12:41 UTC">
+      <body>The civil wars songs and anything else you wanna do!</body>
+    </message>
+    <message id="m0012" participant="135098" time="2011-09-21 01:11:30 UTC">
+      <body>2701</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-28 21:06:54 UTC">
+      <body>I'm getting on the bus at stokes. See you soon!</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-04-28 21:07:49 UTC">
+      <body>Fairleigh and I have a thesis meeting. :(</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-04-29 13:53:01 UTC">
+      <body>Do you remember whether alexis is finishing up the class slides before or after the presentations?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-29 13:53:34 UTC">
+      <body>Before I think</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-04-29 13:56:07 UTC">
+      <body>Ok, thanks!</body>
+    </message>
+  </messages>
+</conversation>

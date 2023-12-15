@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121004.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-10-04 00:16:08 UTC">
+      <body>We need a date this weekend!</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-10-04 00:39:33 UTC">
+      <body>Yeeeees</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-10-04 00:41:57 UTC">
+      <body>I need need need you wifey! Lets go for brunch! And bloody marys!</body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-10-04 00:43:16 UTC">
+      <body>Yeeeeees! I misssss u!</body>
+    </message>
+  </messages>
+</conversation>

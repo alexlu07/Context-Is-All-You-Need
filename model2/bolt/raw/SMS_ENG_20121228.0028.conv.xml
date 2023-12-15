@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-12-28 20:48:59 UTC">
+      <body>Hello Wendy gave me a Check for u</body>
+    </message>
+    <message id="m0001" participant="135397" time="2012-12-28 21:54:08 UTC">
+      <body>Good. Dad is still working so we aren't coming :(  
+Shd we still have dinner? Late?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-28 22:50:46 UTC">
+      <body>Maybe we just ate something</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-28 22:50:54 UTC">
+      <body>But I'm
+ Sure I'll be hungry</body>
+    </message>
+    <message id="m0004" participant="135397" time="2012-12-28 22:51:44 UTC">
+      <body>Wanna meet in Yonkers?</body>
+    </message>
+  </messages>
+</conversation>

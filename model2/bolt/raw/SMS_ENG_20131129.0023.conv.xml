@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 01:47:21 UTC" participant="152116">
+      <body>Text when you're leaving</body>
+    </message>
+    <message id="m0001" time="2013-11-29 01:52:57 UTC" participant="153244">
+      <body>K</body>
+    </message>
+    <message id="m0002" time="2013-11-29 02:07:09 UTC" participant="153244">
+      <body>Getting ready to leave now</body>
+    </message>
+    <message id="m0003" time="2013-11-29 02:12:30 UTC" participant="152116">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

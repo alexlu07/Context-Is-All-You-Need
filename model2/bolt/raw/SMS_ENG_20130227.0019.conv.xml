@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130227.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135429" time="2013-02-27 01:25:20 UTC">
+      <body>Are you hungry, would you want to get dinner in a bit?</body>
+    </message>
+    <message id="m0001" participant="135429" time="2013-02-27 01:25:20 UTC">
+      <body>Sounds good, have a good night! Love U2!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-27 01:25:57 UTC">
+      <body>I love u I can't</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-27 03:35:31 UTC">
+      <body>Love u</body>
+    </message>
+    <message id="m0004" participant="135429" time="2013-02-27 03:58:56 UTC">
+      <body>Aww yay, thanks beautiful! </body>
+    </message>
+  </messages>
+</conversation>

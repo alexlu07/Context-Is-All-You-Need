@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-08 20:50:18 UTC">
+      <body>hey, beardy...
+when are you on this side of the world next? i'd like to meet and talk, serious-like.</body>
+    </message>
+    <message id="m0001" participant="131364" time="2013-04-08 20:56:57 UTC">
+      <body>We'd</body>
+    </message>
+    <message id="m0002" participant="131364" time="2013-04-08 20:57:13 UTC">
+      <body>Wed</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-08 20:58:46 UTC">
+      <body>dude. cool. can you meet me wed for coffee?</body>
+    </message>
+    <message id="m0004" participant="131364" time="2013-04-08 21:08:24 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-08 21:10:11 UTC">
+      <body>cool. thx.
+when/where?</body>
+    </message>
+    <message id="m0006" participant="131364" time="2013-04-08 21:30:29 UTC">
+      <body>I will know tomorrow </body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-08 21:49:54 UTC">
+      <body>cool. thanks, man.</body>
+    </message>
+  </messages>
+</conversation>

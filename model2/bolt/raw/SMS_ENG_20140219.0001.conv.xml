@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140219.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-19 02:49:15 UTC" participant="152417">
+      <body>Hi kev i left my phone at home! You can call this number if you need me</body>
+    </message>
+    <message id="m0001" time="2014-02-19 02:51:16 UTC" participant="152638">
+      <body>All good </body>
+    </message>
+  </messages>
+</conversation>
+

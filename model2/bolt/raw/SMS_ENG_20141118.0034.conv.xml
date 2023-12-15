@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 15:05:05 UTC" participant="153900">
+      <body>How much did you pay for victor political book </body>
+    </message>
+    <message id="m0001" time="2014-11-18 18:47:21 UTC" participant="153244">
+      <body>Like $18</body>
+    </message>
+    <message id="m0002" time="2014-11-18 18:54:18 UTC" participant="153900">
+      <body>Oh I seen it for 23 did you get it from amazon</body>
+    </message>
+    <message id="m0003" time="2014-11-18 19:24:41 UTC" participant="153244">
+      <body>No. Half ebay. The same site I use for all Victors books</body>
+    </message>
+    <message id="m0004" time="2014-11-18 19:31:53 UTC" participant="153900">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>
+

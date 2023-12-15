@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-02-25 21:11:42 UTC">
+      <body>Dinner at 5:45?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-25 21:11:55 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-02-26 03:21:02 UTC">
+      <body>Lunt?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-26 03:33:41 UTC">
+      <body>I'm papering and trying not to further procrastinate :(</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-02-26 03:34:24 UTC">
+      <body>Saaad</body>
+    </message>
+  </messages>
+</conversation>

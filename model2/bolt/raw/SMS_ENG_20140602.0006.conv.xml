@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 19:38:40 UTC" participant="153645">
+      <body>Can't remember if I already ask - could you meet tomorrow instead of Thursday? </body>
+    </message>
+    <message id="m0001" time="2014-06-02 19:39:27 UTC" participant="153548">
+      <body>Yeah sounds good. 6 pm?</body>
+    </message>
+    <message id="m0002" time="2014-06-02 19:43:06 UTC" participant="153645">
+      <body>Terrific! </body>
+    </message>
+    <message id="m0003" time="2014-06-02 19:43:37 UTC" participant="153548">
+      <body>Yeah let's do it! I'm gonna get a mango lassi!</body>
+    </message>
+    <message id="m0004" time="2014-06-02 19:44:00 UTC" participant="153645">
+      <body>Great! Lets meet at the studio and we can order from there! </body>
+    </message>
+    <message id="m0005" time="2014-06-02 19:51:26 UTC" participant="153548">
+      <body>It's a plan!</body>
+    </message>
+  </messages>
+</conversation>
+

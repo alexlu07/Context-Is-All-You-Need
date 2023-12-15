@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110912.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-09-12 02:28:18 UTC">
+      <body>The sheets arrived at Frist last Friday</body>
+    </message>
+    <message id="m0001" participant="131824" time="2011-09-13 00:16:33 UTC">
+      <body>Get your sheets ok?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-09-13 00:33:57 UTC">
+      <body>Not yet</body>
+    </message>
+    <message id="m0003" participant="131824" time="2011-09-13 17:09:56 UTC">
+      <body>Happy International Chocolate Day!</body>
+    </message>
+  </messages>
+</conversation>

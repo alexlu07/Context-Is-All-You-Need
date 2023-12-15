@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130106.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-01-06 03:30:23 UTC">
+      <body>Do you know the name of the lot you usually park at?  Is it the gray lot? </body>
+    </message>
+    <message id="m0001" participant="134278" time="2013-01-06 03:34:35 UTC">
+      <body>You got a parking pass? Gray is a FedEx parking lot I think. The furthest from the stadium I think. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-01-06 03:35:09 UTC">
+      <body>What is the lot we can park at with no pass? </body>
+    </message>
+    <message id="m0003" participant="134278" time="2013-01-06 03:35:54 UTC">
+      <body>They are just like big open spaces that have people collecting at the entrance. </body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-01-06 03:36:50 UTC">
+      <body>How do I find these big open spaces? </body>
+    </message>
+    <message id="m0005" participant="134278" time="2013-01-06 03:37:26 UTC">
+      <body>Get off 495 towards the stadium and you will have options. </body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-01-06 03:38:24 UTC">
+      <body>So you do that have any particular place that is good? I assume there is tailgating at these lots correct? No need to buy a pass. Don't care about walking </body>
+    </message>
+    <message id="m0007" participant="134278" time="2013-01-06 03:46:28 UTC">
+      <body>I don't have any particular place that has a name. I would walk towards the stadium and tailgate there. Lots of options in the p lot outside the stadium. </body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-01-06 03:47:27 UTC">
+      <body>We will be tailgating with truck. Don't worry about it we will figure it out </body>
+    </message>
+    <message id="m0009" participant="134278" time="2013-01-06 03:52:04 UTC">
+      <body>Sorry I can't help out more. There is a big open to public lot right when you turn to head towards stadium. It's at the top of a long hill. People tailgate there I think. Gray lots might be open to public not sure though. </body>
+    </message>
+    <message id="m0010" participant="134278" time="2013-01-06 03:53:58 UTC">
+      <body>FedEx Field has a cash parking lot accessed by Barlowe Road. However, available cash spaces are limited during Redskins football games, because the parking lot also serves copper parking permit holders. Additional cash lots are located across the street from FedEx Field along Apollo and McCormick Drives. FedEx Field advises anyone planning to park in any of the cash lots surrounding the stadium to arrive at least an hour before the start of an event and at least two hours earlier for a Redskins game.</body>
+    </message>
+    <message id="m0011" participant="130979" time="2013-01-06 03:54:18 UTC">
+      <body>Yeah read tht</body>
+    </message>
+    <message id="m0012" participant="130979" time="2013-01-06 03:54:42 UTC">
+      <body>We'll figure it out. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130704.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130583" time="2013-07-04 14:08:17 UTC">
+      <body>Hello there. Wanna chat now?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-07-04 14:09:08 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-04 14:09:28 UTC">
+      <body>How are you</body>
+    </message>
+    <message id="m0003" participant="130583" time="2013-07-04 14:31:26 UTC">
+      <body>Oops, I was in the basement, maybe out of range. I am spending the day mostly at home, repairs and cleaning.</body>
+    </message>
+    <message id="m0004" participant="130583" time="2013-07-04 14:32:38 UTC">
+      <body>Too hot out there! You?</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-07-04 17:17:38 UTC">
+      <body>Very hot! Did some shopping. Now running errands</body>
+    </message>
+    <message id="m0006" participant="130583" time="2013-07-04 17:27:43 UTC">
+      <body>Hm! I just powered the phone up &amp; got your txt stamped 17:26. Is our timing synchronous? Or maybe the stamp just means "time received".</body>
+    </message>
+    <message id="m0007" participant="130583" time="2013-07-04 17:28:39 UTC">
+      <body>Got a call an hour ago from some friends, inviting me to go see fireworks w them tonite. yippee!</body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-07-04 19:11:56 UTC">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0009" participant="130583" time="2013-07-04 19:14:31 UTC">
+      <body>Yeah, we're in their car now. - Phone still saying PLUG ME IN, 15% POWER, so I'm gonna suspend chat till I get couple again.</body>
+    </message>
+    <message id="m0010" participant="130693" time="2013-07-04 19:23:12 UTC">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130507.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-05-07 20:28:10 UTC">
+      <body>Dinner at 6?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-07 20:34:31 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-07 20:41:53 UTC">
+      <body>Actually could we do 5:45? I forgot have a thesis meeting at 6:30</body>
+    </message>
+    <message id="m0003" participant="135275" time="2013-05-07 20:43:02 UTC">
+      <body>Yep, that works for me. Can you spread the word when you see people?</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-05-07 21:45:57 UTC">
+      <body>Heading over from the insc</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-05-08 03:03:00 UTC">
+      <body>Which option did you choose for who can see your thesis? I'm thinking of choosing the "just haverford college" option.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-08 03:05:37 UTC">
+      <body>That's what I did</body>
+    </message>
+    <message id="m0007" participant="135275" time="2013-05-08 03:06:03 UTC">
+      <body>Ok, thanks</body>
+    </message>
+  </messages>
+</conversation>

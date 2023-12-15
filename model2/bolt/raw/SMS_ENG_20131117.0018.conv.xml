@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131117.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-17 02:09:14 UTC" participant="154406">
+      <body>You coming to Martin's bonfire?</body>
+    </message>
+    <message id="m0001" time="2013-11-17 02:47:16 UTC" participant="154352">
+      <body>When is it?</body>
+    </message>
+    <message id="m0002" time="2013-11-17 02:48:06 UTC" participant="154406">
+      <body>now</body>
+    </message>
+    <message id="m0003" time="2013-11-17 02:50:03 UTC" participant="154352">
+      <body>I guess not since I'm not around Philly today. I'll be back tomorrow.</body>
+    </message>
+    <message id="m0004" time="2013-11-17 02:51:57 UTC" participant="154352">
+      <body>Try to not get on fire</body>
+    </message>
+  </messages>
+</conversation>
+

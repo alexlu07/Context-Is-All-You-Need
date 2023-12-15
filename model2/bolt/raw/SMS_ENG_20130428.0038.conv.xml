@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-28 16:56:06 UTC">
+      <body>￼Do I need renters insurance for things?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-28 18:38:05 UTC">
+      <body>No idea about insurance. It is the clause about our landlords insurance not extending to us</body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-04-28 18:38:53 UTC">
+      <body>That is standard</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-28 18:39:05 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-04-28 18:39:38 UTC">
+      <body>By that I meant no idea about resources for car insurance</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140502.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-02 15:19:28 UTC" participant="149372">
+      <body>Can you take a look at this fence job with me? They want to do it. </body>
+    </message>
+    <message id="m0001" time="2014-05-02 15:19:28 UTC" participant="149372">
+      <body>I got design and going to purchase the cedar from hearns hardwoods if you want to check that place out. Hundreds of wood species. </body>
+    </message>
+    <message id="m0002" time="2014-05-02 17:29:12 UTC" participant="149372">
+      <body>Are you getting these texts??</body>
+    </message>
+    <message id="m0003" time="2014-05-02 17:30:44 UTC" participant="153547">
+      <body>Just saw this. When do you want to go look at the fence job</body>
+    </message>
+    <message id="m0004" time="2014-05-02 17:31:02 UTC" participant="149372">
+      <body>I can go whenever. It's yr call. </body>
+    </message>
+    <message id="m0005" time="2014-05-02 17:31:31 UTC" participant="153547">
+      <body>I can walk over there now if u want</body>
+    </message>
+    <message id="m0006" time="2014-05-02 17:31:44 UTC" participant="149372">
+      <body>Ok. I'll be there in 5. </body>
+    </message>
+  </messages>
+</conversation>
+

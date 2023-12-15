@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130311.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-11 23:41:24 UTC">
+      <body>Hey! Will you be around tomorrow night?</body>
+    </message>
+    <message id="m0001" participant="135287" time="2013-03-11 23:55:44 UTC">
+      <body>I'm at the movies but ill be home around ten?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-11 23:57:41 UTC">
+      <body>Okay! I'm eating with my parents tonight...will you be home for dinner tomorrow night? If not I could come over after dinner tonight or tomorrow night</body>
+    </message>
+    <message id="m0003" participant="135287" time="2013-03-11 23:59:55 UTC">
+      <body>Ill be around tomorrow around ten. Would that be ok?</body>
+    </message>
+    <message id="m0004" participant="135287" time="2013-03-12 00:00:00 UTC">
+      <body>Wonderful</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-12 00:00:05 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0006" participant="135287" time="2013-03-12 02:12:16 UTC">
+      <body>I'm actually around during the day tomorrow too. Ill be studying on and off so feel free to drop by anytime before 430</body>
+    </message>
+    <message id="m0007" participant="135287" time="2013-03-13 00:55:28 UTC">
+      <body>I'm home  so come over whenever </body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-03-13 01:13:01 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-03-13 01:43:42 UTC">
+      <body>Hey sorry ill be there around 10. My dad is almost home from work and I want to see him before I leave tomorrow (he goes to bed early and leaves before I'm up)</body>
+    </message>
+    <message id="m0010" participant="135287" time="2013-03-13 01:44:24 UTC">
+      <body>Ok no worries, I just have work tomorrow so I prob won't be up late </body>
+    </message>
+    <message id="m0011" participant="135080" time="2013-03-13 01:45:00 UTC">
+      <body>Me neither, I still have some packing to do so I won't stay too long</body>
+    </message>
+    <message id="m0012" participant="135287" time="2013-03-13 01:48:05 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

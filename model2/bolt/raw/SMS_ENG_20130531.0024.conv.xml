@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131865" time="2013-05-31 06:52:38 UTC">
+      <body>￼Packing</body>
+    </message>
+    <message id="m0001" participant="131865" time="2013-06-01 02:25:54 UTC">
+      <body>This is my number! (Sacha) </body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-06-01 02:26:23 UTC">
+      <body>Ha thanks! I fixed it!</body>
+    </message>
+    <message id="m0003" participant="131865" time="2013-06-01 02:26:47 UTC">
+      <body>Oh good </body>
+    </message>
+    <message id="m0004" participant="131865" time="2013-06-01 02:29:20 UTC">
+      <body>Iphoooone !!!!</body>
+    </message>
+    <message id="m0005" participant="131837" time="2013-06-01 03:49:47 UTC">
+      <body>How could you tell?!</body>
+    </message>
+    <message id="m0006" participant="131865" time="2013-06-01 03:52:25 UTC">
+      <body>green!!</body>
+    </message>
+    <message id="m0007" participant="131837" time="2013-06-01 03:53:05 UTC">
+      <body>Ha!</body>
+    </message>
+    <message id="m0008" participant="131865" time="2013-06-02 01:16:02 UTC">
+      <body>Hi! Are you in New York/ do you have a key to the warehouse/ are you in the warehouse?</body>
+    </message>
+    <message id="m0009" participant="131837" time="2013-06-02 01:34:25 UTC">
+      <body>Yes, no, no. Carlton has the key in Midtown</body>
+    </message>
+    <message id="m0010" participant="131865" time="2013-06-02 01:41:48 UTC">
+      <body>Ok thaaanks. What time are you going to the space tomorrow? </body>
+    </message>
+    <message id="m0011" participant="131837" time="2013-06-02 01:56:47 UTC">
+      <body>A bit before noon. Then I'm coming back around 6 to deinstall.</body>
+    </message>
+  </messages>
+</conversation>

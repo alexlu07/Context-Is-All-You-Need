@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130717.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-17 19:54:30 UTC">
+      <body>Hey, what is grandma's new cell number? </body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-17 20:59:41 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="131979" time="2013-07-17 21:00:05 UTC">
+      <body>Ya no problem</body>
+    </message>
+  </messages>
+</conversation>

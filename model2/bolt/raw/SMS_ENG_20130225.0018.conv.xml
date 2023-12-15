@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-02-25 18:37:13 UTC">
+      <body>Hi. How is your day going? Pete is still sick. I think hr has the flu. Our bedroom smells like old person.</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-02-25 19:27:48 UTC">
+      <body>Old person because he is using salves?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-02-25 19:44:11 UTC">
+      <body>Just bc he smells sick.</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-02-25 21:00:56 UTC">
+      <body>Oh Pete. How are you otherwise?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-02-26 01:15:22 UTC">
+      <body>Okay. You?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-02-26 02:21:50 UTC">
+      <body>I'm ok</body>
+    </message>
+  </messages>
+</conversation>

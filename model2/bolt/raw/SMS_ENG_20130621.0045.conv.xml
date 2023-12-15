@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-06-21 21:32:32 UTC">
+      <body>Let me know if you can still meet later</body>
+    </message>
+    <message id="m0001" participant="136635" time="2013-06-21 21:44:30 UTC">
+      <body>Hey. Yep I am around</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-21 21:45:00 UTC">
+      <body>8?</body>
+    </message>
+    <message id="m0003" participant="136635" time="2013-06-21 21:45:39 UTC">
+      <body>Sure. My place or yours?</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-21 22:28:10 UTC">
+      <body>Either. If u going to be mobile already then here. Otherwise we can go there</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-06-21 22:49:56 UTC">
+      <body>If u want some hookah u can come here too</body>
+    </message>
+    <message id="m0006" participant="136635" time="2013-06-21 23:39:19 UTC">
+      <body>Word. I'm fixing a few things at brown Betty. Be over around 815</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-06-21 23:39:47 UTC">
+      <body>Cool. </body>
+    </message>
+  </messages>
+</conversation>

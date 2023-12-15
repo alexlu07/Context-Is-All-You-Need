@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141007.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-07 19:18:04 UTC" participant="152374">
+      <body>The weather has me a little bit worried but it looks like we can squeak in a short walk at 6! Still work for you?</body>
+    </message>
+    <message id="m0002" time="2014-10-07 19:30:42 UTC" participant="153472">
+      <body>Yes. I may be a lil later - 6:10ish. My class goes til 5:30 - just depends how quickly I make it home. </body>
+    </message>
+    <message id="m0003" time="2014-10-07 20:15:10 UTC" participant="153472">
+      <body>Never mind. I'm not going to make it to my class so 6 should work.</body>
+    </message>
+    <message id="m0004" time="2014-10-07 20:15:32 UTC" participant="152374">
+      <body>OK. Either way. Which way did you want to walk? Let me know where I should meet you.</body>
+    </message>
+    <message id="m0006" time="2014-10-07 20:17:04 UTC" participant="153472">
+      <body>I'd like to go up #### and around the ###### if that works for u. There are some notices up about parking and I want to read these b4 committing to go to NJ tomorrow night.</body>
+    </message>
+    <message id="m0007" time="2014-10-07 20:17:36 UTC" participant="152374">
+      <body>Sounds fine. I'll meet you at your place then</body>
+    </message>
+    <message id="m0009" time="2014-10-07 20:38:50 UTC" participant="153472">
+      <body>Perfect! See you there.</body>
+    </message>
+    <message id="m0010" time="2014-10-08 18:16:21 UTC" participant="153472">
+      <body>Got ###############! Also got my picture taken by #####. Suppose I'll take the good with the weird today! </body>
+    </message>
+    <message id="m0011" time="2014-10-08 18:16:41 UTC" participant="152374">
+      <body>Ha! Glad you found them. </body>
+    </message>
+  </messages>
+</conversation>
+

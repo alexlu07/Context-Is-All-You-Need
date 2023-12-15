@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 16:14:01 UTC" participant="153548">
+      <body>Hey! I have a car this morning want me to pick you up in this terrible weather?</body>
+    </message>
+    <message id="m0001" time="2013-12-29 16:19:10 UTC" participant="153660">
+      <body>Awesome, sure!</body>
+    </message>
+    <message id="m0002" time="2013-12-29 16:28:10 UTC" participant="153548">
+      <body>Cool! I'll be there around 12!</body>
+    </message>
+    <message id="m0003" time="2013-12-29 16:28:51 UTC" participant="153660">
+      <body>Great</body>
+    </message>
+    <message id="m0004" time="2013-12-29 17:09:05 UTC" participant="153548">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-07-10 00:16:34 UTC">
+      <body>Welp, I got some pretty crummy news.  I'll call you a lil after 8:30 if you are available to talk for a minute..</body>
+    </message>
+    <message id="m0001" participant="136724" time="2013-07-10 00:17:07 UTC">
+      <body>Car dead?</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-07-10 00:17:47 UTC">
+      <body>Close to it.</body>
+    </message>
+    <message id="m0003" participant="136724" time="2013-07-10 15:30:40 UTC">
+      <body>When are you stopping by?</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-07-10 15:33:23 UTC">
+      <body>Soon. Currently in route there.</body>
+    </message>
+    <message id="m0005" participant="131015" time="2013-07-10 16:13:01 UTC">
+      <body>Welp, my engine light shut off sooooo... That means my car is totally fine now right?</body>
+    </message>
+    <message id="m0006" participant="136724" time="2013-07-10 16:28:07 UTC">
+      <body>  Seems unlikely</body>
+    </message>
+    <message id="m0007" participant="131015" time="2013-07-11 16:07:44 UTC">
+      <body>Sorry. Pocket dialed you.</body>
+    </message>
+    <message id="m0008" participant="131015" time="2013-07-11 17:08:57 UTC">
+      <body>Headed back.</body>
+    </message>
+    <message id="m0009" participant="131015" time="2013-07-11 17:43:07 UTC">
+      <body>In the city. If there's stuff we need covered I can help.  If, not I'll head over to autozone.</body>
+    </message>
+    <message id="m0010" participant="136724" time="2013-07-11 17:44:31 UTC">
+      <body>Dead right now</body>
+    </message>
+    <message id="m0011" participant="131015" time="2013-07-11 17:46:06 UTC">
+      <body>Ok. I'll head over there then.</body>
+    </message>
+  </messages>
+</conversation>

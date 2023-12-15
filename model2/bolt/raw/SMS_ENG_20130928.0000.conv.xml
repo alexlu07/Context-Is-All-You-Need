@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130928.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-28 04:24:43 UTC" participant="149306">
+      <body>What day do you return?</body>
+    </message>
+    <message id="m0001" time="2013-09-28 12:13:25 UTC" participant="149360">
+      <body>Sunday</body>
+    </message>
+  </messages>
+</conversation>
+

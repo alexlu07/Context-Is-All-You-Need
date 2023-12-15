@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2013-03-03 00:48:58 UTC">
+      <body>Here tomorrow at 11:30 or noon.  Brunch menu.  Please confirm plans.  </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-03-03 11:32:26 UTC">
+      <body>1130, perhaps a little earlier</body>
+    </message>
+    <message id="m0002" participant="131505" time="2013-03-03 13:25:01 UTC">
+      <body>I exercise from 10 to 11 so no earlier than 11 please. </body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-03-03 14:12:34 UTC">
+      <body>Okay.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-03-03 16:30:13 UTC">
+      <body>Left a little late. Be there in 15.</body>
+    </message>
+  </messages>
+</conversation>

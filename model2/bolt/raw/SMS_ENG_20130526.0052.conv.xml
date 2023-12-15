@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0052" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131022" time="2013-05-26 13:58:19 UTC">
+      <body>Hello! How are you?</body>
+    </message>
+    <message id="m0001" participant="130688" time="2013-05-26 16:05:55 UTC">
+      <body>Good. You?</body>
+    </message>
+    <message id="m0002" participant="131022" time="2013-05-26 16:07:19 UTC">
+      <body>Fine! Just got out of school and I'm visiting my family for Memorial Day. Got any fun weekend plans?</body>
+    </message>
+    <message id="m0003" participant="130688" time="2013-05-26 16:08:53 UTC">
+      <body>Hanging in the city with a good book</body>
+    </message>
+    <message id="m0004" participant="131022" time="2013-05-26 16:10:44 UTC">
+      <body>Sounds nice :) is your city Philadelphia?</body>
+    </message>
+    <message id="m0005" participant="130688" time="2013-05-26 16:12:11 UTC">
+      <body>Yup. What is your city?</body>
+    </message>
+    <message id="m0006" participant="131022" time="2013-05-26 16:13:25 UTC">
+      <body>Newark DE... Hardly a city!</body>
+    </message>
+    <message id="m0007" participant="130688" time="2013-05-26 16:17:05 UTC">
+      <body>Lol. Another state but short distance from philly. You also have longwood gardens</body>
+    </message>
+    <message id="m0008" participant="131022" time="2013-05-26 20:24:21 UTC">
+      <body>True, the gardens are nice. But you guys have an ikea! The ultimate in young-adult living! :p</body>
+    </message>
+    <message id="m0009" participant="130688" time="2013-05-26 22:16:04 UTC">
+      <body>I like their meatballs.</body>
+    </message>
+  </messages>
+</conversation>

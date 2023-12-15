@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-14 22:14:10 UTC" participant="154900">
+      <body>do you like that ?</body>
+    </message>
+    <message id="m0001" time="2014-03-14 22:15:25 UTC" participant="153244">
+      <body>Very nice</body>
+    </message>
+    <message id="m0002" time="2014-03-14 22:19:23 UTC" participant="154900">
+      <body>okaay!</body>
+    </message>
+    <message id="m0003" time="2014-03-15 21:46:02 UTC" participant="154900">
+      <body>wydd</body>
+    </message>
+  </messages>
+</conversation>
+

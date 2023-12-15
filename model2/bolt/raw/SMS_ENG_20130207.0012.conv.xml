@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131367" time="2013-02-07 23:54:06 UTC">
+      <body>You gots any money for me yet ?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-08 00:00:18 UTC">
+      <body>yeah. 200.</body>
+    </message>
+    <message id="m0002" participant="131367" time="2013-02-08 00:00:57 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0003" participant="131367" time="2013-02-08 17:40:35 UTC">
+      <body>Can you bring me anytime soon?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-08 17:49:42 UTC">
+      <body>i can meet you in the middle sometime this weekend.</body>
+    </message>
+    <message id="m0006" participant="131367" time="2013-02-09 00:58:11 UTC">
+      <body>Old place in Cornell. Brunch. Sunday morning.</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-02-09 01:57:48 UTC">
+      <body>hey, man...
+was just told by the fx shop that my paycheck won't be good until mid-week!
+sorry, man...but, as soon as it's good, i'll let you know.</body>
+    </message>
+    <message id="m0008" participant="131367" time="2013-02-09 02:16:35 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20130606.0000" medium="CHT" donated="false">
+  <messages>
+    <message id="m0000" participant="130602" time="2013-06-06 19:35:24 UTC">
+      <body>good morning</body>
+    </message>
+    <message id="m0001" participant="130696" time="2013-06-06 19:36:59 UTC">
+      <body>Good morning!</body>
+    </message>
+    <message id="m0002" participant="130696" time="2013-06-06 19:37:17 UTC">
+      <body>Where are you in the country?</body>
+    </message>
+    <message id="m0003" participant="130602" time="2013-06-06 19:37:28 UTC">
+      <body>Philly!</body>
+    </message>
+    <message id="m0004" participant="130602" time="2013-06-06 19:37:34 UTC">
+      <body>I talked to you before</body>
+    </message>
+    <message id="m0005" participant="130696" time="2013-06-06 19:37:37 UTC">
+      <body>Did we talk before?</body>
+    </message>
+    <message id="m0006" participant="130602" time="2013-06-06 19:37:38 UTC">
+      <body>:D</body>
+    </message>
+    <message id="m0007" participant="130602" time="2013-06-06 19:37:40 UTC">
+      <body>yep!</body>
+    </message>
+    <message id="m0008" participant="130696" time="2013-06-06 19:38:02 UTC">
+      <body>What's the good word?</body>
+    </message>
+    <message id="m0009" participant="130696" time="2013-06-06 19:38:10 UTC">
+      <body>Did you initiate this? I'm not sure how it works</body>
+    </message>
+    <message id="m0010" participant="130602" time="2013-06-06 19:38:31 UTC">
+      <body>the textbot initiates it</body>
+    </message>
+    <message id="m0011" participant="130602" time="2013-06-06 19:38:43 UTC">
+      <body>last we talked I had run out for chipotle</body>
+    </message>
+    <message id="m0012" participant="130602" time="2013-06-06 19:38:49 UTC">
+      <body>because "the universe" told me to.</body>
+    </message>
+    <message id="m0013" participant="130696" time="2013-06-06 19:38:57 UTC">
+      <body>nice</body>
+    </message>
+    <message id="m0014" participant="130696" time="2013-06-06 19:39:01 UTC">
+      <body>Hope it went well.</body>
+    </message>
+    <message id="m0015" participant="130602" time="2013-06-06 19:39:07 UTC">
+      <body>It didn't actually.</body>
+    </message>
+    <message id="m0016" participant="130696" time="2013-06-06 19:39:10 UTC">
+      <body>OH NO</body>
+    </message>
+    <message id="m0017" participant="130696" time="2013-06-06 19:39:11 UTC">
+      <body>why?</body>
+    </message>
+    <message id="m0018" participant="130602" time="2013-06-06 19:39:13 UTC">
+      <body>haha :)</body>
+    </message>
+    <message id="m0019" participant="130602" time="2013-06-06 19:39:17 UTC">
+      <body>The food was good</body>
+    </message>
+    <message id="m0020" participant="130602" time="2013-06-06 19:39:36 UTC">
+      <body>But my girlfriend lost her card, and had to have it canceled</body>
+    </message>
+    <message id="m0021" participant="130696" time="2013-06-06 19:39:50 UTC">
+      <body>boo</body>
+    </message>
+    <message id="m0022" participant="130602" time="2013-06-06 19:39:55 UTC">
+      <body>We looked everywhere for it, but she's pretty sure it fell out of her purse in chipotle</body>
+    </message>
+    <message id="m0023" participant="130602" time="2013-06-06 19:40:04 UTC">
+      <body>at least there were no charges or anything.</body>
+    </message>
+    <message id="m0024" participant="130602" time="2013-06-06 19:40:35 UTC">
+      <body>so how's chicago?</body>
+    </message>
+    <message id="m0025" participant="130696" time="2013-06-06 19:41:18 UTC">
+      <body>Cold and gray today</body>
+    </message>
+    <message id="m0026" participant="130696" time="2013-06-06 19:41:26 UTC">
+      <body>well, coldish.</body>
+    </message>
+    <message id="m0027" participant="130696" time="2013-06-06 19:41:29 UTC">
+      <body>colder than i would like</body>
+    </message>
+    <message id="m0028" participant="130602" time="2013-06-06 19:41:51 UTC">
+      <body>yuck</body>
+    </message>
+    <message id="m0029" participant="130602" time="2013-06-06 19:42:09 UTC">
+      <body>It's warm here - and last I looked, supposed to be like 90 degrees on friday.</body>
+    </message>
+    <message id="m0030" participant="130696" time="2013-06-06 20:01:48 UTC">
+      <body>i think it's supposed to warm up here</body>
+    </message>
+    <message id="m0031" participant="130696" time="2013-06-06 20:01:51 UTC">
+      <body>and sun and everything.</body>
+    </message>
+    <message id="m0032" participant="130696" time="2013-06-06 20:01:54 UTC">
+      <body>which will be nice.</body>
+    </message>
+    <message id="m0033" participant="130696" time="2013-06-06 20:01:59 UTC">
+      <body>i move on sunday, so i hope the rain stays away</body>
+    </message>
+    <message id="m0034" participant="130602" time="2013-06-06 20:08:48 UTC">
+      <body>oh sweet!</body>
+    </message>
+    <message id="m0035" participant="130602" time="2013-06-06 20:08:58 UTC">
+      <body>moving from chicago, or just to another part of town?</body>
+    </message>
+    <message id="m0036" participant="130696" time="2013-06-06 20:09:05 UTC">
+      <body>just to another part of town</body>
+    </message>
+    <message id="m0037" participant="130602" time="2013-06-06 20:10:06 UTC">
+      <body>to a better spot, or about the same, or not as good?</body>
+    </message>
+    <message id="m0038" participant="130696" time="2013-06-06 20:10:26 UTC">
+      <body>better, i think</body>
+    </message>
+    <message id="m0039" participant="130602" time="2013-06-06 20:14:26 UTC">
+      <body>So what's the best thing to do if visiting chicago? I haven't been yet, but will probably end up there in the next couple of years. I'm a seafood fan, and I like museums</body>
+    </message>
+    <message id="m0040" participant="130696" time="2013-06-06 20:14:34 UTC">
+      <body>We have both.</body>
+    </message>
+    <message id="m0041" participant="130696" time="2013-06-06 20:14:43 UTC">
+      <body>There's lots of great museums, for sure.</body>
+    </message>
+    <message id="m0042" participant="130696" time="2013-06-06 20:15:08 UTC">
+      <body>There's some fancy dancy fish places, too. I've always heard great things about Nick's Fishmarket, but I've never gone.</body>
+    </message>
+    <message id="m0043" participant="130602" time="2013-06-06 20:15:49 UTC">
+      <body>Do you like salmon?</body>
+    </message>
+  </messages>
+</conversation>

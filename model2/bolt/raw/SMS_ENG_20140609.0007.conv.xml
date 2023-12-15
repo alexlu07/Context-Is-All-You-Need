@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140609.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-09 22:28:20 UTC" participant="152374">
+      <body>Doma reservation for 3 made for Saturday at 6.</body>
+    </message>
+    <message id="m0001" time="2014-06-09 22:29:33 UTC" participant="153469">
+      <body>Yay!</body>
+    </message>
+    <message id="m0002" time="2014-06-09 22:34:02 UTC" participant="152374">
+      <body>Even if you get nothing else, you will get good sushi </body>
+    </message>
+    <message id="m0003" time="2014-06-09 22:44:02 UTC" participant="153469">
+      <body>That's all I want</body>
+    </message>
+    <message id="m0004" time="2014-06-09 22:44:07 UTC" participant="153469">
+      <body>And to see you assholes</body>
+    </message>
+    <message id="m0005" time="2014-06-09 22:44:15 UTC" participant="153469">
+      <body>And maybe a cheesesteak</body>
+    </message>
+    <message id="m0006" time="2014-06-09 22:45:17 UTC" participant="152374">
+      <body>I miss you so much </body>
+    </message>
+    <message id="m0007" time="2014-06-09 22:45:49 UTC" participant="153469">
+      <body>I miss you, too!</body>
+    </message>
+  </messages>
+</conversation>
+

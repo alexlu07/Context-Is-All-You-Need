@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135082" time="2013-07-30 09:00:11 UTC">
+      <body>Good morning :) how are you?</body>
+    </message>
+    <message id="m0001" participant="131164" time="2013-07-30 09:38:36 UTC">
+      <body>Sleepy still you!</body>
+    </message>
+    <message id="m0002" participant="135082" time="2013-07-30 09:47:16 UTC">
+      <body>Sleepy, but I had alot to do so I'm already up weedwacking the yard :) what state do you live in?</body>
+    </message>
+    <message id="m0003" participant="131164" time="2013-07-30 15:03:03 UTC">
+      <body>Pa you?</body>
+    </message>
+    <message id="m0004" participant="135082" time="2013-07-30 15:08:40 UTC">
+      <body>New Mexico</body>
+    </message>
+    <message id="m0005" participant="135082" time="2013-07-30 20:16:36 UTC">
+      <body>What are you up to?</body>
+    </message>
+  </messages>
+</conversation>

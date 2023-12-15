@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140826.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-26 22:38:30 UTC" participant="152560">
+      <body>Do you want your printer, or can I set it free on the green belt? </body>
+    </message>
+    <message id="m0001" time="2014-08-26 22:39:32 UTC" participant="152417">
+      <body>You can set my printer and ink on the green belt, or as they say in Ohio: the tree-lawn</body>
+    </message>
+    <message id="m0002" time="2014-08-26 23:10:56 UTC" participant="152560">
+      <body>Do you want your throwing knife? </body>
+    </message>
+    <message id="m0003" time="2014-08-26 23:12:17 UTC" participant="152417">
+      <body>Yes, but hopefully i wont need it</body>
+    </message>
+    <message id="m0004" time="2014-08-26 23:13:04 UTC" participant="152560">
+      <body>Hopefully not! So I'm bringing you a bear head and a knife-that's pretty cool stuff right there. </body>
+    </message>
+  </messages>
+</conversation>
+

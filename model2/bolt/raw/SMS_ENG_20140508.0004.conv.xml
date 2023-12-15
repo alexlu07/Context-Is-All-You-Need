@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140508.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-08 12:28:20 UTC" participant="153561">
+      <body>I'll be a few minutes late my stomach is a little messed up from candy chicken </body>
+    </message>
+    <message id="m0001" time="2014-05-08 17:09:14 UTC" participant="153547">
+      <body>Bring a ladder</body>
+    </message>
+    <message id="m0002" time="2014-05-08 17:09:42 UTC" participant="153561">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-05-08 17:10:24 UTC" participant="153561">
+      <body>Actually Mine is at michaels</body>
+    </message>
+    <message id="m0004" time="2014-05-08 17:12:32 UTC" participant="153561">
+      <body>I can grab the key from you and go get it. </body>
+    </message>
+    <message id="m0005" time="2014-05-08 17:13:40 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140729.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-29 17:13:49 UTC" participant="152374">
+      <body>I'm waving from the train station! </body>
+    </message>
+    <message id="m0001" time="2014-07-29 17:14:01 UTC" participant="153465">
+      <body>I see you!!!!</body>
+    </message>
+    <message id="m0002" time="2014-07-29 17:14:04 UTC" participant="153465">
+      <body>Hi!!!!</body>
+    </message>
+  </messages>
+</conversation>
+

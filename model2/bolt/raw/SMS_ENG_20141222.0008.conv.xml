@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141222.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-22 20:35:10 UTC" participant="153399">
+      <body>Hi ########'s I can't make it today will be there tomorrow thanks</body>
+    </message>
+    <message id="m0001" time="2014-12-22 20:36:10 UTC" participant="153244">
+      <body>Got it, see you then</body>
+    </message>
+    <message id="m0002" time="2014-12-22 20:37:07 UTC" participant="153399">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>
+

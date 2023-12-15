@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120911.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-11 21:01:58 UTC">
+      <body>Dinner?</body>
+    </message>
+    <message id="m0001" participant="136262" time="2012-09-11 21:07:36 UTC">
+      <body>I may be going to a harris hall fancy dinner thing at 6:36, yes that rando time, but ill hit you up around 6 to let you know the deal</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-11 21:11:21 UTC">
+      <body>Oh yeah haha. I went to the Dobbs hall dinner at 6:36 last week. It's really good free food, you should go. I just found people to eat with anyway</body>
+    </message>
+    <message id="m0003" participant="136262" time="2012-09-11 21:12:23 UTC">
+      <body>Kk ill see ya around then</body>
+    </message>
+  </messages>
+</conversation>

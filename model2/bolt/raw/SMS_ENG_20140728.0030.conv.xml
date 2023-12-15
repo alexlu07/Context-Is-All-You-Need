@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140728.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-28 18:28:48 UTC" participant="154902">
+      <body>Hey Midge, is it too late to put in an order for Adonis b day cake? I need it by Sunday. Sponge Bob theme...same size as last year with the minions.</body>
+    </message>
+    <message id="m0001" time="2014-07-28 22:18:42 UTC" participant="153244">
+      <body>Hey no its fine. . When would you need it for?</body>
+    </message>
+    <message id="m0002" time="2014-07-28 22:40:07 UTC" participant="154902">
+      <body>Sunday is his party. I could pick it up that morning</body>
+    </message>
+    <message id="m0003" time="2014-07-28 22:53:34 UTC" participant="153244">
+      <body>Ok that'll work.  I had two orders for sat but they got bumped to fri so ill have sat to work on it.</body>
+    </message>
+    <message id="m0004" time="2014-07-28 22:53:59 UTC" participant="153244">
+      <body>Im heading to a viewing right now so ill text you tomorrow with the details/pricing</body>
+    </message>
+    <message id="m0005" time="2014-07-28 22:58:01 UTC" participant="154902">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

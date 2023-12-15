@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137259" time="2013-06-20 23:38:38 UTC">
+      <body>Can you come by later? I'd like to work out tonight</body>
+    </message>
+    <message id="m0001" participant="137259" time="2013-06-20 23:44:51 UTC">
+      <body>Be home at 8:45</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-06-21 03:23:01 UTC">
+      <body>Are you home? </body>
+    </message>
+    <message id="m0003" participant="137259" time="2013-06-21 03:23:30 UTC">
+      <body>Yes...but it's the 4th quarter...</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-06-21 03:24:05 UTC">
+      <body>Ughhhhhh but I just came from somewhere where I was watching that game </body>
+    </message>
+    <message id="m0005" participant="137259" time="2013-06-21 03:24:53 UTC">
+      <body>Sorry, but it's a big fucking deal :)</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-21 20:35:07 UTC">
+      <body>Surprise party for Nico at max's right now </body>
+    </message>
+    <message id="m0007" participant="137259" time="2013-06-21 20:35:56 UTC">
+      <body>I know...I'm not gonna be there for the surprise though...I can't get there until 5:30ish</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131118.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-18 17:56:29 UTC" participant="153548">
+      <body>Hey! I am free all day on Friday if you want to see a matinee movie or something?</body>
+    </message>
+    <message id="m0001" time="2013-11-18 17:57:25 UTC" participant="153553">
+      <body>Oooh yeah! I've been wanting to see 12 years a slave!</body>
+    </message>
+    <message id="m0002" time="2013-11-18 17:57:45 UTC" participant="153548">
+      <body>You wanna try and go during the day Friday?</body>
+    </message>
+    <message id="m0003" time="2013-11-18 18:03:54 UTC" participant="153553">
+      <body>Yeah! That would be awesome:)</body>
+    </message>
+    <message id="m0004" time="2013-11-18 18:16:25 UTC" participant="153548">
+      <body>Cool. Let's KIT for Friday!</body>
+    </message>
+  </messages>
+</conversation>
+

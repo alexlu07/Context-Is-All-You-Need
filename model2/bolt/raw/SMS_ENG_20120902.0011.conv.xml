@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120902.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136269" time="2012-09-02 23:38:40 UTC">
+      <body>Je sais pas. I'd be up for here or the row</body>
+    </message>
+    <message id="m0001" participant="136269" time="2012-09-02 23:45:04 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0002" participant="136269" time="2012-09-03 00:14:56 UTC">
+      <body>Whuut is that?</body>
+    </message>
+    <message id="m0003" participant="136269" time="2012-09-03 00:21:20 UTC">
+      <body>Okay I'm down for whatever</body>
+    </message>
+    <message id="m0004" participant="136269" time="2012-09-03 01:25:20 UTC">
+      <body>Do you still wanna go out? Violet has a dinner thing but idk until what time, im gonna go with her after I thiiiink</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-03 01:26:18 UTC">
+      <body>I'm not sure if I'm going out but something might be happening here</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-03 01:27:05 UTC">
+      <body>Aiight</body>
+    </message>
+    <message id="m0007" participant="136269" time="2012-09-03 01:27:28 UTC">
+      <body>Okay lemme know when/what room</body>
+    </message>
+  </messages>
+</conversation>

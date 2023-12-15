@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-23 18:58:56 UTC">
+      <body>Yo, you're good on el verde, right?</body>
+    </message>
+    <message id="m0001" participant="130823" time="2013-06-23 19:02:22 UTC">
+      <body>Id take more...half a bag</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-23 19:16:04 UTC">
+      <body>Aight</body>
+    </message>
+    <message id="m0003" participant="130823" time="2013-06-23 21:38:13 UTC">
+      <body>Invisible river at 8! You hear about it? Bridge aerials</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-23 21:41:07 UTC">
+      <body>Yeah, running gugbaby now. Got a work party later</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-24 03:32:41 UTC">
+      <body>You hangin out or retiring for the eve?</body>
+    </message>
+    <message id="m0006" participant="130823" time="2013-06-24 04:04:27 UTC">
+      <body>Retired. Fri and sat both 5 am. </body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-06-24 04:04:59 UTC">
+      <body>Aight, see ya soon</body>
+    </message>
+  </messages>
+</conversation>

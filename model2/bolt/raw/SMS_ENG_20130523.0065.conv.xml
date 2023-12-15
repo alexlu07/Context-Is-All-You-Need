@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134317" time="2013-05-23 20:34:32 UTC">
+      <body>Important: please check both Keurig coffee machines are off end of day tomorrow. They never are. Thanks.</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-23 20:34:51 UTC">
+      <body>No problem </body>
+    </message>
+  </messages>
+</conversation>

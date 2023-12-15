@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135463" time="2012-12-11 23:48:14 UTC">
+      <body>Hey everyone, i'm going to the squealing pig at 7 for a drink. See you there?</body>
+    </message>
+    <message id="m0001" participant="135463" time="2012-12-11 23:52:50 UTC">
+      <body>Sorry everyone i texted, Apparently everyone's going to punters, so go there. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-12 01:00:00 UTC">
+      <body>Where's punters,</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-12 01:00:04 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0004" participant="135463" time="2012-12-12 01:01:27 UTC">
+      <body>It's next to university pizza, It's opposite direction from the pig</body>
+    </message>
+  </messages>
+</conversation>

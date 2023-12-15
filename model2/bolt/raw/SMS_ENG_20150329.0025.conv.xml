@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 15:31:08 UTC" participant="153804">
+      <body>Are you back from Oneonta yet</body>
+    </message>
+    <message id="m0001" time="2015-03-29 20:47:39 UTC" participant="153815">
+      <body>Hi! Just got back 1/2 hour ago. Missed your message</body>
+    </message>
+    <message id="m0002" time="2015-03-29 20:52:48 UTC" participant="153804">
+      <body>that's okay, did Pat find the glove I left on your mailbox? Was it yours?</body>
+    </message>
+    <message id="m0003" time="2015-03-29 20:53:40 UTC" participant="153815">
+      <body>He's not home yet. I will ask him. Thanks</body>
+    </message>
+    <message id="m0004" time="2015-03-29 20:54:07 UTC" participant="153804">
+      <body>Is your mother starting treatment tomorrow?</body>
+    </message>
+    <message id="m0005" time="2015-03-29 20:54:58 UTC" participant="153815">
+      <body>Not until Tuesday. Tomorrow we look at wigs.</body>
+    </message>
+    <message id="m0006" time="2015-03-29 20:55:36 UTC" participant="153804">
+      <body>Let me know if there's anything you need.</body>
+    </message>
+    <message id="m0007" time="2015-03-29 20:56:12 UTC" participant="153815">
+      <body>Will do! Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-12 22:32:01 UTC" participant="152419">
+      <body>Gabi I'm sorry I didn't get to see you last night!!</body>
+    </message>
+    <message id="m0001" time="2013-02-12 22:32:32 UTC" participant="152419">
+      <body>I think I'll be in town for a little on Sunday! You sounded wonderful so I'm glad I could hear you at least! </body>
+    </message>
+    <message id="m0002" time="2013-02-12 22:33:37 UTC" participant="152417">
+      <body>Thanks! At least you caught my winks.  See you sunday</body>
+    </message>
+  </messages>
+</conversation>
+

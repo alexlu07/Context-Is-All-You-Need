@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-02 21:36:52 UTC" participant="152417">
+      <body>Hey Lo, is it alright to invite Hugo to the milonga portion of our rehearsal tomorrow?</body>
+    </message>
+    <message id="m0001" time="2013-02-02 21:50:55 UTC" participant="152431">
+      <body>Ya, I'm
+Gonna work on the show for a few hours tonight, you might need to send me a reminder to tell you when I schedule that part</body>
+    </message>
+    <message id="m0002" time="2013-02-03 03:25:38 UTC" participant="152417">
+      <body>Any word on when milonga will be in the schedule so i can let hugo know?</body>
+    </message>
+    <message id="m0003" time="2013-02-03 04:20:16 UTC" participant="152431">
+      <body>Oh boy, I Judy spent several hours making a graph of people, pieces and requests of all kinds. Still need to add to
+It, was gonna wake up real early and do the rest. Should we just say 3?</body>
+    </message>
+    <message id="m0004" time="2013-02-03 04:20:16 UTC" participant="152431">
+      <body>3:00 rather</body>
+    </message>
+    <message id="m0005" time="2013-02-03 04:22:24 UTC" participant="152417">
+      <body>Cool, thank you</body>
+    </message>
+    <message id="m0006" time="2013-02-03 04:22:24 UTC" participant="152431">
+      <body>:) no prob</body>
+    </message>
+  </messages>
+</conversation>
+

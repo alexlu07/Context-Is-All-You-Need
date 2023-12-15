@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 19:33:06 UTC" participant="153804">
+      <body>R U home</body>
+    </message>
+    <message id="m0001" time="2015-01-04 19:33:36 UTC" participant="153809">
+      <body>Just left. Why??</body>
+    </message>
+    <message id="m0002" time="2015-01-04 19:33:54 UTC" participant="153804">
+      <body>Was going to stop by and pick up my bowl</body>
+    </message>
+    <message id="m0003" time="2015-01-04 19:35:15 UTC" participant="153809">
+      <body>Door is open. Go on in. Take the little goodies that are with the bowl. Not the box. TjTs for someone else!</body>
+    </message>
+    <message id="m0004" time="2015-01-04 19:35:27 UTC" participant="153809">
+      <body>Could you close the inside door</body>
+    </message>
+    <message id="m0005" time="2015-01-04 19:35:37 UTC" participant="153809">
+      <body>I just left in my hands were full</body>
+    </message>
+    <message id="m0006" time="2015-01-04 20:11:35 UTC" participant="153804">
+      <body>Trying to catch time while he's at Lowe's</body>
+    </message>
+    <message id="m0007" time="2015-01-04 20:11:47 UTC" participant="153809">
+      <body>Oh. Ok</body>
+    </message>
+  </messages>
+</conversation>
+

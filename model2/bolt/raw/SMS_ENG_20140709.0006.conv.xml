@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140709.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-09 21:49:20 UTC" participant="153448">
+      <body>Hi John,
+I will show apartment around 7pm today. Thanks.</body>
+    </message>
+    <message id="m0001" time="2014-07-09 22:17:08 UTC" participant="153418">
+      <body>Okay; I won't be in at that time.
+Could I ask if you have any new information regarding furniture in the apartment? </body>
+    </message>
+    <message id="m0002" time="2014-07-09 22:18:20 UTC" participant="153448">
+      <body>Which pieces do you wish to leave?</body>
+    </message>
+    <message id="m0003" time="2014-07-09 22:36:17 UTC" participant="153418">
+      <body>I'm thinking about leaving the dresser and the bookshelf.</body>
+    </message>
+    <message id="m0004" time="2014-07-09 22:37:22 UTC" participant="153448">
+      <body>K. I will check it when I show the apartment this evening.</body>
+    </message>
+  </messages>
+</conversation>
+

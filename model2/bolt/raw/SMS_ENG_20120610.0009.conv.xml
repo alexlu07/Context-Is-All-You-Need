@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-10 21:39:44 UTC">
+      <body>If you're free come to moto i at 5! Or let me know if you're free after?</body>
+    </message>
+    <message id="m0001" participant="135130" time="2012-06-11 05:45:30 UTC">
+      <body>Hey sorry been swamped with catching up with work </body>
+    </message>
+    <message id="m0002" participant="135130" time="2012-06-11 05:46:47 UTC">
+      <body>When do you leave?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-06-12 01:36:55 UTC">
+      <body>That's ok, I'm in new ulm now for a couple weeks and may make it back when I head back to Philly around the 20th</body>
+    </message>
+  </messages>
+</conversation>

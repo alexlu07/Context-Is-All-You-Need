@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0085" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-18 04:02:07 UTC" participant="152560">
+      <body>Almost finished here. How did it go tonight?</body>
+    </message>
+    <message id="m0001" time="2013-05-18 04:02:48 UTC" participant="152417">
+      <body>Good, come to vpb!</body>
+    </message>
+    <message id="m0002" time="2013-05-18 04:03:38 UTC" participant="152560">
+      <body>Ok; I still have someone eating dinner. Probably done within the next 30 min...</body>
+    </message>
+  </messages>
+</conversation>
+

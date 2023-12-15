@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140307.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-07 19:54:56 UTC" participant="153900">
+      <body>Call me</body>
+    </message>
+    <message id="m0001" time="2014-03-07 20:46:01 UTC" participant="153244">
+      <body>Cal k me</body>
+    </message>
+    <message id="m0002" time="2014-03-08 01:12:35 UTC" participant="153244">
+      <body>So when I got home earlier before the mall I got a spot right out front my house.  And now we are just getting home from the mall late </body>
+    </message>
+    <message id="m0003" time="2014-03-08 01:27:05 UTC" participant="153900">
+      <body>Ok don't worry about it</body>
+    </message>
+  </messages>
+</conversation>
+

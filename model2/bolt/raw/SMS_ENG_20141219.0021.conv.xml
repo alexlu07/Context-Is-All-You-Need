@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141219.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-19 15:07:31 UTC" participant="153631">
+      <body>I broke my phone and had to restore it from a backup from November 3 and now I'm in a weird time warp! Did you say Sunday worked for you for hangouts?</body>
+    </message>
+    <message id="m0001" time="2014-12-19 15:08:21 UTC" participant="153548">
+      <body>Yeah if you wanna. I'm around all day!</body>
+    </message>
+    <message id="m0002" time="2014-12-19 15:57:52 UTC" participant="153631">
+      <body>Okay cool! I am meeting a catsitter in the evening but otherwise free. Coffee? Booze drink?</body>
+    </message>
+    <message id="m0003" time="2014-12-19 16:00:00 UTC" participant="153548">
+      <body>yeah! let’s get an afternoon cocktail somewhere! I’ll think of a place</body>
+    </message>
+    <message id="m0004" time="2014-12-19 16:00:00 UTC" participant="153631">
+      <body>Yeah!</body>
+    </message>
+  </messages>
+</conversation>
+

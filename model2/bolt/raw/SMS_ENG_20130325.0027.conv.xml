@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-03-25 05:58:28 UTC">
+      <body>Can you come to a part prac Tuesday at 7:30?</body>
+    </message>
+    <message id="m0001" participant="131823" time="2013-03-25 13:45:36 UTC">
+      <body>Is this for More than words? Because I haven't learned, let alone quartered it lol</body>
+    </message>
+    <message id="m0002" participant="131821" time="2013-03-25 13:54:23 UTC">
+      <body>Well, are you available to help us :-P ?</body>
+    </message>
+    <message id="m0003" participant="131823" time="2013-03-25 13:55:09 UTC">
+      <body>If I'm on campus at that point, surely</body>
+    </message>
+    <message id="m0004" participant="131821" time="2013-03-25 13:55:18 UTC">
+      <body>Awesome thanks</body>
+    </message>
+    <message id="m0005" participant="131823" time="2013-03-25 13:57:40 UTC">
+      <body>No problems</body>
+    </message>
+  </messages>
+</conversation>

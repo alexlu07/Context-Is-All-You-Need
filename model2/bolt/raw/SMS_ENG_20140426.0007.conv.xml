@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140426.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-26 03:47:15 UTC" participant="153547">
+      <body>It's raining so much </body>
+    </message>
+    <message id="m0001" time="2014-04-26 03:49:31 UTC" participant="153547">
+      <body>Can u pick me up ?</body>
+    </message>
+    <message id="m0002" time="2014-04-27 00:10:40 UTC" participant="153557">
+      <body>I just drank so many martinis!</body>
+    </message>
+    <message id="m0003" time="2014-04-27 00:10:40 UTC" participant="153557">
+      <body>HowmI gonna git home!</body>
+    </message>
+    <message id="m0004" time="2014-04-27 01:38:26 UTC" participant="153547">
+      <body>Good night. I hope u got home safe</body>
+    </message>
+  </messages>
+</conversation>
+

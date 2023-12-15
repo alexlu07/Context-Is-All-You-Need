@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136378" time="2013-06-06 23:28:12 UTC">
+      <body>Does english have any nasal sounds?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-06 23:28:55 UTC">
+      <body>n, m, and -ng. </body>
+    </message>
+  </messages>
+</conversation>

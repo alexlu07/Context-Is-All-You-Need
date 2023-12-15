@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130128.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131294" time="2013-01-28 12:05:47 UTC">
+      <body>Hey ##### since schools are delayed ####s assessment gets delayed too I think. Im not going to bring #### over since im not sure aboit the timing. </body>
+    </message>
+    <message id="m0001" participant="131294" time="2013-01-28 14:31:07 UTC">
+      <body>The slp is coming at 11, so is it ok if I still bring #### over - around 1030?</body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-01-28 14:36:41 UTC">
+      <body>Was just about to text you - our power just went out at 9:20! And so our heat is off too, ugh... </body>
+    </message>
+    <message id="m0003" participant="131281" time="2013-01-28 14:39:02 UTC">
+      <body>The office opens at 10, but i think it's our whole building that's out. Prolly shouldn't take #### if we have no power :(</body>
+    </message>
+    <message id="m0004" participant="131294" time="2013-01-28 14:43:17 UTC">
+      <body>Oh no! You guys are welcome to come over here if you get too cold</body>
+    </message>
+    <message id="m0005" participant="131281" time="2013-01-28 14:46:35 UTC">
+      <body>Thanks! Hopefully it'll get resolved fast, I just left a message with maintenance.</body>
+    </message>
+    <message id="m0006" participant="131294" time="2013-01-28 21:32:44 UTC">
+      <body>Did you get your power back? Good luck at your interview tomorrow. Hope it goes well!</body>
+    </message>
+    <message id="m0007" participant="131281" time="2013-01-29 01:29:19 UTC">
+      <body>Yes, just before noon. Called this afternoon and they're actually having me interview Feb 5. </body>
+    </message>
+  </messages>
+</conversation>

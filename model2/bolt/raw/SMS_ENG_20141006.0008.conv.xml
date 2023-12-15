@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141006.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-06 22:53:08 UTC" participant="153400">
+      <body>Heey. How are u? I know it has been awhile</body>
+    </message>
+    <message id="m0001" time="2014-10-06 23:35:07 UTC" participant="153244">
+      <body>Hey! Its has been awhile lol.. im doing alright how about you?</body>
+    </message>
+    <message id="m0002" time="2014-10-07 00:01:14 UTC" participant="153400">
+      <body>I know lol. And i am fine. I think we should get together soon</body>
+    </message>
+    <message id="m0003" time="2014-10-07 00:11:51 UTC" participant="153244">
+      <body>Yea that would be cool. Let me when you're available, this month is a busy month for me but im sure we can definitely figure it out</body>
+    </message>
+    <message id="m0004" time="2014-10-07 00:13:08 UTC" participant="153400">
+      <body>I am free most weekends. And cool</body>
+    </message>
+    <message id="m0005" time="2014-10-07 01:03:15 UTC" participant="153244">
+      <body>Ok, I work my one job mon through sat during the day then my sec job thurs thru sunday at night lol so my schedule is a little complicated</body>
+    </message>
+    <message id="m0006" time="2014-10-07 01:04:11 UTC" participant="153400">
+      <body>How. About a  monday night?</body>
+    </message>
+    <message id="m0007" time="2014-10-07 01:05:05 UTC" participant="153244">
+      <body>That's fine,  I get done work about 730 though.  Is that okay?</body>
+    </message>
+    <message id="m0008" time="2014-10-07 01:05:35 UTC" participant="153400">
+      <body>Yes that is fine we will figure something out</body>
+    </message>
+    <message id="m0009" time="2014-10-07 01:07:04 UTC" participant="153244">
+      <body>Ok sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

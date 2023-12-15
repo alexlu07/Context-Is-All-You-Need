@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150311.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-11 12:28:46 UTC" participant="152256">
+      <body>Good morning sunshine
+Want to connect at trader joes this morning about 9:20</body>
+    </message>
+    <message id="m0001" time="2015-03-11 12:30:09 UTC" participant="152212">
+      <body>Yes please</body>
+    </message>
+    <message id="m0002" time="2015-03-11 12:30:50 UTC" participant="152212">
+      <body>I just had my coffee</body>
+    </message>
+    <message id="m0003" time="2015-03-11 12:30:52 UTC" participant="152212">
+      <body>!!</body>
+    </message>
+    <message id="m0004" time="2015-03-11 12:30:59 UTC" participant="152212">
+      <body>I was there all day yesterday</body>
+    </message>
+    <message id="m0005" time="2015-03-11 12:31:08 UTC" participant="152212">
+      <body>i like it a lot</body>
+    </message>
+    <message id="m0006" time="2015-03-11 12:31:12 UTC" participant="152256">
+      <body>Ok will text when leaving
+It's trash day and I have to take out the trash </body>
+    </message>
+    <message id="m0007" time="2015-03-11 12:31:39 UTC" participant="152212">
+      <body>BUT ITS BEAUTIFUL OUT! SO ENJOY TAKING OUT THE TRASH!</body>
+    </message>
+    <message id="m0008" time="2015-03-11 12:32:16 UTC" participant="152212">
+      <body>did you know that Helen Keller is on the Alabama Quarter?</body>
+    </message>
+    <message id="m0009" time="2015-03-11 13:12:54 UTC" participant="152256">
+      <body>Did not know
+Leaving now</body>
+    </message>
+    <message id="m0010" time="2015-03-11 13:13:22 UTC" participant="152212">
+      <body>ok great. your eta is 15 min?</body>
+    </message>
+    <message id="m0011" time="2015-03-11 13:13:27 UTC" participant="152256">
+      <body>Yes</body>
+    </message>
+    <message id="m0012" time="2015-03-11 13:33:02 UTC" participant="152256">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

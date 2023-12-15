@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140427.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-27 01:16:33 UTC" participant="153553">
+      <body>Just ate at bobbys. Did you get dominos?</body>
+    </message>
+    <message id="m0001" time="2014-04-27 01:17:16 UTC" participant="153548">
+      <body>OMG yes. I smoked a joint and ordered so much pizza!</body>
+    </message>
+    <message id="m0002" time="2014-04-27 01:18:13 UTC" participant="153553">
+      <body>That's exactly what I wanted to hear!</body>
+    </message>
+    <message id="m0003" time="2014-04-27 01:19:08 UTC" participant="153548">
+      <body>And watching broad city in my underwear! This is the life!</body>
+    </message>
+    <message id="m0004" time="2014-04-27 01:32:33 UTC" participant="153553">
+      <body>Watching anything in underwear is my favorite. What is broad city?</body>
+    </message>
+  </messages>
+</conversation>
+

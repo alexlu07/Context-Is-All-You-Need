@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135399" time="2013-04-16 13:33:17 UTC">
+      <body>I trust youre okay</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-16 13:38:27 UTC">
+      <body>Yes. But for a minute there  things got a little terrifying. How's your brother. </body>
+    </message>
+    <message id="m0002" participant="135399" time="2013-04-16 13:40:03 UTC">
+      <body>Yea hes fine</body>
+    </message>
+  </messages>
+</conversation>

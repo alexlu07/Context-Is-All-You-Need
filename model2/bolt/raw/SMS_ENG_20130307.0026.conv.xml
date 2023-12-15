@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2013-03-07 22:22:37 UTC">
+      <body>Hey, forgot to ask one thing about your friend's thing this weekend. Does he have cats or dogs? Alan is extremely allergic to them, particularly cats. Thanks!</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-03-07 22:24:25 UTC">
+      <body>Oh, good question! I'll double check but I'm 99.99% sure he doesn't have any pets</body>
+    </message>
+    <message id="m0002" participant="131453" time="2013-03-07 22:26:48 UTC">
+      <body>Awesome, thanks. I always forget to ask, and we end up having to suddenly leave as soon as we get to someone's house. Anyways...see ya tomorrow!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-03-07 22:29:12 UTC">
+      <body>Haha that can't be fun...I'll let you know tomorrow. Have a good one! :-)</body>
+    </message>
+  </messages>
+</conversation>

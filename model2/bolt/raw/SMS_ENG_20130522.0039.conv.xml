@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0039" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" time="2013-05-22 13:58:21 UTC" participant="130975">
+      <body>hello</body>
+    </message>
+    <message id="m0001" time="2013-05-22 15:34:38 UTC" participant="130693">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" time="2013-05-22 16:36:05 UTC" participant="130975">
+      <body>hows it going?</body>
+    </message>
+    <message id="m0003" time="2013-05-22 16:41:53 UTC" participant="130693">
+      <body>Not bad. You?</body>
+    </message>
+    <message id="m0004" time="2013-05-22 17:04:50 UTC" participant="130975">
+      <body>pretty good. getting through my Wednesday.</body>
+    </message>
+    <message id="m0005" time="2013-05-22 17:20:15 UTC" participant="130693">
+      <body>What did you do today?</body>
+    </message>
+    <message id="m0006" time="2013-05-22 19:43:55 UTC" participant="130975">
+      <body>worked all day, just got done. u?</body>
+    </message>
+    <message id="m0007" time="2013-05-22 22:02:47 UTC" participant="130693">
+      <body>Worked. Now enjoying some hookah</body>
+    </message>
+    <message id="m0008" time="2013-05-22 22:54:14 UTC" participant="130975">
+      <body>haha nice</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140812.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-12 21:44:39 UTC" participant="153491">
+      <body>Hey, so I'm not going to get my friend anymore so I can come get you at the hospital if you wanted to go to the bank.</body>
+    </message>
+    <message id="m0001" time="2014-08-12 21:47:03 UTC" participant="154993">
+      <body>I'll just go to the one near the place so I'm not soaked.when u pick me up</body>
+    </message>
+    <message id="m0002" time="2014-08-12 22:00:33 UTC" participant="154993">
+      <body>Eta?</body>
+    </message>
+    <message id="m0003" time="2014-08-12 22:12:46 UTC" participant="153491">
+      <body>6:30</body>
+    </message>
+    <message id="m0004" time="2014-08-12 22:13:25 UTC" participant="154993">
+      <body>-_-</body>
+    </message>
+    <message id="m0005" time="2014-08-12 22:13:43 UTC" participant="153491">
+      <body>?</body>
+    </message>
+    <message id="m0006" time="2014-08-12 22:14:18 UTC" participant="154993">
+      <body>Nothing drive fast will talk to u when u get here</body>
+    </message>
+    <message id="m0007" time="2014-08-12 22:22:52 UTC" participant="153491">
+      <body>Address?</body>
+    </message>
+    <message id="m0009" time="2014-08-12 22:23:42 UTC" participant="154993">
+      <body>19147</body>
+    </message>
+    <message id="m0010" time="2014-08-12 22:34:19 UTC" participant="153491">
+      <body>Be there in 5.</body>
+    </message>
+    <message id="m0011" time="2014-08-12 22:34:38 UTC" participant="154993">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

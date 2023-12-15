@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-09 17:43:57 UTC">
+      <body>Hey, Kelly...
+What is Elle's sched for tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131382" time="2013-05-09 18:15:05 UTC">
+      <body>Hi I think she's gonna be at Adams I will call him n txt u back</body>
+    </message>
+    <message id="m0002" participant="131382" time="2013-05-09 18:20:45 UTC">
+      <body>Ok can u come to my house tomorrow after 3 anytime </body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-05-09 18:21:48 UTC">
+      <body>Cool. See you around 3!</body>
+    </message>
+    <message id="m0004" participant="131382" time="2013-05-09 18:23:03 UTC">
+      <body>Perfect thanks so much</body>
+    </message>
+  </messages>
+</conversation>

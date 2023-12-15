@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-12 00:41:23 UTC" participant="153440">
+      <body>Hello!! If u have time, can u meet me tmr at 1:30?:)</body>
+    </message>
+    <message id="m0001" time="2012-10-12 05:54:27 UTC" participant="153418">
+      <body>Yeah, I'll see you tomorrow at that time. </body>
+    </message>
+    <message id="m0002" time="2012-10-12 20:18:17 UTC" participant="153418">
+      <body>Sorry, the meeting is taking longer than I expected. I don't think we can meet again today. How about next week?</body>
+    </message>
+  </messages>
+</conversation>
+

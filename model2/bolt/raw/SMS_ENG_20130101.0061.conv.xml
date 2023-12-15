@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130101.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2013-01-01 01:52:58 UTC">
+      <body>#######################</body>
+    </message>
+    <message id="m0001" participant="136164" time="2013-01-01 03:35:05 UTC">
+      <body>Please tell us the second street if you find out!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2013-01-01 03:41:07 UTC">
+      <body>8th ave and 54th st!</body>
+    </message>
+    <message id="m0003" participant="136315" time="2013-01-01 03:41:26 UTC">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2013-01-01 03:58:59 UTC">
+      <body>56 actually</body>
+    </message>
+  </messages>
+</conversation>

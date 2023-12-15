@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 13:47:39 UTC" participant="149383">
+      <body>Hi! Wondering if me and Tina can borrow yr truck early sat to pick up some wood and supplies Fromm boss's farm in a jersey. We would def compensate you ++ you could borrow Tinas car. Ok thanks! Hope you are well :)</body>
+    </message>
+    <message id="m0001" time="2014-03-13 13:49:22 UTC" participant="149306">
+      <body>Yes you can, how early are you thinking </body>
+    </message>
+    <message id="m0002" time="2014-03-13 13:52:32 UTC" participant="149383">
+      <body>Cool! Thanks!! Nine am?</body>
+    </message>
+    <message id="m0003" time="2014-03-13 13:53:01 UTC" participant="149306">
+      <body>Ok sounds good</body>
+    </message>
+    <message id="m0004" time="2014-03-13 13:53:22 UTC" participant="149383">
+      <body>Cool I will call you tomorrow :)</body>
+    </message>
+  </messages>
+</conversation>
+

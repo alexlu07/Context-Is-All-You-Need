@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-07 19:21:37 UTC" participant="152560">
+      <body>Girls had dinner and went out. Hope you have a nice Friday!</body>
+    </message>
+    <message id="m0001" time="2013-06-07 19:37:25 UTC" participant="152417">
+      <body>K, thanks!</body>
+    </message>
+    <message id="m0002" time="2013-06-08 01:14:48 UTC" participant="152560">
+      <body>I'm getting out of work early tonight to drink a bottle with the bosses if you want to stop by....</body>
+    </message>
+    <message id="m0003" time="2013-06-08 01:17:41 UTC" participant="152417">
+      <body>Sure, where?</body>
+    </message>
+    <message id="m0004" time="2013-06-08 01:25:44 UTC" participant="152560">
+      <body>The Cat.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121220.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-20 21:40:49 UTC" participant="152390">
+      <body>Happy hour.  Slainte.</body>
+    </message>
+    <message id="m0001" time="2012-12-20 21:49:18 UTC" participant="152374">
+      <body>Already left, sorry. P.S. who is this? the number doesn't match anything in my contacts!</body>
+    </message>
+    <message id="m0002" time="2012-12-20 21:49:50 UTC" participant="152390">
+      <body>###.  Work phone.  Sorry.</body>
+    </message>
+    <message id="m0003" time="2012-12-20 22:41:16 UTC" participant="152374">
+      <body>Ah, ok. Sorry to miss it!</body>
+    </message>
+    <message id="m0004" time="2012-12-21 20:21:39 UTC" participant="152374">
+      <body>You'd better still be there or I'm going to get stabby</body>
+    </message>
+    <message id="m0005" time="2012-12-21 20:22:16 UTC" participant="152390">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

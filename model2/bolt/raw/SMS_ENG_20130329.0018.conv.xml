@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131386" time="2013-03-29 20:59:07 UTC">
+      <body>Hi Hon. Its Kristen. You have a check here. Should I mail it or would you like to pick it up?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-29 21:06:05 UTC">
+      <body>hey! i'll pick it up. thanks!</body>
+    </message>
+    <message id="m0002" participant="131386" time="2013-03-29 21:08:23 UTC">
+      <body>Sure. See ya!</body>
+    </message>
+  </messages>
+</conversation>

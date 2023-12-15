@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131216.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-16 20:26:40 UTC" participant="153666">
+      <body>Howdy! Would you like bars and tone and a slate? Or is a straight output ok? (I imagine straight is the way to go, correct?)</body>
+    </message>
+    <message id="m0001" time="2013-12-16 20:27:56 UTC" participant="153548">
+      <body>Straight output! Thanks for checking!</body>
+    </message>
+    <message id="m0002" time="2013-12-16 20:28:37 UTC" participant="153666">
+      <body>Not at all. Thank you!</body>
+    </message>
+    <message id="m0003" time="2013-12-16 22:11:00 UTC" participant="153666">
+      <body>Hi bud. Looks like the source file provided is 24fps. We need a 23.98 for the layback to tape.  
+
+We can do the conversion in house but I worry a bit about audio drift. Is it at all possible for you to drop off a 23.98 file tomorrow? If not we can work something out.
+</body>
+    </message>
+    <message id="m0004" time="2013-12-16 22:14:37 UTC" participant="153548">
+      <body>Oh no! I'll look at the sequence tonight and see what's . If I can change that easily, I'll def bring by around lunchtime tmw. </body>
+    </message>
+    <message id="m0005" time="2013-12-16 22:15:28 UTC" participant="153666">
+      <body>Thx bud. Should be relatively easy fix. keep an eye out for audio drift.</body>
+    </message>
+    <message id="m0006" time="2013-12-16 22:16:37 UTC" participant="153548">
+      <body>Will do. I'll look for the sync. </body>
+    </message>
+    <message id="m0007" time="2013-12-16 22:16:58 UTC" participant="153548">
+      <body>And thanks for your help</body>
+    </message>
+    <message id="m0008" time="2013-12-16 22:19:44 UTC" participant="153666">
+      <body>Of course! Sorry we can't just take care of it. file format conversion is an added cost, blah blah blah.</body>
+    </message>
+    <message id="m0009" time="2013-12-16 22:20:22 UTC" participant="153548">
+      <body>No I appreciate that. Shoestring budget:)</body>
+    </message>
+    <message id="m0010" time="2013-12-17 18:14:35 UTC" participant="153548">
+      <body>Hi! I should be there in the next 30 minutes!</body>
+    </message>
+  </messages>
+</conversation>
+

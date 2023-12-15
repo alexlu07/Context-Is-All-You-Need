@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134322" time="2013-05-05 14:16:00 UTC">
+      <body>Are you watching for Kristen?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-05 14:19:43 UTC">
+      <body>No. Coop and just stayed home so he could sleep in </body>
+    </message>
+    <message id="m0002" participant="134322" time="2013-05-05 14:23:24 UTC">
+      <body>I've been looking for her!</body>
+    </message>
+  </messages>
+</conversation>

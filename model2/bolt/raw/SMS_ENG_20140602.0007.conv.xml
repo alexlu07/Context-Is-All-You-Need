@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 23:53:45 UTC" participant="153548">
+      <body>I drank a bottle of wine before 8 pm!
+</body>
+    </message>
+    <message id="m0001" time="2014-06-02 23:54:16 UTC" participant="153548">
+      <body>Riesling tastes like juicy juice.</body>
+    </message>
+    <message id="m0002" time="2014-06-03 14:18:28 UTC" participant="153649">
+      <body>Hahaha! How's that juicy juice treatin you this morning?</body>
+    </message>
+    <message id="m0003" time="2014-06-03 14:19:09 UTC" participant="153649">
+      <body>PS. You gonna be around philly btw June 20-26?</body>
+    </message>
+    <message id="m0004" time="2014-06-03 15:27:02 UTC" participant="153548">
+      <body>Ughhh. So sick. Yes. Will be around</body>
+    </message>
+    <message id="m0005" time="2014-06-03 15:28:00 UTC" participant="153649">
+      <body>Oh no! How's everything going these days?</body>
+    </message>
+    <message id="m0006" time="2014-06-03 17:51:36 UTC" participant="153548">
+      <body>Good! I've had the last week off so I've been relaxin</body>
+    </message>
+  </messages>
+</conversation>
+

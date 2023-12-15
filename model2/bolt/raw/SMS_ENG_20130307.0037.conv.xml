@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134301" time="2013-03-07 22:03:20 UTC">
+      <body>Wings? </body>
+    </message>
+    <message id="m0001" participant="134301" time="2013-03-07 23:11:45 UTC">
+      <body>Leaving now </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-03-07 23:12:15 UTC">
+      <body>Ok. </body>
+    </message>
+    <message id="m0003" participant="134301" time="2013-03-07 23:25:10 UTC">
+      <body>Same spot as last time </body>
+    </message>
+    <message id="m0004" participant="134301" time="2013-03-08 02:48:59 UTC">
+      <body>Btw we should go to the southern tier brewing company... It's only a out 30. Instead from where I grew up. We could go camping in the Alleghany national forest and the best up there for a long weekend. </body>
+    </message>
+    <message id="m0005" participant="134301" time="2013-03-08 02:49:29 UTC">
+      <body>It's only about 30 mins from where I grew up</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-03-08 03:21:14 UTC">
+      <body>Camping and brewery. Good idea. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150501.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-05-01 15:07:18 UTC" participant="153804">
+      <body>At your moms house and realize I'm not connected to the Wi-Fi and in order to connect I need a password you have that password?</body>
+    </message>
+    <message id="m0001" time="2015-05-01 15:09:49 UTC" participant="153812">
+      <body>It’s on the bottom of the router next to the desktop!</body>
+    </message>
+    <message id="m0002" time="2015-05-01 15:10:20 UTC" participant="153804">
+      <body>Thanks hon!!</body>
+    </message>
+  </messages>
+</conversation>
+

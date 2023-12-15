@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 15:02:48 UTC" participant="152374">
+      <body>Hope you did well! Sorry I have to miss the lunch you worked so hard to put together but I feel awful. Let's meet up for drinks soon to celebrate the end of this term! And have a good trip back home :)</body>
+    </message>
+    <message id="m0001" time="2014-04-12 15:08:45 UTC" participant="152848">
+      <body>Aww thanks! Yes hit me up for a drink soon!</body>
+    </message>
+    <message id="m0002" time="2014-04-12 15:09:26 UTC" participant="152374">
+      <body>Send me a text when you're back and we'll set it up</body>
+    </message>
+    <message id="m0003" time="2014-04-12 15:12:21 UTC" participant="152848">
+      <body>Will do. I'm back on the 23rd</body>
+    </message>
+  </messages>
+</conversation>
+

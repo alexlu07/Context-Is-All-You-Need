@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140817.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-17 14:08:14 UTC" participant="152417">
+      <body>Coffee at nunyuns?</body>
+    </message>
+    <message id="m0001" time="2014-08-17 14:38:49 UTC" participant="152419">
+      <body>In half an hour? Does that work?</body>
+    </message>
+    <message id="m0002" time="2014-08-17 14:39:09 UTC" participant="152417">
+      <body>Perfect, see you there</body>
+    </message>
+  </messages>
+</conversation>
+

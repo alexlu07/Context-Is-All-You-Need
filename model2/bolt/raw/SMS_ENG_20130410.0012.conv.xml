@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-10 17:01:57 UTC">
+      <body>hey, man...good morning!
+still on for coffee?</body>
+    </message>
+    <message id="m0001" participant="131364" time="2013-04-10 17:36:21 UTC">
+      <body>Ya just won't be till later ill hit you up when I'm done </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-10 17:38:32 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0003" participant="131364" time="2013-04-10 20:55:34 UTC">
+      <body>Around 7 Sherman oaks </body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-11 02:24:07 UTC">
+      <body>at mel's diner.
+kester &amp; ventura.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-11 02:56:56 UTC">
+      <body>starbucks. cedros and ventura.</body>
+    </message>
+    <message id="m0006" participant="131364" time="2013-04-11 03:03:43 UTC">
+      <body>5 min </body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-11 03:04:23 UTC">
+      <body>np. starbucks was a waaaay better idea.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120324.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-03-24 04:53:57 UTC">
+      <body>Almost here?</body>
+    </message>
+    <message id="m0001" participant="131823" time="2012-03-24 05:03:09 UTC">
+      <body>Waiting on Chris. Be there app</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-03-24 05:04:00 UTC">
+      <body>Why? Who cares if Chris is there?</body>
+    </message>
+    <message id="m0004" participant="131823" time="2012-03-24 05:14:41 UTC">
+      <body>Come outside!!</body>
+    </message>
+  </messages>
+</conversation>

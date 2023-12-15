@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140130.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-30 13:58:11 UTC" participant="153418">
+      <body>Hi Jim, I've been trying to drop off rent at the office for a few days now, but it's been closed every time I go. Do you know if anyone will be there tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-01-30 14:24:19 UTC" participant="153448">
+      <body>Hi John
+Dawn will be there tomorrow 7-10 am. If check it may be put in mail slot. If cash you should get a receipt. 
+Happy New Year!</body>
+    </message>
+    <message id="m0002" time="2014-01-30 14:25:27 UTC" participant="153418">
+      <body>Thanks for the information. Happy New Year to you too!</body>
+    </message>
+  </messages>
+</conversation>
+

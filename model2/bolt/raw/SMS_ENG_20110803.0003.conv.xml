@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110803.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135126" time="2011-08-03 01:53:49 UTC">
+      <body>Hi there. Dont mean to be a pain but when you get a chance could u send me the address? Thanks&lt;:)&gt;</body>
+    </message>
+    <message id="m0002" participant="135126" time="2011-08-03 02:06:31 UTC">
+      <body>Awesome. Thank you so much!!</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-03 02:24:22 UTC">
+      <body>Are you staying at the apt tonight?</body>
+    </message>
+    <message id="m0004" participant="135126" time="2011-08-03 02:25:28 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-03 23:22:53 UTC">
+      <body>Sorry to bug you again, are you staying in the apt tonight? My friend asked for a place</body>
+    </message>
+    <message id="m0006" participant="135126" time="2011-08-04 02:14:38 UTC">
+      <body>Sure your friend can spend the night. No worries. But i have to stop by tomorrow morning and pick up some stuff</body>
+    </message>
+  </messages>
+</conversation>

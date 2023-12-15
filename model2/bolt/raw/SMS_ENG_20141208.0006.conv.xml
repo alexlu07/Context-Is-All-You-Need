@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141208.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-08 19:54:12 UTC" participant="152771">
+      <body>Hey, are you interested in covering my shift Saturday the 20th?</body>
+    </message>
+    <message id="m0001" time="2014-12-09 00:24:09 UTC" participant="152735">
+      <body>Closing shift, right? Sure </body>
+    </message>
+  </messages>
+</conversation>
+

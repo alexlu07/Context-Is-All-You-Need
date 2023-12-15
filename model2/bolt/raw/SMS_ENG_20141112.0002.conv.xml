@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141112.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-12 16:57:36 UTC" participant="152574">
+      <body>Well I thought I would be on time....what room are you in?</body>
+    </message>
+    <message id="m0001" time="2014-11-12 16:59:05 UTC" participant="152417">
+      <body>610</body>
+    </message>
+    <message id="m0002" time="2014-11-12 16:59:30 UTC" participant="152417">
+      <body>But theres a loud rock band next door so im gonna check 7th floor</body>
+    </message>
+    <message id="m0003" time="2014-11-12 16:59:44 UTC" participant="152574">
+      <body>Ok I should be there in 10 mins</body>
+    </message>
+    <message id="m0004" time="2014-11-12 17:00:56 UTC" participant="152417">
+      <body>k, nothing else is open, sticking w 610</body>
+    </message>
+    <message id="m0005" time="2014-11-12 17:04:00 UTC" participant="152574">
+      <body>Ok we'll have to play in whatever key the loud band is in...</body>
+    </message>
+    <message id="m0006" time="2014-11-12 19:29:44 UTC" participant="152574">
+      <body>Gabi, we can do tomorrow at 1 pm</body>
+    </message>
+    <message id="m0007" time="2014-11-12 19:30:12 UTC" participant="152417">
+      <body>Great, see you then</body>
+    </message>
+  </messages>
+</conversation>
+

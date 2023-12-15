@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120706.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135362" time="2012-07-06 22:17:36 UTC">
+      <body>Hey Sofie I won't be able to make it back to fishtown until after 9. What will u be doing then?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-06 22:27:19 UTC">
+      <body>Still here please come</body>
+    </message>
+    <message id="m0002" participant="135362" time="2012-07-06 22:28:16 UTC">
+      <body>I will ! So sorry that my sked got f'ed up</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-06 22:32:02 UTC">
+      <body>Don't worry</body>
+    </message>
+    <message id="m0004" participant="135362" time="2012-07-07 01:12:32 UTC">
+      <body>Am I at the rift place?</body>
+    </message>
+  </messages>
+</conversation>

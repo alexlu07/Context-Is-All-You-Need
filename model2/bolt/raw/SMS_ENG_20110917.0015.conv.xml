@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110917.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135133" time="2011-09-17 19:24:09 UTC">
+      <body>When is the show tonight?! Are you performing?!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-17 19:29:05 UTC">
+      <body>Hey! Its at 8 and im just singing backup. I just found some takers for the tickets :( but I'll see you at sofie's, right?</body>
+    </message>
+    <message id="m0002" participant="135133" time="2011-09-17 20:15:20 UTC">
+      <body>So cool, have fun!! Yes, I'll be at sofies later!</body>
+    </message>
+  </messages>
+</conversation>

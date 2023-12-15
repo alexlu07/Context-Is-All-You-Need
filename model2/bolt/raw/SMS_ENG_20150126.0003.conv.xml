@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 11:58:50 UTC" participant="153244">
+      <body>From #####:
+Hey ladies, I'm not gonna make it today. #######school let's out at 12 and I couldn't find someone to grab him. I would have come if I could bring him in but u know how that goes. See y'all tomorrow hopefully. </body>
+    </message>
+    <message id="m0001" time="2015-01-26 12:01:03 UTC" participant="153259">
+      <body>Thanks midge </body>
+    </message>
+    <message id="m0002" time="2015-01-26 12:01:10 UTC" participant="153259">
+      <body>We are still open though right </body>
+    </message>
+    <message id="m0003" time="2015-01-26 12:01:57 UTC" participant="153244">
+      <body>Yea... snow not starting until noon </body>
+    </message>
+    <message id="m0004" time="2015-01-26 12:02:26 UTC" participant="153259">
+      <body>Gotcha, thanks see u soon </body>
+    </message>
+    <message id="m0005" time="2015-01-26 12:02:48 UTC" participant="153244">
+      <body>Welcome, see ya soon</body>
+    </message>
+  </messages>
+</conversation>
+

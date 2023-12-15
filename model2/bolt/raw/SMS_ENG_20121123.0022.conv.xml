@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135391" time="2012-11-23 19:26:36 UTC">
+      <body>Want to go ice skating with me tonight at the frog pond? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-23 21:04:09 UTC">
+      <body>Thanks for the invite! I'm in new York though! How was your TG? </body>
+    </message>
+    <message id="m0002" participant="135391" time="2012-11-23 21:07:22 UTC">
+      <body>It was low key - have fun in NY, I realized after i texted you that you were probably there</body>
+    </message>
+  </messages>
+</conversation>

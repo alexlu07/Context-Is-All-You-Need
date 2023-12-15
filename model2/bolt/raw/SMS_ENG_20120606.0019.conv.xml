@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120606.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-06 02:16:25 UTC" participant="153418">
+      <body>Hey, I'm free in the morning this Friday - around 10 to 2. Are you free around then? I might also be able to do something in the evening, like around 5.</body>
+    </message>
+    <message id="m0001" time="2012-06-06 03:50:58 UTC" participant="153439">
+      <body>I am free from 11 to 1 on Friday.
+I can meet then!</body>
+    </message>
+    <message id="m0002" time="2012-06-06 23:05:56 UTC" participant="153418">
+      <body>Okay, let's meet around that time then. I've never been in the International House, so I'll call you when I'm in the area.</body>
+    </message>
+    <message id="m0003" time="2012-06-07 00:21:34 UTC" participant="153439">
+      <body>Okay!
+Thank you :)
+See you later.</body>
+    </message>
+  </messages>
+</conversation>
+

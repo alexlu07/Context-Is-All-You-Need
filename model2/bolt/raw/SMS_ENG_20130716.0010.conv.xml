@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130716.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-16 11:45:28 UTC">
+      <body>Hey again. How are you? Hot as hell here in Philly. How is it down where you are?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-16 13:23:15 UTC">
+      <body>Hot, but not too awful. Weve been getting plenty of rain, which cools things down a bit. I went out on the river yesterday, which was sublime. Trying to be a</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-16 13:23:36 UTC">
+      <body>bit more productive today!</body>
+    </message>
+  </messages>
+</conversation>

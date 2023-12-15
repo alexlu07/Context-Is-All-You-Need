@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140717.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-17 15:27:11 UTC" participant="153547">
+      <body>Dropped off l&amp;i permit and a letter from Philly revenue dept</body>
+    </message>
+    <message id="m0001" time="2014-07-17 16:04:16 UTC" participant="149372">
+      <body>Thanks. Do you want to send yr new hrs for Woodstock?</body>
+    </message>
+    <message id="m0002" time="2014-07-18 12:57:17 UTC" participant="153547">
+      <body>Sent my hrs. You can transfer it to my account</body>
+    </message>
+  </messages>
+</conversation>
+

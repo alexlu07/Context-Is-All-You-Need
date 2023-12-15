@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150328.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-28 14:33:55 UTC" participant="149372">
+      <body>You home?</body>
+    </message>
+    <message id="m0001" time="2015-03-28 14:34:26 UTC" participant="153547">
+      <body>I'm walking. Be there in 15</body>
+    </message>
+    <message id="m0002" time="2015-03-28 14:34:41 UTC" participant="153547">
+      <body>Actually 10 mm</body>
+    </message>
+    <message id="m0003" time="2015-03-28 14:34:51 UTC" participant="153547">
+      <body>Minutes</body>
+    </message>
+  </messages>
+</conversation>
+

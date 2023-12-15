@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131016" time="2013-07-08 11:03:11 UTC">
+      <body>Goodmorning. Im at work so i might be a bit sporadic with my responses. How are you today?</body>
+    </message>
+    <message id="m0001" participant="131059" time="2013-07-08 13:47:00 UTC">
+      <body>That's alright, I'm heading to work myself. Had a slow morning. How are you?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140806.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-06 22:00:56 UTC" participant="153472">
+      <body>I know it is very late notice but any chance u want to go for a walk? We're heading out shortly.</body>
+    </message>
+    <message id="m0001" time="2014-08-07 16:44:27 UTC" participant="152374">
+      <body>Hey sorry, I wasn't in the 'hood when I got your message last night! Sorry it's been so long. How's ####?</body>
+    </message>
+    <message id="m0002" time="2014-08-07 16:57:03 UTC" participant="153472">
+      <body>####### is getting so much better. Thank God. It was a rough week! </body>
+    </message>
+  </messages>
+</conversation>
+

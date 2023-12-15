@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140526.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-26 01:06:57 UTC" participant="152744">
+      <body>: )</body>
+    </message>
+    <message id="m0001" time="2014-05-26 01:43:31 UTC" participant="152735">
+      <body>Hi! Who's this </body>
+    </message>
+    <message id="m0002" time="2014-05-26 02:03:35 UTC" participant="152744">
+      <body>Brian.  Host from fire and ice.  Trying to send a smiley to Ingrid.</body>
+    </message>
+    <message id="m0003" time="2014-05-26 02:39:47 UTC" participant="152735">
+      <body>Brian!!!! </body>
+    </message>
+    <message id="m0004" time="2014-05-26 02:39:51 UTC" participant="152735">
+      <body>We never hung out :( </body>
+    </message>
+  </messages>
+</conversation>
+

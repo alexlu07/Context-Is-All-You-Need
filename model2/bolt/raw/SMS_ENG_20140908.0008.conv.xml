@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140908.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-08 16:14:59 UTC" participant="153418">
+      <body>Hey, you doing anything today? </body>
+    </message>
+    <message id="m0001" time="2014-09-08 17:16:51 UTC" participant="152119">
+      <body>Hi! I have to leave for work around 4 but I've got nothing to do before that. What's up? </body>
+    </message>
+    <message id="m0002" time="2014-09-08 19:58:04 UTC" participant="153418">
+      <body>Hey, sorry. I was busy. I'm in town for a bit and wanted to see if you were free, but I'll just getting free and you're going to work. :[</body>
+    </message>
+    <message id="m0003" time="2014-09-08 20:04:01 UTC" participant="152119">
+      <body>Aw poo. Well are you leaving today? </body>
+    </message>
+    <message id="m0004" time="2014-09-08 20:35:12 UTC" participant="153418">
+      <body>Yeah. When are you off work? Late? </body>
+    </message>
+    <message id="m0005" time="2014-09-08 20:56:35 UTC" participant="152119">
+      <body>Yeah, the problem with baseball is that it doesn't have a set end time. Usually I'm done around 10:30 or so. </body>
+    </message>
+    <message id="m0006" time="2014-09-08 21:45:27 UTC" participant="153418">
+      <body>I'm afraid I can't stay that long. We'll have to meet next time! I wanted to ask you to keep November 1st free. I'll be in town and wanted to have dinner with everyone.</body>
+    </message>
+    <message id="m0007" time="2014-09-09 00:23:57 UTC" participant="152119">
+      <body>Okay cool, I'll mark my calendar, lol. </body>
+    </message>
+  </messages>
+</conversation>
+

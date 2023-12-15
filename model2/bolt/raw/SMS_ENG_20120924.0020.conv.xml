@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120924.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-09-24 13:54:59 UTC">
+      <body>Rode my bike up the Hudson to 125th this morning. Beautiful! Yay Fall!!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-24 15:36:19 UTC">
+      <body>It's really cool and windy here too!</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-09-24 15:38:39 UTC">
+      <body>Feels great doesn't it?</body>
+    </message>
+  </messages>
+</conversation>

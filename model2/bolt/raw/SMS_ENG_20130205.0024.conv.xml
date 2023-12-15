@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2013-02-05 01:04:24 UTC">
+      <body>Hey you used to say something like "oh the angst" or "oh the pain"...what was it???</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-05 01:06:28 UTC">
+      <body>The angst!!!</body>
+    </message>
+    <message id="m0002" participant="131473" time="2013-02-05 01:31:34 UTC">
+      <body>Thought so</body>
+    </message>
+  </messages>
+</conversation>

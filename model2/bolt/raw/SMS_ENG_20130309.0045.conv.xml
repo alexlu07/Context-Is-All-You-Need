@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-09 20:06:25 UTC">
+      <body>Ceren! What are you doing tonight? I'm going to a reading incmbridge at 7!  Wanna join?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-09 20:07:59 UTC">
+      <body>It's a GOod friend from ny and a whole host of literary young people.  </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-09 20:08:09 UTC">
+      <body>Should be artsy and fun</body>
+    </message>
+    <message id="m0003" participant="135439" time="2013-03-09 23:06:40 UTC">
+      <body>Ooh sweetie, I am going to a concert tonight. You wanna meet tomorrow?</body>
+    </message>
+    <message id="m0004" participant="135439" time="2013-03-09 23:07:16 UTC">
+      <body>It is a Turkish band at Cambridge. </body>
+    </message>
+  </messages>
+</conversation>

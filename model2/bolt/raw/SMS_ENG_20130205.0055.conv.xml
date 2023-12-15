@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-05 02:42:09 UTC" participant="152560">
+      <body>Hey Gabi, it's Ria. Let me know if you have some time for tea next week.</body>
+    </message>
+    <message id="m0001" time="2013-02-05 22:57:27 UTC" participant="152417">
+      <body>My rehearsal will be earlier than i thought, i should be free by 830 tomorrow if you want to get together.  Good luck on you test!</body>
+    </message>
+    <message id="m0002" time="2013-02-05 23:01:05 UTC" participant="152560">
+      <body>Thanks! All the best for your Dobra gig tonight.</body>
+    </message>
+  </messages>
+</conversation>
+

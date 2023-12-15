@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110729.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-29 20:20:57 UTC">
+      <body>Hey grandpa. Do you want to talk later? Or do you want me to muse back?</body>
+    </message>
+    <message id="m0001" participant="135107" time="2011-07-29 20:21:42 UTC">
+      <body>Now would be the only time I could</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-29 20:23:02 UTC">
+      <body>I'm free for a little bit now if you want otherwise you can call whenever</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-29 20:28:29 UTC">
+      <body>Are you ok?</body>
+    </message>
+    <message id="m0004" participant="135107" time="2011-07-29 20:29:18 UTC">
+      <body>Yeah, I'm great</body>
+    </message>
+    <message id="m0005" participant="135107" time="2011-07-29 20:29:53 UTC">
+      <body>I was trying to skype it up</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-07-29 20:30:38 UTC">
+      <body>Oh ok, you had me worried. Skype it up? You know I have a real person phone now right?</body>
+    </message>
+    <message id="m0007" participant="135107" time="2011-07-29 20:32:06 UTC">
+      <body>Don't you have a pie phone with skype? </body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-07-29 20:35:07 UTC">
+      <body>I don't have that one, plus I was at work. But now I'm walking home. I'll call you</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-07-29 20:38:27 UTC">
+      <body>Two seconds!</body>
+    </message>
+  </messages>
+</conversation>

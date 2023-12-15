@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140711.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-11 00:50:02 UTC" participant="152115">
+      <body>Are you coming home tonight or no.</body>
+    </message>
+    <message id="m0001" time="2014-07-11 00:55:04 UTC" participant="152116">
+      <body>I'm gonna try to leave early</body>
+    </message>
+    <message id="m0002" time="2014-07-11 00:55:09 UTC" participant="152116">
+      <body>So yeah</body>
+    </message>
+    <message id="m0003" time="2014-07-11 00:57:51 UTC" participant="152115">
+      <body>Where you ever going to tell me that?</body>
+    </message>
+    <message id="m0004" time="2014-07-11 00:58:17 UTC" participant="152116">
+      <body>I was.</body>
+    </message>
+    <message id="m0005" time="2014-07-11 01:04:44 UTC" participant="152116">
+      <body>Kiara just told me that she has to leave earlier and I am going to try to too</body>
+    </message>
+    <message id="m0006" time="2014-07-11 04:41:10 UTC" participant="152116">
+      <body>I'm walking over from the sub.</body>
+    </message>
+  </messages>
+</conversation>
+

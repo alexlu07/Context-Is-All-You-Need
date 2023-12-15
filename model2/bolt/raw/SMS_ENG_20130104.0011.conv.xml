@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135274" time="2013-01-04 22:19:46 UTC">
+      <body>Got it, thanks!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-01-04 22:24:45 UTC">
+      <body>Ah, actually my gps says i won't be there until 6:30.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-04 22:28:06 UTC">
+      <body>Ok no worries!</body>
+    </message>
+  </messages>
+</conversation>

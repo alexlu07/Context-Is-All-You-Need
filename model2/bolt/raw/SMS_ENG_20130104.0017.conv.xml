@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136124" time="2013-01-04 13:55:09 UTC">
+      <body>Hey! So jut reminding you we are going to need I meet up after the main session today</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-04 13:55:57 UTC">
+      <body>for sure! i've got my stuff with me so i can meet at y'all's cars or wherever. </body>
+    </message>
+    <message id="m0002" participant="136124" time="2013-01-04 14:25:03 UTC">
+      <body>Ok, if you would like we can meet up before hand and get your stuff in our car so that we don't need to try and meet up after when everyone is leaving.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-04 14:26:44 UTC">
+      <body>whatever you prefer, just tell me when/where to be! :D</body>
+    </message>
+    <message id="m0004" participant="136124" time="2013-01-04 14:30:21 UTC">
+      <body>Yea where did you guys park?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-01-04 14:31:10 UTC">
+      <body>we're in the red deck but i have my stuff with me in my community group so i don't really need to go back to the car. </body>
+    </message>
+    <message id="m0006" participant="136124" time="2013-01-04 14:40:07 UTC">
+      <body>Oh gotcha! Ok well if you want I can pull up the van and you can put it in, or if you don't mind carrying it with you we can meet up at the Starbucks in </body>
+    </message>
+    <message id="m0007" participant="136124" time="2013-01-04 14:40:10 UTC">
+      <body>building C. That might be easier... Do either of those work for you? :)</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-01-04 14:41:36 UTC">
+      <body>starbucks is fine. after group or after the session? </body>
+    </message>
+    <message id="m0009" participant="136124" time="2013-01-04 14:42:56 UTC">
+      <body>After the session, if that works...</body>
+    </message>
+    <message id="m0010" participant="136112" time="2013-01-04 14:46:41 UTC">
+      <body>perfect. just making sure. see you then! </body>
+    </message>
+    <message id="m0011" participant="136124" time="2013-01-04 15:28:40 UTC">
+      <body>Cool see you then!</body>
+    </message>
+  </messages>
+</conversation>

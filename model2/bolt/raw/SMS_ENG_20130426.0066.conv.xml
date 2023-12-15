@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-26 03:48:09 UTC">
+      <body>How can I help out on Saturday? Should I just show up being like: "I'm ready to volunteer!" Or do I have to sign up as a volunteer? </body>
+    </message>
+    <message id="m0001" participant="137312" time="2013-04-26 03:51:01 UTC">
+      <body>Probably the best thing would be just to show up, we can always use and appreciate the extra help. We'll be there from 7 in the morn to 11 in the night, so whenever you can help would be wonderful wonderful. Thank you!</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-26 03:51:43 UTC">
+      <body>Super! </body>
+    </message>
+  </messages>
+</conversation>

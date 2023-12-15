@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0088" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-12 19:31:40 UTC" participant="152116">
+      <body>You coming to dinner?</body>
+    </message>
+    <message id="m0001" time="2013-05-12 19:32:19 UTC" participant="153244">
+      <body>Of course</body>
+    </message>
+    <message id="m0002" time="2013-05-12 19:32:43 UTC" participant="152116">
+      <body>Okay good. And steph has her own plans,</body>
+    </message>
+    <message id="m0003" time="2013-05-12 19:32:44 UTC" participant="152116">
+      <body>?</body>
+    </message>
+    <message id="m0004" time="2013-05-12 19:33:15 UTC" participant="153244">
+      <body>No she is coming.  We are at her mom's now</body>
+    </message>
+    <message id="m0005" time="2013-05-12 19:33:44 UTC" participant="152116">
+      <body>Okay cool</body>
+    </message>
+    <message id="m0006" time="2013-05-13 00:25:55 UTC" participant="152116">
+      <body>We're parking</body>
+    </message>
+    <message id="m0007" time="2013-05-13 00:28:26 UTC" participant="153244">
+      <body>Ok... steph is in the porch area</body>
+    </message>
+    <message id="m0008" time="2013-05-13 02:17:42 UTC" participant="153244">
+      <body>He crying for you lol</body>
+    </message>
+  </messages>
+</conversation>
+

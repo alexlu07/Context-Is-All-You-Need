@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 15:00:19 UTC" participant="153417">
+      <body>Hey Tina. I just wanted to let you know that SPU is closed tomorrow.</body>
+    </message>
+    <message id="m0001" time="2015-02-25 15:01:44 UTC" participant="153430">
+      <body>Ok can u work in admissions? 530a</body>
+    </message>
+    <message id="m0002" time="2015-02-25 15:02:17 UTC" participant="153417">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

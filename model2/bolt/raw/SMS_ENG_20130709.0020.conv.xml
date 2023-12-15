@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130662" time="2013-07-09 12:29:32 UTC">
+      <body>Hello! How's it going?</body>
+    </message>
+    <message id="m0001" participant="130970" time="2013-07-09 13:21:44 UTC">
+      <body>Hi there! Going awesome. Just finished a workout.</body>
+    </message>
+    <message id="m0002" participant="130662" time="2013-07-09 13:24:32 UTC">
+      <body>I had a very intense workout yesterday. So much that I skipped gym today because my legs are too sore! Busy day ahead for you?</body>
+    </message>
+    <message id="m0003" participant="130970" time="2013-07-09 14:13:55 UTC">
+      <body>No. no work today. Just a monthly meeting with the DJ association to which I belong</body>
+    </message>
+  </messages>
+</conversation>

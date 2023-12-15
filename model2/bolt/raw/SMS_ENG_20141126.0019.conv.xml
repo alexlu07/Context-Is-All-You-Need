@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141126.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-26 03:34:35 UTC" participant="153572">
+      <body>How's the weather? Are you stll going to VA? Waiting on Blake.
+Phyllis</body>
+    </message>
+    <message id="m0001" time="2014-11-26 16:35:44 UTC" participant="153572">
+      <body>If you are traveling, let me know when you get there.
+Phyllis</body>
+    </message>
+    <message id="m0002" time="2014-11-26 17:57:23 UTC" participant="153547">
+      <body>Just made it to virginia </body>
+    </message>
+    <message id="m0003" time="2014-11-26 19:09:30 UTC" participant="153572">
+      <body>Oh. Good. Thanks for letting us know. Tell everyone Happy Thanksgiving.
+Phyllis</body>
+    </message>
+  </messages>
+</conversation>
+

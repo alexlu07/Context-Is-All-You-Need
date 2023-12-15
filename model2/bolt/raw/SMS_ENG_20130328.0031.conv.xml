@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135282" time="2013-03-28 21:25:12 UTC">
+      <body>Do you mind texting me the status of the mtg once we hear from katie? I'll be away from email until then.</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-28 21:25:24 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-28 22:31:47 UTC">
+      <body>Jen says:
+"OK, I think we need 90 minutes, so could we do noon to 1:30?  Is that OK?  I know it is not ideal, but I will be in much better form then and 3-4 isn't enough time, I don't think. "</body>
+    </message>
+    <message id="m0003" participant="135282" time="2013-03-28 23:26:45 UTC">
+      <body>Yea, that's fine with me- i can skip my other mtg</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-28 23:27:08 UTC">
+      <body>K I will email them for both of us</body>
+    </message>
+  </messages>
+</conversation>

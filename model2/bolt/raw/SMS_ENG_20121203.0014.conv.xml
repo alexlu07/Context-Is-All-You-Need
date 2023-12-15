@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121203.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131468" time="2012-12-03 19:48:20 UTC">
+      <body>Hey! Still on for yoga today?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2012-12-03 19:51:11 UTC">
+      <body>Yes indeed!:-)</body>
+    </message>
+    <message id="m0002" participant="131468" time="2012-12-03 19:52:03 UTC">
+      <body>Excellent! I could really use the stretching today :) plus we need to gossip about the royal family news!!! Haha</body>
+    </message>
+    <message id="m0003" participant="131450" time="2012-12-03 19:54:33 UTC">
+      <body>Hahaha omg so true!</body>
+    </message>
+  </messages>
+</conversation>

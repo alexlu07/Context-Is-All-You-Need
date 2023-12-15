@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-12-13 23:34:46 UTC">
+      <body>Oh, ignore the percentiles! </body>
+    </message>
+    <message id="m0001" participant="130723" time="2012-12-13 23:42:48 UTC">
+      <body>Is that what he's saying now?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-12-14 00:13:23 UTC">
+      <body>Yeah he sent an email</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130851" time="2013-06-08 23:32:24 UTC">
+      <body>Hello again. Any interest in seeing "Glass Shattered" at 9pm?</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-06-09 02:33:05 UTC">
+      <body>Sorry working so busy tonight! </body>
+    </message>
+    <message id="m0002" participant="130851" time="2013-06-09 02:36:47 UTC">
+      <body>Yay $$!</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-06-09 03:41:20 UTC">
+      <body> Yeah thank God!</body>
+    </message>
+  </messages>
+</conversation>

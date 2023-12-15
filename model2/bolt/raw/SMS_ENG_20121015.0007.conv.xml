@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121015.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135381" time="2012-10-15 19:57:24 UTC">
+      <body>Sofie are you at school?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-15 19:58:26 UTC">
+      <body>Yeah 4th floor</body>
+    </message>
+    <message id="m0002" participant="135381" time="2012-10-15 19:59:32 UTC">
+      <body>Ceren's there too?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-15 20:00:46 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-15 20:00:59 UTC">
+      <body>Just me and Kim</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-15 20:01:10 UTC">
+      <body>Come join!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-10-15 20:01:14 UTC">
+      <body>I miss u!</body>
+    </message>
+    <message id="m0007" participant="135381" time="2012-10-15 20:04:08 UTC">
+      <body>I miss you too &gt;&lt; I just drag myself out from my bed, will be there before Gunta's class, maybe 5 or 530</body>
+    </message>
+  </messages>
+</conversation>

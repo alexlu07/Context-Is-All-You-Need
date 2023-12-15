@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130697" time="2013-04-14 18:04:55 UTC">
+      <body>R u @ cherry fest?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-04-14 18:18:06 UTC">
+      <body>Yes, who is this?</body>
+    </message>
+    <message id="m0002" participant="130697" time="2013-04-14 18:19:00 UTC">
+      <body>Jais dad</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-04-14 18:19:56 UTC">
+      <body>Ah ok, yeah we are here</body>
+    </message>
+    <message id="m0004" participant="130697" time="2013-04-14 18:23:20 UTC">
+      <body>Would u have room 4 jai and me 4 a ride home later?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-04-14 18:35:10 UTC">
+      <body>We are going from here to Bryn Mawr with a friend, sorry!</body>
+    </message>
+    <message id="m0006" participant="130697" time="2013-04-14 18:35:56 UTC">
+      <body>Ok thanx</body>
+    </message>
+    <message id="m0007" participant="130697" time="2013-04-14 18:42:39 UTC">
+      <body>So we arent there yet.  Do u have any idea how long  u will stay?</body>
+    </message>
+    <message id="m0008" participant="130664" time="2013-04-14 18:52:45 UTC">
+      <body>We are actually leaving, it's kind of shutting down and way overwhelming </body>
+    </message>
+  </messages>
+</conversation>

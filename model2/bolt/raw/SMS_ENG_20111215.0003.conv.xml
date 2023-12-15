@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111215.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-12-15 14:01:21 UTC">
+      <body>Good morning! Hey, do you remember the picture on the cover of the Sun that I sent you from Spain? It had the poetry article in it.</body>
+    </message>
+    <message id="m0001" participant="135107" time="2011-12-15 16:26:46 UTC">
+      <body>I can't see it.  I can look when I get home from Christmas break</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-12-16 01:57:49 UTC">
+      <body>Thanks, Luke. How's you heart?</body>
+    </message>
+    <message id="m0003" participant="135107" time="2011-12-16 01:58:51 UTC">
+      <body>It's ok.  How are you?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-12-16 02:35:47 UTC">
+      <body>Just ok? I'm pretty great. Christmas break starts tomorrow and I go back to mn!</body>
+    </message>
+    <message id="m0005" participant="135107" time="2011-12-16 04:53:08 UTC">
+      <body>Yeah.  Allison and I broke up but other than that, I'm really happy to be home. </body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-12-16 04:57:34 UTC">
+      <body>Oof, I'm sorry Luke. I didn't realize you had been back together. Enjoy Lindsay and Graceland.</body>
+    </message>
+    <message id="m0007" participant="135107" time="2011-12-16 04:58:48 UTC">
+      <body>Happy holidays Marf</body>
+    </message>
+  </messages>
+</conversation>

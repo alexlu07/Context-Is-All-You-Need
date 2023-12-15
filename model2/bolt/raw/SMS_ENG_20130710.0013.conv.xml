@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0013" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135392" time="2013-07-10 13:21:26 UTC">
+      <body>Hey cotxe</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-07-10 13:23:29 UTC">
+      <body>What's good, manda?</body>
+    </message>
+    <message id="m0002" participant="135392" time="2013-07-10 13:31:41 UTC">
+      <body>I'm ok, how are you?</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-07-10 13:32:51 UTC">
+      <body>Not too bad - sitting under a ceiling fan to beat the heat here in philly? Where are you from?</body>
+    </message>
+    <message id="m0004" participant="135392" time="2013-07-10 13:34:31 UTC">
+      <body>Im from Philly too. Yeah this heat has been unbearable these past weeks</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-07-11 03:16:57 UTC">
+      <body>I need to buy an AC unit cuz I live on the third floor and it's no joke that heat rises</body>
+    </message>
+  </messages>
+</conversation>

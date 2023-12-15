@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137408" time="2013-06-03 18:36:33 UTC">
+      <body>How ya feelin?</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-06-03 18:42:33 UTC">
+      <body> At clinic call after</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-06-03 23:35:17 UTC">
+      <body>I'm sorry Josh, can't work tomorrow. It changes quickly, can't push myself. Just one more day :(</body>
+    </message>
+    <message id="m0003" participant="137408" time="2013-06-03 23:35:55 UTC">
+      <body>Ok. </body>
+    </message>
+    <message id="m0004" participant="131838" time="2013-06-03 23:36:45 UTC">
+      <body>Thank you</body>
+    </message>
+    <message id="m0005" participant="137408" time="2013-06-04 17:24:28 UTC">
+      <body>You can stay home Friday too. Just come in for your shift Saturday. </body>
+    </message>
+    <message id="m0006" participant="131838" time="2013-06-04 19:09:27 UTC">
+      <body>I would like to work, I really need the money :/</body>
+    </message>
+    <message id="m0007" participant="131838" time="2013-06-04 19:47:38 UTC">
+      <body>Is that not ok? </body>
+    </message>
+    <message id="m0008" participant="137408" time="2013-06-04 21:32:56 UTC">
+      <body>Sorry, I've been running around all day. There's only 35 on the books so far and we're already overstuffed for what should have been a busy beer week. I'd prefer you to get the extra rest you need. </body>
+    </message>
+    <message id="m0009" participant="137408" time="2013-06-04 21:33:07 UTC">
+      <body>*overstaffed</body>
+    </message>
+    <message id="m0010" participant="137408" time="2013-06-04 21:33:10 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0011" participant="131838" time="2013-06-04 21:35:21 UTC">
+      <body>Lol ok :) thanks for understanding, I'll bring the note n tell u about the ordeal on Saturday :) take care!</body>
+    </message>
+    <message id="m0012" participant="137408" time="2013-06-04 21:35:53 UTC">
+      <body>You too. </body>
+    </message>
+  </messages>
+</conversation>

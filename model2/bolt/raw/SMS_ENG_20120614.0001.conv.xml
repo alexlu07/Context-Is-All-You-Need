@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120614.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-06-14 18:57:24 UTC">
+      <body>I'm listening to one of the loudest, most interesting birds I've ever heard!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-06-14 18:59:23 UTC">
+      <body>Do you know what kind?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-06-14 18:59:49 UTC">
+      <body>No, I tried to get a pic but he hid</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-06-14 19:00:33 UTC">
+      <body>Too bad!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-06-14 19:00:44 UTC">
+      <body>I'll Google later</body>
+    </message>
+  </messages>
+</conversation>

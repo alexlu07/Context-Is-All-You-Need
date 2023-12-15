@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-12 13:17:52 UTC" participant="153268">
+      <body>What's going on there? Are you ok?</body>
+    </message>
+    <message id="m0001" time="2014-05-12 13:18:46 UTC" participant="152734">
+      <body>Bonfire, yes!</body>
+    </message>
+    <message id="m0002" time="2014-05-12 13:19:14 UTC" participant="153268">
+      <body>Oh..ok good!</body>
+    </message>
+    <message id="m0003" time="2014-05-12 13:19:27 UTC" participant="153268">
+      <body>It looks nice</body>
+    </message>
+    <message id="m0004" time="2014-05-12 13:19:51 UTC" participant="152734">
+      <body>It was cool!</body>
+    </message>
+    <message id="m0005" time="2014-05-12 13:22:08 UTC" participant="153268">
+      <body>So late sat night we're all sitting quietly &amp; uncle Ricky says how about that Julie offering to run with me? She made my day. She's not giving up on me. </body>
+    </message>
+    <message id="m0006" time="2014-05-12 13:23:53 UTC" participant="153268">
+      <body>Thank you for being such a nice person. He really appreciated it.</body>
+    </message>
+    <message id="m0007" time="2014-05-12 13:35:27 UTC" participant="152734">
+      <body>Aw that's nice to hear! I'm sure he'll get back to it, every runner gets hurt</body>
+    </message>
+  </messages>
+</conversation>
+

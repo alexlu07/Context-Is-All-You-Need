@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-01 14:07:46 UTC">
+      <body>Free ATT Msg: Your bill is past due. Reply 1 to pay balance of $717.56 now or 2 to pay past due of $309.66 now using bank acct ending in 7029.</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-01 14:08:49 UTC">
+      <body>Do you know anything about this</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-05-01 14:09:04 UTC">
+      <body>I'll pay it online and make sure it is correct</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-05-01 14:09:04 UTC">
+      <body>It doesn't sound right. I thought we had solved all that</body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-05-01 14:09:04 UTC">
+      <body>Looks like we have to call them again and discuss. </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-05-01 14:11:12 UTC">
+      <body>It should be 250 per month not 360</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-05-01 14:11:29 UTC">
+      <body>I think we have to account for the Italy charges. I just remembered I need to call and cancel whatever plan she had for the trip. But if anything it was about $5 per month.</body>
+    </message>
+    <message id="m0007" participant="132437" time="2013-05-01 14:12:35 UTC">
+      <body>Yea we have to look at it again. $100 seems too much for the Italy charges,</body>
+    </message>
+  </messages>
+</conversation>

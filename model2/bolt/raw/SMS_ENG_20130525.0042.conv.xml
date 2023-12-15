@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2013-05-25 16:53:20 UTC">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2013-05-25 16:54:15 UTC">
+      <body>Remember to back a sweater or jacket it's cold</body>
+    </message>
+    <message id="m0002" participant="131824" time="2013-05-25 23:00:16 UTC">
+      <body>Just landed!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2013-05-25 23:09:57 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0004" participant="131821" time="2013-05-26 00:53:21 UTC">
+      <body>Hey where are you</body>
+    </message>
+    <message id="m0005" participant="131824" time="2013-05-26 14:08:48 UTC">
+      <body>The Asian tourist buses are here and they are out in force photographing the squirrels haha.</body>
+    </message>
+    <message id="m0006" participant="131821" time="2013-05-26 14:09:02 UTC">
+      <body>Hahha where are you</body>
+    </message>
+    <message id="m0007" participant="131824" time="2013-05-26 14:09:04 UTC">
+      <body>At Starbucks.  I'm early.</body>
+    </message>
+    <message id="m0008" participant="131824" time="2013-05-26 14:11:12 UTC">
+      <body>Now the whole bus is in here lined up to use the restroom</body>
+    </message>
+  </messages>
+</conversation>

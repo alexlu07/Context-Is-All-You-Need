@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 03:33:15 UTC" participant="153418">
+      <body>He said okay. He wants to know when you'll pick him up(morning, night). He's available all day.</body>
+    </message>
+    <message id="m0001" time="2014-12-09 03:35:50 UTC" participant="153461">
+      <body>I'll pick him up fri around 6pm &amp; drop him off on sat night after work. </body>
+    </message>
+    <message id="m0002" time="2014-12-09 03:36:06 UTC" participant="153461">
+      <body>Thanks John. </body>
+    </message>
+    <message id="m0003" time="2014-12-09 03:36:37 UTC" participant="153461">
+      <body>Tell him 1/24 is sat so I'll pick him up on 1/23 6pm</body>
+    </message>
+    <message id="m0004" time="2014-12-09 03:57:22 UTC" participant="153418">
+      <body>No problem, I'll let him know.</body>
+    </message>
+  </messages>
+</conversation>
+

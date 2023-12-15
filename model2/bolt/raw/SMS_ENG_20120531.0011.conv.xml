@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120531.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-05-31 15:11:47 UTC">
+      <body>Hey I left another $10 om the living room ledge. Let me know wjen u pick it up!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-31 15:16:34 UTC">
+      <body>Ok thanks!</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-06-01 02:06:49 UTC">
+      <body>Here is the info. Let me know soon.</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-06-01 02:07:13 UTC">
+      <body>Hi John! Got tix for Saturday night's show at 8pm! It's a comedy ballet which I think you'd enjoy! Let me know if you want to have them! Cheers,-Daniil</body>
+    </message>
+    <message id="m0004" participant="136219" time="2012-06-01 15:25:46 UTC">
+      <body>I'm going to the ballet on saturday</body>
+    </message>
+    <message id="m0005" participant="136219" time="2012-06-01 15:25:57 UTC">
+      <body>FYI</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-06-01 15:40:34 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

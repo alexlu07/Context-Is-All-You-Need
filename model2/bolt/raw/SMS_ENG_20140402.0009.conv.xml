@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 21:58:36 UTC" participant="153472">
+      <body>Just walking in the door. I'll grab ####### then we'll head to ur place? Sound good?</body>
+    </message>
+    <message id="m0001" time="2014-04-02 21:59:32 UTC" participant="152374">
+      <body>I'll meet you at your place. Got stuck downtown for work thing and am just hopping in a cab!</body>
+    </message>
+    <message id="m0002" time="2014-04-02 22:01:17 UTC" participant="152374">
+      <body>Eta 10 min or less. Will call you :)</body>
+    </message>
+    <message id="m0003" time="2014-04-02 22:02:06 UTC" participant="153472">
+      <body>No worries. Take ur time.</body>
+    </message>
+  </messages>
+</conversation>
+

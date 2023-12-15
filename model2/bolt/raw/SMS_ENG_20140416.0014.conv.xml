@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140416.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-16 00:51:59 UTC" participant="153900">
+      <body>Just wanted to know how you made out with your test</body>
+    </message>
+    <message id="m0001" time="2014-04-16 00:52:57 UTC" participant="153244">
+      <body>Oh I think I did good... should get my results in the mail in a week or so</body>
+    </message>
+  </messages>
+</conversation>
+

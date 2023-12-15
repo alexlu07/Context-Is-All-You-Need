@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-07-09 22:25:10 UTC">
+      <body>￼Bills favorite store with ocean side views</body>
+    </message>
+    <message id="m0001" participant="135396" time="2013-07-09 22:26:58 UTC">
+      <body>Nice</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-07-09 22:28:03 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0003" participant="135396" time="2013-07-09 22:29:19 UTC">
+      <body>Catus?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-07-09 23:05:14 UTC">
+      <body>I dunno</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-07-09 23:05:45 UTC">
+      <body>I think a flower</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-07-10 00:05:03 UTC">
+      <body>Bob r u there?</body>
+    </message>
+  </messages>
+</conversation>

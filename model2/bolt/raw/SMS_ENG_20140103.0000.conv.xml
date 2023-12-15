@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140103.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-03 20:43:44 UTC" participant="149394">
+      <body>Forwarded you the invite for this eve, but address is ###############.  In fishtown </body>
+    </message>
+    <message id="m0001" time="2014-01-03 20:47:56 UTC" participant="149306">
+      <body>Ahh, I can't make it, I'm not in town. I ran away to Boston for the weekend. Sorry. Happy going away, and if I don't see you before you go, have a great trip! </body>
+    </message>
+    <message id="m0002" time="2014-01-03 21:07:12 UTC" participant="149394">
+      <body>Ahhh enjoy #######  Thanks for the well wishes.  See you in may.  </body>
+    </message>
+    <message id="m0003" time="2014-01-03 21:17:36 UTC" participant="149306">
+      <body>Thanks, it's crazy cold and snowy here! Don't do anything I wouldn't do!</body>
+    </message>
+    <message id="m0004" time="2014-01-03 21:23:25 UTC" participant="149394">
+      <body>I wouldn't know what those limits are so wish me luck.  </body>
+    </message>
+    <message id="m0005" time="2014-01-03 21:26:58 UTC" participant="149306">
+      <body>Figuring that out is the fun part!</body>
+    </message>
+  </messages>
+</conversation>
+

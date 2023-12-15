@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150224.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-24 14:59:12 UTC" participant="153804">
+      <body>Did you finish the book?</body>
+    </message>
+    <message id="m0001" time="2015-02-24 19:09:20 UTC" participant="153817">
+      <body>Yes it was good</body>
+    </message>
+    <message id="m0002" time="2015-02-25 01:44:43 UTC" participant="153804">
+      <body>Do u own the book?</body>
+    </message>
+    <message id="m0003" time="2015-02-25 01:54:58 UTC" participant="153817">
+      <body>iPad</body>
+    </message>
+    <message id="m0004" time="2015-02-25 01:55:53 UTC" participant="153804">
+      <body>I'll get it out of the library, thanks anyway!</body>
+    </message>
+    <message id="m0005" time="2015-02-25 01:56:12 UTC" participant="153804">
+      <body>How did your NYC appointment go?</body>
+    </message>
+  </messages>
+</conversation>
+

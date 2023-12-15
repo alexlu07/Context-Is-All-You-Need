@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150404.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-04 19:12:34 UTC" participant="153804">
+      <body>Kathy text me &amp; said he's ok.not sure what it all means but they don't have to fly out there</body>
+    </message>
+    <message id="m0001" time="2015-04-04 19:45:03 UTC" participant="153807">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0002" time="2015-04-04 19:46:43 UTC" participant="153804">
+      <body>R U going to brunch tomorrow am?</body>
+    </message>
+    <message id="m0003" time="2015-04-04 19:57:23 UTC" participant="153807">
+      <body>Yes</body>
+    </message>
+    <message id="m0004" time="2015-04-04 23:58:54 UTC" participant="153804">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2015-04-05 00:10:03 UTC" participant="153807">
+      <body>What a piece of work he is!</body>
+    </message>
+    <message id="m0006" time="2015-04-05 00:11:02 UTC" participant="153804">
+      <body>Just like his mom!</body>
+    </message>
+  </messages>
+</conversation>
+

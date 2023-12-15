@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131361" time="2013-02-07 18:16:42 UTC">
+      <body>If its not too late, get a can WD-40.</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-07 18:30:25 UTC">
+      <body>no black primer for plastic. only white and grey. they have black primer for metal - which may work.
+
+get grey (plastic) or black (metal)?
+
+wd40 - 8oz or 12oz?</body>
+    </message>
+    <message id="m0002" participant="131361" time="2013-02-07 18:31:25 UTC">
+      <body>12 oz</body>
+    </message>
+    <message id="m0003" participant="131361" time="2013-02-07 18:31:39 UTC">
+      <body>Don't get the primer there.</body>
+    </message>
+    <message id="m0005" participant="131361" time="2013-02-07 19:17:18 UTC">
+      <body>Grab a can of 3M 77 stay adhesive</body>
+    </message>
+  </messages>
+</conversation>

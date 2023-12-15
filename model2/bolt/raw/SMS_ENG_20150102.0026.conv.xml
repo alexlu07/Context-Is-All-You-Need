@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 22:53:03 UTC" participant="153804">
+      <body>Did you catch up on your sleep?</body>
+    </message>
+    <message id="m0001" time="2015-01-02 23:13:24 UTC" participant="153558">
+      <body>Pretty much</body>
+    </message>
+    <message id="m0002" time="2015-01-02 23:15:08 UTC" participant="153804">
+      <body>Did you get a chance to celebrate the New Year's?</body>
+    </message>
+    <message id="m0003" time="2015-01-02 23:15:29 UTC" participant="153558">
+      <body>No I was asleep</body>
+    </message>
+    <message id="m0004" time="2015-01-02 23:15:45 UTC" participant="153804">
+      <body>I meant the next day!</body>
+    </message>
+    <message id="m0005" time="2015-01-02 23:17:14 UTC" participant="153558">
+      <body>Yesterday was unpacking, paying bills, getting food, starting work and generally just getting things in order</body>
+    </message>
+  </messages>
+</conversation>
+

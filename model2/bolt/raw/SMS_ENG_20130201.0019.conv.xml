@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135302" time="2013-02-01 01:58:34 UTC">
+      <body>Hey! Would you be interested in getting lunch or dinner tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135302" time="2013-02-01 01:58:53 UTC">
+      <body>Lunch would have to be between 12:30-1:30 and dinner after 6 lol</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-01 02:09:30 UTC">
+      <body>Yes! 12:30? :)</body>
+    </message>
+    <message id="m0003" participant="135302" time="2013-02-01 02:35:44 UTC">
+      <body>Sounds good!! My work shift ends then so I may be 5 mins late</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-01 02:37:02 UTC">
+      <body>Okay :) no worries</body>
+    </message>
+    <message id="m0005" participant="135302" time="2013-02-01 16:13:04 UTC">
+      <body>Is there any way we could meet at 1? If not its fine but I've had a lot more work at my job than usual and i would like to finish a response paper before class</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-02-01 16:21:59 UTC">
+      <body>Sure! :)</body>
+    </message>
+    <message id="m0007" participant="135302" time="2013-02-01 16:22:51 UTC">
+      <body>Thanks for being flexible... My bad =(</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-02-01 16:23:23 UTC">
+      <body>No worries! I hope you finish it :) I'm free all day :P</body>
+    </message>
+    <message id="m0009" participant="135302" time="2013-02-01 16:23:28 UTC">
+      <body>Hah nice. Happy Friday! I'm busy from 9 till 6 today lol</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-02-01 18:04:35 UTC">
+      <body>Hey! Are you here?</body>
+    </message>
+    <message id="m0011" participant="135302" time="2013-02-01 18:08:00 UTC">
+      <body>On my way so sorry!</body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-02-01 18:10:01 UTC">
+      <body>No worries at all! I am on the right side. :)</body>
+    </message>
+  </messages>
+</conversation>

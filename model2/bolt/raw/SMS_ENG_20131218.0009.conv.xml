@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131218.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-18 14:18:24 UTC" participant="153547">
+      <body>Hey Elena , I have a doctors appt at 11:00 today but I should be home til 1030am and back around 1pm or so if you wanna grab that mag from me. I might do a quick job this afternoon so just let me know when if you wanna meet up</body>
+    </message>
+    <message id="m0001" time="2013-12-18 17:46:40 UTC" participant="153569">
+      <body>Ok that works. Just let me know when you're home. I have to work at 4 but I'm free until then. </body>
+    </message>
+    <message id="m0002" time="2013-12-18 18:01:36 UTC" participant="153569">
+      <body>I can stop by anytime between now and 330</body>
+    </message>
+    <message id="m0003" time="2013-12-18 18:04:13 UTC" participant="153547">
+      <body>I'm still at hospital. Hopefully home by 230</body>
+    </message>
+    <message id="m0004" time="2013-12-18 18:33:36 UTC" participant="153569">
+      <body>Ok just let me know. Everything ok I hope? If you don't get home for awhile I'm off Saturday and Sunday this weekend as well. </body>
+    </message>
+    <message id="m0006" time="2013-12-18 19:01:20 UTC" participant="153569">
+      <body>Ok. Ill head over in like 10 minutes. </body>
+    </message>
+  </messages>
+</conversation>
+

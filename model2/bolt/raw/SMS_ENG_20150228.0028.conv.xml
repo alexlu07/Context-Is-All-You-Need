@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150228.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-28 14:07:31 UTC" participant="153548">
+      <body>Hey I have the car today and don't mind driving. </body>
+    </message>
+    <message id="m0001" time="2015-02-28 14:51:44 UTC" participant="153645">
+      <body>Awesome! Julia factorial will be joining us </body>
+    </message>
+    <message id="m0002" time="2015-02-28 14:51:44 UTC" participant="153548">
+      <body>I</body>
+    </message>
+    <message id="m0003" time="2015-02-28 14:51:44 UTC" participant="153548">
+      <body>Cool! Tell her I can pick her up too!</body>
+    </message>
+    <message id="m0004" time="2015-02-28 14:51:44 UTC" participant="153548">
+      <body>Do you need to stop by the co-op?</body>
+    </message>
+    <message id="m0005" time="2015-02-28 14:53:52 UTC" participant="153548">
+      <body>(I’ve never officially met Julia but know who she is)</body>
+    </message>
+    <message id="m0006" time="2015-02-28 15:03:30 UTC" participant="153645">
+      <body>Just went to the coop - should we leave around 12:30? I will see if she wants to just meet at my house </body>
+    </message>
+    <message id="m0007" time="2015-02-28 15:05:33 UTC" participant="153645">
+      <body>Are you okay if we leave Laura's a bit after 3? I have a birthday party to be at after </body>
+    </message>
+    <message id="m0008" time="2015-02-28 15:28:23 UTC" participant="153548">
+      <body>I’ll be at your place at 12:30. And yes, leaving at 3 is perfect. </body>
+    </message>
+    <message id="m0009" time="2015-02-28 15:28:34 UTC" participant="153645">
+      <body>Yay! </body>
+    </message>
+    <message id="m0010" time="2015-02-28 15:28:55 UTC" participant="153548">
+      <body>See you soon! </body>
+    </message>
+    <message id="m0011" time="2015-02-28 15:57:59 UTC" participant="153645">
+      <body>Eleanor is joining as well! </body>
+    </message>
+    <message id="m0012" time="2015-02-28 15:59:06 UTC" participant="153548">
+      <body>Sounds good to me!</body>
+    </message>
+    <message id="m0013" time="2015-02-28 17:31:45 UTC" participant="153548">
+      <body>Here!</body>
+    </message>
+    <message id="m0014" time="2015-03-01 14:02:40 UTC" participant="153645">
+      <body>So good to see you and screen with you yesterday! Is it true the next time I see you is march 21? </body>
+    </message>
+    <message id="m0015" time="2015-03-01 14:06:56 UTC" participant="153548">
+      <body>was totally a fun screening! We said maybe Tuesday the 10th in the evening</body>
+    </message>
+    <message id="m0016" time="2015-03-01 14:06:56 UTC" participant="153548">
+      <body>but I actually won’t know until after this week</body>
+    </message>
+    <message id="m0017" time="2015-03-01 14:06:56 UTC" participant="153548">
+      <body>if I can</body>
+    </message>
+  </messages>
+</conversation>
+

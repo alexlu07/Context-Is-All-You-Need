@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130226.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-26 01:31:44 UTC" participant="152427">
+      <body>Do we still have a gig @ radiobean tues?</body>
+    </message>
+    <message id="m0001" time="2013-02-26 04:58:27 UTC" participant="152417">
+      <body>I dont think so, jeff is away tomorrow no? Ill be on my way to philly</body>
+    </message>
+    <message id="m0002" time="2013-02-26 12:20:16 UTC" participant="152427">
+      <body>Ok sorry I had something penciled in my book ~</body>
+    </message>
+  </messages>
+</conversation>
+

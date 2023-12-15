@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120128.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-01-28 04:23:12 UTC">
+      <body>Did you arrive safely at Cornell?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-28 04:25:36 UTC">
+      <body>I did</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-01-28 04:26:01 UTC">
+      <body>Good.  Best of luck!!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-01-28 04:26:13 UTC">
+      <body>Thank</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-01-29 02:25:59 UTC">
+      <body>Call me when you're done and tell me how it went :). Xoxo</body>
+    </message>
+    <message id="m0005" participant="131824" time="2012-01-30 00:03:08 UTC">
+      <body>Done yet?</body>
+    </message>
+    <message id="m0006" participant="131824" time="2012-01-30 00:23:07 UTC">
+      <body>Why did the winning team let you hold their trophy?</body>
+    </message>
+    <message id="m0007" participant="131821" time="2012-01-30 00:23:23 UTC">
+      <body>Lolz silly</body>
+    </message>
+    <message id="m0008" participant="131824" time="2012-01-30 00:23:38 UTC">
+      <body>Seriously though OMG Congrats!!!!!!!</body>
+    </message>
+    <message id="m0009" participant="131824" time="2012-01-30 00:23:57 UTC">
+      <body>Is the trophy for you or the team?</body>
+    </message>
+    <message id="m0010" participant="131821" time="2012-01-30 00:24:22 UTC">
+      <body>For the team!!!</body>
+    </message>
+    <message id="m0011" participant="131824" time="2012-01-30 00:24:41 UTC">
+      <body>Awesome.  Nice job!!!!!!</body>
+    </message>
+    <message id="m0012" participant="131821" time="2012-01-30 00:25:08 UTC">
+      <body>Thanks ^-^</body>
+    </message>
+    <message id="m0013" participant="131821" time="2012-01-30 12:37:35 UTC">
+      <body>On plane</body>
+    </message>
+    <message id="m0014" participant="131824" time="2012-01-30 12:43:13 UTC">
+      <body>I thought you flew yesterday!</body>
+    </message>
+    <message id="m0015" participant="131821" time="2012-01-30 12:44:08 UTC">
+      <body>? No--I'm pretty sure I told you it was today</body>
+    </message>
+  </messages>
+</conversation>

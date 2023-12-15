@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-22 13:53:04 UTC">
+      <body>11:30 works. I'm also planning to shower just after 10:15 so you know</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-22 16:06:26 UTC">
+      <body>Are you still in Roberts?</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-03-22 16:06:33 UTC">
+      <body>Leaving roberts now</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-23 02:31:43 UTC">
+      <body>Could you read my email to Meryl?</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-03-23 16:30:35 UTC">
+      <body>Any chance anyone still needs to eat lunch?</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-03-23 20:08:21 UTC">
+      <body>Want to do dinner at 5:30?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-03-23 21:13:28 UTC">
+      <body>Ill meet you guys at the DC at 5:30</body>
+    </message>
+    <message id="m0007" participant="135275" time="2013-03-24 03:41:41 UTC">
+      <body>Hey, are you free? I'm PMSing...</body>
+    </message>
+  </messages>
+</conversation>

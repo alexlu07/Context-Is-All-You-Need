@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130311.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-11 20:57:53 UTC" participant="152374">
+      <body>Yes definitely! Wednesday?</body>
+    </message>
+    <message id="m0001" time="2013-03-11 20:59:15 UTC" participant="153472">
+      <body>sounds good but I may need to go a bit later - would 7:30 be OK?</body>
+    </message>
+    <message id="m0002" time="2013-03-11 21:01:41 UTC" participant="152374">
+      <body>Sure :-)  Where shall we go?</body>
+    </message>
+    <message id="m0003" time="2013-03-11 21:04:58 UTC" participant="153472">
+      <body>I'm kinda craving Doma but would like to try Blue Cat too. Also haven't been to Figs in ages. I'm torn. Any preference?</body>
+    </message>
+    <message id="m0004" time="2013-03-11 21:05:24 UTC" participant="152374">
+      <body>I really want to try blue cat! Is that okay with you?</body>
+    </message>
+    <message id="m0005" time="2013-03-11 21:06:19 UTC" participant="153472">
+      <body>Yep! Let's do it!!!</body>
+    </message>
+    <message id="m0006" time="2013-03-11 21:06:49 UTC" participant="152374">
+      <body>Awesome. 7:30 at blue cat :-D</body>
+    </message>
+    <message id="m0007" time="2013-03-11 21:07:56 UTC" participant="153472">
+      <body>Can't wait. I can bring Pinot Grigio. Is this OK? If not I can pick-up something else.</body>
+    </message>
+    <message id="m0008" time="2013-03-11 21:08:09 UTC" participant="152374">
+      <body>Sounds perfect!</body>
+    </message>
+  </messages>
+</conversation>
+

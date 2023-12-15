@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110613.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-13 00:37:39 UTC">
+      <body>Do you want to go to Annie with meg on Tuesday or Wednesday? She leaves for portland on Thursday </body>
+    </message>
+    <message id="m0001" participant="135099" time="2011-06-13 00:38:32 UTC">
+      <body>i work on tuesday and wednesday. :(</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135488" time="2013-05-17 01:42:19 UTC">
+      <body>Hey! Sorry I missed you call. Question-- I have a friend from Argentina who's a painter and wants to submit her work to ny galleries. Any advice?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-17 01:45:03 UTC">
+      <body>Schmooze. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-17 01:45:05 UTC">
+      <body>Network</body>
+    </message>
+    <message id="m0003" participant="135488" time="2013-05-17 15:57:06 UTC">
+      <body>At work. What's up?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-17 15:57:22 UTC">
+      <body>Pocket dial.  </body>
+    </message>
+    <message id="m0005" participant="135488" time="2013-05-17 15:57:47 UTC">
+      <body>Amazing </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-17 15:58:19 UTC">
+      <body>I know, it was actually a bathroom dial</body>
+    </message>
+  </messages>
+</conversation>

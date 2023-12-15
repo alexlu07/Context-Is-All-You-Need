@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-04-17 20:19:52 UTC">
+      <body>6 din</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-17 20:20:10 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-04-18 19:43:33 UTC">
+      <body>6 din?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-19 18:37:03 UTC">
+      <body>5:30! Wine and cheese/pizza and beer regatta!</body>
+    </message>
+  </messages>
+</conversation>

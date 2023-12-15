@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 02:27:09 UTC" participant="153244">
+      <body>Hey.. I get off work in about 45 mins. You still want the fries? </body>
+    </message>
+    <message id="m0001" time="2014-11-14 02:28:15 UTC" participant="153890">
+      <body>How much are they</body>
+    </message>
+    <message id="m0002" time="2014-11-14 02:28:42 UTC" participant="153244">
+      <body>Don't worry about it lol</body>
+    </message>
+    <message id="m0003" time="2014-11-14 02:29:18 UTC" participant="153890">
+      <body>You sure and sure can you get cheese fries</body>
+    </message>
+    <message id="m0004" time="2014-11-14 02:29:56 UTC" participant="153244">
+      <body>Im positive.. and regular cheese fries or curly? </body>
+    </message>
+    <message id="m0005" time="2014-11-14 02:30:50 UTC" participant="153890">
+      <body>It's doesn't matter</body>
+    </message>
+    <message id="m0006" time="2014-11-14 02:32:13 UTC" participant="153890">
+      <body>Thank you</body>
+    </message>
+    <message id="m0007" time="2014-11-14 02:32:39 UTC" participant="153244">
+      <body>Welcome</body>
+    </message>
+    <message id="m0008" time="2014-11-14 03:43:41 UTC" participant="153244">
+      <body>Hey sorry.. Manager kept us late for a meeting. Im leaving now</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121031.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135436" time="2012-10-31 23:09:44 UTC">
+      <body>Hey, are you still at school?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-31 23:10:06 UTC">
+      <body>In class till 9 </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-31 23:22:41 UTC">
+      <body>Will you be around after clas</body>
+    </message>
+    <message id="m0003" participant="135436" time="2012-10-31 23:24:04 UTC">
+      <body>No, i'll probably leave before then. i was going to see if you wanted to get some food. next time!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-01 00:05:02 UTC">
+      <body>Yes every time!  Friday? </body>
+    </message>
+    <message id="m0005" participant="135436" time="2012-11-01 00:18:01 UTC">
+      <body>Wedding rehearsal. i'm gone all weekend. but karina and i are at the pig if you want to join later!</body>
+    </message>
+  </messages>
+</conversation>

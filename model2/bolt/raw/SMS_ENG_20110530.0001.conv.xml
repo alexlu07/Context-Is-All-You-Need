@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110530.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2011-05-30 16:35:59 UTC">
+      <body>Heya!  Do you have Katie homras number?</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-05-30 16:38:50 UTC">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0003" participant="130849" time="2011-05-30 16:39:19 UTC">
+      <body>no problem!</body>
+    </message>
+    <message id="m0004" participant="130849" time="2011-12-26 19:22:48 UTC">
+      <body>sure. im free after 7 or so.</body>
+    </message>
+    <message id="m0005" participant="130849" time="2011-12-26 19:41:08 UTC">
+      <body>u should come out to the farm and check out the new arena :-)</body>
+    </message>
+    <message id="m0006" participant="130755" time="2011-12-26 22:58:35 UTC">
+      <body>I'll give ya a call after 7</body>
+    </message>
+    <message id="m0007" participant="130849" time="2011-12-26 22:59:06 UTC">
+      <body>ok</body>
+    </message>
+    <message id="m0008" participant="130849" time="2011-12-27 01:50:01 UTC">
+      <body>so do u want to hang out at ur parents house or somewhere in town?</body>
+    </message>
+    <message id="m0009" participant="130755" time="2012-05-22 20:01:34 UTC">
+      <body>Hey! I'ma be in town tomorrow and Thursday! Think there's any chance we could come over and ride?</body>
+    </message>
+    <message id="m0010" participant="130849" time="2012-05-22 20:36:19 UTC">
+      <body>Sure! i have a lesson thurs afternoon, otherwise im flexible. :)</body>
+    </message>
+    <message id="m0011" participant="130755" time="2012-05-22 20:37:45 UTC">
+      <body>Yay! I will call you when we get in town</body>
+    </message>
+    <message id="m0012" participant="130849" time="2012-05-22 20:38:18 UTC">
+      <body>Ok :)</body>
+    </message>
+    <message id="m0013" participant="130849" time="2012-05-24 16:17:15 UTC">
+      <body>Yep :)</body>
+    </message>
+    <message id="m0014" participant="130849" time="2012-05-24 19:56:41 UTC">
+      <body>my mom wanted to know if ur mom is going to come. :)</body>
+    </message>
+    <message id="m0015" participant="130849" time="2012-05-24 21:33:58 UTC">
+      <body>My lesson canceled. her horse needs to be reshod and her farrier canceled this morning. so u guys can come out whenever.</body>
+    </message>
+  </messages>
+</conversation>

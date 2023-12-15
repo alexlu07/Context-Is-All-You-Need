@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120612.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-12 19:55:50 UTC" participant="153439">
+      <body>Can i meet you tomorrow??
+Do you have time to meet?</body>
+    </message>
+    <message id="m0001" time="2012-06-12 20:08:43 UTC" participant="153418">
+      <body>Sorry, I won't be free tomorrow. I'm free on Friday, but you're busy then, right?</body>
+    </message>
+    <message id="m0002" time="2012-06-12 21:36:52 UTC" participant="153439">
+      <body>Yes~:(
+okay, thanks!
+see you later~</body>
+    </message>
+    <message id="m0003" time="2012-06-12 21:51:42 UTC" participant="153418">
+      <body>Sorry! If there's something specific you want to ask about, you can email or text me, but we probably won't meet again in person until next week.</body>
+    </message>
+    <message id="m0004" time="2012-06-12 22:11:21 UTC" participant="153439">
+      <body>I misunderstood!!
+Can i meet you on Thursday morning?</body>
+    </message>
+    <message id="m0005" time="2012-06-12 22:31:51 UTC" participant="153418">
+      <body>I won't be free for the rest of this week except on Friday. Sorry if I wasn't clear. What I meant is that, if you have a specific question about something, you can email or text me it. You're not asking about next Thursday, right? </body>
+    </message>
+    <message id="m0006" time="2012-06-12 22:35:24 UTC" participant="153439">
+      <body>I mean, do you have time to meet on this Thursday?</body>
+    </message>
+    <message id="m0007" time="2012-06-12 22:36:38 UTC" participant="153418">
+      <body>No, I'm only free Friday. Sorry for the confusion!</body>
+    </message>
+    <message id="m0008" time="2012-06-12 22:38:55 UTC" participant="153439">
+      <body>Okay~
+thanks:)
+see you later!</body>
+    </message>
+  </messages>
+</conversation>
+

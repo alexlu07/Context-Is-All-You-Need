@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 22:24:52 UTC" participant="153804">
+      <body>Hey can you work Monday Tuesday Wednesday Thursday next week let me know</body>
+    </message>
+    <message id="m0001" time="2015-01-09 23:03:43 UTC" participant="153815">
+      <body>Yes. Will text later. </body>
+    </message>
+    <message id="m0002" time="2015-01-10 17:14:49 UTC" participant="153804">
+      <body>I just realized the Rite aid on Monday is very small set</body>
+    </message>
+    <message id="m0003" time="2015-01-10 17:16:17 UTC" participant="153815">
+      <body>Does that mean you don't need me on Monday?</body>
+    </message>
+    <message id="m0004" time="2015-01-10 17:17:12 UTC" participant="153804">
+      <body>Christian and I will set it so I'll have you work Tuesday Ulta,Wednesday,Wegmans &amp; Thursday,wegs Will that work for you</body>
+    </message>
+    <message id="m0005" time="2015-01-10 17:19:08 UTC" participant="153815">
+      <body>Yes. That will work fine.</body>
+    </message>
+    <message id="m0006" time="2015-01-10 17:19:23 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

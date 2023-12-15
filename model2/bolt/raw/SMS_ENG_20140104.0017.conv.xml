@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140104.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-04 03:55:11 UTC" participant="153897">
+      <body>Hey... Its ### #####. This is my new cell number!</body>
+    </message>
+    <message id="m0001" time="2014-01-04 04:08:21 UTC" participant="153244">
+      <body>Got It!  Thanks! </body>
+    </message>
+  </messages>
+</conversation>
+

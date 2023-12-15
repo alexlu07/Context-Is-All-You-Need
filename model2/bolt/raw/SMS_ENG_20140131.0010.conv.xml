@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140131.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-31 21:27:55 UTC" participant="153548">
+      <body>Still on for dinner?! Where are we gonna go???</body>
+    </message>
+    <message id="m0001" time="2014-01-31 21:28:12 UTC" participant="153548">
+      <body>MEXICAN FOREVER</body>
+    </message>
+    <message id="m0002" time="2014-01-31 21:58:24 UTC" participant="153631">
+      <body>I got really sick! I'm sorry! I thought I was gonna be able to make it but I've been at work all day and I feel like death </body>
+    </message>
+    <message id="m0003" time="2014-01-31 21:59:16 UTC" participant="153631">
+      <body>Can we reschedule?</body>
+    </message>
+    <message id="m0004" time="2014-01-31 21:59:29 UTC" participant="153548">
+      <body>Oh noooo!!! Of course we can reschedule. </body>
+    </message>
+    <message id="m0005" time="2014-01-31 21:59:57 UTC" participant="153548">
+      <body>You need to get in bed and take it easy!</body>
+    </message>
+    <message id="m0006" time="2014-01-31 22:02:40 UTC" participant="153631">
+      <body>I will do it!</body>
+    </message>
+    <message id="m0007" time="2014-01-31 22:03:26 UTC" participant="153548">
+      <body>Did you get the flu? So many people have it.</body>
+    </message>
+    <message id="m0008" time="2014-01-31 22:19:44 UTC" participant="153631">
+      <body>I hope not! Septa did make me want to puke and die but maybe that's not because of the flu, ha</body>
+    </message>
+    <message id="m0009" time="2014-01-31 22:34:12 UTC" participant="153548">
+      <body>Katya is really sick too.</body>
+    </message>
+    <message id="m0010" time="2014-01-31 22:36:48 UTC" participant="153631">
+      <body>I saw her at the library the other day! She said she was sick and also feeling crazy</body>
+    </message>
+  </messages>
+</conversation>
+

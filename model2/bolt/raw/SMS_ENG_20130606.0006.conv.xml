@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131805" time="2013-06-06 13:43:59 UTC">
+      <body>hello beetle juice</body>
+    </message>
+    <message id="m0001" participant="131523" time="2013-06-06 14:28:22 UTC">
+      <body>Sup calamari</body>
+    </message>
+    <message id="m0002" participant="131805" time="2013-06-06 15:19:28 UTC">
+      <body>Hahaha what you up to?</body>
+    </message>
+    <message id="m0003" participant="131523" time="2013-06-06 15:36:55 UTC">
+      <body>Working man... got crazy stuff going on today</body>
+    </message>
+  </messages>
+</conversation>

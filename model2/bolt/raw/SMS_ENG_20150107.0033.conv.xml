@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 19:05:05 UTC" participant="153900">
+      <body>Are you ready for tomorrow</body>
+    </message>
+    <message id="m0001" time="2015-01-07 19:38:46 UTC" participant="153244">
+      <body>As ready as I can be lol. Im a nervous wreck. </body>
+    </message>
+    <message id="m0002" time="2015-01-07 20:30:32 UTC" participant="153900">
+      <body>Will you be sleeping during it</body>
+    </message>
+    <message id="m0003" time="2015-01-07 21:19:06 UTC" participant="153244">
+      <body>No ill be awake but they are going to put drops in my eyes to numb them</body>
+    </message>
+    <message id="m0004" time="2015-01-07 21:19:34 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2015-01-08 16:58:39 UTC" participant="153900">
+      <body>Hey how are you holding up</body>
+    </message>
+    <message id="m0006" time="2015-01-08 17:17:54 UTC" participant="153244">
+      <body>Getting more nervous now bec I just left work so now its like this is really happening! But two more hours</body>
+    </message>
+    <message id="m0007" time="2015-01-08 17:28:22 UTC" participant="153900">
+      <body>Just be calm and remember you will see better</body>
+    </message>
+    <message id="m0008" time="2015-01-08 17:37:43 UTC" participant="153244">
+      <body>Yea I know.. still nerve wrecking tho</body>
+    </message>
+    <message id="m0009" time="2015-01-08 18:22:14 UTC" participant="153900">
+      <body>Where do you have to go for the surgery</body>
+    </message>
+    <message id="m0010" time="2015-01-08 18:55:18 UTC" participant="153900">
+      <body>When you done let 63 know</body>
+    </message>
+    <message id="m0011" time="2015-01-08 18:55:36 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" time="2015-01-08 18:55:45 UTC" participant="153244">
+      <body>I just got here. They are starting testing soon</body>
+    </message>
+    <message id="m0013" time="2015-01-08 18:56:54 UTC" participant="153900">
+      <body>Are you in the city or jersey</body>
+    </message>
+    <message id="m0014" time="2015-01-08 19:03:39 UTC" participant="153244">
+      <body>Jersey</body>
+    </message>
+  </messages>
+</conversation>
+

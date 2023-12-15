@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2012-09-06 19:25:29 UTC">
+      <body>Hi darnelle, this is Kennedy. I will be 5-10 minutes late, very sorry</body>
+    </message>
+    <message id="m0001" participant="130924" time="2012-09-06 19:26:56 UTC">
+      <body>Not a problem. See you soon. </body>
+    </message>
+  </messages>
+</conversation>

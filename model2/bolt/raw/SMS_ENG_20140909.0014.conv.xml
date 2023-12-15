@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140909.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-09 20:58:35 UTC" participant="153548">
+      <body>Hey! I'm gonna head to iHouse at 6:30ish. You wanna ride? I might meet up with Katya after if they are still out, you should come!</body>
+    </message>
+    <message id="m0001" time="2014-09-09 21:01:57 UTC" participant="153640">
+      <body>I'm having dinner with new faculty. Save seat? But may also be strange because I don't kno who to sit with. (Work expectations)</body>
+    </message>
+    <message id="m0002" time="2014-09-09 21:02:33 UTC" participant="153548">
+      <body>New faculty! No probs! I'll save you a seat just in case.</body>
+    </message>
+  </messages>
+</conversation>
+

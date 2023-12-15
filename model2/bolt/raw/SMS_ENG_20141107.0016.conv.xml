@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 15:50:30 UTC" participant="153591">
+      <body>can I come visit tomorrow </body>
+    </message>
+    <message id="m0001" time="2014-11-07 16:32:22 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-11-07 16:55:22 UTC" participant="153591">
+      <body>then I will, </body>
+    </message>
+    <message id="m0003" time="2014-11-07 17:07:12 UTC" participant="153591">
+      <body>I'll leave around 9ish so  I can be up there by lunch, what's your new address </body>
+    </message>
+    <message id="m0005" time="2014-11-07 22:14:40 UTC" participant="153591">
+      <body>does that time free work</body>
+    </message>
+    <message id="m0006" time="2014-11-07 22:14:55 UTC" participant="153591">
+      <body>frame</body>
+    </message>
+    <message id="m0007" time="2014-11-07 22:15:04 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2014-11-07 22:15:26 UTC" participant="153591">
+      <body>sweet</body>
+    </message>
+    <message id="m0009" time="2014-11-07 22:16:21 UTC" participant="153547">
+      <body>We're not getting Indian buffet for lunch because it will only disapoint</body>
+    </message>
+    <message id="m0010" time="2014-11-07 22:16:49 UTC" participant="153591">
+      <body>haha no worries</body>
+    </message>
+    <message id="m0011" time="2014-11-08 00:47:43 UTC" participant="153547">
+      <body>Are you staying the night? I got a bed in my studio. We can have a fire in the yard!</body>
+    </message>
+    <message id="m0012" time="2014-11-08 00:51:36 UTC" participant="153591">
+      <body>awww I would love that but I have to be back in Baltimore for a show around 10</body>
+    </message>
+  </messages>
+</conversation>
+

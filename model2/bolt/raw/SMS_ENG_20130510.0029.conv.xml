@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-05-10 20:40:19 UTC">
+      <body>Hey hey we're still on for yoga right?</body>
+    </message>
+    <message id="m0001" participant="131468" time="2013-05-10 20:47:48 UTC">
+      <body>Yes ma'am! </body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-05-10 20:48:47 UTC">
+      <body>Okay, excellent! </body>
+    </message>
+  </messages>
+</conversation>

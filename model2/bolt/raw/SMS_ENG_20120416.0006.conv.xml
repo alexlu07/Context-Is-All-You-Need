@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120416.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131322" time="2012-04-16 19:41:52 UTC">
+      <body>You wanna go to pacers game?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-16 19:43:59 UTC">
+      <body>Possibly, what day?</body>
+    </message>
+    <message id="m0002" participant="131322" time="2012-04-16 19:44:00 UTC">
+      <body>Tomorrow, really cheap tickets on cl, last home game I think</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-16 19:45:54 UTC">
+      <body>Word, I might be working in NYC tomm so I'll hit you up shortly</body>
+    </message>
+    <message id="m0004" participant="131322" time="2012-04-16 19:46:08 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="131322" time="2012-04-16 19:50:24 UTC">
+      <body>We gotta get 8 seed to face bulls. Knicks have a better shot at the heat </body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-04-16 20:00:39 UTC">
+      <body>Very true. That game last was pretty evenly matched</body>
+    </message>
+    <message id="m0007" participant="130692" time="2012-04-16 21:19:41 UTC">
+      <body>I'm not going to be able to go to the game, thanks for asking though</body>
+    </message>
+  </messages>
+</conversation>

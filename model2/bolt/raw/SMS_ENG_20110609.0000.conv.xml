@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110609.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-09 16:01:23 UTC">
+      <body>Baby what are your special salas ingredients again?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-09 16:01:26 UTC">
+      <body>Salad</body>
+    </message>
+    <message id="m0002" participant="135096" time="2011-06-09 16:05:00 UTC">
+      <body>Large can of garbanzo beans, spinach, feta, red bell pepper, minced garlic, olive oil, lemon juice, a lot of cumin, salt &amp; pepper to taste. </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-09 17:08:49 UTC">
+      <body>Just made it! Yummmmmmy num nuns</body>
+    </message>
+    <message id="m0004" participant="135096" time="2011-06-09 17:09:27 UTC">
+      <body>Yes!!!!!!!!</body>
+    </message>
+  </messages>
+</conversation>

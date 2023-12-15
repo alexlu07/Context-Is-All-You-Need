@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-06-13 00:06:18 UTC">
+      <body>You going to Carl Bach party?</body>
+    </message>
+    <message id="m0001" participant="136642" time="2013-06-13 00:07:39 UTC">
+      <body>I was planning on it, but I just realized today that it will be Ramadan.</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-06-13 00:18:43 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-13 00:19:10 UTC">
+      <body>When is Ramadan</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-13 00:48:14 UTC">
+      <body>Nvrmnd</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-06-13 02:11:03 UTC">
+      <body>Any update on when yall plan to do the post wedding dinner pictures thing?</body>
+    </message>
+    <message id="m0006" participant="136642" time="2013-06-13 11:38:13 UTC">
+      <body>July 6th in NY. Y'all around that weekend?</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-06-13 12:27:35 UTC">
+      <body>Ya. </body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-06-13 12:33:04 UTC">
+      <body>Actually was hoping to do it same time but not sure what you already have planned</body>
+    </message>
+    <message id="m0009" participant="130693" time="2013-06-13 13:39:44 UTC">
+      <body>Let me know asap if we can do both same day/night</body>
+    </message>
+    <message id="m0010" participant="136642" time="2013-06-13 15:08:57 UTC">
+      <body>I'll give you a call this evening</body>
+    </message>
+    <message id="m0011" participant="130693" time="2013-06-13 15:10:18 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130511.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-11 17:35:30 UTC">
+      <body>Hi! I miss you! How are you?</body>
+    </message>
+    <message id="m0001" participant="135271" time="2013-05-11 17:42:07 UTC">
+      <body>Good. I was gonna call you today. When's a good time?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-11 17:42:49 UTC">
+      <body>Now? I have stuff starting at 5</body>
+    </message>
+    <message id="m0003" participant="135271" time="2013-05-11 17:43:46 UTC">
+      <body>I'm out shopping with my dad. So I'll call when I'm home. It'll be well before 5</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-11 17:44:09 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-26 18:34:38 UTC">
+      <body>Hey there! I just talked to Fairleigh...I feel like we are good but I haven't talked to you directly at all and I feel like this is silly :P regardless I miss you! So maybe sometime tomorrow we can walk to saxbys and get coffee and catch up? :)</body>
+    </message>
+    <message id="m0001" participant="135268" time="2013-01-26 18:39:01 UTC">
+      <body>Yeah sure! I'd like to hang out</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-26 18:41:59 UTC">
+      <body>Sweet :) are you around tomorrow afternoon? Like maybe 3? But I'm free all day so if not you name a time :)</body>
+    </message>
+    <message id="m0003" participant="135268" time="2013-01-26 18:48:40 UTC">
+      <body>I think I am! I'll plan to be at least :)</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-26 18:48:59 UTC">
+      <body>Excellent :D</body>
+    </message>
+    <message id="m0005" participant="135268" time="2013-01-27 18:40:41 UTC">
+      <body>Hey! Still wanna grab coffee, chat, and work?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-01-27 18:42:58 UTC">
+      <body>Yes! What time?</body>
+    </message>
+    <message id="m0007" participant="135268" time="2013-01-27 18:46:08 UTC">
+      <body>I'll be on a 230 bus back to Haverford. I'll text you when I get off at Haverford and we can meet in front of sharpless?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-01-27 18:47:01 UTC">
+      <body>Sounds good :)</body>
+    </message>
+    <message id="m0009" participant="135268" time="2013-01-27 19:39:43 UTC">
+      <body>At stokes. Walking to sharpless now</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-01-27 19:41:53 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0011" participant="135268" time="2013-01-27 19:53:08 UTC">
+      <body>Where are ya?</body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-01-27 19:53:27 UTC">
+      <body>Ryan</body>
+    </message>
+  </messages>
+</conversation>

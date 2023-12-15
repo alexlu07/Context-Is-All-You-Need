@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2013-06-19 22:41:04 UTC">
+      <body>Everything ok miss Sofie?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-19 22:47:04 UTC">
+      <body>Yes dear!!! I haven't even left school yet.... I'm do sorry.  I forgot!!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-19 22:47:13 UTC">
+      <body>I'm still working ;(</body>
+    </message>
+    <message id="m0003" participant="135414" time="2013-06-20 12:03:12 UTC">
+      <body>You're doing the program, aren't you?!</body>
+    </message>
+    <message id="m0004" participant="135414" time="2013-06-20 12:07:28 UTC">
+      <body>Haha I must have passed you and not even noticed!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131964" time="2013-05-22 02:50:02 UTC">
+      <body>Hey Bill, afraid not, booked all day tomorrow</body>
+    </message>
+    <message id="m0002" participant="131975" time="2013-05-22 03:31:12 UTC">
+      <body>Sorry for last minute. Maybe the 28th?</body>
+    </message>
+  </messages>
+</conversation>

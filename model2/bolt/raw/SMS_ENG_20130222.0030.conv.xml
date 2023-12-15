@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-22 17:05:59 UTC">
+      <body>Would you be available next Friday? </body>
+    </message>
+    <message id="m0001" participant="134290" time="2013-02-22 17:17:41 UTC">
+      <body>Hi Casey, I can babysit next Friday!</body>
+    </message>
+  </messages>
+</conversation>

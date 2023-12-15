@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0095" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137261" time="2013-05-24 03:32:43 UTC">
+      <body>Hey mom contact me here its soraya </body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-24 03:33:17 UTC">
+      <body>When are you coming home</body>
+    </message>
+    <message id="m0002" participant="137261" time="2013-05-24 03:33:50 UTC">
+      <body>In about 15</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-24 03:34:06 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-24 03:34:15 UTC">
+      <body>Goodnight </body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-05-24 03:34:28 UTC">
+      <body>I love you</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140117.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-17 13:08:58 UTC" participant="153491">
+      <body>I'm not that sleepy. If only it was that simply. </body>
+    </message>
+    <message id="m0001" time="2014-01-17 13:09:04 UTC" participant="153491">
+      <body>*simple</body>
+    </message>
+    <message id="m0002" time="2014-01-17 15:08:56 UTC" participant="152116">
+      <body>I hope you're sleeping now</body>
+    </message>
+    <message id="m0003" time="2014-01-18 02:06:47 UTC" participant="153491">
+      <body>Are you working?</body>
+    </message>
+  </messages>
+</conversation>
+

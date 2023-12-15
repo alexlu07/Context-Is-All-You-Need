@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141002.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-02 19:07:40 UTC" participant="152374">
+      <body>Well, if you're going to be late you might not want to go at all, because people may no longer be at the meetup spot!</body>
+    </message>
+    <message id="m0001" time="2014-10-02 19:08:58 UTC" participant="153549">
+      <body>Good point. I will try to be punctual.</body>
+    </message>
+    <message id="m0002" time="2014-10-02 22:14:49 UTC" participant="152374">
+      <body>Ha ha. He lives down there. I LOVE ###. He's one of my favorite players </body>
+    </message>
+    <message id="m0003" time="2014-10-02 22:15:08 UTC" participant="153549">
+      <body>His dog is sooooo cute</body>
+    </message>
+    <message id="m0004" time="2014-10-02 22:16:02 UTC" participant="152374">
+      <body>####! Yes he is. Ha ha </body>
+    </message>
+  </messages>
+</conversation>
+

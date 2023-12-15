@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140414.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-14 15:12:25 UTC" participant="153678">
+      <body>Whatcha thinking about yoga tonight? It's at 7 tonight and 6 on Thursday (both with Stephen!) </body>
+    </message>
+    <message id="m0001" time="2014-04-14 15:44:49 UTC" participant="153548">
+      <body>I am totally in for tonight if you are!</body>
+    </message>
+    <message id="m0002" time="2014-04-14 15:48:58 UTC" participant="153678">
+      <body>Yes! Let's do it. </body>
+    </message>
+    <message id="m0003" time="2014-04-14 15:50:22 UTC" participant="153548">
+      <body>Cooool!! I can meet you at 50th and Baltimore on my bike!</body>
+    </message>
+    <message id="m0004" time="2014-04-14 15:50:50 UTC" participant="153678">
+      <body>Perfect!! What time? </body>
+    </message>
+    <message id="m0005" time="2014-04-14 15:51:05 UTC" participant="153548">
+      <body>6:40? 6:45?</body>
+    </message>
+    <message id="m0006" time="2014-04-14 15:51:28 UTC" participant="153678">
+      <body>I will bike too so let's do 645, that should get us there in time</body>
+    </message>
+    <message id="m0007" time="2014-04-14 15:52:33 UTC" participant="153548">
+      <body>Perfect! I'll see you then. </body>
+    </message>
+  </messages>
+</conversation>
+

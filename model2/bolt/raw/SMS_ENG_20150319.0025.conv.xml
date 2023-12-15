@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150319.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-19 20:57:50 UTC" participant="153645">
+      <body>Are we still on for Saturday? </body>
+    </message>
+    <message id="m0001" time="2015-03-19 20:58:18 UTC" participant="153548">
+      <body>Yep! Can we do 11?</body>
+    </message>
+    <message id="m0002" time="2015-03-19 20:58:40 UTC" participant="153645">
+      <body>Sure! I am free till around 2! </body>
+    </message>
+    <message id="m0003" time="2015-03-19 20:58:40 UTC" participant="153645">
+      <body>Me too!! It's been so long! </body>
+    </message>
+    <message id="m0004" time="2015-03-19 20:59:02 UTC" participant="153548">
+      <body>Perfect! Looking forward to it!</body>
+    </message>
+    <message id="m0005" time="2015-03-19 21:00:00 UTC" participant="153645">
+      <body>And was it just your bday?? </body>
+    </message>
+    <message id="m0006" time="2015-03-19 21:09:59 UTC" participant="153548">
+      <body>On the 14th. </body>
+    </message>
+    <message id="m0007" time="2015-03-19 21:10:22 UTC" participant="153548">
+      <body>Went to DC for the weekend. It was fun.</body>
+    </message>
+    <message id="m0008" time="2015-03-19 21:11:27 UTC" participant="153645">
+      <body>Happy birthday! </body>
+    </message>
+    <message id="m0009" time="2015-03-19 21:44:54 UTC" participant="153548">
+      <body>Thanks!!!</body>
+    </message>
+  </messages>
+</conversation>
+

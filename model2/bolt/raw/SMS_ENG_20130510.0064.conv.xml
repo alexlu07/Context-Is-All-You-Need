@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-10 13:54:08 UTC" participant="152535">
+      <body>Hey! Which song is first on your set list for the sixth grade jazz band?</body>
+    </message>
+    <message id="m0001" time="2013-05-10 13:59:39 UTC" participant="152417">
+      <body>I think we'll do lux aeterna and then Bella Ciao</body>
+    </message>
+    <message id="m0002" time="2013-05-10 14:00:32 UTC" participant="152535">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>
+

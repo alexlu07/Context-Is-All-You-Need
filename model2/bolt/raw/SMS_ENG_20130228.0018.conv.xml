@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131205" time="2013-02-28 14:41:00 UTC">
+      <body>i need to crawl to the couch...i'm sooo tiiiirrreeeddd</body>
+    </message>
+    <message id="m0001" participant="131205" time="2013-02-28 14:41:04 UTC">
+      <body>i knowww!!</body>
+    </message>
+    <message id="m0002" participant="131205" time="2013-02-28 14:41:04 UTC">
+      <body>where are you in relation to the couch?</body>
+    </message>
+    <message id="m0003" participant="131205" time="2013-02-28 14:41:04 UTC">
+      <body>in time and space</body>
+    </message>
+    <message id="m0004" participant="130664" time="2013-02-28 14:42:05 UTC">
+      <body>It's so far away!!</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-02-28 14:44:02 UTC">
+      <body>So so so far. I'm at the coffee shop by my house, I will be at school at 11:30 to meet my prof</body>
+    </message>
+  </messages>
+</conversation>

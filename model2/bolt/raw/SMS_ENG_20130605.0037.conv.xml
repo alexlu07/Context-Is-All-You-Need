@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-05 23:16:32 UTC">
+      <body>Just left and realized I need to bring biz card bowl back to room since we check out in the morning.  Can you bring it back with you? </body>
+    </message>
+    <message id="m0001" participant="134283" time="2013-06-06 00:14:55 UTC">
+      <body>You are missing happy hour</body>
+    </message>
+    <message id="m0002" participant="134283" time="2013-06-06 00:23:36 UTC">
+      <body>Yes. Got it</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-06 00:24:32 UTC">
+      <body>Happy hour where? </body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-06-06 00:28:23 UTC">
+      <body>Haha. Of course I come back to catch up a bit and miss free beer</body>
+    </message>
+    <message id="m0005" participant="134283" time="2013-06-06 00:29:30 UTC">
+      <body>It closes at 6 tonight. I'll have one for you</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-06-06 00:29:50 UTC">
+      <body>Thanks. </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-06-06 00:30:36 UTC">
+      <body>What are we doing about the cocktail hour? Just head over around 7?</body>
+    </message>
+    <message id="m0008" participant="134283" time="2013-06-06 00:32:08 UTC">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0009" participant="134283" time="2013-06-06 00:32:11 UTC">
+      <body>Sound okay?</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-06-06 00:32:32 UTC">
+      <body>Works for me</body>
+    </message>
+    <message id="m0011" participant="134283" time="2013-06-06 18:26:22 UTC">
+      <body>Want to meet me at 1135 to pick out 2014 booth?</body>
+    </message>
+    <message id="m0012" participant="130979" time="2013-06-06 18:38:58 UTC">
+      <body>On my way </body>
+    </message>
+  </messages>
+</conversation>

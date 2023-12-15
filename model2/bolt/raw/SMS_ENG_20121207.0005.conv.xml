@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121207.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-12-07 19:20:20 UTC">
+      <body>￼Jojo put him fish in a pink clog.</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-12-07 19:23:41 UTC">
+      <body>He's claiming that clog</body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-12-07 23:57:03 UTC">
+      <body>Are you at pageant?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-12-07 23:59:46 UTC">
+      <body>I'm meeting a friend at royal, we are going after. Are you off tonight?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2012-12-08 00:01:06 UTC">
+      <body>I'm getting off soonish. Having a drink with Pete at cantina... Be I touch?</body>
+    </message>
+    <message id="m0005" participant="131055" time="2012-12-08 00:01:10 UTC">
+      <body>In </body>
+    </message>
+    <message id="m0006" participant="130664" time="2012-12-08 00:01:42 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0007" participant="131055" time="2012-12-08 01:45:33 UTC">
+      <body>You at pageant?</body>
+    </message>
+    <message id="m0008" participant="130664" time="2012-12-08 01:49:08 UTC">
+      <body>No finishing beers at royal and then heading over</body>
+    </message>
+    <message id="m0009" participant="131055" time="2012-12-08 02:02:12 UTC">
+      <body>I will be near royal in 10minues</body>
+    </message>
+    <message id="m0010" participant="130664" time="2012-12-08 02:06:51 UTC">
+      <body>No we are walking to pagaent</body>
+    </message>
+    <message id="m0011" participant="130664" time="2012-12-08 04:49:42 UTC">
+      <body>It was good seeing you</body>
+    </message>
+  </messages>
+</conversation>

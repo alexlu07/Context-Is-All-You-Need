@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140624.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-24 02:59:58 UTC" participant="153562">
+      <body>Hey bro. Tomorrow after work is good. 6?</body>
+    </message>
+    <message id="m0001" time="2014-06-24 12:03:16 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-06-24 21:11:50 UTC" participant="153547">
+      <body>Are u still on for 6?</body>
+    </message>
+    <message id="m0003" time="2014-06-24 21:22:32 UTC" participant="153562">
+      <body>Yep! On way home now</body>
+    </message>
+  </messages>
+</conversation>
+

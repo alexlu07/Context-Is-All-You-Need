@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137419" time="2013-05-25 20:30:49 UTC">
+      <body>Hey. I got those supplies ready if you or irra are looking to stop by sometime</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-05-25 21:15:45 UTC">
+      <body>Cool are u around tomorrow? </body>
+    </message>
+    <message id="m0002" participant="137419" time="2013-05-25 21:23:21 UTC">
+      <body>At night</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-05-25 21:31:43 UTC">
+      <body>What about today in a hour? </body>
+    </message>
+    <message id="m0004" participant="137419" time="2013-05-25 21:32:35 UTC">
+      <body>Yes im home </body>
+    </message>
+    <message id="m0005" participant="131838" time="2013-05-25 22:19:04 UTC">
+      <body>Irra will hit u up. She'll be there like 7:30, is that ok?</body>
+    </message>
+    <message id="m0006" participant="137419" time="2013-05-25 22:21:26 UTC">
+      <body>Yes what's her number? </body>
+    </message>
+  </messages>
+</conversation>

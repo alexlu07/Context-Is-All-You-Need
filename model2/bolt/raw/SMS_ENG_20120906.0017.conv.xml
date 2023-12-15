@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-06 18:34:26 UTC">
+      <body>How are you enjoying smith?</body>
+    </message>
+    <message id="m0001" participant="136216" time="2012-09-06 23:36:32 UTC">
+      <body>I'm loving it! How's it going down south? </body>
+    </message>
+  </messages>
+</conversation>

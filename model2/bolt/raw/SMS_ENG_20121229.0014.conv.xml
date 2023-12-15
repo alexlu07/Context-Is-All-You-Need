@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136204" time="2012-12-29 20:55:08 UTC">
+      <body>What are you doing tonight?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-29 21:04:58 UTC">
+      <body>I'm not sure yet. Why</body>
+    </message>
+    <message id="m0002" participant="136204" time="2012-12-29 21:05:04 UTC">
+      <body>Because I'm not sure yet either</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110909.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-09-09 21:56:05 UTC">
+      <body>Sp when are you coming down to Princeton, Roberto?</body>
+    </message>
+    <message id="m0001" participant="131831" time="2011-09-09 21:56:26 UTC">
+      <body>Tmrw</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-09-09 21:57:31 UTC">
+      <body>Staying in the room?</body>
+    </message>
+    <message id="m0003" participant="131831" time="2011-09-09 21:57:56 UTC">
+      <body>Prob at tower</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-09-09 21:58:20 UTC">
+      <body>Lol sounds like you won't sleep much at all then</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-09-09 22:43:53 UTC">
+      <body>I like how you're the only person on all the posters</body>
+    </message>
+    <message id="m0006" participant="131821" time="2011-09-10 05:00:19 UTC">
+      <body>Porches suck don't even bother coming</body>
+    </message>
+    <message id="m0007" participant="131821" time="2011-09-11 04:47:49 UTC">
+      <body>Robbbb</body>
+    </message>
+    <message id="m0008" participant="131821" time="2011-09-11 05:22:02 UTC">
+      <body>When are you leaving</body>
+    </message>
+  </messages>
+</conversation>

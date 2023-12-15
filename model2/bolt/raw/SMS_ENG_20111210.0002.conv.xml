@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111210.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2011-12-10 02:50:52 UTC">
+      <body>If u guys r coming for movie night don't come until 10 20!! </body>
+    </message>
+    <message id="m0001" participant="131825" time="2011-12-10 21:35:16 UTC">
+      <body>Ready</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-12-10 21:36:35 UTC">
+      <body>Yay wanna meet where we do for Chen?</body>
+    </message>
+    <message id="m0003" participant="131825" time="2011-12-10 21:37:24 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-12-10 21:37:58 UTC">
+      <body>At be there in 1</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120825.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-08-25 01:07:32 UTC">
+      <body>What's up?</body>
+    </message>
+    <message id="m0001" participant="131173" time="2012-08-25 16:18:57 UTC">
+      <body>Do you have the internet? Look up queen victoria by l cohen, make sure to listen to the whole poem, the finishing lines are incredible.</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-08-25 18:30:58 UTC">
+      <body>It's beautiful, I've stared at the ceiling to this before. Are you feeling morose?</body>
+    </message>
+  </messages>
+</conversation>

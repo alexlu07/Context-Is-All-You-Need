@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140506.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-06 16:45:38 UTC" participant="152417">
+      <body>Your bass is ready, if you want to pick it up.  I can pay for it</body>
+    </message>
+    <message id="m0001" time="2014-05-06 16:46:12 UTC" participant="152560">
+      <body>Sorry I can't...</body>
+    </message>
+    <message id="m0002" time="2014-05-06 16:46:41 UTC" participant="152417">
+      <body>Ok, i can get it later then</body>
+    </message>
+  </messages>
+</conversation>
+

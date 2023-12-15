@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121005.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-05 21:51:02 UTC" participant="152417">
+      <body>Hey, could you invite emma to honk for me, or pass along her number</body>
+    </message>
+    <message id="m0001" time="2012-10-06 17:37:58 UTC" participant="152417">
+      <body>Yes no?</body>
+    </message>
+    <message id="m0002" time="2012-10-06 21:10:33 UTC" participant="152419">
+      <body>Yes! </body>
+    </message>
+    <message id="m0003" time="2012-10-06 21:10:55 UTC" participant="152419">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

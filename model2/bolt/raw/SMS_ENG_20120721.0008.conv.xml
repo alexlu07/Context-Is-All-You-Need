@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120721.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135498" time="2012-07-21 00:55:28 UTC">
+      <body>Coming home tonite?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-21 00:57:11 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135498" time="2012-07-21 00:57:36 UTC">
+      <body> Yippee!</body>
+    </message>
+  </messages>
+</conversation>

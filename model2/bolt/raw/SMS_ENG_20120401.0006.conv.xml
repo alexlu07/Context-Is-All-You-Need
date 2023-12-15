@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120401.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-01 19:30:45 UTC">
+      <body>Word, enjoy</body>
+    </message>
+    <message id="m0001" participant="131328" time="2012-04-01 19:31:12 UTC">
+      <body>Just received a surprise visit from my parents, I'll have to miss the BBQ tonight</body>
+    </message>
+  </messages>
+</conversation>

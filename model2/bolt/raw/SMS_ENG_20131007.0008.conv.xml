@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131007.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-07 22:29:25 UTC" participant="153418">
+      <body>Jim, I'm expecting to be in Baltimore around 1PM on Wednesday. I might be later since I'll be driving a Uhaul for the first time. </body>
+    </message>
+    <message id="m0001" time="2013-10-08 21:54:47 UTC" participant="153448">
+      <body>
+John,
+I have a doc appointment at 2 so will not be there. Call James and he will have the key for you. I will forward his number to you. 
+Have fun drivi</body>
+    </message>
+    <message id="m0002" time="2013-10-08 21:54:58 UTC" participant="153448">
+      <body>ng the U-Haul!
+Jim</body>
+    </message>
+    <message id="m0003" time="2013-10-08 22:00:19 UTC" participant="153418">
+      <body>Thanks for letting me know. Could you text me his number? I didn't get the last thing you sent properly. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-06 23:24:11 UTC">
+      <body>hi katy! i got your number from brian crump, who said you wanted to come to church at intown tomorrow? is that still true? </body>
+    </message>
+    <message id="m0001" participant="136375" time="2013-04-06 23:50:15 UTC">
+      <body>I actually can't go tomorrow, i have a conflict. But i definitely want to go.next week!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-06 23:50:26 UTC">
+      <body>okay! </body>
+    </message>
+    <message id="m0003" participant="136375" time="2013-04-06 23:51:48 UTC">
+      <body>Thanks! Who is this btw?</body>
+    </message>
+    <message id="m0005" participant="136375" time="2013-04-06 23:56:40 UTC">
+      <body>Haha. Okay well thanks for offering the ride! I'll definitely go to church next week :)</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-04-06 23:57:24 UTC">
+      <body>cool, i'll check back with you next week! </body>
+    </message>
+  </messages>
+</conversation>

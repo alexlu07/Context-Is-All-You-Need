@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120130.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-01-30 17:46:37 UTC">
+      <body>A what?</body>
+    </message>
+    <message id="m0001" participant="131828" time="2012-01-30 17:46:40 UTC">
+      <body>Did you ever use a Portland Loo?</body>
+    </message>
+    <message id="m0002" participant="131828" time="2012-01-30 17:46:40 UTC">
+      <body>In Portland the public toilets </body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-01-30 17:54:49 UTC">
+      <body>I haven't</body>
+    </message>
+    <message id="m0004" participant="131828" time="2012-01-30 17:55:12 UTC">
+      <body>Darn. We are talking about them in my urban geography class</body>
+    </message>
+    <message id="m0005" participant="131828" time="2012-01-30 17:55:12 UTC">
+      <body>Haha ok </body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-01-30 17:55:59 UTC">
+      <body>Lolz well I never really went downtown in Pitland</body>
+    </message>
+  </messages>
+</conversation>

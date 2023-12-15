@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 12:17:32 UTC" participant="153268">
+      <body>Where are you???</body>
+    </message>
+    <message id="m0001" time="2014-06-11 12:17:54 UTC" participant="152734">
+      <body>...on the train. Where are you?</body>
+    </message>
+    <message id="m0002" time="2014-06-11 12:22:06 UTC" participant="153268">
+      <body>At work...dad said you were on Vt?</body>
+    </message>
+    <message id="m0003" time="2014-06-11 12:25:26 UTC" participant="152734">
+      <body>I was there over the weekend! It was lovely. ￼</body>
+    </message>
+    <message id="m0004" time="2014-06-11 12:26:40 UTC" participant="153268">
+      <body>Pretty! You get around! Ttyl</body>
+    </message>
+  </messages>
+</conversation>
+

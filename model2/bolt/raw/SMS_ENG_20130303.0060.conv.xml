@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-03 20:30:50 UTC" participant="152424">
+      <body>I got into Penn!!!</body>
+    </message>
+    <message id="m0001" time="2013-03-03 20:31:10 UTC" participant="152417">
+      <body>Mazel tov!</body>
+    </message>
+    <message id="m0002" time="2013-03-03 20:31:19 UTC" participant="152424">
+      <body>thanks!!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-04 21:52:36 UTC" participant="152560">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" time="2013-04-04 21:52:59 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" time="2013-04-04 21:53:20 UTC" participant="152560">
+      <body>Wanna walk the girls?</body>
+    </message>
+    <message id="m0003" time="2013-04-04 21:55:01 UTC" participant="152417">
+      <body>Im feeding simone now, wanna meet me here?</body>
+    </message>
+    <message id="m0004" time="2013-04-04 21:55:09 UTC" participant="152560">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" time="2013-04-04 23:49:28 UTC" participant="152417">
+      <body>Wanna help cook?</body>
+    </message>
+    <message id="m0006" time="2013-04-04 23:53:10 UTC" participant="152560">
+      <body>Sure-let me just finish up my work.</body>
+    </message>
+    <message id="m0007" time="2013-04-05 13:29:55 UTC" participant="152560">
+      <body>You're the apple of my eye.</body>
+    </message>
+    <message id="m0008" time="2013-04-05 13:42:49 UTC" participant="152417">
+      <body>You're the peach of my mind</body>
+    </message>
+    <message id="m0009" time="2013-04-05 15:02:30 UTC" participant="152417">
+      <body>Time flies like an arrow, fruit flies like a banana</body>
+    </message>
+  </messages>
+</conversation>
+

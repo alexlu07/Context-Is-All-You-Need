@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140211.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-11 13:29:56 UTC" participant="153547">
+      <body>Hey, I was going to swing by plaza at 9am to get more paper and then to PU to drop it off if you are around </body>
+    </message>
+    <message id="m0001" time="2014-02-11 13:32:48 UTC" participant="153559">
+      <body>I won't be getting in there till 10:30 </body>
+    </message>
+    <message id="m0002" time="2014-02-11 13:34:34 UTC" participant="153547">
+      <body>Ok. I will swing by around 1030 then if that is ok. Sorry for the early message</body>
+    </message>
+    <message id="m0003" time="2014-02-11 13:34:56 UTC" participant="153559">
+      <body>Sounds good and I've been up since 6 so not to early </body>
+    </message>
+    <message id="m0004" time="2014-02-11 15:25:24 UTC" participant="153547">
+      <body> I'm running late I'll be there around 11. </body>
+    </message>
+    <message id="m0005" time="2014-02-11 15:28:00 UTC" participant="153559">
+      <body>Cool</body>
+    </message>
+    <message id="m0006" time="2014-02-11 16:14:28 UTC" participant="153559">
+      <body>Let me know when you pull up so I can give you the parking pass </body>
+    </message>
+    <message id="m0007" time="2014-02-11 16:15:07 UTC" participant="153547">
+      <body>K. Bout 10 or so</body>
+    </message>
+    <message id="m0008" time="2014-02-11 16:15:51 UTC" participant="153559">
+      <body>Aweright </body>
+    </message>
+    <message id="m0009" time="2014-02-11 16:24:14 UTC" participant="153547">
+      <body>Pulling up</body>
+    </message>
+  </messages>
+</conversation>
+

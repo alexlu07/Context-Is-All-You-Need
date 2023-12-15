@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 02:57:04 UTC" participant="153302">
+      <body>You're welcome, sorry it's not better!</body>
+    </message>
+    <message id="m0001" time="2014-12-31 00:53:20 UTC" participant="153302">
+      <body>Would you be ok with taking care of the horses in the morning? I can if not. Just thinking I might not make it to work on time if I do. No problem if you can't though!!!!</body>
+    </message>
+    <message id="m0002" time="2014-12-31 00:55:28 UTC" participant="153302">
+      <body>Thank you!</body>
+    </message>
+    <message id="m0003" time="2014-12-31 00:56:23 UTC" participant="152734">
+      <body>I've got em, no worries! </body>
+    </message>
+  </messages>
+</conversation>
+

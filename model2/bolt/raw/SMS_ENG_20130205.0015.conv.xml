@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-05 20:51:13 UTC">
+      <body>everything's fine.
+q's at home.</body>
+    </message>
+    <message id="m0001" participant="131357" time="2013-02-05 20:51:59 UTC">
+      <body>Thank you.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-05 21:03:12 UTC">
+      <body>i'd like to talk to you about this later, if possible.  call me on your way home.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-05 21:56:18 UTC">
+      <body>nevermind. i'll talk to you later tonight.</body>
+    </message>
+    <message id="m0004" participant="131357" time="2013-02-05 22:18:13 UTC">
+      <body>Just got your messaage.</body>
+    </message>
+    <message id="m0005" participant="131357" time="2013-02-05 22:20:00 UTC">
+      <body>Totally availble for next 30mins if you wanna/have time to talk</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130680" time="2013-05-27 17:15:44 UTC">
+      <body>hey there, what's up?</body>
+    </message>
+    <message id="m0001" participant="130677" time="2013-05-27 17:42:25 UTC">
+      <body>Hi, happy Memorial Day!</body>
+    </message>
+    <message id="m0002" participant="130680" time="2013-05-27 21:01:08 UTC">
+      <body>happy memorial day! did you cook out or anything?</body>
+    </message>
+    <message id="m0003" participant="130677" time="2013-05-27 21:02:22 UTC">
+      <body>I didn't. I was traveling. The airport was crazy! How about you?</body>
+    </message>
+    <message id="m0004" participant="130680" time="2013-05-27 21:03:54 UTC">
+      <body>me neither... i was driving home on the interstate from a friend's wedding, in maryland.</body>
+    </message>
+    <message id="m0005" participant="130677" time="2013-05-27 21:05:35 UTC">
+      <body>I was in Maryland too!</body>
+    </message>
+    <message id="m0006" participant="130680" time="2013-05-27 21:07:26 UTC">
+      <body>oh funny!</body>
+    </message>
+    <message id="m0007" participant="130677" time="2013-05-27 21:08:38 UTC">
+      <body>Where in Maryland? I was in Baltimore</body>
+    </message>
+    <message id="m0008" participant="130680" time="2013-05-27 21:09:47 UTC">
+      <body>I was in Annapolis. What were you up to in Baltimore?</body>
+    </message>
+    <message id="m0009" participant="130677" time="2013-05-27 21:11:25 UTC">
+      <body>I was visiting my bff and exploring the city.</body>
+    </message>
+  </messages>
+</conversation>

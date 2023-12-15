@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131103.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-03 19:52:53 UTC" participant="154352">
+      <body>Now Halloween is definitely over</body>
+    </message>
+    <message id="m0001" time="2013-11-03 20:36:18 UTC" participant="154410">
+      <body>Right ;)</body>
+    </message>
+    <message id="m0002" time="2013-11-03 20:37:23 UTC" participant="154410">
+      <body>How was your weekend?</body>
+    </message>
+    <message id="m0003" time="2013-11-03 20:45:27 UTC" participant="154352">
+      <body>My weekend was great. How about you?</body>
+    </message>
+    <message id="m0004" time="2013-11-03 21:17:31 UTC" participant="154410">
+      <body>Good too</body>
+    </message>
+    <message id="m0005" time="2013-11-03 22:30:19 UTC" participant="154352">
+      <body>Did you see the photos of us with and without giant mustache?</body>
+    </message>
+    <message id="m0006" time="2013-11-03 23:59:58 UTC" participant="154410">
+      <body>Yes! ;)</body>
+    </message>
+    <message id="m0007" time="2013-11-04 18:13:05 UTC" participant="154352">
+      <body>;)</body>
+    </message>
+  </messages>
+</conversation>
+

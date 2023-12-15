@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-05 23:21:12 UTC" participant="152378">
+      <body>Hey you coming tonight?</body>
+    </message>
+    <message id="m0001" time="2013-01-05 23:21:51 UTC" participant="152374">
+      <body>? To what?</body>
+    </message>
+    <message id="m0002" time="2013-01-05 23:24:06 UTC" participant="152378">
+      <body>Its just a bunch of us hanging out in bars. Just come out</body>
+    </message>
+    <message id="m0003" time="2013-01-05 23:30:23 UTC" participant="152378">
+      <body>We won't all NE standing in a creepy circle. We spread out</body>
+    </message>
+    <message id="m0004" time="2013-01-05 23:31:37 UTC" participant="152374">
+      <body>I just feel weird crashing the birthday celebration of someone I don't know is all</body>
+    </message>
+    <message id="m0005" time="2013-01-05 23:32:14 UTC" participant="152378">
+      <body>Mmmkay</body>
+    </message>
+    <message id="m0006" time="2013-01-05 23:32:51 UTC" participant="152374">
+      <body>Have fun :-)</body>
+    </message>
+    <message id="m0007" time="2013-01-05 23:33:33 UTC" participant="152378">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

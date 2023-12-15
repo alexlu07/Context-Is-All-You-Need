@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 14:56:58 UTC" participant="153815">
+      <body>Are you walking this morning?</body>
+    </message>
+    <message id="m0001" time="2014-12-10 13:14:24 UTC" participant="153804">
+      <body>How's the road look?has it been plowed</body>
+    </message>
+    <message id="m0002" time="2014-12-10 13:15:33 UTC" participant="153804">
+      <body>Are you still putting out your trash today?</body>
+    </message>
+    <message id="m0003" time="2014-12-10 13:17:57 UTC" participant="153815">
+      <body>Hasnt been plowed since at least 6am. Road looks bad. Yes putting trash out. Roads could be okay when get to main roads. </body>
+    </message>
+    <message id="m0004" time="2014-12-10 13:19:20 UTC" participant="153815">
+      <body>I would change appt.</body>
+    </message>
+    <message id="m0005" time="2014-12-10 14:22:49 UTC" participant="153804">
+      <body>Just got my driveway plowed out but roads have not been plowed what's that about?</body>
+    </message>
+    <message id="m0006" time="2014-12-10 14:23:06 UTC" participant="153804">
+      <body>Tom doesn't want to cancel so I guess we're going</body>
+    </message>
+    <message id="m0007" time="2014-12-10 14:23:25 UTC" participant="153804">
+      <body>thanks</body>
+    </message>
+    <message id="m0008" time="2014-12-10 14:24:24 UTC" participant="153815">
+      <body>Hopefully the other roads are plowed. Have a safe trip</body>
+    </message>
+  </messages>
+</conversation>
+

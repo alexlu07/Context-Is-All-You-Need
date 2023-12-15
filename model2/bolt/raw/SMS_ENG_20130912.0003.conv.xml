@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130912.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-12 22:43:13 UTC" participant="153472">
+      <body>U on ur way? Should we wait til the storm blows over or make a run for it?</body>
+    </message>
+    <message id="m0001" time="2013-09-12 22:55:59 UTC" participant="153472">
+      <body>On my way.</body>
+    </message>
+    <message id="m0002" time="2013-09-12 22:57:30 UTC" participant="152374">
+      <body>Sorry, I'm walking in now!</body>
+    </message>
+    <message id="m0003" time="2013-09-12 23:01:05 UTC" participant="153472">
+      <body>I'll be there soon.</body>
+    </message>
+    <message id="m0004" time="2013-09-12 23:07:20 UTC" participant="152374">
+      <body>Everything OK ?</body>
+    </message>
+  </messages>
+</conversation>
+

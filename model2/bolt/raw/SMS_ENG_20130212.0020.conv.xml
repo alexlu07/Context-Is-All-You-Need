@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-12 00:57:12 UTC">
+      <body>I'm in tomorrow for ball </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-02-12 01:32:56 UTC">
+      <body>I lied. Just found out I can't go. Sorry man. </body>
+    </message>
+    <message id="m0002" participant="134282" time="2013-02-12 01:52:05 UTC">
+      <body>It's all good. I have more then enough work to do. </body>
+    </message>
+  </messages>
+</conversation>

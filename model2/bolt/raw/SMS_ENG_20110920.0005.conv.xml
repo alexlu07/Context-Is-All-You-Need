@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110920.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2011-09-20 23:26:47 UTC">
+      <body>Hi! Did you get my email re the apt and deposit $? 
+Let me know if you think you can't send check here in time for when I leave on oct 1st. Hope you're great!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-20 23:27:58 UTC">
+      <body>Yes I did and i thought I had replied but maybe no? But no worries, I sent it off last week so it should be arriving shortly. :)</body>
+    </message>
+    <message id="m0002" participant="135140" time="2011-09-20 23:30:16 UTC">
+      <body>Oh great! Maybe you did.. I haven't had internet access and so only email on phone which is  dodgey. :)</body>
+    </message>
+    <message id="m0003" participant="135140" time="2011-09-20 23:30:26 UTC">
+      <body>Thank you btw!!! :)</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-20 23:55:08 UTC">
+      <body>Oh, no need to thank... :) let me know when you receive it!</body>
+    </message>
+    <message id="m0005" participant="135140" time="2011-09-21 18:46:21 UTC">
+      <body> Will do! :)</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-09-22 12:25:47 UTC">
+      <body>Hey Melissa, I'm getting worried about this check. It was sent out the 13th! If you do not receive it today, let me know and I'll cancel the check and reconfirm your address to resend it. Do you know when you'll see your mail?</body>
+    </message>
+  </messages>
+</conversation>

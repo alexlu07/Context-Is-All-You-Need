@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 18:18:54 UTC" participant="153804">
+      <body>Hope you're not driving to Buffalo today!!</body>
+    </message>
+    <message id="m0001" time="2014-11-18 18:19:39 UTC" participant="153817">
+      <body>No and I cancelled Thursday appt</body>
+    </message>
+    <message id="m0002" time="2014-11-18 18:20:38 UTC" participant="153804">
+      <body>Working from home where it's warm</body>
+    </message>
+    <message id="m0003" time="2014-11-18 18:20:48 UTC" participant="153817">
+      <body>Yes indeed</body>
+    </message>
+  </messages>
+</conversation>
+

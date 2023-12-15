@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121209.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2012-12-09 21:13:41 UTC">
+      <body>Hey, I am on a tour and can't call u back. Wat time are you coming over tomo?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-09 21:14:31 UTC">
+      <body>Whenever you intend to leave, I'll be at you place 15 min prior</body>
+    </message>
+    <message id="m0002" participant="130706" time="2012-12-09 21:14:42 UTC">
+      <body>Okay, 5 to 15</body>
+    </message>
+    <message id="m0003" participant="131507" time="2012-12-09 21:16:28 UTC">
+      <body>I havent checked my email. Wat time do we have to be at client</body>
+    </message>
+    <message id="m0004" participant="130706" time="2012-12-09 21:44:40 UTC">
+      <body>Between 830 and 9:00. I asked Dave on Friday.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-12-09 23:55:35 UTC">
+      <body>What time would you be leaving?</body>
+    </message>
+    <message id="m0006" participant="131507" time="2012-12-09 23:57:10 UTC">
+      <body>Let s leave my apt at 8:05.</body>
+    </message>
+    <message id="m0007" participant="130706" time="2012-12-09 23:57:50 UTC">
+      <body>Sounds good, ill be there by 8 or earlier</body>
+    </message>
+    <message id="m0009" participant="130706" time="2012-12-10 01:11:17 UTC">
+      <body>Thanks, see you tomorrow.</body>
+    </message>
+  </messages>
+</conversation>

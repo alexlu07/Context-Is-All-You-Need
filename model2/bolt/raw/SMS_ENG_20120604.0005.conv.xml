@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120604.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-04 12:41:39 UTC">
+      <body>Could I get the hunter books back by Wednesday</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-06-04 12:43:13 UTC">
+      <body>Sure, i'm not in today i'll get them to you by then</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-04 13:31:13 UTC">
+      <body>Oh yeah alright. Have fun at macys!</body>
+    </message>
+    <message id="m0003" participant="136210" time="2012-06-04 13:32:32 UTC">
+      <body>Haha thanks life is exciting at fordham</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-04 15:06:21 UTC">
+      <body>Fordham = Macy's?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 15:45:36 UTC" participant="153804">
+      <body>Did you bake any bread this weekend? U should try baking a loaf of Polish Easter breadwith raisins</body>
+    </message>
+    <message id="m0001" time="2015-03-29 15:47:41 UTC" participant="153558">
+      <body>No I had to work this weekend. I'm usually not a big fan of fruit in bread.</body>
+    </message>
+    <message id="m0002" time="2015-03-29 15:48:19 UTC" participant="153804">
+      <body>Don't have to put in the raisins</body>
+    </message>
+  </messages>
+</conversation>
+

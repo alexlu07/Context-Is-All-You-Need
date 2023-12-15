@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-02 17:50:35 UTC">
+      <body>so, 9:20 tomorrow? do you want us to meet you at your car or by the duc? </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-02-02 17:51:42 UTC">
+      <body>The DUC is best. I can put my number on the conference</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-02 17:57:13 UTC">
+      <body>okay, great. right now it looks like it'll just be you, me, and 1 maybe 2 others. </body>
+    </message>
+    <message id="m0003" participant="136152" time="2013-02-02 17:58:44 UTC">
+      <body>Great! I can take 4 plus me</body>
+    </message>
+    <message id="m0004" participant="136152" time="2013-02-03 14:21:43 UTC">
+      <body>Running late!</body>
+    </message>
+  </messages>
+</conversation>

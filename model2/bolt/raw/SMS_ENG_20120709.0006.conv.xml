@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120709.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-07-09 00:41:38 UTC">
+      <body>How did the test go?
+Shannon</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-07-09 01:02:01 UTC">
+      <body>I passed!!!!! </body>
+    </message>
+    <message id="m0002" participant="135103" time="2012-07-09 01:04:50 UTC">
+      <body>Congratulations! I knew you would! Love you
+Shannon</body>
+    </message>
+  </messages>
+</conversation>

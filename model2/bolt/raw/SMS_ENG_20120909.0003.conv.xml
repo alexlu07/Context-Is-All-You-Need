@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120909.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-09 21:53:57 UTC">
+      <body>Sup girl, what's your 20?</body>
+    </message>
+    <message id="m0001" participant="131028" time="2012-09-10 01:55:55 UTC">
+      <body>Ack! Just got your message! Was at my in laws and forgot about our date! I'm so sorry. Reschedule?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-10 02:07:49 UTC">
+      <body>I figured. Yes, let's reschedule! Lemme get back to you on my availability. xoxo</body>
+    </message>
+    <message id="m0003" participant="131028" time="2012-09-10 03:49:46 UTC">
+      <body>Xoxo awesome</body>
+    </message>
+  </messages>
+</conversation>

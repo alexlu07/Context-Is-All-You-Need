@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 22:41:04 UTC" participant="153557">
+      <body>You doing work?</body>
+    </message>
+    <message id="m0001" time="2015-01-02 22:42:35 UTC" participant="153547">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" time="2015-01-02 22:43:12 UTC" participant="153557">
+      <body>Cool. I'm gonna walk home in about an hour just keep an ear out for me.</body>
+    </message>
+    <message id="m0003" time="2015-01-02 23:14:15 UTC" participant="153547">
+      <body>What are u doing for dinner? Are u having it at the studio?</body>
+    </message>
+    <message id="m0004" time="2015-01-02 23:15:12 UTC" participant="153557">
+      <body>No we ate dinner fr lunch.</body>
+    </message>
+    <message id="m0005" time="2015-01-02 23:15:12 UTC" participant="153557">
+      <body>Wanna get something</body>
+    </message>
+    <message id="m0006" time="2015-01-02 23:15:12 UTC" participant="153557">
+      <body>Okay. </body>
+    </message>
+    <message id="m0007" time="2015-01-02 23:15:12 UTC" participant="153557">
+      <body>You order and pick me up from here?</body>
+    </message>
+    <message id="m0008" time="2015-01-02 23:15:55 UTC" participant="153547">
+      <body>Yeah Choy rhombus </body>
+    </message>
+    <message id="m0009" time="2015-01-02 23:16:57 UTC" participant="153547">
+      <body>Yeah. Watcha want?</body>
+    </message>
+    <message id="m0010" time="2015-01-02 23:17:20 UTC" participant="153557">
+      <body>Bean curd broccoli and crab Rangoon</body>
+    </message>
+    <message id="m0011" time="2015-01-02 23:17:20 UTC" participant="153557">
+      <body>Probably in 15</body>
+    </message>
+    <message id="m0012" time="2015-01-02 23:18:34 UTC" participant="153547">
+      <body>Ok can I order in 15 min or more, or are u ready to leave now</body>
+    </message>
+    <message id="m0013" time="2015-01-02 23:19:35 UTC" participant="153547">
+      <body>Ok I'll let u know when I leave the house</body>
+    </message>
+    <message id="m0014" time="2015-01-02 23:27:07 UTC" participant="153557">
+      <body>Okay.</body>
+    </message>
+    <message id="m0015" time="2015-01-02 23:36:43 UTC" participant="153547">
+      <body>Leaving now. U want me to pick u up at the studio?</body>
+    </message>
+    <message id="m0016" time="2015-01-02 23:38:40 UTC" participant="153557">
+      <body>I'll met you at Choy Wong</body>
+    </message>
+    <message id="m0017" time="2015-01-02 23:40:48 UTC" participant="153557">
+      <body>Text me when ur there</body>
+    </message>
+    <message id="m0018" time="2015-01-02 23:44:34 UTC" participant="153547">
+      <body>I'm at the studio</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130827.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-27 20:14:46 UTC" participant="153244">
+      <body>What's in the trash bag in the porch?</body>
+    </message>
+    <message id="m0001" time="2013-08-27 20:34:55 UTC" participant="153244">
+      <body>When you come home today make it a point to see me, I want to talk to you</body>
+    </message>
+    <message id="m0002" time="2013-08-27 20:35:16 UTC" participant="154901">
+      <body>Trash i just changed cause it was full</body>
+    </message>
+    <message id="m0003" time="2013-08-27 20:36:23 UTC" participant="154901">
+      <body>Ight </body>
+    </message>
+    <message id="m0004" time="2013-08-28 01:02:54 UTC" participant="153244">
+      <body>What time are coming home? </body>
+    </message>
+    <message id="m0005" time="2013-08-28 01:03:17 UTC" participant="154901">
+      <body>In alil </body>
+    </message>
+    <message id="m0006" time="2013-08-28 01:04:16 UTC" participant="153244">
+      <body>K. Bec I want to talk to you before I go to bed. Even if you are staying out, stop home within the hour</body>
+    </message>
+  </messages>
+</conversation>
+

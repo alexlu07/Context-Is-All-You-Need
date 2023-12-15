@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120103.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2012-01-03 22:56:19 UTC">
+      <body>You should send a demo to Aretha Franklin!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-01-03 22:56:44 UTC">
+      <body>What?</body>
+    </message>
+    <message id="m0002" participant="135131" time="2012-01-03 22:58:53 UTC">
+      <body>Aretha Franklin is holding open auditions for new opera singers. </body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-01-03 23:17:03 UTC">
+      <body>Crazy...</body>
+    </message>
+  </messages>
+</conversation>

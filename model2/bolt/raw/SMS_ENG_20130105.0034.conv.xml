@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-05 05:05:21 UTC" participant="152541">
+      <body>Hey so you still need lesson coverage tomorrow? This bass?</body>
+    </message>
+    <message id="m0001" time="2013-01-05 14:22:59 UTC" participant="152417">
+      <body>O, actually i dont need coverage anymore today, my plans got cancelled</body>
+    </message>
+    <message id="m0002" time="2013-01-05 14:23:33 UTC" participant="152541">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140812.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-12 00:32:17 UTC" participant="152757">
+      <body>Yo:-DthisishannibalIjustcalledtogetmynumbertoyou</body>
+    </message>
+    <message id="m0001" time="2014-08-12 00:52:48 UTC" participant="152735">
+      <body>Yay! I'll call you tomorrow and try to stop by </body>
+    </message>
+    <message id="m0002" time="2014-08-12 00:52:54 UTC" participant="152735">
+      <body>Or if not, Wednesday </body>
+    </message>
+    <message id="m0003" time="2014-08-12 00:53:16 UTC" participant="152735">
+      <body>can't believe you're really moving...that's nuts </body>
+    </message>
+  </messages>
+</conversation>
+

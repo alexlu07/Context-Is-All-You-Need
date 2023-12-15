@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-04-19 04:01:21 UTC">
+      <body>Don't forget to fwd that stuff to your sister for my project :) thx!</body>
+    </message>
+    <message id="m0001" participant="135386" time="2013-04-19 09:54:42 UTC">
+      <body>Hey Sofie. Are you up</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-04-19 10:26:19 UTC">
+      <body>Allston Brighton Watertown in lockdown. They suspended public transit</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-19 10:52:48 UTC">
+      <body>I know Hun</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-19 10:52:58 UTC">
+      <body>Stay home </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-19 10:53:05 UTC">
+      <body>I just turned on the news</body>
+    </message>
+    <message id="m0006" participant="135386" time="2013-04-19 10:54:07 UTC">
+      <body>I know. I woke up my store admin</body>
+    </message>
+    <message id="m0007" participant="135386" time="2013-04-19 16:28:19 UTC">
+      <body>Hey</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120703.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-03 22:01:14 UTC">
+      <body>Do you have the phone number for the driving school that Terry told you about?</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-07-03 22:02:14 UTC">
+      <body>Jj has it</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141026.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-26 02:52:29 UTC" participant="152579">
+      <body>Hey! Should I just come to suburban station tmrw and meet u around there? </body>
+    </message>
+    <message id="m0001" time="2014-10-26 02:53:47 UTC" participant="152417">
+      <body>Are you taking the bus down? I can meet you wherever you arrive</body>
+    </message>
+    <message id="m0002" time="2014-10-26 03:28:11 UTC" participant="152579">
+      <body>Yeah to 30th st station</body>
+    </message>
+    <message id="m0003" time="2014-10-26 03:37:36 UTC" participant="152579">
+      <body>We are prob gonna sit with Hal!</body>
+    </message>
+    <message id="m0004" time="2014-10-26 03:40:12 UTC" participant="152417">
+      <body>Cool!!!  So i'll
+Meet you at 30th st, at 1 right?</body>
+    </message>
+    <message id="m0005" time="2014-10-26 03:54:54 UTC" participant="152579">
+      <body>Yes!</body>
+    </message>
+    <message id="m0006" time="2014-10-26 16:40:04 UTC" participant="152417">
+      <body>Are you getting in exactly at one? I'm out doing deliveries  and may be a little bit late</body>
+    </message>
+    <message id="m0007" time="2014-10-26 16:40:32 UTC" participant="152579">
+      <body>I actually just got to the station. Where are you at? I think I might walk to curtis area </body>
+    </message>
+    <message id="m0008" time="2014-10-26 16:42:30 UTC" participant="152417">
+      <body>Im in northern liverties, and i have a delivery to make from center city to west philly, should be done by 1:20 hopefully</body>
+    </message>
+    <message id="m0009" time="2014-10-26 16:42:40 UTC" participant="152579">
+      <body>Ok.. I'll head over to that direction and let me know when you're done</body>
+    </message>
+    <message id="m0010" time="2014-10-26 17:29:03 UTC" participant="152579">
+      <body>I'm gonna get some lunch</body>
+    </message>
+    <message id="m0011" time="2014-10-26 17:31:25 UTC" participant="152579">
+      <body>Sansom 16th</body>
+    </message>
+    <message id="m0012" time="2014-10-26 17:37:43 UTC" participant="152579">
+      <body>Between 16th and 17th. Called dizengoff</body>
+    </message>
+  </messages>
+</conversation>
+

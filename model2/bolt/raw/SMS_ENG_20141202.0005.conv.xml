@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 00:52:33 UTC" participant="153244">
+      <body>Any update on the cake? </body>
+    </message>
+    <message id="m0001" time="2014-12-02 00:54:35 UTC" participant="153405">
+      <body>Hey sorry I was at work that day when I texted u and forgot to answer back but he's having sponge on</body>
+    </message>
+    <message id="m0002" time="2014-12-02 00:54:44 UTC" participant="153405">
+      <body>So I guess just a giant sponge bob</body>
+    </message>
+    <message id="m0003" time="2014-12-02 01:28:36 UTC" participant="153244">
+      <body>Ok cool. .. ill work on design and price it up</body>
+    </message>
+    <message id="m0004" time="2014-12-02 03:38:49 UTC" participant="153244">
+      <body>Hey, so its $60 for the cake</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-18 17:34:02 UTC">
+      <body>In class</body>
+    </message>
+    <message id="m0001" participant="135493" time="2012-09-18 18:35:44 UTC">
+      <body>Don't worry about sarah it is what it is. 
+Regarding wendy its been over two weeks let mom decide</body>
+    </message>
+    <message id="m0002" participant="135493" time="2012-09-18 19:01:20 UTC">
+      <body>Cool want to call me?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-18 19:01:42 UTC">
+      <body>Got package</body>
+    </message>
+  </messages>
+</conversation>

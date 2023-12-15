@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-26 23:08:26 UTC">
+      <body>Hey...I'll call you back in a few minutes.</body>
+    </message>
+    <message id="m0001" participant="131377" time="2013-04-27 01:28:18 UTC">
+      <body>Alert, alert! the fifth child is moving in! The fifth child is moving in!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-27 01:30:49 UTC">
+      <body>Oy veh.</body>
+    </message>
+    <message id="m0003" participant="131377" time="2013-04-27 03:40:58 UTC">
+      <body>Ooh vey blah</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-27 03:42:16 UTC">
+      <body>Is he bringing his girlfriend?</body>
+    </message>
+    <message id="m0005" participant="131377" time="2013-04-27 03:46:35 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-27 03:50:06 UTC">
+      <body>Good.</body>
+    </message>
+    <message id="m0008" participant="131377" time="2013-04-27 03:53:40 UTC">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>

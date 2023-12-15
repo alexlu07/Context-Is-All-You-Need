@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-29 19:47:02 UTC">
+      <body>Hey! What are your plans for tonight? Do you have a preference between Boston and the Needham area?</body>
+    </message>
+    <message id="m0001" participant="135270" time="2013-05-29 20:51:07 UTC">
+      <body>Leaving class now and I just want to get out of here! So let's eat around needham.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-29 20:51:56 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-29 20:52:38 UTC">
+      <body>Do you want to set a dinner time or just text us when you're back?</body>
+    </message>
+    <message id="m0004" participant="135270" time="2013-05-29 20:54:42 UTC">
+      <body>Let's do 6:30. You driving :) ?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-05-29 20:55:10 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0006" participant="135270" time="2013-05-29 20:56:19 UTC">
+      <body>Where do you want to eat (i might lose service about to get on the t at boylston)</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-05-29 20:58:33 UTC">
+      <body>No idea. We should all brainstorm. The usual places (lemon Thai, mandarin cuisine, comellas, etc) are fine with Charly and me. Any other ideas?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-05-29 21:06:41 UTC">
+      <body>Charly votes lemon Thai, comellas, or maybe checking out acapulcos. Thoughts/suggestions? (When you get signal back)</body>
+    </message>
+    <message id="m0009" participant="135270" time="2013-05-29 21:07:50 UTC">
+      <body>Lemon thai please!</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-05-29 21:08:36 UTC">
+      <body>Ok. I will leave at 6:20</body>
+    </message>
+  </messages>
+</conversation>

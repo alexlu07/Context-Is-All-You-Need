@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130503.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131403" time="2013-05-03 16:12:46 UTC">
+      <body>Mom wants perfume for Mother's Day.  I will get it next week if you want to go in on it</body>
+    </message>
+    <message id="m0001" participant="131410" time="2013-05-03 16:14:33 UTC">
+      <body>You bet! Tell of my portion and you can take it out of my account. Up to 45 preferably not more than that</body>
+    </message>
+    <message id="m0002" participant="131403" time="2013-05-03 16:18:06 UTC">
+      <body> I'll let you know when I go tues or weds</body>
+    </message>
+  </messages>
+</conversation>

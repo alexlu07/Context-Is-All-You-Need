@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150218.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-18 16:33:49 UTC" participant="152116">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0001" time="2015-02-18 16:34:47 UTC" participant="153783">
+      <body>I have an interview for my thesis at 12</body>
+    </message>
+    <message id="m0002" time="2015-02-18 16:40:20 UTC" participant="152116">
+      <body>Okay never mind</body>
+    </message>
+    <message id="m0003" time="2015-02-18 16:45:58 UTC" participant="153783">
+      <body>Sorry</body>
+    </message>
+    <message id="m0004" time="2015-02-18 16:52:26 UTC" participant="152116">
+      <body>It's okay</body>
+    </message>
+    <message id="m0005" time="2015-02-18 17:58:44 UTC" participant="153783">
+      <body>In free now until 2</body>
+    </message>
+    <message id="m0006" time="2015-02-18 19:17:31 UTC" participant="152116">
+      <body>Sorry I was in a meeting</body>
+    </message>
+    <message id="m0007" time="2015-02-18 19:18:31 UTC" participant="153783">
+      <body>Np</body>
+    </message>
+  </messages>
+</conversation>
+

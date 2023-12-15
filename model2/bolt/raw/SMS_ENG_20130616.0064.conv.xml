@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137384" time="2013-06-16 23:00:50 UTC">
+      <body>If there is a playoff tomorrow can I park at your house?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-16 23:02:11 UTC">
+      <body>Absolutely. </body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-16 23:03:01 UTC">
+      <body>Same price</body>
+    </message>
+  </messages>
+</conversation>

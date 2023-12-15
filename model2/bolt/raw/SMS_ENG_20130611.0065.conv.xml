@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131518" time="2013-06-11 18:27:16 UTC">
+      <body>I have an overfill of parking requests.  You want a car for Friday ? I'll split proceeds with you </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-11 18:33:31 UTC">
+      <body>Yeah, we can fit a car. Sounds great! What's the rate?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-11 18:34:09 UTC">
+      <body>I've got a friend parking on Friday and a coworker on Saturday. But we also have the two on-street parking passes.</body>
+    </message>
+    <message id="m0003" participant="131518" time="2013-06-11 18:42:08 UTC">
+      <body>Ok. Will u give them ur driveway then ?  Probably $50</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-11 18:42:57 UTC">
+      <body>Yeah, sounds good. We can talk tonight to figure out logistics.</body>
+    </message>
+    <message id="m0005" participant="131518" time="2013-06-11 18:43:14 UTC">
+      <body>OK</body>
+    </message>
+    <message id="m0006" participant="131518" time="2013-06-11 18:52:48 UTC">
+      <body>OK, you are confirmed for Kevin in your driveway for Friday.</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-06-11 18:53:57 UTC">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-27 01:28:07 UTC">
+      <body>How about tank tops that say:  it's all about da ruckus </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-27 01:31:04 UTC">
+      <body>Ruckus rally</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-27 01:31:13 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0003" participant="135406" time="2012-11-27 01:31:44 UTC">
+      <body>Not bad</body>
+    </message>
+    <message id="m0004" participant="135406" time="2012-11-27 01:31:44 UTC">
+      <body>Better</body>
+    </message>
+  </messages>
+</conversation>

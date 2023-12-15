@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-02 23:24:06 UTC">
+      <body>Is it your birthday???</body>
+    </message>
+    <message id="m0001" participant="135440" time="2013-06-02 23:24:19 UTC">
+      <body>Yes ma'am</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-02 23:24:29 UTC">
+      <body>The Internet just told me to say happy birthday to you!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-02 23:24:34 UTC">
+      <body>I love you</body>
+    </message>
+    <message id="m0004" participant="135440" time="2013-06-02 23:24:41 UTC">
+      <body>I love YoU</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-02 23:24:42 UTC">
+      <body>I hope your birthday is amazing</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-06-02 23:24:49 UTC">
+      <body>How has it been going?</body>
+    </message>
+    <message id="m0007" participant="135440" time="2013-06-02 23:32:16 UTC">
+      <body>Great! A stupendous weekend</body>
+    </message>
+  </messages>
+</conversation>

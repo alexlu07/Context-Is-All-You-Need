@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-21 13:30:03 UTC" participant="152417">
+      <body>Can i come get your keys at 1115</body>
+    </message>
+    <message id="m0001" time="2013-04-21 13:58:23 UTC" participant="152431">
+      <body>Yaya</body>
+    </message>
+    <message id="m0002" time="2013-04-21 15:24:07 UTC" participant="152417">
+      <body>Im here for da key</body>
+    </message>
+  </messages>
+</conversation>
+

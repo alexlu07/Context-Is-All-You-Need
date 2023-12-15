@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140326.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-26 20:25:45 UTC" participant="152417">
+      <body>Yes! London!</body>
+    </message>
+    <message id="m0001" time="2014-03-26 20:30:25 UTC" participant="152429">
+      <body>Haha thanks and I got wait listed from vassar</body>
+    </message>
+    <message id="m0002" time="2014-03-26 21:00:48 UTC" participant="152429">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" time="2014-03-26 21:01:00 UTC" participant="152417">
+      <body>Do you want me to connect you withone of my friends who graduated from skidmore?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-14 20:28:57 UTC">
+      <body>Hey. How's things?</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-05-14 22:28:02 UTC">
+      <body>(1/2) Write these dates down in your calendar: between the tenth and the fifteenth of every month Kate is out of order due to psychotic hormone fluctuation.  Yo</body>
+    </message>
+    <message id="m0002" participant="131375" time="2013-05-14 22:28:09 UTC">
+      <body>(2/2) u have a knack. You really do. </body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-05-14 23:08:43 UTC">
+      <body>Noted. Sorry for unintentional annoyance.</body>
+    </message>
+  </messages>
+</conversation>

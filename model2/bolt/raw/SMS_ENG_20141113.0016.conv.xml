@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 23:44:57 UTC" participant="153459">
+      <body>pete's new number is this one</body>
+    </message>
+    <message id="m0001" time="2014-11-14 00:30:54 UTC" participant="153418">
+      <body>Thanks! </body>
+    </message>
+    <message id="m0002" time="2014-11-14 23:32:42 UTC" participant="153459">
+      <body>Tom is leaving.</body>
+    </message>
+    <message id="m0003" time="2014-11-14 23:35:42 UTC" participant="153418">
+      <body>I remember. You both leaving on the same day? </body>
+    </message>
+  </messages>
+</conversation>
+

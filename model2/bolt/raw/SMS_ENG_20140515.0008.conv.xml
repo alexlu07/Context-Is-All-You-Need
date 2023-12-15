@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140515.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-15 13:19:32 UTC" participant="152116">
+      <body>Are you going to the night market? What time are you done work?</body>
+    </message>
+    <message id="m0001" time="2014-05-15 22:28:02 UTC" participant="153491">
+      <body>I'm not sure. </body>
+    </message>
+    <message id="m0002" time="2014-05-15 22:28:22 UTC" participant="153491">
+      <body>It was suppose to be at 4 but I ended up staying longer.</body>
+    </message>
+    <message id="m0003" time="2014-05-15 22:40:08 UTC" participant="153491">
+      <body>Yea, so I'm going. Leaving in a few minutes.</body>
+    </message>
+    <message id="m0004" time="2014-05-15 22:41:02 UTC" participant="152116">
+      <body>I decided not to go. I was going to stick around Penn but I didn't know what you are doing. </body>
+    </message>
+    <message id="m0005" time="2014-05-15 22:41:23 UTC" participant="153491">
+      <body>Okay.</body>
+    </message>
+    <message id="m0006" time="2014-05-15 22:41:29 UTC" participant="152116">
+      <body>Also it might rain, just so you know</body>
+    </message>
+    <message id="m0007" time="2014-05-15 23:32:42 UTC" participant="153491">
+      <body>Thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

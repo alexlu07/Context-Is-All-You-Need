@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140112.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-12 21:24:24 UTC" participant="153900">
+      <body>We are leaving now</body>
+    </message>
+    <message id="m0001" time="2014-01-12 21:24:54 UTC" participant="153244">
+      <body>We just left but I'm gonna tap mac real quick</body>
+    </message>
+  </messages>
+</conversation>
+

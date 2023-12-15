@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130103.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-01-03 12:31:20 UTC">
+      <body>Good morning! I've been hit pretty hard with a cold and am going to take today to rest..womp womp. So I'll be missing the party train once again, but I anticipate being back tomorrow!</body>
+    </message>
+    <message id="m0001" participant="131456" time="2013-01-03 12:51:03 UTC">
+      <body>Oh no! Feel better soon-the one going around is a whopper.</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-01-04 12:50:13 UTC">
+      <body>Good morning again! Just an fyi that I'll be back in action and on the party train again today :-)</body>
+    </message>
+    <message id="m0003" participant="131456" time="2013-01-04 12:52:47 UTC">
+      <body>Excellent! Glad to hear it!</body>
+    </message>
+  </messages>
+</conversation>

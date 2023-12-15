@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 15:01:48 UTC" participant="153568">
+      <body>Did you ever drop off those keys?</body>
+    </message>
+    <message id="m0001" time="2014-02-07 15:02:14 UTC" participant="153568">
+      <body>I just realized I forgot to look for them.</body>
+    </message>
+    <message id="m0002" time="2014-02-07 15:17:00 UTC" participant="153547">
+      <body>Yeah in the basket </body>
+    </message>
+    <message id="m0003" time="2014-02-07 15:19:59 UTC" participant="153568">
+      <body>Ok thanks</body>
+    </message>
+  </messages>
+</conversation>
+

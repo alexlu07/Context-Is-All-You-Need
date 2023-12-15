@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121221.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-21 02:05:21 UTC" participant="154390">
+      <body>Did you get the longwood garden tickets yet?</body>
+    </message>
+    <message id="m0001" time="2012-12-21 11:03:45 UTC" participant="154352">
+      <body>I made a reservation for 2, to use my member pass on Sunday.</body>
+    </message>
+    <message id="m0002" time="2012-12-21 22:27:54 UTC" participant="154390">
+      <body>Alright I'll call you a bit later</body>
+    </message>
+  </messages>
+</conversation>
+

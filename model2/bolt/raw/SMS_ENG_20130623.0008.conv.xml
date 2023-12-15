@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132520" time="2013-06-23 15:08:00 UTC">
+      <body>Hello how are you</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-06-23 17:31:00 UTC">
+      <body>I'm doing pretty good. I was in a dance show today that went really well. How about you? How was your day?</body>
+    </message>
+    <message id="m0002" participant="132520" time="2013-06-23 19:47:33 UTC">
+      <body>Congrats on your dance show! My day was nice, it's really hot here today!</body>
+    </message>
+    <message id="m0003" participant="130995" time="2013-06-23 20:00:03 UTC">
+      <body>thank you. And yeah i know the feeling! It's hot and sticky. It's supposed to stay this way for the next few days at least.</body>
+    </message>
+    <message id="m0004" participant="132520" time="2013-06-23 20:21:33 UTC">
+      <body>Makes me wish I had a pool!</body>
+    </message>
+  </messages>
+</conversation>

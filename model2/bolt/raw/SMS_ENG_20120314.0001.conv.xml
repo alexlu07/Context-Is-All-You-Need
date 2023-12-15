@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120314.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130895" time="2012-03-14 11:04:34 UTC">
+      <body>We are here! Can you open the door please ;-) Isabelle &amp; Eva</body>
+    </message>
+    <message id="m0001" participant="130755" time="2012-03-14 11:05:17 UTC">
+      <body>Yup, getting dressed, give me just one minute</body>
+    </message>
+    <message id="m0002" participant="130895" time="2012-03-14 20:02:19 UTC">
+      <body>Hey :) We are just attending a tour at Independence Hall and will then have dinner. So we won't make it to your friend's house. Have fun and see you at home.</body>
+    </message>
+    <message id="m0003" participant="130755" time="2012-03-14 20:02:55 UTC">
+      <body>No worries!</body>
+    </message>
+  </messages>
+</conversation>

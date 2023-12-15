@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111223.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131828" time="2011-12-23 09:08:16 UTC">
+      <body>Moo baa fa la la </body>
+    </message>
+    <message id="m0001" participant="131828" time="2011-12-23 23:08:48 UTC">
+      <body>Where are you guys?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-12-23 23:10:06 UTC">
+      <body>Men's</body>
+    </message>
+    <message id="m0003" participant="131828" time="2011-12-23 23:10:56 UTC">
+      <body>Ok </body>
+    </message>
+  </messages>
+</conversation>

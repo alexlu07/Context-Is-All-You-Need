@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130808.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-08 20:28:29 UTC" participant="149384">
+      <body>######## just wanted to give you a heads up that we're scheduled to arrive around 7:30pm. Interested in getting dinner then?</body>
+    </message>
+    <message id="m0001" time="2013-08-08 20:29:04 UTC" participant="149306">
+      <body>Is this Sarah </body>
+    </message>
+    <message id="m0002" time="2013-08-08 20:29:29 UTC" participant="149306">
+      <body>If so then yes, dinner will be nice.</body>
+    </message>
+    <message id="m0003" time="2013-08-08 20:31:31 UTC" participant="149384">
+      <body>Sweet! Yes, it's Sarah :) our friend recommends Abyssinia on 45th, perhaps you know it?</body>
+    </message>
+    <message id="m0004" time="2013-08-08 20:32:21 UTC" participant="149384">
+      <body>She said there used to be really good tunes upstairs on Thurs. so we were thinking of checking it out, but we'll touch base when we arrive :)</body>
+    </message>
+    <message id="m0005" time="2013-08-08 20:32:47 UTC" participant="149306">
+      <body>Yeah I go there all the time, it's good.</body>
+    </message>
+  </messages>
+</conversation>
+

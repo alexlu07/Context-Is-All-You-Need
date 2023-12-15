@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-10-28 21:06:02 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-28 21:28:22 UTC">
+      <body>Hi are u going to the party?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-10-28 21:29:24 UTC">
+      <body>Yes...</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-10-28 21:30:05 UTC">
+      <body>Fun, are you dressing up?</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-10-29 16:50:21 UTC">
+      <body>Hi how was the party?</body>
+    </message>
+    <message id="m0005" participant="131055" time="2012-10-29 18:33:55 UTC">
+      <body>I didn't go bc my friend who was going to come bailed, so I didn't have a ride...we got a beer instead.</body>
+    </message>
+    <message id="m0006" participant="130664" time="2012-10-29 18:35:30 UTC">
+      <body>That sounds nice. Are you hurricaned in today?</body>
+    </message>
+    <message id="m0007" participant="131055" time="2012-10-29 18:35:57 UTC">
+      <body>Yes. You?</body>
+    </message>
+    <message id="m0008" participant="130664" time="2012-10-29 18:37:36 UTC">
+      <body>Yes, it's cozy. Lots of homework to catch up on and tea with honey </body>
+    </message>
+    <message id="m0009" participant="131055" time="2012-10-29 18:38:33 UTC">
+      <body>I'm making soy chai... Maybe we cld FaceTime later?</body>
+    </message>
+    <message id="m0010" participant="131055" time="2012-10-30 13:48:32 UTC">
+      <body>Did you weather the storm?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-12-13 00:01:50 UTC">
+      <body>Hey, my stamp arrived and I have decided to start a job search. Could you ask your neighbor about opportunities at the Presbyterian Pension fund?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-13 00:02:16 UTC">
+      <body>Let me know if this weekend works for a motarization.</body>
+    </message>
+    <message id="m0002" participant="131508" time="2012-12-13 00:05:44 UTC">
+      <body>Great ill ask him and we are here this weekend. </body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-13 00:19:19 UTC">
+      <body>Just let me know when</body>
+    </message>
+    <message id="m0004" participant="130706" time="2012-12-13 00:19:34 UTC">
+      <body>I've got the weekend free</body>
+    </message>
+    <message id="m0005" participant="131508" time="2012-12-13 00:22:39 UTC">
+      <body>Great. Ill give you a call</body>
+    </message>
+  </messages>
+</conversation>

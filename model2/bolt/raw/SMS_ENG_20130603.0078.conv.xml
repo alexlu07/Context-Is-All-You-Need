@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-03 20:43:03 UTC" participant="152417">
+      <body>Youre off the hook</body>
+    </message>
+    <message id="m0001" time="2013-06-03 20:45:30 UTC" participant="152473">
+      <body>You are awesome</body>
+    </message>
+    <message id="m0002" time="2013-06-03 20:45:31 UTC" participant="152473">
+      <body>Thanks dude</body>
+    </message>
+  </messages>
+</conversation>
+

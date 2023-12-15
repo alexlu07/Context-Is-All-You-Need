@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111001.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-10-01 03:03:47 UTC">
+      <body>Ryan is saving you a seat</body>
+    </message>
+    <message id="m0001" participant="131830" time="2011-10-01 03:04:30 UTC">
+      <body>Where are you sitting?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-10-01 03:05:07 UTC">
+      <body>Back house right orchestra</body>
+    </message>
+    <message id="m0003" participant="131830" time="2011-10-01 03:05:52 UTC">
+      <body>Nvm, I've got a seat</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-10-01 03:06:05 UTC">
+      <body>Darn</body>
+    </message>
+  </messages>
+</conversation>

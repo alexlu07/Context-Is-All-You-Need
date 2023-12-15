@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-25 21:16:42 UTC" participant="131350">
+      <body>hey!</body>
+    </message>
+    <message id="m0001" time="2013-02-25 21:17:42 UTC" participant="131353">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" time="2013-02-25 21:18:28 UTC" participant="131350">
+      <body>welcome back! what's your story?</body>
+    </message>
+    <message id="m0003" time="2013-02-25 21:32:33 UTC" participant="131353">
+      <body>Once upon a time in a land far far away</body>
+    </message>
+    <message id="m0004" time="2013-02-25 21:32:51 UTC" participant="131353">
+      <body>Lol </body>
+    </message>
+    <message id="m0005" time="2013-02-25 21:33:17 UTC" participant="131350">
+      <body>you were born a poor, black child...</body>
+    </message>
+    <message id="m0006" time="2013-02-25 21:34:08 UTC" participant="131353">
+      <body>So you have heard my story </body>
+    </message>
+  </messages>
+</conversation>
+

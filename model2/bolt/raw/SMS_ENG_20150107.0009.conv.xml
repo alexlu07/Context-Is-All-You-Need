@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 23:08:26 UTC" participant="153622">
+      <body>Hey hunter, its henken. Are you still able to meet at your place tonight to talk about the purchase of the peice?</body>
+    </message>
+    <message id="m0001" time="2015-01-07 23:09:12 UTC" participant="153622">
+      <body>If so what time is good 6:30, 7:00?</body>
+    </message>
+    <message id="m0002" time="2015-01-07 23:09:23 UTC" participant="153622">
+      <body>"Piece"</body>
+    </message>
+    <message id="m0003" time="2015-01-07 23:11:09 UTC" participant="153547">
+      <body>630 would be best. I still have some work to do later tonight</body>
+    </message>
+    <message id="m0004" time="2015-01-07 23:11:30 UTC" participant="153622">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2015-01-07 23:12:36 UTC" participant="153622">
+      <body>I'll get there as soon as I can I may be 10 min late.</body>
+    </message>
+    <message id="m0006" time="2015-01-07 23:13:56 UTC" participant="153547">
+      <body>Ok drive safe. Take your time it's fine</body>
+    </message>
+    <message id="m0007" time="2015-01-07 23:14:30 UTC" participant="153622">
+      <body>K</body>
+    </message>
+    <message id="m0008" time="2015-01-08 01:41:32 UTC" participant="153622">
+      <body>￼</body>
+    </message>
+    <message id="m0009" time="2015-01-08 01:43:28 UTC" participant="153622">
+      <body>Thanks hunter...here it is</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141211.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-11 22:48:16 UTC" participant="153416">
+      <body>Hey its Jenny. My phone died. Just letting you know there's an accident on the highway so if I'm late you know why </body>
+    </message>
+    <message id="m0001" time="2014-12-11 22:49:21 UTC" participant="153417">
+      <body>Okay. What do you want for dinner?</body>
+    </message>
+    <message id="m0002" time="2014-12-11 22:51:19 UTC" participant="153416">
+      <body>I don't know. She doesn't want to cook cause she isn't feeling well, right? I have leftover Indian if all else. </body>
+    </message>
+    <message id="m0003" time="2014-12-11 22:57:21 UTC" participant="153416">
+      <body>Giving the phone back to gabby. Just FYI in case you're trying to get me. </body>
+    </message>
+  </messages>
+</conversation>
+

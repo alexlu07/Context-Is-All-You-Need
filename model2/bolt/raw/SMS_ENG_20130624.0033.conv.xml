@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-24 03:08:24 UTC">
+      <body>Ingrid's dad is better.  Phew. No longer sick. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-24 03:09:39 UTC">
+      <body>Thanks for being there for me. </body>
+    </message>
+    <message id="m0002" participant="135488" time="2013-06-24 10:41:41 UTC">
+      <body>I'm so glad to hear that</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-24 10:42:03 UTC">
+      <body>;). Love you!!</body>
+    </message>
+    <message id="m0004" participant="135488" time="2013-06-24 10:42:08 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

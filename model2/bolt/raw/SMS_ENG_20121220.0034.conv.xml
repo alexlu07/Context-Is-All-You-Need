@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121220.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-20 12:33:04 UTC" participant="152535">
+      <body>Hi Gabi! What time is good for you tonight?</body>
+    </message>
+    <message id="m0001" time="2012-12-20 12:35:50 UTC" participant="152417">
+      <body>Does 8 work for you?  Where should we meet?</body>
+    </message>
+    <message id="m0002" time="2012-12-20 12:39:28 UTC" participant="152535">
+      <body>That's ok. Anywhere really. Lets grab a brew. I don't know the town well yet so your pick</body>
+    </message>
+    <message id="m0003" time="2012-12-20 12:48:51 UTC" participant="152417">
+      <body>Have you been to flatbread? I think theyve got the best house beers</body>
+    </message>
+    <message id="m0004" time="2012-12-20 12:49:48 UTC" participant="152535">
+      <body>Sounds good! See you at 8</body>
+    </message>
+    <message id="m0005" time="2012-12-21 00:16:02 UTC" participant="152535">
+      <body>Hey! I'm at the farmhouse on bank st. Nice fire. Meet me here?</body>
+    </message>
+    <message id="m0006" time="2012-12-21 00:17:43 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

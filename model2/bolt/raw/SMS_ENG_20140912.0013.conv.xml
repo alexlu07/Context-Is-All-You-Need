@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140912.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-12 22:42:09 UTC" participant="153568">
+      <body>Is your house still for sale and does it have A yard? </body>
+    </message>
+    <message id="m0001" time="2014-09-12 23:12:02 UTC" participant="153547">
+      <body>I haven't put it up for sale yet but I will. It has a nice fenced in yard with a garden but not as big as yours</body>
+    </message>
+    <message id="m0002" time="2014-09-12 23:19:06 UTC" participant="153568">
+      <body>I'm asking for boss. I'll keep an eye  out for yr listing on the interwebs. Thanks! </body>
+    </message>
+    <message id="m0003" time="2014-09-13 00:11:04 UTC" participant="153547">
+      <body>I'm not going to list it til I have an agreement on another property. But if your boss wants to see it, put her in contact with me</body>
+    </message>
+  </messages>
+</conversation>
+

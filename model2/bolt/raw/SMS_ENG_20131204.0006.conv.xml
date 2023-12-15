@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131204.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-04 20:35:12 UTC" participant="153317">
+      <body>If u have time n want to ride him please feel free!</body>
+    </message>
+    <message id="m0001" time="2013-12-04 23:32:16 UTC" participant="153317">
+      <body>That's ok!</body>
+    </message>
+    <message id="m0002" time="2013-12-04 23:32:19 UTC" participant="152734">
+      <body>Hey Sam, I thought I would have lots of time at the barn today but I was wrong! I don't even think I'll make it out, sorry about that :(</body>
+    </message>
+  </messages>
+</conversation>
+

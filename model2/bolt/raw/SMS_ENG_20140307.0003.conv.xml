@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140307.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-07 22:24:00 UTC" participant="152560">
+      <body>Let me know if you want to meet up for a drink later after scifriday. </body>
+    </message>
+    <message id="m0001" time="2014-03-08 04:03:35 UTC" participant="152417">
+      <body>Come to the psychedlicatessen!</body>
+    </message>
+    <message id="m0002" time="2014-03-08 04:05:20 UTC" participant="152560">
+      <body>Are you there now? </body>
+    </message>
+    <message id="m0003" time="2014-03-08 04:06:42 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" time="2014-03-08 04:24:00 UTC" participant="152560">
+      <body>Just getting out of work-should I head over there? Do they have anything to drink there? </body>
+    </message>
+    <message id="m0005" time="2014-03-08 04:24:44 UTC" participant="152417">
+      <body>You should bring some boos</body>
+    </message>
+    <message id="m0006" time="2014-03-08 04:25:23 UTC" participant="152417">
+      <body>Its byo.  Theyre gonna show a crazy movie in a little bit</body>
+    </message>
+    <message id="m0007" time="2014-03-08 04:25:58 UTC" participant="152560">
+      <body>Some booze? </body>
+    </message>
+    <message id="m0008" time="2014-03-08 04:26:40 UTC" participant="152560">
+      <body>Did you bring beer?</body>
+    </message>
+    <message id="m0009" time="2014-03-08 04:30:36 UTC" participant="152417">
+      <body>I didnt bring anything, could you bring some beers?  The girls went on a long walk that ended at 7, so theyre probably fine</body>
+    </message>
+  </messages>
+</conversation>
+

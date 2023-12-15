@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130115.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133056" time="2013-01-15 23:50:20 UTC">
+      <body>Hello! I actually got called into work on Sunday, and I'm sure it's going to be a crazy weekend for you guys too. Is it okay if we take this weekend off and resume next?</body>
+    </message>
+    <message id="m0001" participant="133317" time="2013-01-15 23:51:28 UTC">
+      <body>That's perfect! Plus you'll have them all day Monday! Lucky you :)</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-01-16 00:14:31 UTC">
+      <body>I can't wait! =)</body>
+    </message>
+  </messages>
+</conversation>

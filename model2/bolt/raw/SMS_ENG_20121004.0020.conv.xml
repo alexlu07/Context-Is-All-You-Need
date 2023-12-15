@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121004.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-04 20:05:24 UTC">
+      <body>Hey Jonathan it's Will. My back is really sore. I don't think I stretched it properly on Tuesday. I can deal with sore legs and shoulders but I'm afraid that I could throw my back out if I practice tonight. Should I come tonight anyway so I don't fall behind?</body>
+    </message>
+    <message id="m0001" participant="136282" time="2012-10-04 20:07:17 UTC">
+      <body>Yeah you can do that and at least see what we are teaching.</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-04 20:12:45 UTC">
+      <body>Ok I will try my best to keep up</body>
+    </message>
+    <message id="m0003" participant="136282" time="2012-10-04 20:19:49 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

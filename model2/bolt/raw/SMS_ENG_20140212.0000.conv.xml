@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140212.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-12 02:48:07 UTC" participant="152545">
+      <body>(1/2) Hey man i hope and am sure the fundraiser went well i unfortunately had to work id love to catch up soon if possible and maybe grab a beer wish you well a</body>
+    </message>
+    <message id="m0001" time="2014-02-12 02:48:09 UTC" participant="152545">
+      <body>(2/2) nd hope to see you soon  peace man</body>
+    </message>
+    <message id="m0002" time="2014-02-12 22:55:08 UTC" participant="152417">
+      <body>Hey Ben, thanks.  It was great, sorry you couldnt make it.  I would love to grab a beer.  Let me know when youve got some time off</body>
+    </message>
+  </messages>
+</conversation>
+

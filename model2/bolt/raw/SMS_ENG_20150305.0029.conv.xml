@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150305.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-05 23:17:57 UTC" participant="153783">
+      <body>Uh oh I'm really liking NYU</body>
+    </message>
+    <message id="m0001" time="2015-03-06 01:39:52 UTC" participant="152116">
+      <body>Better than Penn?</body>
+    </message>
+    <message id="m0002" time="2015-03-06 01:41:46 UTC" participant="153783">
+      <body>Haven't actually visited Penn yet</body>
+    </message>
+  </messages>
+</conversation>
+

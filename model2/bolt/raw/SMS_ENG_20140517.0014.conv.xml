@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 15:15:54 UTC" participant="153640">
+      <body>At 19th waiting for trolley...</body>
+    </message>
+    <message id="m0001" time="2014-05-17 15:17:25 UTC" participant="153548">
+      <body>Cool. I'm just at studio working so text when you get here. 4919 pentridge</body>
+    </message>
+    <message id="m0002" time="2014-05-17 15:36:32 UTC" participant="153640">
+      <body>Do u want a coke?</body>
+    </message>
+    <message id="m0003" time="2014-05-17 15:37:33 UTC" participant="153548">
+      <body>Yeah!!!</body>
+    </message>
+    <message id="m0004" time="2014-05-17 15:38:40 UTC" participant="153640">
+      <body>Here!</body>
+    </message>
+    <message id="m0005" time="2014-05-17 18:00:27 UTC" participant="153640">
+      <body>R u in there? Think I left sweatshirt</body>
+    </message>
+  </messages>
+</conversation>
+

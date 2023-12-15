@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140801.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-01 18:42:58 UTC" participant="153893">
+      <body>U good for Sunday?</body>
+    </message>
+    <message id="m0001" time="2014-08-01 18:45:08 UTC" participant="153244">
+      <body>And I cannot do fri 8/8</body>
+    </message>
+    <message id="m0002" time="2014-08-01 18:45:46 UTC" participant="153893">
+      <body>Got it on calendar.thanks</body>
+    </message>
+    <message id="m0003" time="2014-08-01 18:46:19 UTC" participant="153244">
+      <body>Ok I couldn't remember if I wrote it lol. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

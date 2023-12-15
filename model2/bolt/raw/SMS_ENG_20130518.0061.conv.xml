@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-18 02:00:40 UTC">
+      <body>Dancing at golden temple in Brookline!   We will be there wearing lots of eye makeup!</body>
+    </message>
+    <message id="m0001" participant="135445" time="2013-05-18 12:11:44 UTC">
+      <body>Ah shoot we missed out. I hope it was fun</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-18 12:15:55 UTC">
+      <body>Lots of dancing!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111226.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-12-26 13:37:34 UTC" participant="152734">
+      <body>Coffee? Jenno too!</body>
+    </message>
+    <message id="m0001" time="2011-12-26 14:18:45 UTC" participant="153280">
+      <body>Starbucks by meredith's? What time?</body>
+    </message>
+    <message id="m0002" time="2011-12-26 14:27:07 UTC" participant="152734">
+      <body>Sure! I can go whenever. Say 1030?</body>
+    </message>
+    <message id="m0003" time="2011-12-26 14:44:27 UTC" participant="153280">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0004" time="2011-12-26 14:45:13 UTC" participant="152734">
+      <body>Ok! I let Jenno know too</body>
+    </message>
+  </messages>
+</conversation>
+

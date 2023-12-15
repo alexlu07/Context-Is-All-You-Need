@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141102.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-02 22:05:31 UTC" participant="153547">
+      <body>I'm here</body>
+    </message>
+    <message id="m0001" time="2014-11-02 22:05:55 UTC" participant="153557">
+      <body>I am too. Just waiting to unload.</body>
+    </message>
+    <message id="m0002" time="2014-11-02 22:07:38 UTC" participant="153557">
+      <body>They won't let us off the bus</body>
+    </message>
+    <message id="m0003" time="2014-11-02 22:08:04 UTC" participant="153557">
+      <body>I'm gonna freak out.</body>
+    </message>
+  </messages>
+</conversation>
+

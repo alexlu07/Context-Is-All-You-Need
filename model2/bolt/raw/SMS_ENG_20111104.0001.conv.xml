@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111104.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-11-04 00:37:31 UTC">
+      <body>What year did you graduate?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-11-04 00:38:29 UTC">
+      <body>2005 for high school, 2009 from St. Olaf. You havent told me how the tests went</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-11-04 12:44:23 UTC">
+      <body>You never texted back...</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-11-04 13:10:27 UTC">
+      <body>You're really making me worried</body>
+    </message>
+    <message id="m0004" participant="135103" time="2011-11-04 18:18:55 UTC">
+      <body>Everything is ok..i e mailed you. Love you</body>
+    </message>
+  </messages>
+</conversation>

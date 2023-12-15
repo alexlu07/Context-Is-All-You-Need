@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0033" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130665" time="2013-05-25 15:19:49 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-05-25 15:20:45 UTC">
+      <body>Hey hows it going?</body>
+    </message>
+    <message id="m0002" participant="130751" time="2013-05-25 15:21:30 UTC">
+      <body>On my train on my way to my parents for memorial weekend. You?</body>
+    </message>
+    <message id="m0003" participant="130751" time="2013-05-25 15:22:18 UTC">
+      <body>On train*</body>
+    </message>
+    <message id="m0004" participant="130665" time="2013-05-25 15:28:27 UTC">
+      <body>Just watching tv for a bit before I go into work</body>
+    </message>
+    <message id="m0005" participant="130751" time="2013-05-25 15:29:35 UTC">
+      <body>I see. Train is arriving now.</body>
+    </message>
+  </messages>
+</conversation>

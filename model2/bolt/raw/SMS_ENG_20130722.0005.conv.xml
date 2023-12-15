@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131717" time="2013-07-22 09:26:59 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0001" participant="134737" time="2013-07-22 11:56:32 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0002" participant="131717" time="2013-07-22 12:19:28 UTC">
+      <body>How is ur monday going?</body>
+    </message>
+    <message id="m0003" participant="134737" time="2013-07-22 12:34:21 UTC">
+      <body>It has potential, but the weather is decreasing that.... Very much lol you?</body>
+    </message>
+    <message id="m0004" participant="131717" time="2013-07-22 13:32:05 UTC">
+      <body>Nice...and yea...I'm hoping the weather will be more bearable than last week</body>
+    </message>
+  </messages>
+</conversation>

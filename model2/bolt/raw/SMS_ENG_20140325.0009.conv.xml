@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140325.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-03-25 20:58:40 UTC" participant="153586">
+      <body>No that's cool. You can hold onto them. Thanks. We will have to leave again tomorrow at 830. Will you plan to be here at 8 again? Just let us know. Thanks</body>
+    </message>
+    <message id="m0002" time="2014-03-25 20:59:16 UTC" participant="153547">
+      <body>Yeah I can be there at 8</body>
+    </message>
+    <message id="m0003" time="2014-03-25 21:00:48 UTC" participant="153586">
+      <body>Even if it's closer To 830 that would be fine too. We just have to put all animals away. Thanks</body>
+    </message>
+    <message id="m0004" time="2014-03-25 21:04:17 UTC" participant="153547">
+      <body>Ok I will make it 830</body>
+    </message>
+    <message id="m0005" time="2014-03-26 12:06:45 UTC" participant="153586">
+      <body>Hi hunter. We are going to leave a little early but you can let yourself in right? The animals will be away and the basement door us unlocked if you need to get in there again. Thanks.</body>
+    </message>
+    <message id="m0006" time="2014-03-26 12:06:56 UTC" participant="153547">
+      <body>Ok </body>
+    </message>
+  </messages>
+</conversation>
+

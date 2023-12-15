@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136142" time="2013-02-07 23:06:41 UTC">
+      <body>How did the convo with your friend go sunday?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-07 23:08:45 UTC">
+      <body>it was awkward, but what i had to say went over surprisingly well. thanks for checking up with me. </body>
+    </message>
+    <message id="m0002" participant="136142" time="2013-02-07 23:09:41 UTC">
+      <body>Glad to hear it! Yw</body>
+    </message>
+  </messages>
+</conversation>

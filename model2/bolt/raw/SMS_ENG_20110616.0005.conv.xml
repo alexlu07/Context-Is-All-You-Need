@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110616.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-16 22:03:29 UTC">
+      <body>Timbear, are you going home for father's day?</body>
+    </message>
+    <message id="m0001" participant="135117" time="2011-06-17 01:03:23 UTC">
+      <body>(01/02) Well sheet I wasn't planning on it but might consider. Are you in need of a ride? Also one of these days when I don't feel totally wiped after work we s</body>
+    </message>
+    <message id="m0002" participant="135117" time="2011-06-17 01:03:28 UTC">
+      <body>(02/02) hould hang. Yeah? </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-17 01:05:09 UTC">
+      <body>No I don't need a ride but wanted company when there. Do you want a ride?</body>
+    </message>
+  </messages>
+</conversation>

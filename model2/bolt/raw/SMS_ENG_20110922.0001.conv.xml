@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110922.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130692" time="2011-09-22 21:12:57 UTC">
+      <body>Sounds good man. See you tomm</body>
+    </message>
+    <message id="m0002" participant="131308" time="2011-09-22 21:13:38 UTC">
+      <body>Awesome, im looking forward to it</body>
+    </message>
+    <message id="m0003" participant="131308" time="2011-09-22 21:13:38 UTC">
+      <body>Awesome, im looking forward to it</body>
+    </message>
+    <message id="m0004" participant="130692" time="2011-09-22 21:16:17 UTC">
+      <body>Me too bro</body>
+    </message>
+    <message id="m0005" participant="130692" time="2011-09-22 21:19:33 UTC">
+      <body>I assume she's renting a truck?</body>
+    </message>
+    <message id="m0006" participant="131308" time="2011-09-22 21:26:01 UTC">
+      <body>I guess yeah</body>
+    </message>
+  </messages>
+</conversation>

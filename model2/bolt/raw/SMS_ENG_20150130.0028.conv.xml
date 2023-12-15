@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 15:46:24 UTC" participant="153619">
+      <body>I going to NYC next weekend. Will your stuff still be up at that gallery?</body>
+    </message>
+    <message id="m0001" time="2015-01-30 19:13:29 UTC" participant="153547">
+      <body>I think so</body>
+    </message>
+    <message id="m0002" time="2015-01-30 19:41:29 UTC" participant="153619">
+      <body>Can you send me the name of the gallery?</body>
+    </message>
+    <message id="m0003" time="2015-01-31 00:55:07 UTC" participant="153547">
+      <body>Stephen Romano gallery . Make sure you check hours before going to dumbo</body>
+    </message>
+    <message id="m0004" time="2015-01-31 00:56:12 UTC" participant="153619">
+      <body>O.K.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110808.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135129" time="2011-08-08 18:10:00 UTC">
+      <body>Did you already go to lunch?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-08 18:15:43 UTC">
+      <body>Well I ate at my desk but I'm out reading right now. What's up?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-08 18:16:31 UTC">
+      <body>You should come join me!</body>
+    </message>
+    <message id="m0003" participant="135129" time="2011-08-08 18:17:47 UTC">
+      <body>Just wondering. Im just grabbing a quick lunch now at potbelly, but just remembered im down to 30 min lunches for the rest of the summer.</body>
+    </message>
+    <message id="m0004" participant="135129" time="2011-08-08 18:18:02 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-08 18:18:33 UTC">
+      <body>Im next to the government center and the courthouse place facing the plaza</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-08-08 18:18:59 UTC">
+      <body>If you come out atlas and walk towards the fountain across the street you'll see me</body>
+    </message>
+  </messages>
+</conversation>

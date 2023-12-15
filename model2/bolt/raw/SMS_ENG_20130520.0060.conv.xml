@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131042" time="2013-05-20 00:00:50 UTC">
+      <body>Wii is ready to be picked up. Whenever you are free, no rush.</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-20 00:58:46 UTC">
+      <body>Yaaay thank you!!</body>
+    </message>
+  </messages>
+</conversation>

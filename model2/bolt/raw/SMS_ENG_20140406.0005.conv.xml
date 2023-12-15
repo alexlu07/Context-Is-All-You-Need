@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140406.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-06 21:37:44 UTC" participant="152642">
+      <body>Hey, It's Alia. We have rehearsal tonight at 6:30, right? Or is our next one on Thursday next week?</body>
+    </message>
+    <message id="m0001" time="2014-04-06 21:41:21 UTC" participant="152417">
+      <body>Yep, i think im gonna skip it unfortunately</body>
+    </message>
+    <message id="m0002" time="2014-04-06 21:42:50 UTC" participant="152417">
+      <body>That yes tonight</body>
+    </message>
+    <message id="m0003" time="2014-04-06 21:42:51 UTC" participant="152642">
+      <body>We all have those days; see you later this week!</body>
+    </message>
+  </messages>
+</conversation>
+

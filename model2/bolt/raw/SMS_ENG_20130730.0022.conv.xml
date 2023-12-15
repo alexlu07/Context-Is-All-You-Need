@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0022" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-07-30 14:01:18 UTC">
+      <body>Hey. How's you today?</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-07-30 14:05:27 UTC">
+      <body>Not too bad, picking up some Korean food right now</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-07-30 14:09:37 UTC">
+      <body>Cool. Been a while since i've had Korean. There's a korean market with 8 restaurant food court in my old neighborhood. Used to go there twice a week.</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-07-30 14:31:52 UTC">
+      <body>It's awesome! Teppanyaki is the best</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-07-30 14:31:56 UTC">
+      <body>Was it you who's studying to become a French teacher?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-07-30 14:38:22 UTC">
+      <body>Nope. Sounds cool though. ;-) I'm a musician and artist. (read: unemployed &amp; broke)</body>
+    </message>
+    <message id="m0006" participant="130562" time="2013-07-30 14:56:56 UTC">
+      <body>Don't have any PT work?</body>
+    </message>
+  </messages>
+</conversation>

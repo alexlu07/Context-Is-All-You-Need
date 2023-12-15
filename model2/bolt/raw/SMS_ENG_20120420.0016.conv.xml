@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120420.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-04-20 01:09:34 UTC">
+      <body>Which number promo are you?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2012-04-20 01:21:38 UTC">
+      <body>Peanut buttaaaa 6 I think. </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-04-20 01:22:12 UTC">
+      <body>Peanut butter?</body>
+    </message>
+    <message id="m0003" participant="135092" time="2012-04-20 01:23:57 UTC">
+      <body>Prommy text </body>
+    </message>
+  </messages>
+</conversation>

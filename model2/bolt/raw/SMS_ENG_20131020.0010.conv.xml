@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131020.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-20 13:33:03 UTC" participant="153548">
+      <body>Are you still downstairs?</body>
+    </message>
+    <message id="m0001" time="2013-10-20 13:33:26 UTC" participant="153648">
+      <body>
+Yes! Come to cafe lift with us!!!</body>
+    </message>
+    <message id="m0002" time="2013-10-20 13:33:37 UTC" participant="153648">
+      <body>We're leaving in a minute!!</body>
+    </message>
+    <message id="m0003" time="2013-10-20 13:33:47 UTC" participant="153548">
+      <body>Ima come say bye! I have a meeting at 10!</body>
+    </message>
+    <message id="m0004" time="2013-10-20 13:34:08 UTC" participant="153648">
+      <body>Ok come!!!</body>
+    </message>
+  </messages>
+</conversation>
+

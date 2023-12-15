@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120731.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136203" time="2012-07-31 19:09:52 UTC">
+      <body>Bring your camera tonight?</body>
+    </message>
+    <message id="m0001" participant="136203" time="2012-07-31 19:09:52 UTC">
+      <body>Cus it'd be cuuuuute. </body>
+    </message>
+    <message id="m0002" participant="136203" time="2012-07-31 19:09:52 UTC">
+      <body>I mean like, or not. Whatever</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-31 19:10:43 UTC">
+      <body>Why?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-07-31 22:40:59 UTC">
+      <body>Where and when should we meet</body>
+    </message>
+    <message id="m0005" participant="136203" time="2012-07-31 22:45:20 UTC">
+      <body>7:30 at 81st and cpw?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-07-31 22:50:05 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

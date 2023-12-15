@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150125.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-25 04:39:11 UTC" participant="152417">
+      <body>Sorry I didn't make it out, i got home and got sucked in.  What are you up to tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-01-26 02:02:03 UTC" participant="152578">
+      <body>Hey man, sorry you didn't make it out, but good to at least briefly see you last night! We had to get back to nyc early today, but i should be back in philly in a few weeks. We should go mountain biking next time!</body>
+    </message>
+    <message id="m0002" time="2015-01-26 02:21:15 UTC" participant="152417">
+      <body>Yea, let's!</body>
+    </message>
+  </messages>
+</conversation>
+

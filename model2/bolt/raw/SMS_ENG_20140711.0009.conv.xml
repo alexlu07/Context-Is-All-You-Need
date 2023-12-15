@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140711.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-11 22:01:31 UTC" participant="153547">
+      <body>Whatcha doin?</body>
+    </message>
+    <message id="m0001" time="2014-07-11 23:45:50 UTC" participant="149377">
+      <body>At queen of sheeba with Dave </body>
+    </message>
+    <message id="m0002" time="2014-07-12 00:01:01 UTC" participant="153547">
+      <body>Got no $ but if you guys wanna hang in my yard you're welcome to</body>
+    </message>
+    <message id="m0003" time="2014-07-12 00:02:39 UTC" participant="149377">
+      <body>Word </body>
+    </message>
+    <message id="m0004" time="2014-07-12 00:02:51 UTC" participant="153547">
+      <body>I got a few beers </body>
+    </message>
+    <message id="m0005" time="2014-07-12 00:03:49 UTC" participant="153547">
+      <body>And I can do a fire but it might be hot for that</body>
+    </message>
+    <message id="m0006" time="2014-07-12 00:35:55 UTC" participant="153547">
+      <body>Versek is coming over. U guys should too</body>
+    </message>
+    <message id="m0007" time="2014-07-12 01:02:18 UTC" participant="153547">
+      <body>We can play ping pong</body>
+    </message>
+    <message id="m0008" time="2014-07-12 15:09:29 UTC" participant="149377">
+      <body>Yo, got too drunk and passed out at Dave's last night</body>
+    </message>
+  </messages>
+</conversation>
+

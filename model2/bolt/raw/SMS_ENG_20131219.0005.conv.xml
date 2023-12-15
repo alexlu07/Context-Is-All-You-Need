@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131219.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-19 01:33:30 UTC" participant="153561">
+      <body>Lemme know what's up in morning. I may come out to west Philly and ride with you. If so you want me to meet at your house at like 745-8?</body>
+    </message>
+    <message id="m0001" time="2013-12-19 01:33:52 UTC" participant="153561">
+      <body>Sounds good. See you then. </body>
+    </message>
+    <message id="m0002" time="2013-12-19 01:34:26 UTC" participant="153547">
+      <body>Yeah, you wanna just meet at my house at 815?</body>
+    </message>
+    <message id="m0003" time="2013-12-19 13:02:56 UTC" participant="153561">
+      <body>I'm a few minutes away</body>
+    </message>
+  </messages>
+</conversation>
+

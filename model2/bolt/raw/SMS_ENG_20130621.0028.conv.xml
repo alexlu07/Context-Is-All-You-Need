@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-06-21 23:16:54 UTC">
+      <body>Are you busy? Anna is breaking up with me and I don't want to be alone</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-22 00:21:47 UTC">
+      <body>Hey sorry. It'll be like 5 minutes. But if you can't or dont want to come over or need to eat dinner I can Skype with people</body>
+    </message>
+    <message id="m0002" participant="135290" time="2013-06-22 00:24:05 UTC">
+      <body>no, i didn't really have anything planned except tv, i'll be there in ~5 or 10</body>
+    </message>
+    <message id="m0003" participant="135290" time="2013-06-22 03:20:40 UTC">
+      <body>i'm home, no one murdered me. good night! it'll get better.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-06-22 03:21:09 UTC">
+      <body>Wooo! Thanks :)</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-06-22 16:17:16 UTC">
+      <body>You at green line?</body>
+    </message>
+    <message id="m0006" participant="135290" time="2013-06-22 16:39:04 UTC">
+      <body>Yes! I'll probably be here for 30 more minutes</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-06-22 16:51:28 UTC">
+      <body>Sorry I just saw this! Lizzy just got here so I am hanging out with her while she unpacks some stuff. You're welcome to stop by if you want, and if not I'm sure ill see you soon (communal dinner?)</body>
+    </message>
+    <message id="m0008" participant="135290" time="2013-06-22 16:53:12 UTC">
+      <body>no problem. i think i need to get home, but communal dinner sounds good. I'm around, we'll find some time :)</body>
+    </message>
+  </messages>
+</conversation>

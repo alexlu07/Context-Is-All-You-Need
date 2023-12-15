@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140924.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-24 15:30:22 UTC" participant="153547">
+      <body>Do you still have a membership at next fab?</body>
+    </message>
+    <message id="m0001" time="2014-09-24 19:26:35 UTC" participant="149351">
+      <body>Yeah but I switched to a limited membership because I haven't been in a while. </body>
+    </message>
+    <message id="m0002" time="2014-09-24 19:29:55 UTC" participant="153547">
+      <body>Smeltzer can't do my laser cuts apparently. Any chance you could help me get a few done in the next week or so</body>
+    </message>
+    <message id="m0003" time="2014-09-24 19:31:12 UTC" participant="149351">
+      <body>My membership is only good for a limited monthly visit currently. It's on hold essentially. </body>
+    </message>
+  </messages>
+</conversation>
+

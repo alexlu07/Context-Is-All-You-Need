@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131003" time="2013-07-02 15:03:38 UTC">
+      <body>Bye quirks</body>
+    </message>
+    <message id="m0001" participant="133240" time="2013-07-02 15:33:21 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-07-02 15:34:19 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-07-02 15:34:51 UTC">
+      <body>So this is still going on? I haven't had a text in days...</body>
+    </message>
+    <message id="m0004" participant="133240" time="2013-07-02 15:34:59 UTC">
+      <body>How's it.going</body>
+    </message>
+    <message id="m0005" participant="133240" time="2013-07-02 15:35:46 UTC">
+      <body>I still don't know how this works lol. I just get texts on Mondays and Tuesdays</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-07-02 15:36:23 UTC">
+      <body>Ok thanks you?</body>
+    </message>
+    <message id="m0007" participant="133240" time="2013-07-02 15:38:13 UTC">
+      <body>Good just having lunch abd a beer.</body>
+    </message>
+    <message id="m0008" participant="131003" time="2013-07-02 15:39:36 UTC">
+      <body>That sounds nice.</body>
+    </message>
+    <message id="m0009" participant="131003" time="2013-07-02 15:39:36 UTC">
+      <body>I'm at work therefore no beer.</body>
+    </message>
+    <message id="m0010" participant="133240" time="2013-07-02 15:40:50 UTC">
+      <body>Yeah I'm trying to reach a Guinness l hundred beers at this one bar to get my name in the wall</body>
+    </message>
+    <message id="m0011" participant="133240" time="2013-07-02 15:40:57 UTC">
+      <body>Where u with</body>
+    </message>
+    <message id="m0012" participant="133240" time="2013-07-02 15:40:57 UTC">
+      <body>Work</body>
+    </message>
+    <message id="m0013" participant="131003" time="2013-07-02 15:42:26 UTC">
+      <body>Ohhh fun!</body>
+    </message>
+    <message id="m0014" participant="131003" time="2013-07-02 15:42:26 UTC">
+      <body>Wilmington DE</body>
+    </message>
+    <message id="m0015" participant="133240" time="2013-07-02 15:45:30 UTC">
+      <body>Oh wow. In in urbana il</body>
+    </message>
+    <message id="m0016" participant="131003" time="2013-07-02 15:46:42 UTC">
+      <body>Yeah it's not really lunchtime here</body>
+    </message>
+  </messages>
+</conversation>

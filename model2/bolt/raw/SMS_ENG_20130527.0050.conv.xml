@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-05-27 19:35:19 UTC">
+      <body>What's good with Brazil?</body>
+    </message>
+    <message id="m0001" participant="136637" time="2013-05-27 19:36:52 UTC">
+      <body>Yo man, I have not done anything besides telling people I want to go. Abu said he's down. That about it. I'm going to get the visa one day this summer</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-05-27 19:39:42 UTC">
+      <body>When you thinking</body>
+    </message>
+    <message id="m0003" participant="136637" time="2013-05-27 19:40:32 UTC">
+      <body>Winter, November/December</body>
+    </message>
+    <message id="m0004" participant="136637" time="2013-05-27 19:40:43 UTC">
+      <body>Summer there</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-05-27 19:41:36 UTC">
+      <body>Carnival? World cup?</body>
+    </message>
+    <message id="m0006" participant="136637" time="2013-05-27 19:42:38 UTC">
+      <body>I'm down with those too. More expensive though. I'd prefer carnival. World Cup is over a year from now</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140405.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-05 13:27:28 UTC" participant="152417">
+      <body>Did you feed the girls this morning?</body>
+    </message>
+    <message id="m0001" time="2014-04-05 13:30:40 UTC" participant="152560">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2014-04-05 13:33:08 UTC" participant="152417">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

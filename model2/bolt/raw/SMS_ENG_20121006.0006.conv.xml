@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-10-06 19:44:23 UTC">
+      <body>Ben told me I should go to Kevin's last show tonight, nah</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-10-06 19:48:10 UTC">
+      <body>Nope!</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-10-06 19:49:19 UTC">
+      <body>I don't know why he thinks Kevin is so important to everyone</body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-10-06 19:54:00 UTC">
+      <body>I know really</body>
+    </message>
+  </messages>
+</conversation>

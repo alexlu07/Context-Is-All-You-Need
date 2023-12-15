@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-10 18:30:20 UTC">
+      <body>Hey! Is there a chance I could borrow clothes from you for drag ball tonight?</body>
+    </message>
+    <message id="m0001" participant="135276" time="2012-11-10 18:46:05 UTC">
+      <body>Possibly, depends on what you need. Come round after dinner?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-10 18:46:45 UTC">
+      <body>Haha okay :) I don't know what I need...a shirt and pants if they fit?</body>
+    </message>
+  </messages>
+</conversation>

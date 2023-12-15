@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135416" time="2013-04-19 11:12:00 UTC">
+      <body>Omg. Are you ok in Boston? This shit is crazy. Sorry I didn't get to call you back yet. </body>
+    </message>
+    <message id="m0001" participant="135416" time="2013-04-19 11:14:08 UTC">
+      <body>That's Good. Wow. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-19 11:14:36 UTC">
+      <body>Yeah. I'm safe.  Everyone I know is safe.  It's very scary. Thanks for asking!!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-19 11:16:23 UTC">
+      <body> Yeah.  Stay safe in Philadelphia.  </body>
+    </message>
+  </messages>
+</conversation>

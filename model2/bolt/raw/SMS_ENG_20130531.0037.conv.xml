@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-31 14:31:04 UTC">
+      <body>How's the bass head lookin?</body>
+    </message>
+    <message id="m0001" participant="131981" time="2013-05-31 14:32:32 UTC">
+      <body>It's fixed. Sorry, I lost my phone and messages so I've been waiting for you to text me.</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-31 15:10:44 UTC">
+      <body>Oh, cool. I'll try to come by this weekend</body>
+    </message>
+    <message id="m0003" participant="131981" time="2013-05-31 15:10:56 UTC">
+      <body>Sunday would be best.</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-05-31 15:27:38 UTC">
+      <body>Ok. Are ya around today?</body>
+    </message>
+    <message id="m0005" participant="131981" time="2013-05-31 15:28:00 UTC">
+      <body>No, I'm not unfortunately</body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-05-31 15:39:24 UTC">
+      <body>K, let's shoot for Saturday </body>
+    </message>
+    <message id="m0007" participant="131981" time="2013-05-31 15:40:48 UTC">
+      <body>I have a lot going on sat but we may be able to do that, I'm around most of sun.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140823.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-23 00:15:46 UTC" participant="149364">
+      <body>Djou find out if there's anything going on?</body>
+    </message>
+    <message id="m0001" time="2014-08-23 00:19:02 UTC" participant="149306">
+      <body>No. I went to dinner with friends and am headed home from old city in a bit</body>
+    </message>
+    <message id="m0002" time="2014-08-23 00:43:19 UTC" participant="149306">
+      <body>U doing anything?</body>
+    </message>
+    <message id="m0003" time="2014-08-23 00:47:20 UTC" participant="149364">
+      <body>Meeting up with a friend for a minute, then I don't know.</body>
+    </message>
+    <message id="m0004" time="2014-08-23 01:26:09 UTC" participant="149306">
+      <body>It's too full I'm going to pasqualies </body>
+    </message>
+  </messages>
+</conversation>
+

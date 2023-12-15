@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140908.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-08 21:06:17 UTC" participant="152571">
+      <body>Hey Gabi, Jarred here. Can we do our lesson tomorrow at 5pm, instead of 530? This will be just for this week...</body>
+    </message>
+    <message id="m0001" time="2014-09-08 21:07:19 UTC" participant="152417">
+      <body>Sure, see you then</body>
+    </message>
+    <message id="m0002" time="2014-09-08 21:08:28 UTC" participant="152571">
+      <body>Great. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

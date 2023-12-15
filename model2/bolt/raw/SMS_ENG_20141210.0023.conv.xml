@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141210.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-10 20:50:46 UTC" participant="153804">
+      <body> I have a few questions about the Store lists,when you can get back to me</body>
+    </message>
+    <message id="m0001" time="2014-12-10 22:44:21 UTC" participant="153804">
+      <body>Is there a list for shipping dates of cabinetry to Rite-Aid's available?</body>
+    </message>
+    <message id="m0002" time="2014-12-10 23:09:53 UTC" participant="153822">
+      <body>No - there isn't. </body>
+    </message>
+    <message id="m0003" time="2014-12-11 14:30:59 UTC" participant="153822">
+      <body>Hi. If I don't answer I am on the phone.  You can email me the store #, city &amp; date. Thanks. </body>
+    </message>
+    <message id="m0004" time="2014-12-11 19:37:36 UTC" participant="153822">
+      <body>I hate Google docs!  Do you have a Mac or a regular computer?</body>
+    </message>
+    <message id="m0005" time="2014-12-11 19:38:11 UTC" participant="153804">
+      <body>Maybe next time around I'll have figured out the Google docs any tips?</body>
+    </message>
+    <message id="m0006" time="2014-12-11 19:39:16 UTC" participant="153804">
+      <body>Mac</body>
+    </message>
+    <message id="m0007" time="2014-12-11 19:39:44 UTC" participant="153822">
+      <body>I use excel.  I think there is a way to use that on a Mac but not sure. </body>
+    </message>
+  </messages>
+</conversation>
+

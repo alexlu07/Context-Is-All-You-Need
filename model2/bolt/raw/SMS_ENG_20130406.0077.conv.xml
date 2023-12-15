@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0077" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-06 02:00:55 UTC" participant="152560">
+      <body>Hungry?</body>
+    </message>
+    <message id="m0001" time="2013-04-06 02:10:16 UTC" participant="152417">
+      <body>Im at a spielpalast meeting, i think well be done in half hour, but im very full</body>
+    </message>
+    <message id="m0002" time="2013-04-06 02:29:12 UTC" participant="152560">
+      <body>Home early tonight.</body>
+    </message>
+    <message id="m0003" time="2013-04-06 02:33:35 UTC" participant="152417">
+      <body>Cool, ill come see you soon</body>
+    </message>
+    <message id="m0004" time="2013-04-06 15:58:16 UTC" participant="152417">
+      <body>Can you send me your wifi password? Our interweb is still out</body>
+    </message>
+  </messages>
+</conversation>
+

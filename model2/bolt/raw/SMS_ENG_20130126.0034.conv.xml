@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-26 22:24:34 UTC">
+      <body>Kelly it's Sofie text me when u need to get back in</body>
+    </message>
+    <message id="m0001" participant="135472" time="2013-01-26 22:26:08 UTC">
+      <body>Hi Sophie. Thank you!</body>
+    </message>
+    <message id="m0002" participant="135472" time="2013-01-26 23:53:36 UTC">
+      <body>Hi Sophie. Can you come let me in. I'm outside tower on the 1st floor</body>
+    </message>
+  </messages>
+</conversation>

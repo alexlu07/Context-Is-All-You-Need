@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120828.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-28 03:48:27 UTC">
+      <body>I will call you tomorrow after I choose my classes!</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-08-28 03:49:21 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

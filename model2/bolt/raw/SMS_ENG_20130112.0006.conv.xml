@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130702" time="2013-01-12 22:55:13 UTC">
+      <body>how are you doing?</body>
+    </message>
+    <message id="m0001" participant="130702" time="2013-01-12 23:00:42 UTC">
+      <body>i would love that sometime! and ill deefinitely ask around about cats.</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-01-12 23:03:10 UTC">
+      <body>Let me know your schedule and we will make it happen! And thanks!</body>
+    </message>
+    <message id="m0003" participant="130702" time="2013-01-12 23:05:39 UTC">
+      <body>Unfortunately im a weekends only. i work a little too early for midweek brunch. dundun..</body>
+    </message>
+    <message id="m0004" participant="130664" time="2013-01-12 23:07:02 UTC">
+      <body>Weekend brunch is a little boozier, all the better!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141010.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-10 19:46:24 UTC" participant="152424">
+      <body>going to start chemo Monday.  3 3-week cycles.  doctor expects very high success, nothing to worry about</body>
+    </message>
+    <message id="m0001" time="2014-10-10 19:48:06 UTC" participant="152417">
+      <body>Phew.  you'll be able to stay in school too?</body>
+    </message>
+    <message id="m0002" time="2014-10-10 19:51:29 UTC" participant="152424">
+      <body>yeah but barely</body>
+    </message>
+    <message id="m0003" time="2014-10-10 19:53:07 UTC" participant="152417">
+      <body>Do you want my hair?</body>
+    </message>
+    <message id="m0004" time="2014-10-10 19:53:21 UTC" participant="152424">
+      <body>no but thanks</body>
+    </message>
+    <message id="m0005" time="2014-10-10 19:53:46 UTC" participant="152417">
+      <body>Also I'd be happy to go with you to some treatments if you want company</body>
+    </message>
+    <message id="m0006" time="2014-10-10 20:02:15 UTC" participant="152424">
+      <body>thank you.  at some point</body>
+    </message>
+  </messages>
+</conversation>
+

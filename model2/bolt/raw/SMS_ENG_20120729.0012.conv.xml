@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120729.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-29 19:01:04 UTC">
+      <body>Do you wanna bring that brownie tomorrow</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-30 17:26:11 UTC">
+      <body>I'll be a little late</body>
+    </message>
+    <message id="m0002" participant="136241" time="2012-07-30 17:26:47 UTC">
+      <body>Okay how late? Also im getting pizza</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-30 17:27:12 UTC">
+      <body>I'll be there in 15</body>
+    </message>
+    <message id="m0004" participant="136241" time="2012-07-30 17:30:37 UTC">
+      <body>Ojay</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-30 17:38:00 UTC">
+      <body>Ok I'm at Christopher st</body>
+    </message>
+  </messages>
+</conversation>

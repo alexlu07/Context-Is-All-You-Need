@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130821" time="2013-07-30 00:06:26 UTC">
+      <body>I am not.  My leg hurts, gotta rest it.</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-30 00:28:15 UTC">
+      <body>Uh oh. </body>
+    </message>
+  </messages>
+</conversation>

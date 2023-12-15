@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140514.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-14 19:16:15 UTC" participant="152417">
+      <body>Show is at 830, wanna go to pho hung at 7ish?</body>
+    </message>
+    <message id="m0001" time="2014-05-14 19:48:16 UTC" participant="152566">
+      <body>Sure, man. Can I invite Lyndsay?</body>
+    </message>
+    <message id="m0002" time="2014-05-14 19:49:20 UTC" participant="152417">
+      <body>Please do</body>
+    </message>
+    <message id="m0003" time="2014-05-14 22:54:44 UTC" participant="152417">
+      <body>We're heades to pho now</body>
+    </message>
+    <message id="m0004" time="2014-05-14 23:02:02 UTC" participant="152566">
+      <body>I'll be over in a few. Just did an impromptu apt showing</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150306.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-06 01:26:28 UTC" participant="152310">
+      <body>Sofie, what's the name of that painter who prints his works? Wade Guyton?</body>
+    </message>
+    <message id="m0001" time="2015-03-06 01:26:49 UTC" participant="152212">
+      <body> Yessss</body>
+    </message>
+    <message id="m0002" time="2015-03-06 01:26:57 UTC" participant="152212">
+      <body>U have a good memory </body>
+    </message>
+    <message id="m0003" time="2015-03-06 01:27:04 UTC" participant="152212">
+      <body>Prints the "x"s</body>
+    </message>
+    <message id="m0004" time="2015-03-06 01:28:51 UTC" participant="152310">
+      <body>OK, thanks!</body>
+    </message>
+    <message id="m0005" time="2015-03-06 01:32:24 UTC" participant="152212">
+      <body>i have his book if you are interested</body>
+    </message>
+  </messages>
+</conversation>
+

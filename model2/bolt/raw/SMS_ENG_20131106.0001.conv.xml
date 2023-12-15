@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131106.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-06 21:51:42 UTC" participant="152535">
+      <body>Shoot for six. I will be running around a bit. Be well</body>
+    </message>
+    <message id="m0001" time="2013-11-06 21:52:05 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+    <message id="m0002" time="2013-11-06 22:02:40 UTC" participant="152535">
+      <body>6:10 maybe.</body>
+    </message>
+    <message id="m0003" time="2013-11-06 23:04:32 UTC" participant="152535">
+      <body>I am stuck in traffic. Dont rush</body>
+    </message>
+    <message id="m0004" time="2013-11-06 23:10:27 UTC" participant="152417">
+      <body>Should we just wait til fri? We wont have much time once we're set up</body>
+    </message>
+    <message id="m0005" time="2013-11-06 23:13:04 UTC" participant="152535">
+      <body>I will be there soon. I dont have to set up so can help. </body>
+    </message>
+    <message id="m0006" time="2013-11-07 17:54:54 UTC" participant="152417">
+      <body>Does fri 12/13, 5-7 work for you for half lounge?</body>
+    </message>
+    <message id="m0007" time="2013-11-07 20:02:07 UTC" participant="152535">
+      <body>Yeah! Molls just got a ride from anwars son. Wild!</body>
+    </message>
+    <message id="m0008" time="2013-11-07 20:18:46 UTC" participant="152417">
+      <body>Cool, and Nazir is awesome</body>
+    </message>
+  </messages>
+</conversation>
+

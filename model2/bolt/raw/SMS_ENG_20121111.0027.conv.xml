@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135279" time="2012-11-11 23:23:01 UTC">
+      <body>We're not home. Close to 9 easiest</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-11 23:23:28 UTC">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>

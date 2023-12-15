@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140612.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-12 19:21:47 UTC" participant="153548">
+      <body>Hey! I'm exporting a file
+For you now. Looks like it will be ready by 5! I can meet you on campus-wherever is good for you!</body>
+    </message>
+    <message id="m0001" time="2014-06-12 20:51:36 UTC" participant="153633">
+      <body>Hey, that's awesome!!  </body>
+    </message>
+    <message id="m0002" time="2014-06-12 20:51:54 UTC" participant="153633">
+      <body>What time do you want to meet?</body>
+    </message>
+    <message id="m0003" time="2014-06-12 20:52:00 UTC" participant="153633">
+      <body>Before or after I go to the gym?</body>
+    </message>
+    <message id="m0004" time="2014-06-12 20:52:42 UTC" participant="153548">
+      <body>Before! Is 5:15 okay?</body>
+    </message>
+    <message id="m0005" time="2014-06-12 20:52:55 UTC" participant="153633">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0006" time="2014-06-12 20:53:09 UTC" participant="153633">
+      <body>Where are you coming from?</body>
+    </message>
+    <message id="m0007" time="2014-06-12 20:53:45 UTC" participant="153548">
+      <body>Great! I am home. Gonna
+Meet you on the way to north Philly in the car</body>
+    </message>
+    <message id="m0008" time="2014-06-12 20:54:24 UTC" participant="153633">
+      <body>Okay.  Is Starbucks on Chestnut good so you can park?</body>
+    </message>
+    <message id="m0009" time="2014-06-12 20:54:24 UTC" participant="153633">
+      <body>Great!  See ya.</body>
+    </message>
+    <message id="m0010" time="2014-06-12 20:54:51 UTC" participant="153548">
+      <body>Perfect!!! I'll see ya in a few!</body>
+    </message>
+  </messages>
+</conversation>
+

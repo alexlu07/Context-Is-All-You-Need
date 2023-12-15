@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-12 17:33:52 UTC" participant="153678">
+      <body>Fierce medicine tonight? 645?!?! </body>
+    </message>
+    <message id="m0001" time="2014-05-12 17:35:28 UTC" participant="153548">
+      <body>Yes!!! I can't wait!</body>
+    </message>
+    <message id="m0002" time="2014-05-12 17:35:45 UTC" participant="153678">
+      <body>It's going to be a hot one</body>
+    </message>
+    <message id="m0003" time="2014-05-12 17:58:23 UTC" participant="153548">
+      <body>I know I'm already sweating! Gotta wear my bikini.</body>
+    </message>
+    <message id="m0004" time="2014-05-12 17:59:28 UTC" participant="153678">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

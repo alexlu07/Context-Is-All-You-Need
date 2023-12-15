@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-06-07 21:24:16 UTC">
+      <body>Hey! What's shakin', man? when does the aramark gig start?</body>
+    </message>
+    <message id="m0001" participant="130688" time="2013-06-08 11:03:07 UTC">
+      <body>Monday at 9am.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-06-08 14:05:45 UTC">
+      <body>That's awesome!</body>
+    </message>
+  </messages>
+</conversation>

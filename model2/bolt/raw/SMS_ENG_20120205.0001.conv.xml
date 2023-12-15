@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120205.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130692" time="2012-02-05 22:46:35 UTC">
+      <body>Great, what's your email address? I'll let you know what time in the morning we'll start once I figure it out</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-02-06 20:15:52 UTC">
+      <body>Hi Dave, shoot got rescheduled. Are you available Friday instead?</body>
+    </message>
+    <message id="m0004" participant="131325" time="2012-02-06 20:17:44 UTC">
+      <body>Yeah, friday is open.</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-02-06 20:18:41 UTC">
+      <body>Cool I'll let you know exact times later in the week</body>
+    </message>
+    <message id="m0006" participant="131325" time="2012-02-06 20:20:11 UTC">
+      <body>Cool.</body>
+    </message>
+  </messages>
+</conversation>

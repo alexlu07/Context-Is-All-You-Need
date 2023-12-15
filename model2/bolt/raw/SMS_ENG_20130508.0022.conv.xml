@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2013-05-08 22:06:56 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0001" participant="131019" time="2013-05-08 22:07:52 UTC">
+      <body>I'm back home!!</body>
+    </message>
+    <message id="m0003" participant="131019" time="2013-05-08 22:08:50 UTC">
+      <body>It was great! So much fun (:</body>
+    </message>
+    <message id="m0004" participant="131064" time="2013-05-08 22:08:59 UTC">
+      <body>Nice!!!!</body>
+    </message>
+    <message id="m0005" participant="131064" time="2013-05-08 22:09:04 UTC">
+      <body>Call when u lik </body>
+    </message>
+    <message id="m0006" participant="131064" time="2013-05-08 22:09:04 UTC">
+      <body>Me home. </body>
+    </message>
+    <message id="m0007" participant="131064" time="2013-05-08 22:09:04 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0008" participant="131019" time="2013-05-08 22:09:25 UTC">
+      <body>I'll call you in a minute</body>
+    </message>
+  </messages>
+</conversation>

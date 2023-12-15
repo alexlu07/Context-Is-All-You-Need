@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140605.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-05 23:29:48 UTC" participant="153466">
+      <body>You still talk to ####</body>
+    </message>
+    <message id="m0001" time="2014-06-05 23:30:02 UTC" participant="153466">
+      <body>?</body>
+    </message>
+    <message id="m0002" time="2014-06-05 23:30:15 UTC" participant="152374">
+      <body>Yeah, why?</body>
+    </message>
+    <message id="m0003" time="2014-06-05 23:31:49 UTC" participant="153466">
+      <body>Just wondered. He came to mind for some reason, funny fuckin guy.</body>
+    </message>
+    <message id="m0004" time="2014-06-05 23:32:24 UTC" participant="152374">
+      <body>He moved to the burbs and had a kid so I haven't seen him in ages, but we talked a couple of weeks ago</body>
+    </message>
+  </messages>
+</conversation>
+

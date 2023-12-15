@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135287" time="2013-03-09 16:12:48 UTC">
+      <body>Wait when you back?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-09 16:51:11 UTC">
+      <body>Tomorrow thru Wednesday</body>
+    </message>
+  </messages>
+</conversation>

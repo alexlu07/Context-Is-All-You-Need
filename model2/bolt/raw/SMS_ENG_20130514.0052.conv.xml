@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135269" time="2013-05-14 16:23:24 UTC">
+      <body>Brunch?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-14 16:23:41 UTC">
+      <body>Already here!</body>
+    </message>
+    <message id="m0002" participant="135269" time="2013-05-14 16:28:34 UTC">
+      <body>I'm going to dumb my stuff in lloyd then</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-14 16:33:14 UTC">
+      <body>Ok we are almost done just to let you know...Fairleigh said she would stay but I might go take a nap</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-15 14:45:24 UTC">
+      <body>Is the DC open?</body>
+    </message>
+    <message id="m0005" participant="135269" time="2013-05-15 14:45:42 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-15 14:45:58 UTC">
+      <body>Ok thanks</body>
+    </message>
+    <message id="m0007" participant="135269" time="2013-05-15 14:46:02 UTC">
+      <body>The gates were closed</body>
+    </message>
+    <message id="m0008" participant="135269" time="2013-05-16 01:26:55 UTC">
+      <body>When are you leaving for grog</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111118.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131822" time="2011-11-18 21:22:25 UTC">
+      <body>My coach+partner need to stay somewhere tonight; do you think we could let them stay?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-11-18 23:23:09 UTC">
+      <body>I do</body>
+    </message>
+  </messages>
+</conversation>

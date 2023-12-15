@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 06:04:15 UTC" participant="152417">
+      <body>Hey Ray, happy new year! I hear you're in town.  I'm playin in beehoven's 9th symphony tomorrow afternoon in colchester if youre interested</body>
+    </message>
+    <message id="m0001" time="2014-01-01 07:02:24 UTC" participant="152549">
+      <body>Hey Gabe - happy New Years to you too!! What time are you playing tomorrow?  My folks are here and I'm gonna have to coordinate with them</body>
+    </message>
+    <message id="m0002" time="2014-01-01 07:04:39 UTC" participant="152417">
+      <body>3 pm at Elley Long music center</body>
+    </message>
+    <message id="m0003" time="2014-01-01 19:17:51 UTC" participant="152549">
+      <body>Me and Bryan' ll be there !</body>
+    </message>
+    <message id="m0004" time="2014-01-01 19:31:28 UTC" participant="152417">
+      <body>Cool, ill have some tickets at will call for yal</body>
+    </message>
+    <message id="m0005" time="2014-01-01 22:40:56 UTC" participant="152549">
+      <body>Hey Gabe - we had to bounce early, great job tho ..I had no idea that you played in a symphony orchestra </body>
+    </message>
+    <message id="m0006" time="2014-01-01 22:40:58 UTC" participant="152549">
+      <body>And thanks for hooking us up with tickets</body>
+    </message>
+  </messages>
+</conversation>
+

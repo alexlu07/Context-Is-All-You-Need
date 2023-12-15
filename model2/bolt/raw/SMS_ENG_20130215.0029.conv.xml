@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-02-15 20:21:04 UTC">
+      <body>Hey guys, anyone want to do an early dinner at 5?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-15 20:21:18 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-16 16:20:53 UTC">
+      <body>11:30 brunch anyone?</body>
+    </message>
+    <message id="m0003" participant="135274" time="2013-02-16 16:35:18 UTC">
+      <body>12?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-16 16:38:05 UTC">
+      <body>Meet us!</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-02-16 16:39:02 UTC">
+      <body>Aiight! are you already there?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-02-16 16:40:07 UTC">
+      <body>Heading over from gumgum now</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-02-16 16:40:53 UTC">
+      <body>K, cool. See you there in a bit.</body>
+    </message>
+    <message id="m0008" participant="135274" time="2013-02-17 16:09:26 UTC">
+      <body>Lunch at 12?</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-02-17 16:48:39 UTC">
+      <body>Yeah! I might need a couple extra minutes but I can meet you if so</body>
+    </message>
+    <message id="m0010" participant="135274" time="2013-02-17 16:54:24 UTC">
+      <body>Yay! hannah needs until 12:15, so maybe we'll go then?</body>
+    </message>
+  </messages>
+</conversation>

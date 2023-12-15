@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120609.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-09 20:58:20 UTC">
+      <body>Hey what table are you sitting at for prom</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-06-09 23:01:59 UTC">
+      <body>Stein sayles has a free table i'm sitting there tentatively, hbu?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-09 23:02:51 UTC">
+      <body>I'm at table 52. Sit near there!</body>
+    </message>
+    <message id="m0003" participant="136210" time="2012-06-09 23:04:01 UTC">
+      <body>47 over here, who with?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-09 23:05:47 UTC">
+      <body>Jordan Julia will Suarez sasha peter and maybe Joygill and Lisa</body>
+    </message>
+    <message id="m0005" participant="136210" time="2012-06-09 23:10:11 UTC">
+      <body>Aight swag discussing with michell</body>
+    </message>
+  </messages>
+</conversation>

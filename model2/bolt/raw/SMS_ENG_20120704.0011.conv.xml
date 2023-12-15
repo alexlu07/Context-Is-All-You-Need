@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120704.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-04 21:29:27 UTC">
+      <body>Where ate you from</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-04 21:29:37 UTC">
+      <body>Are you from in boston</body>
+    </message>
+    <message id="m0002" participant="135406" time="2012-07-05 18:00:50 UTC">
+      <body>Congrats on the iPhone </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-05 18:09:51 UTC">
+      <body>Gay thanks says my microphone</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-05 18:10:03 UTC">
+      <body>Not gay yay</body>
+    </message>
+    <message id="m0005" participant="135406" time="2012-07-05 18:16:32 UTC">
+      <body>Haha. Cool! </body>
+    </message>
+  </messages>
+</conversation>

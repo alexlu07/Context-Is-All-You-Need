@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121222.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2012-12-22 03:28:36 UTC">
+      <body>Heading out</body>
+    </message>
+    <message id="m0001" participant="131450" time="2012-12-22 03:30:05 UTC">
+      <body>Okay! We should be boarding in a couple minutes, I think we aren't scheduled to take off until 11 so take your time on the roads...</body>
+    </message>
+    <message id="m0002" participant="131473" time="2012-12-22 03:30:42 UTC">
+      <body>Mom says good night</body>
+    </message>
+    <message id="m0003" participant="131473" time="2012-12-22 03:30:48 UTC">
+      <body>See you soon</body>
+    </message>
+    <message id="m0004" participant="131450" time="2012-12-22 03:40:18 UTC">
+      <body>Haha we say good night too. Just boarded, turning off my phone now!</body>
+    </message>
+    <message id="m0005" participant="131450" time="2012-12-22 05:00:40 UTC">
+      <body>Just landed...about to get off the plane, and we checked bags so we'll have to grab those.</body>
+    </message>
+    <message id="m0006" participant="131473" time="2012-12-22 05:02:01 UTC">
+      <body> No problem. I'm outside...let me know when you have the bags and ill pull around...southwest right ?</body>
+    </message>
+    <message id="m0007" participant="131450" time="2012-12-22 05:04:35 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0008" participant="131473" time="2012-12-22 05:04:57 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

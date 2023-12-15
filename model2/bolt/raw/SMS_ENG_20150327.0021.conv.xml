@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150327.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-27 11:26:51 UTC" participant="153412">
+      <body>Ready when you are!</body>
+    </message>
+    <message id="m0001" time="2015-03-27 11:27:14 UTC" participant="153416">
+      <body>Leaving in a few!</body>
+    </message>
+    <message id="m0002" time="2015-03-27 11:27:33 UTC" participant="153412">
+      <body>Okay!</body>
+    </message>
+    <message id="m0003" time="2015-03-27 11:37:01 UTC" participant="153416">
+      <body>Be there in a minute</body>
+    </message>
+    <message id="m0004" time="2015-03-27 11:37:19 UTC" participant="153412">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" time="2015-03-27 15:16:22 UTC" participant="153412">
+      <body>I AM REGISTERED FOR BIOCHEMISTRY!!!!!!</body>
+    </message>
+    <message id="m0006" time="2015-03-27 15:16:44 UTC" participant="153416">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0007" time="2015-03-27 15:22:47 UTC" participant="153412">
+      <body>Such a relief!</body>
+    </message>
+    <message id="m0008" time="2015-03-27 15:44:26 UTC" participant="153416">
+      <body>I bet!</body>
+    </message>
+  </messages>
+</conversation>
+

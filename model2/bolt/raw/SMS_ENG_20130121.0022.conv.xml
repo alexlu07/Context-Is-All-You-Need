@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130121.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133056" time="2013-01-21 20:52:19 UTC">
+      <body>Just realized I have Logan's Thing 2 hoodie in my bag - I'll bring it on Saturday unless he wants it sooner</body>
+    </message>
+    <message id="m0001" participant="133317" time="2013-01-21 21:28:32 UTC">
+      <body>No problem Saturday will be fine. Can you do 9am?</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-01-21 21:33:51 UTC">
+      <body>Of course</body>
+    </message>
+    <message id="m0003" participant="133317" time="2013-01-21 21:34:17 UTC">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>

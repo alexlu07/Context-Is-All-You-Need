@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120622.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-22 13:07:36 UTC" participant="152374">
+      <body>###########################I hear you're at Yale today! Stop by Dunham lab if you're anywhere near Hillhouse######################################. If not, though, enjoy your trip, and make someone buy you a lobster roll  :-)</body>
+    </message>
+    <message id="m0001" time="2012-06-22 13:13:09 UTC" participant="152382">
+      <body>Yeah we will stop by any specific time good?</body>
+    </message>
+    <message id="m0002" time="2012-06-22 13:14:01 UTC" participant="152374">
+      <body>I have meetings from noon on, but before then I'll be around!</body>
+    </message>
+    <message id="m0003" time="2012-06-22 13:16:07 UTC" participant="152382">
+      <body>Ok we will be there sometime before then</body>
+    </message>
+    <message id="m0004" time="2012-06-22 14:20:11 UTC" participant="152382">
+      <body>I am outside the doors</body>
+    </message>
+  </messages>
+</conversation>
+

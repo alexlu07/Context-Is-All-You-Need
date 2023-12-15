@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120619.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131283" time="2012-06-19 21:53:20 UTC">
+      <body>Hey #####! Hope all is well. Wondering if you're free Thursday afternoon for a quick visit. Let me know. Hi to # &amp;amp;a##########; L :)</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-06-20 00:45:20 UTC">
+      <body>Yup, Thurs would be fine. What time? </body>
+    </message>
+    <message id="m0002" participant="131283" time="2012-06-20 14:13:59 UTC">
+      <body>Does 3 work tmrw?</body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-06-20 14:54:26 UTC">
+      <body>Yup, that's fine for us.</body>
+    </message>
+    <message id="m0004" participant="131283" time="2012-06-20 14:55:06 UTC">
+      <body>Great. See you then!</body>
+    </message>
+  </messages>
+</conversation>

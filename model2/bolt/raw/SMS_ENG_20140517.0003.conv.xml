@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 20:52:21 UTC" participant="152480">
+      <body>If you bring synth tonight, I can pay you</body>
+    </message>
+    <message id="m0002" time="2014-05-17 21:01:28 UTC" participant="152417">
+      <body>Cool I just brought it woth me.  Whats your best offer?</body>
+    </message>
+    <message id="m0003" time="2014-05-17 21:13:21 UTC" participant="152480">
+      <body>Hmm. What's your lowest offer?</body>
+    </message>
+    <message id="m0004" time="2014-05-17 21:15:40 UTC" participant="152417">
+      <body>$55</body>
+    </message>
+    <message id="m0005" time="2014-05-17 21:41:20 UTC" participant="152480">
+      <body>$50?</body>
+    </message>
+    <message id="m0006" time="2014-05-17 21:45:07 UTC" participant="152417">
+      <body>Deal</body>
+    </message>
+    <message id="m0007" time="2014-05-17 21:45:26 UTC" participant="152480">
+      <body>$40?</body>
+    </message>
+    <message id="m0008" time="2014-05-17 21:49:52 UTC" participant="152480">
+      <body>Ok. Deal. (I figured it didn't hurt to try ;) </body>
+    </message>
+    <message id="m0009" time="2014-05-17 21:50:40 UTC" participant="152417">
+      <body>50</body>
+    </message>
+  </messages>
+</conversation>
+

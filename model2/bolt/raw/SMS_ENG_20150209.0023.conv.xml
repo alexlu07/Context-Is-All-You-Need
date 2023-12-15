@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 19:26:56 UTC" participant="153624">
+      <body>How much are your eye prints?</body>
+    </message>
+    <message id="m0001" time="2015-02-09 19:29:06 UTC" participant="153547">
+      <body>From me or from Gush?</body>
+    </message>
+    <message id="m0002" time="2015-02-09 19:29:17 UTC" participant="153624">
+      <body>You</body>
+    </message>
+    <message id="m0003" time="2015-02-09 19:29:36 UTC" participant="153547">
+      <body>$100 with ikea frame</body>
+    </message>
+    <message id="m0004" time="2015-02-09 19:31:46 UTC" participant="153624">
+      <body>Are they triangular framed?</body>
+    </message>
+    <message id="m0005" time="2015-02-09 19:32:10 UTC" participant="153547">
+      <body>IKEA frame</body>
+    </message>
+    <message id="m0006" time="2015-02-09 21:22:08 UTC" participant="153624">
+      <body>Can I use the car at 5?</body>
+    </message>
+    <message id="m0007" time="2015-02-09 21:22:08 UTC" participant="153624">
+      <body>Or 5:15</body>
+    </message>
+  </messages>
+</conversation>
+

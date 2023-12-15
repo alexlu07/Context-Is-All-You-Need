@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0003" participant="131969" time="2013-06-24 16:40:34 UTC">
+      <body>I'm gonna try and get you that stuff today. When are you free to hang out?</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-24 16:41:17 UTC">
+      <body>I'm free most if today...a little tomorrow night too</body>
+    </message>
+    <message id="m0005" participant="131969" time="2013-06-24 16:42:15 UTC">
+      <body>Cool I'll see what I can do and then we can jam</body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-06-24 16:43:06 UTC">
+      <body>Wrrrrd</body>
+    </message>
+  </messages>
+</conversation>

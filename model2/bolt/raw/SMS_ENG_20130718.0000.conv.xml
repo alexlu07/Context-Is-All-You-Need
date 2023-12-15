@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130718.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132520" time="2013-07-18 10:50:26 UTC">
+      <body>Good morning how are you?</body>
+    </message>
+    <message id="m0001" participant="131346" time="2013-07-18 12:24:56 UTC">
+      <body>Hey, I'm ok. How are you??</body>
+    </message>
+    <message id="m0002" participant="132520" time="2013-07-18 12:35:35 UTC">
+      <body>I'm alright trying to help I landlord rent out my apartment because I'm moving</body>
+    </message>
+    <message id="m0003" participant="132520" time="2013-07-18 12:36:05 UTC">
+      <body>Hopefully people like the ad I posted hahah</body>
+    </message>
+    <message id="m0004" participant="131346" time="2013-07-18 12:36:54 UTC">
+      <body>Hope so</body>
+    </message>
+    <message id="m0005" participant="132520" time="2013-07-18 12:38:03 UTC">
+      <body>Do you have any plans for the day?</body>
+    </message>
+    <message id="m0006" participant="131346" time="2013-07-18 12:46:28 UTC">
+      <body>Stay inside in front of the ac</body>
+    </message>
+  </messages>
+</conversation>

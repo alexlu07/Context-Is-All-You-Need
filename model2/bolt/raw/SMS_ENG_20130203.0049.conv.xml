@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-03 22:56:44 UTC" participant="152374">
+      <body>Hey, what time and where is the tournament on Saturday?</body>
+    </message>
+    <message id="m0001" time="2013-02-03 23:03:09 UTC" participant="153470">
+      <body>We bowl at 3 and the address is ##################### , #########################</body>
+    </message>
+    <message id="m0002" time="2013-02-03 23:03:31 UTC" participant="152374">
+      <body>Cool. I'll be there early. Thanks!</body>
+    </message>
+    <message id="m0003" time="2013-02-03 23:04:38 UTC" participant="153470">
+      <body>We should be there alittle early too should be a good time its pretty easy to find</body>
+    </message>
+  </messages>
+</conversation>
+

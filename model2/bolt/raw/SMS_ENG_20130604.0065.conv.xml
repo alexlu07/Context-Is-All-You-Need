@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-04 22:37:29 UTC">
+      <body>Are you with Lordan </body>
+    </message>
+    <message id="m0001" participant="137317" time="2013-06-04 22:37:53 UTC">
+      <body>I will be very soon why</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-06-04 22:38:29 UTC">
+      <body>Nevermind I figured it out tell him to hurry up</body>
+    </message>
+    <message id="m0003" participant="137317" time="2013-06-04 22:48:56 UTC">
+      <body>Okk sounds good</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-02 15:03:37 UTC">
+      <body>U work in the city/</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-07-02 15:03:38 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0002" participant="130751" time="2013-07-02 15:03:38 UTC">
+      <body>Hey you there</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-07-02 15:10:47 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-02 15:10:59 UTC">
+      <body>I thought this study was over</body>
+    </message>
+    <message id="m0005" participant="130751" time="2013-07-02 15:23:32 UTC">
+      <body>Yea me too</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-07-02 15:25:29 UTC">
+      <body>it stopped for a couple days for u?</body>
+    </message>
+    <message id="m0007" participant="130751" time="2013-07-02 15:53:57 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-07-02 15:56:18 UTC">
+      <body>So where r u from</body>
+    </message>
+    <message id="m0009" participant="130751" time="2013-07-02 15:57:28 UTC">
+      <body>Philly you?</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-07-02 15:59:30 UTC">
+      <body>Same. What part?</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-07-03 09:15:15 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0012" participant="130751" time="2013-07-03 09:38:05 UTC">
+      <body>Morning! From south P. You?</body>
+    </message>
+    <message id="m0013" participant="130747" time="2013-07-03 09:38:59 UTC">
+      <body>Fairmount. What u up to today?</body>
+    </message>
+  </messages>
+</conversation>

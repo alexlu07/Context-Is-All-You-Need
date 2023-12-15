@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130914.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-14 15:13:23 UTC" participant="152734">
+      <body>Hey, I came to ride lucky this morning, think ill kick the horses back out? So nice out!</body>
+    </message>
+    <message id="m0001" time="2013-09-14 15:14:40 UTC" participant="153305">
+      <body>Absolutely I'll be there in 5 min</body>
+    </message>
+    <message id="m0002" time="2013-09-14 15:15:01 UTC" participant="153305">
+      <body>I thought you were out if town</body>
+    </message>
+  </messages>
+</conversation>
+

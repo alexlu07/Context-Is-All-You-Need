@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131017.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-17 15:52:09 UTC" participant="153548">
+      <body>ICA today?</body>
+    </message>
+    <message id="m0001" time="2013-10-17 16:03:57 UTC" participant="153633">
+      <body>Maybe? What time?</body>
+    </message>
+    <message id="m0002" time="2013-10-17 16:09:03 UTC" participant="153548">
+      <body>I can go any time between 12 and 2!</body>
+    </message>
+    <message id="m0003" time="2013-10-17 16:15:58 UTC" participant="153633">
+      <body>Okay, let's plan on meeting there at 1. I can't take a full hour, we have an event today, so I will eat before and just go through the exhibit with you. Yay!</body>
+    </message>
+    <message id="m0004" time="2013-10-17 16:16:43 UTC" participant="153548">
+      <body>Sounds great! See you there at 1. We can do a quickly</body>
+    </message>
+    <message id="m0005" time="2013-10-17 16:33:06 UTC" participant="153633">
+      <body>Awesome!</body>
+    </message>
+  </messages>
+</conversation>
+

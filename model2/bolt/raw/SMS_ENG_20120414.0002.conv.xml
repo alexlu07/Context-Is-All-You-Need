@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120414.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130902" time="2012-04-14 22:49:34 UTC">
+      <body>Hi, Im about 20 mins away from yours :)</body>
+    </message>
+    <message id="m0001" participant="130902" time="2012-04-14 23:02:04 UTC">
+      <body>Shear perfection??</body>
+    </message>
+    <message id="m0002" participant="130755" time="2012-04-14 23:02:52 UTC">
+      <body>I'm not gonna be home for at least an hour, sorry! I will let you know when I'm 30 mins away</body>
+    </message>
+    <message id="m0003" participant="130902" time="2012-04-14 23:04:33 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0004" participant="130902" time="2012-04-15 00:36:57 UTC">
+      <body>Hi, are you back in some time?</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-04-15 01:05:27 UTC">
+      <body>Almost back from the suburbs, then have to bike home, sorry it's taking so long...I'll letcha know when I'm close!</body>
+    </message>
+  </messages>
+</conversation>

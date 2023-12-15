@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-05 19:11:14 UTC">
+      <body>Dinner at 5:45?</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-04-05 19:11:50 UTC">
+      <body>Have to go to a cpgc dinner thing</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-04-06 01:46:05 UTC">
+      <body>Wanna hang out?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-06 01:46:30 UTC">
+      <body>Are you in Lloyd?</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-04-06 01:46:54 UTC">
+      <body>Haha, yeah</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-04-06 21:10:07 UTC">
+      <body>Dinner at 6?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-04-06 21:46:25 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0007" participant="135275" time="2013-04-06 23:45:48 UTC">
+      <body>Hey, would anyone be up for going to tired hands instead of hanging out here?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-04-07 02:48:19 UTC">
+      <body>Is there gonna be a party?</body>
+    </message>
+    <message id="m0009" participant="135275" time="2013-04-07 03:17:17 UTC">
+      <body>No, we went to tired hands instead.</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-04-08 02:15:12 UTC">
+      <body>Emma slid your onecard under your door. Her phone died so call me Fairleigh or Elise to let you in</body>
+    </message>
+    <message id="m0011" participant="135275" time="2013-04-08 15:56:31 UTC">
+      <body>Hope you're feeling better! Coming back on th 12:00 bus, see you soon.</body>
+    </message>
+  </messages>
+</conversation>

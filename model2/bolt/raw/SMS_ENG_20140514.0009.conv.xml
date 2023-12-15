@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140514.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-14 14:34:40 UTC" participant="153561">
+      <body>Did you find any paint? I can def hit that up in a bit. </body>
+    </message>
+    <message id="m0001" time="2014-05-14 14:50:00 UTC" participant="153547">
+      <body>I don't have it.  See if Michael does or just buy some and keep the receipt</body>
+    </message>
+    <message id="m0002" time="2014-05-14 14:51:44 UTC" participant="153561">
+      <body>Cool</body>
+    </message>
+    <message id="m0003" time="2014-05-14 21:54:08 UTC" participant="153561">
+      <body>Everything is finished over on 52nd</body>
+    </message>
+    <message id="m0005" time="2014-05-14 21:56:16 UTC" participant="153561">
+      <body>Cool. I didn't clock out for break yesterday but didn't clock in today so it evens out. </body>
+    </message>
+    <message id="m0006" time="2014-05-15 12:58:59 UTC" participant="153561">
+      <body>Ok no prob</body>
+    </message>
+    <message id="m0007" time="2014-05-15 14:15:28 UTC" participant="153561">
+      <body>Is the power completely cut off? There's still a wire attached to the main power</body>
+    </message>
+  </messages>
+</conversation>
+

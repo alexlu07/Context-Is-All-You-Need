@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120731.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135351" time="2012-07-31 13:34:56 UTC">
+      <body>hey sofie luv! i was gonna draft an email to laura do u think u could look it over soon??</body>
+    </message>
+    <message id="m0001" participant="135351" time="2012-07-31 13:34:56 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-31 13:53:51 UTC">
+      <body>Yes yes</body>
+    </message>
+    <message id="m0003" participant="135351" time="2012-07-31 16:57:36 UTC">
+      <body>bleh laura said theyre still interviewing</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-31 17:48:55 UTC">
+      <body>Yeah give her another week or two. That's the way it goes plus it's really slow in August. So I'm sure they'll figure it out then</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131123.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-23 18:35:37 UTC" participant="153547">
+      <body>Are you around? Can I grab those suction cups?</body>
+    </message>
+    <message id="m0001" time="2013-11-23 18:36:18 UTC" participant="153564">
+      <body>Ill be home at 2 man</body>
+    </message>
+    <message id="m0002" time="2013-11-23 19:00:13 UTC" participant="153547">
+      <body>Will u be around tomorrow? I think I need a nap</body>
+    </message>
+    <message id="m0003" time="2013-11-23 19:11:32 UTC" participant="153564">
+      <body>Ill be around the rest of the day today an prob pretty much all day tomorrow besides some minor errand running in the morn</body>
+    </message>
+    <message id="m0004" time="2013-11-24 15:58:57 UTC" participant="153547">
+      <body>Can I come by in 30?</body>
+    </message>
+    <message id="m0005" time="2013-11-24 16:14:55 UTC" participant="153564">
+      <body>Yeah</body>
+    </message>
+    <message id="m0006" time="2013-11-24 16:22:25 UTC" participant="153547">
+      <body>I started cooking something. I'll be there in an hr if that's ok</body>
+    </message>
+    <message id="m0007" time="2013-11-24 16:29:47 UTC" participant="153564">
+      <body>Ok man. in the meanwhile jr an i are going to roll to target. ill message you when we headed back, figure itll be about an hour</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0024" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130688" time="2013-06-04 17:58:07 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-06-04 18:27:27 UTC">
+      <body>Hey! How's you today?</body>
+    </message>
+    <message id="m0002" participant="130688" time="2013-06-04 18:33:49 UTC">
+      <body>Good. I am 'working' at a conference</body>
+    </message>
+    <message id="m0003" participant="130688" time="2013-06-04 18:34:47 UTC">
+      <body>Or more like babysitting an empty room</body>
+    </message>
+    <message id="m0004" participant="130688" time="2013-06-04 18:34:47 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-06-04 20:04:07 UTC">
+      <body>Good. At the studio. Finishing guitar tracks. Good stuff. Too bad our singer sucks.</body>
+    </message>
+    <message id="m0006" participant="130688" time="2013-06-04 20:17:53 UTC">
+      <body>Fire the singer;-)</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-06-04 20:27:51 UTC">
+      <body>I'm also the singer. :-/</body>
+    </message>
+    <message id="m0008" participant="130688" time="2013-06-04 20:29:03 UTC">
+      <body>Fire yourself:-)</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-06-04 21:14:37 UTC">
+      <body>Maybe I should. But, I hear that rock instrumentals aren't selling this year. :-)</body>
+    </message>
+    <message id="m0010" participant="130688" time="2013-06-04 22:06:41 UTC">
+      <body>You need a voice</body>
+    </message>
+  </messages>
+</conversation>

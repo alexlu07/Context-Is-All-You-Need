@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150219.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-19 12:58:26 UTC" participant="153804">
+      <body>Happy Chinese new year!</body>
+    </message>
+    <message id="m0001" time="2015-02-19 22:39:06 UTC" participant="153820">
+      <body>Hey thank youets get together.  I'm in Miami now but back next week. Will call you how's Tom.</body>
+    </message>
+    <message id="m0002" time="2015-02-19 22:42:41 UTC" participant="153804">
+      <body>It's the Chinese new year and you're in warm weather good for you! Going to be 25 below tonight so stay as long as you can</body>
+    </message>
+    <message id="m0003" time="2015-02-19 22:44:12 UTC" participant="153820">
+      <body>Yea</body>
+    </message>
+    <message id="m0004" time="2015-02-19 22:44:57 UTC" participant="153820">
+      <body>Well it's cold here too ya know. Like 57</body>
+    </message>
+  </messages>
+</conversation>
+

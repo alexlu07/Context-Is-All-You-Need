@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140720.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-20 16:04:28 UTC" participant="152417">
+      <body>On our way, i found us a PA and mics</body>
+    </message>
+    <message id="m0001" time="2014-07-20 16:05:32 UTC" participant="152532">
+      <body>So no need for VP B's pa?</body>
+    </message>
+    <message id="m0002" time="2014-07-20 16:06:06 UTC" participant="152417">
+      <body>We should pull it out to have an extra speaker</body>
+    </message>
+    <message id="m0003" time="2014-07-20 16:06:20 UTC" participant="152532">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

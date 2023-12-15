@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130623" time="2013-06-05 12:34:07 UTC">
+      <body>Hello! About to go with husband &amp; daughter to an event for her new school in the fall.</body>
+    </message>
+    <message id="m0001" participant="131837" time="2013-06-05 13:38:40 UTC">
+      <body>Have fun. I'm running errands and waiting in lines.</body>
+    </message>
+    <message id="m0002" participant="130623" time="2013-06-05 14:03:33 UTC">
+      <body>So far so good!</body>
+    </message>
+    <message id="m0003" participant="131837" time="2013-06-05 14:15:37 UTC">
+      <body>All done. How was the event?</body>
+    </message>
+    <message id="m0004" participant="130623" time="2013-06-05 15:48:30 UTC">
+      <body>It was fun. She's very excited.</body>
+    </message>
+    <message id="m0005" participant="130623" time="2013-06-05 15:49:43 UTC">
+      <body>So I'm guessing that you quilt?</body>
+    </message>
+    <message id="m0006" participant="131837" time="2013-06-05 15:51:30 UTC">
+      <body>Yes, my mom sent me to 4 years of private lessons from age 7-11.</body>
+    </message>
+  </messages>
+</conversation>

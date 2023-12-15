@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-05 20:59:38 UTC" participant="152734">
+      <body>Yo, no problems with security or anything, but my flight's delayed 20 mins. I would check your flight status &amp; definitely go to in n out!</body>
+    </message>
+    <message id="m0001" time="2013-05-05 21:00:28 UTC" participant="153270">
+      <body>We got a text ours is 30 min delayed!</body>
+    </message>
+    <message id="m0002" time="2013-05-05 21:00:45 UTC" participant="153270">
+      <body>Thanks for the heads up!</body>
+    </message>
+  </messages>
+</conversation>
+

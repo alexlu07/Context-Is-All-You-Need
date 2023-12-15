@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130901.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-01 15:32:18 UTC" participant="154392">
+      <body>I'm running a bit late. Pick you up 11:45ish</body>
+    </message>
+    <message id="m0001" time="2013-09-01 15:32:38 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2013-09-02 14:28:10 UTC" participant="154352">
+      <body>Your lady commented on our instagram.</body>
+    </message>
+    <message id="m0003" time="2013-09-02 14:33:24 UTC" participant="154392">
+      <body>I saw that last night :)</body>
+    </message>
+  </messages>
+</conversation>
+

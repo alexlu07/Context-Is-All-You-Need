@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140930.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-09-30 17:29:27 UTC" participant="153548">
+      <body>Hi! Just text me when you get to the gate and I'll let you in!</body>
+    </message>
+    <message id="m0002" time="2014-09-30 17:29:56 UTC" participant="153692">
+      <body>Cool</body>
+    </message>
+    <message id="m0003" time="2014-09-30 17:56:31 UTC" participant="153692">
+      <body>At the gate. Judith</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130324.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-03-24 13:33:46 UTC">
+      <body>No. I gave yoga school this weekend. Are you free tonight?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-03-24 14:28:15 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-03-24 18:03:44 UTC">
+      <body>Would you like to meet after I'm done?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-03-24 21:35:31 UTC">
+      <body>I am in home work abyss </body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-03-24 21:47:45 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0005" participant="131055" time="2013-03-25 00:12:58 UTC">
+      <body>How are you?</body>
+    </message>
+  </messages>
+</conversation>

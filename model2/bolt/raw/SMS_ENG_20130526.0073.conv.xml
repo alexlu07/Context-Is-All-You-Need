@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130868" time="2013-05-26 15:45:41 UTC">
+      <body>My bad man, the past couple days have been chaotic.  Do you work tonight?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-26 15:47:42 UTC">
+      <body>Yup, sadly</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130227.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-27 16:35:43 UTC" participant="152417">
+      <body>Hey, whatchu up to today?  Wanna come look at saxes?</body>
+    </message>
+    <message id="m0001" time="2013-02-27 16:36:16 UTC" participant="152424">
+      <body>pretty busy all day, I'll be done around 8:30, I'll call you</body>
+    </message>
+    <message id="m0002" time="2013-02-27 16:36:53 UTC" participant="152417">
+      <body>Sweet</body>
+    </message>
+    <message id="m0003" time="2013-02-27 22:52:41 UTC" participant="152424">
+      <body>Whiskey swap?  I could us one</body>
+    </message>
+    <message id="m0004" time="2013-02-27 22:53:45 UTC" participant="152417">
+      <body>Sure, but i dont have any whiskey to swap</body>
+    </message>
+    <message id="m0005" time="2013-02-28 13:41:20 UTC" participant="152424">
+      <body>I can meet for lunch today.  pita pit?</body>
+    </message>
+    <message id="m0006" time="2013-02-28 13:41:20 UTC" participant="152424">
+      <body>pita pocket, rather</body>
+    </message>
+    <message id="m0007" time="2013-02-28 14:13:20 UTC" participant="152424">
+      <body>noon ish?  twp line near burholm</body>
+    </message>
+    <message id="m0008" time="2013-02-28 14:13:59 UTC" participant="152417">
+      <body>Sweet, where is that? N what time?</body>
+    </message>
+    <message id="m0009" time="2013-02-28 14:17:47 UTC" participant="152417">
+      <body>Groovy</body>
+    </message>
+  </messages>
+</conversation>
+

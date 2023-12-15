@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-18 17:42:50 UTC" participant="152417">
+      <body>Hey, are you still in burlytown?</body>
+    </message>
+    <message id="m0001" time="2012-09-18 20:19:02 UTC" participant="152423">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" time="2012-09-18 20:26:10 UTC" participant="152417">
+      <body>Dobra tea, at the corner of church st and bank st</body>
+    </message>
+    <message id="m0003" time="2012-09-18 21:26:51 UTC" participant="152423">
+      <body>Were here!</body>
+    </message>
+    <message id="m0004" time="2012-09-18 21:31:28 UTC" participant="152417">
+      <body>Be there soon</body>
+    </message>
+    <message id="m0005" time="2012-09-19 17:26:32 UTC" participant="152417">
+      <body>Hey! Lets hang out and go for a doggie walk or hike, its gorgeous out, im out at 330</body>
+    </message>
+  </messages>
+</conversation>
+

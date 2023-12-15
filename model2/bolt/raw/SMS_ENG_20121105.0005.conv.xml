@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121105.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-11-05 18:39:20 UTC">
+      <body>Back!</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-11-05 18:39:36 UTC">
+      <body>Yay!  </body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-11-05 18:39:53 UTC">
+      <body>As of three AM</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-11-05 18:40:00 UTC">
+      <body>Ouch.  Well it looks like you had a great time :)</body>
+    </message>
+  </messages>
+</conversation>

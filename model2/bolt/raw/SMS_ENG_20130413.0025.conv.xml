@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131033" time="2013-04-13 15:25:11 UTC">
+      <body>Can you let ###### know #### just left, and will be there in about 30?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-04-13 15:25:53 UTC">
+      <body>Sure thing. Thanks!!</body>
+    </message>
+  </messages>
+</conversation>

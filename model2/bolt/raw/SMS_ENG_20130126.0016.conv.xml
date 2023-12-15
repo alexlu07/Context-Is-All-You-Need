@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133299" time="2013-01-26 17:23:47 UTC">
+      <body>I miss yoy</body>
+    </message>
+    <message id="m0001" participant="133299" time="2013-01-26 17:23:56 UTC">
+      <body>You</body>
+    </message>
+    <message id="m0002" participant="133299" time="2013-01-26 17:42:24 UTC">
+      <body>Hahahaha oh man i am embarassing </body>
+    </message>
+    <message id="m0003" participant="133056" time="2013-01-26 17:43:14 UTC">
+      <body>Nope. You are perfect</body>
+    </message>
+    <message id="m0004" participant="133299" time="2013-01-26 17:49:52 UTC">
+      <body>Ready to move in tomorrow?</body>
+    </message>
+    <message id="m0005" participant="133056" time="2013-01-26 18:00:19 UTC">
+      <body>￼Very. Think I have enough stuff?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130109.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-09 12:58:38 UTC" participant="154352">
+      <body>I'm pretty busy this week. We could meet before my cooking class at the restaurant school tomorrow. The class starts at 7.</body>
+    </message>
+    <message id="m0001" time="2013-01-09 14:08:07 UTC" participant="154391">
+      <body>Ok where is the restaurant?</body>
+    </message>
+    <message id="m0002" time="2013-01-09 14:21:18 UTC" participant="154352">
+      <body>The restaurant school is at 42nd and walnut</body>
+    </message>
+    <message id="m0003" time="2013-01-09 19:25:43 UTC" participant="154391">
+      <body>Ok I'll let you know in 2hrs</body>
+    </message>
+    <message id="m0004" time="2013-01-09 20:41:39 UTC" participant="154391">
+      <body>Today's too tight. How about next Wed? I can meet you before your class</body>
+    </message>
+    <message id="m0005" time="2013-01-09 20:45:47 UTC" participant="154352">
+      <body>Class is on Thursdays</body>
+    </message>
+    <message id="m0006" time="2013-01-09 21:02:24 UTC" participant="154391">
+      <body>Ok next Thursday at 6</body>
+    </message>
+    <message id="m0007" time="2013-01-10 12:03:24 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

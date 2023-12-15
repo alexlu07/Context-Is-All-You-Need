@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140916.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-16 17:41:00 UTC" participant="152417">
+      <body>Hey man, do you still have the files for the lyre sized balagan charts?</body>
+    </message>
+    <message id="m0001" time="2014-09-16 19:34:08 UTC" participant="152535">
+      <body>Yo mon! It is a printer setting. Merge the pdfs and then print 4 to a page. Peace !</body>
+    </message>
+    <message id="m0002" time="2014-09-16 19:35:07 UTC" participant="152417">
+      <body>Cool, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

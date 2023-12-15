@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140509.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-09 22:19:07 UTC" participant="152116">
+      <body>I don't know if you ever talked to Jenny but Eden did. We're all going out tonight</body>
+    </message>
+    <message id="m0001" time="2014-05-09 22:53:17 UTC" participant="153491">
+      <body>What time?</body>
+    </message>
+    <message id="m0002" time="2014-05-09 23:43:45 UTC" participant="152116">
+      <body>We're out now </body>
+    </message>
+    <message id="m0003" time="2014-05-09 23:44:14 UTC" participant="153491">
+      <body>Okay then...</body>
+    </message>
+    <message id="m0004" time="2014-05-10 00:14:04 UTC" participant="153491">
+      <body>Yea, thanks for letting me know but I'm probably not going to meet up with you all tonight. Have fun though! Please tell everyone sorry!!!</body>
+    </message>
+    <message id="m0005" time="2014-05-10 00:16:07 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

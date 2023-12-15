@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 19:09:52 UTC" participant="152767">
+      <body>We will be bringing Lucas home around 4:30 if that works for u.</body>
+    </message>
+    <message id="m0001" time="2014-09-20 19:20:07 UTC" participant="152735">
+      <body>Perfect! I can't believe I didn't hear you !</body>
+    </message>
+    <message id="m0002" time="2014-09-20 19:20:18 UTC" participant="152735">
+      <body>I was upstairs w maya watching tv </body>
+    </message>
+    <message id="m0003" time="2014-09-20 19:20:54 UTC" participant="152735">
+      <body>Tell Lucas I'm sorry I didn't say bye </body>
+    </message>
+    <message id="m0004" time="2014-09-20 19:25:32 UTC" participant="152767">
+      <body>Sure thing </body>
+    </message>
+  </messages>
+</conversation>
+

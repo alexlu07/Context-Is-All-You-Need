@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121202.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-12-02 15:34:58 UTC">
+      <body>Happy birthday brother! You around today for a little birthday chat?</body>
+    </message>
+    <message id="m0001" participant="131452" time="2012-12-02 15:49:20 UTC">
+      <body>Yeah not right now though. My head hurts :(</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-12-02 16:46:34 UTC">
+      <body>Quite understandable! I'm in a car with a bunch of people too so i'll give you a call in a few hours...hope you feel better! Coffee and aspirin, right? ;-)</body>
+    </message>
+    <message id="m0003" participant="131452" time="2012-12-02 16:47:19 UTC">
+      <body>Coffee and ginger ale haha</body>
+    </message>
+  </messages>
+</conversation>

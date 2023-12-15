@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131346" time="2013-06-02 12:25:51 UTC">
+      <body>Hi how are you??</body>
+    </message>
+    <message id="m0001" participant="130633" time="2013-06-02 12:26:51 UTC">
+      <body>I'm ok, having a lazy day. You?</body>
+    </message>
+    <message id="m0002" participant="131346" time="2013-06-02 12:31:15 UTC">
+      <body>Had a lazy day yesterday lol</body>
+    </message>
+    <message id="m0003" participant="131346" time="2013-06-02 12:39:39 UTC">
+      <body>I'm melting in the heat :-(</body>
+    </message>
+    <message id="m0004" participant="130633" time="2013-06-02 15:22:15 UTC">
+      <body>Yeah, awfully hot here too.</body>
+    </message>
+    <message id="m0005" participant="131346" time="2013-06-02 15:25:12 UTC">
+      <body>Where at??</body>
+    </message>
+    <message id="m0006" participant="130633" time="2013-06-02 15:26:17 UTC">
+      <body>I live outside Boston. You?</body>
+    </message>
+    <message id="m0007" participant="131346" time="2013-06-02 15:28:01 UTC">
+      <body>Philadelphia</body>
+    </message>
+  </messages>
+</conversation>

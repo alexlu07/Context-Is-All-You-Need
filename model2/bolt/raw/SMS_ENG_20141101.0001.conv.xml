@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 21:52:38 UTC" participant="152590">
+      <body>pick up and dropp off valanni and then pick up and dropp off hipcityveg. copy?</body>
+    </message>
+    <message id="m0001" time="2014-11-01 21:53:52 UTC" participant="152417">
+      <body>Roger</body>
+    </message>
+    <message id="m0002" time="2014-11-01 21:58:57 UTC" participant="152417">
+      <body>Valanni just got the order and it will be 25 min til order 53 is ready, should i go and do hipcityveg first?</body>
+    </message>
+    <message id="m0003" time="2014-11-01 21:59:37 UTC" participant="152590">
+      <body>yes please</body>
+    </message>
+    <message id="m0004" time="2014-11-01 22:47:38 UTC" participant="152417">
+      <body> Sorry, i'm only working til 7</body>
+    </message>
+    <message id="m0005" time="2014-11-01 22:48:04 UTC" participant="152590">
+      <body>got it</body>
+    </message>
+    <message id="m0006" time="2014-11-01 22:51:04 UTC" participant="152590">
+      <body>hey we have many orders. u think u could work longer or anyhitng? i'll throw u an extra 10$ if u take those 3 orders.</body>
+    </message>
+    <message id="m0007" time="2014-11-01 22:53:31 UTC" participant="152417">
+      <body>Sorry, i can't</body>
+    </message>
+    <message id="m0008" time="2014-11-01 22:53:47 UTC" participant="152590">
+      <body>gotcha no worries</body>
+    </message>
+    <message id="m0009" time="2014-11-01 23:20:13 UTC" participant="152590">
+      <body>hey could u turn off ur app? thanks</body>
+    </message>
+  </messages>
+</conversation>
+

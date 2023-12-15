@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 22:40:55 UTC" participant="153547">
+      <body>Do u want me to get u bread</body>
+    </message>
+    <message id="m0001" time="2015-01-05 22:41:04 UTC" participant="153557">
+      <body>Yeah that would be great</body>
+    </message>
+    <message id="m0002" time="2015-01-05 22:41:04 UTC" participant="153557">
+      <body>Any kind of uncut loaf</body>
+    </message>
+  </messages>
+</conversation>
+

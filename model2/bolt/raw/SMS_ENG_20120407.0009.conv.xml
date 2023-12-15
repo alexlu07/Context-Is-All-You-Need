@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120407.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131329" time="2012-04-07 03:07:44 UTC">
+      <body>So I'm actually not working. Want to drink some beer?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-07 03:10:31 UTC">
+      <body>I think I'm in for the night, I'm beat</body>
+    </message>
+    <message id="m0002" participant="131329" time="2012-04-07 03:16:16 UTC">
+      <body>You're never gonna sleep until 3 unless we drink beer now. </body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-07 03:17:27 UTC">
+      <body>Haha I might. I'm real tired. Don't want to move from my couch</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 01:33:07 UTC" participant="153244">
+      <body>Hey gal, my work schedule changed again.  Is it okay if I come in for 5:00 on thursday and friday instead of 4?</body>
+    </message>
+    <message id="m0001" time="2015-01-28 01:37:06 UTC" participant="153893">
+      <body>Yes no prob</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110918.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135142" time="2011-09-18 03:48:30 UTC">
+      <body>Hey it's Sam, let me know where you guys end up.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-18 03:51:13 UTC">
+      <body>Oh hey! We're at a pub across the street from the courtyard thing. It's called Brits. It's chill, we're eating upstairs.</body>
+    </message>
+    <message id="m0002" participant="135142" time="2011-09-18 05:38:43 UTC">
+      <body>Sorry I couldn't make it by. Maybe see you in Philly?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-18 05:54:53 UTC">
+      <body>No worries, dude. But yea, Philly :) I owe you a beer (or three) after all!</body>
+    </message>
+    <message id="m0004" participant="135142" time="2011-09-18 05:55:49 UTC">
+      <body>Sounds fun :)</body>
+    </message>
+  </messages>
+</conversation>

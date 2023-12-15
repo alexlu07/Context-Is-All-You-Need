@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-03 22:10:00 UTC" participant="152560">
+      <body>Feeling better?</body>
+    </message>
+    <message id="m0001" time="2013-03-04 00:14:41 UTC" participant="152417">
+      <body>Yep, but it took till about 6.  Wanna meet up when you get out?</body>
+    </message>
+    <message id="m0002" time="2013-03-04 01:19:09 UTC" participant="152417">
+      <body>I just found out i dont have school til wednesday!</body>
+    </message>
+    <message id="m0003" time="2013-03-04 02:53:57 UTC" participant="152560">
+      <body>What a nice surprise! On my way home...</body>
+    </message>
+    <message id="m0004" time="2013-03-04 15:40:22 UTC" participant="152560">
+      <body>Delicious!</body>
+    </message>
+    <message id="m0005" time="2013-03-04 16:34:13 UTC" participant="152417">
+      <body> Not as  delicious as you!</body>
+    </message>
+    <message id="m0006" time="2013-03-04 21:23:32 UTC" participant="152560">
+      <body>Would you like to take a snowy dog walk?</body>
+    </message>
+    <message id="m0007" time="2013-03-04 21:25:57 UTC" participant="152417">
+      <body>Im already in williston, ill be home around 7. </body>
+    </message>
+    <message id="m0008" time="2013-03-04 21:26:52 UTC" participant="152560">
+      <body>Cool-see you then.</body>
+    </message>
+  </messages>
+</conversation>
+

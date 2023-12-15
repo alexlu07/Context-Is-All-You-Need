@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120523.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-05-23 22:47:54 UTC">
+      <body>My room</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-05-23 22:49:36 UTC">
+      <body>Should I plan to stay in your room when I'm there or should we stay in a hotel?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-05-23 22:49:36 UTC">
+      <body>K :)</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-05-24 12:50:08 UTC">
+      <body>Be sure to opt out of the healthcare plan</body>
+    </message>
+  </messages>
+</conversation>

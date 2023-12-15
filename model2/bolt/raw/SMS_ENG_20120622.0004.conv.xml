@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120622.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-22 20:13:51 UTC">
+      <body>What's your apt number? 27?</body>
+    </message>
+    <message id="m0001" participant="135129" time="2012-06-22 20:13:52 UTC">
+      <body>1010! 10th floor! Ha :)</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-22 20:14:38 UTC">
+      <body>That makes much more sense</body>
+    </message>
+  </messages>
+</conversation>

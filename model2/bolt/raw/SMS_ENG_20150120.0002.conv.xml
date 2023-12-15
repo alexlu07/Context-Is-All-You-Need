@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 13:24:15 UTC" participant="152417">
+      <body>Good morning.  Will we be meeting in the Caplan or the Merriam to get instruments this morning?</body>
+    </message>
+    <message id="m0001" time="2015-01-20 13:26:24 UTC" participant="152569">
+      <body>Starting in the Caplan. Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

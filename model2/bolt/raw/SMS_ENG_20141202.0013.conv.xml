@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 19:03:28 UTC" participant="153634">
+      <body>talk soon?</body>
+    </message>
+    <message id="m0001" time="2014-12-02 21:38:35 UTC" participant="153548">
+      <body>Yes! This weekend? I wanna get my ticket to see you!</body>
+    </message>
+    <message id="m0002" time="2014-12-02 21:39:00 UTC" participant="153548">
+      <body>I had an interview at Rowan today it was grueling.</body>
+    </message>
+    <message id="m0003" time="2014-12-02 23:10:56 UTC" participant="153634">
+      <body>oh yeah! want to hear about it!! during the week would probly be better for me than weekend</body>
+    </message>
+    <message id="m0004" time="2014-12-03 01:21:47 UTC" participant="153548">
+      <body>Okay I'll try you on Friday maybe!</body>
+    </message>
+  </messages>
+</conversation>
+

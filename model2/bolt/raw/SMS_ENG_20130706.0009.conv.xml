@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130706.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-06 16:10:20 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-07-06 16:14:35 UTC">
+      <body>Hello there</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-06 18:04:23 UTC">
+      <body>hi</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-07-07 00:00:02 UTC">
+      <body>When is the drawing for the 300?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-07 13:14:09 UTC">
+      <body>No clue</body>
+    </message>
+    <message id="m0005" participant="131218" time="2013-07-07 13:54:05 UTC">
+      <body>Whats going on today?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130217.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-17 02:58:05 UTC">
+      <body>hey. if i could offer you a once in a lifetime experience, would you be willing to a) learn approx 13 bass parts, and b) fly to chicago for 3 days?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-17 02:58:37 UTC">
+      <body>you'd have 2mos to learn the parts...</body>
+    </message>
+    <message id="m0002" participant="131351" time="2013-02-17 05:51:26 UTC">
+      <body>No can do, full time job and full time dad</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-17 05:52:13 UTC">
+      <body>not even for something AMAZING?</body>
+    </message>
+    <message id="m0004" participant="131351" time="2013-02-18 02:44:11 UTC">
+      <body>No time dude, sorry.</body>
+    </message>
+  </messages>
+</conversation>

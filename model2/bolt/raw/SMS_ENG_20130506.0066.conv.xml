@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-06 00:55:15 UTC">
+      <body>Did you want to drive home with us</body>
+    </message>
+    <message id="m0001" participant="137376" time="2013-05-06 00:55:28 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-06 00:55:51 UTC">
+      <body>Hurry please</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-06 21:17:01 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-07 01:32:33 UTC">
+      <body>How are you ?</body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-05-07 01:34:16 UTC">
+      <body>Are you OK</body>
+    </message>
+    <message id="m0006" participant="137376" time="2013-05-07 21:29:51 UTC">
+      <body>Can we go driving? </body>
+    </message>
+    <message id="m0007" participant="132437" time="2013-05-07 21:32:17 UTC">
+      <body>I am in the car. Come down now.</body>
+    </message>
+    <message id="m0008" participant="137376" time="2013-05-07 22:21:52 UTC">
+      <body>Can I have some money? </body>
+    </message>
+    <message id="m0009" participant="132437" time="2013-05-07 22:23:37 UTC">
+      <body>Come and take it from the restaurant </body>
+    </message>
+    <message id="m0010" participant="137376" time="2013-05-07 22:24:00 UTC">
+      <body>Cheng heng? </body>
+    </message>
+    <message id="m0011" participant="132437" time="2013-05-07 22:26:09 UTC">
+      <body>Yes </body>
+    </message>
+  </messages>
+</conversation>

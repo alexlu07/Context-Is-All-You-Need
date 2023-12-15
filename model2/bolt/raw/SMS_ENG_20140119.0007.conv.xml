@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140119.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-19 20:59:01 UTC" participant="152734">
+      <body>Hey, what's the plan for trailering tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-01-19 21:10:52 UTC" participant="153305">
+      <body>I'll pick you up at 3:45</body>
+    </message>
+    <message id="m0002" time="2014-01-19 21:21:00 UTC" participant="152734">
+      <body>Ok, thanks!</body>
+    </message>
+    <message id="m0003" time="2014-01-20 20:26:26 UTC" participant="153305">
+      <body>Driving Keogh back now. Be over at like 345</body>
+    </message>
+    <message id="m0004" time="2014-01-20 20:41:50 UTC" participant="152734">
+      <body>Ready!</body>
+    </message>
+  </messages>
+</conversation>
+

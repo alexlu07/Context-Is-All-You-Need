@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131110.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-10 21:40:56 UTC" participant="149360">
+      <body>Thank you. I'm gonna shower and go to the grocery . Do you want to go to the store with me ?</body>
+    </message>
+    <message id="m0001" time="2013-11-10 21:41:59 UTC" participant="153548">
+      <body>Yeah! I got some stuff at the co op but I need peppers</body>
+    </message>
+    <message id="m0002" time="2013-11-10 21:42:50 UTC" participant="149360">
+      <body>Ok I will text u when I'm out the shower</body>
+    </message>
+    <message id="m0003" time="2013-11-10 21:43:07 UTC" participant="153548">
+      <body>Okay take yr time. </body>
+    </message>
+    <message id="m0004" time="2013-11-10 22:45:16 UTC" participant="149360">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0005" time="2013-11-10 22:45:57 UTC" participant="153548">
+      <body>Okay text me when yr downstairs. </body>
+    </message>
+    <message id="m0006" time="2013-11-10 22:49:36 UTC" participant="149360">
+      <body>I'm outside</body>
+    </message>
+    <message id="m0007" time="2013-11-11 16:11:08 UTC" participant="149360">
+      <body>You want daylight CFLs or incandescent </body>
+    </message>
+    <message id="m0008" time="2013-11-11 16:12:31 UTC" participant="149360">
+      <body>And how many watts? I guess you're teaching. </body>
+    </message>
+    <message id="m0009" time="2013-11-11 16:22:10 UTC" participant="153548">
+      <body>Maybe like 60-100 watts?</body>
+    </message>
+    <message id="m0010" time="2013-11-11 16:22:34 UTC" participant="153548">
+      <body>I don't know the difference of cfl/incandescent</body>
+    </message>
+    <message id="m0011" time="2013-11-11 16:27:44 UTC" participant="149360">
+      <body>Compact fluorescent light vs light with a filament. Incandescent is much harder to find now but it used to be the standard light bulb and provides much better light IMO.  I can't find daylight incandescent. How many watts do you want? Or if you don't know do you want it to be dim medium or bright</body>
+    </message>
+    <message id="m0012" time="2013-11-11 16:31:35 UTC" participant="153548">
+      <body>Medium.</body>
+    </message>
+    <message id="m0013" time="2013-11-11 16:32:22 UTC" participant="153548">
+      <body>I should know that. Stuff I don't want anything over 100 watts cause I'm
+Working in such a tiny set.</body>
+    </message>
+  </messages>
+</conversation>
+

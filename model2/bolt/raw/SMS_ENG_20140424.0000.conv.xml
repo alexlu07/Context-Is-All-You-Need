@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140424.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-24 00:25:34 UTC" participant="149306">
+      <body>I'm heading home soon, did u move the stove</body>
+    </message>
+    <message id="m0001" time="2014-04-24 00:26:27 UTC" participant="149360">
+      <body>Yeah but I need to load out the old one tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

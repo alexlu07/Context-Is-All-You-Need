@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141224.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-24 23:26:33 UTC" participant="152115">
+      <body>I'll be done before 730</body>
+    </message>
+    <message id="m0001" time="2014-12-24 23:27:58 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-12-24 23:54:38 UTC" participant="152115">
+      <body>Be here around 715-720</body>
+    </message>
+    <message id="m0003" time="2014-12-24 23:55:15 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

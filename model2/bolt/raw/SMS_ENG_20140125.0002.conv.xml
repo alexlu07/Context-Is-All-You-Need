@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140125.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-25 04:14:16 UTC" participant="153451">
+      <body>So how is the laundry going?</body>
+    </message>
+    <message id="m0001" time="2014-01-25 04:15:40 UTC" participant="153418">
+      <body>Pretty good. I finished around 10, and have clothes to wear again. Hooo. </body>
+    </message>
+    <message id="m0002" time="2014-01-25 04:18:52 UTC" participant="153451">
+      <body>Oh okay cool you could have came out</body>
+    </message>
+    <message id="m0003" time="2014-01-25 04:21:00 UTC" participant="153418">
+      <body>Yeah, I was thinking about it, but decided to just stay home. You still out?</body>
+    </message>
+    <message id="m0004" time="2014-01-25 04:23:03 UTC" participant="153451">
+      <body>Not bad idea it's cold </body>
+    </message>
+    <message id="m0005" time="2014-01-26 03:01:09 UTC" participant="153451">
+      <body>Yo I didn't see your car.</body>
+    </message>
+    <message id="m0006" time="2014-01-26 03:02:04 UTC" participant="153418">
+      <body>So messed up you couldn't even recognize it?</body>
+    </message>
+    <message id="m0007" time="2014-01-26 03:02:40 UTC" participant="153451">
+      <body>No I just didn't see it</body>
+    </message>
+    <message id="m0008" time="2014-01-26 03:03:52 UTC" participant="153451">
+      <body>Y'all still there?</body>
+    </message>
+    <message id="m0009" time="2014-01-26 03:06:02 UTC" participant="153418">
+      <body>Yeah. </body>
+    </message>
+    <message id="m0010" time="2014-01-26 03:06:35 UTC" participant="153451">
+      <body>Haha ok </body>
+    </message>
+  </messages>
+</conversation>
+

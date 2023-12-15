@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140627.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-27 21:32:15 UTC" participant="152417">
+      <body>Che! Wanna grill down by the lake?</body>
+    </message>
+    <message id="m0001" time="2014-06-27 21:42:21 UTC" participant="152419">
+      <body>What time? I biked out to the causeway and got mega tired from too hot an not enough water, kinda need to nap before anything.</body>
+    </message>
+    <message id="m0002" time="2014-06-27 21:43:01 UTC" participant="152417">
+      <body>Anytime</body>
+    </message>
+  </messages>
+</conversation>
+

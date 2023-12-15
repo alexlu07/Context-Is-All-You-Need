@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-27 20:20:45 UTC">
+      <body>are you alright with driving tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-04-27 20:23:11 UTC">
+      <body>Oh sorry! I completely forgot to mention that I'm out of town this weekend!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-27 20:23:21 UTC">
+      <body>oh! no problem! </body>
+    </message>
+  </messages>
+</conversation>

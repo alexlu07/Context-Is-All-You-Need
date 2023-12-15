@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140823.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-23 23:51:28 UTC" participant="152644">
+      <body>You back in Philly yet?!</body>
+    </message>
+    <message id="m0001" time="2014-08-23 23:55:27 UTC" participant="152417">
+      <body>I was briefly for orientation and then had to make another trip to vt, ill be there tomorrow!</body>
+    </message>
+    <message id="m0002" time="2014-08-23 23:57:52 UTC" participant="152644">
+      <body>Ahh I heard rumors you may be coming out tonight since Rosenberg's in town but that's exciting!</body>
+    </message>
+  </messages>
+</conversation>
+

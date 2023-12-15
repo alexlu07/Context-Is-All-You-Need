@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131034" time="2013-04-24 16:23:01 UTC">
+      <body>Hey ####! We're going to be grilling out some kabobs Friday night if you guys want to come by!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-04-24 16:25:50 UTC">
+      <body>Yes!! That sounds great and we're actually free!</body>
+    </message>
+    <message id="m0002" participant="131034" time="2013-04-24 19:33:31 UTC">
+      <body>Wonderful! I think we'll start grilling around 630 ish. Are you guys veg? </body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-04-24 19:35:15 UTC">
+      <body>Great! ###### is. Let us know if there's anything veg-friendly we can bring. And we'll bring beer anyway.</body>
+    </message>
+    <message id="m0004" participant="131034" time="2013-04-25 16:30:39 UTC">
+      <body>Beer would be great! We'll have some veggie tofu kabobs so should be good unless you want something else! Have you been over before? Our address is ###############</body>
+    </message>
+    <message id="m0005" participant="131034" time="2013-04-25 16:30:52 UTC">
+      <body>Dollar Bill :)</body>
+    </message>
+    <message id="m0006" participant="130712" time="2013-04-25 16:31:44 UTC">
+      <body>Works for us! Thanks for your address!!</body>
+    </message>
+    <message id="m0007" participant="131034" time="2013-04-25 16:41:10 UTC">
+      <body>No problem! Looking forward to seeing you guys!</body>
+    </message>
+    <message id="m0008" participant="130712" time="2013-04-25 17:23:53 UTC">
+      <body>Ditto!</body>
+    </message>
+  </messages>
+</conversation>

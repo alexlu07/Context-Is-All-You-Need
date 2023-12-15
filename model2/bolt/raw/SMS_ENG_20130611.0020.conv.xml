@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130755" time="2013-06-11 19:17:18 UTC">
+      <body>Oh hey again</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-06-12 13:51:00 UTC">
+      <body>Hello! Sorry for the radio silence. @ Bonnaroo!</body>
+    </message>
+    <message id="m0002" participant="130755" time="2013-06-12 14:36:40 UTC">
+      <body>Cool!</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-06-12 15:20:50 UTC">
+      <body>Who are you seeing?</body>
+    </message>
+    <message id="m0004" participant="130978" time="2013-06-12 15:24:24 UTC">
+      <body>Alt-J, Calexico, Glen Hansard, Tallest Man on Earth, Nas, Cat Power, Bjork, Lumineers, Mumford &amp; Sons, Mackemore, The National, Ed Sharpe &amp; Magnetic 0's,</body>
+    </message>
+    <message id="m0005" participant="130978" time="2013-06-12 15:25:10 UTC">
+      <body>to name a few. You like any of those folks?</body>
+    </message>
+  </messages>
+</conversation>

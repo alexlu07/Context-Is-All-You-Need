@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140209.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-09 01:51:55 UTC" participant="153548">
+      <body>Did you go to the comedy show?</body>
+    </message>
+    <message id="m0001" time="2014-02-09 01:53:02 UTC" participant="153631">
+      <body>Yes, we're at queens of jeans </body>
+    </message>
+    <message id="m0002" time="2014-02-09 01:53:04 UTC" participant="153631">
+      <body>So far it is...appropriate for the valentines/Presidents' Day theme</body>
+    </message>
+    <message id="m0003" time="2014-02-09 01:53:28 UTC" participant="153548">
+      <body>Is it hilarious?!</body>
+    </message>
+    <message id="m0004" time="2014-02-09 01:53:56 UTC" participant="153548">
+      <body>I'm at that poetry slam and I keep burping garlic.</body>
+    </message>
+    <message id="m0005" time="2014-02-09 01:54:25 UTC" participant="153548">
+      <body>it's at a Wharton professors house</body>
+    </message>
+    <message id="m0006" time="2014-02-09 01:54:54 UTC" participant="153631">
+      <body>It is the birthday of two of my coworkers so I am celebrating them </body>
+    </message>
+    <message id="m0007" time="2014-02-09 01:55:01 UTC" participant="153631">
+      <body>Ew YUCK</body>
+    </message>
+    <message id="m0008" time="2014-02-09 01:57:59 UTC" participant="153548">
+      <body>Yeah.</body>
+    </message>
+  </messages>
+</conversation>
+

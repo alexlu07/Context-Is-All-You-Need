@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 23:23:41 UTC" participant="153268">
+      <body>Well...how's everyone doing today? Tired of this yet? Hope you're both feeling better. Your cousins are looking forward to seeing you. Dress warmly!</body>
+    </message>
+    <message id="m0001" time="2014-12-31 00:34:04 UTC" participant="153268">
+      <body>Glad to hear it.see you in the am</body>
+    </message>
+    <message id="m0002" time="2014-12-31 00:46:56 UTC" participant="153268">
+      <body>We'll sit with the Ebola group.</body>
+    </message>
+    <message id="m0003" time="2014-12-31 00:46:56 UTC" participant="153268">
+      <body>I'm really sorry you're missing it though. Hope you feel better soon</body>
+    </message>
+    <message id="m0004" time="2014-12-31 16:00:13 UTC" participant="153268">
+      <body>How are you feeling today?</body>
+    </message>
+    <message id="m0005" time="2014-12-31 22:15:25 UTC" participant="152734">
+      <body>We're in 416</body>
+    </message>
+    <message id="m0006" time="2014-12-31 22:27:18 UTC" participant="153268">
+      <body>Well I'm in 418...see you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

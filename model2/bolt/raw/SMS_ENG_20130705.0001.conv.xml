@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134923" time="2013-07-05 11:16:20 UTC">
+      <body>Hey!</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-07-05 11:17:43 UTC">
+      <body>hey how are you?</body>
+    </message>
+    <message id="m0002" participant="134923" time="2013-07-05 11:18:08 UTC">
+      <body>I hope you had a great 4th of july! :)</body>
+    </message>
+    <message id="m0003" participant="134923" time="2013-07-05 11:19:41 UTC">
+      <body>I'm good! Just woke up :p how abt u?</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-07-05 11:21:19 UTC">
+      <body>im ok trying to clean my repulsive dishwasher</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-07-05 11:21:51 UTC">
+      <body>There's a strange sulfur smell--have you ever dealt with that?</body>
+    </message>
+    <message id="m0006" participant="134923" time="2013-07-05 11:22:42 UTC">
+      <body>Yikes. I have not. Did u google it?</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-07-05 11:25:06 UTC">
+      <body>yeah there were a few yahoo answers ...trying it out</body>
+    </message>
+    <message id="m0008" participant="134923" time="2013-07-05 11:26:18 UTC">
+      <body>I hope they work. That's got to be annoying.</body>
+    </message>
+    <message id="m0009" participant="134923" time="2013-07-05 13:16:21 UTC">
+      <body>If u havent already, run the washer with a cup of vinegar.</body>
+    </message>
+    <message id="m0010" participant="130632" time="2013-07-05 13:17:40 UTC">
+      <body>oh yeah i'm going to try that next. i ran it with bleach and it seems to have drained properly</body>
+    </message>
+    <message id="m0011" participant="134923" time="2013-07-05 13:18:45 UTC">
+      <body>Well thats good</body>
+    </message>
+    <message id="m0012" participant="130632" time="2013-07-06 01:08:14 UTC">
+      <body>Do any of your appliances smell like eggs?</body>
+    </message>
+    <message id="m0013" participant="134923" time="2013-07-06 01:09:05 UTC">
+      <body>No...</body>
+    </message>
+    <message id="m0014" participant="130632" time="2013-07-06 01:10:12 UTC">
+      <body>HOW NICE</body>
+    </message>
+    <message id="m0015" participant="134923" time="2013-07-06 01:11:42 UTC">
+      <body>Sorry to hear that your dishwasher is still giving you problems...</body>
+    </message>
+    <message id="m0016" participant="130632" time="2013-07-06 01:14:00 UTC">
+      <body>hard to sleep</body>
+    </message>
+    <message id="m0017" participant="130632" time="2013-07-06 01:31:58 UTC">
+      <body>I bet you sleep pretty easily</body>
+    </message>
+    <message id="m0018" participant="134923" time="2013-07-06 01:32:58 UTC">
+      <body>Why is that?</body>
+    </message>
+    <message id="m0019" participant="130632" time="2013-07-06 01:34:24 UTC">
+      <body>The lord has been kinder to you</body>
+    </message>
+    <message id="m0020" participant="134923" time="2013-07-06 01:49:20 UTC">
+      <body>Haha that's questionable</body>
+    </message>
+  </messages>
+</conversation>

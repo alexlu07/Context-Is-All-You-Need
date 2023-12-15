@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 23:03:58 UTC" participant="152417">
+      <body>Whats the story with midyear reviews? Was i supposed to prepare something for tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-12-02 23:06:40 UTC" participant="152574">
+      <body>No mid year reviews for grad students, that I've ever known about. But I'll be sure to tell you what I think! :^}</body>
+    </message>
+    <message id="m0002" time="2014-12-03 16:51:12 UTC" participant="152574">
+      <body>Gabi, let me know what room you're in. See you soon.</body>
+    </message>
+    <message id="m0003" time="2014-12-03 16:53:05 UTC" participant="152417">
+      <body>Im in 702</body>
+    </message>
+    <message id="m0004" time="2014-12-03 16:53:16 UTC" participant="152574">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

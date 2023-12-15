@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136646" time="2013-06-18 20:24:42 UTC">
+      <body>You goin to that going away get-together at the barber shop in the Piazza tonight?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-18 20:26:07 UTC">
+      <body>Ya</body>
+    </message>
+    <message id="m0002" participant="136646" time="2013-06-18 20:28:19 UTC">
+      <body>Bet. Around what time are u gonna get up there? I'm not sure what time it starts?</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-18 20:28:44 UTC">
+      <body>No clue. I think 6 starts</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-18 20:28:57 UTC">
+      <body>Maybe 7</body>
+    </message>
+    <message id="m0005" participant="136646" time="2013-06-18 20:30:09 UTC">
+      <body>Bet. I'll see u up there.</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-06-19 00:35:44 UTC">
+      <body>U there? Over slept</body>
+    </message>
+    <message id="m0007" participant="136646" time="2013-06-19 00:48:49 UTC">
+      <body>Nah, decided to not go cuz Halima's too tired, weather is foul... and Spurs v. Heat game 6 is about to come on.</body>
+    </message>
+  </messages>
+</conversation>

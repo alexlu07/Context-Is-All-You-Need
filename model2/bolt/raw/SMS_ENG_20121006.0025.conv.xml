@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136238" time="2012-10-06 23:26:36 UTC">
+      <body>Hayy </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-07 00:11:34 UTC">
+      <body>Wasssupppp</body>
+    </message>
+    <message id="m0002" participant="136238" time="2012-10-07 00:19:04 UTC">
+      <body>Nmm boo how u doin </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-07 01:17:16 UTC">
+      <body>I'm guuuud how bout you</body>
+    </message>
+  </messages>
+</conversation>

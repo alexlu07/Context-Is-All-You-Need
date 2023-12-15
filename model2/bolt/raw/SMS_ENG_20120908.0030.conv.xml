@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-08 02:56:14 UTC">
+      <body>We are leaving right now</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-09 02:39:55 UTC">
+      <body>Where did you go</body>
+    </message>
+    <message id="m0002" participant="136267" time="2012-09-09 03:01:20 UTC">
+      <body>We goin ta da frats</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-09 03:03:07 UTC">
+      <body>Whennnn take me with u</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-09 05:02:00 UTC">
+      <body>We are going back to Dobbs I think</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-09 15:27:17 UTC">
+      <body>Come with me to the DUC? I'm very high</body>
+    </message>
+  </messages>
+</conversation>

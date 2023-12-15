@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140820.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-20 23:58:55 UTC" participant="153470">
+      <body>Thank you for the awesome gift driving those cars was amazing </body>
+    </message>
+    <message id="m0001" time="2014-08-21 00:09:17 UTC" participant="152374">
+      <body>You're very welcome! Glad you enjoyed it. Have a favorite?</body>
+    </message>
+    <message id="m0002" time="2014-08-21 00:10:11 UTC" participant="153470">
+      <body>McLaren and the Aston Martin </body>
+    </message>
+    <message id="m0003" time="2014-08-21 00:10:35 UTC" participant="152374">
+      <body>Ooh, you got the McLaren! Niiiiiiiiice</body>
+    </message>
+    <message id="m0004" time="2014-08-21 00:11:12 UTC" participant="153470">
+      <body>That thing was crazy stupid fast </body>
+    </message>
+  </messages>
+</conversation>
+

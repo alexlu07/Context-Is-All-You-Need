@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135440" time="2013-03-30 15:21:36 UTC">
+      <body>Hi I will call you soon! So much travel things are nuts but good</body>
+    </message>
+    <message id="m0001" participant="135440" time="2013-03-30 15:21:36 UTC">
+      <body>How are you doing?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-30 15:33:45 UTC">
+      <body>Hey I miss you about to walk to school wanna chat?</body>
+    </message>
+    <message id="m0003" participant="135440" time="2013-03-31 13:32:21 UTC">
+      <body>Everything ok? I had a missed call from you at 3 am</body>
+    </message>
+    <message id="m0004" participant="135440" time="2013-03-31 13:32:48 UTC">
+      <body>: )</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-31 13:33:02 UTC">
+      <body>Yeah sorry ! I slept on my phone and it called you! I'm glad it didn't wake you up!!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135575" time="2012-11-28 21:41:20 UTC">
+      <body>You on 4?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-28 21:44:08 UTC">
+      <body>Lobs</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-28 21:44:11 UTC">
+      <body>Libs </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-28 21:44:15 UTC">
+      <body>U hungry?</body>
+    </message>
+    <message id="m0004" participant="135575" time="2012-11-28 21:45:36 UTC">
+      <body>Oh, no, I was gonna sneak in to 4 and steal a book from Saul. But I'm all set, haha. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120814.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136220" time="2012-08-14 02:09:42 UTC">
+      <body>You in the city?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-14 02:11:15 UTC">
+      <body>Yeah what's up?</body>
+    </message>
+    <message id="m0002" participant="136220" time="2012-08-14 02:23:30 UTC">
+      <body>Wanna party with me and my girlfriend and Rachel?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-08-14 02:25:57 UTC">
+      <body>I don't think I can :( I have to get up early in the morning to leave NYC and I don't get back till Friday</body>
+    </message>
+  </messages>
+</conversation>

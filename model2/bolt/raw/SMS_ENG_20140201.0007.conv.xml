@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140201.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-01 20:20:07 UTC" participant="153491">
+      <body>Damn, you go boiiiiii! Hahahah good job, now pump some coffee through those veins and you'll be set!</body>
+    </message>
+    <message id="m0001" time="2014-02-01 20:21:01 UTC" participant="152116">
+      <body>I'm ready to do this</body>
+    </message>
+    <message id="m0002" time="2014-02-01 20:21:10 UTC" participant="152116">
+      <body>Did you sleep?</body>
+    </message>
+    <message id="m0003" time="2014-02-01 20:27:14 UTC" participant="153491">
+      <body>Good. Yup, slept while you did all that!</body>
+    </message>
+    <message id="m0004" time="2014-02-01 22:02:41 UTC" participant="152116">
+      <body>Can you pick us all up?</body>
+    </message>
+    <message id="m0005" time="2014-02-02 00:00:28 UTC" participant="153491">
+      <body>Sure. Whose house? And I'm aiming to leave at 8:30-9 FYI.</body>
+    </message>
+    <message id="m0006" time="2014-02-02 00:32:08 UTC" participant="152116">
+      <body>Sams house</body>
+    </message>
+    <message id="m0007" time="2014-02-02 01:23:08 UTC" participant="152116">
+      <body>Can you come to Eden's too</body>
+    </message>
+  </messages>
+</conversation>
+

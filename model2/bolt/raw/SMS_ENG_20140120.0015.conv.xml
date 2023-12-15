@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140120.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-20 20:16:07 UTC" participant="152374">
+      <body>Whose turn is it to drive tonight?</body>
+    </message>
+    <message id="m0001" time="2014-01-20 20:16:34 UTC" participant="154093">
+      <body>Mine I think</body>
+    </message>
+    <message id="m0002" time="2014-01-20 20:17:32 UTC" participant="152374">
+      <body>Are you sure? I honestly can't remember. It's driving me nuts</body>
+    </message>
+    <message id="m0003" time="2014-01-20 20:19:01 UTC" participant="154093">
+      <body>Thinking back, I drove last time to UJ.</body>
+    </message>
+    <message id="m0004" time="2014-01-20 20:19:21 UTC" participant="152374">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-01-20 20:29:20 UTC" participant="152374">
+      <body>We're meeting at 8, I'll plan to leave around 7:40</body>
+    </message>
+    <message id="m0006" time="2014-01-20 20:35:16 UTC" participant="154093">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" time="2014-01-20 20:35:31 UTC" participant="154093">
+      <body>I'll be outside</body>
+    </message>
+    <message id="m0008" time="2014-01-20 20:37:00 UTC" participant="152374">
+      <body>I'm getting a Zipcar so look for a #####, not the #######</body>
+    </message>
+    <message id="m0009" time="2014-01-20 20:37:19 UTC" participant="154093">
+      <body>K</body>
+    </message>
+    <message id="m0010" time="2014-01-20 20:56:18 UTC" participant="152374">
+      <body>Okay I already booked the Zipcar so I promise it's okay if you say no, but is there any way I can talk you into switching and driving tonight? I could seriously use a drink. It five.</body>
+    </message>
+    <message id="m0011" time="2014-01-20 20:56:26 UTC" participant="152374">
+      <body>Or five, even.</body>
+    </message>
+    <message id="m0012" time="2014-01-20 20:56:53 UTC" participant="154093">
+      <body>No problem, I'll drive</body>
+    </message>
+    <message id="m0013" time="2014-01-20 20:57:09 UTC" participant="152374">
+      <body>Okay. I'll take two in a row next time. Thank you, a lot</body>
+    </message>
+    <message id="m0014" time="2014-01-20 20:57:53 UTC" participant="154093">
+      <body>My pleasure to be of service</body>
+    </message>
+    <message id="m0015" time="2014-01-21 04:27:18 UTC" participant="152374">
+      <body>I hope you didn't/don't have to look long for parking. Thank tug again.</body>
+    </message>
+    <message id="m0016" time="2014-01-21 04:27:34 UTC" participant="152374">
+      <body>Er, Thank you. Stupid autocorrect.</body>
+    </message>
+    <message id="m0017" time="2014-01-21 04:41:40 UTC" participant="154093">
+      <body>Not long</body>
+    </message>
+  </messages>
+</conversation>
+

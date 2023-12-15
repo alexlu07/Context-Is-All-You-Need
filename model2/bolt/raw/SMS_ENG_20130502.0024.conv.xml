@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-02 22:09:03 UTC">
+      <body>How's the new job?
+
+Who is cochon records?</body>
+    </message>
+    <message id="m0001" participant="131370" time="2013-05-02 22:14:14 UTC">
+      <body>Great. Juan and Manuel</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-02 22:15:11 UTC">
+      <body>What's your sched like?</body>
+    </message>
+    <message id="m0003" participant="131370" time="2013-05-02 22:18:37 UTC">
+      <body>Pretty random :/</body>
+    </message>
+  </messages>
+</conversation>

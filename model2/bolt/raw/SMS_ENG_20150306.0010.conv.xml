@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150306.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-06 21:39:08 UTC" participant="153260">
+      <body>How did you make out?</body>
+    </message>
+    <message id="m0001" time="2015-03-06 21:46:43 UTC" participant="153244">
+      <body>Can you talk if I call?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120103.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-01-03 23:11:19 UTC">
+      <body>We landed in Seattle! Miss you guys!</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-01-03 23:45:04 UTC">
+      <body>Oohhh.  I miss u too. May i use ur room as an office? </body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-01-03 23:49:11 UTC">
+      <body>Yes of course</body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-01-03 23:49:20 UTC">
+      <body>Thanks:) i
+Promise i will right great things Only on your desk:)</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-01-03 23:49:20 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0005" participant="131019" time="2012-01-03 23:50:42 UTC">
+      <body>Haha okay, don't worry about it</body>
+    </message>
+  </messages>
+</conversation>

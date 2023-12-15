@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111218.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-12-18 22:06:29 UTC">
+      <body>In rehearsal</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-18 22:07:12 UTC">
+      <body>Just wanted to let you know I'll be home for dinner but you might not have time anyway. Could you get me in for free?</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-12-18 22:09:38 UTC">
+      <body>I won't be home for dinner.  i suppose you could come with me early!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-02-21 15:32:27 UTC">
+      <body>Hi Emily, my name is meg I'm the driver for riding lessons. We are meeting at 6:45 at pem arch, see you there!</body>
+    </message>
+    <message id="m0001" participant="130704" time="2013-02-21 16:59:17 UTC">
+      <body>Hi sorry my lesson time was changed to Friday so I will be going then instead of Thursday evenings. </body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-02-21 17:10:57 UTC">
+      <body>Oh ok, no problem, have fun!</body>
+    </message>
+  </messages>
+</conversation>

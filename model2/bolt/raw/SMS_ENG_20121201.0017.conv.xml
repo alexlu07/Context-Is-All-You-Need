@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135439" time="2012-12-01 17:19:01 UTC">
+      <body>Will you be at school today? Or are you right now?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-01 17:46:42 UTC">
+      <body>I'm here in the libs just got here</body>
+    </message>
+    <message id="m0002" participant="135439" time="2012-12-01 19:51:16 UTC">
+      <body>Is it warm?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-01 20:07:08 UTC">
+      <body>You should come</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-01 20:07:32 UTC">
+      <body>We can study together and you can sleep over if u like</body>
+    </message>
+    <message id="m0005" participant="135439" time="2012-12-01 20:08:19 UTC">
+      <body>Will you go to Fish's thing?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-12-01 20:09:13 UTC">
+      <body>I don't know</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-12-01 20:09:18 UTC">
+      <body>Prob not</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-12-01 20:09:31 UTC">
+      <body>I just had a meeting that went too long</body>
+    </message>
+    <message id="m0009" participant="135439" time="2012-12-01 20:10:48 UTC">
+      <body>I just got out of the shower. I will pack my stuff and come. Do you want anything? I ll bring food - A lot.</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-12-01 20:11:20 UTC">
+      <body>Hmmm food! Always!I'm starrting to get stressssed</body>
+    </message>
+    <message id="m0011" participant="130622" time="2012-12-01 20:11:28 UTC">
+      <body>We can get Chinese too</body>
+    </message>
+    <message id="m0012" participant="130622" time="2012-12-01 20:11:36 UTC">
+      <body>Do u want to sleep over</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-12-01 20:11:38 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0014" participant="130622" time="2012-12-01 20:11:47 UTC">
+      <body>It will be quiet at my house</body>
+    </message>
+    <message id="m0015" participant="135439" time="2012-12-01 20:47:10 UTC">
+      <body>I may sleep over. Depends on time : ) i am sure that it will be quiet : )</body>
+    </message>
+    <message id="m0016" participant="135439" time="2012-12-01 22:12:03 UTC">
+      <body>I ll be there in 20 mins. Where you at?</body>
+    </message>
+    <message id="m0017" participant="130622" time="2012-12-01 22:17:04 UTC">
+      <body>Lib closed floor 4</body>
+    </message>
+  </messages>
+</conversation>

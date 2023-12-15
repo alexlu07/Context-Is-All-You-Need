@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140822.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-22 18:05:24 UTC" participant="153676">
+      <body>Here's a list of bands from my fried Ben!</body>
+    </message>
+    <message id="m0001" time="2014-08-22 18:05:42 UTC" participant="153676">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2014-08-22 18:45:23 UTC" participant="153548">
+      <body>Ah!!!! This is amazing. Thank you!</body>
+    </message>
+    <message id="m0003" time="2014-08-22 18:45:54 UTC" participant="153676">
+      <body>Yay! So glad</body>
+    </message>
+  </messages>
+</conversation>
+

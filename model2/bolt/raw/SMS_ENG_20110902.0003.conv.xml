@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110902.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-02 01:31:24 UTC">
+      <body>I miss you</body>
+    </message>
+    <message id="m0001" participant="135115" time="2011-09-02 04:57:17 UTC">
+      <body>I miss you, baby girl</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-02 19:23:35 UTC">
+      <body>Did I mention I'm hanging out with luke tonight?</body>
+    </message>
+    <message id="m0003" participant="135115" time="2011-09-02 21:06:44 UTC">
+      <body>You crazy biotech! We'll have to discuss this at a later date</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-02 21:07:00 UTC">
+      <body>Biotech!!!!</body>
+    </message>
+    <message id="m0005" participant="135115" time="2011-09-02 21:07:35 UTC">
+      <body>Haha i thought you'd like that</body>
+    </message>
+  </messages>
+</conversation>

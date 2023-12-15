@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150311.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-11 23:16:14 UTC" participant="153804">
+      <body>When is Seder dinner?</body>
+    </message>
+    <message id="m0001" time="2015-03-11 23:18:09 UTC" participant="153558">
+      <body>April 4th</body>
+    </message>
+    <message id="m0002" time="2015-03-11 23:19:09 UTC" participant="153804">
+      <body>That late,thought it was sooner</body>
+    </message>
+    <message id="m0003" time="2015-03-11 23:20:47 UTC" participant="153558">
+      <body>I was invited on the 4th, I don't know anything more about it than that</body>
+    </message>
+    <message id="m0004" time="2015-03-11 23:25:22 UTC" participant="153804">
+      <body>I understand you drink 4 cups of wine.Day before Easter</body>
+    </message>
+    <message id="m0005" time="2015-03-11 23:26:15 UTC" participant="153558">
+      <body>I just know I have to take the bus to New York </body>
+    </message>
+    <message id="m0006" time="2015-03-11 23:27:01 UTC" participant="153804">
+      <body>Sounds like fun!</body>
+    </message>
+  </messages>
+</conversation>
+

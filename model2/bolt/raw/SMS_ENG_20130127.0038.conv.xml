@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-27 02:31:16 UTC" participant="152374">
+      <body>I understand I will be using your taxi service this evening :-)</body>
+    </message>
+    <message id="m0001" time="2013-01-27 02:31:59 UTC" participant="154093">
+      <body>Yep, am I picking you up now?</body>
+    </message>
+    <message id="m0002" time="2013-01-27 02:33:56 UTC" participant="152374">
+      <body>If that's cool. I'm at ####### and #########</body>
+    </message>
+    <message id="m0003" time="2013-01-27 02:34:37 UTC" participant="154093">
+      <body>K, omw</body>
+    </message>
+  </messages>
+</conversation>
+

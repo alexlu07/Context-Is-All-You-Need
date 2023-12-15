@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130217.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-02-17 22:47:47 UTC">
+      <body>Hey Brenna! Dan and I are starting to look into where to stay for your wedding...is there anywhere in particular that you'd recommend?</body>
+    </message>
+    <message id="m0001" participant="131483" time="2013-02-17 23:11:27 UTC">
+      <body>Great! :) I hear the willows hotel is pretty affordable and nearby. </body>
+    </message>
+    <message id="m0002" participant="131483" time="2013-02-17 23:13:00 UTC">
+      <body>/motel.  There should be many other places in the area too.</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-17 23:28:12 UTC">
+      <body>Okay great, thanks! I figured you'd have the insider info on places to stay! :-)</body>
+    </message>
+  </messages>
+</conversation>

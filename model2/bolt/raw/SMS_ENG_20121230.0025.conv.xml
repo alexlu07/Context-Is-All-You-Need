@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121230.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2012-12-30 20:02:51 UTC">
+      <body>Hiya, when are you going to be in maryland again?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-12-30 20:03:27 UTC">
+      <body>We are getting there the third and ill be there roughly a week :D</body>
+    </message>
+    <message id="m0002" participant="135274" time="2012-12-30 20:03:56 UTC">
+      <body>Yaaaaaay!</body>
+    </message>
+  </messages>
+</conversation>

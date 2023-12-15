@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141222.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-22 19:27:55 UTC" participant="152115">
+      <body>I don't know if Michael told you earlier but I'll be here until 730</body>
+    </message>
+    <message id="m0001" time="2014-12-22 19:29:11 UTC" participant="152117">
+      <body>No he did not. Thought u were getting done early and going to his xmas party with him.</body>
+    </message>
+    <message id="m0002" time="2014-12-22 19:29:38 UTC" participant="152115">
+      <body>No. I have an assignment. Tell daddy pick me up tonight.</body>
+    </message>
+    <message id="m0003" time="2014-12-22 19:31:24 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

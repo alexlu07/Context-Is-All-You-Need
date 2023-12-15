@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135389" time="2013-02-22 19:06:40 UTC">
+      <body>I have your book!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-22 19:06:59 UTC">
+      <body>Laser cutting</body>
+    </message>
+    <message id="m0002" participant="135389" time="2013-02-22 19:07:15 UTC">
+      <body>Stop by 9 when you get a chance!</body>
+    </message>
+  </messages>
+</conversation>

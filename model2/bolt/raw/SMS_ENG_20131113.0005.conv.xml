@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131113.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-13 12:25:33 UTC" participant="153547">
+      <body>Do you need some paper and $ to get started on a laser cut edition?</body>
+    </message>
+    <message id="m0001" time="2013-11-13 12:43:28 UTC" participant="153559">
+      <body>Paper maybe … can you resend the file </body>
+    </message>
+    <message id="m0002" time="2013-11-13 13:54:12 UTC" participant="153547">
+      <body>Yeah I will resend when I get home. I would like to use a gray paper. Do you know of any optimal for laser cutting ?</body>
+    </message>
+  </messages>
+</conversation>
+

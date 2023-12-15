@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0014" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-06-06 18:00:09 UTC">
+      <body>Hey, man... How's the job search?</body>
+    </message>
+    <message id="m0001" participant="130688" time="2013-06-06 18:02:39 UTC">
+      <body>Got long term month temp job at aramark in hr</body>
+    </message>
+    <message id="m0002" participant="130688" time="2013-06-06 18:03:27 UTC">
+      <body>Did you hear back about it?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-06-06 19:47:04 UTC">
+      <body>Nice! I know someone who has worked at aramark for years in Las Vegas. Supposed to be a good company. Yeah...no job. The company decided not to hire - a</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-06-06 19:47:04 UTC">
+      <body>nd instead laid off 5 people, my niece included. :-/</body>
+    </message>
+    <message id="m0005" participant="130688" time="2013-06-07 05:56:13 UTC">
+      <body>That blows</body>
+    </message>
+  </messages>
+</conversation>

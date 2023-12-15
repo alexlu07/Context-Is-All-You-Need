@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131004.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2013-10-04 15:42:57 UTC" participant="152417">
+      <body>Ill try to stop in if work is slow, ironically ill be working on shabbat</body>
+    </message>
+    <message id="m0002" time="2013-10-04 15:47:11 UTC" participant="152421">
+      <body>Where are you working?</body>
+    </message>
+    <message id="m0003" time="2013-10-04 15:47:45 UTC" participant="152417">
+      <body>Delivery driving</body>
+    </message>
+    <message id="m0004" time="2013-10-04 15:48:53 UTC" participant="152421">
+      <body>I could run some plum tart out to the curb!</body>
+    </message>
+  </messages>
+</conversation>
+

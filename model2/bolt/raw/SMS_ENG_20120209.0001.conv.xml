@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120209.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131325" time="2012-02-09 18:56:44 UTC">
+      <body>Hey, so just wondering if you have the details for tmrw yet?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-02-09 19:00:20 UTC">
+      <body>Not yet sorry man, we'll prob start around 9ish in BK though. I'll give you a call later when I can confirm </body>
+    </message>
+    <message id="m0002" participant="131325" time="2012-02-09 19:01:12 UTC">
+      <body>Ok, cool.</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-02-09 22:17:31 UTC">
+      <body>We are going to start at 9 tomm, can you meet me at the myrtle willobouby G stop?</body>
+    </message>
+    <message id="m0004" participant="131325" time="2012-02-09 22:24:59 UTC">
+      <body>Yeah. See you at 9.</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-02-10 13:58:44 UTC">
+      <body>In front of cornerstore</body>
+    </message>
+  </messages>
+</conversation>

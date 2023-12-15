@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130403.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-04-03 13:32:27 UTC">
+      <body>i found a website with my grad school work, if youre interested: http://local-artists.org/user/2282</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-04-03 13:55:36 UTC">
+      <body>They are really lovely. They seem more like hand dyed fabrics than paintings. How are you? </body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-04-03 13:56:23 UTC">
+      <body>okay i guess. you?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-04-03 13:59:40 UTC">
+      <body>I'm ok. Feeling run down. Do you have yoga this weekend?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-04-03 14:19:04 UTC">
+      <body>yes- i've been feeling down.</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-04-03 14:55:51 UTC">
+      <body>Oh jeez</body>
+    </message>
+  </messages>
+</conversation>

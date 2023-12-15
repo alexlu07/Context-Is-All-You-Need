@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130716.0024" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135220" time="2013-07-16 21:08:32 UTC">
+      <body>Hey what's up!</body>
+    </message>
+    <message id="m0001" participant="131889" time="2013-07-16 21:12:07 UTC">
+      <body>Hello. Nothing much</body>
+    </message>
+    <message id="m0002" participant="135220" time="2013-07-16 21:18:47 UTC">
+      <body>I'm cooking dinner :)</body>
+    </message>
+    <message id="m0003" participant="131889" time="2013-07-16 21:37:23 UTC">
+      <body>I'm gonna go watch a movie with my mom and sister</body>
+    </message>
+    <message id="m0004" participant="135220" time="2013-07-16 23:29:57 UTC">
+      <body>Which movie</body>
+    </message>
+    <message id="m0005" participant="131889" time="2013-07-16 23:32:27 UTC">
+      <body>Despicable me 2</body>
+    </message>
+  </messages>
+</conversation>

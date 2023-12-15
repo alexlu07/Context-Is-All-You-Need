@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136285" time="2012-11-27 02:01:36 UTC">
+      <body>Hey do you know if we have to write a response for tomorrow's FSEM class? </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-27 02:02:24 UTC">
+      <body>I think so. It's the last one I think</body>
+    </message>
+    <message id="m0002" participant="136285" time="2012-11-27 02:02:33 UTC">
+      <body>What do we have to read... </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-27 02:02:56 UTC">
+      <body>The book about South Africa. The whole thing. </body>
+    </message>
+    <message id="m0004" participant="136285" time="2012-11-27 02:03:16 UTC">
+      <body>LOL</body>
+    </message>
+    <message id="m0005" participant="136285" time="2012-11-27 02:03:27 UTC">
+      <body>Ahah okay thanks </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-27 02:04:12 UTC">
+      <body>Yeah I didn't read all of it. Skim one part of it and write about that lol</body>
+    </message>
+    <message id="m0007" participant="136285" time="2012-11-27 02:04:28 UTC">
+      <body>Yup totally feel you </body>
+    </message>
+  </messages>
+</conversation>

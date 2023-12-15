@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-08 06:11:26 UTC">
+      <body>11:30 food tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135269" time="2013-03-08 06:12:31 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-08 22:21:08 UTC">
+      <body>Hey! Did you figure out if you're gonna come to Cosi or eat with Angelo?</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-03-08 22:21:38 UTC">
+      <body>Coming with you! </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-08 22:22:14 UTC">
+      <body>Awesome :)</body>
+    </message>
+    <message id="m0005" participant="135269" time="2013-03-09 22:05:16 UTC">
+      <body>Just passed a woman walking a weimaraner</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-03-09 22:07:37 UTC">
+      <body>You should donate my jacket to her so they can match :)</body>
+    </message>
+    <message id="m0007" participant="135269" time="2013-03-09 22:08:05 UTC">
+      <body>Haha.</body>
+    </message>
+  </messages>
+</conversation>

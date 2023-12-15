@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 19:51:31 UTC" participant="153576">
+      <body>Hey. I'm back , I miss you and I would like to see you soon!</body>
+    </message>
+    <message id="m0001" time="2015-03-12 20:00:01 UTC" participant="153548">
+      <body>YAYAYAYAY! I'm glad you are back safe! I'm in VA for spring break lets get together next week!</body>
+    </message>
+    <message id="m0002" time="2015-03-12 20:00:17 UTC" participant="153548">
+      <body>I want to hear about your adventures!</body>
+    </message>
+    <message id="m0003" time="2015-03-12 20:01:57 UTC" participant="153576">
+      <body>Yayayayaya! Have a great break! See you soon</body>
+    </message>
+  </messages>
+</conversation>
+

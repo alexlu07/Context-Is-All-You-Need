@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121026.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-26 20:25:42 UTC">
+      <body>Are u going to Maria's tonight</body>
+    </message>
+    <message id="m0001" participant="135386" time="2012-10-26 20:30:56 UTC">
+      <body>No. Working til 9</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-26 20:31:24 UTC">
+      <body>Hers doesn't start till 10</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-26 20:32:24 UTC">
+      <body>Ok cool </body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-26 20:32:27 UTC">
+      <body>I get it</body>
+    </message>
+    <message id="m0005" participant="135386" time="2012-10-26 20:33:04 UTC">
+      <body>No costume. And I really need to do as much work as possible. </body>
+    </message>
+    <message id="m0006" participant="135386" time="2012-10-26 20:33:04 UTC">
+      <body>Yeah. Sorry :( im working til 10 tomro and 8 on Sunday and Monday. Gotta squeeze out the hours for homework</body>
+    </message>
+    <message id="m0007" participant="135386" time="2012-10-26 20:33:04 UTC">
+      <body>Studio Sunday</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-10-26 22:51:09 UTC">
+      <body>Kim hey do you want to study together tonight</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-10-26 22:51:25 UTC">
+      <body>I'm thinking I don't want to go all the way to Brighton. I'm lazy</body>
+    </message>
+    <message id="m0010" participant="135386" time="2012-10-26 22:51:44 UTC">
+      <body>I'm off at 9 tho</body>
+    </message>
+  </messages>
+</conversation>

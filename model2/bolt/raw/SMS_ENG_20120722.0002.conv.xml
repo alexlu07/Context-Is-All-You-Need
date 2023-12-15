@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120722.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-07-22 00:58:46 UTC">
+      <body>Sherlock is great!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-07-22 00:59:05 UTC">
+      <body>Sherlock himself is a brilliant actor </body>
+    </message>
+    <message id="m0002" participant="135131" time="2012-07-22 01:33:11 UTC">
+      <body>Yeah! Glad you like it!</body>
+    </message>
+  </messages>
+</conversation>

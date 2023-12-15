@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150321.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-21 16:32:13 UTC" participant="153813">
+      <body>How did it go yesterday? </body>
+    </message>
+    <message id="m0001" time="2015-03-21 17:01:12 UTC" participant="153804">
+      <body>Short and bittersweet..stopped at cottage,cold!</body>
+    </message>
+    <message id="m0002" time="2015-03-21 17:04:12 UTC" participant="153813">
+      <body>Everything ok at the cottage, any shore damage? I bet it will be end of April before the ice melts.</body>
+    </message>
+    <message id="m0003" time="2015-03-21 17:05:00 UTC" participant="153804">
+      <body>When are you guys going on vacation or did you go already?</body>
+    </message>
+    <message id="m0004" time="2015-03-21 17:11:53 UTC" participant="153813">
+      <body>We leave Wed. Will be strange with the whole family there including Shelby's parents. But should be fun.</body>
+    </message>
+    <message id="m0005" time="2015-03-21 17:13:59 UTC" participant="153804">
+      <body>At least you know you'll have sun and warmth</body>
+    </message>
+    <message id="m0006" time="2015-03-21 17:19:21 UTC" participant="153804">
+      <body>Have a great time!</body>
+    </message>
+    <message id="m0007" time="2015-03-21 17:20:17 UTC" participant="153813">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

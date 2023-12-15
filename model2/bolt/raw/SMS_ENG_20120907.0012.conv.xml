@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120907.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135430" time="2012-09-07 19:12:00 UTC">
+      <body>Hi sofie! Enjoy ur weekend in the city! How's the hair?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-07 19:36:26 UTC">
+      <body>Oh merav! You are so sweet to think of me. I think I might be cured... My roommate the nurse is even sharing a bed with me tonight. I've been doing the olive oil and laundering.  I am so much better</body>
+    </message>
+    <message id="m0002" participant="135430" time="2012-09-07 19:37:36 UTC">
+      <body>Great! I'm sure you are cured! That's what we do!!! Have fun!</body>
+    </message>
+  </messages>
+</conversation>

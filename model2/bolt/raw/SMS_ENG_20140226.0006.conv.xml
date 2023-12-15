@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140226.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-26 02:24:44 UTC" participant="152417">
+      <body>I just found out we're rehearsing til 1045 so i can get dog food</body>
+    </message>
+    <message id="m0001" time="2014-02-26 02:25:04 UTC" participant="152560">
+      <body>That's ok. </body>
+    </message>
+    <message id="m0002" time="2014-02-26 02:25:04 UTC" participant="152560">
+      <body>See you later tonight! </body>
+    </message>
+    <message id="m0003" time="2014-02-26 02:25:04 UTC" participant="152560">
+      <body>Oh yeah we are still good f</body>
+    </message>
+    <message id="m0004" time="2014-02-26 02:25:04 UTC" participant="152560">
+      <body>For a few days</body>
+    </message>
+    <message id="m0005" time="2014-02-26 02:25:28 UTC" participant="152417">
+      <body>We have enought for tomorrow right? I can pick it up tomorrow morning</body>
+    </message>
+    <message id="m0006" time="2014-02-26 02:31:28 UTC" participant="152560">
+      <body>How is the rehearsal going?</body>
+    </message>
+    <message id="m0007" time="2014-02-26 02:34:42 UTC" participant="152417">
+      <body>The music and show are great, but my knees hurt from moving gear up and down stairs</body>
+    </message>
+    <message id="m0008" time="2014-02-26 02:35:44 UTC" participant="152560">
+      <body>If I didn't have to study I would love to be your roadie.</body>
+    </message>
+  </messages>
+</conversation>
+

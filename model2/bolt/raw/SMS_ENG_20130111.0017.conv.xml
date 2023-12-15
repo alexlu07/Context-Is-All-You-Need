@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130111.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135467" time="2013-01-11 21:47:19 UTC">
+      <body>I'm in cambridge.            How r u feeling?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-11 22:12:30 UTC">
+      <body>Much better</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-11 22:12:42 UTC">
+      <body>Ill see you but no hugs</body>
+    </message>
+    <message id="m0003" participant="135467" time="2013-01-11 22:14:06 UTC">
+      <body>No hugs      No bugs</body>
+    </message>
+    <message id="m0004" participant="135467" time="2013-01-12 21:23:37 UTC">
+      <body>Did u get your ipad keyboard to work?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-12 21:24:12 UTC">
+      <body>I didn't try it yet.  But thank you!!!!</body>
+    </message>
+    <message id="m0006" participant="135467" time="2013-01-12 22:49:43 UTC">
+      <body>How do u feel?                   how is your cough?</body>
+    </message>
+    <message id="m0007" participant="135467" time="2013-01-13 20:17:22 UTC">
+      <body>Do you a kleenex?</body>
+    </message>
+    <message id="m0008" participant="135467" time="2013-01-13 20:24:47 UTC">
+      <body>Hope your flu is now a fluke</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-01-13 21:30:31 UTC">
+      <body>Hahahhaa</body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-01-13 21:30:40 UTC">
+      <body>I have Kleenex</body>
+    </message>
+    <message id="m0011" participant="135467" time="2013-01-13 22:30:19 UTC">
+      <body>Hee hee hee</body>
+    </message>
+  </messages>
+</conversation>

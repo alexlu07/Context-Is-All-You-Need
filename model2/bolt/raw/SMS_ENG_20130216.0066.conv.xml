@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-16 19:59:02 UTC" participant="152417">
+      <body>Callis nine, on at 10</body>
+    </message>
+    <message id="m0001" time="2013-02-16 20:01:04 UTC" participant="152431">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0002" time="2013-02-16 20:01:04 UTC" participant="152431">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

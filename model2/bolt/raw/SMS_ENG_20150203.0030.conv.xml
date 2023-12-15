@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 19:43:08 UTC" participant="153663">
+      <body>Hello?! You alive?</body>
+    </message>
+    <message id="m0002" time="2015-02-03 20:26:31 UTC" participant="153548">
+      <body>I'm Alive!! You home?</body>
+    </message>
+    <message id="m0003" time="2015-02-03 20:26:40 UTC" participant="153663">
+      <body>Yas</body>
+    </message>
+    <message id="m0004" time="2015-02-03 20:26:40 UTC" participant="153663">
+      <body>Yassss</body>
+    </message>
+    <message id="m0005" time="2015-02-03 20:27:29 UTC" participant="153548">
+      <body>Ima make a tea then call yew!</body>
+    </message>
+  </messages>
+</conversation>
+

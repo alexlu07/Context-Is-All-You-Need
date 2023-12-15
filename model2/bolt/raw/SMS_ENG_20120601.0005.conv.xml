@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120601.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131406" time="2012-06-01 20:50:08 UTC">
+      <body>What r u doing</body>
+    </message>
+    <message id="m0001" participant="131403" time="2012-06-01 20:51:02 UTC">
+      <body>I am reading.  Glad u r having fun</body>
+    </message>
+    <message id="m0002" participant="131406" time="2012-06-01 20:52:16 UTC">
+      <body>Thanks.
+I'm trying hard to be nice
+I just sent dad a text</body>
+    </message>
+    <message id="m0003" participant="131403" time="2012-06-01 20:53:09 UTC">
+      <body/>
+    </message>
+    <message id="m0004" participant="131406" time="2012-06-01 20:54:24 UTC">
+      <body>Thanks mom
+Your the best mom ever</body>
+    </message>
+    <message id="m0005" participant="131406" time="2012-06-02 16:02:08 UTC">
+      <body>Can I take my iron medicine</body>
+    </message>
+    <message id="m0006" participant="131406" time="2012-06-02 16:02:08 UTC">
+      <body>Dad said I couldn't</body>
+    </message>
+    <message id="m0007" participant="131403" time="2012-06-02 16:02:12 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0008" participant="131403" time="2012-06-02 16:03:05 UTC">
+      <body>I just told him you could</body>
+    </message>
+  </messages>
+</conversation>

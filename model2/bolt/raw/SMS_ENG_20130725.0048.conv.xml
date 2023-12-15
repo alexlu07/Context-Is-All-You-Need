@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-25 22:04:20 UTC" participant="154399">
+      <body>Thanks for encouraging me to run. Then i had to go. If you feel like bringing in your scale tomorrow i would appreciate it</body>
+    </message>
+    <message id="m0001" time="2013-07-25 22:04:48 UTC" participant="154352">
+      <body>No problem</body>
+    </message>
+    <message id="m0002" time="2013-07-26 15:10:06 UTC" participant="154399">
+      <body>Where r u</body>
+    </message>
+    <message id="m0003" time="2013-07-26 15:10:31 UTC" participant="154352">
+      <body>Parking lot</body>
+    </message>
+    <message id="m0004" time="2013-07-26 15:11:51 UTC" participant="154399">
+      <body>R u my car</body>
+    </message>
+    <message id="m0005" time="2013-07-26 15:12:31 UTC" participant="154352">
+      <body>I'm already at mine. See you there</body>
+    </message>
+    <message id="m0006" time="2013-07-26 15:15:32 UTC" participant="154399">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

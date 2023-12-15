@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 23:22:44 UTC" participant="152116">
+      <body>What time are you home?</body>
+    </message>
+    <message id="m0001" time="2015-03-03 23:31:42 UTC" participant="153244">
+      <body>Around 730.. why what's up</body>
+    </message>
+    <message id="m0002" time="2015-03-03 23:39:50 UTC" participant="152116">
+      <body>I have more news for you. DNA related</body>
+    </message>
+    <message id="m0003" time="2015-03-03 23:47:50 UTC" participant="153244">
+      <body>Ah ok.. ill call you when I get home? </body>
+    </message>
+    <message id="m0004" time="2015-03-03 23:48:27 UTC" participant="153244">
+      <body>Ok ttys</body>
+    </message>
+  </messages>
+</conversation>
+

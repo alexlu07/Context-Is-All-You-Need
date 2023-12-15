@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141208.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-08 21:12:37 UTC" participant="152116">
+      <body>You passed? That's great! So after the medical exam you go to the academy definitely?</body>
+    </message>
+    <message id="m0001" time="2014-12-08 21:14:54 UTC" participant="153244">
+      <body>No... after medical they will set a new date for lie detector. </body>
+    </message>
+    <message id="m0002" time="2014-12-08 21:15:06 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0003" time="2014-12-08 21:15:13 UTC" participant="153244">
+      <body>Then after that anothwr date for psychological eval</body>
+    </message>
+    <message id="m0004" time="2014-12-08 21:15:32 UTC" participant="152116">
+      <body>Okay and possible talks with your contacts</body>
+    </message>
+    <message id="m0005" time="2014-12-08 21:33:26 UTC" participant="153244">
+      <body>Yea that is going to be taking place through out the whole process</body>
+    </message>
+    <message id="m0006" time="2014-12-08 21:34:54 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

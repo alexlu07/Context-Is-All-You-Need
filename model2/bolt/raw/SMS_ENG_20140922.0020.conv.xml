@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140922.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-22 02:27:32 UTC" participant="153900">
+      <body>Text me when your near the house and do you need a loaf of slice bread </body>
+    </message>
+    <message id="m0001" time="2014-09-22 03:10:39 UTC" participant="153900">
+      <body>You get home yet</body>
+    </message>
+    <message id="m0002" time="2014-09-22 03:12:16 UTC" participant="153244">
+      <body>Yea just walked in</body>
+    </message>
+  </messages>
+</conversation>
+

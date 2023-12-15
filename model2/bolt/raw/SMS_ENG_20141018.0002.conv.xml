@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141018.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-18 15:30:57 UTC" participant="152735">
+      <body>I'll be in cc all day, tell me where to get my $</body>
+    </message>
+    <message id="m0001" time="2014-10-18 15:32:16 UTC" participant="152743">
+      <body>I had flight changes, was in Frontier, wasn't to keen in flying in their jets, keep you posted when I get there</body>
+    </message>
+    <message id="m0002" time="2014-10-18 15:34:04 UTC" participant="152743">
+      <body>Was supposed to take their red eye last night</body>
+    </message>
+    <message id="m0003" time="2014-10-18 15:45:03 UTC" participant="152735">
+      <body>Great. I'll be around tomorrow as well.</body>
+    </message>
+    <message id="m0004" time="2014-10-18 15:45:13 UTC" participant="152735">
+      <body>Feel free to leave it at Hooloon gallery actually </body>
+    </message>
+    <message id="m0005" time="2014-10-18 15:45:17 UTC" participant="152735">
+      <body>And I can pick it up there </body>
+    </message>
+    <message id="m0006" time="2014-10-18 15:45:33 UTC" participant="152743">
+      <body>Ok cool, keep you posted! </body>
+    </message>
+  </messages>
+</conversation>
+

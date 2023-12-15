@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140806.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-06 17:39:54 UTC" participant="153548">
+      <body>Are you around for a chat??</body>
+    </message>
+    <message id="m0001" time="2014-08-06 17:50:43 UTC" participant="153634">
+      <body>yes! does in 15 min work?</body>
+    </message>
+    <message id="m0002" time="2014-08-06 17:50:57 UTC" participant="153548">
+      <body>Yeah!! Call me then!</body>
+    </message>
+    <message id="m0003" time="2014-08-06 17:51:08 UTC" participant="153634">
+      <body>cool</body>
+    </message>
+  </messages>
+</conversation>
+

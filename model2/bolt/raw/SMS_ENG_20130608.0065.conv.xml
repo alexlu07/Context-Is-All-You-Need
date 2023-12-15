@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-08 22:29:56 UTC" participant="153547">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" time="2013-06-08 23:35:37 UTC" participant="153547">
+      <body>I miss hanging out with you</body>
+    </message>
+    <message id="m0002" time="2013-06-09 01:14:44 UTC" participant="153551">
+      <body>Me too. How are u?</body>
+    </message>
+    <message id="m0003" time="2013-06-09 01:15:11 UTC" participant="153547">
+      <body>I'm good</body>
+    </message>
+    <message id="m0004" time="2013-06-09 14:59:51 UTC" participant="153551">
+      <body>Can we go swimming soon?</body>
+    </message>
+  </messages>
+</conversation>
+

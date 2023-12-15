@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120826.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-08-26 23:21:44 UTC">
+      <body>Skype at 5?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-08-26 23:22:11 UTC">
+      <body>Can we do 5:15?</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-08-26 23:22:47 UTC">
+      <body>Perfect, see you then</body>
+    </message>
+  </messages>
+</conversation>

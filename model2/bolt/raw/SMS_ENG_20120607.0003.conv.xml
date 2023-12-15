@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120607.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-06-07 23:06:31 UTC">
+      <body>Haha it is!! I was thinking 60?</body>
+    </message>
+    <message id="m0001" participant="131025" time="2012-06-07 23:08:00 UTC">
+      <body>Sounds good, I'll bring you yo money tomorrow!</body>
+    </message>
+    <message id="m0002" participant="131025" time="2012-06-08 11:59:08 UTC">
+      <body>Let me know when you get in and I will run money down</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-06-08 12:01:56 UTC">
+      <body>You got it. Thanks!</body>
+    </message>
+  </messages>
+</conversation>

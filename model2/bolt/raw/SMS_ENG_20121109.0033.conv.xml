@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-09 03:30:14 UTC">
+      <body>Hey I just got out of bam practice so now we can hang. Sorry for being so late</body>
+    </message>
+    <message id="m0001" participant="136263" time="2012-11-09 03:30:36 UTC">
+      <body>No worries. I'm writing a paper </body>
+    </message>
+  </messages>
+</conversation>

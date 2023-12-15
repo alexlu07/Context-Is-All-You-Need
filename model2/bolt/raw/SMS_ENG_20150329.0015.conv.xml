@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 16:04:18 UTC" participant="153418">
+      <body>You doing anything?</body>
+    </message>
+    <message id="m0001" time="2015-03-29 16:20:46 UTC" participant="152116">
+      <body>I'm at my mom's. I don't think I told you but my grandma lives with them now, and I watch her over the weekends</body>
+    </message>
+    <message id="m0002" time="2015-03-29 16:21:49 UTC" participant="152116">
+      <body>What are you up to?</body>
+    </message>
+    <message id="m0003" time="2015-03-29 16:21:56 UTC" participant="153418">
+      <body> Ah. You do it the whole day? </body>
+    </message>
+    <message id="m0004" time="2015-03-29 16:22:11 UTC" participant="153418">
+      <body>I just got done doing family stuff.</body>
+    </message>
+    <message id="m0005" time="2015-03-29 16:24:01 UTC" participant="152116">
+      <body>Yeah usually. But I think my mom's gonna be home today. I have to get back to you</body>
+    </message>
+  </messages>
+</conversation>
+

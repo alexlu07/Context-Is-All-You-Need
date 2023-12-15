@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150121.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-21 14:09:17 UTC" participant="153244">
+      <body>I have to reschedule the medical evaluation bec the documentation I brought for the surgery is unacceptable bec it didn't have the doctor's signature on it.</body>
+    </message>
+    <message id="m0001" time="2015-01-21 14:13:00 UTC" participant="153399">
+      <body>Good morning OMG they are really strict ! I should had told you sorry</body>
+    </message>
+    <message id="m0002" time="2015-01-21 14:36:16 UTC" participant="153244">
+      <body>Yea they wouldn't even except a faxed doctor note or anything. Has to be a note with the original signature on it. So I have to wait until I can pick up the note then call to reschedule</body>
+    </message>
+    <message id="m0003" time="2015-01-21 14:36:55 UTC" participant="153244">
+      <body>Good morning by the way. Lol</body>
+    </message>
+    <message id="m0004" time="2015-01-21 14:37:15 UTC" participant="153399">
+      <body>Do you need me to pick it up for you? </body>
+    </message>
+    <message id="m0005" time="2015-01-21 14:48:03 UTC" participant="153244">
+      <body>No I'm just going to see if I can pick it up after work on friday or early mon before my shift begins.  Its in jersey but I should be able to manage it without losing more time off. Thank you though,  I really appreciate that</body>
+    </message>
+    <message id="m0006" time="2015-01-21 14:50:21 UTC" participant="153399">
+      <body>No problem FYI future ref they like to see A diagnosis and a prognosis on the Rx</body>
+    </message>
+    <message id="m0007" time="2015-01-21 14:58:08 UTC" participant="153244">
+      <body>Got it! Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

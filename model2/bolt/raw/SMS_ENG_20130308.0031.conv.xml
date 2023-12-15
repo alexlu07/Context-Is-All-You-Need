@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-08 18:38:18 UTC">
+      <body>Are you going to meet the students from the smfa tonight?</body>
+    </message>
+    <message id="m0001" participant="135436" time="2013-03-09 00:15:31 UTC">
+      <body>I just got back from nyc. Skipping class!</body>
+    </message>
+  </messages>
+</conversation>

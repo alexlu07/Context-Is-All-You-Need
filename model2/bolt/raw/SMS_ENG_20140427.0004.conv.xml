@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140427.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-27 16:19:29 UTC" participant="153557">
+      <body>The cats have lost their minds.</body>
+    </message>
+    <message id="m0001" time="2014-04-27 19:02:40 UTC" participant="153557">
+      <body>You coming home today?</body>
+    </message>
+    <message id="m0002" time="2014-04-27 19:06:14 UTC" participant="153547">
+      <body>Yea b home 2 hrs</body>
+    </message>
+    <message id="m0003" time="2014-04-27 19:22:11 UTC" participant="153547">
+      <body>Or longer traffic is bad</body>
+    </message>
+    <message id="m0004" time="2014-04-27 19:22:40 UTC" participant="153557">
+      <body>I'm glad yr comin home. Our children are acting out!</body>
+    </message>
+  </messages>
+</conversation>
+

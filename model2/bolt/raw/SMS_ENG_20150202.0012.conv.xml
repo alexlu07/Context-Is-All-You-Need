@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 14:00:32 UTC" participant="152212">
+      <body>i love u</body>
+    </message>
+    <message id="m0001" time="2015-02-02 14:15:21 UTC" participant="149389">
+      <body>Same! I'm exhausted </body>
+    </message>
+    <message id="m0002" time="2015-02-02 14:15:28 UTC" participant="149389">
+      <body>Winter is so terrible </body>
+    </message>
+    <message id="m0003" time="2015-02-02 14:56:37 UTC" participant="152212">
+      <body>I know. We are having a lot of snow today. Everything is cancelled </body>
+    </message>
+    <message id="m0004" time="2015-02-03 00:28:39 UTC" participant="152212">
+      <body>https://www.youtube.com/watch?v=niqrrmev4mA</body>
+    </message>
+  </messages>
+</conversation>
+

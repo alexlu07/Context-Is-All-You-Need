@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 17:56:14 UTC" participant="153491">
+      <body>That house would be a great place to go for Halloween and Harry Potter marathons!</body>
+    </message>
+    <message id="m0001" time="2014-11-07 22:46:47 UTC" participant="153491">
+      <body>I want to go home!</body>
+    </message>
+    <message id="m0002" time="2014-11-07 23:59:47 UTC" participant="153543">
+      <body>Where are you? </body>
+    </message>
+    <message id="m0003" time="2014-11-08 00:02:18 UTC" participant="153491">
+      <body>I was at Staples. Waiting for documents to me faxed to me and tax it back. I'm just not in the mood today. Happy Friday! How's it going?</body>
+    </message>
+    <message id="m0004" time="2014-11-08 00:03:45 UTC" participant="153543">
+      <body>Oh I'm sorry. I hope your day got better... Ive actually been sleeping since 3, just had my eye surgery so needed to keep my eyes closed  </body>
+    </message>
+    <message id="m0005" time="2014-11-08 00:42:39 UTC" participant="153491">
+      <body>What?? Surgery?!</body>
+    </message>
+    <message id="m0006" time="2014-11-08 00:51:12 UTC" participant="153543">
+      <body>Yeah. Needed to correct my eyes a bit. </body>
+    </message>
+    <message id="m0007" time="2014-11-08 00:55:09 UTC" participant="153491">
+      <body>Is everything okay? Was it last minute/emergency?</body>
+    </message>
+    <message id="m0008" time="2014-11-08 01:07:02 UTC" participant="153543">
+      <body>Nah... I needed a touch up because my vision for a bit worse. Everything's good. </body>
+    </message>
+    <message id="m0009" time="2014-11-08 01:39:18 UTC" participant="153491">
+      <body>Are you going to have to keep touching up every once in a while?</body>
+    </message>
+    <message id="m0010" time="2014-11-08 01:42:24 UTC" participant="153543">
+      <body>Nah... Just this time. Has a change in vision. Hopefully I won't have to do it again.  </body>
+    </message>
+  </messages>
+</conversation>
+

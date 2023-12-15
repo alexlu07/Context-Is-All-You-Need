@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130331.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-31 15:23:24 UTC" participant="152417">
+      <body>￼Greetings fromPhilly town, see you tonight!</body>
+    </message>
+    <message id="m0001" time="2013-03-31 15:28:07 UTC" participant="152417">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2013-03-31 15:35:55 UTC" participant="152560">
+      <body>We can't wait to see you and Simone!</body>
+    </message>
+    <message id="m0003" time="2013-03-31 19:05:03 UTC" participant="152417">
+      <body>Hittin the road now</body>
+    </message>
+    <message id="m0004" time="2013-03-31 19:09:04 UTC" participant="152560">
+      <body>What are your whereabouts?</body>
+    </message>
+    <message id="m0005" time="2013-03-31 19:27:20 UTC" participant="152417">
+      <body>Passing by Doylestown</body>
+    </message>
+    <message id="m0006" time="2013-04-01 00:19:24 UTC" participant="152417">
+      <body>Eta 10:50</body>
+    </message>
+    <message id="m0007" time="2013-04-01 00:21:06 UTC" participant="152560">
+      <body>:)</body>
+    </message>
+    <message id="m0008" time="2013-04-01 01:02:40 UTC" participant="152417">
+      <body>It is estimated that the millions of  cats In the united states kill billions of birds every year</body>
+    </message>
+  </messages>
+</conversation>
+

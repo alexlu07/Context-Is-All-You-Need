@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136730" time="2013-03-08 20:25:29 UTC">
+      <body>Hey how ya doing</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-03-08 20:33:23 UTC">
+      <body>Hey Mita. I'm alright. Just chuggin along.  How are you guys?</body>
+    </message>
+    <message id="m0002" participant="136730" time="2013-03-08 20:35:07 UTC">
+      <body>Good same ol</body>
+    </message>
+  </messages>
+</conversation>

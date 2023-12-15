@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-08 15:48:11 UTC">
+      <body>I hear you have a boyfriend? </body>
+    </message>
+    <message id="m0001" participant="135264" time="2013-04-08 16:02:08 UTC">
+      <body>Yes! My thesis is due 22 April, and I am in dangerous territory for finishing. Could we plan for later that week? I want to tell you all about him and what has happened </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-08 16:05:09 UTC">
+      <body>Yes please </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-02-05 00:58:13 UTC">
+      <body>I'll be home in about 20, if you're free to Skype!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2013-02-05 01:09:48 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-02-05 01:09:50 UTC">
+      <body>Cool. 8:20?</body>
+    </message>
+    <message id="m0003" participant="131023" time="2013-02-05 01:11:55 UTC">
+      <body>Great!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-02-05 17:43:09 UTC">
+      <body>Excellent! Katie said your check's in the mail, too.</body>
+    </message>
+    <message id="m0005" participant="131023" time="2013-02-05 17:43:38 UTC">
+      <body>Got a confirmation, swing delivered Friday.  Xoxox</body>
+    </message>
+    <message id="m0006" participant="131023" time="2013-02-05 17:48:02 UTC">
+      <body>Sounds good!  Happy Tuesday Pix!</body>
+    </message>
+    <message id="m0007" participant="130712" time="2013-02-05 17:48:48 UTC">
+      <body>Happy Tuesday to you! xoxo</body>
+    </message>
+  </messages>
+</conversation>

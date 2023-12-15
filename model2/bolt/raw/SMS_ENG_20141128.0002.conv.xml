@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141128.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-28 14:28:16 UTC" participant="153280">
+      <body>Gracie is usually up from her morning nap by noon. Wanna visit sometime this afternoon? Do you want to come here or have us come to you?</body>
+    </message>
+    <message id="m0001" time="2014-11-28 15:02:24 UTC" participant="153280">
+      <body>Oh no! Juls I'm so sorry! We'll come to you. Would sometime between 1 and 1:30 work?</body>
+    </message>
+    <message id="m0002" time="2014-11-28 15:18:04 UTC" participant="152734">
+      <body>That sounds good, thanks bridge </body>
+    </message>
+  </messages>
+</conversation>
+

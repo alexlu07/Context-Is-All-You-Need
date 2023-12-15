@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140503.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-03 16:10:38 UTC" participant="152427">
+      <body>Hey could you send me Phinn's cell # please?</body>
+    </message>
+    <message id="m0002" time="2014-05-03 16:14:03 UTC" participant="152417">
+      <body>Hes here now, he says noon is the earliest</body>
+    </message>
+    <message id="m0003" time="2014-05-03 16:29:43 UTC" participant="152427">
+      <body>Well I'll see what I can do, worst case scenario I'm setting up at 3</body>
+    </message>
+    <message id="m0004" time="2014-05-03 16:36:47 UTC" participant="152417">
+      <body>If you drop off you car down there an give me the key i could load in for you</body>
+    </message>
+    <message id="m0005" time="2014-05-03 17:52:04 UTC" participant="152427">
+      <body>I'd owe you big time, thanks for the offer!  Still working on getting off work early so I can do it myself but I'll be in touch tomorrow ~</body>
+    </message>
+    <message id="m0006" time="2014-05-04 15:20:55 UTC" participant="152417">
+      <body>Whats your plan?</body>
+    </message>
+  </messages>
+</conversation>
+

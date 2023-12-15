@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 18:55:26 UTC" participant="152417">
+      <body>Hey, wanna come to a potluck tonight at kol tzedek?</body>
+    </message>
+    <message id="m0001" time="2015-01-30 19:39:23 UTC" participant="152586">
+      <body>Think I'm goin to shiva. But that's for the invite</body>
+    </message>
+    <message id="m0002" time="2015-01-30 19:59:10 UTC" participant="152417">
+      <body>Gotcha, thats a good thing to do</body>
+    </message>
+    <message id="m0003" time="2015-01-30 21:23:04 UTC" participant="152586">
+      <body>What's up with this?</body>
+    </message>
+    <message id="m0004" time="2015-01-30 21:23:25 UTC" participant="152586">
+      <body>I'm going to chelt be back later</body>
+    </message>
+    <message id="m0005" time="2015-01-30 21:24:10 UTC" participant="152586">
+      <body>Is this an open invitation or is it an intimate affair with the folks on this thread?</body>
+    </message>
+    <message id="m0006" time="2015-01-30 21:24:16 UTC" participant="152586">
+      <body>Not sure if I'll be there exactly at 8</body>
+    </message>
+    <message id="m0007" time="2015-01-30 21:24:56 UTC" participant="152586">
+      <body>Pork hay?</body>
+    </message>
+    <message id="m0008" time="2015-01-30 21:26:24 UTC" participant="152586">
+      <body>Bollocks</body>
+    </message>
+  </messages>
+</conversation>
+

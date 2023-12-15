@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120920.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-20 17:59:54 UTC" participant="152417">
+      <body>Beer tasting tonight?</body>
+    </message>
+    <message id="m0001" time="2012-09-20 18:22:17 UTC" participant="152419">
+      <body>Indeed! </body>
+    </message>
+    <message id="m0002" time="2012-09-20 20:24:16 UTC" participant="152417">
+      <body>And we could bottle tonite, im giving blood at 5, should be free at 6ish</body>
+    </message>
+    <message id="m0003" time="2012-09-20 22:36:48 UTC" participant="152419">
+      <body>Heeeyy just plugged my phone in and got your text.   I'm going to ask dev how he feels about bottling! </body>
+    </message>
+    <message id="m0006" time="2012-09-20 22:53:44 UTC" participant="152417">
+      <body>Cool, keep me posted</body>
+    </message>
+    <message id="m0007" time="2012-09-20 23:06:40 UTC" participant="152419">
+      <body>Dev can't help but come over anyway! </body>
+    </message>
+    <message id="m0008" time="2012-09-20 23:09:30 UTC" participant="152417">
+      <body>Cool, i gotta walk simone n then ill head over</body>
+    </message>
+  </messages>
+</conversation>
+

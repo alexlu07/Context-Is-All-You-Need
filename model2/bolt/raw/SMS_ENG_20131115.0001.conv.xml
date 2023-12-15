@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131115.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-15 19:49:35 UTC" participant="152417">
+      <body>Are you up for a rehearsal at 4 with me and graham?</body>
+    </message>
+    <message id="m0001" time="2013-11-15 20:11:44 UTC" participant="152427">
+      <body>Cool what's the address?</body>
+    </message>
+    <message id="m0002" time="2013-11-15 20:26:40 UTC" participant="152427">
+      <body>Works for me</body>
+    </message>
+    <message id="m0003" time="2013-11-15 20:27:31 UTC" participant="152417">
+      <body>Actually is 530 ok? Ill send an address soon</body>
+    </message>
+    <message id="m0004" time="2013-11-15 20:37:21 UTC" participant="152417">
+      <body>305 maple st, @ 530</body>
+    </message>
+    <message id="m0005" time="2013-11-15 20:38:52 UTC" participant="152427">
+      <body>￼See you then, thanks again for this!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136276" time="2012-11-06 22:42:36 UTC">
+      <body>We can pick you up food though!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-06 22:44:45 UTC">
+      <body>Well I have to go to cvs anyway. I'll just be ten minutes!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-06 22:55:33 UTC">
+      <body>I'm right behind you</body>
+    </message>
+  </messages>
+</conversation>

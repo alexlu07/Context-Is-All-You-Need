@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 13:56:06 UTC" participant="153244">
+      <body>Soda is in your car</body>
+    </message>
+    <message id="m0001" time="2015-02-04 14:04:44 UTC" participant="153799">
+      <body>I got it</body>
+    </message>
+    <message id="m0002" time="2015-02-05 00:48:46 UTC" participant="153799">
+      <body>Pizza?</body>
+    </message>
+    <message id="m0003" time="2015-02-05 00:59:07 UTC" participant="153244">
+      <body>Idk I'm kinda sick of pizza</body>
+    </message>
+    <message id="m0004" time="2015-02-05 00:59:41 UTC" participant="153799">
+      <body>Im just hungry and pizza is cheap lol</body>
+    </message>
+    <message id="m0005" time="2015-02-05 01:00:14 UTC" participant="153244">
+      <body>Yea but I eat pizza 4x a week every week</body>
+    </message>
+    <message id="m0006" time="2015-02-05 01:00:43 UTC" participant="153799">
+      <body>I mean I like Chinese food but dont really know what to get</body>
+    </message>
+    <message id="m0007" time="2015-02-05 01:04:18 UTC" participant="153244">
+      <body>And im eh about Chinese,  probably bec I never know what to get so sheets get the same thing abd then get tired of it</body>
+    </message>
+    <message id="m0008" time="2015-02-05 01:04:38 UTC" participant="153799">
+      <body>Right right</body>
+    </message>
+    <message id="m0009" time="2015-02-05 13:44:15 UTC" participant="153244">
+      <body>Bring recycle in. They didn't take ours. </body>
+    </message>
+    <message id="m0010" time="2015-02-05 13:56:05 UTC" participant="153799">
+      <body>I did</body>
+    </message>
+  </messages>
+</conversation>
+

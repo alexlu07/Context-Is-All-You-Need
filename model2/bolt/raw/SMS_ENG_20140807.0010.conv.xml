@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140807.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-08-07 19:24:48 UTC" participant="153559">
+      <body>I'm leaving tomorrow what site are staying I'll drop off some fire wood </body>
+    </message>
+    <message id="m0002" time="2014-08-07 19:24:48 UTC" participant="153559">
+      <body>Also we could meet up somewhere in the middle </body>
+    </message>
+    <message id="m0003" time="2014-08-07 19:25:39 UTC" participant="153547">
+      <body>23</body>
+    </message>
+    <message id="m0004" time="2014-08-07 19:25:49 UTC" participant="153559">
+      <body>D-23</body>
+    </message>
+    <message id="m0005" time="2014-08-07 19:25:56 UTC" participant="153547">
+      <body>A23</body>
+    </message>
+    <message id="m0006" time="2014-08-07 19:26:45 UTC" participant="153559">
+      <body>I'll check it out if no one is there already </body>
+    </message>
+    <message id="m0007" time="2014-08-07 19:26:56 UTC" participant="153559">
+      <body>Cool if the phone is not on leave a message </body>
+    </message>
+    <message id="m0008" time="2014-08-07 19:27:07 UTC" participant="153547">
+      <body>Ok I'll call you at around mile 15 or so</body>
+    </message>
+    <message id="m0009" time="2014-08-08 14:00:09 UTC" participant="153559">
+      <body>I'm about 5 miles from valley forge </body>
+    </message>
+    <message id="m0010" time="2014-08-08 14:48:51 UTC" participant="153547">
+      <body>Hey bout five from BFF</body>
+    </message>
+    <message id="m0011" time="2014-08-08 14:49:02 UTC" participant="153547">
+      <body>Valley forge</body>
+    </message>
+  </messages>
+</conversation>
+

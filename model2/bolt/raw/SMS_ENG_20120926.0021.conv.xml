@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120926.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-26 23:32:57 UTC" participant="152417">
+      <body>Hey, what time? And where is rhs?</body>
+    </message>
+    <message id="m0001" time="2012-09-26 23:33:02 UTC" participant="152417">
+      <body>Rjs</body>
+    </message>
+    <message id="m0002" time="2012-09-26 23:34:35 UTC" participant="152431">
+      <body>Yes! at 11ish!</body>
+    </message>
+    <message id="m0003" time="2012-09-27 02:36:08 UTC" participant="152417">
+      <body>Ah, sorry lo , i think i should be responsible and stay in, im up really early on weekdays, lets hang out soon and happy birthday!!</body>
+    </message>
+    <message id="m0004" time="2012-09-27 02:36:55 UTC" participant="152431">
+      <body>Sounds good, bro! lovesies</body>
+    </message>
+    <message id="m0005" time="2012-09-27 22:24:33 UTC" participant="152417">
+      <body>Hey, have any time to grab a drink or hang out tonight before late-o-clock?</body>
+    </message>
+    <message id="m0006" time="2012-09-27 23:18:17 UTC" participant="152431">
+      <body>Im being made dindin, rainchecky?</body>
+    </message>
+  </messages>
+</conversation>
+

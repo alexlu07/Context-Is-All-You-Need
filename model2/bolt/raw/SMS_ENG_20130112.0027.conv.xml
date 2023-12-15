@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-12 22:15:57 UTC">
+      <body>U around?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-12 22:16:22 UTC">
+      <body>Lillian I miss you!!!</body>
+    </message>
+    <message id="m0002" participant="135436" time="2013-01-13 21:32:53 UTC">
+      <body>Hey, wanna come to a square dance with me?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-13 21:35:54 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0004" participant="135436" time="2013-01-13 21:40:44 UTC">
+      <body>Yeah! it's at 7 near my house.</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-13 21:44:44 UTC">
+      <body>Oh yay! What should I wear and when should I meet you?</body>
+    </message>
+    <message id="m0006" participant="135436" time="2013-01-13 21:46:37 UTC">
+      <body>Wear whatever you want and meet me here at 7!</body>
+    </message>
+  </messages>
+</conversation>

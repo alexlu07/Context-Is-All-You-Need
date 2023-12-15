@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120330.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131332" time="2012-03-30 19:13:52 UTC">
+      <body>Can you text me a pic of the scroll?</body>
+    </message>
+    <message id="m0001" participant="131332" time="2012-03-30 19:25:15 UTC">
+      <body>Okay, Noah. Here we go:</body>
+    </message>
+    <message id="m0002" participant="131332" time="2012-03-30 19:26:12 UTC">
+      <body>Underwater should be at the bottom, and the words should be aligned with the left margin. Like grocery list.</body>
+    </message>
+    <message id="m0003" participant="131332" time="2012-03-30 19:27:55 UTC">
+      <body>The brown is good, but maybe less wrinkly, and closer to squared along the edges. The idea is that it's his paper, not an ancient document.</body>
+    </message>
+    <message id="m0004" participant="131332" time="2012-03-30 19:28:43 UTC">
+      <body>The font is great.</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-03-30 19:28:53 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="131332" time="2012-03-30 19:29:24 UTC">
+      <body>Did I make sense?</body>
+    </message>
+    <message id="m0007" participant="130692" time="2012-03-30 19:30:22 UTC">
+      <body>Yeah def. way less aging</body>
+    </message>
+    <message id="m0008" participant="131332" time="2012-03-30 19:44:50 UTC">
+      <body>But still brownish. We are guessing it would be unbleached.</body>
+    </message>
+    <message id="m0009" participant="130692" time="2012-03-30 19:45:29 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0010" participant="131332" time="2012-03-30 20:30:18 UTC">
+      <body>I think you've got it.</body>
+    </message>
+    <message id="m0011" participant="130692" time="2012-03-30 20:30:51 UTC">
+      <body>Cool, I'll make some more</body>
+    </message>
+  </messages>
+</conversation>

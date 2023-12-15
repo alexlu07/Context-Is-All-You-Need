@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140418.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-18 21:26:24 UTC" participant="153645">
+      <body>Too bad! See you soon! </body>
+    </message>
+    <message id="m0001" time="2014-04-18 21:27:31 UTC" participant="153548">
+      <body>Hey! We just wrapped. I not think I'll make it back to the city before 7. Have to drop some equipment off around town.</body>
+    </message>
+    <message id="m0002" time="2014-04-18 21:27:45 UTC" participant="153548">
+      <body>Hope the movie is good!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150113.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-13 19:34:25 UTC" participant="152115">
+      <body>Hey. I was cancelled today so I'm home. Let me know when you're almost here later for the clicker.</body>
+    </message>
+    <message id="m0001" time="2015-01-13 21:11:20 UTC" participant="152118">
+      <body>Okay!!!</body>
+    </message>
+    <message id="m0002" time="2015-01-13 21:33:31 UTC" participant="152118">
+      <body>Okay. I'm on the train and I think I'll get to your house around 5:45-6ish. Is that okay?</body>
+    </message>
+    <message id="m0003" time="2015-01-13 21:33:56 UTC" participant="152115">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0004" time="2015-01-13 21:38:00 UTC" participant="152118">
+      <body>Awesome sauce! And thank you again!!!</body>
+    </message>
+    <message id="m0005" time="2015-01-13 22:15:29 UTC" participant="152118">
+      <body>Okay. Nevermind. I'm on my way to you right now.</body>
+    </message>
+    <message id="m0006" time="2015-01-13 22:15:45 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

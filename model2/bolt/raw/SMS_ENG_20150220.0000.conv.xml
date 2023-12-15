@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150220.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-20 00:34:46 UTC" participant="152116">
+      <body>Did you leave yet</body>
+    </message>
+    <message id="m0001" time="2015-02-20 00:35:03 UTC" participant="152115">
+      <body>Just left</body>
+    </message>
+    <message id="m0002" time="2015-02-20 14:52:16 UTC" participant="152115">
+      <body>Let's go to dinner tonight.</body>
+    </message>
+    <message id="m0003" time="2015-02-20 14:53:22 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0004" time="2015-02-20 22:36:54 UTC" participant="152116">
+      <body>I'm running late</body>
+    </message>
+    <message id="m0005" time="2015-02-20 22:36:56 UTC" participant="152116">
+      <body>Sorry</body>
+    </message>
+    <message id="m0006" time="2015-02-20 22:37:33 UTC" participant="152115">
+      <body>:/ I'm all ready to go. Are you still at work?</body>
+    </message>
+    <message id="m0007" time="2015-02-20 22:39:37 UTC" participant="152116">
+      <body>I'm leaving now</body>
+    </message>
+    <message id="m0008" time="2015-02-20 22:43:47 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0009" time="2015-02-20 23:13:07 UTC" participant="152116">
+      <body>Surfacing</body>
+    </message>
+  </messages>
+</conversation>
+

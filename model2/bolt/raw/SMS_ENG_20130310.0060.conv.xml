@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-10 16:17:28 UTC">
+      <body>hey, this is lauren k##### (who's been leading the 7th grade girls in brittany's place). is there any way you could pick candace and i up from emory's campus for idx tonight? </body>
+    </message>
+    <message id="m0001" participant="136192" time="2013-03-10 16:25:56 UTC">
+      <body>Sure give me the address I'll be picking you up at and I'll be there around 515</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-10 16:28:44 UTC">
+      <body>#### ####### Rd ##. thanksss </body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-10 21:27:06 UTC">
+      <body>hey, just checking to make sure you aren't, like, lost or something! </body>
+    </message>
+    <message id="m0004" participant="136192" time="2013-03-10 21:28:21 UTC">
+      <body>On my way. Sorry</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-10 21:28:33 UTC">
+      <body>no problem! </body>
+    </message>
+    <message id="m0006" participant="136192" time="2013-03-10 21:39:21 UTC">
+      <body>I'm here!</body>
+    </message>
+  </messages>
+</conversation>

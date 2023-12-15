@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130712.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132520" time="2013-07-12 15:15:55 UTC">
+      <body>Hello how are you today?</body>
+    </message>
+    <message id="m0001" participant="130794" time="2013-07-12 15:21:19 UTC">
+      <body>Good thanks, yourself?</body>
+    </message>
+    <message id="m0002" participant="132520" time="2013-07-12 15:22:30 UTC">
+      <body>I'm alright in the car on the way to Annapolis from NYC so a little bored haha</body>
+    </message>
+  </messages>
+</conversation>

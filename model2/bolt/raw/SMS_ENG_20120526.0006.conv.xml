@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120526.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-26 20:21:30 UTC">
+      <body>It's wifey's birthday</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-27 16:08:50 UTC">
+      <body>I can't read what you wrote on draw something</body>
+    </message>
+    <message id="m0003" participant="136224" time="2012-05-27 17:42:24 UTC">
+      <body>Mozart</body>
+    </message>
+  </messages>
+</conversation>

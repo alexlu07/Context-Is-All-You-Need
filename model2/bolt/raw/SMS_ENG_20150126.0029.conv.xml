@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 17:01:03 UTC" participant="153871">
+      <body>I get out at 12:15 too do you wanna lunch together? </body>
+    </message>
+    <message id="m0001" time="2015-01-26 17:26:04 UTC" participant="153848">
+      <body>Just got your message! Have you eaten yet? </body>
+    </message>
+    <message id="m0002" time="2015-01-26 17:29:36 UTC" participant="153871">
+      <body>Not yet I'm in the lobby </body>
+    </message>
+    <message id="m0003" time="2015-01-26 17:29:36 UTC" participant="153871">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0004" time="2015-01-26 17:31:13 UTC" participant="153848">
+      <body>Went to kimmel to grab a sandwich! Super crowded. </body>
+    </message>
+    <message id="m0005" time="2015-01-26 17:32:21 UTC" participant="153871">
+      <body>I think I'm gonna go home first tho see u another time </body>
+    </message>
+    <message id="m0006" time="2015-01-26 17:33:28 UTC" participant="153848">
+      <body> Word. Next Monday for sure:) </body>
+    </message>
+    <message id="m0007" time="2015-01-26 17:33:42 UTC" participant="153871">
+      <body>&lt;3</body>
+    </message>
+  </messages>
+</conversation>
+

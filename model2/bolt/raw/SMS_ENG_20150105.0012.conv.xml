@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 16:49:11 UTC" participant="153433">
+      <body>Hi, can you work my Sunday11th in exchange for one of your shifts?</body>
+    </message>
+    <message id="m0001" time="2015-01-05 18:17:56 UTC" participant="153417">
+      <body>Sorry I can't. I'll be in Vermont that weekend</body>
+    </message>
+    <message id="m0002" time="2015-01-05 18:22:22 UTC" participant="153433">
+      <body>I nice </body>
+    </message>
+    <message id="m0003" time="2015-01-05 18:22:31 UTC" participant="153433">
+      <body>*o</body>
+    </message>
+  </messages>
+</conversation>
+

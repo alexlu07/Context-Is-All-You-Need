@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140108.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-08 03:45:21 UTC" participant="153451">
+      <body>Text when you get home. By thruway Keyia said hi when I was on the phone </body>
+    </message>
+    <message id="m0001" time="2014-01-08 04:29:39 UTC" participant="153418">
+      <body>Got home a few minutes ago. </body>
+    </message>
+    <message id="m0002" time="2014-01-08 04:52:50 UTC" participant="153451">
+      <body>Ok cool I been in like for almost an hour now </body>
+    </message>
+    <message id="m0003" time="2014-01-08 04:53:16 UTC" participant="153451">
+      <body>Get some rest I know you tired</body>
+    </message>
+  </messages>
+</conversation>
+

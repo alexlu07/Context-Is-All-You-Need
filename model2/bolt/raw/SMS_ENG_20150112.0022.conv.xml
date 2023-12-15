@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150112.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-12 22:15:07 UTC" participant="153699">
+      <body>What up FIRST CLASS</body>
+    </message>
+    <message id="m0001" time="2015-01-12 22:15:28 UTC" participant="153699">
+      <body>That's what she said </body>
+    </message>
+    <message id="m0002" time="2015-01-12 22:15:50 UTC" participant="153548">
+      <body> My first time!</body>
+    </message>
+  </messages>
+</conversation>
+

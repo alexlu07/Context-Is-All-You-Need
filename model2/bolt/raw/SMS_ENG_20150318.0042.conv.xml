@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150318.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-18 00:16:19 UTC" participant="153244">
+      <body>You left the heat on btw</body>
+    </message>
+    <message id="m0001" time="2015-03-18 01:23:23 UTC" participant="153244">
+      <body>Sorry, I should have said: we* left the heat on btw... but yea, damn</body>
+    </message>
+    <message id="m0002" time="2015-03-18 01:24:10 UTC" participant="153799">
+      <body>Its fine though. Did you shut it off?</body>
+    </message>
+    <message id="m0003" time="2015-03-18 01:29:54 UTC" participant="153244">
+      <body>You're pre-bowling?</body>
+    </message>
+    <message id="m0004" time="2015-03-18 01:31:09 UTC" participant="153799">
+      <body>Just practice.</body>
+    </message>
+    <message id="m0005" time="2015-03-18 01:32:04 UTC" participant="153244">
+      <body>Oh ok... a lesson? Or just practice? </body>
+    </message>
+    <message id="m0006" time="2015-03-18 01:39:36 UTC" participant="153799">
+      <body>Both</body>
+    </message>
+    <message id="m0007" time="2015-03-18 01:51:32 UTC" participant="153244">
+      <body>You got your other ball? </body>
+    </message>
+    <message id="m0008" time="2015-03-18 02:00:18 UTC" participant="153799">
+      <body>He didnt do it yet</body>
+    </message>
+    <message id="m0009" time="2015-03-18 02:07:28 UTC" participant="153799">
+      <body>I know. He said he'd do it now for me but I know hes busy so I told him not to worry about it</body>
+    </message>
+    <message id="m0010" time="2015-03-18 03:36:47 UTC" participant="153799">
+      <body>U still up?</body>
+    </message>
+  </messages>
+</conversation>
+

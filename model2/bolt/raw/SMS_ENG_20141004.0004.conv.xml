@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141004.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-04 23:53:57 UTC" participant="153244">
+      <body>Hey #### its #####.. im scheduled to work tomorrow from 4-close but I have to babysit my niece so looking for a replacement. Are you available by any chance? </body>
+    </message>
+    <message id="m0001" time="2014-10-04 23:55:25 UTC" participant="153407">
+      <body>I actually have a lot of hw to do and #### sorry</body>
+    </message>
+    <message id="m0002" time="2014-10-04 23:56:16 UTC" participant="153244">
+      <body>Ok no problem, figured id ask. Thanks anyway</body>
+    </message>
+  </messages>
+</conversation>
+

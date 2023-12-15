@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 01:32:05 UTC" participant="153472">
+      <body>At the bar!</body>
+    </message>
+    <message id="m0001" time="2014-12-02 01:32:23 UTC" participant="152374">
+      <body>One minute away! </body>
+    </message>
+    <message id="m0002" time="2014-12-02 02:51:59 UTC" participant="153472">
+      <body>Figured out how to connect the new laptop to my wireless network! Today keeps getting better and better! Thank you again. I can't tell you how grateful I am. This was so nice! </body>
+    </message>
+    <message id="m0003" time="2014-12-02 03:08:40 UTC" participant="152374">
+      <body>Yay! Enjoy :) </body>
+    </message>
+  </messages>
+</conversation>
+

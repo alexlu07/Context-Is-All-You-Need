@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121220.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-20 01:35:00 UTC" participant="152734">
+      <body>Yo what is your postal address?</body>
+    </message>
+    <message id="m0001" time="2012-12-20 01:36:00 UTC" participant="153270">
+      <body>Way to be on top of those Christmas cards yo!</body>
+    </message>
+    <message id="m0002" time="2012-12-20 01:44:11 UTC" participant="152734">
+      <body>Thank you! It is totally not Christmas yet, I'm doing great. </body>
+    </message>
+    <message id="m0003" time="2012-12-20 01:44:32 UTC" participant="153270">
+      <body>Yes! We'll have to hang</body>
+    </message>
+    <message id="m0004" time="2012-12-20 01:44:45 UTC" participant="152734">
+      <body>Also, coming to va Saturday til Wednesday - free at all??</body>
+    </message>
+    <message id="m0005" time="2012-12-20 01:48:15 UTC" participant="152734">
+      <body>I concur!</body>
+    </message>
+  </messages>
+</conversation>
+

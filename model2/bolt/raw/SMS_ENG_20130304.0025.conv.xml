@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130304.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-03-04 18:04:17 UTC">
+      <body>Hey, allison's going to visit our suite at 3 if you want to hang out!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-04 18:06:30 UTC">
+      <body>Cool :)</body>
+    </message>
+  </messages>
+</conversation>

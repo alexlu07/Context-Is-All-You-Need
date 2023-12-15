@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2013-06-29 12:33:12 UTC">
+      <body>Both Mom and I have plans for tomorrow that make finding time to talk difficult. How does later today look for you?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-29 14:18:39 UTC">
+      <body>Good! What time?</body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-06-29 14:22:15 UTC">
+      <body>Don't know now. I'm at Bagels Best after Torah study. Mom was asleep when I left the house. What works for you?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-29 14:30:05 UTC">
+      <body>I don't have any plans. I think Hannah Michelle might be moving in today so I will ask her about her timing.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-06-29 14:48:34 UTC">
+      <body>Ok it is looking like late afternoon or evening is best</body>
+    </message>
+    <message id="m0005" participant="135266" time="2013-06-29 14:49:31 UTC">
+      <body>Ok. Catch up with you after I speak with Mom. </body>
+    </message>
+  </messages>
+</conversation>

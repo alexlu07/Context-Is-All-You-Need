@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130632" time="2013-06-16 11:28:55 UTC">
+      <body>Hey lotus</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-06-16 12:54:26 UTC">
+      <body>hey at a show text later</body>
+    </message>
+    <message id="m0002" participant="130751" time="2013-06-16 20:00:10 UTC">
+      <body>the cirque du soleil show was unbelievable! great sunday. how was yours?</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-06-16 21:47:20 UTC">
+      <body>Pretty good i was at the international noise conference.</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-06-16 21:47:37 UTC">
+      <body>Ears hurt</body>
+    </message>
+  </messages>
+</conversation>

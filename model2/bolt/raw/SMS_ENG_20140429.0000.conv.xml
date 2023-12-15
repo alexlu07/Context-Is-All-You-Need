@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140429.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-29 15:36:11 UTC" participant="152116">
+      <body>Let me know if you get this text.</body>
+    </message>
+    <message id="m0001" time="2014-04-29 15:51:34 UTC" participant="152115">
+      <body>Damn this font looks so big! </body>
+    </message>
+    <message id="m0002" time="2014-04-29 15:52:12 UTC" participant="152116">
+      <body>Haha yes it does. And good I can that text. </body>
+    </message>
+  </messages>
+</conversation>
+

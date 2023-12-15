@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-02-21 02:48:19 UTC">
+      <body>So...I got into Columbia!</body>
+    </message>
+    <message id="m0001" participant="131473" time="2013-02-21 05:29:08 UTC">
+      <body>Cool...just got this now ...12:28AM THursday-strange</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-21 13:03:06 UTC">
+      <body>Weird...my phone says it was sent a 948pm wed...sometimes wonky things happen with my texts though...</body>
+    </message>
+  </messages>
+</conversation>

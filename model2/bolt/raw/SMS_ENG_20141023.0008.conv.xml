@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141023.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-23 22:07:24 UTC" participant="153547">
+      <body>Can I borrow the foam gun for the tiniest bit of sealing</body>
+    </message>
+    <message id="m0001" time="2014-10-23 22:08:48 UTC" participant="149372">
+      <body>Sure but fyi for some dumb reason the straw cans are actually cheaper per ounce.</body>
+    </message>
+    <message id="m0002" time="2014-10-23 22:10:31 UTC" participant="153547">
+      <body>That's dumb. I need like less than 1/4 of a can to seal some super tight styrene insulation </body>
+    </message>
+    <message id="m0003" time="2014-10-23 22:10:43 UTC" participant="153547">
+      <body>Can I come grab it?</body>
+    </message>
+    <message id="m0005" time="2014-10-23 22:19:04 UTC" participant="153547">
+      <body>I'll just grab a can in the morning</body>
+    </message>
+    <message id="m0006" time="2014-10-23 22:28:00 UTC" participant="149372">
+      <body>It's here but it has a can of adhesive on it currently.</body>
+    </message>
+    <message id="m0007" time="2014-10-23 22:28:26 UTC" participant="153547">
+      <body>Ok I'll just grab a can</body>
+    </message>
+    <message id="m0008" time="2014-10-24 16:22:30 UTC" participant="153547">
+      <body>I need my mudding tools. Are you around?</body>
+    </message>
+    <message id="m0009" time="2014-10-24 17:09:23 UTC" participant="149372">
+      <body>In Germantown til 5 or 6.</body>
+    </message>
+  </messages>
+</conversation>
+

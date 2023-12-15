@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140324.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-24 16:47:10 UTC" participant="152374">
+      <body>Lemon Hill at 8. Leave at 7:45?</body>
+    </message>
+    <message id="m0001" time="2014-03-24 16:47:38 UTC" participant="154093">
+      <body>Sure, you driving</body>
+    </message>
+    <message id="m0002" time="2014-03-24 16:56:24 UTC" participant="152374">
+      <body>Lol. Not this time ;)</body>
+    </message>
+    <message id="m0003" time="2014-03-24 23:37:55 UTC" participant="152374">
+      <body>############### are running late. Let's leave at five of eight</body>
+    </message>
+    <message id="m0004" time="2014-03-24 23:38:12 UTC" participant="154093">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2014-03-24 23:56:43 UTC" participant="152374">
+      <body>I'm outside my place</body>
+    </message>
+  </messages>
+</conversation>
+

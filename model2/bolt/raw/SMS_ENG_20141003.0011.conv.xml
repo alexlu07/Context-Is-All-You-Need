@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141003.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-03 15:12:59 UTC" participant="153548">
+      <body>Whatchoo doin? I'm gonna grab something to eat before my presentation at 1:30</body>
+    </message>
+    <message id="m0001" time="2014-10-03 17:00:58 UTC" participant="153636">
+      <body>Shit! Had an insomnia attack last night didn't get to sleep till this morning, how long you in town?</body>
+    </message>
+    <message id="m0002" time="2014-10-03 17:22:32 UTC" participant="153548">
+      <body>Til 3:45 tomorrow! Wanna get a late breakfast or early lunch if you can?? I think the evening is filled up with alumni obligations.</body>
+    </message>
+  </messages>
+</conversation>
+

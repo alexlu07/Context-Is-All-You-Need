@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131493" time="2013-05-02 15:54:07 UTC">
+      <body>Pretty </body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-05-02 16:06:06 UTC">
+      <body>Handsome! Did the parking get worked out? I got a call from ss towers but no vm</body>
+    </message>
+    <message id="m0002" participant="131493" time="2013-05-02 16:06:36 UTC">
+      <body>Yep, all set!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-05-02 16:16:21 UTC">
+      <body>Excellent!  Just like you!!</body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-05-02 23:11:30 UTC">
+      <body>Waiting for ze next train! S/b 2 minutes!</body>
+    </message>
+    <message id="m0005" participant="131493" time="2013-05-02 23:36:33 UTC">
+      <body>Can't wait to see my all!</body>
+    </message>
+  </messages>
+</conversation>

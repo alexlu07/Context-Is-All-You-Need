@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120709.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-09 01:43:57 UTC">
+      <body>Just transferred in Jamaica. Should be there around 10:55</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-07-09 01:45:00 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-09 02:42:09 UTC">
+      <body>Hey I'll probably be later than 11 since I'm only at bay shore. I'll call you when I get to patchogue</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-07-09 02:42:53 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

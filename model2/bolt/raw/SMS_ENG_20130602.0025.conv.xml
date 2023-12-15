@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-02 04:43:55 UTC">
+      <body>Hey yo, I went to a queer piano bar in manhattan, tell ya all about it! I'm headed back, are you chilling? Could I bring ya some beer?</body>
+    </message>
+    <message id="m0001" participant="131870" time="2013-06-02 04:47:23 UTC">
+      <body>I'm at wreck room bar in bushwick</body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-06-02 04:47:57 UTC">
+      <body>Cool yo. If I catch ya, I'll buy you so many beers</body>
+    </message>
+    <message id="m0003" participant="131837" time="2013-06-02 05:25:00 UTC">
+      <body>I'm here. R u still?</body>
+    </message>
+  </messages>
+</conversation>

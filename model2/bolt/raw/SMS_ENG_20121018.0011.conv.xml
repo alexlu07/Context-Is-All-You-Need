@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121018.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135445" time="2012-10-18 17:42:24 UTC">
+      <body>Is Sunday an option? I am taking Sheryl out for her birthday on Saturday </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-18 18:56:45 UTC">
+      <body>Yes great. Oh have fun</body>
+    </message>
+  </messages>
+</conversation>

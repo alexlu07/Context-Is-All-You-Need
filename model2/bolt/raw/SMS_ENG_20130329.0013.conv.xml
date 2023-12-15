@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-03-29 00:48:44 UTC">
+      <body>sitting at a table next to big cat. he has a beard and long, stringy hair.</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-03-29 03:09:59 UTC">
+      <body>Whoa, weird. What is the context?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-03-29 12:52:17 UTC">
+      <body>khyber</body>
+    </message>
+    <message id="m0003" participant="131055" time="2013-03-29 12:53:08 UTC">
+      <body>im going to a easter bbq. would you like to come? its kid friendly, i bet.</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-03-29 12:53:13 UTC">
+      <body>on sunday</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-03-29 13:03:01 UTC">
+      <body>Yes, that sounds fun. I just realized yesterday that we had no plans for Easter</body>
+    </message>
+    <message id="m0006" participant="131055" time="2013-03-29 13:04:04 UTC">
+      <body>its at sj's house from
+ farmicia. did you know him?</body>
+    </message>
+    <message id="m0007" participant="130664" time="2013-03-29 13:05:09 UTC">
+      <body>No, we never worked together. </body>
+    </message>
+    <message id="m0008" participant="130664" time="2013-03-29 13:05:22 UTC">
+      <body>Where does he live?</body>
+    </message>
+    <message id="m0009" participant="131055" time="2013-03-29 13:05:53 UTC">
+      <body>upper fishtown. </body>
+    </message>
+    <message id="m0010" participant="131055" time="2013-03-29 13:07:48 UTC">
+      <body>1921 arizona</body>
+    </message>
+    <message id="m0011" participant="130664" time="2013-03-29 14:35:55 UTC">
+      <body>Ok..it's going to be nice weather Sunday.</body>
+    </message>
+  </messages>
+</conversation>

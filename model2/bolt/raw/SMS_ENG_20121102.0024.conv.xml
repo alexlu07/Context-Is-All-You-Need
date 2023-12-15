@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121102.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-02 20:15:57 UTC">
+      <body>Do we have to reserve the racquetball courts?</body>
+    </message>
+    <message id="m0001" participant="136289" time="2012-11-02 21:03:05 UTC">
+      <body>No we don't</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-02 21:03:36 UTC">
+      <body>Alright great. Will you be there today</body>
+    </message>
+  </messages>
+</conversation>

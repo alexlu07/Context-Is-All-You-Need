@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141222.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-22 01:31:21 UTC" participant="152116">
+      <body>Haha Steph's face</body>
+    </message>
+    <message id="m0001" time="2014-12-22 01:31:41 UTC" participant="152116">
+      <body>That does not look like a microwave</body>
+    </message>
+    <message id="m0002" time="2014-12-22 01:31:50 UTC" participant="152116">
+      <body>It's huge</body>
+    </message>
+    <message id="m0003" time="2014-12-22 01:33:45 UTC" participant="153244">
+      <body>Ahaha the microwave is a huge one tho</body>
+    </message>
+    <message id="m0004" time="2014-12-22 02:06:04 UTC" participant="152116">
+      <body>Yeah I know.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110729.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135118" time="2011-07-29 20:28:57 UTC">
+      <body>Girl i loggd u out...u can just go..have a good weekend  call if u bord</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-29 20:29:24 UTC">
+      <body>Hah alright! You too :)</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-29 20:34:05 UTC">
+      <body>Did you leave too?</body>
+    </message>
+    <message id="m0003" participant="135118" time="2011-07-29 20:36:38 UTC">
+      <body>No soon</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-29 20:36:55 UTC">
+      <body>Get out of there</body>
+    </message>
+  </messages>
+</conversation>

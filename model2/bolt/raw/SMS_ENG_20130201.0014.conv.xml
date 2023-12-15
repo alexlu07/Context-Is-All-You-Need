@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-02-01 21:11:28 UTC">
+      <body>Perhaps you could answer your emails (both accounts) as to when to pick you up. </body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-02-01 21:11:28 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-02-01 21:12:49 UTC">
+      <body>Sorry! 5 be fine.</body>
+    </message>
+    <message id="m0003" participant="131502" time="2013-02-01 21:55:56 UTC">
+      <body>I'm here. Early. Please don't take long. Craig has a fever and is pissed</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-02-01 21:56:12 UTC">
+      <body>Ok. 5 sharp</body>
+    </message>
+    <message id="m0005" participant="131502" time="2013-02-01 21:56:16 UTC">
+      <body>I mean screaming very loud now</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-02-01 21:56:54 UTC">
+      <body>Shutting down, packing up</body>
+    </message>
+  </messages>
+</conversation>

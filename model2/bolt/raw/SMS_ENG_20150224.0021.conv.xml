@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150224.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-24 01:29:54 UTC" participant="153642">
+      <body>Hey Lindsey! I could do coffee t'mrow.  Which spot are you going to?</body>
+    </message>
+    <message id="m0001" time="2015-02-24 01:31:11 UTC" participant="153548">
+      <body>Yay!!! Wanna meet at the gold standard? I'll be at my studio so anytime works for me. Just shoot me a text!</body>
+    </message>
+    <message id="m0002" time="2015-02-24 01:31:44 UTC" participant="153642">
+      <body>Perfect!  Maybe 2:30'ish?</body>
+    </message>
+    <message id="m0003" time="2015-02-24 01:31:44 UTC" participant="153642">
+      <body>Sweeet!</body>
+    </message>
+    <message id="m0004" time="2015-02-24 01:32:01 UTC" participant="153548">
+      <body>Can't wait. See you then!</body>
+    </message>
+    <message id="m0005" time="2015-02-24 18:51:21 UTC" participant="153642">
+      <body>Can we meet at Satellite Cafe instead?</body>
+    </message>
+    <message id="m0006" time="2015-02-24 18:51:47 UTC" participant="153548">
+      <body>Yeah! That's great. 2:30 still good?</body>
+    </message>
+    <message id="m0007" time="2015-02-24 18:52:02 UTC" participant="153642">
+      <body>Yup!  See you there.</body>
+    </message>
+  </messages>
+</conversation>
+

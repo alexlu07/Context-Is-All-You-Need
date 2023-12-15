@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120324.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-03-24 15:46:21 UTC">
+      <body>Thanks for the donation. Did you mean to buy a ticket?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-03-25 04:14:05 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="135117" time="2012-03-26 02:04:03 UTC">
+      <body>You're welcome. I'd love to hear about it sometime.</body>
+    </message>
+    <message id="m0003" participant="135117" time="2012-03-26 02:04:04 UTC">
+      <body>You seem upset about it </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-03-26 02:34:21 UTC">
+      <body>I'd be upset if you were coming without asking me</body>
+    </message>
+    <message id="m0005" participant="135117" time="2012-03-26 02:40:03 UTC">
+      <body>Mattie, I know that you don't want me there when I DO ask you. I have respect for your request. I'm crazy but not foolish  </body>
+    </message>
+    <message id="m0006" participant="135117" time="2012-03-26 02:40:37 UTC">
+      <body>Sorry for the scare</body>
+    </message>
+    <message id="m0007" participant="131839" time="2012-03-26 03:14:01 UTC">
+      <body>It's ok, just wanted to check. Thank you for the donation!</body>
+    </message>
+    <message id="m0008" participant="135117" time="2012-03-26 03:16:09 UTC">
+      <body>My pleasure. I'll expect the same when I'm a starving artist and you're a wildly successful actor.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131227.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-27 18:56:48 UTC" participant="152116">
+      <body>Oh sorry for some reason I thought Jenny sent that</body>
+    </message>
+    <message id="m0001" time="2013-12-27 18:56:49 UTC" participant="152116">
+      <body>Sorry Sam!</body>
+    </message>
+    <message id="m0002" time="2013-12-28 01:58:51 UTC" participant="153491">
+      <body>Chinatown. We'll meet you there. </body>
+    </message>
+    <message id="m0003" time="2013-12-28 01:59:31 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

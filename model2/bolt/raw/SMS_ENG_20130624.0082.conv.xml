@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-24 01:34:33 UTC" participant="153418">
+      <body>You have classes tomorrow right? What time do you need a ride?</body>
+    </message>
+    <message id="m0001" time="2013-06-24 01:41:26 UTC" participant="153445">
+      <body>Yeah, but don't worry I can go by myself. Catch some rest before you work haha. </body>
+    </message>
+    <message id="m0002" time="2013-06-24 20:10:56 UTC" participant="153418">
+      <body>You need a ride home?</body>
+    </message>
+    <message id="m0003" time="2013-06-24 20:12:59 UTC" participant="153445">
+      <body>Nah the rain has stopped.  I'll go home later. Thank you! </body>
+    </message>
+  </messages>
+</conversation>
+

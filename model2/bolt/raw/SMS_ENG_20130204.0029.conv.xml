@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-04 01:48:21 UTC" participant="153418">
+      <body>You busy?</body>
+    </message>
+    <message id="m0001" time="2013-02-04 01:49:11 UTC" participant="153442">
+      <body>Just watching the game. What's up?</body>
+    </message>
+    <message id="m0002" time="2013-02-04 01:49:57 UTC" participant="153418">
+      <body>Wanted to talk about a section in the presentation. Let me know if you're free later tonight.</body>
+    </message>
+    <message id="m0003" time="2013-02-04 01:58:56 UTC" participant="153442">
+      <body>Ok. What time will you be up til tonight?</body>
+    </message>
+    <message id="m0004" time="2013-02-04 01:59:21 UTC" participant="153418">
+      <body>Pretty late. </body>
+    </message>
+    <message id="m0005" time="2013-02-04 05:15:13 UTC" participant="153442">
+      <body>Hey what's up?</body>
+    </message>
+    <message id="m0006" time="2013-02-04 05:54:17 UTC" participant="153442">
+      <body>Everything reads fine. Only question I have is. Is current solutions suppose to be before the problem statement? Is that how sielger wanted it?</body>
+    </message>
+    <message id="m0007" time="2013-02-04 05:55:33 UTC" participant="153418">
+      <body>I wasn't sure, so I just wrote it like that for now. Do you think it should be flipped?</body>
+    </message>
+    <message id="m0008" time="2013-02-04 05:57:57 UTC" participant="153442">
+      <body>re our goals and how ours will be better.</body>
+    </message>
+    <message id="m0009" time="2013-02-04 05:59:03 UTC" participant="153442">
+      <body>To me it make sense to say this is our problem statement. To build a device. These are current solutions. And a summary of what they do. And then these a</body>
+    </message>
+    <message id="m0010" time="2013-02-04 05:59:49 UTC" participant="153442">
+      <body>Ehh idk now lol</body>
+    </message>
+    <message id="m0011" time="2013-02-04 06:00:10 UTC" participant="153418">
+      <body>I feel like we had that originally and he wanted it restructured.</body>
+    </message>
+    <message id="m0012" time="2013-02-04 06:01:16 UTC" participant="153442">
+      <body>Cause ur problem statement slide just summarizes the slides before it</body>
+    </message>
+    <message id="m0013" time="2013-02-04 06:01:27 UTC" participant="153442">
+      <body>Just leave it as is. I think this is good</body>
+    </message>
+  </messages>
+</conversation>
+

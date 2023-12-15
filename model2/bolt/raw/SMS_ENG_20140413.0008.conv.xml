@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140413.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-13 19:04:53 UTC" participant="153548">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-04-13 19:06:42 UTC" participant="153649">
+      <body>Lil baby</body>
+    </message>
+    <message id="m0002" time="2014-04-13 19:34:03 UTC" participant="153649">
+      <body>I heard something about a Fargo show. Did you see it??</body>
+    </message>
+    <message id="m0003" time="2014-04-13 19:54:07 UTC" participant="153548">
+      <body>No. Just heard about it and I wanna see it</body>
+    </message>
+  </messages>
+</conversation>
+

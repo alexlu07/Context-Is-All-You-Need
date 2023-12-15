@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130978" time="2013-07-26 18:06:19 UTC">
+      <body>TGIF? What have you got going on this wknd? i'm doing a little volunteering, but mostly hanging out with friends. Going to a benefit concert later tonite.</body>
+    </message>
+    <message id="m0001" participant="134066" time="2013-07-26 18:16:12 UTC">
+      <body>Not too much going on. Just relaxing. Tonight i'm going to see a shakespear play in my neighborhood park</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-26 22:32:45 UTC">
+      <body>Which play? @ Clark Park?</body>
+    </message>
+    <message id="m0003" participant="134066" time="2013-07-26 23:27:19 UTC">
+      <body>The Tempest, yes at Clark Park</body>
+    </message>
+  </messages>
+</conversation>

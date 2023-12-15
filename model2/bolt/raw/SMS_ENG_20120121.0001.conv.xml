@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120121.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131827" time="2012-01-21 23:03:49 UTC">
+      <body>Hey, so it might be in th kitchen on the first floor of Bloomberg, not sure though.</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-21 23:15:39 UTC">
+      <body>Cool I'll look</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-01-21 23:19:23 UTC">
+      <body>Wait I can't find where that is</body>
+    </message>
+    <message id="m0003" participant="131827" time="2012-01-21 23:20:11 UTC">
+      <body>I'm actually not that sure either</body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-01-21 23:23:59 UTC">
+      <body>Wait I found it. But not the teapot. *sigh* I like how it has lockers though that's cool. Also someone broke the class on the fire extinguisher xD</body>
+    </message>
+    <message id="m0005" participant="131827" time="2012-01-21 23:24:41 UTC">
+      <body>Awesome. Sorry it wasn't there</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-01-21 23:25:31 UTC">
+      <body>Hahahah don't be sorry! It's hardly fault of yours</body>
+    </message>
+    <message id="m0007" participant="131827" time="2012-01-21 23:25:54 UTC">
+      <body>Well ill keep looking</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-01-21 23:26:10 UTC">
+      <body>Thanks ^-^</body>
+    </message>
+  </messages>
+</conversation>

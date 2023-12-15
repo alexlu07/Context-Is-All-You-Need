@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120414.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2012-04-14 15:19:54 UTC">
+      <body>Happy birthday Martha! I hope you enjoy the present I got you! I don't know if the first part arrived yet...</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-04-14 15:20:41 UTC">
+      <body>Oh I got the spring stuff! Thank you for that and the birthday wishes!</body>
+    </message>
+    <message id="m0002" participant="135131" time="2012-04-14 15:22:34 UTC">
+      <body>That wasn't your birthday present though... more to come, I guess!</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-04-14 15:35:02 UTC">
+      <body>Yay :)</body>
+    </message>
+    <message id="m0004" participant="135131" time="2012-04-14 15:41:32 UTC">
+      <body>Hey, your real present is out for delivery!</body>
+    </message>
+  </messages>
+</conversation>

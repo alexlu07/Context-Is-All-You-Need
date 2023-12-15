@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-29 14:40:39 UTC">
+      <body>Running ten minutes late.  Sorry!!!</body>
+    </message>
+    <message id="m0001" participant="135480" time="2013-03-29 14:50:57 UTC">
+      <body>Not a problem. </body>
+    </message>
+    <message id="m0002" participant="135480" time="2013-03-29 15:08:59 UTC">
+      <body>I would like to go to panera so let's meet in front of that. </body>
+    </message>
+    <message id="m0003" participant="135480" time="2013-03-29 21:11:28 UTC">
+      <body>Grabbing stuff from 6 then going to 3 to scan. You still on campus?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-29 21:12:04 UTC">
+      <body>Yeah I'm just getting started on some stuff ill meet u on 3 in twenty</body>
+    </message>
+    <message id="m0005" participant="135480" time="2013-03-29 21:13:36 UTC">
+      <body>Take your time</body>
+    </message>
+  </messages>
+</conversation>

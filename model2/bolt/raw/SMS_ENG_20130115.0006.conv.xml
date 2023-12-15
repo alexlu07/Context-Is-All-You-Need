@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130115.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-15 16:22:59 UTC">
+      <body>Hey! You're still home right?</body>
+    </message>
+    <message id="m0001" participant="135280" time="2013-01-15 19:23:12 UTC">
+      <body>Yeah I am until Sunday :)</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-15 19:23:41 UTC">
+      <body>Okay excellent </body>
+    </message>
+    <message id="m0003" participant="135280" time="2013-01-15 19:41:02 UTC">
+      <body>Yeah totally! My internship schedule is really crazy but I will let you know when I'm free this week  :)</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-15 19:41:23 UTC">
+      <body>Sounds good :)</body>
+    </message>
+  </messages>
+</conversation>

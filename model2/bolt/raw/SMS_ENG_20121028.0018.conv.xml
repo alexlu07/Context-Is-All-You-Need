@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-10-28 17:56:03 UTC">
+      <body>Yep: Capt. Hook is mighty fine. Talk to you tonight?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-10-28 17:59:43 UTC">
+      <body>Sooo fine!  I have a date tonight, tomorrow night?  Oh did I meet a nice one yesterday!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-10-28 18:01:41 UTC">
+      <body>Tomorrow works! Love you!</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-10-28 18:02:16 UTC">
+      <body>Xoxoxo</body>
+    </message>
+    <message id="m0004" participant="131023" time="2012-10-28 21:36:57 UTC">
+      <body>Do you have a reflective leash for the pup?  I can't find one here!</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-10-28 21:57:13 UTC">
+      <body>No, we don't!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120619.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-06-19 21:37:09 UTC">
+      <body>It's $7 and takes 3 days if you want to send your shoes out here. There's also a place on columbus and 70th you can go to and wait as they do them</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-19 21:41:11 UTC">
+      <body>What do you think I should do</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-06-19 21:42:58 UTC">
+      <body>Take them to Columbus tomorrow. If u send them out u run the risk they don't come back in time.</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-06-19 21:45:30 UTC">
+      <body>Ok sounds good. Heading to your house now</body>
+    </message>
+  </messages>
+</conversation>

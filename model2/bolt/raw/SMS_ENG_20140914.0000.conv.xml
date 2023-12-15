@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140914.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-14 20:16:00 UTC" participant="152115">
+      <body>We just got home and are about to eat. The show was good.</body>
+    </message>
+    <message id="m0001" time="2014-09-14 20:57:11 UTC" participant="152117">
+      <body>We're just leaving. See you in a bit. Love you!</body>
+    </message>
+    <message id="m0002" time="2014-09-14 21:06:01 UTC" participant="152115">
+      <body>Ok. We're going out for a milkshake. See you when we get back. Love you.</body>
+    </message>
+    <message id="m0003" time="2014-09-14 21:07:03 UTC" participant="152117">
+      <body>Ok didyou feed doot</body>
+    </message>
+  </messages>
+</conversation>
+

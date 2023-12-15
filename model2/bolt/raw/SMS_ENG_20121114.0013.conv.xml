@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2012-11-14 04:13:52 UTC">
+      <body>Coming home soon?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-14 05:32:25 UTC">
+      <body>Yes!!!! R u back!!!!???</body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-11-14 05:32:48 UTC">
+      <body>Mhmmmm</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-14 05:33:07 UTC">
+      <body>Tired? Me 2. I'll see u in the morning love</body>
+    </message>
+    <message id="m0004" participant="135414" time="2012-11-14 05:34:56 UTC">
+      <body>Haha I'm up-reading :)</body>
+    </message>
+  </messages>
+</conversation>

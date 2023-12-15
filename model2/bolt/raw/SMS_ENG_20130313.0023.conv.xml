@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130313.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134289" time="2013-03-13 11:58:30 UTC">
+      <body>What are you doing next Friday for the tourney?  </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-03-13 12:38:10 UTC">
+      <body>I'll be in Austin at the games</body>
+    </message>
+    <message id="m0002" participant="134289" time="2013-03-13 12:39:04 UTC">
+      <body>Word. I have a ticket for Philly.  </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-03-13 12:40:13 UTC">
+      <body>If I was in town I would definitely be down </body>
+    </message>
+  </messages>
+</conversation>

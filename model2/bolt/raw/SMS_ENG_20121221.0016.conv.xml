@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121221.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135374" time="2012-12-21 15:45:04 UTC">
+      <body>Sofie! Are you done with the semester/ around Boston at all over the next week? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-22 02:51:34 UTC">
+      <body>Ohhh Katya!!! Ingrid and me have galavanted south to her dads for the holidays!! I wish I was still in boston though now. </body>
+    </message>
+    <message id="m0002" participant="135374" time="2012-12-22 02:54:56 UTC">
+      <body>Aw that sounds really nice! I miss you and hope to see you soon!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-22 03:02:35 UTC">
+      <body>Yes yes</body>
+    </message>
+    <message id="m0004" participant="135374" time="2012-12-22 03:09:52 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

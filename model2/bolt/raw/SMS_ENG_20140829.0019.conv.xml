@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140829.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-29 16:20:19 UTC" participant="153893">
+      <body>Still waiting for the guy to get an estimate, what's up for next week</body>
+    </message>
+    <message id="m0001" time="2014-08-29 16:47:42 UTC" participant="153244">
+      <body>Ok.. and just friday for next week</body>
+    </message>
+    <message id="m0002" time="2014-08-29 16:52:12 UTC" participant="153244">
+      <body>Actually I can do fri and sat next week</body>
+    </message>
+    <message id="m0003" time="2014-08-29 16:52:15 UTC" participant="153244">
+      <body>The 5th &amp; 6th</body>
+    </message>
+  </messages>
+</conversation>
+

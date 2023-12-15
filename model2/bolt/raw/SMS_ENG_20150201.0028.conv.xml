@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150201.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-01 15:31:22 UTC" participant="153804">
+      <body>Nothing Monday,
+but Tuesday Auburn Weg's #38</body>
+    </message>
+    <message id="m0001" time="2015-02-01 15:31:49 UTC" participant="153804">
+      <body>Let me know if this works 4 u</body>
+    </message>
+    <message id="m0002" time="2015-02-01 18:17:14 UTC" participant="153815">
+      <body>Okay with me!</body>
+    </message>
+    <message id="m0003" time="2015-02-01 18:18:18 UTC" participant="153804">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

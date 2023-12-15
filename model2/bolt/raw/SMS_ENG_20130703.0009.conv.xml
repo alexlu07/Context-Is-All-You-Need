@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130520" time="2013-07-03 11:14:22 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-07-03 11:25:04 UTC">
+      <body>Hello! How's your morning?</body>
+    </message>
+    <message id="m0002" participant="130520" time="2013-07-03 11:30:34 UTC">
+      <body>Ok, at the gym then back to work. How about yours ?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-07-03 12:09:36 UTC">
+      <body>I just had a really lazy morning, going to the gym now. I think our pool is closed though.</body>
+    </message>
+    <message id="m0004" participant="130520" time="2013-07-03 13:00:32 UTC">
+      <body>I still haven't tried the pool at my gym. Is yours indoor?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-07-03 13:16:27 UTC">
+      <body>Yes, it my school gym, so they use the summer to make cosmetic repairs. Do you have plans for independence day?</body>
+    </message>
+  </messages>
+</conversation>

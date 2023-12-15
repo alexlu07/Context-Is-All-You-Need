@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140927.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-27 15:33:04 UTC" participant="153547">
+      <body>Hello Toren, this is Hunter.  Please let me know if you need anything from me to run a test on my lasercut if you are able</body>
+    </message>
+    <message id="m0001" time="2014-09-27 16:32:51 UTC" participant="153609">
+      <body>Hi hunter, I'm going to try a test on some bristol, to check the quality of cut possible from the file.  I'll send you some pics of what the tests are li</body>
+    </message>
+    <message id="m0002" time="2014-09-27 16:33:58 UTC" participant="153609">
+      <body>ke, and then if you want I can try on the darker paper you gave to strven</body>
+    </message>
+    <message id="m0003" time="2014-09-27 16:33:59 UTC" participant="153609">
+      <body>*steven</body>
+    </message>
+    <message id="m0004" time="2014-09-27 22:53:25 UTC" participant="153609">
+      <body>I'll have some time on the lasers tomorrow, so I'll send test pics then.  What is your time frame?  Do you have a show coming up?</body>
+    </message>
+    <message id="m0005" time="2014-09-27 23:13:37 UTC" participant="153547">
+      <body>I would need it done by oct 6th</body>
+    </message>
+    <message id="m0006" time="2014-09-27 23:15:25 UTC" participant="153609">
+      <body>Not a problem, can get it done this week</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136146" time="2013-03-01 23:11:44 UTC">
+      <body>Can I borrow your pleated skirt?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-01 23:14:27 UTC">
+      <body>sure, if it's not too big. i'll be back at woody in like 2 seconds. </body>
+    </message>
+    <message id="m0002" participant="136146" time="2013-03-01 23:18:25 UTC">
+      <body>Ok!!!! </body>
+    </message>
+    <message id="m0003" participant="136146" time="2013-03-01 23:18:35 UTC">
+      <body>Tell me when ur here!</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-01 23:20:50 UTC">
+      <body>i'm back! </body>
+    </message>
+    <message id="m0005" participant="136146" time="2013-03-01 23:21:22 UTC">
+      <body>Coming!</body>
+    </message>
+  </messages>
+</conversation>

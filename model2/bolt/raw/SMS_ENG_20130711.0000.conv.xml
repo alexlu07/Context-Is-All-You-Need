@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130826" time="2013-07-11 23:01:38 UTC">
+      <body>DoCo eta 7:45. Crazy day recovery needed. Sry lateness</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-11 23:06:33 UTC">
+      <body>No wawrries</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-11 23:25:17 UTC">
+      <body>Can ya pick up pizzas from paradise?</body>
+    </message>
+    <message id="m0003" participant="130826" time="2013-07-11 23:36:40 UTC">
+      <body>I think so. What's the total? Waiting on el</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-11 23:42:07 UTC">
+      <body>2 pies for Jeremy ~$24</body>
+    </message>
+    <message id="m0005" participant="130826" time="2013-07-11 23:44:54 UTC">
+      <body>Ok. C u soon</body>
+    </message>
+  </messages>
+</conversation>

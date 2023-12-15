@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131033" time="2013-03-29 21:03:25 UTC">
+      <body>Are you guys in town this weekend? Any way you can pick up a package from my doorstep tomorrow?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-03-29 21:08:11 UTC">
+      <body>Sorry, we're in PA!</body>
+    </message>
+  </messages>
+</conversation>

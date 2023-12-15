@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140520.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-20 00:39:06 UTC" participant="153900">
+      <body>Are you working</body>
+    </message>
+    <message id="m0001" time="2014-05-20 00:39:35 UTC" participant="153244">
+      <body>No I'm home.  Call my house</body>
+    </message>
+    <message id="m0002" time="2014-05-20 00:41:32 UTC" participant="153900">
+      <body>No i just wanted to know that i am gonna go to new york with robert on june 20 wanted to know if you are still coming</body>
+    </message>
+    <message id="m0003" time="2014-05-20 00:42:07 UTC" participant="153244">
+      <body>Yea what day is that? </body>
+    </message>
+    <message id="m0004" time="2014-05-20 00:44:58 UTC" participant="153900">
+      <body>A friday</body>
+    </message>
+    <message id="m0005" time="2014-05-20 00:46:31 UTC" participant="153244">
+      <body>Ok.. yea I'm going with you.</body>
+    </message>
+    <message id="m0006" time="2014-05-20 00:47:32 UTC" participant="153900">
+      <body>Ok how about steph</body>
+    </message>
+    <message id="m0007" time="2014-05-20 00:48:08 UTC" participant="153244">
+      <body>I have to ask her when she gets home. .. she ran to the corner store</body>
+    </message>
+    <message id="m0008" time="2014-05-20 00:55:02 UTC" participant="153244">
+      <body>She don't know.</body>
+    </message>
+    <message id="m0009" time="2014-05-20 00:56:09 UTC" participant="153900">
+      <body>Well if she don't go are we gone on the mega bus</body>
+    </message>
+    <message id="m0010" time="2014-05-20 00:56:49 UTC" participant="153244">
+      <body>No I can drive</body>
+    </message>
+    <message id="m0011" time="2014-05-20 00:57:11 UTC" participant="153900">
+      <body>Say what</body>
+    </message>
+    <message id="m0012" time="2014-05-20 00:57:49 UTC" participant="153244">
+      <body>Lmao!! I can drive there. I have gps. </body>
+    </message>
+    <message id="m0013" time="2014-05-20 00:59:02 UTC" participant="153244">
+      <body>I drove to Jersey last week. I had to go to a store in deptford township. </body>
+    </message>
+    <message id="m0014" time="2014-05-20 00:59:57 UTC" participant="153900">
+      <body>Ok how did you drive over the bridge and who did you go with</body>
+    </message>
+    <message id="m0015" time="2014-05-20 01:00:47 UTC" participant="153244">
+      <body>Drove fine and went alone bec Steph was still at work</body>
+    </message>
+    <message id="m0016" time="2014-05-20 01:03:13 UTC" participant="153900">
+      <body>Why did't you ask me</body>
+    </message>
+    <message id="m0017" time="2014-05-20 01:04:06 UTC" participant="153244">
+      <body>You were working I think. I left at 4:00</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140926.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-26 22:13:40 UTC" participant="153900">
+      <body>Do you want to go to the game sat</body>
+    </message>
+    <message id="m0001" time="2014-09-26 22:46:53 UTC" participant="153244">
+      <body>What time?</body>
+    </message>
+    <message id="m0002" time="2014-09-26 23:16:35 UTC" participant="153900">
+      <body>7</body>
+    </message>
+    <message id="m0003" time="2014-09-27 01:07:42 UTC" participant="153900">
+      <body>Well do you want them</body>
+    </message>
+    <message id="m0004" time="2014-09-27 02:58:56 UTC" participant="153900">
+      <body>Ok so I will swipe for food for you and steph bring something to drink if you both bring a cup I can get it filled </body>
+    </message>
+    <message id="m0005" time="2014-09-27 16:02:10 UTC" participant="153900">
+      <body>Got you tickets 143  row 11 out field</body>
+    </message>
+    <message id="m0006" time="2014-09-27 17:44:34 UTC" participant="153244">
+      <body>No.. Steph said those are great seats</body>
+    </message>
+    <message id="m0007" time="2014-09-27 17:46:16 UTC" participant="153900">
+      <body>Can you drive of at 4 to work my Car  is broke and so  is my bike </body>
+    </message>
+    <message id="m0008" time="2014-09-27 19:40:22 UTC" participant="153900">
+      <body>Can you be hear by 4</body>
+    </message>
+  </messages>
+</conversation>
+

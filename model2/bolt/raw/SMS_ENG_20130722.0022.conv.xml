@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0022" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131201" time="2013-07-22 22:32:18 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="131201" time="2013-07-22 22:32:36 UTC">
+      <body>How is it going?</body>
+    </message>
+    <message id="m0002" participant="131711" time="2013-07-22 23:34:43 UTC">
+      <body>I'm okay my phone doed tho</body>
+    </message>
+    <message id="m0003" participant="131201" time="2013-07-22 23:37:36 UTC">
+      <body>Oh sorry.</body>
+    </message>
+    <message id="m0004" participant="131711" time="2013-07-22 23:38:47 UTC">
+      <body>It's okay how are you?</body>
+    </message>
+    <message id="m0005" participant="131201" time="2013-07-22 23:40:17 UTC">
+      <body>Good.</body>
+    </message>
+    <message id="m0006" participant="131201" time="2013-07-22 23:40:43 UTC">
+      <body>It was a grey day here in CA.</body>
+    </message>
+    <message id="m0007" participant="131711" time="2013-07-22 23:41:37 UTC">
+      <body>Really? What part?! It Was pretty sunny in LA</body>
+    </message>
+    <message id="m0008" participant="131201" time="2013-07-22 23:43:33 UTC">
+      <body>Berkeley.</body>
+    </message>
+    <message id="m0009" participant="131201" time="2013-07-22 23:43:33 UTC">
+      <body>:-)</body>
+    </message>
+    <message id="m0010" participant="131201" time="2013-07-22 23:43:46 UTC">
+      <body>I mean. I like it.</body>
+    </message>
+    <message id="m0011" participant="131201" time="2013-07-22 23:52:26 UTC">
+      <body>:-)</body>
+    </message>
+    <message id="m0012" participant="131711" time="2013-07-22 23:52:26 UTC">
+      <body>Ah lol~</body>
+    </message>
+  </messages>
+</conversation>

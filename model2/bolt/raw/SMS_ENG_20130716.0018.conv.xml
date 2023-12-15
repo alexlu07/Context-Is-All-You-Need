@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130716.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130975" time="2013-07-16 14:34:36 UTC">
+      <body>hi again</body>
+    </message>
+    <message id="m0001" participant="134852" time="2013-07-16 14:47:30 UTC">
+      <body>Hi again! How have you been?</body>
+    </message>
+    <message id="m0002" participant="130975" time="2013-07-16 14:49:35 UTC">
+      <body>good! u?</body>
+    </message>
+    <message id="m0003" participant="134852" time="2013-07-16 14:51:02 UTC">
+      <body>I've been great. I finished my summer class, so I've just been working and relaxing, which is nice.</body>
+    </message>
+    <message id="m0004" participant="130975" time="2013-07-16 14:54:23 UTC">
+      <body>nice! I'm at work now.. wish I still had summers off!</body>
+    </message>
+    <message id="m0005" participant="134852" time="2013-07-16 14:57:38 UTC">
+      <body>I always have to take at least one summer class cause 3 months is too long for me to have nothing to do! Also, there's the fact that I won't graduate ontime if I don't.</body>
+    </message>
+  </messages>
+</conversation>

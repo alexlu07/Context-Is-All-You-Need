@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120707.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131288" time="2012-07-07 12:58:26 UTC">
+      <body>Happy Birthday!!! You guys doing anything to celebrate?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-07-07 20:05:07 UTC">
+      <body>Thanks! We're going out for dinner and a movie :)</body>
+    </message>
+    <message id="m0002" participant="131288" time="2012-07-07 23:45:19 UTC">
+      <body>Enjoy! :) Who's watching ####? </body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-07-08 00:24:27 UTC">
+      <body>The #########s - we came down to NJ to steal their AC...</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131117.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-17 03:15:59 UTC" participant="153557">
+      <body>What time tmw?</body>
+    </message>
+    <message id="m0001" time="2013-11-17 11:46:26 UTC" participant="153547">
+      <body>Whenever 11, 12, 1 ?   Maybe after lunch </body>
+    </message>
+    <message id="m0002" time="2013-11-17 11:47:59 UTC" participant="153557">
+      <body>Okay. I Going to try and do some laundry then this morning but I have to wait til they open</body>
+    </message>
+    <message id="m0003" time="2013-11-17 15:17:20 UTC" participant="153557">
+      <body>Laundry is finished! Leave around 11:30 or 12??</body>
+    </message>
+    <message id="m0004" time="2013-11-17 15:17:20 UTC" participant="153557">
+      <body>It's beautiful out.</body>
+    </message>
+    <message id="m0005" time="2013-11-17 15:35:29 UTC" participant="153547">
+      <body>I can come around 1130 and pick u up</body>
+    </message>
+    <message id="m0006" time="2013-11-17 15:36:11 UTC" participant="153557">
+      <body>Cool. I am going to eat and. Tighten my breaks and pump my tires. </body>
+    </message>
+    <message id="m0007" time="2013-11-17 16:18:27 UTC" participant="153557">
+      <body>If you have another thin water bottle can you bring that?</body>
+    </message>
+    <message id="m0008" time="2013-11-17 16:47:32 UTC" participant="153547">
+      <body>I'm downstairs</body>
+    </message>
+    <message id="m0009" time="2013-11-18 00:49:04 UTC" participant="153557">
+      <body>Yr Hands feel okay?</body>
+    </message>
+    <message id="m0010" time="2013-11-18 00:50:04 UTC" participant="153547">
+      <body>Yeah. How bout yours</body>
+    </message>
+  </messages>
+</conversation>
+

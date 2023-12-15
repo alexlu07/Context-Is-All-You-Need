@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140909.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-09 23:35:15 UTC" participant="152118">
+      <body>How was the first day?</body>
+    </message>
+    <message id="m0001" time="2014-09-09 23:36:52 UTC" participant="152115">
+      <body>It went fine. I'm just doing boring hospital orientation stuff all week which consists of sitting in one room looking at points for eight hours. But everyone is nice. I start working on the floor next week.</body>
+    </message>
+    <message id="m0002" time="2014-09-09 23:40:04 UTC" participant="152118">
+      <body>Ohhh okay. Well I'm glad!</body>
+    </message>
+    <message id="m0003" time="2014-09-09 23:43:33 UTC" participant="152115">
+      <body>Yeah. I'll have more to report on next week. Haha.</body>
+    </message>
+    <message id="m0004" time="2014-09-09 23:44:06 UTC" participant="152118">
+      <body>Haha okay!!!</body>
+    </message>
+  </messages>
+</conversation>
+

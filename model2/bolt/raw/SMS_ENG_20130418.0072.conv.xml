@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137257" time="2013-04-18 19:45:42 UTC">
+      <body>Please let me know when u get home because we need to complete Wells Fargo forms. </body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-04-18 19:47:23 UTC">
+      <body>I am on the train home. Gladstone.</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-04-18 19:47:42 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-04-19 19:14:08 UTC">
+      <body>Please let me know when u can go to carol for the notarization. Any time this afternoon or early evening. </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-04-19 19:16:15 UTC">
+      <body>I'll go at 6 ish </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-04-19 19:16:16 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-04-19 21:42:10 UTC">
+      <body>Please don't take the boys before they empty the dishwasher </body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-04-19 21:42:42 UTC">
+      <body>Can u tell them to pause now and do that</body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-04-19 21:43:45 UTC">
+      <body>It is still too hit</body>
+    </message>
+    <message id="m0009" participant="132437" time="2013-04-19 21:43:50 UTC">
+      <body>Hot</body>
+    </message>
+    <message id="m0010" participant="137257" time="2013-04-20 14:38:56 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0011" participant="132437" time="2013-04-20 14:39:02 UTC">
+      <body>Going to traders </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120826.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136260" time="2012-08-26 00:34:27 UTC">
+      <body>Hey guys! It's Danielle, your OL. Come to cox at 9:45 If you want to come to the comedian!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-26 01:30:39 UTC">
+      <body>I'm coming!</body>
+    </message>
+    <message id="m0002" participant="136260" time="2012-08-26 01:31:44 UTC">
+      <body>Sweet, see you soon!</body>
+    </message>
+    <message id="m0003" participant="136260" time="2012-08-26 14:50:21 UTC">
+      <body>Meet at 12:45 at cox (our normal meeting location) to walk over to your first college lecture!</body>
+    </message>
+  </messages>
+</conversation>

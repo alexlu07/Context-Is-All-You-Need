@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-19 14:16:12 UTC">
+      <body>Hi Fawked. What's new?</body>
+    </message>
+    <message id="m0001" participant="130662" time="2013-07-19 14:27:45 UTC">
+      <body>Hello suenosasi! How's it going?</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-19 15:34:58 UTC">
+      <body>Not too bad. Sorry I was away from my phone while I was working. Do you plans for the weekend?</body>
+    </message>
+    <message id="m0003" participant="130662" time="2013-07-19 16:10:56 UTC">
+      <body>Yeah, my parents are in town, so I'm going to show them around the city. I'm based in San Francisco. Where do you stay?</body>
+    </message>
+    <message id="m0004" participant="134920" time="2013-07-19 17:02:29 UTC">
+      <body>I live in SF too but im working in Mtn View this summer. What are you going to show your parents? Have they been to SF before?</body>
+    </message>
+    <message id="m0005" participant="130662" time="2013-07-19 17:14:52 UTC">
+      <body>(1/2)Nope, it's their first time. Will show them around the Embarcadero, Pier 39, Ghirardelli and such. Have you lived here all your life? How are you</body>
+    </message>
+    <message id="m0006" participant="130662" time="2013-07-19 17:14:52 UTC">
+      <body>(2/2)affiliated to Penn?</body>
+    </message>
+    <message id="m0007" participant="134920" time="2013-07-19 17:26:47 UTC">
+      <body>What about you? Did you go to Penn?</body>
+    </message>
+  </messages>
+</conversation>

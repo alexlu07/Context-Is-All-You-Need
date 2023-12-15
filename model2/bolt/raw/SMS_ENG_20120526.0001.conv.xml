@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120526.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-05-26 18:16:41 UTC">
+      <body>Hey!! Do you need us to bring anything over?</body>
+    </message>
+    <message id="m0001" participant="131024" time="2012-05-26 18:33:24 UTC">
+      <body>Paper towels please!</body>
+    </message>
+    <message id="m0002" participant="131024" time="2012-05-26 18:33:43 UTC">
+      <body>Can't wait to see you</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-05-26 18:39:24 UTC">
+      <body>You got it!</body>
+    </message>
+  </messages>
+</conversation>

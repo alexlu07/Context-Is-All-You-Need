@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130107.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2013-01-07 16:11:27 UTC">
+      <body>When are you seeing the doctor</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-07 16:19:48 UTC">
+      <body>1220</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-07 16:20:00 UTC">
+      <body>Ken more </body>
+    </message>
+    <message id="m0003" participant="135395" time="2013-01-07 16:22:02 UTC">
+      <body>Good</body>
+    </message>
+    <message id="m0004" participant="135395" time="2013-01-07 17:38:14 UTC">
+      <body>If you get out in the next 10 min I can drive you home </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-07 17:47:41 UTC">
+      <body>I'm out</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-07 17:47:47 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-01-07 17:47:58 UTC">
+      <body>Yeah it's the flu</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-01-07 17:48:09 UTC">
+      <body>I feel better though</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-01-07 17:48:30 UTC">
+      <body>Only a few more days</body>
+    </message>
+    <message id="m0010" participant="135395" time="2013-01-07 17:48:44 UTC">
+      <body>Should I come get you?</body>
+    </message>
+    <message id="m0011" participant="135395" time="2013-01-07 17:48:47 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0012" participant="135395" time="2013-01-07 17:48:49 UTC">
+      <body>Are you contagious</body>
+    </message>
+    <message id="m0013" participant="130622" time="2013-01-07 17:55:49 UTC">
+      <body>I found a cab</body>
+    </message>
+    <message id="m0014" participant="135395" time="2013-01-07 17:59:16 UTC">
+      <body>I love you! I'm glad you went to the doctor</body>
+    </message>
+    <message id="m0015" participant="130622" time="2013-01-07 23:32:04 UTC">
+      <body>Yay</body>
+    </message>
+  </messages>
+</conversation>

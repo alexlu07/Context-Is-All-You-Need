@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-07-19 12:11:25 UTC">
+      <body>Good morning, lotus!</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-07-19 13:18:34 UTC">
+      <body>Gmorning</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-07-19 13:23:16 UTC">
+      <body>How's your day? What's going on?</body>
+    </message>
+    <message id="m0003" participant="130751" time="2013-07-19 13:24:02 UTC">
+      <body>Painting my new house. You?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-07-19 13:25:24 UTC">
+      <body>Congrats! just running errands.</body>
+    </message>
+    <message id="m0005" participant="130751" time="2013-07-19 18:15:05 UTC">
+      <body>Nice. What a hot hot day. Bak to our apt. Still haven't moved into new place. Just keeping my almost 1 yr old out of the heat. You?</body>
+    </message>
+  </messages>
+</conversation>

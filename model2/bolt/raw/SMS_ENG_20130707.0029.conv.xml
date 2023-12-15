@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-07 20:19:06 UTC">
+      <body>when are you leaving?</body>
+    </message>
+    <message id="m0001" participant="132553" time="2013-07-07 21:56:10 UTC">
+      <body>Leaving philly?  </body>
+    </message>
+    <message id="m0002" participant="132553" time="2013-07-07 21:56:52 UTC">
+      <body>In the twenties. </body>
+    </message>
+  </messages>
+</conversation>

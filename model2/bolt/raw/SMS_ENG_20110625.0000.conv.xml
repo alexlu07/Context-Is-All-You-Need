@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110625.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135092" time="2011-06-25 19:09:09 UTC">
+      <body>When are you coming</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-25 19:09:39 UTC">
+      <body>
+When do you want me to come? Do you want to make dinner?</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-06-25 19:32:43 UTC">
+      <body>I work till 730 or so</body>
+    </message>
+    <message id="m0003" participant="135092" time="2011-06-25 19:52:56 UTC">
+      <body>But I wanna eat afta</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-25 20:36:42 UTC">
+      <body>Ok then I'll wait</body>
+    </message>
+    <message id="m0005" participant="135092" time="2011-06-26 00:57:45 UTC">
+      <body>Call when you arrive</body>
+    </message>
+  </messages>
+</conversation>

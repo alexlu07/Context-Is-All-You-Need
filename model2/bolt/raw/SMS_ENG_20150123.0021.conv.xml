@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 23:17:20 UTC" participant="149372">
+      <body>Are you serious about getting a laser cnc?</body>
+    </message>
+    <message id="m0001" time="2015-01-23 23:19:16 UTC" participant="153547">
+      <body>Yeah but it's a big to do. I need like 60 grand</body>
+    </message>
+    <message id="m0002" time="2015-01-23 23:21:36 UTC" participant="149372">
+      <body>Well, heads up, if you wanted to keep it in the shop space you'd have to find one that is single phase.</body>
+    </message>
+    <message id="m0003" time="2015-01-23 23:23:44 UTC" participant="149372">
+      <body>Ideally in 2 years I will move into a real warehouse space with 3 phase though so maybe by the time you actually get one it won't matter. </body>
+    </message>
+    <message id="m0004" time="2015-01-23 23:23:44 UTC" participant="149372">
+      <body>It's 2 hundo amp</body>
+    </message>
+    <message id="m0005" time="2015-01-23 23:24:05 UTC" participant="153547">
+      <body> It's not happening anytime soon. So that's a problem for a later date. What is your service there</body>
+    </message>
+  </messages>
+</conversation>
+

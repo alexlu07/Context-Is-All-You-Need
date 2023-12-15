@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120318.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-03-18 20:38:45 UTC" participant="152374">
+      <body>I just sent the ######## story over to your #### email. If you can get to it today, awesome, but no worries if not! Have a good trip tomorrow.</body>
+    </message>
+    <message id="m0001" time="2012-03-18 23:04:34 UTC" participant="153465">
+      <body>Hey! Great story! Did you have a suggestion for a headline? Just wanted to check....</body>
+    </message>
+    <message id="m0002" time="2012-03-18 23:06:45 UTC" participant="152374">
+      <body>I really gotta work on headline writing. Writers never write them, editors always do. I'm out of practice! Whatever you think is best. Next time I'll have one!</body>
+    </message>
+  </messages>
+</conversation>
+

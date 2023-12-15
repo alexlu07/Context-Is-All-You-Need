@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110623.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-23 23:08:37 UTC">
+      <body>Are you tied up? Im meeting some new ulm people at 9 in uptown so I'm coming down your way? </body>
+    </message>
+    <message id="m0001" participant="135096" time="2011-06-23 23:09:38 UTC">
+      <body>Ha, well I'm just working on the comp, but you should definitely visit me!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-23 23:10:06 UTC">
+      <body>Have you eaten? What are you doing for dinner?</body>
+    </message>
+    <message id="m0003" participant="135096" time="2011-06-23 23:11:00 UTC">
+      <body>I was going to just do some pasta... Want to join?!</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-23 23:11:29 UTC">
+      <body>Sure! I'll bring over what I have</body>
+    </message>
+    <message id="m0005" participant="135096" time="2011-06-23 23:12:02 UTC">
+      <body>Great ;)</body>
+    </message>
+  </messages>
+</conversation>

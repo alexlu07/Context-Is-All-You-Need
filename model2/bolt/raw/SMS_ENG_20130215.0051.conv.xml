@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-15 12:10:57 UTC" participant="152417">
+      <body>Need a ride today?</body>
+    </message>
+    <message id="m0001" time="2013-02-15 12:24:37 UTC" participant="152555">
+      <body>Ill be ready in 10 or so:) just ring when youre here.... Hope your feeling better! Thank you so much!</body>
+    </message>
+    <message id="m0002" time="2013-02-15 12:37:09 UTC" participant="152417">
+      <body>Here</body>
+    </message>
+    <message id="m0003" time="2013-02-15 22:24:10 UTC" participant="152555">
+      <body>Are tickets still avail for drag ball sat night? Two friends are interested... &amp; me too!</body>
+    </message>
+    <message id="m0004" time="2013-02-15 22:39:25 UTC" participant="152417">
+      <body>Cool, i assume there are</body>
+    </message>
+  </messages>
+</conversation>
+

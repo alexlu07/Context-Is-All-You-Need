@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120710.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135353" time="2012-07-10 02:20:54 UTC">
+      <body>U in ny or phila?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-10 02:33:38 UTC">
+      <body>Anew York. Where are you</body>
+    </message>
+    <message id="m0002" participant="135353" time="2012-07-10 02:35:39 UTC">
+      <body>Carroll gdns. You?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-10 02:37:44 UTC">
+      <body>Are you staying there </body>
+    </message>
+  </messages>
+</conversation>

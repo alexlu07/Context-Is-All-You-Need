@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120420.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-20 15:45:45 UTC" participant="152374">
+      <body>We get lunch from the super duper weenie truck today. Ha ha.</body>
+    </message>
+    <message id="m0001" time="2012-04-20 15:48:24 UTC" participant="152380">
+      <body>What?! They have a food truck?  I'm jealous our food trucks stink!</body>
+    </message>
+    <message id="m0002" time="2012-04-20 15:49:34 UTC" participant="152374">
+      <body>They cater with a truck, apparently. The electrical engineering department hired them for a picnic</body>
+    </message>
+  </messages>
+</conversation>
+

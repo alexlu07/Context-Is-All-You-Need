@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-14 12:22:35 UTC">
+      <body>Running late. Be in soon. </body>
+    </message>
+    <message id="m0001" participant="136477" time="2013-06-14 19:02:36 UTC">
+      <body>sucks to suck</body>
+    </message>
+    <message id="m0002" participant="136477" time="2013-06-14 19:02:50 UTC">
+      <body>wrong #</body>
+    </message>
+  </messages>
+</conversation>

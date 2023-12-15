@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-28 16:53:51 UTC">
+      <body>are you by any chance going to be around tomorrow at 2?</body>
+    </message>
+    <message id="m0001" participant="136196" time="2013-03-29 02:09:33 UTC">
+      <body>Possibly. I can let you know tomorrow if that helps</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-29 02:09:47 UTC">
+      <body>please do! </body>
+    </message>
+    <message id="m0003" participant="136196" time="2013-03-29 02:10:30 UTC">
+      <body>Sorry, for some reason this didn't go threw this morning when I sent it</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-29 02:11:26 UTC">
+      <body>no probs! i have someone else set to do it but if you tell me when you know if you're gonna be there, i can cancel with her. </body>
+    </message>
+    <message id="m0005" participant="136196" time="2013-03-29 21:46:44 UTC">
+      <body>Hey Laurence. I just got to the ceramics studio and ill be here for a few hours if you need me to do the peeps. Sorry I could do them earlier</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-03-29 21:47:32 UTC">
+      <body>daneka should be doing them. if she's not by at like 7 or so will you take care if it? </body>
+    </message>
+    <message id="m0007" participant="136196" time="2013-03-29 21:58:28 UTC">
+      <body>For sure. I don't have her # but if you want to let her know I'll be here I can do it. </body>
+    </message>
+  </messages>
+</conversation>

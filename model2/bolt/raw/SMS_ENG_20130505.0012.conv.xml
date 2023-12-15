@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131431" time="2013-05-05 20:39:41 UTC">
+      <body>see you in 15. </body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-05-05 20:41:07 UTC">
+      <body>Great! </body>
+    </message>
+    <message id="m0002" participant="131431" time="2013-05-05 20:53:11 UTC">
+      <body>i am at your front door</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-05-05 20:54:29 UTC">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>

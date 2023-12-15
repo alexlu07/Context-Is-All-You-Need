@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120622.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-06-22 22:16:55 UTC">
+      <body>I got a notice that you sent me a message on wwf but can't get to it</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-06-22 22:17:59 UTC">
+      <body>Odd. All I said was: "so many words and nowhere to put them!"</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-06-22 22:19:07 UTC">
+      <body>I am having a real hard time this game!</body>
+    </message>
+  </messages>
+</conversation>

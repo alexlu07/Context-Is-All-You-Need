@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-12-08 01:25:54 UTC">
+      <body>You still duc? </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-08 01:26:19 UTC">
+      <body>DUC is closed. We're at zayas</body>
+    </message>
+    <message id="m0002" participant="136277" time="2012-12-08 01:26:50 UTC">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0003" participant="136277" time="2012-12-08 02:15:54 UTC">
+      <body>Where are you guys?</body>
+    </message>
+  </messages>
+</conversation>

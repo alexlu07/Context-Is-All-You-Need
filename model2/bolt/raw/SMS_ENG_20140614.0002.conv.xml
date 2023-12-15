@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140614.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-14 17:26:15 UTC" participant="152417">
+      <body>Che! Are you in town this weekend?</body>
+    </message>
+    <message id="m0001" time="2014-06-14 18:58:19 UTC" participant="152419">
+      <body>I am in town!</body>
+    </message>
+    <message id="m0002" time="2014-06-14 19:13:27 UTC" participant="152417">
+      <body>Whatchu up to this evening? Wanna go see some theatre? Or just kick it</body>
+    </message>
+    <message id="m0003" time="2014-06-14 20:16:00 UTC" participant="152419">
+      <body>Theatre? Like what?? It's so nice out, I don't know what to even do!</body>
+    </message>
+    <message id="m0004" time="2014-06-14 20:20:54 UTC" participant="152417">
+      <body>Theres a vermont stage company production in the flynnspace where three directors direct a third of the show, but it is super nice out...id be down to just hang, maybe a fire?</body>
+    </message>
+  </messages>
+</conversation>
+

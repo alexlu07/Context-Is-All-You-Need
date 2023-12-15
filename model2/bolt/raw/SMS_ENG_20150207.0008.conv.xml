@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150207.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-07 16:41:49 UTC" participant="152590">
+      <body>hmmm well moneys money</body>
+    </message>
+    <message id="m0001" time="2015-02-07 17:52:08 UTC" participant="152417">
+      <body>Which should i deliver first?</body>
+    </message>
+    <message id="m0002" time="2015-02-07 18:45:31 UTC" participant="152417">
+      <body>Brauhaus didnt get this order, theyre just putting it in now, so itll be late</body>
+    </message>
+    <message id="m0003" time="2015-02-07 18:54:55 UTC" participant="152590">
+      <body>dang copy that</body>
+    </message>
+    <message id="m0004" time="2015-02-07 22:04:01 UTC" participant="152590">
+      <body>Good Afternoon! Are you available for the Dinner Shift? We are gonna be BUSY!!!</body>
+    </message>
+    <message id="m0005" time="2015-02-07 22:07:46 UTC" participant="152417">
+      <body>Maybe, after 730 or 8</body>
+    </message>
+  </messages>
+</conversation>
+

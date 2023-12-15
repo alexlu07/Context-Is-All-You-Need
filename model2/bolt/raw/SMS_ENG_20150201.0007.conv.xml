@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150201.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-01 23:56:25 UTC" participant="152417">
+      <body>Do i deliver 114 then 118? Or vice versa?</body>
+    </message>
+    <message id="m0001" time="2015-02-01 23:57:04 UTC" participant="152590">
+      <body>114 first please</body>
+    </message>
+  </messages>
+</conversation>
+

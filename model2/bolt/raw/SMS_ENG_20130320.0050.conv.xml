@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-20 16:06:53 UTC" participant="152734">
+      <body>Hi, would it work if we came for lucky on Saturday around 830am?</body>
+    </message>
+    <message id="m0001" time="2013-03-20 17:05:26 UTC" participant="153308">
+      <body>Sure thats fine</body>
+    </message>
+    <message id="m0002" time="2013-03-20 20:22:54 UTC" participant="152734">
+      <body>Great, see you then!</body>
+    </message>
+  </messages>
+</conversation>
+

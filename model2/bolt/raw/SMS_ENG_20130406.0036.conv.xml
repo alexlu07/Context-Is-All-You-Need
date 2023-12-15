@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2013-04-06 01:33:20 UTC">
+      <body>Kitten photos please to show Joanie!   I'm in new London. </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-04-06 01:43:42 UTC">
+      <body>Request from Kathy, she has them</body>
+    </message>
+    <message id="m0002" participant="131505" time="2013-04-06 01:45:01 UTC">
+      <body>I did but no answer so i figured her phone might be off..</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-04-06 01:45:32 UTC">
+      <body>I just told her</body>
+    </message>
+    <message id="m0004" participant="131505" time="2013-04-06 14:45:13 UTC">
+      <body>In church.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-04-06 14:45:35 UTC">
+      <body>Lame</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131945" time="2013-06-02 04:32:40 UTC">
+      <body>Ayo are people supposed to be coming over to your house?</body>
+    </message>
+    <message id="m0001" participant="131960" time="2013-06-02 04:37:18 UTC">
+      <body>Sure. Natz is here straight chilling</body>
+    </message>
+    <message id="m0002" participant="131945" time="2013-06-02 04:40:18 UTC">
+      <body>Ahahaha okay we're coming over I guess</body>
+    </message>
+    <message id="m0003" participant="131960" time="2013-06-02 04:50:05 UTC">
+      <body>Lauren is here too</body>
+    </message>
+  </messages>
+</conversation>

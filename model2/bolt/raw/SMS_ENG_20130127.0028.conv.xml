@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136143" time="2013-01-27 02:30:20 UTC">
+      <body>Hey Lauren, does everyone have a ride to the church tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-27 02:31:21 UTC">
+      <body>yup, it's just me and sean and i worked it out already. thanks! are you still planning to bring orange juice? </body>
+    </message>
+    <message id="m0002" participant="136143" time="2013-01-27 02:34:55 UTC">
+      <body>I may attend at my mom's church, unless someone is needing a ride later.. Is someone taking you guys back?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-27 02:37:32 UTC">
+      <body>i'm sure we'll figure it out! :) </body>
+    </message>
+  </messages>
+</conversation>

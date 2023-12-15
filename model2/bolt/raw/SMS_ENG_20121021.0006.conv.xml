@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121021.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2012-10-21 14:30:24 UTC">
+      <body>Prob going to studio after work. I get out around 7:30</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-21 14:32:07 UTC">
+      <body>Awesome</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-21 14:32:14 UTC">
+      <body>Let's work together</body>
+    </message>
+    <message id="m0003" participant="135386" time="2012-10-21 14:34:40 UTC">
+      <body>Ya! I have a lot to do for info arc</body>
+    </message>
+    <message id="m0004" participant="135386" time="2012-10-22 00:06:24 UTC">
+      <body>On my way</body>
+    </message>
+  </messages>
+</conversation>

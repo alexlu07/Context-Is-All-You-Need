@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120410.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-10 18:42:16 UTC" participant="152374">
+      <body>I think you should know that my calendar for this Saturday has a picture of a lobster drawn on it</body>
+    </message>
+    <message id="m0001" time="2012-04-10 18:52:14 UTC" participant="152380">
+      <body>Yes!  I must tell you that I am retarded and was looking at the day it opened last year and the place i like actually doesnt open til the following week :(</body>
+    </message>
+    <message id="m0002" time="2012-04-10 18:52:29 UTC" participant="152380">
+      <body>But there is another place i want to tru that is open</body>
+    </message>
+    <message id="m0003" time="2012-04-10 18:52:37 UTC" participant="152380">
+      <body>Try*</body>
+    </message>
+    <message id="m0004" time="2012-04-10 18:53:55 UTC" participant="152374">
+      <body>Okay then, place number two it is! Just tell me where and when!</body>
+    </message>
+  </messages>
+</conversation>
+

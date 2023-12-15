@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141226.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-26 17:10:41 UTC" participant="152123">
+      <body>Hey, mom said the microwave was too big. She wants to bring it back. If she does, there might be a price difference. Should she keep the price difference and use it for something else she might need? Or should we divide the price difference amongst the contributors?  Ask Steph too. </body>
+    </message>
+    <message id="m0001" time="2014-12-26 17:16:28 UTC" participant="153244">
+      <body>Im fine with her keeping the difference.  Im sure Steph too but ill double check with her</body>
+    </message>
+    <message id="m0002" time="2014-12-26 17:17:59 UTC" participant="152123">
+      <body>Cool thx</body>
+    </message>
+  </messages>
+</conversation>
+

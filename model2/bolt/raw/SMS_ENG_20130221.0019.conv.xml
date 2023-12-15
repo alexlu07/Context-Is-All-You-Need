@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130700" time="2013-02-21 15:16:15 UTC">
+      <body>Hey Megan, this is Alexandra, we're in the same lesson time. I was wondering about the plan for tonight, like where are we meeting and stuff. Let me know</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-02-21 15:23:56 UTC">
+      <body>Hi! I think we should try to leave by 6:45 if we are starting at 7:30. Meet at pem arch</body>
+    </message>
+    <message id="m0002" participant="130700" time="2013-03-21 22:40:52 UTC">
+      <body>Are we having lessons tonight??</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-03-21 22:41:22 UTC">
+      <body>Yeah, I'm waiting for Margot..be there soon</body>
+    </message>
+    <message id="m0004" participant="130700" time="2013-03-21 22:41:44 UTC">
+      <body>Ok. Great!</body>
+    </message>
+    <message id="m0005" participant="130700" time="2013-03-28 14:23:47 UTC">
+      <body>Hey megan! Just wanted to let you know we're going to have a fifth rider in our group tonight</body>
+    </message>
+    <message id="m0006" participant="130664" time="2013-03-28 20:50:33 UTC">
+      <body>Thanks, see you soon </body>
+    </message>
+  </messages>
+</conversation>

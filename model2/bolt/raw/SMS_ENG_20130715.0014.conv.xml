@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0014" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-07-15 13:06:56 UTC">
+      <body>Hello that is</body>
+    </message>
+    <message id="m0001" participant="130677" time="2013-07-15 13:07:51 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-07-15 13:09:38 UTC">
+      <body>You in Atlanta?</body>
+    </message>
+    <message id="m0003" participant="130677" time="2013-07-15 13:26:11 UTC">
+      <body>I am. Where are you?</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-07-15 13:36:47 UTC">
+      <body>Just outside philly</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-07-15 13:37:29 UTC">
+      <body>You from Atlanta originally?</body>
+    </message>
+    <message id="m0006" participant="130677" time="2013-07-15 13:38:12 UTC">
+      <body>I've lived here for about 9 years. Born in Fl, grew up in NC.</body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-07-16 08:52:46 UTC">
+      <body>How do you like Atlanta?</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-07-16 08:52:46 UTC">
+      <body>You live in the city?</body>
+    </message>
+    <message id="m0009" participant="130677" time="2013-07-16 11:04:53 UTC">
+      <body>I do. Right in the middle of everything. I love it here. What do you do for work?</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-07-16 11:35:29 UTC">
+      <body>Director of biz development for a marketing company. You?</body>
+    </message>
+    <message id="m0011" participant="130677" time="2013-07-16 11:45:28 UTC">
+      <body>I'm an epidemiologist.</body>
+    </message>
+  </messages>
+</conversation>

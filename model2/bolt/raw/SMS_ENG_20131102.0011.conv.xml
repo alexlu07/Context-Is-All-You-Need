@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131102.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-02 20:39:40 UTC" participant="154352">
+      <body>Reminder: bill Burr in one week</body>
+    </message>
+    <message id="m0001" time="2013-11-02 22:01:25 UTC" participant="154392">
+      <body>Ok. Are you going to the toga party?</body>
+    </message>
+    <message id="m0002" time="2013-11-02 22:12:38 UTC" participant="154352">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" time="2013-11-02 22:12:52 UTC" participant="154352">
+      <body>Are you going?</body>
+    </message>
+    <message id="m0004" time="2013-11-02 22:23:40 UTC" participant="154392">
+      <body>  I saw a thread started by Melissa that said it would start winding down at 10</body>
+    </message>
+    <message id="m0005" time="2013-11-02 22:23:49 UTC" participant="154392">
+      <body>I'm going to try.  I'll text you later to see if its still going on.</body>
+    </message>
+    <message id="m0006" time="2013-11-02 22:39:59 UTC" participant="154392">
+      <body>I'm also having a hard time with the toga. Any YouTube recommendations?</body>
+    </message>
+    <message id="m0007" time="2013-11-02 22:43:00 UTC" participant="154352">
+      <body>Not really. I was just about to give it the old college try based on text i found. I would say a general YouTube search should do you.</body>
+    </message>
+  </messages>
+</conversation>
+

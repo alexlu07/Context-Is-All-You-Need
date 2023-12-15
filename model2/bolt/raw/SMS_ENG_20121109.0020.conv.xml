@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-09 00:29:33 UTC">
+      <body>Hey there! So I was just invited to eat dinner with Robyn Ochs tomorrow evening. Would it be possible to reschedule our dinner date? Is there another meal this weekend that might work for you?</body>
+    </message>
+    <message id="m0001" participant="135264" time="2012-11-09 00:34:08 UTC">
+      <body>That sounds awesome! No worries. We totally can. How about Sunday brunch? </body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-09 00:36:44 UTC">
+      <body>Sounds great </body>
+    </message>
+  </messages>
+</conversation>

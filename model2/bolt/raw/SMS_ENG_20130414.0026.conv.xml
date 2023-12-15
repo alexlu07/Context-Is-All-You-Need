@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133118" time="2013-04-14 19:14:17 UTC">
+      <body>Groceries? </body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-04-14 19:15:44 UTC">
+      <body>Nope I'm working, thanks for asking though</body>
+    </message>
+    <message id="m0002" participant="133118" time="2013-04-14 19:16:14 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0003" participant="133118" time="2013-04-15 07:01:20 UTC">
+      <body>Hey your strawberries are still going, just fyi</body>
+    </message>
+  </messages>
+</conversation>

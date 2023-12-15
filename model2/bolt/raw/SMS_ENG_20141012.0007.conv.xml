@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141012.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-12 22:44:04 UTC" participant="153418">
+      <body>Hey, I just saw that you called.
+What's up?</body>
+    </message>
+    <message id="m0001" time="2014-10-12 22:57:30 UTC" participant="153445">
+      <body>Hello. Not much just want to say hi and catch up. How have you been? </body>
+    </message>
+    <message id="m0002" time="2014-10-12 23:00:36 UTC" participant="153418">
+      <body>I'm really busy with work nowadays. I usually drop by Philadelphia to see my dad and do bank/city hall business before I need to get back to Baltimore. Otherwise, I'm okay!
+
+How's your last year going? Job secured at PECO?</body>
+    </message>
+    <message id="m0003" time="2014-10-12 23:09:42 UTC" participant="153445">
+      <body>That's great man. Do you find your work more enjoyable now? You've been working there for a while. </body>
+    </message>
+    <message id="m0004" time="2014-10-12 23:09:53 UTC" participant="153445">
+      <body>No I haven't reach out yet. Although I should</body>
+    </message>
+  </messages>
+</conversation>
+

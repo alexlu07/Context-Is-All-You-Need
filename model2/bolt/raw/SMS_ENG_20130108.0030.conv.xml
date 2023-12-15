@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130108.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-08 23:30:20 UTC" participant="152554">
+      <body>Wanted to doublecheck were on for 8 tonight?</body>
+    </message>
+    <message id="m0001" time="2013-01-08 23:35:23 UTC" participant="152417">
+      <body>Yep, maybe slightu later cuz were a few of us are about to play at dobra, so 815 or 830 maybe more likely</body>
+    </message>
+    <message id="m0002" time="2013-01-08 23:36:08 UTC" participant="152554">
+      <body>No problem just give me a call when i should head over</body>
+    </message>
+  </messages>
+</conversation>
+

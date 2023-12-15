@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-14 17:55:21 UTC">
+      <body>happy valentine's day!</body>
+    </message>
+    <message id="m0001" participant="131359" time="2013-02-14 18:47:38 UTC">
+      <body>Thanx, foxy!!!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-14 18:49:09 UTC">
+      <body>how are you feeling?</body>
+    </message>
+    <message id="m0003" participant="131359" time="2013-02-14 18:50:57 UTC">
+      <body>Out of bed today, we'll see how it goes.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-14 18:51:34 UTC">
+      <body>yeah. i understand.</body>
+    </message>
+  </messages>
+</conversation>

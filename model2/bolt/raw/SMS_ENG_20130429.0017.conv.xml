@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131393" time="2013-04-29 23:33:23 UTC">
+      <body>Good afternoon. How you doin?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-04-30 00:05:50 UTC">
+      <body>Okay.
+
+How's you?</body>
+    </message>
+    <message id="m0002" participant="131393" time="2013-04-30 00:07:01 UTC">
+      <body>Good. 
+Getting excited about the end of the semester.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-30 00:07:56 UTC">
+      <body>Cool! Congrats!</body>
+    </message>
+    <message id="m0004" participant="131393" time="2013-04-30 00:10:43 UTC">
+      <body>How's the storage?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-30 00:15:25 UTC">
+      <body>Slow.</body>
+    </message>
+  </messages>
+</conversation>

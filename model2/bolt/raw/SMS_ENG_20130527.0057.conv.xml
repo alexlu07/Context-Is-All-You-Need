@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137313" time="2013-05-27 14:25:36 UTC">
+      <body>I'm going to come get you at just about 4:00 today, okay?</body>
+    </message>
+    <message id="m0001" participant="137313" time="2013-05-27 16:47:52 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-27 18:53:27 UTC">
+      <body>Yes please! </body>
+    </message>
+    <message id="m0003" participant="137313" time="2013-05-27 18:54:01 UTC">
+      <body>Ok I'll be coming in about an hour</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-27 18:55:53 UTC">
+      <body>Am I supposed to look nice? Or just jeans? </body>
+    </message>
+    <message id="m0005" participant="137313" time="2013-05-27 18:57:04 UTC">
+      <body>Hahah this is a baseball game. Definitely jeans or whatnot</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-05-28 02:05:09 UTC">
+      <body>Really great time! Thank you to you and your parents! </body>
+    </message>
+    <message id="m0007" participant="137313" time="2013-05-28 02:09:31 UTC">
+      <body>Aw glad to hear it! Glad you were there!</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-05-28 02:09:46 UTC">
+      <body>Glad I was there to! </body>
+    </message>
+  </messages>
+</conversation>

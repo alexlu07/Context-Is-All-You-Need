@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140828.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-28 14:38:56 UTC" participant="153804">
+      <body>We're heading up to the cottage tomorrow are you going this weekend</body>
+    </message>
+    <message id="m0001" time="2014-08-28 14:50:32 UTC" participant="153813">
+      <body>Yes. Leaving late Friday nite.</body>
+    </message>
+    <message id="m0002" time="2014-08-28 14:52:59 UTC" participant="153804">
+      <body>See you there</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120629.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130913" time="2012-06-29 17:54:37 UTC">
+      <body> If not, I can still make it today -- just checking. And if tomorrow works for you, I can do any time.</body>
+    </message>
+    <message id="m0002" participant="130755" time="2012-06-29 17:55:31 UTC">
+      <body>Hey Alison! Tomorrow I could meet you at 8pm, does that work? </body>
+    </message>
+    <message id="m0003" participant="130755" time="2012-06-29 17:56:17 UTC">
+      <body>Or if you wanted to meet at a later point today I'm free until 8:30</body>
+    </message>
+    <message id="m0004" participant="130913" time="2012-06-29 18:05:36 UTC">
+      <body>Tomorrow totally works! My schedule is all solo art at the moment,  so I'm flexible with time. Tomorrow at 8pm sounds perfect :)</body>
+    </message>
+    <message id="m0005" participant="130755" time="2012-06-29 18:06:53 UTC">
+      <body>Great! I get done at 7 in nj so if I'm running late i'll letcha know!</body>
+    </message>
+    <message id="m0006" participant="130913" time="2012-06-29 18:17:47 UTC">
+      <body>Perfect.  Thank you for being so flexible! </body>
+    </message>
+    <message id="m0007" participant="130913" time="2012-06-30 23:25:28 UTC">
+      <body>8 still work?</body>
+    </message>
+    <message id="m0008" participant="130755" time="2012-06-30 23:33:35 UTC">
+      <body>Yup! I'm there now so come whenever!</body>
+    </message>
+    <message id="m0009" participant="130913" time="2012-06-30 23:34:32 UTC">
+      <body>Cool- gettn my bike now:)</body>
+    </message>
+  </messages>
+</conversation>

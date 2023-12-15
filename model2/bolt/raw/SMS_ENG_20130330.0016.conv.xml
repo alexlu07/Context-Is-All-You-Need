@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-30 20:24:06 UTC">
+      <body>hey.</body>
+    </message>
+    <message id="m0001" participant="131353" time="2013-03-30 20:39:51 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-30 20:41:54 UTC">
+      <body>mon at 10? or tues?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-30 20:42:26 UTC">
+      <body>forgot.</body>
+    </message>
+    <message id="m0004" participant="131353" time="2013-03-30 21:05:07 UTC">
+      <body>Tues</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-03-30 22:10:54 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0006" participant="131353" time="2013-03-30 22:24:42 UTC">
+      <body>How are you doing? </body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-03-30 22:25:55 UTC">
+      <body>shitty, but okay...</body>
+    </message>
+    <message id="m0008" participant="131353" time="2013-03-30 22:27:48 UTC">
+      <body>How was Az? </body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-03-30 22:27:57 UTC">
+      <body>cricket broke up with me and kicked me out.</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-03-30 22:28:36 UTC">
+      <body>az was ok.</body>
+    </message>
+    <message id="m0011" participant="131353" time="2013-03-30 22:28:39 UTC">
+      <body>Seriously? </body>
+    </message>
+    <message id="m0012" participant="131350" time="2013-03-30 22:29:45 UTC">
+      <body>moving out today.</body>
+    </message>
+    <message id="m0013" participant="131353" time="2013-03-30 22:35:30 UTC">
+      <body>Should we postpone Tuesday? </body>
+    </message>
+    <message id="m0014" participant="131350" time="2013-03-30 22:37:04 UTC">
+      <body>hell no!</body>
+    </message>
+    <message id="m0015" participant="131353" time="2013-03-30 22:53:33 UTC">
+      <body>Ok just checking </body>
+    </message>
+    <message id="m0016" participant="131350" time="2013-03-30 22:53:51 UTC">
+      <body>i appreciate it.</body>
+    </message>
+  </messages>
+</conversation>

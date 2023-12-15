@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120627.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-27 23:23:02 UTC">
+      <body>Hey nick, I'm super excited for this weekend! But could I have some details regarding the schedule?</body>
+    </message>
+    <message id="m0001" participant="136222" time="2012-06-27 23:36:17 UTC">
+      <body>Later man working atm</body>
+    </message>
+  </messages>
+</conversation>

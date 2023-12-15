@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 23:49:55 UTC" participant="153548">
+      <body>Sweet!</body>
+    </message>
+    <message id="m0001" time="2013-12-29 23:50:25 UTC" participant="153548">
+      <body>￼I finished the
+Meatballs with mashed turnips.</body>
+    </message>
+    <message id="m0002" time="2013-12-29 23:50:46 UTC" participant="153632">
+      <body>Looks delish!!</body>
+    </message>
+    <message id="m0003" time="2013-12-29 23:56:59 UTC" participant="153548">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2013-12-29 23:57:14 UTC" participant="153548">
+      <body>They look like chickens</body>
+    </message>
+    <message id="m0005" time="2013-12-29 23:57:25 UTC" participant="153632">
+      <body>Buddies</body>
+    </message>
+  </messages>
+</conversation>
+

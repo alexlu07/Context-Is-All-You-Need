@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121124.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-24 22:02:15 UTC">
+      <body>Hello Katya!!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-24 22:02:22 UTC">
+      <body>I am back in boston</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-24 22:02:44 UTC">
+      <body>And would love to see you if you have time for something quick?</body>
+    </message>
+    <message id="m0003" participant="135374" time="2012-11-24 23:13:04 UTC">
+      <body>Welcome back!! My friend Julia is having a brunch at her apartment near Coolidge corner in Brookline around noon-- want to come? Ill send you the address</body>
+    </message>
+    <message id="m0004" participant="135374" time="2012-11-25 01:38:08 UTC">
+      <body>Address: ￼</body>
+    </message>
+    <message id="m0005" participant="135374" time="2012-11-25 01:38:08 UTC">
+      <body>Ill call you when I'm headed over, and hopefully we can coordinate! But no worries if not :) miss you love you!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-25 15:23:47 UTC">
+      <body>Katya I'm sorry.  I can't go.  I'm too intimidated by my homework to leave it alone.  I'm lame. Don't take it personally </body>
+    </message>
+    <message id="m0007" participant="135374" time="2012-11-25 15:25:52 UTC">
+      <body>Aw that's too bad. Come one! Are you sure? </body>
+    </message>
+    <message id="m0008" participant="135374" time="2012-11-25 15:25:52 UTC">
+      <body>Don't you live near Coolidge corner? If you're really stressed though, no worries</body>
+    </message>
+  </messages>
+</conversation>

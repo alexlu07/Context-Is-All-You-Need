@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 17:01:05 UTC" participant="152574">
+      <body>Gabi, what's your status this semester? Studying with me? Do you have any open slots on wed? Let me know....</body>
+    </message>
+    <message id="m0001" time="2015-01-20 19:53:30 UTC" participant="152417">
+      <body> Hey Kevin, yep.  I'm free anytime before 3 on Wednesdays</body>
+    </message>
+    <message id="m0002" time="2015-01-20 19:56:48 UTC" participant="152574">
+      <body>Cool, probably do a 1 pm lesson with you this semester...I have to meet with Bruce at 12...except for tomorrow! Can we meet at 2 tomorrow?</body>
+    </message>
+    <message id="m0003" time="2015-01-20 20:51:35 UTC" participant="152417">
+      <body>Sure, see you then.  Do we have a room for this semester?</body>
+    </message>
+    <message id="m0004" time="2015-01-20 20:54:24 UTC" participant="152574">
+      <body>What, you don't like being bass nomads?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-28 18:08:36 UTC">
+      <body>hey, man...
+sorry for the delay in getting back to you.
+11:30 saturday is great.
+because of the distance, it'll be $30 per lesson. 
+what's the address?
+thanks!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-28 18:51:52 UTC">
+      <body>cool. see you saturday at 1130!</body>
+    </message>
+  </messages>
+</conversation>

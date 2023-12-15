@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2013-02-25 21:29:48 UTC">
+      <body>Are we chatting tonight @ 4?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-02-25 21:30:24 UTC">
+      <body>Yeah, if you're free!</body>
+    </message>
+    <message id="m0002" participant="131023" time="2013-02-25 21:31:15 UTC">
+      <body>Works for me!  Talk to you soon Pix!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-02-25 22:36:57 UTC">
+      <body>Ack! I.forgot to schedule time for me to.make/eat dinner! Can we do 4:30?</body>
+    </message>
+    <message id="m0004" participant="131023" time="2013-02-25 22:38:13 UTC">
+      <body>How about 5? Then I can walk Annie first.</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-02-25 22:40:47 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0006" participant="131023" time="2013-02-25 22:49:16 UTC">
+      <body>Ok see you then.:-)</body>
+    </message>
+  </messages>
+</conversation>

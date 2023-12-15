@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-22 16:38:45 UTC">
+      <body>Hey Lotus.</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-07-22 16:39:36 UTC">
+      <body>Hey how its going?</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-22 16:42:18 UTC">
+      <body>Not too bad. Missed my train so now I have to wait an hour for the next one. How are you?</body>
+    </message>
+    <message id="m0003" participant="130751" time="2013-07-22 16:43:13 UTC">
+      <body>That sucks</body>
+    </message>
+    <message id="m0004" participant="130751" time="2013-07-22 16:44:06 UTC">
+      <body>My baby is taking a little nap finally i am getting some major to dos out of the way;)</body>
+    </message>
+    <message id="m0005" participant="134920" time="2013-07-22 16:45:48 UTC">
+      <body>How old is your baby? Nap time is incredible, but I often find myself just wanting to sleep, too. Granted I'm not a parent just an uncle so I'm not used to it.</body>
+    </message>
+    <message id="m0006" participant="130751" time="2013-07-22 16:46:45 UTC">
+      <body>He is almost 1!!</body>
+    </message>
+    <message id="m0007" participant="134920" time="2013-07-22 16:47:32 UTC">
+      <body>Awesome. So he'll sleep for an hour about?</body>
+    </message>
+  </messages>
+</conversation>

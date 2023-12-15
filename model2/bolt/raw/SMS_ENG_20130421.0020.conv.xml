@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131463" time="2013-04-21 21:38:32 UTC">
+      <body>Hey are you bringing Dan? I.e should Leighann be coming?</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-04-21 21:38:51 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-04-22 16:40:28 UTC">
+      <body>There's like a field trip or something up here. What. The. Fuck. Unsure what to do for seating arrangements.</body>
+    </message>
+    <message id="m0004" participant="131463" time="2013-04-22 16:45:55 UTC">
+      <body>What are we doin?</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-04-22 16:46:30 UTC">
+      <body>They're clearing out, got a table</body>
+    </message>
+  </messages>
+</conversation>

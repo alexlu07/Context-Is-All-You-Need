@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131839" time="2013-06-15 09:05:18 UTC">
+      <body>Hi there, how are you? And what does your username mean?</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-06-15 12:12:22 UTC">
+      <body>Hi! I'm doing well, yourself? And it means "cradle song" so...essentially lullaby.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2013-06-15 12:20:50 UTC">
+      <body>I'm doing well too, I have friends in town and we're exploring :) I knew it had something to do with music - I sing opera from time to time and -lied looked familiar</body>
+    </message>
+    <message id="m0003" participant="130616" time="2013-06-15 12:30:50 UTC">
+      <body>Very nice! I honestly miss my choir. :'(</body>
+    </message>
+    <message id="m0004" participant="131839" time="2013-06-15 12:43:35 UTC">
+      <body>Awwwww, when/where was choir?</body>
+    </message>
+    <message id="m0005" participant="130616" time="2013-06-15 13:29:57 UTC">
+      <body>It was my high school choir and my youth opera. We went everywhere; Scotland, Ireland, Germany, etc. Honestly miss it; was like a second family.</body>
+    </message>
+    <message id="m0006" participant="131839" time="2013-06-15 13:44:50 UTC">
+      <body>That sounds great - must have been a great choir!!</body>
+    </message>
+  </messages>
+</conversation>

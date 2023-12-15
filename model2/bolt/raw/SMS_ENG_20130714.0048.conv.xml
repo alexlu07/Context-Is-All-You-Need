@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-14 19:09:11 UTC" participant="152374">
+      <body>Are you around this evening? Want to grab dinner at Belgian? Haven't seen you in a long while :-(</body>
+    </message>
+    <message id="m0001" time="2013-07-14 20:13:06 UTC" participant="153464">
+      <body>It is kinda crazy. Sadly, though, it will be yet a bit longer, as this afternoon and evening are spoken fer</body>
+    </message>
+    <message id="m0002" time="2013-07-14 21:24:05 UTC" participant="152374">
+      <body>Ok, thanks for letting me know</body>
+    </message>
+  </messages>
+</conversation>
+

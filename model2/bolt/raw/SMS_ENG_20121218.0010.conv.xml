@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121218.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135459" time="2012-12-18 01:59:28 UTC">
+      <body>Dears I'm going home, sorry i cant stay for the rehearsal but the tenant is waiting for me</body>
+    </message>
+    <message id="m0001" participant="135459" time="2012-12-18 02:01:36 UTC">
+      <body>Would you send me the picture which you're going to use in the presentation so that we will show the same one </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-18 03:20:29 UTC">
+      <body>I didn't put it in </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-18 03:20:36 UTC">
+      <body>See u in the morning</body>
+    </message>
+    <message id="m0004" participant="135459" time="2012-12-18 12:56:32 UTC">
+      <body>Sofie I just got up, can't get school by 8 but I'll be there as soon as possible</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-12-18 13:10:24 UTC">
+      <body>Come</body>
+    </message>
+  </messages>
+</conversation>

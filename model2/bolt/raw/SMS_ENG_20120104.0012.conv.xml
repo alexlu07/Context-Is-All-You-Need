@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120104.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-01-04 17:41:20 UTC" participant="152377">
+      <body>Of course! Provided eric promises to get me home. :)</body>
+    </message>
+    <message id="m0001" time="2012-01-04 17:42:49 UTC" participant="152374">
+      <body>Eric says he promises. YAY!!</body>
+    </message>
+    <message id="m0002" time="2012-01-04 17:44:57 UTC" participant="152377">
+      <body>Sigh. Someday you and i should coerce or trick him into skating</body>
+    </message>
+    <message id="m0003" time="2012-01-04 17:45:26 UTC" participant="152374">
+      <body>Agreed. We can work on strategy tomorrow</body>
+    </message>
+    <message id="m0004" time="2012-01-04 17:46:20 UTC" participant="152377">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

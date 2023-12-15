@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140816.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-16 16:48:30 UTC" participant="153900">
+      <body>Call me</body>
+    </message>
+    <message id="m0001" time="2014-08-16 23:49:49 UTC" participant="153900">
+      <body>Victor is going to bring you the clothes I got you and steph the same eagles shirt did not know</body>
+    </message>
+    <message id="m0002" time="2014-08-16 23:50:57 UTC" participant="153244">
+      <body>Ok im not home im at the wedding.  Tell him to text Steph.  She might be out</body>
+    </message>
+    <message id="m0003" time="2014-08-16 23:52:06 UTC" participant="153900">
+      <body>What wedding are You at</body>
+    </message>
+    <message id="m0004" time="2014-08-17 14:28:24 UTC" participant="153900">
+      <body>Hey did the clothes fit you</body>
+    </message>
+    <message id="m0005" time="2014-08-17 14:59:42 UTC" participant="153244">
+      <body>Jacket fit. I didn't try the shirts yet but loos like they will fit</body>
+    </message>
+    <message id="m0006" time="2014-08-17 15:00:17 UTC" participant="153900">
+      <body>Ok call me</body>
+    </message>
+  </messages>
+</conversation>
+

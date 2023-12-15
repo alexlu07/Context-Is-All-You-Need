@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-06-12 23:08:21 UTC">
+      <body>How is work?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-13 02:26:55 UTC">
+      <body>Good! Intense. Kind of political. Slightly overwhelming. But good. How have you been? We should Skype soon!</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-06-13 04:41:21 UTC">
+      <body>I would love to skype! I'm sorry work is so political and that you </body>
+    </message>
+    <message id="m0003" participant="135265" time="2013-06-13 04:41:24 UTC">
+      <body>can't tell people about Anna.</body>
+    </message>
+  </messages>
+</conversation>

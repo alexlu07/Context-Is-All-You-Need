@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 20:02:40 UTC" participant="152417">
+      <body>Hey Greg, my other potential buyer was a no show.  So the car is yours for $4,500</body>
+    </message>
+    <message id="m0001" time="2014-11-01 20:09:36 UTC" participant="152594">
+      <body>Awesome. I can write you a check today if you'd like.</body>
+    </message>
+    <message id="m0002" time="2014-11-01 20:21:48 UTC" participant="152417">
+      <body>Let me find out if we need an appointment at the auto tags office.  Can you pay me in a cashiers check instead of a personal check?  And you can pay me whenever we meet to sign it over </body>
+    </message>
+    <message id="m0003" time="2014-11-01 20:27:37 UTC" participant="152594">
+      <body>Sure no problem. I'll get a cashiers check Monday. </body>
+    </message>
+    <message id="m0004" time="2014-11-01 21:45:36 UTC" participant="152594">
+      <body>When you get a chance can you send me the VIN so I can update my insurance? No rush. </body>
+    </message>
+    <message id="m0005" time="2014-11-01 23:04:24 UTC" participant="152417">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

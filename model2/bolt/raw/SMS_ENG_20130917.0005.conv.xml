@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130917.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-17 15:14:48 UTC" participant="154352">
+      <body>Are you going salsa dancing tonight?</body>
+    </message>
+    <message id="m0001" time="2013-09-17 17:12:26 UTC" participant="154406">
+      <body>i doubt it. work is killing me slowly</body>
+    </message>
+    <message id="m0002" time="2013-09-17 17:35:37 UTC" participant="154352">
+      <body>=/ Want to get together later this week?</body>
+    </message>
+    <message id="m0003" time="2013-09-17 23:06:29 UTC" participant="154406">
+      <body>i am busy but next week?</body>
+    </message>
+    <message id="m0004" time="2013-09-18 01:03:15 UTC" participant="154352">
+      <body>Yeah. When are you available?</body>
+    </message>
+  </messages>
+</conversation>
+

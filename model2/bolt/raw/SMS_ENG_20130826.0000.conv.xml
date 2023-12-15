@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130826.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-26 20:03:42 UTC" participant="152535">
+      <body>￼Gabi! What's up with this bar. Are these are the eighth notes supposed to be sixteenth a with eight rest?</body>
+    </message>
+    <message id="m0001" time="2013-08-27 01:26:05 UTC" participant="152417">
+      <body>Theyre triplets</body>
+    </message>
+    <message id="m0002" time="2013-08-27 01:33:51 UTC" participant="152535">
+      <body>Cool thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

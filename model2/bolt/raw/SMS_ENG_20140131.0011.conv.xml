@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140131.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-31 00:09:19 UTC" participant="153553">
+      <body>Just getting home. Gonna eat some food and then come over...be there in like an hour! :)</body>
+    </message>
+    <message id="m0001" time="2014-01-31 00:23:12 UTC" participant="153548">
+      <body>Take ur time! I'm cleaning the bathroom.</body>
+    </message>
+    <message id="m0002" time="2014-01-31 01:01:55 UTC" participant="153553">
+      <body>Should I wear my pjs over??</body>
+    </message>
+    <message id="m0003" time="2014-01-31 01:02:18 UTC" participant="153548">
+      <body>Yeah! Bring your house coat!</body>
+    </message>
+    <message id="m0004" time="2014-01-31 01:02:24 UTC" participant="153548">
+      <body>I'm gunna wear mine.</body>
+    </message>
+    <message id="m0005" time="2014-01-31 01:04:13 UTC" participant="153553">
+      <body>My favorite!</body>
+    </message>
+    <message id="m0006" time="2014-01-31 01:04:21 UTC" participant="153553">
+      <body>Coming in 15!</body>
+    </message>
+    <message id="m0007" time="2014-01-31 01:05:55 UTC" participant="153548">
+      <body>See ya soon!!!</body>
+    </message>
+    <message id="m0008" time="2014-01-31 05:26:03 UTC" participant="153553">
+      <body>Home!</body>
+    </message>
+    <message id="m0009" time="2014-01-31 05:28:32 UTC" participant="153548">
+      <body>Yay! Thanks for
+Coming over!!</body>
+    </message>
+  </messages>
+</conversation>
+

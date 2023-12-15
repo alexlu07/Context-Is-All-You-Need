@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141227.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-27 01:14:01 UTC" participant="153547">
+      <body>Are you in town? I'm gonna burn some wood and have some beers</body>
+    </message>
+    <message id="m0001" time="2014-12-27 01:15:31 UTC" participant="149364">
+      <body>Yeah, I'm around. When ya burning?</body>
+    </message>
+    <message id="m0002" time="2014-12-27 01:16:16 UTC" participant="153547">
+      <body>In a minute. I won't be up too late so come on by if you can</body>
+    </message>
+    <message id="m0003" time="2014-12-27 01:17:54 UTC" participant="149364">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

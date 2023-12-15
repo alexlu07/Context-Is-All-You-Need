@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140930.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-30 19:07:20 UTC" participant="152571">
+      <body>Wanna do 5 again?</body>
+    </message>
+    <message id="m0001" time="2014-09-30 19:11:17 UTC" participant="152417">
+      <body> Sure</body>
+    </message>
+    <message id="m0002" time="2014-10-01 16:57:36 UTC" participant="152571">
+      <body>Monday- room 715. </body>
+    </message>
+    <message id="m0003" time="2014-10-01 19:00:22 UTC" participant="152571">
+      <body>530pm (although I think you marked that in already)</body>
+    </message>
+  </messages>
+</conversation>
+

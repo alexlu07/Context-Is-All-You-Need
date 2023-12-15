@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131017.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-17 19:28:37 UTC" participant="153449">
+      <body>When did you move.   </body>
+    </message>
+    <message id="m0001" time="2013-10-17 19:31:36 UTC" participant="153449">
+      <body>What days do you have off</body>
+    </message>
+    <message id="m0002" time="2013-10-17 19:32:26 UTC" participant="153418">
+      <body>Moved 10th. Sat and Sun off. </body>
+    </message>
+  </messages>
+</conversation>
+

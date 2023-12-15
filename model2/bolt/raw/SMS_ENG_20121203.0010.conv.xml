@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121203.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-12-03 17:47:18 UTC">
+      <body>Hi Patricia, I really would like to see you, but the next two weeks are so busy with school. Could we set something up for over break?</body>
+    </message>
+    <message id="m0001" participant="131054" time="2012-12-03 21:39:08 UTC">
+      <body>How about dec 18th at 1 pm at wtc? Let me know asap!</body>
+    </message>
+    <message id="m0002" participant="131054" time="2012-12-03 21:40:00 UTC">
+      <body>I meant noon on the 18th!</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-12-03 21:41:33 UTC">
+      <body>Yes that works, see you then at noon!</body>
+    </message>
+    <message id="m0004" participant="131054" time="2012-12-03 21:42:34 UTC">
+      <body>Ok 18th at noon at WTC</body>
+    </message>
+  </messages>
+</conversation>

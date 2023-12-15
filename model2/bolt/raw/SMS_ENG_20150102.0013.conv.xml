@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 16:19:12 UTC" participant="153649">
+      <body>What are you guys up to today?</body>
+    </message>
+    <message id="m0001" time="2015-01-02 16:56:15 UTC" participant="153548">
+      <body>I'm at the studio today</body>
+    </message>
+    <message id="m0002" time="2015-01-02 17:50:54 UTC" participant="153548">
+      <body>Do you wanna get dinner tonight or breakfast tomorrow before you leave?</body>
+    </message>
+    <message id="m0003" time="2015-01-02 17:54:04 UTC" participant="153649">
+      <body>Yeah, definitely. Let me know when you're done at the studio. </body>
+    </message>
+    <message id="m0004" time="2015-01-02 22:42:25 UTC" participant="153548">
+      <body>I am working til about 7. What are you up to tonigjt</body>
+    </message>
+    <message id="m0005" time="2015-01-02 22:53:00 UTC" participant="153649">
+      <body>Han dynasty at 8 maybe? Interested in that?</body>
+    </message>
+    <message id="m0006" time="2015-01-02 23:55:17 UTC" participant="153548">
+      <body>I'm going to a screening at 9 :(</body>
+    </message>
+    <message id="m0007" time="2015-01-02 23:56:00 UTC" participant="153649">
+      <body>Boo. Maybe breakfast tomorrow?</body>
+    </message>
+    <message id="m0008" time="2015-01-02 23:57:25 UTC" participant="153548">
+      <body>Yeah if you can do early. Otherwise next time!</body>
+    </message>
+    <message id="m0009" time="2015-01-03 13:37:04 UTC" participant="153548">
+      <body>are you up  lets go to sabrinas!</body>
+    </message>
+  </messages>
+</conversation>
+

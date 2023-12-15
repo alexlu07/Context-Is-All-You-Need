@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130206.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-06 04:24:41 UTC" participant="153443">
+      <body>Nope!</body>
+    </message>
+    <message id="m0001" time="2013-02-06 13:25:53 UTC" participant="153443">
+      <body>could you ask het again?</body>
+    </message>
+    <message id="m0002" time="2013-02-06 13:26:23 UTC" participant="153418">
+      <body>Yeah, I'll ask her again today.</body>
+    </message>
+    <message id="m0003" time="2013-02-06 14:29:47 UTC" participant="153443">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>
+

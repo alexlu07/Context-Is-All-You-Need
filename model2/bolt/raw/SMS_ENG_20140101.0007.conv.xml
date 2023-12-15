@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 23:06:03 UTC" participant="153489">
+      <body>Hey we have an extra ticket to see American Hustle tonight at the tavern at 730. Interested?</body>
+    </message>
+    <message id="m0001" time="2014-01-01 23:08:10 UTC" participant="152374">
+      <body>The tavern is a little too much of a hike for me on a work night, but thanks anyway. Happy new year :)</body>
+    </message>
+    <message id="m0002" time="2014-01-01 23:08:42 UTC" participant="153489">
+      <body>Happy New Year to you too!</body>
+    </message>
+  </messages>
+</conversation>
+

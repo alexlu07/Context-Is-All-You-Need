@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140224.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-24 15:13:32 UTC" participant="152116">
+      <body>My sessions at 12 so I'll be done at 1</body>
+    </message>
+    <message id="m0001" time="2014-02-24 16:38:31 UTC" participant="153491">
+      <body>Do you have extra headphones? I lost mine :(</body>
+    </message>
+    <message id="m0002" time="2014-02-24 16:44:41 UTC" participant="152116">
+      <body>No sorry. But there is a cvs if you want to buy them</body>
+    </message>
+    <message id="m0003" time="2014-02-24 17:50:08 UTC" participant="153491">
+      <body>Okay. I'm looking for my stuff so I should be there closer to 1:30-2. I'll call when I'm there.</body>
+    </message>
+    <message id="m0004" time="2014-02-24 18:04:35 UTC" participant="152116">
+      <body>Should I go to 34th or commons?</body>
+    </message>
+    <message id="m0005" time="2014-02-24 18:06:17 UTC" participant="153491">
+      <body>Actually, would your s going to CVS and buying me the cheapest headphones possible?</body>
+    </message>
+    <message id="m0006" time="2014-02-24 18:06:34 UTC" participant="153491">
+      <body>And keep the receipt because I might return it :)</body>
+    </message>
+    <message id="m0007" time="2014-02-24 18:11:56 UTC" participant="152116">
+      <body>Haha ok</body>
+    </message>
+    <message id="m0008" time="2014-02-24 18:41:38 UTC" participant="153491">
+      <body>No parking. I'm on 43rd.</body>
+    </message>
+    <message id="m0009" time="2014-02-24 18:53:42 UTC" participant="152116">
+      <body>Did you park yet?</body>
+    </message>
+    <message id="m0010" time="2014-02-24 20:32:33 UTC" participant="153491">
+      <body>What do you want?</body>
+    </message>
+    <message id="m0011" time="2014-02-24 20:37:45 UTC" participant="153491">
+      <body>???</body>
+    </message>
+    <message id="m0012" time="2014-02-24 20:40:05 UTC" participant="152116">
+      <body>Burrito bowl. White rice, black beans, steak, hot sauce (little extra), cheese, lettuce sour cream, and cup for water please</body>
+    </message>
+    <message id="m0013" time="2014-02-25 02:57:27 UTC" participant="153491">
+      <body>Ahhhhh it's so cold out!</body>
+    </message>
+    <message id="m0014" time="2014-02-25 03:00:14 UTC" participant="152116">
+      <body>Yeah last night spoiled us</body>
+    </message>
+    <message id="m0015" time="2014-02-25 03:50:19 UTC" participant="153491">
+      <body>Yea, I miss last night's weather compared to this. It's the "give you a headache" kind of cold.</body>
+    </message>
+  </messages>
+</conversation>
+

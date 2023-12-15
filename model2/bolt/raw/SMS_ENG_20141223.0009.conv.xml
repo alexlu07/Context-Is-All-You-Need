@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141223.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-23 22:30:52 UTC" participant="153431">
+      <body>Want to wish you and your family a very merry christmas and a happy and safe new years.</body>
+    </message>
+    <message id="m0001" time="2014-12-23 22:32:46 UTC" participant="153417">
+      <body>I don't have your number saved, who is this?</body>
+    </message>
+    <message id="m0002" time="2014-12-23 22:35:00 UTC" participant="153431">
+      <body>Benny lok.</body>
+    </message>
+    <message id="m0003" time="2014-12-23 22:35:10 UTC" participant="153431">
+      <body>Lol.</body>
+    </message>
+    <message id="m0004" time="2014-12-23 22:35:33 UTC" participant="153417">
+      <body>Oh! Lol thank you! Hope you and your family have a merry Christmas too :)</body>
+    </message>
+  </messages>
+</conversation>
+

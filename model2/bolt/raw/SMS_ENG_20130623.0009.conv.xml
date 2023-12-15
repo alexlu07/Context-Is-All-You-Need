@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130578" time="2013-06-23 14:34:29 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131201" time="2013-06-23 14:40:07 UTC">
+      <body>Bello!</body>
+    </message>
+    <message id="m0002" participant="131201" time="2013-06-23 14:41:06 UTC">
+      <body>Oops wrong Lang</body>
+    </message>
+    <message id="m0003" participant="131201" time="2013-06-23 14:41:06 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0004" participant="130578" time="2013-06-23 14:43:49 UTC">
+      <body>Haha np. How are you?</body>
+    </message>
+    <message id="m0005" participant="131201" time="2013-06-23 22:25:19 UTC">
+      <body>Good.</body>
+    </message>
+    <message id="m0006" participant="131201" time="2013-06-23 22:25:44 UTC">
+      <body>Sorry phone had died.</body>
+    </message>
+    <message id="m0007" participant="131201" time="2013-06-23 22:25:44 UTC">
+      <body>It was grey in the bay.</body>
+    </message>
+  </messages>
+</conversation>

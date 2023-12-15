@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 11:59:57 UTC" participant="152116">
+      <body>Hey. How's it going? Did Akiha leave?</body>
+    </message>
+    <message id="m0001" time="2015-03-24 12:08:13 UTC" participant="153418">
+      <body>Hey, she's still here. She leaves tomorrow.</body>
+    </message>
+    <message id="m0002" time="2015-03-24 12:10:12 UTC" participant="152116">
+      <body>Oh we thought it was the 24th. Okay! Have fun today.</body>
+    </message>
+  </messages>
+</conversation>
+

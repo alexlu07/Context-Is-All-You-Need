@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141001.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-01 15:33:54 UTC" participant="152417">
+      <body>Im in 715 and its free for the day</body>
+    </message>
+    <message id="m0001" time="2014-10-01 15:34:24 UTC" participant="152574">
+      <body>Ok... You didn't like 610?</body>
+    </message>
+    <message id="m0002" time="2014-10-01 15:45:30 UTC" participant="152417">
+      <body>715 has a better stereo and no chairs</body>
+    </message>
+  </messages>
+</conversation>
+

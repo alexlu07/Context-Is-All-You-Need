@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 03:33:42 UTC" participant="153900">
+      <body>Are you up</body>
+    </message>
+    <message id="m0001" time="2014-01-24 03:40:11 UTC" participant="153244">
+      <body>Yea why? Call the house phone</body>
+    </message>
+    <message id="m0002" time="2014-01-24 03:40:57 UTC" participant="153900">
+      <body>Call my cell</body>
+    </message>
+    <message id="m0003" time="2014-01-24 04:03:04 UTC" participant="153244">
+      <body>Her interest rate is 26% and it put 120 extra on her card.  60 for January and 60 for dec</body>
+    </message>
+    <message id="m0004" time="2014-01-24 04:05:57 UTC" participant="153900">
+      <body>That is alot of interest she should get she of that card most cards are less them that</body>
+    </message>
+    <message id="m0005" time="2014-01-24 04:14:50 UTC" participant="153244">
+      <body>Well that's the card she has. </body>
+    </message>
+    <message id="m0006" time="2014-01-24 04:15:11 UTC" participant="153244">
+      <body>I'm going to bed so ill ttyl</body>
+    </message>
+  </messages>
+</conversation>
+

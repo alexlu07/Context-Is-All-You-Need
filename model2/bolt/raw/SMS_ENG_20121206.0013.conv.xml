@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121206.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-06 22:29:50 UTC">
+      <body>Wait are you here???</body>
+    </message>
+    <message id="m0001" participant="135293" time="2012-12-06 22:37:55 UTC">
+      <body>Going to be at the info session soon! </body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-06 22:40:32 UTC">
+      <body>Are you eating here/will you be around after?</body>
+    </message>
+    <message id="m0003" participant="135293" time="2012-12-06 22:43:12 UTC">
+      <body>It depends on what Emily and Peter are doing after because they are our rides. But I think I am just eating snacks at the CPGC? I will be around for a little bit after to answer questions though! </body>
+    </message>
+    <message id="m0004" participant="135293" time="2012-12-06 23:00:16 UTC">
+      <body>Just got here! </body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-12-06 23:00:48 UTC">
+      <body>Where? CPGC cafe?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131231.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-31 21:28:22 UTC" participant="153560">
+      <body>What kind of lighting system do you have for your studio setup? Track lighting?</body>
+    </message>
+    <message id="m0001" time="2013-12-31 21:31:40 UTC" participant="153547">
+      <body>Track halogen plus 4' fluorescent tubes</body>
+    </message>
+    <message id="m0002" time="2013-12-31 21:32:04 UTC" participant="153560">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" time="2013-12-31 21:32:52 UTC" participant="153547">
+      <body>Yeah it's bright and flat. Color balance is pretty good compared to either by itself</body>
+    </message>
+    <message id="m0004" time="2013-12-31 21:36:13 UTC" participant="153560">
+      <body>Ok. Trying to setup my space in the next couple of days. </body>
+    </message>
+    <message id="m0005" time="2014-01-01 19:08:10 UTC" participant="153560">
+      <body>Happy New Year!</body>
+    </message>
+  </messages>
+</conversation>
+

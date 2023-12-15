@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132550" time="2013-07-07 03:27:57 UTC">
+      <body>I'm watching episode 10 now</body>
+    </message>
+    <message id="m0001" participant="132550" time="2013-07-07 04:30:41 UTC">
+      <body>Thank you for turning me onto the newsroom. They went crazy on the tea party.</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-07 20:17:16 UTC">
+      <body>Oh don't tell me too much! I'm still on 5</body>
+    </message>
+  </messages>
+</conversation>

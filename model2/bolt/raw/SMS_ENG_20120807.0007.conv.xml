@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120807.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-08-07 01:09:06 UTC">
+      <body>R u on the train?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-07 01:16:14 UTC">
+      <body>Yes we should arrive at 10:15</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-08-07 02:14:06 UTC">
+      <body>Ok have a good time and say hi to Abner. Talk tomorrow. XO</body>
+    </message>
+  </messages>
+</conversation>

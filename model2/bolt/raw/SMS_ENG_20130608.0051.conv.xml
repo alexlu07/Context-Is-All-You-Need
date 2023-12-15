@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-06-08 14:52:33 UTC">
+      <body>What is your mom's middle name?</body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-06-08 14:53:45 UTC">
+      <body>Lorraine</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-06-08 14:54:07 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-06-08 14:54:50 UTC">
+      <body>Now they are asking about  the nickname of your grandfather !!!!</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-06-08 15:06:56 UTC">
+      <body>I need to transfer money to Soraya account. They locked me out. Need your password for gmail </body>
+    </message>
+  </messages>
+</conversation>

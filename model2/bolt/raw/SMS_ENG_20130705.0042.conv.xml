@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137326" time="2013-07-05 05:31:43 UTC">
+      <body>The date on facebook is wrong...</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-05 05:32:19 UTC">
+      <body>When is it? </body>
+    </message>
+    <message id="m0002" participant="137326" time="2013-07-05 05:51:29 UTC">
+      <body>Not sure yet</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-07-05 05:53:56 UTC">
+      <body>But it's not the 6th? </body>
+    </message>
+    <message id="m0004" participant="137326" time="2013-07-05 13:53:56 UTC">
+      <body>Nope. Im away til late on the 6th</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-07-05 16:05:54 UTC">
+      <body>Yay! Then I can still go! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120907.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-07 19:25:11 UTC" participant="153291">
+      <body>Hey there. how is everything</body>
+    </message>
+    <message id="m0001" time="2012-09-07 22:21:15 UTC" participant="152734">
+      <body>Good! What are you up to? We're in corolla</body>
+    </message>
+    <message id="m0002" time="2012-09-07 22:22:30 UTC" participant="153291">
+      <body>Just finished eating dinner.  Were leaving in the morning to go to kings dominion and coming back sometime Sunday morning</body>
+    </message>
+  </messages>
+</conversation>
+

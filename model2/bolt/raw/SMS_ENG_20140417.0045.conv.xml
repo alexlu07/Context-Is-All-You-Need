@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140417.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-17 18:18:14 UTC" participant="153244">
+      <body>Hey just a heads up I'm working til closing since my manager is off today... if you still wanna meet up I can run out on my break</body>
+    </message>
+    <message id="m0001" time="2014-04-17 18:18:51 UTC" participant="154893">
+      <body>Do not worry about it</body>
+    </message>
+    <message id="m0002" time="2014-04-17 18:19:01 UTC" participant="154893">
+      <body>Thanks for the heads up</body>
+    </message>
+    <message id="m0003" time="2014-04-17 18:21:06 UTC" participant="153244">
+      <body>No problem</body>
+    </message>
+    <message id="m0004" time="2014-04-17 18:28:58 UTC" participant="154893">
+      <body>Headed into class to doa presentation</body>
+    </message>
+  </messages>
+</conversation>
+

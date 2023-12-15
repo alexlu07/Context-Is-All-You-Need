@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130430.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-30 15:16:18 UTC">
+      <body>11:45 lunch? That way Elise and I have a reasonable amount of time before our 12:25 blue bus</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-04-30 15:30:35 UTC">
+      <body>Aiight.</body>
+    </message>
+  </messages>
+</conversation>

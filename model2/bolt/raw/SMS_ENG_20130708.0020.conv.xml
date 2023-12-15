@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131812" time="2013-07-08 16:55:12 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130994" time="2013-07-08 16:56:49 UTC">
+      <body>Hi! How are u?</body>
+    </message>
+    <message id="m0002" participant="131812" time="2013-07-08 16:58:07 UTC">
+      <body>I'm fine and ur self?</body>
+    </message>
+    <message id="m0003" participant="130994" time="2013-07-08 18:06:30 UTC">
+      <body>Great - am kind of busy getting ready to relocate from Boston to Philly next wk</body>
+    </message>
+    <message id="m0004" participant="131812" time="2013-07-08 18:08:05 UTC">
+      <body>Oh wow! Are u moving bcuz of work?</body>
+    </message>
+    <message id="m0005" participant="130994" time="2013-07-08 18:09:24 UTC">
+      <body>Kind of - I work in Boston but kids &amp; partner live in Philly so am back and forth</body>
+    </message>
+    <message id="m0006" participant="131812" time="2013-07-08 18:11:48 UTC">
+      <body>Oh ok... That's cool!!! I know they'll be happy to have u home!</body>
+    </message>
+    <message id="m0007" participant="130994" time="2013-07-08 18:19:41 UTC">
+      <body>Well - they r here with me now so we are all moving home next Monday</body>
+    </message>
+    <message id="m0008" participant="131812" time="2013-07-08 18:25:06 UTC">
+      <body>That's great!!! Hope u and ur family have a safe trip home!</body>
+    </message>
+    <message id="m0009" participant="130994" time="2013-07-08 18:26:33 UTC">
+      <body>Thanks. Lots to pack still</body>
+    </message>
+  </messages>
+</conversation>

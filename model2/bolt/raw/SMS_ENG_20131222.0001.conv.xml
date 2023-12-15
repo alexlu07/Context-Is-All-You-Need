@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131222.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-22 00:01:20 UTC" participant="152116">
+      <body>We're out</body>
+    </message>
+    <message id="m0001" time="2013-12-22 01:03:57 UTC" participant="153491">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0002" time="2013-12-22 01:15:53 UTC" participant="152116">
+      <body>So you know, I don't think anybody's down for a movie. But they'll so Starbucks</body>
+    </message>
+    <message id="m0003" time="2013-12-22 01:17:14 UTC" participant="153491">
+      <body>That's fine. I'm good with that.</body>
+    </message>
+  </messages>
+</conversation>
+

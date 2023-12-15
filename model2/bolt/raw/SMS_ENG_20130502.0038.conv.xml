@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2013-05-02 14:28:45 UTC">
+      <body>Hey ####! I'm in ########### for a few hours. Thought I'd see if we could meet up for lunch? I'm dying for some lime and basil:) </body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-02 14:30:22 UTC">
+      <body>Sorry, I'm on my way to ######### with ###### and his parents! Otherwise, I would totally meet you there--perfect day for pho! Let's try and get together next week though.</body>
+    </message>
+    <message id="m0002" participant="131032" time="2013-05-02 14:31:27 UTC">
+      <body>Okk definitely! Have a great time in ######### :) </body>
+    </message>
+    <message id="m0003" participant="131032" time="2013-05-02 17:31:07 UTC">
+      <body>Hey sorry to bother u on ur trip. I just had a quick question. Did you ever apply to a temp agency while you were looking for jobs? </body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-05-02 18:51:49 UTC">
+      <body>No, I don't think I did.</body>
+    </message>
+  </messages>
+</conversation>

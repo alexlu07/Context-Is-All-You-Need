@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-08 17:12:50 UTC">
+      <body>That sounds good. Might be a little after 11 but close. </body>
+    </message>
+    <message id="m0001" participant="136476" time="2013-06-08 17:16:36 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-08 17:17:26 UTC">
+      <body>What size shoes you wear? </body>
+    </message>
+    <message id="m0003" participant="136476" time="2013-06-08 17:18:24 UTC">
+      <body>10.5 in nikes</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-06-08 17:33:09 UTC">
+      <body>Too small. I might have a pair around here. </body>
+    </message>
+    <message id="m0005" participant="136476" time="2013-06-08 17:33:39 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="136476" time="2013-06-08 18:17:01 UTC">
+      <body>What time do you have think you'll be there, or do I need to pick you up? </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-06-08 18:17:11 UTC">
+      <body>I'm here</body>
+    </message>
+    <message id="m0008" participant="136476" time="2013-06-08 18:17:52 UTC">
+      <body>
+I'll leave my house. Be there in 5</body>
+    </message>
+  </messages>
+</conversation>

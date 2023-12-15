@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140201.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-01 02:22:56 UTC" participant="149387">
+      <body>Not sure if you're in Philly this weekend, but I'm working the bar for brunch tmrw if you feel like stopping in for a Bloody Mary. Haven't seen you in a while!</body>
+    </message>
+    <message id="m0001" time="2014-02-01 04:44:20 UTC" participant="149306">
+      <body>Yes I'll be here, I'm leaving on wends. I'll be stopping by pageant in Sunday if u r around. Let me know how you've been.</body>
+    </message>
+    <message id="m0002" time="2014-02-01 04:52:16 UTC" participant="149387">
+      <body>Working Sun brunch. Maybe I'll swing by the gallery after. If I don't see you before Wed, let's grab a drink when you get back:-)</body>
+    </message>
+    <message id="m0003" time="2014-02-01 04:54:36 UTC" participant="149306">
+      <body>Sounds good to me. See you soon then either way</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-15 00:38:00 UTC">
+      <body>When's the game starting</body>
+    </message>
+    <message id="m0001" participant="136261" time="2012-12-15 01:28:35 UTC">
+      <body>Will do you mind if I move the middle part of your desk now? It just has the penguin and a paper</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-15 01:30:03 UTC">
+      <body>Yeah go ahead just move it</body>
+    </message>
+    <message id="m0003" participant="136261" time="2012-12-15 04:48:00 UTC">
+      <body>Will where you've been man?</body>
+    </message>
+    <message id="m0004" participant="136261" time="2012-12-15 04:48:00 UTC">
+      <body>when do you want to go to sleep?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-15 04:54:16 UTC">
+      <body>I won't be in bed for a while. I've been with friends in few</body>
+    </message>
+    <message id="m0006" participant="136261" time="2012-12-15 04:55:49 UTC">
+      <body>Ok let me know when you do, there's still people playing pong here         </body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-12-15 04:56:02 UTC">
+      <body>Haha ok</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-12-15 15:38:18 UTC">
+      <body>Bye roomie! I'll miss you!</body>
+    </message>
+    <message id="m0009" participant="136261" time="2012-12-16 06:00:32 UTC">
+      <body>Miss you roomie!</body>
+    </message>
+  </messages>
+</conversation>

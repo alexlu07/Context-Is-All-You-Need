@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-10 13:40:51 UTC">
+      <body>How'd it go last night </body>
+    </message>
+    <message id="m0001" participant="135440" time="2013-05-10 17:31:44 UTC">
+      <body>I chickens out. But other conversations were had</body>
+    </message>
+    <message id="m0002" participant="135440" time="2013-05-10 17:31:44 UTC">
+      <body>I decided I want some space</body>
+    </message>
+  </messages>
+</conversation>

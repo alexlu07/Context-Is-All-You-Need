@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 17:22:50 UTC" participant="153547">
+      <body>Don't forget its blakes birthday</body>
+    </message>
+    <message id="m0001" time="2015-04-12 17:24:58 UTC" participant="153572">
+      <body>Ha ha. Did you get your birhtday card?
+Phyllis</body>
+    </message>
+    <message id="m0002" time="2015-04-12 17:25:59 UTC" participant="153547">
+      <body>It's not my birthday. I got Blake something but I don't think it got there yet</body>
+    </message>
+  </messages>
+</conversation>
+

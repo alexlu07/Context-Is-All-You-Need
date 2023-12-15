@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2013-05-18 01:07:31 UTC">
+      <body>Johnny's dad is going to the thing tomorrow! Can you buy books there? He wants to buy it!</body>
+    </message>
+    <message id="m0001" participant="131064" time="2013-05-18 04:18:08 UTC">
+      <body>￼Jason and his bike. </body>
+    </message>
+    <message id="m0002" participant="131019" time="2013-05-18 04:55:38 UTC">
+      <body>Oh god</body>
+    </message>
+    <message id="m0003" participant="131064" time="2013-05-18 04:56:32 UTC">
+      <body>Yap. </body>
+    </message>
+  </messages>
+</conversation>

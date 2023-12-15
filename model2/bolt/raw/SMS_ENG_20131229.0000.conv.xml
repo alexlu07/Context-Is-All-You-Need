@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 19:43:21 UTC" participant="149387">
+      <body>Got cut from work early so won't be able to bring potatoes... Heading to a kitty care now on 10th St, then back to my place. Maybe catch you later:-)</body>
+    </message>
+    <message id="m0001" time="2013-12-29 20:18:28 UTC" participant="149306">
+      <body>Swing by the gallery to pick up more biscuits </body>
+    </message>
+    <message id="m0002" time="2013-12-29 21:32:30 UTC" participant="149387">
+      <body>I'm back at my place and gotta run around some more. Might have to forgo the biscuits this time around. How late will you be there?</body>
+    </message>
+    <message id="m0003" time="2013-12-29 21:35:00 UTC" participant="149306">
+      <body>530  or 6</body>
+    </message>
+    <message id="m0004" time="2013-12-29 21:37:04 UTC" participant="149387">
+      <body>Ok, I'll text if I'm nearby before you take off.</body>
+    </message>
+    <message id="m0005" time="2013-12-29 21:37:30 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2013-12-29 21:57:36 UTC" participant="149387">
+      <body>I'm at Chapterhouse if you wanna swing by on your way home. Should be here for a little bit.</body>
+    </message>
+    <message id="m0007" time="2013-12-29 22:00:15 UTC" participant="149306">
+      <body>I can walk down there in a min.</body>
+    </message>
+    <message id="m0008" time="2013-12-29 22:00:32 UTC" participant="149387">
+      <body>No rush. I'll be here for a while.</body>
+    </message>
+  </messages>
+</conversation>
+

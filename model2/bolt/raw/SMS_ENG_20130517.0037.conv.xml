@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-17 15:35:32 UTC">
+      <body>Goin to Ntown by any chance tomorrow?</body>
+    </message>
+    <message id="m0001" participant="132534" time="2013-05-17 15:36:40 UTC">
+      <body>slight possibility, but probably not</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-05-17 15:37:18 UTC">
+      <body>Zam</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150108.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-08 00:44:54 UTC" participant="153547">
+      <body>Have a good trip?</body>
+    </message>
+    <message id="m0001" time="2015-01-08 00:45:00 UTC" participant="153547">
+      <body>Trip!</body>
+    </message>
+    <message id="m0002" time="2015-01-08 02:12:48 UTC" participant="153557">
+      <body>Love u!</body>
+    </message>
+    <message id="m0003" time="2015-01-08 02:13:12 UTC" participant="153547">
+      <body>Love you too</body>
+    </message>
+    <message id="m0004" time="2015-01-08 03:58:15 UTC" participant="153557">
+      <body>Oh I ate some mussels they are awesome</body>
+    </message>
+  </messages>
+</conversation>
+

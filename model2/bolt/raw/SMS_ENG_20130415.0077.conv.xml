@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0077" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-15 22:15:31 UTC" participant="152417">
+      <body>Did we say an extra $15 for color ads?</body>
+    </message>
+    <message id="m0001" time="2013-04-15 23:13:04 UTC" participant="152526">
+      <body>Yes. </body>
+    </message>
+    <message id="m0002" time="2013-04-16 21:29:00 UTC" participant="152417">
+      <body>Ive haf several places not wanting to advertise but offering gift certificates to raffle or auction off, should we do a silent auction or something?</body>
+    </message>
+  </messages>
+</conversation>
+

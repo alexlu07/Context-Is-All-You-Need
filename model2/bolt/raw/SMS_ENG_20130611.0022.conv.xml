@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0022" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130661" time="2013-06-11 22:44:22 UTC">
+      <body>Hey again :) I just got out of work, how's it going for you?</body>
+    </message>
+    <message id="m0001" participant="131201" time="2013-06-11 22:45:36 UTC">
+      <body>Good. I'm packing to head to Chicago tomorrow.</body>
+    </message>
+    <message id="m0002" participant="131201" time="2013-06-11 22:45:36 UTC">
+      <body>But really reading some blogs right now.</body>
+    </message>
+    <message id="m0003" participant="131201" time="2013-06-11 22:45:36 UTC">
+      <body>How's life?</body>
+    </message>
+    <message id="m0004" participant="130661" time="2013-06-11 22:48:01 UTC">
+      <body>Oh cool! Chicago should be fun! Life's alright I suppose, been slacking off on gymming this week. What kind of blogs do you like reading?</body>
+    </message>
+    <message id="m0005" participant="131201" time="2013-06-11 22:50:14 UTC">
+      <body>Feminist. Food. Dancing. In that order. :-) I love Chicago! Have you been?</body>
+    </message>
+    <message id="m0006" participant="130661" time="2013-06-11 22:53:44 UTC">
+      <body>No I haven't! Chicago and Boston are two places I haven't been to, despite having made a thousand plans so far. Now I'm on the other coast, too far!</body>
+    </message>
+    <message id="m0007" participant="130661" time="2013-06-11 22:56:02 UTC">
+      <body>(1/2)What kind of food blogs do you read? My roommate's going through a baking phase right now, so I end up reading a whole bunch of cupcake blogs. :) I mostly</body>
+    </message>
+    <message id="m0008" participant="130661" time="2013-06-11 23:04:45 UTC">
+      <body>(2/2)end up reading tech blogs, whatever I find on my twitter.</body>
+    </message>
+    <message id="m0009" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>I read seriousets and chow</body>
+    </message>
+    <message id="m0010" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>Eats</body>
+    </message>
+    <message id="m0011" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>Others less regularly.</body>
+    </message>
+    <message id="m0012" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0013" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>I like bread blogs</body>
+    </message>
+    <message id="m0014" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>But cupcakes seems fun.</body>
+    </message>
+    <message id="m0015" participant="131201" time="2013-06-11 23:04:45 UTC">
+      <body>Anything interesting?</body>
+    </message>
+    <message id="m0016" participant="130661" time="2013-06-11 23:13:04 UTC">
+      <body>Well, I found cupcakeblog.com, she has interesting recipes. Then a whole lot of random stuff on pinterest. :)</body>
+    </message>
+  </messages>
+</conversation>

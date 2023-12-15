@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-13 21:14:54 UTC" participant="152429">
+      <body>Probably not from Elkins park :(</body>
+    </message>
+    <message id="m0001" time="2013-04-13 21:45:55 UTC" participant="152417">
+      <body>You should look anyway, itll be clear there and not here</body>
+    </message>
+    <message id="m0002" time="2013-04-13 21:47:29 UTC" participant="152429">
+      <body>Ok what time?</body>
+    </message>
+    <message id="m0003" time="2013-04-13 22:15:46 UTC" participant="152417">
+      <body>2</body>
+    </message>
+    <message id="m0004" time="2013-04-13 22:49:36 UTC" participant="152429">
+      <body>I don't know if I can stay up that late....</body>
+    </message>
+  </messages>
+</conversation>
+

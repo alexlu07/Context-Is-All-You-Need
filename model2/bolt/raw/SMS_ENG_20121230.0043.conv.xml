@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121230.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2012-12-30 03:03:48 UTC">
+      <body>you'll be at second service, right? </body>
+    </message>
+    <message id="m0001" participant="136118" time="2012-12-30 03:07:23 UTC">
+      <body>I'm playing so I'll be at both</body>
+    </message>
+    <message id="m0002" participant="136112" time="2012-12-30 03:07:47 UTC">
+      <body>shweet. </body>
+    </message>
+  </messages>
+</conversation>

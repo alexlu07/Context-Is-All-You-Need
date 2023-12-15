@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141121.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-21 19:49:59 UTC" participant="153547">
+      <body>I'll pick u up when u r done </body>
+    </message>
+    <message id="m0001" time="2014-11-21 19:54:01 UTC" participant="153557">
+      <body>5:30?!!!!</body>
+    </message>
+    <message id="m0002" time="2014-11-21 21:02:54 UTC" participant="153557">
+      <body>5:00 not 5:30 if you are available</body>
+    </message>
+    <message id="m0003" time="2014-11-21 21:08:30 UTC" participant="153547">
+      <body>Ok </body>
+    </message>
+  </messages>
+</conversation>
+

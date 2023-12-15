@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120810.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-08-10 21:08:52 UTC">
+      <body>Hey a</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-08-10 21:09:02 UTC">
+      <body>Heya i mean</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-08-10 21:09:09 UTC">
+      <body>When do you move here</body>
+    </message>
+    <message id="m0003" participant="135425" time="2012-08-10 21:10:20 UTC">
+      <body>Hi! I'm moving Sunday! Packing the car right now. By any chance would you be into rock climbing in a gym? I'm thinking about it, super good exercise but intimidating when you're not good</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-08-10 21:10:34 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-08-10 21:10:53 UTC">
+      <body>Yes I'm into it</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-08-10 21:11:06 UTC">
+      <body> I would totally be into it</body>
+    </message>
+  </messages>
+</conversation>

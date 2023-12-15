@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-06-10 00:00:43 UTC">
+      <body>should i come over at 10 tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136382" time="2013-06-10 00:15:50 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="136382" time="2013-06-10 00:17:36 UTC">
+      <body>We've got 20 boxes to pack!</body>
+    </message>
+    <message id="m0003" participant="136382" time="2013-06-10 00:17:56 UTC">
+      <body>Good times. Good times.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-06-10 00:22:18 UTC">
+      <body>can't wait! </body>
+    </message>
+    <message id="m0005" participant="136382" time="2013-06-10 00:22:54 UTC">
+      <body>Uh huh...I bet!</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-06-10 00:23:45 UTC">
+      <body>with the combination of no work but lots of rain, i had stir fever all week. at this point everything looks fun, haha. </body>
+    </message>
+    <message id="m0007" participant="136382" time="2013-06-10 00:25:04 UTC">
+      <body>Damn I should have left you with paperwork to do!</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-06-10 00:25:27 UTC">
+      <body>if only! </body>
+    </message>
+    <message id="m0009" participant="136382" time="2013-06-10 11:31:56 UTC">
+      <body>Sorry girl. Totally forgot about appointments scheduled for today. Can we work tomorrow instead?</body>
+    </message>
+    <message id="m0010" participant="136112" time="2013-06-10 11:57:39 UTC">
+      <body>definitely! </body>
+    </message>
+    <message id="m0011" participant="136382" time="2013-06-10 12:21:34 UTC">
+      <body>I'm so sorry! </body>
+    </message>
+    <message id="m0012" participant="136382" time="2013-06-10 12:22:53 UTC">
+      <body>I promise I'll get it together soon! This is why I need you!</body>
+    </message>
+    <message id="m0013" participant="136112" time="2013-06-10 12:30:23 UTC">
+      <body>haha, it's okay! see you tomorrow! </body>
+    </message>
+  </messages>
+</conversation>

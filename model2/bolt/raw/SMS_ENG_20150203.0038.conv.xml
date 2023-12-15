@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 00:33:08 UTC" participant="153870">
+      <body>Oh </body>
+    </message>
+    <message id="m0001" time="2015-02-03 01:29:36 UTC" participant="153870">
+      <body>Hey do you want to see the camera jib </body>
+    </message>
+    <message id="m0002" time="2015-02-03 02:05:23 UTC" participant="153848">
+      <body> Yes gimme 10 mins </body>
+    </message>
+    <message id="m0003" time="2015-02-03 02:08:00 UTC" participant="153870">
+      <body>Ok </body>
+    </message>
+    <message id="m0004" time="2015-02-03 02:18:40 UTC" participant="153870">
+      <body>21</body>
+    </message>
+    <message id="m0005" time="2015-02-03 02:20:00 UTC" participant="153848">
+      <body>Answer </body>
+    </message>
+  </messages>
+</conversation>
+

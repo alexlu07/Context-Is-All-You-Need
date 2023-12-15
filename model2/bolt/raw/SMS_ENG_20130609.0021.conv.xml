@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133119" time="2013-06-09 23:51:09 UTC">
+      <body>ght? Anyway, let me know what you would prefer.</body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-06-10 05:31:45 UTC">
+      <body>Lets meet at 12. I don't have Matlab on my laptop, so should we meet at the phonetics computer lab, or somewhere else?</body>
+    </message>
+    <message id="m0002" participant="133119" time="2013-06-10 05:34:06 UTC">
+      <body>Phonetics lab is good. See you then!</body>
+    </message>
+  </messages>
+</conversation>

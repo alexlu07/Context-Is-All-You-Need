@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136189" time="2013-03-08 20:28:28 UTC">
+      <body>hi Lauren. The whale shark is extremely heavy. Do I need to come and help you put it into the kiln?      #########</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-08 20:29:30 UTC">
+      <body>you can if you like, daneka will probably also be there, so she can help. if you do decide to, come at 5. </body>
+    </message>
+    <message id="m0002" participant="136189" time="2013-03-08 20:30:04 UTC">
+      <body>Ok. See you then~</body>
+    </message>
+  </messages>
+</conversation>

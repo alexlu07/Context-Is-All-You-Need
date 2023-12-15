@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110920.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-09-20 23:59:20 UTC">
+      <body>Hanging in there?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2011-09-21 00:00:39 UTC">
+      <body>  You must be exhausted :(</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-09-21 02:06:21 UTC">
+      <body>Still doing tryouts?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-09-21 02:26:36 UTC">
+      <body>Of course</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-09-22 02:22:03 UTC">
+      <body>Do you have new baby nassoons yet?</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-09-22 02:25:33 UTC">
+      <body>Friday</body>
+    </message>
+    <message id="m0006" participant="131824" time="2011-09-22 02:26:31 UTC">
+      <body>Still on a grueling schedule with no sleep?</body>
+    </message>
+    <message id="m0007" participant="131824" time="2011-09-22 02:53:40 UTC">
+      <body>Take care of yourself.  Xoxo</body>
+    </message>
+    <message id="m0008" participant="131824" time="2011-09-22 22:54:25 UTC">
+      <body>Got a minute?</body>
+    </message>
+    <message id="m0009" participant="131821" time="2011-09-22 22:55:17 UTC">
+      <body>In the middle of auditions but if it's important</body>
+    </message>
+    <message id="m0010" participant="131824" time="2011-09-23 13:38:30 UTC">
+      <body>Hope you can get some sleep tonight!</body>
+    </message>
+    <message id="m0011" participant="131821" time="2011-09-23 15:16:32 UTC">
+      <body>Haha sleeping now</body>
+    </message>
+    <message id="m0012" participant="131824" time="2011-09-23 15:16:55 UTC">
+      <body>Good!</body>
+    </message>
+    <message id="m0013" participant="131824" time="2011-09-24 00:38:41 UTC">
+      <body>When this weekend would be a good time for us to catch up?</body>
+    </message>
+    <message id="m0014" participant="131824" time="2011-09-24 16:34:53 UTC">
+      <body>Happy Peace Corps 50th Anniversary!</body>
+    </message>
+  </messages>
+</conversation>

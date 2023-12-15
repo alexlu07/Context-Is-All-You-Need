@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140520.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-20 23:06:23 UTC" participant="152417">
+      <body>I forgot my wallet, its on my desk, could you bring it?</body>
+    </message>
+    <message id="m0001" time="2014-05-20 23:06:40 UTC" participant="152560">
+      <body>You got it</body>
+    </message>
+    <message id="m0002" time="2014-05-21 22:25:21 UTC" participant="152560">
+      <body>If you're still there, I just remembered we need coffee.</body>
+    </message>
+  </messages>
+</conversation>
+

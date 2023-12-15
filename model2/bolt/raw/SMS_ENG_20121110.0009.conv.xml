@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2012-11-10 16:25:29 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-10 16:26:05 UTC">
+      <body>I'm gonna eat here and get my shit done. Thanks though!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2012-11-10 16:27:28 UTC">
+      <body>Ok, see you later.</body>
+    </message>
+  </messages>
+</conversation>

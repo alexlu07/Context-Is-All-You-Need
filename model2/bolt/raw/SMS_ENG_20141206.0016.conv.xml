@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-06 20:28:44 UTC" participant="149366">
+      <body>hey hunter, are you in baltimore this weekend? our day tomorrow is pretty open. next weekend is good too. </body>
+    </message>
+    <message id="m0001" time="2014-12-06 20:30:41 UTC" participant="153547">
+      <body> I've been on deaths door with a respiratory infection the past two weeks. Just getting mostly over it. I'll plan on next weekend if that works for you</body>
+    </message>
+    <message id="m0002" time="2014-12-06 20:33:04 UTC" participant="149366">
+      <body>oh, sorry to hear it. hope it passes soon. next weekend is fine but take your time, whenever it makes sense for you. </body>
+    </message>
+  </messages>
+</conversation>
+

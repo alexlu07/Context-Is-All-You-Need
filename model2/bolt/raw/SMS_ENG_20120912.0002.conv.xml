@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120912.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-09-12 12:24:08 UTC">
+      <body>Good morning,are you feeling any better?</body>
+    </message>
+    <message id="m0001" participant="131055" time="2012-09-13 01:05:50 UTC">
+      <body>hi there. not really. how is everything with you? when can we see each other?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-09-13 19:35:58 UTC">
+      <body>I'm feeling down too. I think I am getting my period so I'm trying not to over react. When
+Are you free?</body>
+    </message>
+    <message id="m0003" participant="131055" time="2012-09-13 20:09:22 UTC">
+      <body>tonight, sat, sun night, monday, tues</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-09-13 20:26:41 UTC">
+      <body>Tuesday I'm free after my four o clock class..</body>
+    </message>
+    <message id="m0005" participant="131055" time="2012-09-13 22:25:09 UTC">
+      <body>it's a date!</body>
+    </message>
+  </messages>
+</conversation>

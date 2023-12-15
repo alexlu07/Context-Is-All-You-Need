@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121003.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-03 19:55:43 UTC" participant="152417">
+      <body>Che!!!have u tried the beer yet?</body>
+    </message>
+    <message id="m0001" time="2012-10-03 23:30:04 UTC" participant="152419">
+      <body>Nooo I haven't yet! </body>
+    </message>
+    <message id="m0002" time="2012-10-03 23:41:31 UTC" participant="152417">
+      <body>Wanna watch the debate and try the beer?</body>
+    </message>
+    <message id="m0003" time="2012-10-03 23:42:55 UTC" participant="152419">
+      <body>Ahhh sorry I have plans :[</body>
+    </message>
+  </messages>
+</conversation>
+

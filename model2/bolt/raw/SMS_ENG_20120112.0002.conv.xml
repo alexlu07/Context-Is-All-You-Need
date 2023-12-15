@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120112.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-01-12 03:45:18 UTC">
+      <body>You around this weekend?</body>
+    </message>
+    <message id="m0001" participant="131302" time="2012-01-12 03:46:05 UTC">
+      <body>Yea def</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-01-12 03:47:19 UTC">
+      <body>Cool. I'll be in town tomm night til Sunday</body>
+    </message>
+    <message id="m0003" participant="131302" time="2012-01-12 21:27:10 UTC">
+      <body>Yo man. Goin to gs tonight if your lookin to hang</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-01-12 21:51:58 UTC">
+      <body>Ok. I won't be home til later. I'll give you a call when I'm at my parents house</body>
+    </message>
+  </messages>
+</conversation>

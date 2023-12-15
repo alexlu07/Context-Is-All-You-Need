@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120223.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135107" time="2012-02-23 00:23:28 UTC">
+      <body>How is your heart?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-02-23 04:29:28 UTC">
+      <body>It was so good, but money troubles has me down big time today. How'd you know, grandpa? How's yours?</body>
+    </message>
+    <message id="m0002" participant="135107" time="2012-02-23 18:25:04 UTC">
+      <body>I have the opposite problem.  Enough money but not enough good.  I'm lonely, dad's on his way to prison and I'm almost 30.  Those are the only things I'm not happy about.  Other than that, </body>
+    </message>
+    <message id="m0003" participant="135107" time="2012-02-23 18:25:04 UTC">
+      <body>http://open.spotify.com/track/7nkO7svreZI0yRtcYUqxtP</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-02-24 01:05:02 UTC">
+      <body>Luka, I'm sorry. What happened with your dad? </body>
+    </message>
+    <message id="m0005" participant="135107" time="2012-02-24 04:07:28 UTC">
+      <body>Failed a drug test </body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-02-24 17:43:49 UTC">
+      <body>How long will he be in there?</body>
+    </message>
+    <message id="m0007" participant="135107" time="2012-02-24 17:44:32 UTC">
+      <body>I'm not sure.  </body>
+    </message>
+    <message id="m0008" participant="131839" time="2012-02-24 17:45:09 UTC">
+      <body>Ugh, luke. I'm thinking of you. Is there anything I can do?</body>
+    </message>
+    <message id="m0009" participant="135107" time="2012-02-24 19:39:44 UTC">
+      <body>You're doing it right now.  Just by asking.  I appreciate that more than you know.  </body>
+    </message>
+  </messages>
+</conversation>

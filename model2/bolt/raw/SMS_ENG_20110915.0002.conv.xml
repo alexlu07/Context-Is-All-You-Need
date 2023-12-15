@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110915.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-09-15 02:57:16 UTC">
+      <body>Get your books, sheets and/or plates yet?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-15 02:57:34 UTC">
+      <body>Yes yes no</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-09-15 03:00:04 UTC">
+      <body> Has your week been awesome?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-09-15 03:58:06 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-09-15 03:58:57 UTC">
+      <body>Yay :) have a great first day of class tomorrow!</body>
+    </message>
+    <message id="m0005" participant="131824" time="2011-09-15 14:39:20 UTC">
+      <body>I know today is probably busy for you.  What's the best time for me to call you for 10 minutes and hear about your classes?</body>
+    </message>
+  </messages>
+</conversation>

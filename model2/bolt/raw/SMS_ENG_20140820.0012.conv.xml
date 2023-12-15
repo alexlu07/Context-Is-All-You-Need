@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140820.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-20 14:00:42 UTC" participant="154898">
+      <body>Everything still good for pickup Thursday? How much?</body>
+    </message>
+    <message id="m0001" time="2014-08-20 14:31:09 UTC" participant="153244">
+      <body>Hey yea were still good.. $40
+Sorry I've been writing crazy hours with both jobs</body>
+    </message>
+    <message id="m0002" time="2014-08-20 14:31:24 UTC" participant="153244">
+      <body>Working*</body>
+    </message>
+    <message id="m0003" time="2014-08-20 14:47:50 UTC" participant="154898">
+      <body>No problem. Thanks again. Your the best</body>
+    </message>
+    <message id="m0004" time="2014-08-20 15:47:36 UTC" participant="153244">
+      <body>My pleasure!!</body>
+    </message>
+  </messages>
+</conversation>
+

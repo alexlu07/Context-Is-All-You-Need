@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0081" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-09 13:52:16 UTC" participant="152417">
+      <body>Wanna get caffeinated this morning? </body>
+    </message>
+    <message id="m0001" time="2013-02-09 15:07:34 UTC" participant="152560">
+      <body>I probably missed you already, but I would be down for a coffee mission...</body>
+    </message>
+    <message id="m0002" time="2013-02-09 15:08:42 UTC" participant="152417">
+      <body>Im still around, ready when you are</body>
+    </message>
+    <message id="m0003" time="2013-02-09 15:18:06 UTC" participant="152560">
+      <body>Great-let me just take Rubes out...</body>
+    </message>
+    <message id="m0004" time="2013-02-09 15:35:51 UTC" participant="152560">
+      <body>Want me to meet you outside?</body>
+    </message>
+    <message id="m0005" time="2013-02-09 15:39:34 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

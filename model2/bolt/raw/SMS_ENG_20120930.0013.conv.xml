@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120930.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135394" time="2012-09-30 20:29:09 UTC">
+      <body>Did you fix your computer?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-30 21:51:48 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-30 22:22:47 UTC">
+      <body>They shared my screen from Texas it was cool</body>
+    </message>
+    <message id="m0003" participant="135394" time="2012-10-01 00:07:21 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-22 01:31:49 UTC">
+      <body>have to work tomorrow. i'm sorry...</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-22 01:32:16 UTC">
+      <body>glad for the work, sorry about lessons.</body>
+    </message>
+    <message id="m0002" participant="131358" time="2013-02-22 01:32:26 UTC">
+      <body>Sat?</body>
+    </message>
+    <message id="m0003" participant="131358" time="2013-02-22 01:32:41 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-22 01:33:51 UTC">
+      <body>that's what i meant. keep getting the days mixed up this week.. </body>
+    </message>
+    <message id="m0005" participant="131358" time="2013-02-22 01:34:20 UTC">
+      <body>So do i</body>
+    </message>
+  </messages>
+</conversation>

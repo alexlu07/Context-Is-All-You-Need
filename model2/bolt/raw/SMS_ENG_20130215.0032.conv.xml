@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-15 05:06:00 UTC">
+      <body>Did u meet with Saul ?</body>
+    </message>
+    <message id="m0001" participant="135445" time="2013-02-15 11:44:00 UTC">
+      <body>I did and it went well. He has no intentions of quitting and please do not bring it up with him. Lets keep moving forward. Are you coming to the workshop on Saturday?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-15 13:21:00 UTC">
+      <body>Yes.  Alright fish. I trust you. But this is going to be difficult for me. </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-15 13:21:39 UTC">
+      <body>I'm going back off for a few days.  </body>
+    </message>
+    <message id="m0004" participant="135445" time="2013-02-15 15:36:32 UTC">
+      <body>Are you coming to training tomorrow?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-15 16:02:01 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0006" participant="135445" time="2013-02-15 16:02:08 UTC">
+      <body>Oh awesome!</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-02-15 17:01:11 UTC">
+      <body>Fish I really don't understand what's going on.  Unless you can clarify the email from Saul in more detail, and let me know our strategy for fm success then ill have to respond to Saul email.  </body>
+    </message>
+    <message id="m0008" participant="135445" time="2013-02-15 17:18:56 UTC">
+      <body>Are you on gchat? Wanna chat on there?</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-02-16 01:04:24 UTC">
+      <body>Hey fish met with Saul I feel much better thanks !!</body>
+    </message>
+    <message id="m0010" participant="135445" time="2013-02-16 02:37:36 UTC">
+      <body>That is awesome! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131382" time="2013-05-10 22:03:01 UTC">
+      <body>Angel!</body>
+    </message>
+    <message id="m0001" participant="131382" time="2013-05-10 22:04:02 UTC">
+      <body>Watched Video " Happy Feet 2 Fever" By Yani Lopez On YouTube!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-10 22:04:58 UTC">
+      <body>How was it?</body>
+    </message>
+    <message id="m0003" participant="131382" time="2013-05-10 22:05:50 UTC">
+      <body>Good</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-10 22:07:02 UTC">
+      <body>What's the apartment number?</body>
+    </message>
+  </messages>
+</conversation>

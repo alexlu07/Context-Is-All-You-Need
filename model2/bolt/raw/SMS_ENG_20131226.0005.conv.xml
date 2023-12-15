@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131226.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-26 22:45:00 UTC" participant="152417">
+      <body>I got a radiobean gig with the jazz cats tonight, sry i wont be in for a burger</body>
+    </message>
+    <message id="m0001" time="2013-12-27 00:34:47 UTC" participant="152560">
+      <body>What time are you playing? I want to come see you!</body>
+    </message>
+    <message id="m0002" time="2013-12-27 00:35:51 UTC" participant="152417">
+      <body>830-10</body>
+    </message>
+    <message id="m0003" time="2013-12-27 00:51:01 UTC" participant="152560">
+      <body>Cool I will try</body>
+    </message>
+    <message id="m0004" time="2013-12-27 02:54:31 UTC" participant="152560">
+      <body>Are you going straight home after your show?</body>
+    </message>
+    <message id="m0005" time="2013-12-27 03:09:12 UTC" participant="152417">
+      <body>Dunno
+</body>
+    </message>
+    <message id="m0006" time="2013-12-27 03:09:27 UTC" participant="152417">
+      <body>Playin 2 more</body>
+    </message>
+  </messages>
+</conversation>
+

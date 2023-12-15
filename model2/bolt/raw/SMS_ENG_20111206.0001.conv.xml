@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111206.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-12-06 19:50:07 UTC">
+      <body>Hey Quinton - can you send me a list of the middle names of all the sophomores? I need it for the sophomore mugs.</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-12-06 19:50:29 UTC">
+      <body>Sure thing, Chris</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-12-06 20:23:29 UTC">
+      <body>Did you get the email? I'm not sure how reliable my phone is for sending them</body>
+    </message>
+    <message id="m0003" participant="131830" time="2011-12-06 20:24:33 UTC">
+      <body>Sorry, didn't get it. I know Krishna doesn't have a middle name, but if you just want to send me the other three, that would be great</body>
+    </message>
+  </messages>
+</conversation>

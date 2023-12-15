@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150320.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-20 21:27:15 UTC" participant="153548">
+      <body>Hi! Just checking in with you to make sure dinner still works tonight! I have the car and should be leaving south philly by 6:30 at the latest</body>
+    </message>
+    <message id="m0001" time="2015-03-20 21:33:35 UTC" participant="153685">
+      <body>Awesome. Totally still works. Roads just slushy up here in g-town. Oti is wagging his nub in anticipation :) </body>
+    </message>
+    <message id="m0002" time="2015-03-20 21:34:54 UTC" participant="153548">
+      <body>Great! I'll drive slow. Can't wait!</body>
+    </message>
+    <message id="m0003" time="2015-03-20 21:35:22 UTC" participant="153685">
+      <body>Us either!</body>
+    </message>
+  </messages>
+</conversation>
+

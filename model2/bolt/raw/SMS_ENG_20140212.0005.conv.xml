@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140212.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-12 03:09:23 UTC" participant="153634">
+      <body>do you know if any conference stuff is happening on sat 3/1?</body>
+    </message>
+    <message id="m0001" time="2014-02-12 03:15:02 UTC" participant="153634">
+      <body>buying tickets. looks like best one gets in at 3 pm so I'd miss sat but want to know if I should do fri instead!</body>
+    </message>
+    <message id="m0002" time="2014-02-12 13:18:55 UTC" participant="153548">
+      <body>Just do Saturday!!!</body>
+    </message>
+    <message id="m0003" time="2014-02-12 13:19:22 UTC" participant="153548">
+      <body>We have to pay to go to any of the ethnographic conference!</body>
+    </message>
+  </messages>
+</conversation>
+

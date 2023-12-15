@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140307.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-07 18:46:24 UTC" participant="153645">
+      <body>Do you want to meet up at 10:30? I want to go to an artist talk at 3 and wAnt to make sure we have enough time tomorrow </body>
+    </message>
+    <message id="m0001" time="2014-03-07 20:16:25 UTC" participant="153548">
+      <body>Perfect! I'll see you then!</body>
+    </message>
+    <message id="m0002" time="2014-03-07 21:39:36 UTC" participant="153645">
+      <body>Great! </body>
+    </message>
+    <message id="m0003" time="2014-03-07 23:00:16 UTC" participant="153645">
+      <body>I'll bring food! </body>
+    </message>
+    <message id="m0004" time="2014-03-08 15:33:52 UTC" participant="153548">
+      <body>I'm a few minutes late!</body>
+    </message>
+    <message id="m0005" time="2014-03-08 15:34:24 UTC" participant="153645">
+      <body>No problem </body>
+    </message>
+  </messages>
+</conversation>
+

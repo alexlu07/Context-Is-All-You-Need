@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135304" time="2013-03-25 12:42:56 UTC">
+      <body>Wait- THIS wednesday?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-25 12:45:51 UTC">
+      <body>Right so this is a problem</body>
+    </message>
+    <message id="m0002" participant="135304" time="2013-03-25 12:50:29 UTC">
+      <body>O I see. I thought it was NEXT wednesday.</body>
+    </message>
+    <message id="m0003" participant="135304" time="2013-03-25 12:52:08 UTC">
+      <body>So we should probably meet today.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-25 13:28:20 UTC">
+      <body>Yes. Also apparently email our disciplines?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-25 15:53:15 UTC">
+      <body>Are you free for a dinner meeting tonight? The four of us can plan in the DC maybe...Sarah suggested 5:30 but we are both free for all of dinner</body>
+    </message>
+    <message id="m0006" participant="135304" time="2013-03-25 19:10:41 UTC">
+      <body>Hey- just got out of lecture. It turns out that i'll be in DC on wednesday- giving a poster presentation at the NSF - but i just emailed physics, and i could stop by briefly at 530.</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-03-25 19:11:18 UTC">
+      <body>Ok cool!</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-03-25 19:11:35 UTC">
+      <body>We are meeting in the DC lobby at 5:30</body>
+    </message>
+  </messages>
+</conversation>

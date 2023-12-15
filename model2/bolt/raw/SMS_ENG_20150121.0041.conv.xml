@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150121.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-21 16:46:47 UTC" participant="153558">
+      <body>Can you please send me my medical records so I can make an appointment with the neurologist </body>
+    </message>
+    <message id="m0001" time="2015-01-22 14:27:06 UTC" participant="153804">
+      <body>Yes,I will do it this weekend.</body>
+    </message>
+    <message id="m0002" time="2015-01-22 14:27:45 UTC" participant="153804">
+      <body>Go ahead and make your appointment because it takes a long time to get into see them.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-13 18:53:41 UTC">
+      <body>I have cigarettes!</body>
+    </message>
+    <message id="m0001" participant="135389" time="2013-04-13 18:54:14 UTC">
+      <body>Those are bad for you!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-13 19:00:52 UTC">
+      <body>Haha</body>
+    </message>
+  </messages>
+</conversation>

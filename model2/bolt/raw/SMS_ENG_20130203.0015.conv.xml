@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131486" time="2013-02-03 22:10:41 UTC">
+      <body>Looks yummy!  Hey, forgot to ask - what do you want for your birthday?  Also, is Dan a big fan of any superheroes?  Or comic book characters?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-03 22:46:49 UTC">
+      <body>Oh, good questions! Yes, he loves superheroes..xmen, superman, batman (in that order). And as for bday, I can email you a couple links :-)</body>
+    </message>
+    <message id="m0002" participant="131486" time="2013-02-04 13:30:10 UTC">
+      <body>Sounds good - the links, that is.</body>
+    </message>
+  </messages>
+</conversation>

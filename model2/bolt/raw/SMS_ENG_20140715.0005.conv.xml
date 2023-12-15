@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140715.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-15 10:39:29 UTC" participant="153472">
+      <body>Hey ######## - car question - if I wanted to get a new spare key for my ##### would I need to contact a ##### dealer?</body>
+    </message>
+    <message id="m0001" time="2014-07-15 12:24:28 UTC" participant="152374">
+      <body>Yes, I believe so. The new keys aren't just physical keys, they also have chips inside them for anti theft. So a plain copy may work to open the door, but it wouldn't start the car </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130103.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-03 03:31:38 UTC">
+      <body>Same number</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-03 03:31:45 UTC">
+      <body>Fancy phone</body>
+    </message>
+    <message id="m0002" participant="135416" time="2013-01-03 03:32:10 UTC">
+      <body>Hahahaha. Fancy pants</body>
+    </message>
+    <message id="m0003" participant="135416" time="2013-01-03 15:31:29 UTC">
+      <body>Do u want to meet around nooner at penn? I'm out here</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-03 17:41:17 UTC">
+      <body>Hahaha hey just saw this I could be up at penn in less than an hour. U still there</body>
+    </message>
+    <message id="m0005" participant="135416" time="2013-01-03 17:51:07 UTC">
+      <body>Yeah. I have a meeting in Addams around 3</body>
+    </message>
+  </messages>
+</conversation>

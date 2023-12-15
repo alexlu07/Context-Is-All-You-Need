@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140607.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-07 20:44:59 UTC" participant="153548">
+      <body>Hey! Having a gathering at the house tonight. Some snacks some beers! </body>
+    </message>
+    <message id="m0001" time="2014-06-07 20:46:06 UTC" participant="153548">
+      <body>In honor of Julian's birthday! But it's a surprise!!!</body>
+    </message>
+    <message id="m0002" time="2014-06-07 20:58:56 UTC" participant="153635">
+      <body>When would be a good time to come over? There is also a show.</body>
+    </message>
+    <message id="m0003" time="2014-06-07 21:30:38 UTC" participant="153548">
+      <body>Surprise is at 8-8:15 but come anytime!</body>
+    </message>
+  </messages>
+</conversation>
+

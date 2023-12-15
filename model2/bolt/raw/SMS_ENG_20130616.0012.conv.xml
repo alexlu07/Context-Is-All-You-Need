@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130976" time="2013-06-16 13:29:09 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-06-16 13:29:59 UTC">
+      <body>How's it goin</body>
+    </message>
+    <message id="m0002" participant="130976" time="2013-06-16 15:54:51 UTC">
+      <body>Wrkng.u?</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-06-16 15:58:07 UTC">
+      <body>Making some spaghetti at home. What do you do for work?</body>
+    </message>
+    <message id="m0004" participant="130976" time="2013-06-16 15:59:03 UTC">
+      <body>Cook@health food store</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-06-16 17:06:26 UTC">
+      <body>Cool I expedite and run food in a bar kitchen</body>
+    </message>
+  </messages>
+</conversation>

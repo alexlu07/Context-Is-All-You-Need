@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140102.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-02 16:14:56 UTC" participant="153647">
+      <body>242</body>
+    </message>
+    <message id="m0001" time="2014-01-02 16:14:56 UTC" participant="153647">
+      <body>Happy new year</body>
+    </message>
+    <message id="m0002" time="2014-01-02 16:15:34 UTC" participant="153548">
+      <body>What house # is yours? Dropping the keys off!</body>
+    </message>
+    <message id="m0003" time="2014-01-02 16:16:45 UTC" participant="153548">
+      <body>Thanks! Happy new year!</body>
+    </message>
+  </messages>
+</conversation>
+

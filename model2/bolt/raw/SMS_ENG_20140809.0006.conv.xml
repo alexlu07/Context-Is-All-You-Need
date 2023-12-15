@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140809.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-09 19:01:54 UTC" participant="153490">
+      <body>U down at game tonite?</body>
+    </message>
+    <message id="m0001" time="2014-08-09 19:02:55 UTC" participant="152374">
+      <body>Not tonight, was there last night</body>
+    </message>
+  </messages>
+</conversation>
+

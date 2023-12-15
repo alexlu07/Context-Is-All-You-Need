@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133117" time="2013-06-08 19:36:27 UTC">
+      <body>Chat?</body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-06-08 19:37:54 UTC">
+      <body>Give me like 10 minutes</body>
+    </message>
+    <message id="m0002" participant="133117" time="2013-06-08 19:43:31 UTC">
+      <body>K 
+Let me know when</body>
+    </message>
+    <message id="m0003" participant="133111" time="2013-06-08 19:50:14 UTC">
+      <body>Ok I'm ready</body>
+    </message>
+  </messages>
+</conversation>

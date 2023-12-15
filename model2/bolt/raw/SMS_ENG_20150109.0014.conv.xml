@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 17:18:27 UTC" participant="153418">
+      <body>Are you alive? </body>
+    </message>
+    <message id="m0001" time="2015-01-09 17:20:02 UTC" participant="153458">
+      <body>Yeah I emailed Dave, but I am getting a ride to the car place shortly.  Should be in between one and two </body>
+    </message>
+  </messages>
+</conversation>
+

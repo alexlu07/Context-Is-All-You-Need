@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-04-20 16:58:52 UTC">
+      <body>Hey! We're planning to head to CCB around 2. See you there?</body>
+    </message>
+    <message id="m0001" participant="131033" time="2013-04-20 18:01:16 UTC">
+      <body>Ack! We went to buy tix earlier this week, &amp; presales were done. At the door was more $ so we decided not to go :( Enjoy it for me!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-04-20 18:02:19 UTC">
+      <body>Bummer. Maybe Broad St. Bark Fest tonight? Not sure when we're heading over though.</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-04-20 19:20:13 UTC">
+      <body>This actually sucks. We're grabbing a beer here and then heading to The Bar, if you're interested!</body>
+    </message>
+  </messages>
+</conversation>

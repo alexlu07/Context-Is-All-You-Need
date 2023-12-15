@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140622.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-22 19:20:42 UTC" participant="152115">
+      <body>We just left. Cats are fed. Windows low.  I put the air on for a bit. Room got cool then I turned it off. Pool is upside down drying. Fleets</body>
+    </message>
+    <message id="m0001" time="2014-06-22 19:20:49 UTC" participant="152115">
+      <body>Flowers are watered.</body>
+    </message>
+    <message id="m0002" time="2014-06-22 19:22:58 UTC" participant="152117">
+      <body>Ok. Let me know that you get there ok. Love you! We're on our way home. Just left. Be home in about an hour.</body>
+    </message>
+    <message id="m0003" time="2014-06-22 19:23:10 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2014-06-22 19:23:18 UTC" participant="152115">
+      <body>Love you.</body>
+    </message>
+    <message id="m0005" time="2014-06-22 22:02:09 UTC" participant="152115">
+      <body>We're here. Going to eat before heading back.</body>
+    </message>
+    <message id="m0006" time="2014-06-22 22:47:01 UTC" participant="152117">
+      <body>Ok call when u get back on road to head home. Love you!</body>
+    </message>
+    <message id="m0007" time="2014-06-23 00:57:33 UTC" participant="152115">
+      <body>We're leaving now.</body>
+    </message>
+  </messages>
+</conversation>
+

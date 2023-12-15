@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131017.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-17 11:29:42 UTC" participant="154352">
+      <body>You going to Wagner this afternoon?</body>
+    </message>
+    <message id="m0001" time="2013-10-17 12:08:46 UTC" participant="154408">
+      <body>Yup!</body>
+    </message>
+    <message id="m0002" time="2013-10-17 12:11:34 UTC" participant="154408">
+      <body>You going?</body>
+    </message>
+    <message id="m0003" time="2013-10-17 12:19:48 UTC" participant="154352">
+      <body>Indeed</body>
+    </message>
+    <message id="m0004" time="2013-10-17 12:21:27 UTC" participant="154408">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

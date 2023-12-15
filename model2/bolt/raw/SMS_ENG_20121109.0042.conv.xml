@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-09 15:25:45 UTC" participant="153440">
+      <body>I mean later time!!</body>
+    </message>
+    <message id="m0001" time="2012-11-09 15:49:56 UTC" participant="153418">
+      <body>When do you want to meet? 5:00? 5:30? Later?</body>
+    </message>
+    <message id="m0002" time="2012-11-09 20:02:24 UTC" participant="153440">
+      <body>5pm is okay for u?</body>
+    </message>
+    <message id="m0003" time="2012-11-09 20:03:14 UTC" participant="153418">
+      <body>Yes. Meet at 5?</body>
+    </message>
+    <message id="m0004" time="2012-11-09 20:41:24 UTC" participant="153440">
+      <body>Yes:)</body>
+    </message>
+  </messages>
+</conversation>
+

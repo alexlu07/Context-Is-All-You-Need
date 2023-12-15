@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137364" time="2013-05-21 00:47:11 UTC">
+      <body>Dear Farnaz, I know this is very last minute, but can we meet tomorrow PM. If not, how about Thursday? Shukran.</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-21 00:48:59 UTC">
+      <body>Thursday morning is good as early as possible. 8:30? 9? 9:30?</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-21 00:51:41 UTC">
+      <body>Tomorrow I have penn class in the afternoon. Thursday pm I have to prepare for my daughter's grad party</body>
+    </message>
+    <message id="m0003" participant="137364" time="2013-05-21 00:52:07 UTC">
+      <body>9:30 then. Good night</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-21 00:52:47 UTC">
+      <body>Great. Goodnight to you too.</body>
+    </message>
+  </messages>
+</conversation>

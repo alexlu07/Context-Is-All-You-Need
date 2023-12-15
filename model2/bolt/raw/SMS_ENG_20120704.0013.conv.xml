@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120704.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-04 22:58:56 UTC">
+      <body>What's cooking good looking</body>
+    </message>
+    <message id="m0001" participant="135500" time="2012-07-04 23:21:44 UTC">
+      <body>Smores girl!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-04 23:28:34 UTC">
+      <body>Oh shit. No jello shots</body>
+    </message>
+    <message id="m0003" participant="135500" time="2012-07-04 23:31:09 UTC">
+      <body>Watermelon. Beers</body>
+    </message>
+  </messages>
+</conversation>

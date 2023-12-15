@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150410.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-10 20:23:47 UTC" participant="153804">
+      <body>How is Ed feeling after being out of the hospital a few days now?</body>
+    </message>
+    <message id="m0001" time="2015-04-10 20:29:32 UTC" participant="153817">
+      <body>He is fine and miserable T the same time !</body>
+    </message>
+    <message id="m0002" time="2015-04-10 20:29:37 UTC" participant="153817">
+      <body>And fine</body>
+    </message>
+    <message id="m0003" time="2015-04-10 20:29:50 UTC" participant="153817">
+      <body>Stresses over everything</body>
+    </message>
+    <message id="m0004" time="2015-04-10 20:30:49 UTC" participant="153804">
+      <body>You need to go to visit him and just destress him</body>
+    </message>
+    <message id="m0005" time="2015-04-10 20:32:17 UTC" participant="153817">
+      <body>No thanks</body>
+    </message>
+    <message id="m0006" time="2015-04-10 20:39:31 UTC" participant="153804">
+      <body>TGIF!! Have a great weekend</body>
+    </message>
+    <message id="m0007" time="2015-04-10 22:16:16 UTC" participant="153817">
+      <body>You too!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140324.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-24 13:52:34 UTC" participant="153454">
+      <body>Good morning, John. This is Michael Young at New York Life. I just want to confirm our appt for today at 2pm, at my office in Horsham, PA.</body>
+    </message>
+    <message id="m0001" time="2014-03-24 13:54:46 UTC" participant="153418">
+      <body>Good morning. That's correct; I'll see you then.</body>
+    </message>
+    <message id="m0002" time="2014-03-24 13:55:54 UTC" participant="153454">
+      <body>Thanks. Please bring along with you all the necessary paperwork and document.</body>
+    </message>
+  </messages>
+</conversation>
+

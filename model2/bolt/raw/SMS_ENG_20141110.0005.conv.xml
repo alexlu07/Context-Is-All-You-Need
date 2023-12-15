@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141110.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-10 14:26:08 UTC" participant="152743">
+      <body>Just checking back on this?</body>
+    </message>
+    <message id="m0001" time="2014-11-10 18:47:22 UTC" participant="152735">
+      <body>Ugh rain check! I am still helping Greg install and then an MFA student offered me a decent amount of money to copyedit their thesis paper by tomorrow so I am *swamped* but when will you be back?</body>
+    </message>
+    <message id="m0002" time="2014-11-10 18:47:34 UTC" participant="152735">
+      <body>Did you like the craft show?</body>
+    </message>
+    <message id="m0003" time="2014-11-11 01:36:00 UTC" participant="152743">
+      <body>Should be back in a couple of weeks! Craft show was great. Many terrific jewelry designers</body>
+    </message>
+  </messages>
+</conversation>
+

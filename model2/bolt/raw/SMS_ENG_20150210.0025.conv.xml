@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150210.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-10 15:47:43 UTC" participant="153547">
+      <body>Hey tomorrow or Thursday is better for me to meet up</body>
+    </message>
+    <message id="m0001" time="2015-02-11 01:05:39 UTC" participant="153602">
+      <body>Hey Hunter. Be around tomorrow morning if you wanna stop by.</body>
+    </message>
+    <message id="m0002" time="2015-02-11 01:39:41 UTC" participant="153547">
+      <body>Ok. I'll text u in the morning</body>
+    </message>
+    <message id="m0003" time="2015-02-11 02:02:11 UTC" participant="153602">
+      <body>Alright.</body>
+    </message>
+    <message id="m0004" time="2015-02-11 13:59:03 UTC" participant="153547">
+      <body>I can be there in 30 min or around 10 if u like</body>
+    </message>
+    <message id="m0005" time="2015-02-11 14:01:16 UTC" participant="153602">
+      <body>9:30 or 10. Whenever u get here is cool.</body>
+    </message>
+  </messages>
+</conversation>
+

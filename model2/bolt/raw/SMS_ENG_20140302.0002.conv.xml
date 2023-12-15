@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140302.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-02 22:15:59 UTC" participant="152417">
+      <body>Im back early because of weather, i may be flying in this evening</body>
+    </message>
+    <message id="m0001" time="2014-03-02 22:30:36 UTC" participant="152560">
+      <body>Yay!!!!</body>
+    </message>
+    <message id="m0002" time="2014-03-02 22:30:59 UTC" participant="152417">
+      <body>I couldnt get ob the flight and everythin is booked tomorrow</body>
+    </message>
+    <message id="m0003" time="2014-03-02 22:31:00 UTC" participant="152560">
+      <body>Let me know I will scoop you right up whenever! </body>
+    </message>
+    <message id="m0004" time="2014-03-02 22:38:45 UTC" participant="152417">
+      <body>Ill be back tomorrow around 6ish</body>
+    </message>
+    <message id="m0005" time="2014-03-02 22:40:20 UTC" participant="152560">
+      <body>I can pick you up-does that mean you can come to the show?</body>
+    </message>
+    <message id="m0006" time="2014-03-02 22:40:21 UTC" participant="152560">
+      <body>:)</body>
+    </message>
+    <message id="m0007" time="2014-03-02 22:42:32 UTC" participant="152417">
+      <body>Hopefully</body>
+    </message>
+    <message id="m0008" time="2014-03-02 22:44:39 UTC" participant="152560">
+      <body>That would be so lovely. I hope you make it back in time. I don't mind getting there late; I'd rather be there with you. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130108.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131510" time="2013-01-08 23:52:13 UTC">
+      <body>Hey! Got your vm. Its not looking good for the polar swim. Im sorry. Things are just so busy! :(</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-01-08 23:52:59 UTC">
+      <body>Oh no! Your crushing my hopes for Kathy in a string bikini!</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-01-08 23:53:32 UTC">
+      <body>Bring your boyfriend, make a weekend out of it!</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-08 23:53:47 UTC">
+      <body>And send me your new address.</body>
+    </message>
+  </messages>
+</conversation>

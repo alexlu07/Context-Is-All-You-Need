@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140801.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-01 11:18:06 UTC" participant="153244">
+      <body>U home or work?</body>
+    </message>
+    <message id="m0001" time="2014-08-01 20:51:09 UTC" participant="153900">
+      <body>How much is that</body>
+    </message>
+    <message id="m0002" time="2014-08-01 20:51:39 UTC" participant="153900">
+      <body>Nice</body>
+    </message>
+    <message id="m0003" time="2014-08-01 21:01:29 UTC" participant="153244">
+      <body>$102 for both cakes</body>
+    </message>
+  </messages>
+</conversation>
+

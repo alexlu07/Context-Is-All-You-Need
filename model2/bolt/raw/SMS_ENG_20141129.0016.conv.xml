@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 14:30:24 UTC" participant="153645">
+      <body>See you at 10:30? </body>
+    </message>
+    <message id="m0001" time="2014-11-29 14:38:11 UTC" participant="153548">
+      <body>Yes!! Can't wait.</body>
+    </message>
+    <message id="m0002" time="2014-11-29 14:40:24 UTC" participant="153645">
+      <body>Yay! </body>
+    </message>
+    <message id="m0003" time="2014-11-29 20:01:04 UTC" participant="153645">
+      <body>It's like walking through a deep freezer outside! Hope you stay warm tonight! </body>
+    </message>
+    <message id="m0004" time="2014-11-29 20:02:27 UTC" participant="153548">
+      <body>Ohhhh great. I am gonna work from bed tonight! </body>
+    </message>
+    <message id="m0005" time="2014-11-29 20:02:44 UTC" participant="153645">
+      <body>Perfect! </body>
+    </message>
+  </messages>
+</conversation>
+

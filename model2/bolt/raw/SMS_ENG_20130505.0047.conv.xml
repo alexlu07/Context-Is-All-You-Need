@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-05 12:50:08 UTC" participant="152427">
+      <body>You want me at city hall @ 11:30?  What's the start time?</body>
+    </message>
+    <message id="m0001" time="2013-05-05 12:52:16 UTC" participant="152427">
+      <body>Ok see you </body>
+    </message>
+    <message id="m0002" time="2013-05-05 12:53:05 UTC" participant="152417">
+      <body>Start time is noon, but the earlier the better because the sound man will be there </body>
+    </message>
+    <message id="m0003" time="2013-05-05 12:53:41 UTC" participant="152417">
+      <body>Ill be there at 10, i would say come at 11</body>
+    </message>
+  </messages>
+</conversation>
+

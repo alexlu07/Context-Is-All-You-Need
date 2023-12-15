@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 11:30:10 UTC" participant="152417">
+      <body>Safely in new york, already waiting for the earlier bus</body>
+    </message>
+    <message id="m0001" time="2013-08-15 11:31:39 UTC" participant="152426">
+      <body>Glad it went smoothly! Welcome home!</body>
+    </message>
+    <message id="m0002" time="2013-08-15 11:37:24 UTC" participant="152426">
+      <body>Did you sleep on the plane</body>
+    </message>
+    <message id="m0003" time="2013-08-15 11:37:51 UTC" participant="152417">
+      <body>Not really</body>
+    </message>
+    <message id="m0004" time="2013-08-15 20:00:27 UTC" participant="152426">
+      <body>Are you home yet?</body>
+    </message>
+    <message id="m0005" time="2013-08-15 20:00:51 UTC" participant="152417">
+      <body>Just got in</body>
+    </message>
+  </messages>
+</conversation>
+

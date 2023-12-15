@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121104.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2012-11-04 00:04:16 UTC">
+      <body>Hey I'm doing work from my apt if you want to join. Work wiped me out today</body>
+    </message>
+    <message id="m0001" participant="135386" time="2012-11-04 00:04:16 UTC">
+      <body>I have hot cocoa and crackers, Oreo cookies</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-04 00:32:10 UTC">
+      <body>￼I'm out!!!!</body>
+    </message>
+    <message id="m0003" participant="135386" time="2012-11-04 00:53:20 UTC">
+      <body>Oooo</body>
+    </message>
+  </messages>
+</conversation>

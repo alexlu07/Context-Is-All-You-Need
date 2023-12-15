@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 18:48:34 UTC" participant="152115">
+      <body>You probably won't know now, but I'm making my schedule for the next six weeks. Is there anything coming for you that maybe I should consider not working for?</body>
+    </message>
+    <message id="m0001" time="2015-02-04 18:52:03 UTC" participant="152115">
+      <body>Dates are from 2/22 to 4/4</body>
+    </message>
+    <message id="m0002" time="2015-02-05 14:42:28 UTC" participant="152115">
+      <body>Happy Nutella Day! Apparently it's a holiday.</body>
+    </message>
+    <message id="m0003" time="2015-02-05 14:55:01 UTC" participant="152116">
+      <body>That's cool. Did you find out from T.V.?</body>
+    </message>
+    <message id="m0004" time="2015-02-05 14:55:18 UTC" participant="152115">
+      <body>Yup</body>
+    </message>
+    <message id="m0005" time="2015-02-05 15:13:21 UTC" participant="152116">
+      <body>While on the train, I found this interesting story about Lithuanians in America. I can't wait to tell you about it. The story unfolds!</body>
+    </message>
+    <message id="m0006" time="2015-02-05 15:14:50 UTC" participant="152115">
+      <body>Haha. Ok. I am interested to hear. I want to be Lithuanian!</body>
+    </message>
+    <message id="m0007" time="2015-02-05 15:16:42 UTC" participant="152116">
+      <body>Haha nice</body>
+    </message>
+    <message id="m0009" time="2015-02-05 15:17:54 UTC" participant="152116">
+      <body>Not that you're bursting to tell her</body>
+    </message>
+    <message id="m0010" time="2015-02-05 15:18:30 UTC" participant="152115">
+      <body>No no. I know it excites you to reveal this information so I wait for you to tell her.</body>
+    </message>
+    <message id="m0011" time="2015-02-05 15:19:27 UTC" participant="152116">
+      <body>Okay :)</body>
+    </message>
+  </messages>
+</conversation>
+

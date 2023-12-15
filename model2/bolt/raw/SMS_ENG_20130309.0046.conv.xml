@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-09 20:08:19 UTC">
+      <body>Where you at?</body>
+    </message>
+    <message id="m0001" participant="135445" time="2013-03-09 20:09:36 UTC">
+      <body>On 3</body>
+    </message>
+    <message id="m0002" participant="135445" time="2013-03-09 20:11:02 UTC">
+      <body>We moved the DMI bunch over a smidge</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-09 20:11:29 UTC">
+      <body>Great.  Should I come down there</body>
+    </message>
+    <message id="m0004" participant="135445" time="2013-03-09 20:11:44 UTC">
+      <body>Only if you want to, are you on campus?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-09 20:12:44 UTC">
+      <body>Yeah on 4.  </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-09 20:13:15 UTC">
+      <body>Are you working? If so, ill just continue up here until Saul gets here then we can commence meeting</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-03-09 20:13:33 UTC">
+      <body>If not ill come down to hang out!</body>
+    </message>
+    <message id="m0008" participant="135445" time="2013-03-09 20:13:52 UTC">
+      <body>Ok what time are we meeting?</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-03-09 20:14:57 UTC">
+      <body>I thought 3</body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-03-09 20:15:04 UTC">
+      <body>Not sure where</body>
+    </message>
+    <message id="m0011" participant="135445" time="2013-03-09 20:20:16 UTC">
+      <body>Ok let's meet at 330 up there. I don't think Saul is coming</body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-03-09 20:21:40 UTC">
+      <body>Ok. Last email we got said he was on his way.. </body>
+    </message>
+    <message id="m0013" participant="130622" time="2013-03-09 20:21:47 UTC">
+      <body>What happened?</body>
+    </message>
+    <message id="m0014" participant="135445" time="2013-03-09 20:22:24 UTC">
+      <body>Ok brt</body>
+    </message>
+    <message id="m0015" participant="130622" time="2013-03-09 20:25:07 UTC">
+      <body>Sauls here!</body>
+    </message>
+  </messages>
+</conversation>

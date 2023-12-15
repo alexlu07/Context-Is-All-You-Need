@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110709.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-09 03:09:43 UTC">
+      <body>Hey! Party? :)</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-09 03:10:33 UTC">
+      <body>It's at blaisdell and 35th</body>
+    </message>
+    <message id="m0002" participant="135098" time="2011-07-09 13:35:26 UTC">
+      <body>Ahhhh!! I'm so sorry I missed out on the partie last night! I had to open at the bank this morning and my body is so tired from working so many hours aft</body>
+    </message>
+    <message id="m0003" participant="135098" time="2011-07-09 13:35:31 UTC">
+      <body>er my car accident - I crashed at 930 last night!! Well AND I didn't have a car. Bah! Caro when do you leave?!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140205.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-05 23:33:36 UTC" participant="153452">
+      <body>Hey did u make it in okay.</body>
+    </message>
+    <message id="m0001" time="2014-02-05 23:34:57 UTC" participant="153418">
+      <body>I'm still at work. I got to work safetly if that's what you're asking. It was just kinda rainy when I left. </body>
+    </message>
+    <message id="m0002" time="2014-02-05 23:36:36 UTC" participant="153452">
+      <body>Coo. Yes that is what I am asking</body>
+    </message>
+    <message id="m0003" time="2014-02-05 23:37:32 UTC" participant="153418">
+      <body>Was it bad earlier in the morning?</body>
+    </message>
+    <message id="m0004" time="2014-02-05 23:39:14 UTC" participant="153452">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

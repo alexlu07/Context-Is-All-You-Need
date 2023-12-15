@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135278" time="2013-02-16 19:11:51 UTC">
+      <body>Hey! Fairleigh said you're going to the pat Humphries and sandy I concert tonight! Is it at 8:30?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-16 19:12:48 UTC">
+      <body>Emma's revolution? Fb says 8:30 yeah</body>
+    </message>
+    <message id="m0002" participant="135278" time="2013-02-16 19:24:48 UTC">
+      <body>Sweet thanks! I was checking cause somewhere I read 7:30 and another place I read 8:30</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136289" time="2012-10-06 01:02:57 UTC">
+      <body>Pregame in Hamilton Holmes!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-06 01:04:00 UTC">
+      <body>Sick! Room number?</body>
+    </message>
+    <message id="m0002" participant="136289" time="2012-10-06 01:12:04 UTC">
+      <body>201b</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-06 01:36:53 UTC">
+      <body>When does it start</body>
+    </message>
+    <message id="m0004" participant="136289" time="2012-10-06 01:38:58 UTC">
+      <body>In like 10 min</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-06 02:35:45 UTC">
+      <body>We're coming now. Is it still going on</body>
+    </message>
+    <message id="m0006" participant="136289" time="2012-10-06 02:38:16 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-10-06 02:41:06 UTC">
+      <body>We need to get in!</body>
+    </message>
+  </messages>
+</conversation>

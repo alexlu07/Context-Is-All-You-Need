@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121126.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-26 02:04:24 UTC">
+      <body>Hey Jonathan, hope you had a good break. I'm going to be late to practice tomorrow because my registration time is at 8:15. I'm not sure when I will be finished but ill head to practice right after I'm done. </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-26 02:05:19 UTC">
+      <body>***correction my registration time tomorrow is 7:00. My registration time on TUESDAY is 8:15, hence me being late</body>
+    </message>
+    <message id="m0002" participant="136282" time="2012-11-26 02:05:34 UTC">
+      <body>Excellent, that works. Cya then.</body>
+    </message>
+    <message id="m0003" participant="136282" time="2012-11-26 02:05:49 UTC">
+      <body>Yeah I got it thanks haha.</body>
+    </message>
+  </messages>
+</conversation>

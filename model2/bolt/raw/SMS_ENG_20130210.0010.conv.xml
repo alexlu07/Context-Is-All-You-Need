@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131294" time="2013-02-10 20:28:51 UTC">
+      <body>hey ##### if youre coming over later do you want to bring those extra clothes from amy that you dont need?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-02-10 21:22:30 UTC">
+      <body>Yup, I was just about to pack them up :)</body>
+    </message>
+  </messages>
+</conversation>

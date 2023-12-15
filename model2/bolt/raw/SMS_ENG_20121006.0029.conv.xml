@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-06 05:09:05 UTC">
+      <body>Are you smoking tonight</body>
+    </message>
+    <message id="m0001" participant="136270" time="2012-10-06 05:09:20 UTC">
+      <body>Where you at</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-06 05:10:48 UTC">
+      <body>Heading back to Dobbs. Currently behind the woodpec</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-06 05:18:04 UTC">
+      <body>Are you at Dobbs</body>
+    </message>
+  </messages>
+</conversation>

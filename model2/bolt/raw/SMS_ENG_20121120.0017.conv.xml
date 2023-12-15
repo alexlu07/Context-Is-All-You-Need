@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121120.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135282" time="2012-11-20 21:29:18 UTC">
+      <body>Hey, did you get your thesis turned in? I'm planning on going home a little earlier than i originally anticipated, but i can stick to my original plan if</body>
+    </message>
+    <message id="m0001" participant="135282" time="2012-11-20 21:29:22 UTC">
+      <body> you need me to print for you. Safe travels/happy thanksgiving!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-20 21:30:23 UTC">
+      <body>Yep I turned it in thanks :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 23:08:48 UTC" participant="153631">
+      <body>Hey! Can I come by and visit you tomorrow evening? Are you gonna be stressed? I can help you pack - I am a good folder!</body>
+    </message>
+    <message id="m0001" time="2014-01-01 23:10:56 UTC" participant="153631">
+      <body>Oh no! </body>
+    </message>
+    <message id="m0002" time="2014-01-01 23:10:56 UTC" participant="153631">
+      <body>Okay!</body>
+    </message>
+    <message id="m0003" time="2014-01-01 23:10:56 UTC" participant="153631">
+      <body>I misread your first message haha</body>
+    </message>
+    <message id="m0004" time="2014-01-01 23:11:40 UTC" participant="153548">
+      <body>I'm going to Stella tmw around 6 for dinner probably won't be back toooooo late. </body>
+    </message>
+    <message id="m0005" time="2014-01-01 23:11:57 UTC" participant="153548">
+      <body>Come by for dessert or something after??</body>
+    </message>
+    <message id="m0006" time="2014-01-01 23:13:04 UTC" participant="153631">
+      <body>Sounds good! </body>
+    </message>
+    <message id="m0007" time="2014-01-01 23:13:22 UTC" participant="153548">
+      <body>I'll let you know what time we are heading back!</body>
+    </message>
+    <message id="m0008" time="2014-01-02 13:07:45 UTC" participant="153548">
+      <body>Good luck at new job today!</body>
+    </message>
+    <message id="m0009" time="2014-01-02 13:09:20 UTC" participant="153631">
+      <body>Thanks! I forgot my temple id!</body>
+    </message>
+    <message id="m0010" time="2014-01-02 16:04:42 UTC" participant="153548">
+      <body>Haha!! Do you know Dave's house number? I'm supposed to drop my keys off at penn but I'm not going to</body>
+    </message>
+    <message id="m0011" time="2014-01-02 16:04:45 UTC" participant="153548">
+      <body>Heh</body>
+    </message>
+    <message id="m0012" time="2014-01-02 16:28:33 UTC" participant="153631">
+      <body>Yeah, fuck em! Unfortunately no I do not know his house number, sorry!</body>
+    </message>
+  </messages>
+</conversation>
+

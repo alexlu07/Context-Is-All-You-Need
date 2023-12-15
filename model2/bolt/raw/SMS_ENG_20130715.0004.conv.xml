@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131717" time="2013-07-15 09:23:20 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="132944" time="2013-07-15 09:48:20 UTC">
+      <body>Hey sup!</body>
+    </message>
+    <message id="m0002" participant="131717" time="2013-07-15 10:59:47 UTC">
+      <body>Haha its hot!</body>
+    </message>
+    <message id="m0003" participant="132944" time="2013-07-15 13:14:49 UTC">
+      <body>I know what area are u in? I'm in philly..soo humid</body>
+    </message>
+    <message id="m0004" participant="131717" time="2013-07-15 13:31:49 UTC">
+      <body>Yes I'm in philly too..germantown Humidity...yes lol</body>
+    </message>
+    <message id="m0005" participant="132944" time="2013-07-15 13:45:07 UTC">
+      <body>I have no ac...took 2 cold showers yesterday! Ha</body>
+    </message>
+    <message id="m0006" participant="131717" time="2013-07-15 13:46:07 UTC">
+      <body>Awww man...lol</body>
+    </message>
+    <message id="m0007" participant="131717" time="2013-07-15 13:47:13 UTC">
+      <body>Gotta stay cool right?!lol</body>
+    </message>
+    <message id="m0008" participant="132944" time="2013-07-15 13:48:17 UTC">
+      <body>Popsicle time</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120506.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131332" time="2012-05-06 03:29:04 UTC">
+      <body>You around tomorrow for me to pick up that sign?</body>
+    </message>
+    <message id="m0001" participant="131332" time="2012-05-06 03:31:12 UTC">
+      <body>Sorry about the hour. </body>
+    </message>
+    <message id="m0002" participant="131332" time="2012-05-06 03:37:36 UTC">
+      <body>I'm flexible all day. Just let me know. Thanks. </body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-05-06 03:37:53 UTC">
+      <body>Yeah I'll be around. Not until the evening though</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-05-06 03:51:24 UTC">
+      <body>Cool I'll give you a call tomm late afternoon</body>
+    </message>
+    <message id="m0005" participant="131332" time="2012-05-06 20:33:04 UTC">
+      <body>My flexibility has changed. Any idea when you'll be around. My wife got called into work and I'm alone with the kid. </body>
+    </message>
+  </messages>
+</conversation>

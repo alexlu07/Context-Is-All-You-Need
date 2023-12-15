@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120914.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-14 18:51:26 UTC">
+      <body>Are you going to the gym today</body>
+    </message>
+    <message id="m0001" participant="136270" time="2012-09-14 19:50:24 UTC">
+      <body>Maybe but prob not</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-14 19:57:52 UTC">
+      <body>That's ok I already went</body>
+    </message>
+    <message id="m0003" participant="136270" time="2012-09-15 03:18:24 UTC">
+      <body>We are on our way to the row Lmosy there</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-15 03:18:34 UTC">
+      <body>I need help getting there</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-15 03:19:50 UTC">
+      <body>I'm at pike</body>
+    </message>
+    <message id="m0006" participant="136270" time="2012-09-15 03:26:56 UTC">
+      <body>Beta </body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-15 03:29:42 UTC">
+      <body>On my way! With girls!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140726.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-26 20:25:52 UTC" participant="149387">
+      <body>Thinking maybe it would be nice to cook something at my place. I have pasta, greens, cheese, etc and a bottle of red and white wine. How's that sound?</body>
+    </message>
+    <message id="m0001" time="2014-07-26 20:27:22 UTC" participant="149306">
+      <body>Great, let me know the time and address</body>
+    </message>
+    <message id="m0002" time="2014-07-26 20:29:19 UTC" participant="149387">
+      <body>I'm ################, 2nd Floor. It's the purple door just passed ######################## Flexible on time, although not super late. </body>
+    </message>
+    <message id="m0003" time="2014-07-26 20:31:12 UTC" participant="149306">
+      <body>Ok I'll be there at 7.</body>
+    </message>
+    <message id="m0004" time="2014-07-26 20:32:13 UTC" participant="149387">
+      <body>Sounds good. I don't have a doorbell, so knock hard or text when you're here.</body>
+    </message>
+    <message id="m0005" time="2014-07-26 20:32:27 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" time="2014-07-26 21:04:11 UTC" participant="149306">
+      <body>Ok sure. I'll meet u at your place at 7</body>
+    </message>
+    <message id="m0008" time="2014-07-26 21:04:30 UTC" participant="149387">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0009" time="2014-07-26 23:00:34 UTC" participant="149306">
+      <body>I think I'm outside ur place</body>
+    </message>
+    <message id="m0010" time="2014-07-26 23:01:03 UTC" participant="149387">
+      <body>Be right down</body>
+    </message>
+    <message id="m0011" time="2014-07-27 17:01:16 UTC" participant="149306">
+      <body>Thanks for taking me out last night and showing me your place. I had a good time, your friends are nice.</body>
+    </message>
+    <message id="m0012" time="2014-07-27 19:50:24 UTC" participant="149387">
+      <body>Always great hanging with you, Nate. We should do it more often.</body>
+    </message>
+    <message id="m0013" time="2014-07-27 19:51:46 UTC" participant="149306">
+      <body>For sure</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121124.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2012-11-24 22:30:24 UTC">
+      <body>Hey, how much money do you think you'll want from us for gas/tolls?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-24 22:38:36 UTC">
+      <body>It's like $35-40 each...I'm not sure exactly how much a tank of gas costs but around that for gas + tolls</body>
+    </message>
+    <message id="m0002" participant="135267" time="2012-11-24 22:38:56 UTC">
+      <body>I wanna say a tank of gas is about $50, does that sound right?</body>
+    </message>
+    <message id="m0003" participant="135267" time="2012-11-24 22:38:56 UTC">
+      <body>Okay let me know when you figure it out.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-24 22:40:09 UTC">
+      <body>Ill look at my receipts, I thought it was closer to 60 but I will look bc that number is from a few years ago</body>
+    </message>
+    <message id="m0005" participant="135267" time="2012-11-24 22:41:04 UTC">
+      <body>Yeah sounds good okay :) see you at 9:30 tomorrow!</body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-11-24 22:41:21 UTC">
+      <body>Ok. Either way its between 30 and 40</body>
+    </message>
+    <message id="m0007" participant="135267" time="2012-11-25 14:09:18 UTC">
+      <body>We're just leaving now</body>
+    </message>
+    <message id="m0008" participant="135080" time="2012-11-25 14:12:45 UTC">
+      <body>K I'm running 15 min. behind</body>
+    </message>
+    <message id="m0009" participant="135267" time="2012-11-25 14:32:32 UTC">
+      <body>Okay we're parked in front of B&amp;N.</body>
+    </message>
+    <message id="m0010" participant="135267" time="2012-11-25 14:50:47 UTC">
+      <body>We're in Starbucks, txt when you get here</body>
+    </message>
+  </messages>
+</conversation>

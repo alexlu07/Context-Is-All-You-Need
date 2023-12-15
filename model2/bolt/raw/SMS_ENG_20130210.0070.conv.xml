@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-10 16:16:12 UTC" participant="152417">
+      <body>Hey, would you be able to take simone out this afternoon and or tomorrow  evening?</body>
+    </message>
+    <message id="m0001" time="2013-02-10 18:09:23 UTC" participant="152533">
+      <body>I cant, im buried, sorry Gabi</body>
+    </message>
+    <message id="m0002" time="2013-02-10 21:09:52 UTC" participant="152417">
+      <body>K, i hope not too deep</body>
+    </message>
+  </messages>
+</conversation>
+

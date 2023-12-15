@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135470" time="2013-04-17 17:26:02 UTC">
+      <body>I will call you later</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-17 17:26:39 UTC">
+      <body>Later? I don't understand. Is that word similar to no?</body>
+    </message>
+    <message id="m0002" participant="135470" time="2013-04-17 17:32:31 UTC">
+      <body>No, it is equal to or the same as awhile </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-18 02:29:01 UTC">
+      <body>I miss your smile. Send me a picture?</body>
+    </message>
+  </messages>
+</conversation>

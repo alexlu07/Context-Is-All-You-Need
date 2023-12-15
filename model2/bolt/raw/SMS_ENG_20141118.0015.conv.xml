@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 19:06:33 UTC" participant="152116">
+      <body>Haha that would be crazy.</body>
+    </message>
+    <message id="m0001" time="2014-11-18 19:06:52 UTC" participant="152116">
+      <body>They say SUV, wouldn't they say jeep?</body>
+    </message>
+    <message id="m0002" time="2014-11-18 19:07:11 UTC" participant="152116">
+      <body>Yeah that's what I was actually thinking. It looks longer</body>
+    </message>
+    <message id="m0003" time="2014-11-18 19:08:02 UTC" participant="153491">
+      <body>I don't know, they may be focusing more on the fatality right now!</body>
+    </message>
+    <message id="m0004" time="2014-11-18 19:08:10 UTC" participant="153491">
+      <body>Priorities!</body>
+    </message>
+  </messages>
+</conversation>
+

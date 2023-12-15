@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137257" time="2013-07-09 20:01:04 UTC">
+      <body>The car</body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-07-09 20:01:04 UTC">
+      <body>The carpet needs to be brought inside bc it might rain soon. </body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-07-09 20:03:12 UTC">
+      <body>I forgot. I'm on train will call them in ten minutes</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-07-09 20:04:12 UTC">
+      <body>I at penn!!!! I'll try to contact the kids </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-07-09 20:05:51 UTC">
+      <body>I just texted Soraya but no response yet! So try to call the boys </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-07-09 20:07:00 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-07-09 20:12:28 UTC">
+      <body>It is inside!!</body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-07-09 20:12:50 UTC">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>

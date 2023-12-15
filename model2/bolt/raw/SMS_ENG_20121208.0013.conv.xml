@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-12-08 02:08:35 UTC">
+      <body>We just ordered food</body>
+    </message>
+    <message id="m0001" participant="135460" time="2012-12-08 21:52:00 UTC">
+      <body>Hey guys, this may be very last minute, but is it possible to change our dinner plans for tomorrow instead? I am starting to feel beat after yesterday and I want to finish my water piece tonight. So is tomorrow okay?</body>
+    </message>
+  </messages>
+</conversation>

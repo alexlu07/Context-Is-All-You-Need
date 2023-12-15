@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121009.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2012-10-09 15:51:28 UTC">
+      <body>Hey want to get together this weekend to study and do the stock thing together </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-09 15:55:31 UTC">
+      <body>Can't this weekend. I have reviews this week.  Plus friend visiting. Could do Thursday night</body>
+    </message>
+    <message id="m0002" participant="135395" time="2012-10-09 17:25:20 UTC">
+      <body>K, miss you!</body>
+    </message>
+    <message id="m0003" participant="135395" time="2012-10-09 17:25:20 UTC">
+      <body>Thursday I have class til 900</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-10 01:56:52 UTC">
+      <body>Drink after class</body>
+    </message>
+  </messages>
+</conversation>

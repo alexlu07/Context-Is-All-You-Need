@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120627.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-27 21:48:43 UTC">
+      <body>I'm a little coconut
+Sitting in a coconut rut
+I'm a nut
+In a rut
+I'm craaaaaaaaaaazy</body>
+    </message>
+    <message id="m0001" participant="136238" time="2012-06-27 21:50:23 UTC">
+      <body>Called myself to see if i was home but nobody awnsered the phone im a nut in a rut im crazy</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-27 21:50:56 UTC">
+      <body>I didn't know there was a second verse</body>
+    </message>
+  </messages>
+</conversation>

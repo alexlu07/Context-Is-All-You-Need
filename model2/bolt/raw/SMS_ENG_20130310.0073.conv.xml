@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-10 14:47:00 UTC" participant="152734">
+      <body>Hey, the horse for this afternoon got sold, boo. So no need to go there - have fun schooling!</body>
+    </message>
+    <message id="m0001" time="2013-03-10 14:47:28 UTC" participant="153305">
+      <body>Sorry!!</body>
+    </message>
+    <message id="m0002" time="2013-03-10 14:49:04 UTC" participant="152734">
+      <body>On to the next one! </body>
+    </message>
+  </messages>
+</conversation>
+

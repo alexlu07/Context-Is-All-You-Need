@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111210.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131833" time="2011-12-10 18:58:12 UTC">
+      <body>Hey anyone who isnt going to formals, could I borrow your cummerbund tonight? I can't find mine, and have to give Ryan's his back </body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-12-10 19:09:44 UTC">
+      <body>Should I wear a tux then? Or still a suit?</body>
+    </message>
+    <message id="m0002" participant="131833" time="2011-12-10 19:09:52 UTC">
+      <body>No worries q, Franklins got me covered</body>
+    </message>
+    <message id="m0003" participant="131833" time="2011-12-10 19:18:24 UTC">
+      <body>I'd go with the tux</body>
+    </message>
+  </messages>
+</conversation>

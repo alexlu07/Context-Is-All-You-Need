@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131375" time="2013-04-28 16:04:14 UTC">
+      <body>Hey, sorry I pocket dialed you!!! </body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-04-28 16:38:37 UTC">
+      <body>Np. Your pocket didn't have much to say...</body>
+    </message>
+  </messages>
+</conversation>

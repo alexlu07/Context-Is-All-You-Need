@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121013.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-10-13 01:55:42 UTC">
+      <body>We are in amins room - no nick</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-13 01:56:11 UTC">
+      <body>Fine</body>
+    </message>
+  </messages>
+</conversation>

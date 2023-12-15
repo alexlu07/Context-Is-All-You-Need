@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110903.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-03 18:45:55 UTC">
+      <body>Movie tonight? Late?</body>
+    </message>
+    <message id="m0001" participant="135112" time="2011-09-03 19:32:06 UTC">
+      <body>My sister is having a party tonight. Not sure if i can. Its her birthday.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-03 20:11:25 UTC">
+      <body>Would you be able to go earlier then? Or is it an all night affair?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-04 16:48:16 UTC">
+      <body>When are you heading to new ulm?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-04 18:53:12 UTC">
+      <body>Nevermind, parents said they dont want me around. Dads acclimating to being home!</body>
+    </message>
+  </messages>
+</conversation>

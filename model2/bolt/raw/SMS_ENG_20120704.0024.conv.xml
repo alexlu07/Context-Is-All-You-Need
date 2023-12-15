@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120704.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-04 23:05:24 UTC">
+      <body>Where are ya</body>
+    </message>
+    <message id="m0001" participant="136213" time="2012-07-04 23:06:40 UTC">
+      <body>Traiiiin</body>
+    </message>
+    <message id="m0002" participant="136213" time="2012-07-04 23:06:40 UTC">
+      <body>Gets to penn at 8</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-04 23:07:35 UTC">
+      <body>Kk. How many people are coming here with you</body>
+    </message>
+    <message id="m0004" participant="136213" time="2012-07-04 23:19:28 UTC">
+      <body>Probably like 10?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-04 23:20:06 UTC">
+      <body>Ohh Kk</body>
+    </message>
+    <message id="m0006" participant="136213" time="2012-07-04 23:40:48 UTC">
+      <body>Actually probably fewer</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-07-04 23:41:15 UTC">
+      <body>Alright that's fine bring whoever</body>
+    </message>
+  </messages>
+</conversation>

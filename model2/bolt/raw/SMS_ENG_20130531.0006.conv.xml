@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131200" time="2013-05-31 12:19:13 UTC">
+      <body>Hi! Whats the haps?</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-05-31 12:59:58 UTC">
+      <body>Nothing much</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-05-31 12:59:58 UTC">
+      <body>Hungry! Going to try to fit lunch in between meetings.</body>
+    </message>
+    <message id="m0003" participant="131200" time="2013-05-31 14:26:18 UTC">
+      <body>I hope you did! I find that hunger can make you so incredibly mean and cranky - like a whole different person! I call it Hangry...</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-05-31 15:22:19 UTC">
+      <body>Exactly!</body>
+    </message>
+    <message id="m0005" participant="131003" time="2013-05-31 20:11:43 UTC">
+      <body>Yikes.</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-05-31 20:11:43 UTC">
+      <body>If you are a phillies phan I hope you're not watching this inning</body>
+    </message>
+    <message id="m0007" participant="131200" time="2013-05-31 20:56:07 UTC">
+      <body>I am a phan by default but baseball isnt my sport. I know its lame but the only things I follow are MMA (UFC) and professional starcraft. I promise Im no</body>
+    </message>
+    <message id="m0008" participant="131200" time="2013-05-31 20:56:07 UTC">
+      <body>t as terrible as I sound.</body>
+    </message>
+    <message id="m0009" participant="131003" time="2013-05-31 21:07:56 UTC">
+      <body>Haha that doesn't sound terrible</body>
+    </message>
+    <message id="m0010" participant="131003" time="2013-05-31 21:08:52 UTC">
+      <body>Not my cup of tea. I think it's a guy thing.</body>
+    </message>
+    <message id="m0011" participant="131003" time="2013-06-01 10:48:33 UTC">
+      <body>Good morning!</body>
+    </message>
+    <message id="m0012" participant="131003" time="2013-06-01 10:48:33 UTC">
+      <body>Unless you've been up for a while...</body>
+    </message>
+    <message id="m0013" participant="131003" time="2013-06-01 10:50:17 UTC">
+      <body>It is blazing hot out already! And I live in a pretty college-y area so there are lots of people moving in and out this weekend. Yuck. Sounds like a sweaty chore today.</body>
+    </message>
+    <message id="m0014" participant="131003" time="2013-06-01 10:50:17 UTC">
+      <body>And yesterday</body>
+    </message>
+  </messages>
+</conversation>

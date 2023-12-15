@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121017.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-17 15:04:29 UTC">
+      <body>Looks like I will have to come home on Wednesday after my 9:30am class</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-10-17 16:00:46 UTC">
+      <body>Ok so look for midafternoon flights?</body>
+    </message>
+  </messages>
+</conversation>

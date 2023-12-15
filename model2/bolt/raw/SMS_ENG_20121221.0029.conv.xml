@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121221.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-21 23:56:21 UTC">
+      <body>I won't be home for dinner but I should be home in time to visit before they leave</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-21 23:57:19 UTC">
+      <body>I got JJ the David Foster Wallace book and the Tom Wolfe book so don't get him those!</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-12-21 23:57:56 UTC">
+      <body>Ok I have a place set for you</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-12-22 20:33:44 UTC">
+      <body>Watching jumanji!!</body>
+    </message>
+  </messages>
+</conversation>

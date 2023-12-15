@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131223.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-23 23:15:12 UTC" participant="153631">
+      <body>How was your last day??</body>
+    </message>
+    <message id="m0001" time="2013-12-24 00:19:37 UTC" participant="153548">
+      <body>It was lame.</body>
+    </message>
+    <message id="m0002" time="2013-12-24 00:19:44 UTC" participant="153548">
+      <body>But. I am done!</body>
+    </message>
+    <message id="m0003" time="2013-12-24 00:20:06 UTC" participant="153548">
+      <body>Can't believe it. How is the desert?</body>
+    </message>
+    <message id="m0004" time="2013-12-24 00:46:53 UTC" participant="153631">
+      <body>￼Oh, I am here now </body>
+    </message>
+    <message id="m0005" time="2013-12-24 00:51:18 UTC" participant="153548">
+      <body>Omg!</body>
+    </message>
+    <message id="m0006" time="2013-12-24 00:51:28 UTC" participant="153548">
+      <body>So beautiful.</body>
+    </message>
+    <message id="m0007" time="2013-12-24 01:04:00 UTC" participant="153631">
+      <body>￼A bright purple starfish!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121226.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-12-26 14:52:51 UTC">
+      <body>Working today? If you're  around let me know and we can take care of that document</body>
+    </message>
+    <message id="m0001" participant="131508" time="2012-12-26 15:22:48 UTC">
+      <body>I'm working but if your available this afternoon I get home around 5:30. </body>
+    </message>
+    <message id="m0002" participant="130706" time="2012-12-26 15:30:30 UTC">
+      <body>I think we can make something work. Shoot me a text when you're home.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-27 05:28:39 UTC">
+      <body>If alright with you guys, we'd love to have you over sometime tomorrow night for drinks and Notary stuff.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2012-12-27 19:07:56 UTC">
+      <body>Any word on tonight?</body>
+    </message>
+  </messages>
+</conversation>

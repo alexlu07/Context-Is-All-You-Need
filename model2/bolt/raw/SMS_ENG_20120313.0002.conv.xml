@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120313.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-03-13 20:50:02 UTC">
+      <body>Tickets yet?</body>
+    </message>
+    <message id="m0001" participant="135093" time="2012-03-13 21:15:44 UTC">
+      <body>1245 bus, arrive at 250 - does that sound good?</body>
+    </message>
+    <message id="m0002" participant="135093" time="2012-03-14 12:58:40 UTC">
+      <body>What time does the show start on Friday? I'm not going to get there as early as I would have liked but I want to arrive at least an hour and 20 before curtain :)</body>
+    </message>
+    <message id="m0003" participant="135093" time="2012-03-14 13:39:12 UTC">
+      <body>Brannans boys got sick and we r having this firebird reception but I can leave by 3!</body>
+    </message>
+    <message id="m0004" participant="135093" time="2012-03-14 13:49:52 UTC">
+      <body>Make that 2!</body>
+    </message>
+  </messages>
+</conversation>

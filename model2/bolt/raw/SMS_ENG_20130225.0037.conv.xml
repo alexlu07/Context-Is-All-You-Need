@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135286" time="2013-02-25 23:32:16 UTC">
+      <body>I think that might be off limits because he works there at 12:30. I'll consult.</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-25 23:32:55 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="135286" time="2013-02-25 23:34:02 UTC">
+      <body>There are a lot of rules to the josh game.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-25 23:34:08 UTC">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>

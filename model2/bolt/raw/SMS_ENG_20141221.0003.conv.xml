@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141221.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-21 00:42:09 UTC" participant="152417">
+      <body>Bagels bright and early tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-12-21 00:52:39 UTC" participant="152644">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" time="2014-12-21 00:55:39 UTC" participant="152417">
+      <body>I usually drive up, i can come get you.  Hows 930?</body>
+    </message>
+    <message id="m0003" time="2014-12-21 00:57:26 UTC" participant="152644">
+      <body>That would be divine!</body>
+    </message>
+    <message id="m0004" time="2014-12-21 14:36:04 UTC" participant="152417">
+      <body>On my way.. Be there in like ten minutes </body>
+    </message>
+    <message id="m0005" time="2014-12-21 14:36:22 UTC" participant="152644">
+      <body>Perfect </body>
+    </message>
+  </messages>
+</conversation>
+

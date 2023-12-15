@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140414.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-14 18:54:10 UTC" participant="153562">
+      <body>Do you have a pneumatic staple gun that I could borrow for a night or two?</body>
+    </message>
+    <message id="m0001" time="2014-04-14 18:54:55 UTC" participant="153547">
+      <body>Nope</body>
+    </message>
+  </messages>
+</conversation>
+

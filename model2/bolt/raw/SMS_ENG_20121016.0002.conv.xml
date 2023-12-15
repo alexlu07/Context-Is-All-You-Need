@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121016.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-10-16 19:28:41 UTC">
+      <body>Coming back tmmrw. I miss you.</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-16 19:30:18 UTC">
+      <body>I miss you too! Your photos are beautiful </body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-10-16 20:45:10 UTC">
+      <body>Thanks. </body>
+    </message>
+    <message id="m0003" participant="131055" time="2012-10-16 20:50:53 UTC">
+      <body/>
+    </message>
+    <message id="m0004" participant="131055" time="2012-10-16 22:01:42 UTC">
+      <body>My cat that lives with my m</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-10-17 00:53:51 UTC">
+      <body>Hmm?</body>
+    </message>
+  </messages>
+</conversation>

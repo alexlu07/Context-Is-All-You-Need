@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140726.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-26 01:09:25 UTC" participant="153547">
+      <body>Hey Nick, I am headed to baltimore in the morning. I'm planning on doing some cycling and swimming but I would love to swing by if anything is going on or we could meet up if you wanna go swimming somewhere</body>
+    </message>
+    <message id="m0001" time="2014-07-26 01:59:15 UTC" participant="153592">
+      <body>Sounds good, Sunday were having a party u should come by</body>
+    </message>
+    <message id="m0002" time="2014-07-26 02:00:44 UTC" participant="153547">
+      <body>Ok will do</body>
+    </message>
+  </messages>
+</conversation>
+

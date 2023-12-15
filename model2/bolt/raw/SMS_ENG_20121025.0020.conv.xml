@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121025.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-10-25 01:56:22 UTC">
+      <body>Are you home? </body>
+    </message>
+    <message id="m0001" participant="136725" time="2012-10-25 01:57:07 UTC">
+      <body>Yup! What's up</body>
+    </message>
+    <message id="m0002" participant="131015" time="2012-10-25 01:59:05 UTC">
+      <body>I got something for you if you want it. Come outside</body>
+    </message>
+    <message id="m0003" participant="136725" time="2012-10-25 01:59:37 UTC">
+      <body>Coming!</body>
+    </message>
+    <message id="m0004" participant="136725" time="2012-10-25 02:02:57 UTC">
+      <body>So thoughtful,you guys are  the best. Xo</body>
+    </message>
+    <message id="m0005" participant="131015" time="2012-10-25 02:04:55 UTC">
+      <body>Any time babe.</body>
+    </message>
+    <message id="m0006" participant="136725" time="2012-10-25 02:05:54 UTC">
+      <body>Hope you guys come to the farm!</body>
+    </message>
+  </messages>
+</conversation>

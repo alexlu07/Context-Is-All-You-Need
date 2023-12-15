@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 22:22:50 UTC" participant="152116">
+      <body>Do you want me or your dad to get ?</body>
+    </message>
+    <message id="m0001" time="2015-01-02 22:22:51 UTC" participant="152116">
+      <body>You</body>
+    </message>
+    <message id="m0002" time="2015-01-02 22:51:30 UTC" participant="152115">
+      <body>I guess you can get me to save him from finding parking.</body>
+    </message>
+    <message id="m0003" time="2015-01-02 22:52:16 UTC" participant="152116">
+      <body>K</body>
+    </message>
+    <message id="m0004" time="2015-01-02 22:53:20 UTC" participant="152115">
+      <body>Be here close to 730.</body>
+    </message>
+    <message id="m0005" time="2015-01-02 22:54:19 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0006" time="2015-01-03 00:27:45 UTC" participant="152116">
+      <body>I'm outside</body>
+    </message>
+  </messages>
+</conversation>
+

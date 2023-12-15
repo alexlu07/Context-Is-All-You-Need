@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130868" time="2013-06-26 17:16:24 UTC">
+      <body>Okay, okay, something by tonight.  Cross my heart, hope to die, stick a needle in my eye!</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-26 17:53:48 UTC">
+      <body>Oh lawwd, not the eye-needle trick! Save yr sight, I beg you</body>
+    </message>
+    <message id="m0002" participant="130868" time="2013-06-26 18:34:32 UTC">
+      <body>Ehh, I really only need one eye. </body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-06-26 18:52:52 UTC">
+      <body>Fair nough</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110605.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-05 23:28:15 UTC">
+      <body>So are you busy on Tuesday and Wednesday?</body>
+    </message>
+    <message id="m0001" participant="135094" time="2011-06-05 23:30:22 UTC">
+      <body>Nope. Shouldn't be.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-05 23:32:06 UTC">
+      <body>Good. Partie. Although right now I couldn't if I tried</body>
+    </message>
+    <message id="m0003" participant="135094" time="2011-06-05 23:35:40 UTC">
+      <body>Okeedoke.  last night was the first partying I've done in a while. A little too much maybe. But I should be recovered by tuesday. </body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-05 23:36:08 UTC">
+      <body>Who with?</body>
+    </message>
+    <message id="m0005" participant="135094" time="2011-06-05 23:46:19 UTC">
+      <body>Scott. The aaker-harris family. Clara. Sean. Molly baeverstad.</body>
+    </message>
+  </messages>
+</conversation>

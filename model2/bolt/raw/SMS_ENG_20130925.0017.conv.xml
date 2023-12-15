@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130925.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-25 19:53:53 UTC" participant="154404">
+      <body>Hey you! House Party Saturday night in Philly on the CS page. Are you going?</body>
+    </message>
+    <message id="m0001" time="2013-09-25 22:09:58 UTC" participant="154352">
+      <body>I hadn't made any plans for sat night yet. I could probably go. Are you going?</body>
+    </message>
+    <message id="m0002" time="2013-09-25 22:13:20 UTC" participant="154404">
+      <body>Yup! Most definitely! I'm excited. I haven't seen my Philly peeps in months!</body>
+    </message>
+    <message id="m0003" time="2013-09-26 01:45:04 UTC" participant="154352">
+      <body>Cool. I'll swing by.</body>
+    </message>
+  </messages>
+</conversation>
+

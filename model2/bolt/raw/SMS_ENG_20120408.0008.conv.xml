@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120408.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-08 18:12:06 UTC">
+      <body>Getting stuff together for a last minute shoot this week for Funny or Die. Kris Humphries from the Nets is in it haha</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-08 18:12:14 UTC">
+      <body>What are you up to?</body>
+    </message>
+    <message id="m0002" participant="131329" time="2012-04-08 18:12:16 UTC">
+      <body>What are you up to today?</body>
+    </message>
+    <message id="m0003" participant="131329" time="2012-04-08 18:12:16 UTC">
+      <body>Both</body>
+    </message>
+    <message id="m0004" participant="131329" time="2012-04-08 18:14:24 UTC">
+      <body>Nothing really. Hangin out. Have the day off. Kinda want some beer. </body>
+    </message>
+    <message id="m0005" participant="131329" time="2012-04-08 18:18:54 UTC">
+      <body>I'd grab a beer at McCuskers and watch the second half of this Knicks Bulls game</body>
+    </message>
+    <message id="m0006" participant="131329" time="2012-04-08 18:25:04 UTC">
+      <body>I'd rather just grab something from 17 Snyder and hang at the house I think</body>
+    </message>
+    <message id="m0007" participant="130692" time="2012-04-08 18:56:15 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" participant="131329" time="2012-04-08 18:57:04 UTC">
+      <body>On my way</body>
+    </message>
+  </messages>
+</conversation>

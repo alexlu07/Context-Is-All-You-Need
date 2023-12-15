@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140223.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-23 14:18:24 UTC" participant="153547">
+      <body>Shit, it slipped my mind yesterday. I'm sorry. I can come by your place or wherever to get them from you</body>
+    </message>
+    <message id="m0001" time="2014-02-23 14:19:44 UTC" participant="153559">
+      <body>I left them at PENN we can meet tomorrow either morning 8:00 or after 4:30 </body>
+    </message>
+    <message id="m0002" time="2014-02-24 12:15:15 UTC" participant="153547">
+      <body>I'll meet u at 8</body>
+    </message>
+    <message id="m0003" time="2014-02-24 12:47:07 UTC" participant="153547">
+      <body>I'm here. I'll wait at the rear entrance unless you say otherwise</body>
+    </message>
+    <message id="m0004" time="2014-02-24 13:01:59 UTC" participant="153559">
+      <body>Head up or I'll be down in a minute</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121027.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-27 05:00:34 UTC">
+      <body>What happened to you guys</body>
+    </message>
+    <message id="m0001" participant="136267" time="2012-10-27 05:00:48 UTC">
+      <body>It was a journey. But we're back at beta </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-27 14:10:52 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-10-27 14:19:44 UTC">
+      <body>I can't.  sorry</body>
+    </message>
+    <message id="m0004" participant="136267" time="2012-10-27 14:21:41 UTC">
+      <body>Actually nvm. I can. Are you ready now?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-27 14:22:22 UTC">
+      <body>We are already here. But wait till 10:30 cuz that's when they put out the food</body>
+    </message>
+  </messages>
+</conversation>

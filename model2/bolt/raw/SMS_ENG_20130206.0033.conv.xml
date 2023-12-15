@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130206.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-06 16:21:33 UTC" participant="152391">
+      <body>Hey maybe Dinner Monday?</body>
+    </message>
+    <message id="m0001" time="2013-02-06 16:22:07 UTC" participant="152374">
+      <body>Yes if we can do 7:30 or so!</body>
+    </message>
+    <message id="m0002" time="2013-02-06 16:22:34 UTC" participant="152391">
+      <body>Looking good</body>
+    </message>
+    <message id="m0003" time="2013-02-06 16:23:19 UTC" participant="152374">
+      <body>Sweet! I'm putting it on the calendar</body>
+    </message>
+    <message id="m0004" time="2013-02-06 16:39:03 UTC" participant="152391">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>
+

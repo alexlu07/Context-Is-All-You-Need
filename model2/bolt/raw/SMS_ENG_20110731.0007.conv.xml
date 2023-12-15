@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110731.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135125" time="2011-07-31 01:41:52 UTC">
+      <body>Hello, dear Martha. Are you coming down for the reunion next weekend?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-31 02:32:18 UTC">
+      <body>I am! Can't wait!!!!!</body>
+    </message>
+  </messages>
+</conversation>

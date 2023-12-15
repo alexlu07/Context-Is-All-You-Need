@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132550" time="2013-05-10 11:16:22 UTC">
+      <body>You know we have your latest prescription cards right?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-05-10 13:03:32 UTC">
+      <body>OK no I didn't know. Its not imperative I get it right away or anything</body>
+    </message>
+  </messages>
+</conversation>

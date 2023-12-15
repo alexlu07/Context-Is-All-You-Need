@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 23:09:32 UTC" participant="152121">
+      <body> That's nice with the cat</body>
+    </message>
+    <message id="m0001" time="2014-09-20 23:09:54 UTC" participant="152115">
+      <body>Haha. Yeah. That's Abby.</body>
+    </message>
+  </messages>
+</conversation>
+

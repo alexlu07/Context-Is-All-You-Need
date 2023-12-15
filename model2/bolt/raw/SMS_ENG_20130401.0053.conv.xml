@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-01 18:50:28 UTC" participant="152417">
+      <body>Do you want some soup when you get back?</body>
+    </message>
+    <message id="m0001" time="2013-04-01 19:01:31 UTC" participant="152560">
+      <body>No thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

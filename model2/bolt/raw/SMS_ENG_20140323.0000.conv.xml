@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140323.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-23 13:41:35 UTC" participant="149306">
+      <body>Do u want me to drop off the key for biggie?</body>
+    </message>
+    <message id="m0001" time="2014-03-23 13:45:36 UTC" participant="149387">
+      <body>That's ok. We'll do the exchange when you get paid. </body>
+    </message>
+    <message id="m0002" time="2014-03-23 13:57:50 UTC" participant="149306">
+      <body>Okey</body>
+    </message>
+  </messages>
+</conversation>
+

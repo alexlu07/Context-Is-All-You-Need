@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131229.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-29 21:11:19 UTC" participant="152734">
+      <body>Yo dee! I think we're going to leave va shortly and get to the beach lateish - sound ok? We were debating leaving tomorrow am but BEACH!</body>
+    </message>
+    <message id="m0001" time="2013-12-29 21:23:02 UTC" participant="153269">
+      <body>Ok!  We're on the road now</body>
+    </message>
+    <message id="m0002" time="2013-12-30 02:44:16 UTC" participant="153269">
+      <body>We're headed to sun dogs now!</body>
+    </message>
+    <message id="m0003" time="2013-12-30 02:46:40 UTC" participant="152734">
+      <body>Pajama karaoke!!! We're almost to the bridge. We might meet you there? This is Richard, btw</body>
+    </message>
+    <message id="m0004" time="2013-12-30 02:52:48 UTC" participant="153269">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0005" time="2013-12-30 16:03:53 UTC" participant="152734">
+      <body>Hey, we're locked out </body>
+    </message>
+    <message id="m0006" time="2013-12-30 16:18:24 UTC" participant="152734">
+      <body>I know you're in there</body>
+    </message>
+    <message id="m0007" time="2013-12-30 16:18:37 UTC" participant="152734">
+      <body>I hear bulldogs </body>
+    </message>
+  </messages>
+</conversation>
+

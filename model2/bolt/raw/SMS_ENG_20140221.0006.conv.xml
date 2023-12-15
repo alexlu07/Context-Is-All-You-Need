@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140221.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-21 14:01:37 UTC" participant="153547">
+      <body>Hey please put one of the bags of canelli in 6 cups of water now for tonight.</body>
+    </message>
+    <message id="m0001" time="2014-02-21 14:15:32 UTC" participant="153547">
+      <body>I'm here </body>
+    </message>
+    <message id="m0002" time="2014-02-21 14:15:47 UTC" participant="153547">
+      <body>Oops not for u</body>
+    </message>
+    <message id="m0003" time="2014-02-21 15:59:05 UTC" participant="153557">
+      <body>Hey just got this. Doing it now: just to soak right?</body>
+    </message>
+    <message id="m0004" time="2014-02-21 16:03:18 UTC" participant="153547">
+      <body>Too late. Just wait til tonight and we'll do em tomorrow</body>
+    </message>
+    <message id="m0005" time="2014-02-21 16:04:16 UTC" participant="153557">
+      <body>Okay. Sorry. We can get that free pizza tonight</body>
+    </message>
+  </messages>
+</conversation>
+

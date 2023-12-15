@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-03-18 16:25:58 UTC">
+      <body>Auction this evening? Maybe? The 1 by the airport.</body>
+    </message>
+    <message id="m0001" participant="136725" time="2013-03-18 17:45:33 UTC">
+      <body>Damn I don't think I can tonight. </body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-03-18 17:46:39 UTC">
+      <body>No Biggs.</body>
+    </message>
+  </messages>
+</conversation>

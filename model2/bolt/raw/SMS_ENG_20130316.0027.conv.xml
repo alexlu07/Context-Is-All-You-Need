@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-03-16 20:34:38 UTC">
+      <body>Any interest in ordering delivery from peace a pizza for dinner?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-16 20:35:37 UTC">
+      <body>I still have leftover Chinese food but we can eat together! :)</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-03-16 20:36:21 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131115.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-15 15:59:31 UTC" participant="154352">
+      <body>Reminder: today is the day</body>
+    </message>
+    <message id="m0001" time="2013-11-15 16:01:36 UTC" participant="154405">
+      <body>Yea I'll be leaving in about 10-15</body>
+    </message>
+    <message id="m0002" time="2013-11-15 16:40:56 UTC" participant="154405">
+      <body>5mins</body>
+    </message>
+    <message id="m0003" time="2013-11-15 16:46:10 UTC" participant="154405">
+      <body>Here</body>
+    </message>
+    <message id="m0004" time="2013-11-15 16:46:33 UTC" participant="154352">
+      <body>Come in</body>
+    </message>
+  </messages>
+</conversation>
+

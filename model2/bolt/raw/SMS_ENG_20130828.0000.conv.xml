@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130828.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-28 16:34:50 UTC" participant="152486">
+      <body>Hi, sorry for late response. Does 8am work? If no, 6pm?</body>
+    </message>
+    <message id="m0001" time="2013-08-28 16:35:34 UTC" participant="152417">
+      <body>6 pm should be good</body>
+    </message>
+    <message id="m0002" time="2013-08-28 17:59:20 UTC" participant="152417">
+      <body>Does 730 work for you? We'll meet at the apartment</body>
+    </message>
+    <message id="m0003" time="2013-08-29 01:28:00 UTC" participant="152486">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-28 17:39:35 UTC">
+      <body>hey, could you possibly pick candace and i up for idx tonight? </body>
+    </message>
+    <message id="m0001" participant="136192" time="2013-04-28 17:48:07 UTC">
+      <body>Sure. We have a small group leader meeting at 445 so I'll be there around 435. </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-28 17:48:16 UTC">
+      <body>great, thanks! </body>
+    </message>
+    <message id="m0003" participant="136192" time="2013-04-28 17:48:54 UTC">
+      <body>No problem</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-07 18:57:04 UTC" participant="153301">
+      <body>Hey. How has Louie been this week? Were you able to ride during the week at all?</body>
+    </message>
+    <message id="m0001" time="2013-03-07 19:14:50 UTC" participant="152734">
+      <body>Hey, welcome back! I rode sat-mon. He felt extra stiff on one cold day but he's been his usual good self. Hope you had a great trip!</body>
+    </message>
+    <message id="m0002" time="2013-03-07 19:22:40 UTC" participant="153301">
+      <body>And tomorrow is your day too, right? </body>
+    </message>
+    <message id="m0003" time="2013-03-07 19:33:21 UTC" participant="152734">
+      <body>Yup - fri/sun/mon is still good for me if it works for you. I might not be able to ride Sunday this week, but I'll let you know when I find out for sure.</body>
+    </message>
+    <message id="m0004" time="2013-03-08 00:21:20 UTC" participant="153301">
+      <body>Ok. Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

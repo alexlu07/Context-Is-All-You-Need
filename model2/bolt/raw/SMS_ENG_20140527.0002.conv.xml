@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140527.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-27 22:12:50 UTC" participant="153472">
+      <body>Any interest in a walk after the storm passes?</body>
+    </message>
+    <message id="m0001" time="2014-05-27 22:13:58 UTC" participant="152374">
+      <body>If I can get enough work done yes! But it looks like the storm might last a while </body>
+    </message>
+    <message id="m0002" time="2014-05-27 22:16:36 UTC" participant="153472">
+      <body>No rush. I'm making dinner now. We can wait and see how things look (both work-wise and weather-wise) in a bit.</body>
+    </message>
+    <message id="m0003" time="2014-05-27 22:17:53 UTC" participant="152374">
+      <body>Sounds good! </body>
+    </message>
+  </messages>
+</conversation>
+

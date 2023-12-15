@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110623.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135115" time="2011-06-23 17:14:59 UTC">
+      <body>Have you heard of piccalo? I'm watching bourdain and he's in minneapolis eating there</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-23 17:15:31 UTC">
+      <body>Mmmmmmmm nope! What kind of food is it?</body>
+    </message>
+    <message id="m0002" participant="135115" time="2011-06-23 17:16:47 UTC">
+      <body>Fusion i think? Fancy and super pretentious. Looks awesome</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-23 17:28:36 UTC">
+      <body>Doesn't sound like my scene. $1 tacos please.</body>
+    </message>
+    <message id="m0004" participant="135115" time="2011-06-23 17:31:59 UTC">
+      <body>I have yet to eat anywhere outside of my home. I wonder what the world is like out there! I just asked my mom for tacos and now she's making them. I want spice!</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-23 17:32:49 UTC">
+      <body>Hah. Tell her! Tell her to get 'chili'.</body>
+    </message>
+  </messages>
+</conversation>

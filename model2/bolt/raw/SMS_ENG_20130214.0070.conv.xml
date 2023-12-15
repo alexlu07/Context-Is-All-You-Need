@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-14 18:56:42 UTC" participant="153442">
+      <body>Hey I'm in the hall. Are you inside?</body>
+    </message>
+    <message id="m0001" time="2013-02-14 19:03:02 UTC" participant="153418">
+      <body>Yes.</body>
+    </message>
+  </messages>
+</conversation>
+

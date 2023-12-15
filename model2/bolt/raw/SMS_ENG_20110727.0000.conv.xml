@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110727.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-27 23:27:04 UTC">
+      <body>Pat's here and going to happy hour at duplex! You free?</body>
+    </message>
+    <message id="m0001" participant="135101" time="2011-07-28 00:05:00 UTC">
+      <body>I'm in LA :( just had a rocking interview.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-28 00:06:20 UTC">
+      <body>Congrats! Well he misses you.</body>
+    </message>
+    <message id="m0003" participant="135101" time="2011-07-28 00:06:59 UTC">
+      <body>I miss him too. How long is he around for?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-28 00:12:38 UTC">
+      <body>Only until Friday :(</body>
+    </message>
+  </messages>
+</conversation>

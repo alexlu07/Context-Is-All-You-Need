@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120807.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135418" time="2012-08-07 01:58:01 UTC">
+      <body>Are you in the city?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-08-07 01:58:33 UTC">
+      <body>Nah how was your date? You missed an awesome night</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-08-07 01:58:39 UTC">
+      <body>We crashed a wedding</body>
+    </message>
+    <message id="m0003" participant="135418" time="2012-08-07 02:06:53 UTC">
+      <body>Your a bitch</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-08-07 02:10:38 UTC">
+      <body>Nah you are the bitch</body>
+    </message>
+  </messages>
+</conversation>

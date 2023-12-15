@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 22:22:40 UTC" participant="154900">
+      <body>yes or no</body>
+    </message>
+    <message id="m0001" time="2015-02-10 01:32:40 UTC" participant="153244">
+      <body>Hmmm... im going to go with no.</body>
+    </message>
+    <message id="m0002" time="2015-02-10 01:33:01 UTC" participant="154900">
+      <body>okaay me too!!</body>
+    </message>
+    <message id="m0003" time="2015-02-10 01:33:35 UTC" participant="153244">
+      <body>Ahaha ok</body>
+    </message>
+  </messages>
+</conversation>
+

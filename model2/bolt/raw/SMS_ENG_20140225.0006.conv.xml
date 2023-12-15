@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140225.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-25 17:40:55 UTC" participant="153553">
+      <body>Hey Lindsey! I'll text you when I'm ready to go!</body>
+    </message>
+    <message id="m0001" time="2014-02-25 17:41:23 UTC" participant="153548">
+      <body>Sounds good! I still need to blow dry my hair </body>
+    </message>
+    <message id="m0002" time="2014-02-25 18:09:50 UTC" participant="153553">
+      <body>Can we just do 1:30 after all? I need to finish up some emailing!</body>
+    </message>
+    <message id="m0003" time="2014-02-25 18:10:21 UTC" participant="153548">
+      <body>Sure! I can drive today too!</body>
+    </message>
+    <message id="m0004" time="2014-02-25 18:10:43 UTC" participant="153548">
+      <body>Mama has the car</body>
+    </message>
+    <message id="m0005" time="2014-02-25 18:16:55 UTC" participant="153553">
+      <body>Woah! Do you mind if we meet there? I have a client in center city at 3:30 and I could leave straight from lunch if we have separate cars! :)</body>
+    </message>
+    <message id="m0006" time="2014-02-25 18:17:56 UTC" participant="153548">
+      <body>That works better for me too. I need to go to whole foods after and have a hair cut</body>
+    </message>
+    <message id="m0007" time="2014-02-25 18:19:04 UTC" participant="153553">
+      <body>Cool! I'll see you there in like 12 mins! :)</body>
+    </message>
+    <message id="m0008" time="2014-02-25 18:19:26 UTC" participant="153548">
+      <body>Awesome! See you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150219.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-19 15:36:05 UTC" participant="153423">
+      <body>Are you working today and tomoro</body>
+    </message>
+    <message id="m0001" time="2015-02-19 16:04:01 UTC" participant="153417">
+      <body>Yep. Unfortunately </body>
+    </message>
+    <message id="m0002" time="2015-02-19 16:11:30 UTC" participant="153423">
+      <body>Me too</body>
+    </message>
+    <message id="m0003" time="2015-02-19 16:22:54 UTC" participant="153417">
+      <body>It's so cold out today </body>
+    </message>
+    <message id="m0004" time="2015-02-19 16:23:14 UTC" participant="153423">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" time="2015-02-19 18:59:12 UTC" participant="153423">
+      <body>Can u pick me up at my house tomorow </body>
+    </message>
+    <message id="m0006" time="2015-02-19 19:11:52 UTC" participant="153417">
+      <body>That shouldn't be a problem. You and Ed?What time will you be ready?</body>
+    </message>
+    <message id="m0007" time="2015-02-19 19:22:40 UTC" participant="153423">
+      <body>No just me</body>
+    </message>
+    <message id="m0008" time="2015-02-19 19:22:40 UTC" participant="153423">
+      <body>U tell me</body>
+    </message>
+    <message id="m0009" time="2015-02-19 19:23:38 UTC" participant="153417">
+      <body>I'll probably leave my house around 730ish.</body>
+    </message>
+    <message id="m0010" time="2015-02-19 19:24:02 UTC" participant="153423">
+      <body>Ok</body>
+    </message>
+    <message id="m0011" time="2015-02-19 19:24:13 UTC" participant="153423">
+      <body>Ed will come around 9</body>
+    </message>
+    <message id="m0012" time="2015-02-19 19:24:17 UTC" participant="153417">
+      <body>Be at yours around 745 most likely</body>
+    </message>
+    <message id="m0013" time="2015-02-19 19:24:31 UTC" participant="153417">
+      <body>Okay sounds good</body>
+    </message>
+    <message id="m0014" time="2015-02-19 19:24:36 UTC" participant="153423">
+      <body>Rest</body>
+    </message>
+    <message id="m0015" time="2015-02-19 19:24:39 UTC" participant="153423">
+      <body>Great</body>
+    </message>
+  </messages>
+</conversation>
+

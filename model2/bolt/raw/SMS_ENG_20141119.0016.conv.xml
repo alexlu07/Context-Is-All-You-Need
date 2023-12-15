@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141119.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-19 12:55:26 UTC" participant="153547">
+      <body>Hey man, I'm not sure whether I can fix that or not.  I would have Dan Raaf do it if he has time. If he doesn't I can come this evening </body>
+    </message>
+    <message id="m0001" time="2014-11-19 23:09:57 UTC" participant="153547">
+      <body>What's the address </body>
+    </message>
+    <message id="m0003" time="2014-11-19 23:59:40 UTC" participant="153547">
+      <body> I'm here</body>
+    </message>
+    <message id="m0004" time="2014-11-20 00:07:30 UTC" participant="153597">
+      <body>I'm right down street</body>
+    </message>
+    <message id="m0005" time="2014-11-20 00:12:21 UTC" participant="153597">
+      <body>Lemme know If you wanna park in our spot</body>
+    </message>
+  </messages>
+</conversation>
+

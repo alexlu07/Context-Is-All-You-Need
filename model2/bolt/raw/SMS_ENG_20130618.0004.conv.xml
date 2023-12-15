@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130970" time="2013-06-17 22:12:39 UTC">
+      <body>I'm bored. DJing a lesbian wedding tonight and they're running late. How's work?</body>
+    </message>
+    <message id="m0001" participant="130662" time="2013-06-18 00:02:59 UTC">
+      <body>Work's slow. And annoying. I think I'll call it a day now. Did those guys turn up?</body>
+    </message>
+    <message id="m0002" participant="130662" time="2013-06-18 00:35:20 UTC">
+      <body>Just came back home. How's it going at the wedding?</body>
+    </message>
+  </messages>
+</conversation>

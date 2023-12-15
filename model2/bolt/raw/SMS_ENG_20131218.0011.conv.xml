@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131218.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-18 02:18:40 UTC" participant="153638">
+      <body>Hey what's your new address?</body>
+    </message>
+    <message id="m0002" time="2013-12-18 12:36:28 UTC" participant="153638">
+      <body>Thanks! Hope the move is going well!</body>
+    </message>
+    <message id="m0003" time="2013-12-18 14:04:37 UTC" participant="153548">
+      <body>It's great so far!!! So much work but the house is really coming together</body>
+    </message>
+  </messages>
+</conversation>
+

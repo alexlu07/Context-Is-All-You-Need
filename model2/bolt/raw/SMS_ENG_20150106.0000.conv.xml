@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150106.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-06 14:20:37 UTC" participant="149306">
+      <body>Hi Wendy, just wanted you to know AJ ate and took his pills this morning. We took a short walk due to the cold and snow but he still managed to do his business (1&amp;amp;2). He seems to be walking better than the last time I saw him. He is taking a nap next to me on the couch at moment.
+####### </body>
+    </message>
+    <message id="m0001" time="2015-01-06 14:30:24 UTC" participant="149390">
+      <body>Thanks Nate. We will be back this evening. </body>
+    </message>
+    <message id="m0002" time="2015-01-06 14:48:10 UTC" participant="149306">
+      <body>Have a safe trip back, I'll let you know if there are any problems with AJ.</body>
+    </message>
+    <message id="m0003" time="2015-01-06 16:19:12 UTC" participant="149390">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0004" time="2015-01-07 01:20:58 UTC" participant="149306">
+      <body>Hi Wendy, I was going to text u on the way home but forgot. Just wanted you to know everything went well with AJ. Our walks in the snow were shorter than normal because he really wanted to get back inside once he did his business. He is home and warm waiting for you if you are not back already. 
+#######</body>
+    </message>
+    <message id="m0005" time="2015-01-07 01:22:09 UTC" participant="149390">
+      <body> Thanks!</body>
+    </message>
+    <message id="m0006" time="2015-01-07 01:23:21 UTC" participant="149306">
+      <body>You're welcome Wendy, anytime.</body>
+    </message>
+  </messages>
+</conversation>
+

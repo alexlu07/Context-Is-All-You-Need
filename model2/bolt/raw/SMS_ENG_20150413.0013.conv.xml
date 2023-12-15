@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150413.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-13 20:57:05 UTC" participant="153418">
+      <body>Cool, thanks.</body>
+    </message>
+    <message id="m0001" time="2015-04-13 20:58:17 UTC" participant="152116">
+      <body>What is your email? Haha I only have the Drexel one</body>
+    </message>
+    <message id="m0002" time="2015-04-13 20:58:42 UTC" participant="153418">
+      <body>That should be fine.</body>
+    </message>
+    <message id="m0003" time="2015-04-13 20:58:58 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

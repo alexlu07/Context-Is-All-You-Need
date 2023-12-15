@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150416.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-16 11:35:22 UTC" participant="153412">
+      <body>I think I'm just going to meet you at work. I'll stay in the library either way and try to do some homework. I think if I go home, I'll end up taking a nap. </body>
+    </message>
+    <message id="m0001" time="2015-04-16 11:52:32 UTC" participant="153413">
+      <body>Lol okay</body>
+    </message>
+    <message id="m0002" time="2015-04-16 13:48:38 UTC" participant="153412">
+      <body>Nevermind. I lied and am going home. </body>
+    </message>
+    <message id="m0003" time="2015-04-16 13:50:31 UTC" participant="153412">
+      <body>I forgot my computer so I wouldn't be able to do it in the library. Haha</body>
+    </message>
+    <message id="m0004" time="2015-04-16 13:52:00 UTC" participant="153413">
+      <body>Oh god haha</body>
+    </message>
+    <message id="m0005" time="2015-04-16 13:54:08 UTC" participant="153413">
+      <body>Well keep an eye out for my dress. It's supposed to come today</body>
+    </message>
+    <message id="m0006" time="2015-04-16 13:54:42 UTC" participant="153412">
+      <body>Okay. </body>
+    </message>
+    <message id="m0007" time="2015-04-17 11:26:28 UTC" participant="153412">
+      <body>Just FYi, if you're going to return the dress, mommy stuck the box in the recycling with the receipt. She didn't know if you needed it or just didn't throw the box out. </body>
+    </message>
+    <message id="m0008" time="2015-04-17 11:26:56 UTC" participant="153413">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

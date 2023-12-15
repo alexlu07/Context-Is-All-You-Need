@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130914.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-14 15:46:44 UTC" participant="152734">
+      <body>Ok! What's going on? We should be there in a couple hours </body>
+    </message>
+    <message id="m0001" time="2013-09-14 15:53:36 UTC" participant="153268">
+      <body>We're heading to Mildred's to pick up barb. We should be at the woodlands around 130 pm. Text or call me when you get here!</body>
+    </message>
+    <message id="m0002" time="2013-09-14 21:59:12 UTC" participant="152734">
+      <body>Everything's cool, we came into the dining room</body>
+    </message>
+    <message id="m0003" time="2013-09-14 21:59:50 UTC" participant="153268">
+      <body>Good thanks</body>
+    </message>
+    <message id="m0004" time="2013-09-15 15:42:56 UTC" participant="153268">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0005" time="2013-09-15 15:44:01 UTC" participant="152734">
+      <body>Outside near the T. rex skeleton thing </body>
+    </message>
+  </messages>
+</conversation>
+

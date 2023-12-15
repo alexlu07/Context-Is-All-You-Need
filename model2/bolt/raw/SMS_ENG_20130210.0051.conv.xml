@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-10 12:49:56 UTC">
+      <body>hey jennifer! were you planning on coming to church today? </body>
+    </message>
+    <message id="m0001" participant="136143" time="2013-02-10 12:50:34 UTC">
+      <body>Yes, need a ride?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-10 12:51:26 UTC">
+      <body>yes please! meghan was going to take me but she's not feeling well. you're going to fellowship group too, right?</body>
+    </message>
+    <message id="m0003" participant="136143" time="2013-02-10 12:52:19 UTC">
+      <body>Yes, what time should I be there? &amp; address please:-)</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-10 12:53:45 UTC">
+      <body>is 9:20 okay? ############ rd. is my building... there's a horseshoe thing in front that you can pull into. </body>
+    </message>
+    <message id="m0005" participant="136143" time="2013-02-10 13:51:31 UTC">
+      <body>I'll be there 9:20</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-02-10 13:55:24 UTC">
+      <body>perfect, thanks! </body>
+    </message>
+    <message id="m0007" participant="136143" time="2013-02-10 14:27:21 UTC">
+      <body>Sorry L, pulling in</body>
+    </message>
+  </messages>
+</conversation>

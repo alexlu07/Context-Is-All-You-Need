@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-21 04:30:28 UTC" participant="153244">
+      <body>How much longer?  Cause I'm ready for bed and steph already asleep since 11:00</body>
+    </message>
+    <message id="m0001" time="2013-06-21 04:32:59 UTC" participant="152116">
+      <body>I'm on my way to Cassys. I have to give her money I owe her</body>
+    </message>
+    <message id="m0002" time="2013-06-21 04:33:46 UTC" participant="153244">
+      <body>Ok..  I'm gonna go to bed then. I can't stay up any longer... we'll tell you tomorrow</body>
+    </message>
+    <message id="m0003" time="2013-06-21 04:34:16 UTC" participant="152116">
+      <body>Is everything okay?</body>
+    </message>
+    <message id="m0004" time="2013-06-21 04:34:41 UTC" participant="153244">
+      <body>Yea just need to tell you something... nothing bad</body>
+    </message>
+    <message id="m0005" time="2013-06-21 04:35:21 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0006" time="2013-06-21 16:51:21 UTC" participant="153244">
+      <body>Leaving work about 120-125</body>
+    </message>
+    <message id="m0007" time="2013-06-21 16:52:03 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0008" time="2013-06-21 17:25:01 UTC" participant="152116">
+      <body>Did you leave?</body>
+    </message>
+  </messages>
+</conversation>
+

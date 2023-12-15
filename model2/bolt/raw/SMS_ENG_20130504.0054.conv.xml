@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-04 13:27:31 UTC">
+      <body>What are your rates for one hour relaxation massage? Thanks</body>
+    </message>
+    <message id="m0001" participant="137356" time="2013-05-04 15:04:17 UTC">
+      <body>Good morning! Our relaxation massages are $50 for an hour.</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-04 15:05:17 UTC">
+      <body>Thanks. I'll try to book online.</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-04 15:24:14 UTC">
+      <body>How do I make a massage appointment? I can't find that online...</body>
+    </message>
+    <message id="m0004" participant="137356" time="2013-05-04 15:33:16 UTC">
+      <body>I am teaching classes at the moment; will call to schedule with you after 1pm!</body>
+    </message>
+  </messages>
+</conversation>

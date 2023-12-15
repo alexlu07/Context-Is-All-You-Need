@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111112.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131312" time="2011-11-12 20:58:40 UTC">
+      <body>Hey man, where can a brother get some banging wings in Philly?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-11-12 22:10:30 UTC">
+      <body>Where in Philly are you living right now? I'll see if i can recommend somewhere good</body>
+    </message>
+    <message id="m0002" participant="131312" time="2011-11-12 22:11:12 UTC">
+      <body>I'm in the art museum area, but looking for a place down town</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-11-12 22:16:23 UTC">
+      <body>I've been told Moriarty's is supposed to have good wings. Haven't had them yet. Just a warning though, it's an Irish bar so it's prob real bro'ed out there</body>
+    </message>
+    <message id="m0004" participant="130692" time="2011-11-12 22:19:15 UTC">
+      <body>Haha anytime man! I'm going to be a on feature in DE until around the holidays, but we should hang when I get back</body>
+    </message>
+    <message id="m0005" participant="131312" time="2011-11-12 22:19:44 UTC">
+      <body>Bet. I knew I can always count on you haha. </body>
+    </message>
+    <message id="m0006" participant="131312" time="2011-11-12 22:19:44 UTC">
+      <body>Yeah man! That's awesome. I'm working for NFL till february so I'll be around. </body>
+    </message>
+    <message id="m0007" participant="130692" time="2011-11-12 22:20:17 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

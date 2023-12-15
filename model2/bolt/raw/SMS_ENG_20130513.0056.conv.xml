@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137257" time="2013-05-13 16:13:51 UTC">
+      <body>Soraya are u done with Jane eyre? It is due at the college library</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-13 16:28:27 UTC">
+      <body>Yes. It's on my bookshelf </body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-05-13 16:28:53 UTC">
+      <body>Thanks b</body>
+    </message>
+  </messages>
+</conversation>

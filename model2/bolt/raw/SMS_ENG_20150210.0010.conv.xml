@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150210.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-10 12:37:59 UTC" participant="152424">
+      <body>what the difference between a well dressed man on a unicycle and a poorly dressed man on a bike?</body>
+    </message>
+    <message id="m0001" time="2015-02-10 12:38:55 UTC" participant="152417">
+      <body>Dunno</body>
+    </message>
+    <message id="m0002" time="2015-02-10 12:39:18 UTC" participant="152424">
+      <body>attire</body>
+    </message>
+    <message id="m0003" time="2015-02-10 12:40:37 UTC" participant="152417">
+      <body>Zing!</body>
+    </message>
+    <message id="m0004" time="2015-02-10 22:49:36 UTC" participant="152424">
+      <body>I would love to but I'm prepping for a big presentation.  sorry</body>
+    </message>
+    <message id="m0005" time="2015-02-10 22:50:01 UTC" participant="152417">
+      <body>Whatchoo up to tonight? Wanna come hear some klezmery/jazzy sounds at the fire?</body>
+    </message>
+    <message id="m0006" time="2015-02-11 02:37:08 UTC" participant="152417">
+      <body>Gotcha, also thursday a friend is playing at WCL</body>
+    </message>
+  </messages>
+</conversation>
+

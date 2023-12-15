@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140422.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-22 23:59:07 UTC" participant="149306">
+      <body>Hi Stephen, AJ is doing great today and seems to have plenty of energy. He was happy to see me and had no problems today. He scarfed down his dinner this evening as well. Hope your trip is going well. 
+######</body>
+    </message>
+    <message id="m0001" time="2014-04-23 00:04:21 UTC" participant="149443">
+      <body>Thanks very much #####</body>
+    </message>
+    <message id="m0002" time="2014-04-23 00:15:12 UTC" participant="149306">
+      <body>My pleasure, AJ's a great guy.</body>
+    </message>
+    <message id="m0003" time="2014-04-23 13:34:23 UTC" participant="149306">
+      <body>Everything went well. AJ is done with his walks, had his breakfast and is happily awaiting for your return. </body>
+    </message>
+    <message id="m0004" time="2014-04-23 13:35:45 UTC" participant="149443">
+      <body>Thank you </body>
+    </message>
+    <message id="m0005" time="2014-04-23 14:23:11 UTC" participant="149306">
+      <body>You are very welcome </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140616.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-16 16:59:49 UTC" participant="152734">
+      <body>Hey, are you riding today? If not, Sam asked if I would</body>
+    </message>
+    <message id="m0001" time="2014-06-16 19:05:09 UTC" participant="153305">
+      <body>Yes I planned too but if you want you can ride too </body>
+    </message>
+    <message id="m0002" time="2014-06-16 19:08:45 UTC" participant="152734">
+      <body>I've got $ to ride and stalls to do, so he's all yours!</body>
+    </message>
+  </messages>
+</conversation>
+

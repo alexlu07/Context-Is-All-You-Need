@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-04 00:30:19 UTC">
+      <body>I'm not going to Medford, my class was cancelled. I'm still open for meeting at Harvard sq. I'm feeling pretty flexible so if something works better for you let me know!</body>
+    </message>
+    <message id="m0001" participant="135480" time="2013-04-04 00:34:47 UTC">
+      <body>Ok. Let me know when you're done at massart. Maybe we can do lunch at Audubon. </body>
+    </message>
+    <message id="m0002" participant="135480" time="2013-04-04 15:40:02 UTC">
+      <body>I'm here. </body>
+    </message>
+  </messages>
+</conversation>

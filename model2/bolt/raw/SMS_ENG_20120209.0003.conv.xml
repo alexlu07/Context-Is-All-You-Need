@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120209.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-02-09 00:51:50 UTC">
+      <body>Hey, I'm at a concert. Lots to talk about though!!!</body>
+    </message>
+    <message id="m0001" participant="135093" time="2012-02-09 00:55:53 UTC">
+      <body>Yes and I'm home tonight!!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-02-09 01:08:04 UTC">
+      <body>Well I probably won't be able to call tonight bc I'm going out after... But HEY I GOT A JOB</body>
+    </message>
+    <message id="m0003" participant="135093" time="2012-02-09 01:23:16 UTC">
+      <body>Yeahoooooooo!!!!! Congrats!!! What cha doing</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-02-09 01:24:25 UTC">
+      <body>Hosting at a fancy pants restaurant. Do you know Stephen starr restaurants? There are some in NYC. Also, bomb to drop. I ended things with Tim. Really hard to talk about, especially considering it all but yea....!</body>
+    </message>
+    <message id="m0005" participant="135093" time="2012-02-09 01:57:19 UTC">
+      <body>Oh my god sweets, I am so sorry to hear that!! Whenever you need to talk, let me know. Love you lots </body>
+    </message>
+  </messages>
+</conversation>

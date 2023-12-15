@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140202.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-02 01:45:11 UTC" participant="153900">
+      <body>Email it to me</body>
+    </message>
+    <message id="m0001" time="2014-02-02 01:50:03 UTC" participant="153244">
+      <body>Giving you a real copy</body>
+    </message>
+    <message id="m0002" time="2014-02-02 23:38:18 UTC" participant="153900">
+      <body>What is that</body>
+    </message>
+    <message id="m0003" time="2014-02-02 23:38:45 UTC" participant="153244">
+      <body>The football tray you bought me. Eating chips and dip</body>
+    </message>
+  </messages>
+</conversation>
+

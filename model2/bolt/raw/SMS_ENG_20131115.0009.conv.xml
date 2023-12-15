@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131115.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-15 13:57:53 UTC" participant="153547">
+      <body>At lowes. Gonna be a while</body>
+    </message>
+    <message id="m0001" time="2013-11-15 13:58:24 UTC" participant="153561">
+      <body>Cool. </body>
+    </message>
+    <message id="m0002" time="2013-11-15 14:45:20 UTC" participant="153561">
+      <body>Not sure how close you guys are. I'm just gonna run out real quick and get a coffee</body>
+    </message>
+    <message id="m0003" time="2013-11-15 14:48:19 UTC" participant="153547">
+      <body>Ok. Be there in 10</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120621.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136252" time="2012-06-21 22:52:41 UTC">
+      <body>Hey will! Just wanted your address for tomorrow whenever you get the chance.</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-21 23:12:13 UTC">
+      <body>############################################################ Take the 2/3 to 72nd street, walk south to##### then turn right and walk all the way down to the water.</body>
+    </message>
+    <message id="m0002" participant="136252" time="2012-06-22 23:11:32 UTC">
+      <body>Pressing 64th now, very close.</body>
+    </message>
+  </messages>
+</conversation>

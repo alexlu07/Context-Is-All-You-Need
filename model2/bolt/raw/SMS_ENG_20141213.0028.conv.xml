@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 14:24:05 UTC" participant="153804">
+      <body>Does this cream contain Kinetin? What is the name?</body>
+    </message>
+    <message id="m0001" time="2014-12-13 14:25:37 UTC" participant="153558">
+      <body>I don't know, I don't have it yet, it's 3 creams I think each containing a different drug</body>
+    </message>
+    <message id="m0002" time="2014-12-13 14:26:06 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140907.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-07 16:25:36 UTC" participant="152560">
+      <body>Philly to Boston in 47 minutes. </body>
+    </message>
+    <message id="m0001" time="2014-09-07 23:10:50 UTC" participant="152560">
+      <body>Made it to Rejkavik. </body>
+    </message>
+    <message id="m0002" time="2014-09-07 23:24:21 UTC" participant="152417">
+      <body>Sweet, did you see the valcanoe?</body>
+    </message>
+    <message id="m0003" time="2014-09-08 00:51:34 UTC" participant="152560">
+      <body>No, it was dark by the time we arrived. I have a 7 hour layover here, so I will probably try to get some shut-eye. Hopefully I will catch a glimpse of the volcano in the morning...</body>
+    </message>
+  </messages>
+</conversation>
+

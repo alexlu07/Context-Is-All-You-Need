@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150206.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-06 03:10:19 UTC" participant="152735">
+      <body>Yes! I took my car to the mechanic today (an outside mechanic this time) so not sure if it will be ready in time. If it is, I can come and also drive </body>
+    </message>
+    <message id="m0001" time="2015-02-06 03:12:00 UTC" participant="152793">
+      <body>Okay cool! If you can't drive though it's super easy to come by train too :) </body>
+    </message>
+    <message id="m0002" time="2015-02-07 01:49:54 UTC" participant="152735">
+      <body>Hi! I'm so sorry but I can't make it tonight :( thank you for thinking of me though! I spent all evening at the mechanics but my car is better now I think </body>
+    </message>
+    <message id="m0003" time="2015-02-07 01:50:18 UTC" participant="152735">
+      <body>I will text about any upcoming events and we should def plan to do this upcoming first Friday </body>
+    </message>
+    <message id="m0004" time="2015-02-07 01:52:43 UTC" participant="152793">
+      <body>Aw okay! I'm gonna try and stop by on Sunday to last drop so I'll just see you then maybe? </body>
+    </message>
+    <message id="m0005" time="2015-02-07 02:09:13 UTC" participant="152735">
+      <body>Yes! No pressure but free pastries are YUM!</body>
+    </message>
+  </messages>
+</conversation>
+

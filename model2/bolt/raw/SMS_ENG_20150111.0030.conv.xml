@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150111.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-11 16:50:20 UTC" participant="153900">
+      <body>Did you buy you furniture</body>
+    </message>
+    <message id="m0001" time="2015-01-11 17:09:38 UTC" participant="153244">
+      <body>Yea </body>
+    </message>
+    <message id="m0002" time="2015-01-11 17:10:21 UTC" participant="153900">
+      <body>Did you put it together</body>
+    </message>
+    <message id="m0003" time="2015-01-11 17:10:50 UTC" participant="153244">
+      <body>Not yet... I need the power drill to finish the closet then ill put all my clothes in the closet then build the furniture </body>
+    </message>
+    <message id="m0004" time="2015-01-11 17:11:46 UTC" participant="153900">
+      <body>You working today</body>
+    </message>
+    <message id="m0005" time="2015-01-11 17:12:23 UTC" participant="153244">
+      <body>No</body>
+    </message>
+    <message id="m0006" time="2015-01-11 17:12:48 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

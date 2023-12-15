@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-07-13 16:31:11 UTC">
+      <body>Hey. Happy Saturday! How's your day?</body>
+    </message>
+    <message id="m0001" participant="132520" time="2013-07-13 16:33:02 UTC">
+      <body>Haha happy Saturday to you too! It's nice I'm in Annapolis visiting family for the weekend. How about you?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-07-13 16:36:46 UTC">
+      <body>Computer issues - all user error. In Tucson, but going to Phoenix tonight for a concert.</body>
+    </message>
+    <message id="m0003" participant="132520" time="2013-07-13 16:52:55 UTC">
+      <body>Uh oh, I'm terrible with computer issues I usually just get frustrated and hit it..which has actually worked occasionally haha</body>
+    </message>
+    <message id="m0004" participant="132520" time="2013-07-13 16:53:50 UTC">
+      <body>What concert are you going to?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-07-13 17:41:03 UTC">
+      <body>Peter Murphy. are you familiar with him? He used to sing with Bauhaus...a dark wave/ goth band.</body>
+    </message>
+    <message id="m0006" participant="132520" time="2013-07-13 17:42:48 UTC">
+      <body>Hmm no I've never heard of him sounds interesting though!</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-07-13 17:45:35 UTC">
+      <body>Yeah. He's a showman...</body>
+    </message>
+  </messages>
+</conversation>

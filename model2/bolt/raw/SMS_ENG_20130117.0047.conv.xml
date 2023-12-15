@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130117.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-17 00:03:14 UTC" participant="154392">
+      <body>this is a test This SMS was sent from my Ford.</body>
+    </message>
+    <message id="m0001" time="2013-01-17 00:07:11 UTC" participant="154352">
+      <body>Text passed!</body>
+    </message>
+    <message id="m0002" time="2013-01-17 00:08:00 UTC" participant="154392">
+      <body>Nice! Ill be there shortly</body>
+    </message>
+    <message id="m0003" time="2013-01-17 23:43:35 UTC" participant="154392">
+      <body>Where you at?</body>
+    </message>
+    <message id="m0004" time="2013-01-17 23:44:31 UTC" participant="154352">
+      <body>At the restaurant school. Where are you?</body>
+    </message>
+  </messages>
+</conversation>
+

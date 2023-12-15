@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-20 21:11:31 UTC" participant="153786">
+      <body>I just watched the last 2 minutes at ###'s. That was some ugly bball on both sides.</body>
+    </message>
+    <message id="m0001" time="2014-12-20 21:18:13 UTC" participant="152374">
+      <body>I didn't even get to watch. Buried in making Christmas cookies. Would have liked to go but maybe it's better I missed it! </body>
+    </message>
+    <message id="m0002" time="2014-12-20 21:19:39 UTC" participant="153786">
+      <body>The last two minutes took about 25 minutes of clock time.</body>
+    </message>
+  </messages>
+</conversation>
+

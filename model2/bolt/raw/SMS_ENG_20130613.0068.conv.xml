@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0068" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-13 09:58:35 UTC" participant="153445">
+      <body>Hey thanks for taking me.  I'll be over in ten minutes</body>
+    </message>
+    <message id="m0001" time="2013-06-13 11:34:16 UTC" participant="153445">
+      <body>I made it on time, thanks man</body>
+    </message>
+    <message id="m0002" time="2013-06-13 11:34:31 UTC" participant="153418">
+      <body>Yeah, no problem.</body>
+    </message>
+  </messages>
+</conversation>
+

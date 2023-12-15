@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 17:37:52 UTC" participant="153491">
+      <body>Any plans for New Years? </body>
+    </message>
+    <message id="m0001" time="2014-12-30 17:48:48 UTC" participant="153543">
+      <body>I have some people coming over. Yourself? </body>
+    </message>
+    <message id="m0002" time="2014-12-30 18:58:47 UTC" participant="153491">
+      <body>Ohhh fun! I might be in Bucks County with Brenda and some friends from Nova.</body>
+    </message>
+    <message id="m0003" time="2014-12-30 19:09:52 UTC" participant="153543">
+      <body>Oh very nice! I still need to get that video to work for you guys. </body>
+    </message>
+    <message id="m0004" time="2014-12-30 19:52:28 UTC" participant="153491">
+      <body>Hahah I must say, after all I've heard of this mysterious video, I look forward to seeing it hahah.</body>
+    </message>
+    <message id="m0005" time="2014-12-30 19:52:37 UTC" participant="153491">
+      <body>In the meantime, how's work?</body>
+    </message>
+  </messages>
+</conversation>
+

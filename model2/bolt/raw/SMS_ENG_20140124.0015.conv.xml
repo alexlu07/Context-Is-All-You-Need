@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 19:32:04 UTC" participant="153581">
+      <body>How was Pixies?!</body>
+    </message>
+    <message id="m0001" time="2014-01-24 19:32:53 UTC" participant="153548">
+      <body>SO GOOD! Thanks for the ticket!!! </body>
+    </message>
+    <message id="m0002" time="2014-01-24 19:33:20 UTC" participant="153581">
+      <body>Haha cool!!  Of course!</body>
+    </message>
+    <message id="m0003" time="2014-01-24 19:33:51 UTC" participant="153548">
+      <body>You gotta get more if those!</body>
+    </message>
+    <message id="m0004" time="2014-01-24 19:33:53 UTC" participant="153548">
+      <body>Work it</body>
+    </message>
+    <message id="m0005" time="2014-01-24 19:34:12 UTC" participant="153581">
+      <body>Lol</body>
+    </message>
+    <message id="m0006" time="2014-01-24 19:34:28 UTC" participant="153581">
+      <body>Get those connexxions</body>
+    </message>
+  </messages>
+</conversation>
+

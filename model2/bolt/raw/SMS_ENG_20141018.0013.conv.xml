@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141018.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-18 19:28:23 UTC" participant="153610">
+      <body>What gallery is Hunter in?  We're in asbury park.</body>
+    </message>
+    <message id="m0001" time="2014-10-18 19:29:18 UTC" participant="153548">
+      <body>Oh wow! It's called parlor gallery! At the end of the main drag opposite the beach</body>
+    </message>
+    <message id="m0002" time="2014-10-18 19:33:24 UTC" participant="153610">
+      <body>Across the street from the beach or down the main drag away from the beach?</body>
+    </message>
+    <message id="m0003" time="2014-10-18 19:33:55 UTC" participant="153548">
+      <body>Main drag away from beach. </body>
+    </message>
+    <message id="m0004" time="2014-10-18 19:34:25 UTC" participant="153548">
+      <body>On Cookman ave</body>
+    </message>
+    <message id="m0005" time="2014-10-18 19:34:55 UTC" participant="153610">
+      <body>Got it. Thanks!</body>
+    </message>
+    <message id="m0006" time="2014-10-18 19:36:04 UTC" participant="153548">
+      <body>Have a fun trip!</body>
+    </message>
+    <message id="m0007" time="2014-10-18 19:36:48 UTC" participant="153610">
+      <body>Thanks.  We're camping nearby</body>
+    </message>
+    <message id="m0008" time="2014-10-18 19:46:12 UTC" participant="153548">
+      <body>Oh have fun!! Perfect weather</body>
+    </message>
+  </messages>
+</conversation>
+

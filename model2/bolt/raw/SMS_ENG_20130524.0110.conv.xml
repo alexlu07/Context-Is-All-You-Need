@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0110" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-24 21:16:25 UTC" participant="152417">
+      <body>Can you cover my 1 oclock tomorrow?</body>
+    </message>
+    <message id="m0001" time="2013-05-24 23:02:49 UTC" participant="152541">
+      <body>Did matt just call ya? Just got this texxt</body>
+    </message>
+    <message id="m0002" time="2013-05-24 23:15:06 UTC" participant="152417">
+      <body>Ya</body>
+    </message>
+  </messages>
+</conversation>
+

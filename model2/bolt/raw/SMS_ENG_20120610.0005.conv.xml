@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135096" time="2012-06-10 02:57:04 UTC">
+      <body>What's going on?</body>
+    </message>
+    <message id="m0001" participant="135096" time="2012-06-10 03:22:40 UTC">
+      <body>Well, 94 is closed and I'm headed out for a bit. I'm pretty beat though :(</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-10 03:24:59 UTC">
+      <body>Hey! I'm at scott's hanging out but want to see you DUH</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-06-10 03:25:56 UTC">
+      <body>Where are you headed?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-06-10 03:26:51 UTC">
+      <body>Oh cool, well if you want to head to Meg's pool tomorrow you should definitely</body>
+    </message>
+    <message id="m0005" participant="135096" time="2012-06-10 03:26:56 UTC">
+      <body>To chill with Kevin for a bit</body>
+    </message>
+    <message id="m0006" participant="135096" time="2012-06-10 04:13:52 UTC">
+      <body>Are you still hitting up moto-I later?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2012-06-10 04:15:38 UTC">
+      <body>Tomorrow at 5!</body>
+    </message>
+    <message id="m0008" participant="131839" time="2012-06-10 21:50:26 UTC">
+      <body>You're coming at 5, right?</body>
+    </message>
+    <message id="m0009" participant="131839" time="2012-06-10 22:30:23 UTC">
+      <body>Can you let me know if you're coming?</body>
+    </message>
+    <message id="m0010" participant="135096" time="2012-06-10 22:38:56 UTC">
+      <body>Hey Martha! I was just taking a nap. Are you still at moto-I or is there room for me still?</body>
+    </message>
+    <message id="m0011" participant="131839" time="2012-06-10 22:39:15 UTC">
+      <body>Yes there is :) everybody else Can't come so you're the guest of honor </body>
+    </message>
+    <message id="m0012" participant="135096" time="2012-06-10 22:41:04 UTC">
+      <body>What, really? Who are you there with?</body>
+    </message>
+    <message id="m0013" participant="131839" time="2012-06-10 22:41:14 UTC">
+      <body>Meg</body>
+    </message>
+    <message id="m0014" participant="135096" time="2012-06-10 22:56:00 UTC">
+      <body> I love being the guest of honor! On my way now. Roof or inside?</body>
+    </message>
+    <message id="m0015" participant="135096" time="2012-06-10 23:00:16 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0016" participant="131839" time="2012-06-10 23:01:08 UTC">
+      <body>Moved inside - it was too windy on the roof</body>
+    </message>
+  </messages>
+</conversation>

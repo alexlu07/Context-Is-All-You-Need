@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130828" time="2013-05-27 03:56:19 UTC">
+      <body>Me!</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-27 04:24:16 UTC">
+      <body>Alright y'all! The people have spoken! Garden hang tomorrow ::: 18th &amp; North ::: 2pm ::: BYOFuntimes!!!</body>
+    </message>
+    <message id="m0002" participant="130828" time="2013-05-27 18:24:53 UTC">
+      <body>Where is north street?</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-05-27 18:25:29 UTC">
+      <body>Just south of fair mount</body>
+    </message>
+  </messages>
+</conversation>

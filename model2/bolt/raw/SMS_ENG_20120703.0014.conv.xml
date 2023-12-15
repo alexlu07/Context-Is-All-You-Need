@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120703.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-03 22:05:16 UTC">
+      <body>Do you have the phone number for the driving school that Terry told you about?</body>
+    </message>
+    <message id="m0001" participant="136213" time="2012-07-03 22:06:56 UTC">
+      <body>It's online. Haven't called yet but look up "attila school of driving" it's on the upper east side</body>
+    </message>
+  </messages>
+</conversation>

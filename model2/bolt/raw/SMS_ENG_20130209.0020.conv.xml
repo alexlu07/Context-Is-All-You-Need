@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-02-09 21:57:10 UTC">
+      <body>Dinner at 6, then gingerbread house-making at 7?  :)</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-09 21:57:36 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-02-09 22:57:02 UTC">
+      <body>I'll meet you in the dc. Heading over from the insc in a min</body>
+    </message>
+  </messages>
+</conversation>

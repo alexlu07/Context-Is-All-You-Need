@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120204.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-02-04 03:20:40 UTC">
+      <body>Just finished presenting at University of Arkansas</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-02-04 21:21:30 UTC">
+      <body>Where yat?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-02-05 20:36:46 UTC">
+      <body>Howzit goin?</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-02-05 23:20:53 UTC">
+      <body>Fantastic!  Congrats to you and your team!  :)</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-02-06 01:07:20 UTC">
+      <body>Just wanted to remind you that your sisters bday is tomorrow and Fi's was last week in case you forgot.  Xoxo, Lu</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-02-06 01:08:51 UTC">
+      <body>Nope I didn't</body>
+    </message>
+    <message id="m0006" participant="131824" time="2012-02-06 17:29:33 UTC">
+      <body>Fabz.  Did u get my letter too?</body>
+    </message>
+    <message id="m0007" participant="131821" time="2012-02-07 04:41:43 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-02-07 04:41:49 UTC">
+      <body>I did!</body>
+    </message>
+    <message id="m0009" participant="131824" time="2012-02-08 02:07:28 UTC">
+      <body>Sorry I'm on calls until 10:30 your time</body>
+    </message>
+    <message id="m0010" participant="131824" time="2012-02-08 04:09:45 UTC">
+      <body>Off my calls finally</body>
+    </message>
+    <message id="m0011" participant="131821" time="2012-02-08 04:10:56 UTC">
+      <body>I'm in rehearsal</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140220.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-20 00:27:14 UTC" participant="149383">
+      <body>Hi #### you should come to a show at my house tonight. Very nice vibes, i have a free herbal tea bar set up and my friend dawn just got a job at Penn doing the same thing u do and wants to talk :)</body>
+    </message>
+    <message id="m0001" time="2014-02-20 01:06:31 UTC" participant="149306">
+      <body>Ok what time are u starting</body>
+    </message>
+    <message id="m0002" time="2014-02-20 01:07:17 UTC" participant="149383">
+      <body>Now</body>
+    </message>
+    <message id="m0003" time="2014-02-20 01:07:39 UTC" participant="149306">
+      <body>U mind if I bring beers</body>
+    </message>
+    <message id="m0004" time="2014-02-20 01:11:32 UTC" participant="149383">
+      <body>Please do!</body>
+    </message>
+  </messages>
+</conversation>
+

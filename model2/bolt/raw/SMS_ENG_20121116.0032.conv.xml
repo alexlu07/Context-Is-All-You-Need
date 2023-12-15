@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121116.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-16 21:02:50 UTC">
+      <body>Why is my bank account still a high school account??</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-11-16 21:05:23 UTC">
+      <body>IDN. Why is it a prob?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-16 21:06:35 UTC">
+      <body>It's not giving me any trouble or anything. I just want to know why is it not up to date, and if it could potentially cause trouble for me later</body>
+    </message>
+  </messages>
+</conversation>

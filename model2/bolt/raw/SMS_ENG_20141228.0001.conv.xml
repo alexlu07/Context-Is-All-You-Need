@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141228.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-28 18:20:45 UTC" participant="152127">
+      <body>What is the name of the website where you bought ur coat? </body>
+    </message>
+    <message id="m0001" time="2014-12-28 18:48:08 UTC" participant="152115">
+      <body>Delias.  But it's actually going out of business. And I bought this last year so I don't think they would have it anymore.</body>
+    </message>
+    <message id="m0002" time="2014-12-28 18:49:09 UTC" participant="152127">
+      <body>Bummer I'll check it out anyway luv !</body>
+    </message>
+  </messages>
+</conversation>
+

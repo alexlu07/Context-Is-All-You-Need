@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140714.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-14 21:21:28 UTC" participant="153561">
+      <body>I could use your help tmrw if michael is cool with it. </body>
+    </message>
+    <message id="m0001" time="2014-07-14 21:30:40 UTC" participant="153561">
+      <body>So if you want to help lay floor tile tmrw it's up to you if you're available. I have to get more thinset so I can meet you there</body>
+    </message>
+    <message id="m0002" time="2014-07-15 12:38:54 UTC" participant="153547">
+      <body>I'll be there a bit after 9</body>
+    </message>
+    <message id="m0003" time="2014-07-15 12:39:28 UTC" participant="153561">
+      <body>Ok I'm looking for unmodified thinset I should be there around 9 too</body>
+    </message>
+    <message id="m0005" time="2014-07-15 13:28:32 UTC" participant="153561">
+      <body>I'll be there in 5-10</body>
+    </message>
+  </messages>
+</conversation>
+

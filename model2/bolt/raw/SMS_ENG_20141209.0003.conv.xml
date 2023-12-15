@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 23:56:21 UTC" participant="152115">
+      <body>What's the earliest you can get here? I will be done soon.</body>
+    </message>
+    <message id="m0001" time="2014-12-10 00:06:45 UTC" participant="152122">
+      <body>I am here</body>
+    </message>
+  </messages>
+</conversation>
+

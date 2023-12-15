@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-16 21:03:20 UTC">
+      <body>I got paper!!! </body>
+    </message>
+    <message id="m0001" participant="135460" time="2013-02-16 21:34:56 UTC">
+      <body>Are you ready?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-16 21:36:29 UTC">
+      <body>I wanna grab some snacks   You want anything</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-16 21:36:35 UTC">
+      <body>Ill come to your studio</body>
+    </message>
+    <message id="m0004" participant="135460" time="2013-02-16 21:36:48 UTC">
+      <body>I'm good. Thank you, though. </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-16 21:49:17 UTC">
+      <body>Or do you want to come to mine I can get it clean very quickly</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-02-17 03:22:24 UTC">
+      <body>How is it? </body>
+    </message>
+    <message id="m0007" participant="135460" time="2013-02-17 03:23:31 UTC">
+      <body>A lot of people h</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-02-17 03:31:07 UTC">
+      <body>U having a good time?</body>
+    </message>
+    <message id="m0009" participant="135460" time="2013-02-17 03:31:53 UTC">
+      <body>So far is alright. </body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-02-17 03:32:18 UTC">
+      <body>Ok I'm coming</body>
+    </message>
+    <message id="m0011" participant="135460" time="2013-02-17 03:34:13 UTC">
+      <body>Okie. See you soon. </body>
+    </message>
+  </messages>
+</conversation>

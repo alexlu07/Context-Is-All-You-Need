@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140312.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-12 22:02:25 UTC" participant="152417">
+      <body>Hey che, wanna come see urinetown at uvm? Im in the pit. Its tonight at 730, free for you and one more</body>
+    </message>
+    <message id="m0001" time="2014-03-12 22:02:40 UTC" participant="152419">
+      <body>Ah I'm sorry I can't tonight! Isn't it also playing this weekend?</body>
+    </message>
+    <message id="m0002" time="2014-03-12 22:04:48 UTC" participant="152419">
+      <body>Oh pooh. I shall be among the paying, then! </body>
+    </message>
+    <message id="m0003" time="2014-03-12 22:04:49 UTC" participant="152417">
+      <body>It is, but i get to invite guests tonight</body>
+    </message>
+  </messages>
+</conversation>
+

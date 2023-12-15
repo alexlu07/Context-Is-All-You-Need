@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-07-19 00:42:41 UTC">
+      <body>Hey, can you think of anything I might be able to bring him that might help in some way?</body>
+    </message>
+    <message id="m0001" participant="136725" time="2013-07-19 00:43:59 UTC">
+      <body>If its during the day he'd probably appreciate a good coffee. </body>
+    </message>
+    <message id="m0002" participant="136725" time="2013-07-19 00:45:57 UTC">
+      <body>Other than that just your visit would prob mean a lot to him </body>
+    </message>
+  </messages>
+</conversation>

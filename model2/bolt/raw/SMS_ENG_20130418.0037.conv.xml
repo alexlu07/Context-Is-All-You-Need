@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-04-18 20:59:41 UTC">
+      <body>I'm here </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-04-18 21:00:27 UTC">
+      <body>Coming!</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-04-19 15:51:28 UTC">
+      <body>Trying stuff on</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-04-19 15:59:18 UTC">
+      <body>Okay, reading interweb</body>
+    </message>
+    <message id="m0004" participant="131502" time="2013-04-19 16:00:00 UTC">
+      <body>Now running to old faithful Lululemon. They're mean at this one. Oh well.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-04-19 16:00:43 UTC">
+      <body>Just be mean right back!</body>
+    </message>
+  </messages>
+</conversation>

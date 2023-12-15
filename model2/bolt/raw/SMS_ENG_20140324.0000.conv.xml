@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140324.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-24 02:40:09 UTC" participant="149306">
+      <body>The ticket transfer was canceled because I didn't check my email all weekend</body>
+    </message>
+    <message id="m0001" time="2014-03-24 13:22:27 UTC" participant="149369">
+      <body>I just resent it, i think you have until Wednesday morning to accept them</body>
+    </message>
+    <message id="m0002" time="2014-03-24 15:29:18 UTC" participant="149306">
+      <body>Thanks! I got it. Sorry about making you send it twice.</body>
+    </message>
+    <message id="m0003" time="2014-03-24 15:30:17 UTC" participant="149369">
+      <body>That's ok, it was no problem</body>
+    </message>
+  </messages>
+</conversation>
+

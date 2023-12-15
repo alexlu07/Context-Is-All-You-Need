@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 23:51:28 UTC" participant="152535">
+      <body>Hey man! We wont make it tonight. A little funk. It was nice to see you today. Are you out of here tomorrow? I was thinking of skiing a bit. Be well!</body>
+    </message>
+    <message id="m0001" time="2014-01-24 23:52:40 UTC" participant="152417">
+      <body>Yea, im leaving bright and early. See you in february and enjoy the slopes</body>
+    </message>
+    <message id="m0002" time="2014-01-24 23:54:54 UTC" participant="152535">
+      <body>So cool! I hope you take some pictures and record some videos ;)</body>
+    </message>
+  </messages>
+</conversation>
+

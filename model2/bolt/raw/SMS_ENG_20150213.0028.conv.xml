@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150213.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-13 18:38:21 UTC" participant="153548">
+      <body>You work today? I'm thinking about going to a matinee movie</body>
+    </message>
+    <message id="m0001" time="2015-02-13 18:50:31 UTC" participant="153635">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0002" time="2015-02-13 18:52:20 UTC" participant="153548">
+      <body>Aw dangz.</body>
+    </message>
+    <message id="m0003" time="2015-02-13 22:41:32 UTC" participant="153635">
+      <body>What did you watch?!</body>
+    </message>
+    <message id="m0004" time="2015-02-14 15:28:19 UTC" participant="153548">
+      <body>A lesbian period thriller!</body>
+    </message>
+  </messages>
+</conversation>
+

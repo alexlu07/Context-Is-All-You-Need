@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140208.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-08 18:36:30 UTC" participant="152417">
+      <body>Hey Jeff, can you send me Alia's number?</body>
+    </message>
+    <message id="m0001" time="2014-02-08 18:46:32 UTC" participant="152420">
+      <body>Don't have</body>
+    </message>
+  </messages>
+</conversation>
+

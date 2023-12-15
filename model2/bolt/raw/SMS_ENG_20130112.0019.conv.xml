@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-12 16:29:24 UTC">
+      <body>Leaving</body>
+    </message>
+    <message id="m0001" participant="135266" time="2013-01-12 16:39:04 UTC">
+      <body>Drive safely. Love you. </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-12 19:28:00 UTC">
+      <body>@ a rest stop in nj. Love you!</body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-01-12 19:36:00 UTC">
+      <body>Thanks. Have an ETA?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-12 20:33:55 UTC">
+      <body>7-8 if no traffic</body>
+    </message>
+    <message id="m0005" participant="135266" time="2013-01-12 20:35:14 UTC">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>

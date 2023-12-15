@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110520.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130844" time="2011-05-20 15:10:27 UTC">
+      <body>Hey Kennedy, got your email - I am headed off to check out south st and Italian mrkt &amp; to get a cheesesteak. So I'll be over to yours I would say about 3</body>
+    </message>
+    <message id="m0001" participant="130844" time="2011-05-20 15:10:30 UTC">
+      <body>-4ish? But I'll flick you a text when I get on the subway. See you soon! :)</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-05-20 15:50:44 UTC">
+      <body>Okey doke!  See ya soon!</body>
+    </message>
+    <message id="m0003" participant="130844" time="2011-05-20 19:11:48 UTC">
+      <body>Just at the subway now. See you soon!</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-05-20 19:14:45 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0005" participant="130844" time="2011-05-20 19:39:11 UTC">
+      <body>Im down on the street :)</body>
+    </message>
+    <message id="m0006" participant="130755" time="2011-05-22 14:32:53 UTC">
+      <body> the kiwi comp eddie was thinkin of is called Not Given Lightly!  Haffa good bus ride!</body>
+    </message>
+    <message id="m0007" participant="130844" time="2011-05-22 14:49:45 UTC">
+      <body>I'll have to check it out! Oh and I couldn't find a pin for the map... Can you please put one on 'tauranga'? Thanks! :)</body>
+    </message>
+    <message id="m0008" participant="130755" time="2011-05-22 15:33:00 UTC">
+      <body>Yea!</body>
+    </message>
+  </messages>
+</conversation>

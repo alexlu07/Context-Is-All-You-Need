@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135471" time="2013-02-13 19:14:35 UTC">
+      <body>Hey sofie I just got out of my interview. I think it went really well! Are you available or giving tours?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-13 19:35:31 UTC">
+      <body>Oh I'm running up to ninth flr to wait for a tour! You still here?</body>
+    </message>
+    <message id="m0002" participant="135471" time="2013-02-13 19:40:24 UTC">
+      <body>Shoot just left, I gotta catch the train back to providence. No worries though let's talk soon. Lemme know if you hear anything else from jan or brian. I might come up again soon for a full tour. When do you usually give them? </body>
+    </message>
+  </messages>
+</conversation>

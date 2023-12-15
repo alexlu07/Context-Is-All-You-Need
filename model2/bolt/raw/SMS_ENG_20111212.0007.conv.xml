@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111212.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-12-12 20:00:23 UTC" participant="152734">
+      <body>Hey, it's Julia - having a little holiday potluck party on Friday if you/Helen/Nora would like to come! </body>
+    </message>
+    <message id="m0001" time="2011-12-12 20:05:20 UTC" participant="153277">
+      <body>Nice! What times? Where?</body>
+    </message>
+  </messages>
+</conversation>
+

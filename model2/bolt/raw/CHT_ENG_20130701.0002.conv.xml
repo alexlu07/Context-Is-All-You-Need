@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20130701.0002" medium="CHT" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-07-01 22:42:12 UTC">
+      <body>Hi Martin</body>
+    </message>
+    <message id="m0001" participant="130630" time="2013-07-01 22:52:02 UTC">
+      <body>Hi LDCTalker</body>
+    </message>
+    <message id="m0002" participant="130602" time="2013-07-01 22:53:34 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0003" participant="130602" time="2013-07-01 22:53:37 UTC">
+      <body>how are you</body>
+    </message>
+    <message id="m0004" participant="130630" time="2013-07-01 22:56:00 UTC">
+      <body>Doing good. You?</body>
+    </message>
+    <message id="m0005" participant="130602" time="2013-07-01 22:58:02 UTC">
+      <body>soso :)</body>
+    </message>
+    <message id="m0006" participant="130630" time="2013-07-01 22:58:35 UTC">
+      <body>Oh?</body>
+    </message>
+    <message id="m0007" participant="130630" time="2013-07-01 22:58:42 UTC">
+      <body>Sorry to hear that</body>
+    </message>
+    <message id="m0008" participant="130602" time="2013-07-01 22:58:49 UTC">
+      <body>yeah - just a bunch of random stuff going on.</body>
+    </message>
+    <message id="m0009" participant="130602" time="2013-07-01 22:59:01 UTC">
+      <body>you know how that is - something needs to be done here, something needs to be done there.</body>
+    </message>
+    <message id="m0010" participant="130602" time="2013-07-01 22:59:17 UTC">
+      <body>Plus I'm low on chocolate, which is never good.</body>
+    </message>
+    <message id="m0011" participant="130630" time="2013-07-01 22:59:43 UTC">
+      <body>true dat</body>
+    </message>
+    <message id="m0012" participant="130602" time="2013-07-01 23:31:34 UTC">
+      <body>so what's up in your world?</body>
+    </message>
+    <message id="m0013" participant="130630" time="2013-07-01 23:36:10 UTC">
+      <body>Taking a friend to dinner for her birthday</body>
+    </message>
+    <message id="m0014" participant="130602" time="2013-07-01 23:39:47 UTC">
+      <body>back in a bit</body>
+    </message>
+  </messages>
+</conversation>

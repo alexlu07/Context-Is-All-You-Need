@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135273" time="2012-12-15 04:45:52 UTC">
+      <body>What was the cuddly big eyed animal that we loved??</body>
+    </message>
+    <message id="m0001" participant="135273" time="2012-12-15 04:45:52 UTC">
+      <body>I meant to send that to Anna. Could you ask her?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-15 04:53:37 UTC">
+      <body>She says "oh...mmm...I don't remember. I think it started with an m but I don't remember"</body>
+    </message>
+  </messages>
+</conversation>

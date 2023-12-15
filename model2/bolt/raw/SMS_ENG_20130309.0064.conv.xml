@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-09 00:43:09 UTC" participant="152734">
+      <body>Hey, louie's all yours on Sunday. I could ride him tomorrow if you can switch, no problem if not. He was good today!</body>
+    </message>
+    <message id="m0001" time="2013-03-09 01:01:52 UTC" participant="153301">
+      <body>Ok thanks! I'm itching to ride tomorrow </body>
+    </message>
+    <message id="m0002" time="2013-03-09 01:04:00 UTC" participant="153301">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" time="2013-03-09 01:04:03 UTC" participant="152734">
+      <body>Go for it! </body>
+    </message>
+  </messages>
+</conversation>
+

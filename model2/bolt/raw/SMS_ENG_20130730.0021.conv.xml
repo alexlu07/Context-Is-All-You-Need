@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-30 13:18:14 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="134923" time="2013-07-30 21:46:56 UTC">
+      <body>Hi how r u?</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-07-31 10:11:25 UTC">
+      <body>I am doing well. Are you in pa?</body>
+    </message>
+    <message id="m0004" participant="134923" time="2013-07-31 10:53:33 UTC">
+      <body>I am actually living in maryland now.</body>
+    </message>
+  </messages>
+</conversation>

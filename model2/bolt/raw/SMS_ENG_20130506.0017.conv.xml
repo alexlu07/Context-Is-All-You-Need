@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130518" time="2013-05-06 09:11:31 UTC">
+      <body>Hey Italy, u wana set up a time to chat today?</body>
+    </message>
+    <message id="m0001" participant="130524" time="2013-05-06 09:46:57 UTC">
+      <body>Hey yeah!</body>
+    </message>
+    <message id="m0002" participant="130524" time="2013-05-06 09:47:17 UTC">
+      <body>I'm free probs around 3 or</body>
+    </message>
+    <message id="m0003" participant="130524" time="2013-05-06 09:47:17 UTC">
+      <body>In the evening</body>
+    </message>
+    <message id="m0004" participant="130518" time="2013-05-06 09:50:16 UTC">
+      <body>Three sounds good.</body>
+    </message>
+    <message id="m0005" participant="130518" time="2013-05-06 09:50:47 UTC">
+      <body>Hit me up when u are free</body>
+    </message>
+    <message id="m0006" participant="130524" time="2013-05-06 09:51:33 UTC">
+      <body>Sounds Good</body>
+    </message>
+  </messages>
+</conversation>

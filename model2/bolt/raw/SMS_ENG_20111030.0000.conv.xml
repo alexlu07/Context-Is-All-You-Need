@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111030.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135092" time="2011-10-30 06:36:48 UTC">
+      <body>I may be drunk but I just want to say that I love you very very much and I'm happy you are my sister and I will visit</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-10-30 19:18:58 UTC">
+      <body>World News is about you!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-10-30 19:24:17 UTC">
+      <body>Huh??</body>
+    </message>
+    <message id="m0003" participant="135092" time="2011-10-30 19:30:40 UTC">
+      <body>By Local Natives</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-10-30 19:32:13 UTC">
+      <body>Why is it about me?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-10-30 20:31:33 UTC">
+      <body>???</body>
+    </message>
+    <message id="m0006" participant="135092" time="2011-10-30 21:00:41 UTC">
+      <body>Your phone goes off with a picture of your mother, its 5 to 6 and she can't find your brother</body>
+    </message>
+  </messages>
+</conversation>

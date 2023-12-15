@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141125.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-25 22:29:44 UTC" participant="152735">
+      <body>What time should I come by? I'm free after 9</body>
+    </message>
+    <message id="m0001" time="2014-11-25 22:29:54 UTC" participant="152735">
+      <body>Lovely pieces btw </body>
+    </message>
+    <message id="m0002" time="2014-11-25 23:17:20 UTC" participant="152772">
+      <body>9 is perfect </body>
+    </message>
+    <message id="m0003" time="2014-11-25 23:44:32 UTC" participant="152735">
+      <body>Would 10 work too? </body>
+    </message>
+    <message id="m0004" time="2014-11-25 23:44:39 UTC" participant="152735">
+      <body>That might be better </body>
+    </message>
+    <message id="m0005" time="2014-11-26 00:00:00 UTC" participant="152772">
+      <body>Perfect </body>
+    </message>
+    <message id="m0006" time="2014-11-26 00:31:05 UTC" participant="152735">
+      <body>Haha </body>
+    </message>
+    <message id="m0007" time="2014-11-26 01:55:35 UTC" participant="152735">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

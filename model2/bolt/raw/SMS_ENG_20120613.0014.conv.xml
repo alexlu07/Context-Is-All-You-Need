@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120613.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-13 17:08:24 UTC">
+      <body>You're going to prom right?</body>
+    </message>
+    <message id="m0001" participant="136212" time="2012-06-13 17:10:29 UTC">
+      <body>Nope i'm going to afteR prom though</body>
+    </message>
+  </messages>
+</conversation>

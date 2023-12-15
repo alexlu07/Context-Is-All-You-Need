@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140422.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-22 19:47:20 UTC" participant="152417">
+      <body>Hi Che can I come and play in the bike workshop tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-04-22 20:00:06 UTC" participant="152419">
+      <body>Yayay yes of course!</body>
+    </message>
+    <message id="m0002" time="2014-04-22 20:01:03 UTC" participant="152417">
+      <body>Cool, thanks, i just got an old raleigh from little city cycles.  Now its time to tinker</body>
+    </message>
+  </messages>
+</conversation>
+

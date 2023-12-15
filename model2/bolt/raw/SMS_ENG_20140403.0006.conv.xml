@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140403.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-03 00:32:07 UTC" participant="153547">
+      <body>Hey Ryan , I was wondering if you and Ruby were available tomorrow for a visit.</body>
+    </message>
+    <message id="m0001" time="2014-04-03 04:39:28 UTC" participant="153580">
+      <body>Hey man! Are you free in the afternoon?</body>
+    </message>
+    <message id="m0002" time="2014-04-03 12:12:42 UTC" participant="153547">
+      <body>Yeah I got a bunch of errands but what time is good.</body>
+    </message>
+    <message id="m0003" time="2014-04-03 14:01:49 UTC" participant="153580">
+      <body>How's 2:30?</body>
+    </message>
+    <message id="m0004" time="2014-04-03 14:02:15 UTC" participant="153547">
+      <body>Cool see you then</body>
+    </message>
+    <message id="m0005" time="2014-04-03 14:04:48 UTC" participant="153580">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0006" time="2014-04-03 18:18:14 UTC" participant="153580">
+      <body>Ruby won't be up for her nap til more like three if you wanted to some a little later</body>
+    </message>
+    <message id="m0007" time="2014-04-03 18:19:36 UTC" participant="153547">
+      <body>I gotta do an estimate at 330 . Let me see if I can go do this estimate now and come a little later.</body>
+    </message>
+    <message id="m0008" time="2014-04-03 18:20:09 UTC" participant="153580">
+      <body>Ok well we have somewhere to be at 3:30, what's your Sunday look like?</body>
+    </message>
+    <message id="m0009" time="2014-04-03 18:21:05 UTC" participant="153547">
+      <body>I'll come now or after my estimate if I can do it now</body>
+    </message>
+    <message id="m0010" time="2014-04-03 18:21:55 UTC" participant="153547">
+      <body>Gonna do the estimate now. I'll be over a little before 3</body>
+    </message>
+    <message id="m0011" time="2014-04-03 18:22:17 UTC" participant="153580">
+      <body>Ok great!</body>
+    </message>
+  </messages>
+</conversation>
+

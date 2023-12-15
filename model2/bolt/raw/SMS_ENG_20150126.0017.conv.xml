@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 13:07:51 UTC" participant="153547">
+      <body>Hey Kurt. Sorry to text early. My class is cancelled. Do you want to hang some drywall before this blizzard hits? Maybe 9am-1pm</body>
+    </message>
+    <message id="m0001" time="2015-01-26 15:24:00 UTC" participant="153547">
+      <body>I'm not coming to work. I sent you an invoice</body>
+    </message>
+    <message id="m0002" time="2015-01-26 16:04:16 UTC" participant="153602">
+      <body>Sorry I missed you. Got the invoice. Got the money. If class is canceled tomorrow and u wanna work let me know.</body>
+    </message>
+  </messages>
+</conversation>
+

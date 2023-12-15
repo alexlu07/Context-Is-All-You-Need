@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140212.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-12 00:14:25 UTC" participant="153557">
+      <body>Get parsley!</body>
+    </message>
+    <message id="m0001" time="2014-02-12 00:14:25 UTC" participant="153557">
+      <body>It sea to be important</body>
+    </message>
+    <message id="m0002" time="2014-02-12 18:47:47 UTC" participant="153547">
+      <body>My god trader joes is the most crazy ever</body>
+    </message>
+    <message id="m0003" time="2014-02-12 18:48:54 UTC" participant="153547">
+      <body>Line to get into store</body>
+    </message>
+    <message id="m0004" time="2014-02-12 18:56:22 UTC" participant="153557">
+      <body>Get out of there!</body>
+    </message>
+    <message id="m0005" time="2014-02-12 19:39:44 UTC" participant="153557">
+      <body>I'm going to try to end class a little early today if I can.</body>
+    </message>
+    <message id="m0006" time="2014-02-12 19:40:09 UTC" participant="153557">
+      <body>I've been here since 11:30</body>
+    </message>
+    <message id="m0007" time="2014-02-12 19:50:24 UTC" participant="153557">
+      <body>Did you get food for the weekend? I'm not leaving Friday I bet.</body>
+    </message>
+    <message id="m0008" time="2014-02-12 19:57:01 UTC" participant="153547">
+      <body>We got plenty. Mainly needed coffee</body>
+    </message>
+  </messages>
+</conversation>
+

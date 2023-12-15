@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141030.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-30 00:28:01 UTC" participant="152590">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0001" time="2014-10-30 00:28:11 UTC" participant="152590">
+      <body>got you a big order from raw sushi. Just be careful to double check that everything is there on this one.</body>
+    </message>
+    <message id="m0002" time="2014-10-30 00:28:38 UTC" participant="152417">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

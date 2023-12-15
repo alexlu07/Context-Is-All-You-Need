@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131019.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-19 21:29:10 UTC" participant="152374">
+      <body>Are you interested in seeing ############ again? TLA this time. #####. Ticket is covered</body>
+    </message>
+    <message id="m0001" time="2013-10-20 14:28:34 UTC" participant="152374">
+      <body>Never mind :-)</body>
+    </message>
+    <message id="m0002" time="2013-10-20 15:13:57 UTC" participant="153464">
+      <body>Gah, sorry, phone was dead. Gonna be in NOLA anyway</body>
+    </message>
+    <message id="m0003" time="2013-10-20 15:42:35 UTC" participant="152374">
+      <body>Aha. Have fun!</body>
+    </message>
+  </messages>
+</conversation>
+

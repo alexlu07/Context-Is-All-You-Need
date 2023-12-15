@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20090409.0000" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" time="2009-04-09 16:10:25 UTC" participant="152988">
+      <body>lee i thought you were coming yesterday</body>
+    </message>
+    <message id="m0001" time="2009-04-09 16:10:38 UTC" participant="152697">
+      <body>Oh, I changed my mind!</body>
+    </message>
+    <message id="m0002" time="2009-04-09 16:10:48 UTC" participant="152697">
+      <body>I had a lot of stuff to do in Philly.</body>
+    </message>
+    <message id="m0003" time="2009-04-09 16:10:58 UTC" participant="152697">
+      <body>I hope I get to come up sometime, though.</body>
+    </message>
+    <message id="m0004" time="2009-04-09 16:11:01 UTC" participant="152988">
+      <body>oh, too bad</body>
+    </message>
+    <message id="m0005" time="2009-04-09 16:11:03 UTC" participant="152988">
+      <body>yeah!</body>
+    </message>
+  </messages>
+</conversation>
+

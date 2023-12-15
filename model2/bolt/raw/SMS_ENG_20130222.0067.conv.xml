@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-22 02:35:30 UTC" participant="153973">
+      <body>So...?</body>
+    </message>
+    <message id="m0001" time="2013-02-22 04:07:45 UTC" participant="152374">
+      <body>Should be in that bag!</body>
+    </message>
+    <message id="m0002" time="2013-02-22 04:10:28 UTC" participant="153973">
+      <body>Ohhh you rock!!</body>
+    </message>
+    <message id="m0003" time="2013-02-22 18:48:13 UTC" participant="153973">
+      <body>What was the restaurant you recommended again?</body>
+    </message>
+    <message id="m0004" time="2013-02-22 18:49:28 UTC" participant="152374">
+      <body>The mexi-cali byob?  Isabel, on Pennsylvania Ave!</body>
+    </message>
+    <message id="m0005" time="2013-02-22 18:54:13 UTC" participant="153973">
+      <body>Thats it. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

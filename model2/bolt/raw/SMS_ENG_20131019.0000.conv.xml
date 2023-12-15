@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131019.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-19 00:50:49 UTC" participant="149306">
+      <body>Hi Wendy, I walked AJ this evening and fed him per your instructions. He did a poop and pee on his walk and seemed to be happy and energetic. ######</body>
+    </message>
+    <message id="m0001" time="2013-10-19 13:51:33 UTC" participant="149390">
+      <body>Thanks ##### I'm glad AJ is in good hand.</body>
+    </message>
+    <message id="m0002" time="2013-10-19 13:53:24 UTC" participant="149306">
+      <body>My pleasure, AJ did great this morning too.</body>
+    </message>
+  </messages>
+</conversation>
+

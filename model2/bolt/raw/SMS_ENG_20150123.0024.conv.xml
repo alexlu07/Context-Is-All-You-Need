@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 23:31:13 UTC" participant="153548">
+      <body>Hey! Text me when you are here I'm suiting up.</body>
+    </message>
+    <message id="m0001" time="2015-01-23 23:32:16 UTC" participant="153645">
+      <body>Here! </body>
+    </message>
+    <message id="m0002" time="2015-01-24 14:06:56 UTC" participant="153645">
+      <body>Be there in 5! </body>
+    </message>
+    <message id="m0003" time="2015-01-24 14:12:19 UTC" participant="153548">
+      <body>Kewl I'm ready to go!</body>
+    </message>
+  </messages>
+</conversation>
+

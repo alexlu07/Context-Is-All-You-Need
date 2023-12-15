@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-25 23:11:44 UTC">
+      <body>Tonight or Tuesday?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-11-25 23:12:37 UTC">
+      <body>Tonight works for me. How about you?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-11-25 23:15:03 UTC">
+      <body>Yep! See you at 5/8!</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-11-25 23:16:07 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-11-26 21:16:10 UTC">
+      <body>They changed my appt to next Monday and didn't bother to tell me!</body>
+    </message>
+    <message id="m0005" participant="131023" time="2012-11-26 21:17:29 UTC">
+      <body>Geez!  Nice...hope the service is better Monday!</body>
+    </message>
+    <message id="m0006" participant="130712" time="2012-11-27 21:11:49 UTC">
+      <body>Haha. Thank you!</body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-11-27 21:12:10 UTC">
+      <body>Also, I never got whatever it was that Annie sent Lucy.</body>
+    </message>
+    <message id="m0008" participant="130712" time="2012-11-27 21:15:06 UTC">
+      <body>Awww!</body>
+    </message>
+    <message id="m0009" participant="131023" time="2012-11-28 00:32:31 UTC">
+      <body>Yeah!</body>
+    </message>
+  </messages>
+</conversation>

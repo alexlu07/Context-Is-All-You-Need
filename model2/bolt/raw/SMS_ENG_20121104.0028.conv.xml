@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121104.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-04 03:42:31 UTC">
+      <body>Miss you!!!</body>
+    </message>
+    <message id="m0001" participant="136245" time="2012-11-04 04:00:33 UTC">
+      <body>Miss you too!! How's Emory??!?!? :)</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-04 04:48:42 UTC">
+      <body>It's really fun!!! Also a lot of work. But I'm managing. I love it here. How's Southern Connecticut??</body>
+    </message>
+    <message id="m0003" participant="136245" time="2012-11-04 04:49:44 UTC">
+      <body>It's good!! I don't rly have that much work..I guess I got lucky with my classes for this semester</body>
+    </message>
+  </messages>
+</conversation>

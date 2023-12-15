@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130305.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-05 21:48:02 UTC">
+      <body>have coffee with me.</body>
+    </message>
+    <message id="m0001" participant="131357" time="2013-03-05 22:17:26 UTC">
+      <body>Ok. Where?</body>
+    </message>
+    <message id="m0002" participant="131357" time="2013-03-05 22:18:53 UTC">
+      <body>Inna meeting with HR...will meet you asap...where?</body>
+    </message>
+    <message id="m0003" participant="131357" time="2013-03-05 22:27:06 UTC">
+      <body>Omw 2 cdc</body>
+    </message>
+  </messages>
+</conversation>

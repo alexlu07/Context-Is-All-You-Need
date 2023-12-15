@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0002" participant="136164" time="2012-11-27 02:04:32 UTC">
+      <body>TIS ME</body>
+    </message>
+    <message id="m0003" participant="136308" time="2012-11-27 02:04:59 UTC">
+      <body>TIS ME AS WELL</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-27 02:05:38 UTC">
+      <body>YAY. So how are you buddy? How's school and life and everything?</body>
+    </message>
+    <message id="m0005" participant="136308" time="2012-11-27 02:11:13 UTC">
+      <body>I'm great. Junior year is very stressful, but it's fun. 3 Aps and a shit ton of extra curriculars. Hows Emory man?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-27 03:02:27 UTC">
+      <body>That's good! Hopefully everything you're doing is something you enjoy. Emory is great, I really feel comfortable here and I'm having lots of fun. The work is hard but it's manageable</body>
+    </message>
+  </messages>
+</conversation>

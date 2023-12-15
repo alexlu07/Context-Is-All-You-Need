@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-08 18:26:12 UTC">
+      <body>There's no chance we are going to CT for Christmas right?</body>
+    </message>
+    <message id="m0001" participant="135266" time="2012-12-08 21:03:58 UTC">
+      <body>Probably not. Are you invited elsewhere?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-08 21:59:29 UTC">
+      <body>Nope but Anna might come up on the 26th</body>
+    </message>
+    <message id="m0003" participant="135266" time="2012-12-08 22:00:07 UTC">
+      <body>Ah. </body>
+    </message>
+    <message id="m0004" participant="135266" time="2012-12-08 23:13:23 UTC">
+      <body>Happy Chanukah. </body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-12-08 23:18:18 UTC">
+      <body>You too! :)</body>
+    </message>
+  </messages>
+</conversation>

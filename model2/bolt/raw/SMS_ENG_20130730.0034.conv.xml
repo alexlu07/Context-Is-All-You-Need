@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-07-30 13:30:03 UTC">
+      <body>Hey! Min's contractor checked out the place n he's gonna fix the grout n tiles on the bathroom :)</body>
+    </message>
+    <message id="m0001" participant="137408" time="2013-07-30 13:36:10 UTC">
+      <body>That's great! Thank you so much! </body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-07-30 13:41:10 UTC">
+      <body>Yay. No prob :)</body>
+    </message>
+  </messages>
+</conversation>

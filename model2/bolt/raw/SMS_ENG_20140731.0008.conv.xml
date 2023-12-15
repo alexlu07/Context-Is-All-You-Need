@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140731.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-31 21:43:13 UTC" participant="153557">
+      <body>Whatchoo doing for dinner</body>
+    </message>
+    <message id="m0001" time="2014-08-01 15:28:00 UTC" participant="153557">
+      <body>Yes please. Did you make that tumbler because it's genius</body>
+    </message>
+    <message id="m0002" time="2014-08-01 15:28:26 UTC" participant="153547">
+      <body>Risotto tonight?</body>
+    </message>
+  </messages>
+</conversation>
+

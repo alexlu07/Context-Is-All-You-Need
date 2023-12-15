@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-06 16:03:35 UTC" participant="152116">
+      <body>What's up, my sister. What's your availability this weekend?</body>
+    </message>
+    <message id="m0001" time="2014-12-06 16:19:21 UTC" participant="153244">
+      <body>Tonight I have a bday for stephs cousin but im free tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-12-06 16:20:08 UTC" participant="152116">
+      <body>Okay and what about earlier in the day today?</body>
+    </message>
+    <message id="m0003" time="2014-12-06 16:29:38 UTC" participant="152116">
+      <body>Tomorrows good. I'm just asking</body>
+    </message>
+    <message id="m0004" time="2014-12-06 16:43:24 UTC" participant="153244">
+      <body>Work til 330 then haircut then getting ready for party because its @ 630.</body>
+    </message>
+    <message id="m0005" time="2014-12-06 16:46:21 UTC" participant="152116">
+      <body>Okay. Tomorrow I'm meeting with my startup around noon but will be free a little after maybe 2 or 3</body>
+    </message>
+    <message id="m0006" time="2014-12-06 17:00:42 UTC" participant="153244">
+      <body>Ok thats fine. I took off work tom night bec my police exam/interview is on Monday</body>
+    </message>
+    <message id="m0007" time="2014-12-06 17:04:40 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

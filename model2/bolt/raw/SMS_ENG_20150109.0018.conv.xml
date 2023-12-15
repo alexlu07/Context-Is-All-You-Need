@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 00:33:17 UTC" participant="153547">
+      <body>Hey Adam, I was wondering if you wanted to pick up some extra work next weekend tiling a bathroom with me. Cash payment $20/hr </body>
+    </message>
+    <message id="m0001" time="2015-01-09 01:48:48 UTC" participant="153561">
+      <body>Hey just got off work. Yeah I can help for sure. I'm around all day on Saturday and Sunday until 3</body>
+    </message>
+    <message id="m0002" time="2015-01-09 01:53:02 UTC" participant="153547">
+      <body>Not this weekend, the following weekend</body>
+    </message>
+    <message id="m0003" time="2015-01-09 01:55:27 UTC" participant="153561">
+      <body>Yeah I'll be around. Same hours. </body>
+    </message>
+    <message id="m0004" time="2015-01-09 01:57:00 UTC" participant="153547">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>
+

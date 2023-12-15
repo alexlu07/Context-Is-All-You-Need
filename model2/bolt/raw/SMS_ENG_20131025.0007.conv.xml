@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131025.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-25 23:38:25 UTC" participant="153548">
+      <body>What you doing?</body>
+    </message>
+    <message id="m0001" time="2013-10-25 23:38:57 UTC" participant="153635">
+      <body>Going to drink!</body>
+    </message>
+    <message id="m0002" time="2013-10-25 23:40:04 UTC" participant="153548">
+      <body>Where! </body>
+    </message>
+    <message id="m0003" time="2013-10-25 23:40:08 UTC" participant="153548">
+      <body>I want to go!</body>
+    </message>
+    <message id="m0004" time="2013-10-25 23:42:31 UTC" participant="153635">
+      <body>I think millcreek? Do you wanna drink with me?!</body>
+    </message>
+    <message id="m0005" time="2013-10-25 23:43:31 UTC" participant="153548">
+      <body>Yeah I have friends in town! When you gonna go</body>
+    </message>
+    <message id="m0006" time="2013-10-25 23:44:20 UTC" participant="153635">
+      <body>They can meet my work friends! Bring them!</body>
+    </message>
+    <message id="m0007" time="2013-10-25 23:45:22 UTC" participant="153548">
+      <body>Okay! We are at dock street about to leave</body>
+    </message>
+    <message id="m0008" time="2013-10-26 00:50:34 UTC" participant="153548">
+      <body>You tell me when u there</body>
+    </message>
+    <message id="m0009" time="2013-10-26 01:24:21 UTC" participant="153635">
+      <body>We are here!</body>
+    </message>
+    <message id="m0010" time="2013-10-26 03:56:56 UTC" participant="153635">
+      <body>Are you still at Dalak?</body>
+    </message>
+    <message id="m0011" time="2013-10-26 03:57:17 UTC" participant="153548">
+      <body>Yes but I'm about to head out :(</body>
+    </message>
+    <message id="m0012" time="2013-10-26 03:57:31 UTC" participant="153548">
+      <body>I so tired!</body>
+    </message>
+    <message id="m0013" time="2013-10-26 03:58:16 UTC" participant="153635">
+      <body>What you doing tomorrow?</body>
+    </message>
+    <message id="m0014" time="2013-10-26 03:58:51 UTC" participant="153548">
+      <body>I'm working and then I'm making eggplant Parmesan !</body>
+    </message>
+    <message id="m0015" time="2013-10-26 04:00:08 UTC" participant="153635">
+      <body>For me? Just kidding?</body>
+    </message>
+    <message id="m0016" time="2013-10-26 04:00:37 UTC" participant="153548">
+      <body>You can definitely have some. Ima text you.</body>
+    </message>
+    <message id="m0017" time="2013-10-26 04:01:07 UTC" participant="153635">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

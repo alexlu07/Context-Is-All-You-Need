@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120629.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-06-29 21:12:17 UTC">
+      <body>Hey! Just wanted to let you know that my mom is friends with a black woman at work who has decided to introduce my mom to "black people movies." So my mom is hosting "why did I get married?" tomorrow night at 6 and you're invited. Have fun at the b-ette p</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-06-30 18:47:50 UTC">
+      <body>We can pick you up, if you like! My mom would love to see your house (she says she doesn't care if it's messy)!</body>
+    </message>
+    <message id="m0002" participant="131030" time="2012-06-30 18:49:49 UTC">
+      <body>Okay! Yes, picking me up would be great. Downtown is not far from me. Be here at 1? </body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-06-30 18:51:42 UTC">
+      <body>Sounds good! What's your address again?</body>
+    </message>
+    <message id="m0004" participant="131030" time="2012-06-30 18:56:00 UTC">
+      <body>####################</body>
+    </message>
+  </messages>
+</conversation>

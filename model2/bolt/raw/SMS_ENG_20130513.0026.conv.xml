@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132575" time="2013-05-13 13:42:24 UTC">
+      <body>Hi how are you? How's your weekend?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-05-13 14:02:58 UTC">
+      <body>Pretty good and u?</body>
+    </message>
+    <message id="m0002" participant="132575" time="2013-05-13 14:04:06 UTC">
+      <body>Nice! </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-05-13 14:15:35 UTC">
+      <body>When u gonna fly me to Texas for a visit? Lol</body>
+    </message>
+    <message id="m0004" participant="132575" time="2013-05-13 15:01:53 UTC">
+      <body>Sometime in this summer! You'd be more than welcomed. </body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-05-13 15:03:57 UTC">
+      <body>I'd def come if u got me a ticket</body>
+    </message>
+    <message id="m0006" participant="132575" time="2013-05-13 15:52:55 UTC">
+      <body>Haha. Summer time ticket is incredibly expensive lol</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-05-13 15:53:37 UTC">
+      <body>Oh really? Dam! I wanna come to Texas!!</body>
+    </message>
+    <message id="m0008" participant="132575" time="2013-05-13 16:00:04 UTC">
+      <body>Haha. Have a good day!</body>
+    </message>
+  </messages>
+</conversation>

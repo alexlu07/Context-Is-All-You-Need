@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 22:56:41 UTC" participant="153649">
+      <body>First interview down! Boom!! Syracuse, out!</body>
+    </message>
+    <message id="m0001" time="2015-01-30 23:19:22 UTC" participant="153548">
+      <body>Heyyyy! Congrats! When do you leave for Santa barb?</body>
+    </message>
+    <message id="m0002" time="2015-01-30 23:19:51 UTC" participant="153548">
+      <body>Did Syracuse get the storm?</body>
+    </message>
+    <message id="m0003" time="2015-01-31 00:38:18 UTC" participant="153649">
+      <body>I leave tomorrow for SB. Soo busy. </body>
+    </message>
+    <message id="m0004" time="2015-01-31 00:38:24 UTC" participant="153649">
+      <body>Also, interviewing is weird </body>
+    </message>
+  </messages>
+</conversation>
+

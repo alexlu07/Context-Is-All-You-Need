@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120920.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-20 00:55:29 UTC" participant="152425">
+      <body>Where you at?  you meeting us there?</body>
+    </message>
+    <message id="m0001" time="2012-09-20 00:55:59 UTC" participant="152417">
+      <body>Yep, see u there</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141103.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-03 13:16:43 UTC" participant="152417">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-11-03 13:22:08 UTC" participant="152594">
+      <body>Great. Thanks! I just updated my insurance and I have a cashiers check so just let me know when you’re available to do the title change.</body>
+    </message>
+    <message id="m0002" time="2014-11-03 22:44:16 UTC" participant="152417">
+      <body>I'll be free tomorrow morning until 1 or afternoon at 330 or wednesday after 530 if the office is still open that late</body>
+    </message>
+    <message id="m0003" time="2014-11-03 22:57:41 UTC" participant="152417">
+      <body>Also thursday between 12-3 an then I'm going to be away for the weekend</body>
+    </message>
+    <message id="m0004" time="2014-11-03 23:41:10 UTC" participant="152594">
+      <body>i don’t think i can make it until thursday. would you like me to meet you at the title place at noon then?</body>
+    </message>
+    <message id="m0005" time="2014-11-03 23:51:19 UTC" participant="152417">
+      <body>Great, i'll let you know which one; there are a few near me</body>
+    </message>
+  </messages>
+</conversation>
+

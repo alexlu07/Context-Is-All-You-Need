@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-05-28 04:05:01 UTC">
+      <body>So what's te plan?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2013-05-28 04:09:36 UTC">
+      <body>We will hook up at lunch time.  Keep your phone near you between 11:30 and 1:00 and ill call you when we have an eta.</body>
+    </message>
+    <message id="m0002" participant="131821" time="2013-05-28 04:15:29 UTC">
+      <body>Okay cool see you then!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2013-05-28 17:57:38 UTC">
+      <body>You guys are still coming, right?</body>
+    </message>
+    <message id="m0004" participant="131824" time="2013-05-28 17:59:28 UTC">
+      <body>Go ahead and eat we are running late.  So sorry thought I texted you!</body>
+    </message>
+    <message id="m0005" participant="131821" time="2013-05-28 18:00:49 UTC">
+      <body>Will we still meet up?</body>
+    </message>
+    <message id="m0006" participant="131821" time="2013-05-28 18:00:58 UTC">
+      <body>I can have just a snack</body>
+    </message>
+    <message id="m0007" participant="131824" time="2013-05-28 18:02:21 UTC">
+      <body>We will still meet at Starbucks or Panera</body>
+    </message>
+    <message id="m0008" participant="131824" time="2013-05-28 19:22:40 UTC">
+      <body>Meet us at Panera in half hour</body>
+    </message>
+    <message id="m0009" participant="131824" time="2013-05-29 00:26:35 UTC">
+      <body>Xoxo so great to see you :)</body>
+    </message>
+    <message id="m0010" participant="131821" time="2013-05-29 00:44:26 UTC">
+      <body>Agreed :-)</body>
+    </message>
+  </messages>
+</conversation>

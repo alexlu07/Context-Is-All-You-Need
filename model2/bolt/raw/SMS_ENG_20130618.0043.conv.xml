@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132555" time="2013-06-18 23:20:02 UTC">
+      <body>Dan, it looks like we are practicing this Monday.  Are you still up for meeting us afterward?  </body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-18 23:24:53 UTC">
+      <body>24th? What time/ where?</body>
+    </message>
+    <message id="m0002" participant="132555" time="2013-06-18 23:37:20 UTC">
+      <body>Yeah, the 24th.  Would you be up for meeting us at El Camino Real on second?  I know it's not that close to you, but food/drinks will be on me. I guess we would meet around 9-9:30.  </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-19 00:05:17 UTC">
+      <body>Yeah that sounds good </body>
+    </message>
+  </messages>
+</conversation>

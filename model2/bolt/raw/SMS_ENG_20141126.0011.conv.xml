@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141126.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-26 23:15:36 UTC" participant="152119">
+      <body>Hey John! Just wondering how you're doing. I heard the weather is bad down in Maryland, so please be careful if you're traveling! </body>
+    </message>
+    <message id="m0001" time="2014-11-27 20:52:40 UTC" participant="153418">
+      <body>Hey Sam, I'm doing well.
+I saw that you got a new job! Congratulations! Full time teacher now? </body>
+    </message>
+  </messages>
+</conversation>
+

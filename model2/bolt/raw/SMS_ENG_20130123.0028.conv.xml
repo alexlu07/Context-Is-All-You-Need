@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130123.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-23 18:37:50 UTC" participant="152417">
+      <body>Mazel tov driver lady!</body>
+    </message>
+    <message id="m0001" time="2013-01-23 18:37:52 UTC" participant="152429">
+      <body>Tanks gabi! It feels so weird</body>
+    </message>
+    <message id="m0002" time="2013-01-24 13:34:56 UTC" participant="152429">
+      <body>Will I see you next week?</body>
+    </message>
+  </messages>
+</conversation>
+

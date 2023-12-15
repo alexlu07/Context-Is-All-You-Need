@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-29 15:38:27 UTC">
+      <body>You guys ok</body>
+    </message>
+    <message id="m0001" participant="135401" time="2012-10-29 18:05:11 UTC">
+      <body>Yes it's crazy here. You ok?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-29 18:05:26 UTC">
+      <body>Yess is there flooding</body>
+    </message>
+  </messages>
+</conversation>

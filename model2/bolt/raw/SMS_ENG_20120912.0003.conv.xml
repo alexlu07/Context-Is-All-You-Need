@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120912.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2012-09-12 22:34:40 UTC">
+      <body>http://campl.us/eEKIjwbAI4O</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-09-12 22:39:28 UTC">
+      <body>http://campl.us/eEKIjwbAI4O</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-09-12 22:40:30 UTC">
+      <body>What?</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-09-12 22:44:52 UTC">
+      <body>I don't get it</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-09-12 22:48:53 UTC">
+      <body>http://campl.us/iWju0o5ITgy</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-09-13 21:00:48 UTC">
+      <body>Ехо</body>
+    </message>
+    <message id="m0007" participant="131019" time="2012-09-13 21:02:32 UTC">
+      <body>I have class I can call you a little before 3</body>
+    </message>
+    <message id="m0008" participant="131019" time="2012-09-13 21:12:37 UTC">
+      <body>Love you!</body>
+    </message>
+    <message id="m0011" participant="131019" time="2012-09-13 21:34:01 UTC">
+      <body>Do you have work today? I have some questions I have to fill out for health insurance </body>
+    </message>
+    <message id="m0012" participant="131064" time="2012-09-13 21:34:56 UTC">
+      <body>Im on my eay to work</body>
+    </message>
+    <message id="m0013" participant="131019" time="2012-09-13 21:35:03 UTC">
+      <body>Shit okay can I call you in 5 minutes and see if you know them off the top of your head? Cuz you knew last year without checking anything</body>
+    </message>
+  </messages>
+</conversation>

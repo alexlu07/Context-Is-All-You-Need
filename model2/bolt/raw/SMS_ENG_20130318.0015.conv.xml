@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-03-18 19:07:06 UTC">
+      <body>I got on the bart train a few mins ago. I need to do the transfer at balboa park. I think I should there around 1:10 pm</body>
+    </message>
+    <message id="m0001" participant="131507" time="2013-03-18 19:35:05 UTC">
+      <body>Are u all wearing your jackets</body>
+    </message>
+    <message id="m0002" participant="131507" time="2013-03-18 19:35:06 UTC">
+      <body>Suit jackets</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-03-18 19:35:35 UTC">
+      <body>Of course.</body>
+    </message>
+    <message id="m0004" participant="131507" time="2013-03-19 14:27:07 UTC">
+      <body>Come over to car.</body>
+    </message>
+  </messages>
+</conversation>

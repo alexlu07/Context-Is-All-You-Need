@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120907.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-07 02:46:37 UTC">
+      <body>Hey I'll be home soon.  Talking with people. Love you</body>
+    </message>
+    <message id="m0001" participant="135414" time="2012-09-07 03:29:04 UTC">
+      <body>Come home! There's a surprise for you! But also my friend Sam is here so you're not surprised about that</body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-09-07 03:54:40 UTC">
+      <body>Don't worry, Sam left!</body>
+    </message>
+  </messages>
+</conversation>

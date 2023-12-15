@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150309.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-09 19:50:07 UTC" participant="153804">
+      <body>Are you having issues with your Wi-Fi and cable?
+Let me know if your home.
+Liz</body>
+    </message>
+    <message id="m0001" time="2015-03-09 19:51:23 UTC" participant="153828">
+      <body>Sorry not home now I can check when I get home but that will not be till 7</body>
+    </message>
+    <message id="m0002" time="2015-03-09 19:51:59 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" time="2015-03-09 23:37:45 UTC" participant="153804">
+      <body>Is everything working with Time Warner at your house?</body>
+    </message>
+    <message id="m0004" time="2015-03-09 23:40:04 UTC" participant="153828">
+      <body>Sorry I forgot to get back to you but yes I have all services</body>
+    </message>
+    <message id="m0005" time="2015-03-09 23:40:24 UTC" participant="153828">
+      <body>Yours not working still?</body>
+    </message>
+    <message id="m0006" time="2015-03-09 23:44:00 UTC" participant="153804">
+      <body>HD bedroom TV keeps resetting &amp; no Wi Fi. Appt @noon for service.
+Thanks 4 getting back.</body>
+    </message>
+    <message id="m0007" time="2015-03-09 23:46:21 UTC" participant="153828">
+      <body>Try to unplug everything for a couple min then plug in to reset</body>
+    </message>
+    <message id="m0008" time="2015-03-09 23:48:23 UTC" participant="153804">
+      <body> Have tried all troubleshooting,no luck!</body>
+    </message>
+  </messages>
+</conversation>
+

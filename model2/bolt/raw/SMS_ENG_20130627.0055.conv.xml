@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-27 21:13:38 UTC" participant="149377">
+      <body>Hey are you at your house now? I can swing by on my way home from work and give you some plate easels?</body>
+    </message>
+    <message id="m0001" time="2013-06-27 21:14:00 UTC" participant="149306">
+      <body>Yeah sure</body>
+    </message>
+    <message id="m0002" time="2013-06-27 21:14:42 UTC" participant="149377">
+      <body>Cool I can be there in like 20ish min</body>
+    </message>
+    <message id="m0003" time="2013-06-27 21:15:13 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2013-06-27 21:17:53 UTC" participant="149377">
+      <body>Cool I'll call you when I'm there</body>
+    </message>
+  </messages>
+</conversation>
+

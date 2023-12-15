@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-07-02 18:58:21 UTC">
+      <body>Hello kangtan! S'up?</body>
+    </message>
+    <message id="m0001" participant="133266" time="2013-07-02 18:59:45 UTC">
+      <body>Not much! On Reddit after work, you?</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-07-02 19:07:53 UTC">
+      <body>Just out and about. Nothing special. What's Reddit? I've heard the name but don't know what it is.</body>
+    </message>
+    <message id="m0003" participant="133266" time="2013-07-02 19:10:21 UTC">
+      <body>It's a big forum with lots of sub-forums on different topics. There's literally a subreddit for everything, it's great for keeping up to date on stuff</body>
+    </message>
+    <message id="m0004" participant="130748" time="2013-07-02 19:22:39 UTC">
+      <body>Wow. Sort of like the old newsgroups but in the browser?</body>
+    </message>
+    <message id="m0005" participant="133266" time="2013-07-02 21:03:23 UTC">
+      <body>Haha kinda, not too familiar with those!</body>
+    </message>
+  </messages>
+</conversation>

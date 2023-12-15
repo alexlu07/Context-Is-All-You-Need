@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-05-06 22:12:08 UTC">
+      <body>Maoz?</body>
+    </message>
+    <message id="m0001" participant="131493" time="2013-05-06 23:38:17 UTC">
+      <body>Beauty!!! I've been super busy today, hurry home!</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-05-06 23:44:32 UTC">
+      <body>Waiting for ze metro!!</body>
+    </message>
+    <message id="m0003" participant="131493" time="2013-05-06 23:57:00 UTC">
+      <body>Jammmm</body>
+    </message>
+    <message id="m0004" participant="131493" time="2013-05-07 00:28:22 UTC">
+      <body>My heart!!!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130622.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-22 17:05:26 UTC">
+      <body>What are you up to today ?</body>
+    </message>
+    <message id="m0001" participant="135386" time="2013-06-22 17:57:20 UTC">
+      <body>Workin :/</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-06-22 17:57:20 UTC">
+      <body>Off tomro! Come see me and Daniel and Jeff run in Tory Row 5k! 10 am Harvard Sq</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-06-22 18:10:08 UTC">
+      <body>Do it!!!!</body>
+    </message>
+  </messages>
+</conversation>

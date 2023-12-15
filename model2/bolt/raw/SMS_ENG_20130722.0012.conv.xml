@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131348" time="2013-07-22 18:58:33 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-07-22 19:39:54 UTC">
+      <body>What's good?</body>
+    </message>
+    <message id="m0002" participant="131348" time="2013-07-22 19:47:05 UTC">
+      <body>Nothing much how bout u</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-07-22 21:20:47 UTC">
+      <body>Workin at a bar right now, pretty dead</body>
+    </message>
+    <message id="m0004" participant="131348" time="2013-07-22 21:23:16 UTC">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-07-22 21:30:04 UTC">
+      <body>What do you do?</body>
+    </message>
+    <message id="m0006" participant="131348" time="2013-07-22 21:38:53 UTC">
+      <body>About to quit as a parole officer and go overseas to teach English</body>
+    </message>
+    <message id="m0007" participant="130562" time="2013-07-22 21:42:49 UTC">
+      <body>That sounds awesome</body>
+    </message>
+    <message id="m0008" participant="130562" time="2013-07-22 21:42:49 UTC">
+      <body>Where do you want to teach?</body>
+    </message>
+    <message id="m0009" participant="131348" time="2013-07-22 21:44:52 UTC">
+      <body>Leaving for Saudi Arabia in a couple weeks</body>
+    </message>
+    <message id="m0010" participant="130562" time="2013-07-22 22:34:10 UTC">
+      <body>That's really cool man - have you been overseas at all?</body>
+    </message>
+    <message id="m0011" participant="131348" time="2013-07-22 22:37:49 UTC">
+      <body>Yea I was in the military</body>
+    </message>
+    <message id="m0012" participant="130562" time="2013-07-23 03:10:56 UTC">
+      <body>Where did you end up with the military?</body>
+    </message>
+    <message id="m0013" participant="131348" time="2013-07-23 11:46:27 UTC">
+      <body>Europe and central America</body>
+    </message>
+  </messages>
+</conversation>

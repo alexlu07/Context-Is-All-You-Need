@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-27 03:10:08 UTC">
+      <body>May not be sleeping at Rachel's as planned...can you leave the door unlocked? </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-04-27 03:24:18 UTC">
+      <body>I didn't lock I
+It. Also u might have McGill aid result  waiting for u in Minerva</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-27 03:25:05 UTC">
+      <body>Can you check for me? </body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-04-27 03:25:50 UTC">
+      <body>I'm still very sick trying to sleep</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-04-27 03:26:14 UTC">
+      <body>Okay I don't have my username or password so I can't check now </body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-04-27 14:41:46 UTC">
+      <body>I still haven't checked! Can you check for me? </body>
+    </message>
+    <message id="m0006" participant="137257" time="2013-04-27 14:42:22 UTC">
+      <body>I'm sick</body>
+    </message>
+    <message id="m0007" participant="137255" time="2013-04-27 14:43:08 UTC">
+      <body>Can you at least send me my username and password? </body>
+    </message>
+  </messages>
+</conversation>

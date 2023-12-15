@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-21 01:22:32 UTC">
+      <body>Sorry, I didn't know there was practice tonight. I'm back home in New York</body>
+    </message>
+    <message id="m0001" participant="136282" time="2012-11-21 07:06:07 UTC">
+      <body>Que esta bien. Have a good thanksgiving</body>
+    </message>
+  </messages>
+</conversation>

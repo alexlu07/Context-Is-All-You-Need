@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140530.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-30 02:16:32 UTC" participant="152424">
+      <body>sorry, seeing deep banana blackout </body>
+    </message>
+    <message id="m0001" time="2014-05-30 02:18:30 UTC" participant="152417">
+      <body>Nice! Talk to you soon</body>
+    </message>
+    <message id="m0002" time="2014-05-30 16:56:32 UTC" participant="152424">
+      <body>sorry forgot to call back, now at work.  anything urgent?</body>
+    </message>
+    <message id="m0003" time="2014-05-30 19:56:48 UTC" participant="152424">
+      <body>very nice!  I'll be nearby at 18th and carpenter</body>
+    </message>
+    <message id="m0004" time="2014-05-30 19:57:38 UTC" participant="152417">
+      <body>Nah, just catchin up, imma live with my brother  near tasker morris</body>
+    </message>
+  </messages>
+</conversation>
+

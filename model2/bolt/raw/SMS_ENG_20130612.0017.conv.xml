@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-06-12 17:10:20 UTC">
+      <body>Hi Jeremy's!</body>
+    </message>
+    <message id="m0001" participant="130630" time="2013-06-12 17:18:45 UTC">
+      <body>Er, jeremyp!</body>
+    </message>
+    <message id="m0002" participant="130630" time="2013-06-12 17:18:45 UTC">
+      <body>(Stupid autocorrect)</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-06-12 17:18:45 UTC">
+      <body>Hey hey otherdeb</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-12 17:19:55 UTC">
+      <body>How are you? How's the study goin?</body>
+    </message>
+    <message id="m0005" participant="130630" time="2013-06-12 17:24:46 UTC">
+      <body>Going good! You?</body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-06-12 17:25:41 UTC">
+      <body>Fine fine, just waitin to win this 300 bones! ;)</body>
+    </message>
+    <message id="m0007" participant="130630" time="2013-06-12 17:25:50 UTC">
+      <body>Had lunch with a friend at a very expensive steakhouse</body>
+    </message>
+    <message id="m0008" participant="130630" time="2013-06-12 17:26:17 UTC">
+      <body>LOL</body>
+    </message>
+    <message id="m0009" participant="130630" time="2013-06-12 17:27:31 UTC">
+      <body>So far, I seem to have 5 entries in the drawing</body>
+    </message>
+  </messages>
+</conversation>

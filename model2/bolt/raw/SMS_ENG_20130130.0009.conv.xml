@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130130.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-01-30 01:32:20 UTC">
+      <body>Left eye:
+BC     8.2
+Dia   14.2
+Pwr  -1.00
+Right eye:
+BC     8.2
+Dia    14.2
+Pwr  -0.75</body>
+    </message>
+    <message id="m0001" participant="131356" time="2013-01-30 02:09:07 UTC">
+      <body>Thx - mine wont work 4 her, im sorry</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-01-30 02:28:19 UTC">
+      <body>thx for checking, b.
+
+oh...btw...cathy met mr T today.</body>
+    </message>
+    <message id="m0003" participant="131356" time="2013-01-30 02:30:35 UTC">
+      <body>He da fool - or sumptin like that</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-01-30 02:33:04 UTC">
+      <body>"i pity da fool..."</body>
+    </message>
+    <message id="m0005" participant="131356" time="2013-01-30 02:35:21 UTC">
+      <body>Thx - i'd b so funny if i could remember anything</body>
+    </message>
+    <message id="m0006" participant="131356" time="2013-01-30 02:41:00 UTC">
+      <body>I got my first gold quarter 2day</body>
+    </message>
+  </messages>
+</conversation>

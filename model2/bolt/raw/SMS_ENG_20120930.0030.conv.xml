@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120930.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-30 23:29:47 UTC" participant="152734">
+      <body>Hey, gonna go to Sunday school on 12th in an hour or so, wanna come? </body>
+    </message>
+    <message id="m0001" time="2012-10-01 01:01:52 UTC" participant="153275">
+      <body>Sorry, I'm hanging with friends in South Philly. btw, I hear you're moving. How much longer are you here?</body>
+    </message>
+    <message id="m0002" time="2012-10-01 21:58:33 UTC" participant="152734">
+      <body>A month! Will definitely see you before then.</body>
+    </message>
+  </messages>
+</conversation>
+

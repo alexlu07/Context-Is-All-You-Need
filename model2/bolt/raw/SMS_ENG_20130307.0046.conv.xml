@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-03-07 20:31:21 UTC">
+      <body>How is your week going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-07 20:34:26 UTC">
+      <body>well, it's almost over, so there's that. how's yours? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-03-07 20:36:47 UTC">
+      <body>Good. When do i get the privilege of seeing you again?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-07 20:37:32 UTC">
+      <body>are you free at all on saturday? </body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-03-07 20:39:53 UTC">
+      <body>I don't think so. Did you have something in mind?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-07 20:40:48 UTC">
+      <body>no, it's just the only day before my mom gets here that i have any significant amount of free time... </body>
+    </message>
+    <message id="m0006" participant="136150" time="2013-03-07 20:44:38 UTC">
+      <body>That's right. Let me check and get back to you. When does your mom leave?</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-03-07 20:45:23 UTC">
+      <body>wednesday. if you're busy, it's not a big deal, we can always hang out when you get back from your trip. </body>
+    </message>
+    <message id="m0008" participant="136150" time="2013-03-07 20:50:16 UTC">
+      <body>Sounds good, beautiful.</body>
+    </message>
+  </messages>
+</conversation>

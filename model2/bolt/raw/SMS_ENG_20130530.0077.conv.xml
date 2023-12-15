@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0077" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-05-30 15:22:29 UTC">
+      <body>Hey girl! Did u see lysistrata yet?</body>
+    </message>
+    <message id="m0001" participant="137428" time="2013-05-30 16:33:58 UTC">
+      <body>Going Friday!</body>
+    </message>
+    <message id="m0002" participant="137428" time="2013-05-30 17:40:16 UTC">
+      <body>When are you going?</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-05-30 17:47:29 UTC">
+      <body>I have to close Friday, gonna go tonight!</body>
+    </message>
+    <message id="m0004" participant="137428" time="2013-05-30 17:48:10 UTC">
+      <body>Oh boo. Well have fun! Let's hang soon!</body>
+    </message>
+    <message id="m0005" participant="131838" time="2013-05-30 17:49:09 UTC">
+      <body>Yes please! </body>
+    </message>
+  </messages>
+</conversation>

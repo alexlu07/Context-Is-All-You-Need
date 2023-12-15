@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121108.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-11-08 21:37:35 UTC">
+      <body>Are you and/or Jacob playing soccer this evening?</body>
+    </message>
+    <message id="m0001" participant="136725" time="2012-11-08 21:41:33 UTC">
+      <body>Nope! Are u?</body>
+    </message>
+    <message id="m0002" participant="131015" time="2012-11-08 21:44:22 UTC">
+      <body>Hmmmm...  Not sure. I was hoping more friends were gonna be there.</body>
+    </message>
+    <message id="m0003" participant="136725" time="2012-11-08 22:31:24 UTC">
+      <body>Sorry homie! Jacob and I are gonna hit the gym tonight. </body>
+    </message>
+    <message id="m0004" participant="131015" time="2012-11-08 22:53:16 UTC">
+      <body>Sall.good mama. Was worth a shot.</body>
+    </message>
+  </messages>
+</conversation>

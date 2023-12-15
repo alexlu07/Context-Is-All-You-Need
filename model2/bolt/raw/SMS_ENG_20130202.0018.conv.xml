@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135271" time="2013-02-02 10:01:36 UTC">
+      <body>Dearest Liza,
+I love you. And you are also wonderful.
+More to follow. 
+Love always,
+Neelima</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-02 16:34:11 UTC">
+      <body>Dearest Neelima (aka esposita),
+I love you. And you are wonderful also. I await more. 
+Love always,
+Liza</body>
+    </message>
+    <message id="m0002" participant="135271" time="2013-02-02 22:46:30 UTC">
+      <body>:) you free to Skype tonight?</body>
+    </message>
+  </messages>
+</conversation>

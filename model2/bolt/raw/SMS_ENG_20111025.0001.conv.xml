@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111025.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-10-25 18:53:34 UTC">
+      <body>How's your walk on Washington?</body>
+    </message>
+    <message id="m0001" participant="131830" time="2011-10-25 18:54:27 UTC">
+      <body>Creeper - where did you see me?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-10-25 18:54:55 UTC">
+      <body>Dana and I walked up on te other side</body>
+    </message>
+    <message id="m0003" participant="131830" time="2011-10-25 18:55:38 UTC">
+      <body>Ohh - sorry I missed you!</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-10-25 18:56:11 UTC">
+      <body>We are still kind of crying</body>
+    </message>
+  </messages>
+</conversation>

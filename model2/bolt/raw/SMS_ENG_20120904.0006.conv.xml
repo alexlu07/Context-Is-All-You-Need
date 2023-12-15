@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120904.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-04 17:04:47 UTC">
+      <body>Got prescription for lorazepam.</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-04 17:05:55 UTC">
+      <body>Also doctor says
+My scalp looks great </body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-09-04 23:32:46 UTC">
+      <body>:-D</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-05 14:51:46 UTC">
+      <body>Nadine I never get sick but lets pretend I had a very contagious cold</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-09-05 14:51:56 UTC">
+      <body>So I don't have to hug anybody at the wedding</body>
+    </message>
+  </messages>
+</conversation>

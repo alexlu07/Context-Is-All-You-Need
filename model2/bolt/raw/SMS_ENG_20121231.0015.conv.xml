@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131421" time="2012-12-31 23:58:51 UTC">
+      <body>Hey M! Want to chat tomorrow around noon?</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-01-01 00:02:26 UTC">
+      <body>That sounds great! All I have planned for tomorrow is yoga at 9am. Have a good night tonight!!</body>
+    </message>
+    <message id="m0002" participant="131421" time="2013-01-01 00:03:17 UTC">
+      <body>You too! Happy new year's eve!</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-01-01 00:05:30 UTC">
+      <body>Thanks Jes! :)</body>
+    </message>
+    <message id="m0004" participant="130962" time="2013-01-01 16:44:56 UTC">
+      <body>Is 12:15 ok?</body>
+    </message>
+    <message id="m0005" participant="131421" time="2013-01-01 16:46:37 UTC">
+      <body>Yes. Can do later if need to.</body>
+    </message>
+    <message id="m0006" participant="130962" time="2013-01-01 16:47:58 UTC">
+      <body>I will call around then.</body>
+    </message>
+    <message id="m0007" participant="130962" time="2013-01-01 17:21:27 UTC">
+      <body>I'm here. Call anytime that's good for you. </body>
+    </message>
+  </messages>
+</conversation>

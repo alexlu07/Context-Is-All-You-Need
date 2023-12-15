@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140114.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-14 13:46:33 UTC" participant="152116">
+      <body>Yeah to talk but then I showered and fell asleep. I'm an old man.</body>
+    </message>
+    <message id="m0001" time="2014-01-14 16:44:37 UTC" participant="152116">
+      <body>Do you have work?</body>
+    </message>
+    <message id="m0002" time="2014-01-14 20:42:52 UTC" participant="153491">
+      <body>Yea, you are!</body>
+    </message>
+    <message id="m0003" time="2014-01-14 20:43:07 UTC" participant="153491">
+      <body>Nope. No work until Saturday.</body>
+    </message>
+    <message id="m0004" time="2014-01-14 20:44:54 UTC" participant="152116">
+      <body>I was gonna see if you wanted to meet.</body>
+    </message>
+    <message id="m0005" time="2014-01-14 20:45:10 UTC" participant="153491">
+      <body>When?</body>
+    </message>
+    <message id="m0006" time="2014-01-14 20:45:37 UTC" participant="152116">
+      <body>Well now I'm meeting with Taryn at 7:30</body>
+    </message>
+    <message id="m0007" time="2014-01-14 20:51:59 UTC" participant="153491">
+      <body>Okay.</body>
+    </message>
+    <message id="m0008" time="2014-01-15 01:10:47 UTC" participant="153491">
+      <body>Victor and I are meeting at 9 if you're still in the area.</body>
+    </message>
+    <message id="m0009" time="2014-01-15 01:19:19 UTC" participant="152116">
+      <body>Thanks. But I'm just going to go home</body>
+    </message>
+    <message id="m0010" time="2014-01-15 01:51:21 UTC" participant="153491">
+      <body>Okay. Are you okay?</body>
+    </message>
+    <message id="m0011" time="2014-01-15 01:51:48 UTC" participant="152116">
+      <body>Yeah I'm fine</body>
+    </message>
+    <message id="m0012" time="2014-01-15 02:05:18 UTC" participant="153491">
+      <body>Okay, because I imagine you writing that message in a sad manner.</body>
+    </message>
+  </messages>
+</conversation>
+

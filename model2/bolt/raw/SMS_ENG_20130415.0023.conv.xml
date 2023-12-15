@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-04-15 21:35:59 UTC">
+      <body>TELL ME YOU ARE ALIVE</body>
+    </message>
+    <message id="m0001" participant="131455" time="2013-04-15 21:36:32 UTC">
+      <body>Yeah I'm fine - thank you!!! So so scary though</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-04-15 21:51:13 UTC">
+      <body>Gooodddd!! (Not about the scary part, obvi)</body>
+    </message>
+    <message id="m0003" participant="131455" time="2013-04-15 21:55:28 UTC">
+      <body>Yeah thank you. Pretty shaken up</body>
+    </message>
+  </messages>
+</conversation>

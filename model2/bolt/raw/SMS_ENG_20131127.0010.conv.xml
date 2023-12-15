@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131127.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-27 20:16:00 UTC" participant="153643">
+      <body>Hey Lindsey! Do you remember where you put the newly synced and exported videos from the symposium?</body>
+    </message>
+    <message id="m0001" time="2013-11-27 20:16:45 UTC" participant="153548">
+      <body>They are in penn box, Anu has access but I don't have a computer near me.</body>
+    </message>
+    <message id="m0002" time="2013-11-27 20:16:51 UTC" participant="153548">
+      <body>They are also in the dude</body>
+    </message>
+    <message id="m0003" time="2013-11-27 20:16:58 UTC" participant="153548">
+      <body>Under lab storage</body>
+    </message>
+    <message id="m0004" time="2013-11-27 20:17:10 UTC" participant="153548">
+      <body>Under symposium 2013</body>
+    </message>
+    <message id="m0005" time="2013-11-27 20:18:08 UTC" participant="153643">
+      <body>Perfect! Got it thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

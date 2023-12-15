@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-17 21:42:06 UTC" participant="153306">
+      <body>9:00  Tuesday morning? Tom L</body>
+    </message>
+    <message id="m0001" time="2013-03-17 23:24:16 UTC" participant="152734">
+      <body>Sounds good! I'm checking with the seller about shots - would you be able to do spring shots if he's due and everything looks good? </body>
+    </message>
+    <message id="m0002" time="2013-03-17 23:24:46 UTC" participant="153306">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" time="2013-03-17 23:25:10 UTC" participant="152734">
+      <body>Great, thank you. See you Tuesday.</body>
+    </message>
+  </messages>
+</conversation>
+

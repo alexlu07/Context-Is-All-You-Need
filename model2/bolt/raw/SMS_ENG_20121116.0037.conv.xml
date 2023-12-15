@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121116.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-16 16:06:16 UTC">
+      <body>Is this real</body>
+    </message>
+    <message id="m0001" participant="136304" time="2012-11-16 16:14:56 UTC">
+      <body>What </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-16 16:15:57 UTC">
+      <body>The article about Romney that you sent me. It's ridiculous</body>
+    </message>
+    <message id="m0003" participant="136304" time="2012-11-16 16:17:04 UTC">
+      <body>It's a humor piece </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-16 16:17:37 UTC">
+      <body>Ok good. Cuz it's hilarious</body>
+    </message>
+  </messages>
+</conversation>

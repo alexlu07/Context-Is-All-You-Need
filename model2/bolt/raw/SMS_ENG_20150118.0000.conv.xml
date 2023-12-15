@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150118.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-18 21:18:58 UTC" participant="152417">
+      <body>I should be home at 630, i can come get Simone shortly after</body>
+    </message>
+    <message id="m0001" time="2015-01-18 21:53:00 UTC" participant="152424">
+      <body>we will be out to dinner, you can come over after.  Rosie will w here</body>
+    </message>
+    <message id="m0002" time="2015-01-18 21:54:43 UTC" participant="152417">
+      <body>Cool, im a zombie though, i will have been awake for 24 hours and only slept 2 hours before that....really not healthy</body>
+    </message>
+    <message id="m0003" time="2015-01-18 23:33:28 UTC" participant="152417">
+      <body>Can i come to get Simone first thing in the morning?  I dont think ill be able to stay awake </body>
+    </message>
+    <message id="m0004" time="2015-01-19 13:58:09 UTC" participant="152417">
+      <body>Doggie time? Can i swing by?</body>
+    </message>
+    <message id="m0005" time="2015-01-19 14:14:28 UTC" participant="152424">
+      <body>yeah I'm home</body>
+    </message>
+  </messages>
+</conversation>
+

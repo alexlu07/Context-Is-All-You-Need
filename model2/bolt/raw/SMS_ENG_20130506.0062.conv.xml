@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137315" time="2013-05-06 21:36:15 UTC">
+      <body>What's up? I'm free whenever</body>
+    </message>
+    <message id="m0001" participant="137315" time="2013-05-06 21:42:36 UTC">
+      <body>Also z and nico might not be free for awhile due to playoff tennis</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-06 21:46:12 UTC">
+      <body>Your tv room? </body>
+    </message>
+    <message id="m0003" participant="137315" time="2013-05-06 21:46:47 UTC">
+      <body>Sure tell kit</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-06 21:49:31 UTC">
+      <body>20 minutes </body>
+    </message>
+  </messages>
+</conversation>

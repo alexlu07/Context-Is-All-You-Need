@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121224.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-24 04:04:09 UTC">
+      <body>Hey there! Do you have plans for New Years? :)</body>
+    </message>
+    <message id="m0001" participant="135270" time="2012-12-24 04:09:35 UTC">
+      <body>Nope :) but I'd rather not go into the city, would prefer something more low key.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-24 04:14:52 UTC">
+      <body>Mmkay. My girlfriend is coming up here between Christmas and New Years and she's never been to first night before so we are doing that. We could come back to town before midnight though</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-12-24 04:16:47 UTC">
+      <body>also Leah is having a gathering at her house </body>
+    </message>
+    <message id="m0004" participant="135270" time="2012-12-24 04:26:21 UTC">
+      <body>Cool. But I don't want to invite myself over to Leah's...</body>
+    </message>
+    <message id="m0005" participant="135080" time="2012-12-24 04:43:05 UTC">
+      <body>Leah said to feel free to extend the invitation to anyone she missed in the email :P anyway we can figure out details later I was just wondering.</body>
+    </message>
+    <message id="m0006" participant="135270" time="2012-12-24 04:44:08 UTC">
+      <body>Great! I'll talk to you later.</body>
+    </message>
+  </messages>
+</conversation>

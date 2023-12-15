@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0075" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137377" time="2013-05-17 01:18:10 UTC">
+      <body>Was my email helpful?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-17 01:24:26 UTC">
+      <body>Did you not receive my reply to it?</body>
+    </message>
+    <message id="m0002" participant="137377" time="2013-05-17 01:25:09 UTC">
+      <body>I did!! I thought you were just talking about receiving it:)</body>
+    </message>
+    <message id="m0003" participant="137377" time="2013-05-17 01:25:23 UTC">
+      <body>I hope it helped the case you were making</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-17 01:28:08 UTC">
+      <body>Yes. It did. I used at least 3 points from it. I didn't mention that because I thought it was assumed that it was useful !!!!</body>
+    </message>
+    <message id="m0005" participant="137377" time="2013-05-17 01:29:20 UTC">
+      <body>Good to know! So, is there a project to change the book? Did you get your new contract?</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-05-17 02:01:03 UTC">
+      <body>I don't know anything about what is going to happen with the book. No new contract yet !!</body>
+    </message>
+  </messages>
+</conversation>

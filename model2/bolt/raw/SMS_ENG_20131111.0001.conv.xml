@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131111.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-11 16:49:04 UTC" participant="153556">
+      <body>Are you at tree st</body>
+    </message>
+    <message id="m0001" time="2013-11-11 16:49:43 UTC" participant="153547">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2013-11-11 16:50:21 UTC" participant="153556">
+      <body>Were you or will you be</body>
+    </message>
+    <message id="m0003" time="2013-11-11 16:52:06 UTC" participant="153547">
+      <body>Adam has the key</body>
+    </message>
+    <message id="m0004" time="2013-11-11 16:52:41 UTC" participant="153547">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

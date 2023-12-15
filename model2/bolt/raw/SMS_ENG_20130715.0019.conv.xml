@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131812" time="2013-07-15 15:10:11 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-07-15 15:16:22 UTC">
+      <body>Hi. How are you?</body>
+    </message>
+    <message id="m0002" participant="131812" time="2013-07-15 15:21:37 UTC">
+      <body>I could be better but I have faith that my situation will get better!</body>
+    </message>
+    <message id="m0003" participant="131812" time="2013-07-15 15:35:43 UTC">
+      <body>How are u?</body>
+    </message>
+    <message id="m0004" participant="130995" time="2013-07-15 15:38:50 UTC">
+      <body>I'm fine. I'm trying to stay cool in this weather. Are you indoors?</body>
+    </message>
+    <message id="m0005" participant="131812" time="2013-07-15 15:57:56 UTC">
+      <body>Yes but bout to take my boys to the pool</body>
+    </message>
+    <message id="m0006" participant="130995" time="2013-07-15 16:28:07 UTC">
+      <body>Sounds fun! I hope they enjoy it.</body>
+    </message>
+  </messages>
+</conversation>

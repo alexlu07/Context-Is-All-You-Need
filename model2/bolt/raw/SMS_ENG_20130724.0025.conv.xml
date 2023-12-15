@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130724.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-24 18:43:55 UTC">
+      <body>You at the kimmel tonight?</body>
+    </message>
+    <message id="m0001" participant="130873" time="2013-07-24 18:55:55 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-24 18:58:52 UTC">
+      <body>What time ya in? Happy hour beforehand?</body>
+    </message>
+    <message id="m0003" participant="130873" time="2013-07-24 18:59:55 UTC">
+      <body>Just got off a bus from vacation. I need to chill and unpack</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-24 19:00:32 UTC">
+      <body>Oh dang. Aight, see ya there cap'n</body>
+    </message>
+  </messages>
+</conversation>

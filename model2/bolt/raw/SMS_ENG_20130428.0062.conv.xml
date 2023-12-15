@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-28 14:30:27 UTC" participant="152417">
+      <body>You should bring yout keyboard and amp today, in bot sure that the piano is there yet</body>
+    </message>
+    <message id="m0001" time="2013-04-28 14:52:21 UTC" participant="152554">
+      <body>No problem. Rehearsal is in the city hall building correct?</body>
+    </message>
+    <message id="m0002" time="2013-04-28 14:54:45 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

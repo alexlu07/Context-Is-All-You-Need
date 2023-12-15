@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140210.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-10 23:55:44 UTC" participant="153556">
+      <body>Cool, let me ask my dad what he wants for it</body>
+    </message>
+    <message id="m0001" time="2014-02-10 23:55:46 UTC" participant="153547">
+      <body>Hey buddy. I prolly want that freezer if it's still available</body>
+    </message>
+    <message id="m0002" time="2014-02-10 23:57:24 UTC" participant="153547">
+      <body>Cool. It's from 2011? </body>
+    </message>
+    <message id="m0003" time="2014-02-10 23:59:41 UTC" participant="153556">
+      <body>It's real new yes, my dad joined a meat club for a while and had to buy the freezer as part of the deal.
+He'd like to get $1500</body>
+    </message>
+    <message id="m0004" time="2014-02-11 00:00:00 UTC" participant="153556">
+      <body>I think that's about half what retail is</body>
+    </message>
+    <message id="m0005" time="2014-02-11 00:03:53 UTC" participant="153547">
+      <body>I can't swing that right now.  Yeah I just looked up those freezers and they are top notch</body>
+    </message>
+    <message id="m0006" time="2014-02-11 00:04:16 UTC" participant="153556">
+      <body>It does sound like a lot, so it's prolly worth that much huh?</body>
+    </message>
+    <message id="m0007" time="2014-02-11 00:04:16 UTC" participant="153556">
+      <body>You
+Could beat him up a little on the price and prolly arrange a payment plan, I'm anxious to get it out of the basement</body>
+    </message>
+    <message id="m0008" time="2014-02-11 00:06:24 UTC" participant="153556">
+      <body>Understood </body>
+    </message>
+    <message id="m0009" time="2014-02-11 00:07:35 UTC" participant="153547">
+      <body>I am trolling craigslist for units in the $50 to $200 range so I'm not sure we are going to find a compromise we'll both be happy with</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150212.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-12 20:30:22 UTC" participant="153783">
+      <body>Just got rejected from Yale</body>
+    </message>
+    <message id="m0001" time="2015-02-12 22:16:28 UTC" participant="152116">
+      <body>Aw I'm sorry</body>
+    </message>
+    <message id="m0002" time="2015-02-12 22:16:34 UTC" participant="152116">
+      <body>But who needs Yale anyway</body>
+    </message>
+    <message id="m0003" time="2015-02-12 22:47:01 UTC" participant="153783">
+      <body>It's ok I never actually really wanted to go ssshhhhh</body>
+    </message>
+    <message id="m0004" time="2015-02-12 22:49:42 UTC" participant="152116">
+      <body>Figures.</body>
+    </message>
+    <message id="m0005" time="2015-02-12 22:52:42 UTC" participant="153783">
+      <body>Lol what figures?</body>
+    </message>
+    <message id="m0006" time="2015-02-12 23:02:07 UTC" participant="152116">
+      <body>Who wants to go to yale</body>
+    </message>
+    <message id="m0007" time="2015-02-12 23:02:40 UTC" participant="153783">
+      <body>Um a lot of ppl</body>
+    </message>
+    <message id="m0008" time="2015-02-12 23:06:38 UTC" participant="153783">
+      <body>But not me </body>
+    </message>
+  </messages>
+</conversation>
+

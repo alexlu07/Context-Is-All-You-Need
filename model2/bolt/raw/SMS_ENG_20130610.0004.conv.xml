@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131839" time="2013-06-10 11:12:48 UTC">
+      <body>Hey! How are you?</body>
+    </message>
+    <message id="m0001" participant="130699" time="2013-06-10 11:18:11 UTC">
+      <body>Hello! I'm doing well, kicking the work week into gear - it's slower than usual because I was out on Thursday and Friday for jury duty. How about you?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2013-06-10 11:19:54 UTC">
+      <body>Ooooo, jury duty. Anything dramatic happen? It's the first Monday after I graduated from grad school - so it's weird and great. Hah</body>
+    </message>
+    <message id="m0003" participant="130699" time="2013-06-10 11:33:03 UTC">
+      <body>It was a pretty lackluster trial with zero evidence. It was an easy decision at least - congrats on your masters! What did you study?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2013-06-10 11:50:57 UTC">
+      <body>Physical theatre and devised theatre making - meaning the ensemble makes the work instead of using a script. What do you do?</body>
+    </message>
+    <message id="m0005" participant="130699" time="2013-06-10 11:53:24 UTC">
+      <body>That sounds awesome - i work at a not for profit health care improvement organization - we're basically a think tank trying to find the best ideas for care world wide</body>
+    </message>
+    <message id="m0006" participant="131839" time="2013-06-10 11:57:07 UTC">
+      <body>That sounds really great. If I wasn't going into performance I would be looking into something similar actually related to medical anthropology.</body>
+    </message>
+    <message id="m0007" participant="130699" time="2013-06-10 12:24:48 UTC">
+      <body>Interesting - are you in philly?</body>
+    </message>
+    <message id="m0008" participant="131839" time="2013-06-10 12:44:30 UTC">
+      <body>Yes, I'm originally from Minnesota though. Are you in Philly too?</body>
+    </message>
+    <message id="m0009" participant="130699" time="2013-06-10 13:09:17 UTC">
+      <body>I'm in boston - went to college in philly - originally from Las Vegas - but spent college summers in the twin Cities because my wife went to macalester</body>
+    </message>
+    <message id="m0010" participant="131839" time="2013-06-10 13:11:13 UTC">
+      <body>Ah I see - I have lots of friends who went there! It's a great school</body>
+    </message>
+    <message id="m0011" participant="130699" time="2013-06-10 13:17:00 UTC">
+      <body>Yeah, it's a great community - how do you like philly?</body>
+    </message>
+  </messages>
+</conversation>

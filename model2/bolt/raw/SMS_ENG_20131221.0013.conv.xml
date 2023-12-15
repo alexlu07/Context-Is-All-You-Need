@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131221.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-21 22:19:09 UTC" participant="153665">
+      <body>I went over to my friend's house and tested the Blu Ray today. I watched it all the way through to make sure there were no glitches. Success! It worked.</body>
+    </message>
+    <message id="m0001" time="2013-12-21 23:01:00 UTC" participant="153548">
+      <body>Great!!! So relieved to hear that. Thanks so much for checking. </body>
+    </message>
+    <message id="m0002" time="2013-12-21 23:01:13 UTC" participant="153548">
+      <body>Have a fantastic trip. </body>
+    </message>
+    <message id="m0003" time="2013-12-21 23:01:51 UTC" participant="153665">
+      <body>No problem! It was great to watch it again. Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

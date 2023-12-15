@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-20 04:31:56 UTC">
+      <body>R u w dalny?</body>
+    </message>
+    <message id="m0001" participant="135625" time="2013-06-20 14:43:59 UTC">
+      <body>Did she make it to you?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-20 14:46:34 UTC">
+      <body>yep thanks</body>
+    </message>
+  </messages>
+</conversation>

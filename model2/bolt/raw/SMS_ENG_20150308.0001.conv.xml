@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150308.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-08 23:42:48 UTC" participant="152244">
+      <body>I just realized tomorrow is spring break... Can we reschedule coffee? </body>
+    </message>
+    <message id="m0001" time="2015-03-08 23:43:20 UTC" participant="152212">
+      <body>Yes of course! No worries!!!</body>
+    </message>
+    <message id="m0002" time="2015-03-08 23:47:47 UTC" participant="152244">
+      <body>Want to do next Monday? Or I'm going to yoga Tuesday morning so could get coffee after </body>
+    </message>
+    <message id="m0003" time="2015-03-09 01:42:19 UTC" participant="152212">
+      <body>Let’s do next monday!</body>
+    </message>
+  </messages>
+</conversation>
+

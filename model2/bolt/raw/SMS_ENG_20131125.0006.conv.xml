@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131125.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-25 15:30:03 UTC" participant="153560">
+      <body>Text me or call me when you are home and ready. I'm around so it can be earlier than 8.</body>
+    </message>
+    <message id="m0001" time="2013-11-25 15:49:20 UTC" participant="153547">
+      <body>I got the day off to deal with health insurance and chores so I'm available whenever</body>
+    </message>
+    <message id="m0002" time="2013-11-25 16:15:06 UTC" participant="153547">
+      <body>So I need to get some roller covers and shit but I'll be back in an hr if you want to do it earlier </body>
+    </message>
+    <message id="m0003" time="2013-11-25 16:38:23 UTC" participant="153560">
+      <body>Ok. Around 3?</body>
+    </message>
+    <message id="m0004" time="2013-11-25 16:42:27 UTC" participant="153547">
+      <body>Sounds great</body>
+    </message>
+    <message id="m0005" time="2013-11-25 17:35:35 UTC" participant="153560">
+      <body>See you then.</body>
+    </message>
+  </messages>
+</conversation>
+

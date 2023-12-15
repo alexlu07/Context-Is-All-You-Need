@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141001.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-01 19:16:16 UTC" participant="153637">
+      <body>https://vine.co/v/OzQaIO0IOiu</body>
+    </message>
+    <message id="m0001" time="2014-10-01 19:58:02 UTC" participant="153548">
+      <body>Are you kidding me with that?</body>
+    </message>
+    <message id="m0002" time="2014-10-01 19:58:16 UTC" participant="153548">
+      <body>Just watched it 100 times</body>
+    </message>
+    <message id="m0003" time="2014-10-01 20:29:59 UTC" participant="153637">
+      <body>I know. I let it loop for about five minutes</body>
+    </message>
+  </messages>
+</conversation>
+

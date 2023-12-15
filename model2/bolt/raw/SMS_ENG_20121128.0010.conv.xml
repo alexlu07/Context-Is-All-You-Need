@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-11-28 17:41:56 UTC">
+      <body>Hi Danielle it's meg, Ella's mom. I was wondering if you guys were going to please touch this weekend? </body>
+    </message>
+    <message id="m0001" participant="130727" time="2012-11-28 17:44:32 UTC">
+      <body>Hi Meg. We have a pretty busy weekend ahead of us, so were going to pass on PTM. Is Ella doing the camping trip?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-11-28 17:54:02 UTC">
+      <body>I haven't heard back about whether there is room, I hope so. We should hang again soon otherwise!</body>
+    </message>
+    <message id="m0003" participant="130727" time="2012-11-28 18:40:36 UTC">
+      <body>Absolutely!</body>
+    </message>
+  </messages>
+</conversation>

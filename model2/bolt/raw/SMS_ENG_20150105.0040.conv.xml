@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 16:17:31 UTC" participant="153783">
+      <body>Would you be able to help me transport stuff from my car to my room with help of a moving cart?</body>
+    </message>
+    <message id="m0001" time="2015-01-05 17:51:15 UTC" participant="152116">
+      <body>When?</body>
+    </message>
+    <message id="m0002" time="2015-01-05 17:51:35 UTC" participant="153783">
+      <body>Friday</body>
+    </message>
+    <message id="m0003" time="2015-01-05 17:52:18 UTC" participant="152116">
+      <body>What time?</body>
+    </message>
+    <message id="m0004" time="2015-01-05 17:56:48 UTC" participant="153783">
+      <body>Whenever you're free. I'm driving up that day so I can get there at whatever time. Do you want to do it after work?</body>
+    </message>
+    <message id="m0005" time="2015-01-05 17:57:21 UTC" participant="152116">
+      <body>Yeah that would be best</body>
+    </message>
+    <message id="m0006" time="2015-01-05 17:57:54 UTC" participant="153783">
+      <body>Ok so 5?</body>
+    </message>
+    <message id="m0007" time="2015-01-05 17:59:05 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2015-01-05 17:59:14 UTC" participant="152116">
+      <body>A little after</body>
+    </message>
+    <message id="m0009" time="2015-01-05 17:59:53 UTC" participant="153783">
+      <body>Thank you thank you thank you</body>
+    </message>
+    <message id="m0010" time="2015-01-05 18:06:06 UTC" participant="152116">
+      <body>Sure</body>
+    </message>
+    <message id="m0011" time="2015-01-05 18:06:51 UTC" participant="153783">
+      <body>Did you listen to the songs?</body>
+    </message>
+    <message id="m0012" time="2015-01-05 18:14:41 UTC" participant="152116">
+      <body>No not yet</body>
+    </message>
+    <message id="m0013" time="2015-01-05 18:15:03 UTC" participant="153783">
+      <body>Ahhh</body>
+    </message>
+  </messages>
+</conversation>
+

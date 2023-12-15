@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135471" time="2013-01-25 14:28:58 UTC">
+      <body>Hey sofie this is Phil. I'm on my way up to Boston now. Once I get off the green line, do you wanna give me an address to meet you at? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-25 14:35:13 UTC">
+      <body>Lets meet at Peets coffee at massart 620 Huntington Ave </body>
+    </message>
+    <message id="m0002" participant="135471" time="2013-01-25 14:36:49 UTC">
+      <body>Sounds good. I'm wearing bright blue pants, can't miss me :)</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-25 15:06:56 UTC">
+      <body>I have a furry hat</body>
+    </message>
+    <message id="m0004" participant="135471" time="2013-01-25 19:09:48 UTC">
+      <body>Thank you so much for meeting with me sofie, it was so informative and inspiring! I'll definitely be in touch, and for sure put me on the newsletter :-) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-06 18:04:42 UTC">
+      <body>It's Sofie</body>
+    </message>
+    <message id="m0001" participant="135456" time="2012-11-06 18:38:23 UTC">
+      <body>Ok just text if you want to come by</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-06 18:38:35 UTC">
+      <body>Oh great bumping in</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-06 18:38:42 UTC">
+      <body>Your eyes made my day!!!</body>
+    </message>
+    <message id="m0004" participant="135456" time="2012-11-06 18:51:37 UTC">
+      <body>I am happy they could do that</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120303.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131322" time="2012-03-03 16:59:44 UTC">
+      <body>Did you go to that flea market?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-03-03 17:01:30 UTC">
+      <body>Nah you want to go soon?</body>
+    </message>
+    <message id="m0002" participant="131322" time="2012-03-03 17:01:52 UTC">
+      <body>Yeah I'm down</body>
+    </message>
+    <message id="m0003" participant="131322" time="2012-03-03 17:01:52 UTC">
+      <body>Cool let me know when yr on yr way</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-03-03 17:02:39 UTC">
+      <body>Ok. I recently woke up so i won't be ready until around 1</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-03-03 17:03:16 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="131322" time="2012-03-03 21:28:32 UTC">
+      <body> No someone did</body>
+    </message>
+    <message id="m0007" participant="131322" time="2012-03-03 21:28:32 UTC">
+      <body>S s t hat is gone unless Barone got it</body>
+    </message>
+    <message id="m0008" participant="130692" time="2012-03-03 21:29:18 UTC">
+      <body>Haha buy it, he won't wear it</body>
+    </message>
+    <message id="m0009" participant="130692" time="2012-03-03 21:30:10 UTC">
+      <body>Nice</body>
+    </message>
+    <message id="m0010" participant="131322" time="2012-03-03 21:30:40 UTC">
+      <body>I would of haha, I got an ill Michigan crew neck</body>
+    </message>
+  </messages>
+</conversation>

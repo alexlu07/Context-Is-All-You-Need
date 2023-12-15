@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140702.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-02 23:26:23 UTC" participant="153244">
+      <body>Do you want your leftover wings and pizza slice? Ill put them in a container for you, I want to toss the boxes bec its trash night</body>
+    </message>
+    <message id="m0001" time="2014-07-02 23:26:37 UTC" participant="154901">
+      <body>Naaa</body>
+    </message>
+    <message id="m0002" time="2014-07-02 23:27:08 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

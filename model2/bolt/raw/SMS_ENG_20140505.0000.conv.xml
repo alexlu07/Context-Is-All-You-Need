@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140505.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-05 19:26:04 UTC" participant="153418">
+      <body>Hey Jim, when would it be convenient for you to check out the windows in my apartment? </body>
+    </message>
+    <message id="m0001" time="2014-05-05 19:43:18 UTC" participant="153448">
+      <body>Steve and I are planning to do it Wednesday. He had some urgent service calls today and will not be here most of tomorrow.</body>
+    </message>
+  </messages>
+</conversation>
+

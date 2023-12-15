@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150308.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-08 15:54:41 UTC" participant="152119">
+      <body>Hi John! How are you? I miss you! Jenny said you might e in Philly soon? </body>
+    </message>
+    <message id="m0001" time="2015-03-08 20:58:08 UTC" participant="153418">
+      <body>Hey Sam! I'm doing good, especially since it's nice and warm today.</body>
+    </message>
+    <message id="m0002" time="2015-03-08 20:59:01 UTC" participant="153418">
+      <body>I'll be in Philadelphia on the 15th and the 16th! I hope you're free on that Sunday.</body>
+    </message>
+    <message id="m0003" time="2015-03-08 20:59:49 UTC" participant="153418">
+      <body>How's it going in Philadelphia? </body>
+    </message>
+    <message id="m0004" time="2015-03-08 21:06:04 UTC" participant="152119">
+      <body>I think I should be free that day. Glad you're doing well! Things are okay here. We just had a couple snow days which put me behind on my schedule, yuck. Haha</body>
+    </message>
+    <message id="m0005" time="2015-03-08 21:08:58 UTC" participant="153418">
+      <body>Yeah, Baltimore got hit with 9 inches or so on Thursday.</body>
+    </message>
+    <message id="m0006" time="2015-03-08 21:28:25 UTC" participant="152119">
+      <body>Oh gosh, that's awful! We got 7.5 and it's finally melting. </body>
+    </message>
+  </messages>
+</conversation>
+

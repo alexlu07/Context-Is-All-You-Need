@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121109.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-11-09 18:58:08 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-11-09 21:09:50 UTC">
+      <body>Hi, how are you?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-11-09 21:27:46 UTC">
+      <body>Pretty good. You?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-11-09 21:31:44 UTC">
+      <body>I'm good..I just took a nap at school, feel out of it. Are you still able to hang out tonight?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2012-11-09 21:39:11 UTC">
+      <body>Yeah. CAn I call you in a bit?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-11-09 21:53:18 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="131055" time="2012-11-09 23:06:14 UTC">
+      <body>Will you be driving or on bike?</body>
+    </message>
+    <message id="m0007" participant="130664" time="2012-11-09 23:06:52 UTC">
+      <body>Probably driving</body>
+    </message>
+    <message id="m0008" participant="131055" time="2012-11-09 23:09:52 UTC">
+      <body>Do you want to get Thai by my house or eat in Chinatown? Or we cld do something else.</body>
+    </message>
+    <message id="m0009" participant="130664" time="2012-11-09 23:14:53 UTC">
+      <body>I'm kind of craving pub food. Like frites</body>
+    </message>
+    <message id="m0010" participant="131055" time="2012-11-09 23:18:30 UTC">
+      <body>Do you have somewhere in mind? I like standard tap. Or we cld do pope, although their food is so so</body>
+    </message>
+    <message id="m0011" participant="130664" time="2012-11-09 23:33:17 UTC">
+      <body>Standard tap is good..</body>
+    </message>
+    <message id="m0012" participant="131055" time="2012-11-09 23:42:08 UTC">
+      <body>Cool. Wanna come here?</body>
+    </message>
+    <message id="m0013" participant="130664" time="2012-11-10 00:15:40 UTC">
+      <body>Yes! I will leave in a few</body>
+    </message>
+    <message id="m0014" participant="130664" time="2012-11-10 00:33:31 UTC">
+      <body>I'm going to take the el so I can have beerz...so I don't think I will go to the pope</body>
+    </message>
+    <message id="m0015" participant="131055" time="2012-11-10 00:36:30 UTC">
+      <body>Okay. Do you want me to meet you somewhere else?</body>
+    </message>
+    <message id="m0016" participant="130664" time="2012-11-10 00:39:20 UTC">
+      <body>Only if that is easier for you</body>
+    </message>
+    <message id="m0017" participant="131055" time="2012-11-10 00:39:50 UTC">
+      <body>No. The tap is good.</body>
+    </message>
+    <message id="m0018" participant="130664" time="2012-11-10 00:40:06 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0019" participant="130664" time="2012-11-10 01:18:15 UTC">
+      <body>Hi I'm downstairs</body>
+    </message>
+    <message id="m0020" participant="130664" time="2012-11-10 23:01:29 UTC">
+      <body>That would be awesome! I'm so glad I saw you last night</body>
+    </message>
+  </messages>
+</conversation>

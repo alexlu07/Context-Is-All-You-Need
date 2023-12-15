@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130956" time="2013-05-02 16:42:40 UTC">
+      <body>Yes, I'll be there.  Thank you. </body>
+    </message>
+    <message id="m0002" participant="130956" time="2013-05-02 16:42:40 UTC">
+      <body>Please call me when you are on your way</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-05-02 16:45:30 UTC">
+      <body>Will do! </body>
+    </message>
+    <message id="m0004" participant="130755" time="2013-05-03 19:44:47 UTC">
+      <body>Hi, I'm on my way, should get there around 4:05!</body>
+    </message>
+    <message id="m0005" participant="130956" time="2013-05-03 19:50:24 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="130755" time="2013-05-03 20:03:02 UTC">
+      <body>Here! On corner of Cecil and Howard</body>
+    </message>
+    <message id="m0007" participant="130956" time="2013-05-03 20:05:20 UTC">
+      <body>On my way</body>
+    </message>
+    <message id="m0008" participant="130956" time="2013-05-03 20:16:00 UTC">
+      <body>It's Cecil and North Hancock </body>
+    </message>
+    <message id="m0009" participant="130956" time="2013-05-03 20:16:00 UTC">
+      <body>One block east of 2nd st. I'm here</body>
+    </message>
+    <message id="m0010" participant="130755" time="2013-05-03 20:16:42 UTC">
+      <body>Ok, be there in just a second</body>
+    </message>
+    <message id="m0011" participant="130755" time="2013-05-03 20:54:40 UTC">
+      <body>Theatre alliance listserv and phillyspacefinder.com</body>
+    </message>
+  </messages>
+</conversation>

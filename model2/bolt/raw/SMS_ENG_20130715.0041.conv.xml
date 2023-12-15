@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137312" time="2013-07-15 20:51:50 UTC">
+      <body>Would you be up for 5 buck poker tonight?</body>
+    </message>
+    <message id="m0001" participant="137312" time="2013-07-15 21:16:38 UTC">
+      <body>5 buck poker at maxs at 8</body>
+    </message>
+    <message id="m0002" participant="137312" time="2013-07-16 00:08:32 UTC">
+      <body>Last one here loses a black chip, nbd</body>
+    </message>
+    <message id="m0003" participant="137312" time="2013-07-16 13:56:16 UTC">
+      <body>Hey soraya, can you do me a favor?</body>
+    </message>
+    <message id="m0004" participant="137312" time="2013-07-16 14:34:40 UTC">
+      <body>Please?</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-07-16 15:45:20 UTC">
+      <body>What's up? </body>
+    </message>
+    <message id="m0006" participant="137312" time="2013-07-16 15:46:57 UTC">
+      <body>Are you free at the moment?</body>
+    </message>
+    <message id="m0007" participant="137255" time="2013-07-16 15:49:06 UTC">
+      <body>Not reeaaaally-ish. What do you need? </body>
+    </message>
+    <message id="m0008" participant="137312" time="2013-07-16 15:49:30 UTC">
+      <body>Nvm then, dont worry about it</body>
+    </message>
+    <message id="m0009" participant="137255" time="2013-07-16 15:49:42 UTC">
+      <body>WHATT</body>
+    </message>
+  </messages>
+</conversation>

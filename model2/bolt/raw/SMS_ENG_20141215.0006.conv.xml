@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141215.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-15 14:13:20 UTC" participant="153421">
+      <body>Dinner tonight chk cutlet or fish soup </body>
+    </message>
+    <message id="m0001" time="2014-12-15 14:18:31 UTC" participant="153417">
+      <body>I'd rather have the soup. Ask Jenny what she wants.</body>
+    </message>
+  </messages>
+</conversation>
+

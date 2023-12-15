@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137321" time="2013-06-23 01:52:40 UTC">
+      <body>Wanna come to my house?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-06-23 01:54:36 UTC">
+      <body>Sure what are you doing/can I bring Rachel </body>
+    </message>
+    <message id="m0003" participant="137321" time="2013-06-23 01:57:42 UTC">
+      <body>We're walking to your house </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-06-23 01:58:08 UTC">
+      <body>Not home yet...will be </body>
+    </message>
+    <message id="m0005" participant="137321" time="2013-06-23 01:58:33 UTC">
+      <body>When?</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-23 01:58:42 UTC">
+      <body>Ten minutes </body>
+    </message>
+    <message id="m0007" participant="137321" time="2013-06-23 01:59:08 UTC">
+      <body>Okay</body>
+    </message>
+    <message id="m0008" participant="137321" time="2013-06-23 03:48:16 UTC">
+      <body>Well?</body>
+    </message>
+    <message id="m0009" participant="137321" time="2013-06-23 03:50:24 UTC">
+      <body>Really?</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-06-23 03:50:57 UTC">
+      <body>Coming over soon </body>
+    </message>
+    <message id="m0011" participant="137255" time="2013-06-23 03:51:24 UTC">
+      <body>Probably </body>
+    </message>
+    <message id="m0012" participant="137321" time="2013-06-23 04:00:36 UTC">
+      <body>-_-</body>
+    </message>
+  </messages>
+</conversation>

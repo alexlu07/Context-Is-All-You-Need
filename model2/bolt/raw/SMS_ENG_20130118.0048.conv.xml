@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130118.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-18 00:05:36 UTC" participant="152417">
+      <body>Is 9pm the right statttine for the muddys event?</body>
+    </message>
+    <message id="m0001" time="2013-01-18 04:11:44 UTC" participant="152431">
+      <body>I think we can start earlier, 8?</body>
+    </message>
+    <message id="m0002" time="2013-01-18 04:11:44 UTC" participant="152431">
+      <body>Music at 9?</body>
+    </message>
+    <message id="m0003" time="2013-01-18 21:03:27 UTC" participant="152417">
+      <body>Lets say the event starts at 8 then, because everyone is tardy for partys</body>
+    </message>
+    <message id="m0004" time="2013-01-18 21:03:58 UTC" participant="152431">
+      <body>Indeed, good sir ;)</body>
+    </message>
+  </messages>
+</conversation>
+

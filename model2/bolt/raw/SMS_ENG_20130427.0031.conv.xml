@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-27 13:19:16 UTC">
+      <body>Yo who is Susan Cesare? Robs mom??</body>
+    </message>
+    <message id="m0001" participant="132557" time="2013-04-27 13:58:33 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-27 14:03:28 UTC">
+      <body>Friended me on Fb. Suspect</body>
+    </message>
+    <message id="m0003" participant="132557" time="2013-04-27 14:08:53 UTC">
+      <body>Yeah that is</body>
+    </message>
+  </messages>
+</conversation>

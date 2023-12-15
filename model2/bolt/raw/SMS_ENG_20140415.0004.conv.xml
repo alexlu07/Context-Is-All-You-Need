@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140415.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-15 23:48:32 UTC" participant="153472">
+      <body>What time did u say u wanted to leave tomorrow night? Looks like we'll be back in winter clothes!</body>
+    </message>
+    <message id="m0001" time="2014-04-15 23:50:58 UTC" participant="152374">
+      <body>Yeah definitely! Think you can leave by 6:15? Grab the subway and get some food at the stadium before the game starts?</body>
+    </message>
+    <message id="m0002" time="2014-04-15 23:52:36 UTC" participant="153472">
+      <body>Yep. Sounds like a plan!</body>
+    </message>
+    <message id="m0003" time="2014-04-16 22:00:58 UTC" participant="152374">
+      <body>Ready for some frozen baseball?? I'll meet you in front of your place at 6:15</body>
+    </message>
+    <message id="m0004" time="2014-04-16 22:03:54 UTC" participant="153472">
+      <body>I'm ready!</body>
+    </message>
+    <message id="m0005" time="2014-04-16 22:13:48 UTC" participant="152374">
+      <body>I'm here!</body>
+    </message>
+    <message id="m0006" time="2014-04-16 22:14:18 UTC" participant="153472">
+      <body>Be right out.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-13 16:16:57 UTC" participant="152535">
+      <body>Hey man, hope your cabarets going well. Ate you planning to meet with your jazz band or are they just coming to the concert?</body>
+    </message>
+    <message id="m0001" time="2013-05-13 16:17:50 UTC" participant="152417">
+      <body>Yea, i was planning on meeting tomorrow reg time </body>
+    </message>
+    <message id="m0002" time="2013-05-13 17:38:08 UTC" participant="152535">
+      <body>Cool. I let them know.  It will be in the gym on stage. Be well!</body>
+    </message>
+  </messages>
+</conversation>
+

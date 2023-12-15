@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141205.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-05 20:52:35 UTC" participant="152115">
+      <body>Did you print the tickets?</body>
+    </message>
+    <message id="m0001" time="2014-12-05 20:54:06 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-12-05 20:54:28 UTC" participant="152116">
+      <body>I'm so tired. I need to wake up</body>
+    </message>
+    <message id="m0003" time="2014-12-05 20:55:04 UTC" participant="152115">
+      <body>Ok. I just woke up. I dozed for about an hour. I'm tired too.</body>
+    </message>
+    <message id="m0004" time="2014-12-05 21:06:59 UTC" participant="152116">
+      <body>I want to nap</body>
+    </message>
+    <message id="m0005" time="2014-12-05 21:14:29 UTC" participant="152115">
+      <body>Leave work early! Haha. Know. Get home quick and maybe you can. Hope my dad is home early so he might be able to drive us.</body>
+    </message>
+    <message id="m0006" time="2014-12-05 21:23:26 UTC" participant="152116">
+      <body>I can't leave early.</body>
+    </message>
+    <message id="m0007" time="2014-12-05 21:23:45 UTC" participant="152116">
+      <body>The concert starts at 8:30 though, not 8</body>
+    </message>
+    <message id="m0008" time="2014-12-05 21:24:42 UTC" participant="152115">
+      <body>That's good. See you soon :)</body>
+    </message>
+  </messages>
+</conversation>
+

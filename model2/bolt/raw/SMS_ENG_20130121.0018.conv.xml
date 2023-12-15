@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130121.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131581" time="2013-01-21 00:33:10 UTC">
+      <body>What's the wiggy site called?</body>
+    </message>
+    <message id="m0001" participant="131528" time="2013-01-21 00:33:37 UTC">
+      <body>Wiziwig......something</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-01-21 00:33:51 UTC">
+      <body>Eu? I kust google wiziwig</body>
+    </message>
+    <message id="m0003" participant="131581" time="2013-01-21 01:21:33 UTC">
+      <body>Great thanks</body>
+    </message>
+    <message id="m0004" participant="131528" time="2013-01-21 03:36:11 UTC">
+      <body>Hey man. I think I gonna pass on the tickets. I didn't realize Ciel planned brunch. Thank you though!</body>
+    </message>
+  </messages>
+</conversation>

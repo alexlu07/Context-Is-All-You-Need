@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140612.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-12 21:07:01 UTC" participant="152116">
+      <body>Okay I will.</body>
+    </message>
+    <message id="m0001" time="2014-06-13 11:08:36 UTC" participant="152115">
+      <body>I'm on the cart. I'm gonna get home later: (</body>
+    </message>
+    <message id="m0002" time="2014-06-13 18:59:57 UTC" participant="152116">
+      <body>I told emerald we're passing on the event</body>
+    </message>
+    <message id="m0003" time="2014-06-13 19:03:01 UTC" participant="152115">
+      <body>Oh. You sure?</body>
+    </message>
+    <message id="m0004" time="2014-06-13 19:06:35 UTC" participant="152115">
+      <body>I am pretty much dead right now. I just realized I haven't eaten or drank anything yet.</body>
+    </message>
+    <message id="m0005" time="2014-06-13 20:29:39 UTC" participant="152115">
+      <body>Ok. Yeah. It's good that it's cancelled. The storm clouds are rolling in. And I'm about to pass out. Can't wait to see you tonight.</body>
+    </message>
+  </messages>
+</conversation>
+

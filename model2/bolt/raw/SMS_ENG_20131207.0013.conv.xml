@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131207.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-07 18:31:48 UTC" participant="149374">
+      <body>What are you up to?</body>
+    </message>
+    <message id="m0001" time="2013-12-07 19:51:25 UTC" participant="153547">
+      <body>I'm working on some stuff at my house. What r u up to?</body>
+    </message>
+    <message id="m0002" time="2013-12-07 19:53:38 UTC" participant="149374">
+      <body>Showing Michael some riffs. </body>
+    </message>
+  </messages>
+</conversation>
+

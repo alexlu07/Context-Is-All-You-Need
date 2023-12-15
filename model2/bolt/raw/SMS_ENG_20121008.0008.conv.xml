@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121008.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136270" time="2012-10-08 22:34:40 UTC">
+      <body>Falafel king at 7:30?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-08 22:52:19 UTC">
+      <body>Why not 7?</body>
+    </message>
+    <message id="m0002" participant="136270" time="2012-10-08 22:57:35 UTC">
+      <body>Sushi wanted 7:30. We went to the duc cus we couldn't wait that long</body>
+    </message>
+  </messages>
+</conversation>

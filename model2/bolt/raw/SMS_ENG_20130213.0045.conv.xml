@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-13 12:31:20 UTC" participant="152417">
+      <body>Im at nunyuns of you want a ride</body>
+    </message>
+    <message id="m0001" time="2013-02-14 12:26:27 UTC" participant="152555">
+      <body>Good morning! I forgot i have a meeting at 3 at edmunds. I dont need a ride today:) see you @ Flynn!</body>
+    </message>
+    <message id="m0002" time="2013-02-14 12:27:10 UTC" participant="152417">
+      <body>K, see you soon</body>
+    </message>
+  </messages>
+</conversation>
+

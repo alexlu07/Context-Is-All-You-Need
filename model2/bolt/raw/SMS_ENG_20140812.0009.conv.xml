@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140812.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-12 00:57:46 UTC" participant="152116">
+      <body>Yeah that sucks</body>
+    </message>
+    <message id="m0001" time="2014-08-12 15:49:15 UTC" participant="152116">
+      <body>Yep we are. It starts at 6:30 so if you wanna meet up around 6 or something that would be good</body>
+    </message>
+    <message id="m0002" time="2014-08-12 21:39:09 UTC" participant="152116">
+      <body>Sorry I was held up at work. It doesn't matter to me. I appreciate a ride either way</body>
+    </message>
+    <message id="m0003" time="2014-08-12 22:54:49 UTC" participant="152116">
+      <body>Are you there?</body>
+    </message>
+    <message id="m0004" time="2014-08-12 22:55:25 UTC" participant="153491">
+      <body>Nope, Scott needed to go to the hospital so I'm waiting for him there.</body>
+    </message>
+    <message id="m0005" time="2014-08-12 22:55:44 UTC" participant="152116">
+      <body>What happened?</body>
+    </message>
+    <message id="m0006" time="2014-08-12 22:56:23 UTC" participant="153491">
+      <body>He had to stop by to go to the bank.</body>
+    </message>
+    <message id="m0007" time="2014-08-12 22:59:31 UTC" participant="152116">
+      <body>Okay that sounds better</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-29 01:27:01 UTC" participant="154352">
+      <body>www.redoxx.com</body>
+    </message>
+    <message id="m0001" time="2012-12-29 20:48:28 UTC" participant="154393">
+      <body>I'm right behind you.
+Wait for me at the top of the lift.</body>
+    </message>
+    <message id="m0002" time="2012-12-29 20:53:47 UTC" participant="154352">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0003" time="2012-12-29 20:55:56 UTC" participant="154393">
+      <body>UpStairs</body>
+    </message>
+  </messages>
+</conversation>
+

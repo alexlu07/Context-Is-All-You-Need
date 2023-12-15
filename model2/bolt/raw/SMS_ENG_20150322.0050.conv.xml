@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150322.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-22 00:42:40 UTC" participant="153886">
+      <body>Hey Jenna. Would it be possible for you to book another room from 5-6?</body>
+    </message>
+    <message id="m0001" time="2015-03-22 00:42:40 UTC" participant="153886">
+      <body>Sorry</body>
+    </message>
+    <message id="m0002" time="2015-03-22 00:46:56 UTC" participant="153886">
+      <body>Oh ok nvm then </body>
+    </message>
+    <message id="m0003" time="2015-03-22 00:47:02 UTC" participant="153848">
+      <body>It won't let me make a reservation less than 24 hours in advance </body>
+    </message>
+    <message id="m0004" time="2015-03-22 01:10:24 UTC" participant="153886">
+      <body>Hey Jenna, I'll send you the list of people in alphabetical order in an hour or so</body>
+    </message>
+    <message id="m0005" time="2015-03-22 01:50:28 UTC" participant="153886">
+      <body>Ok I just sent the list thru email </body>
+    </message>
+    <message id="m0006" time="2015-03-22 02:25:55 UTC" participant="153848">
+      <body>Great! Thanks!</body>
+    </message>
+    <message id="m0007" time="2015-03-22 18:50:20 UTC" participant="153848">
+      <body>Hey I'm here, got all the info to the guard </body>
+    </message>
+    <message id="m0008" time="2015-03-22 18:51:45 UTC" participant="153886">
+      <body>Alright I'll be there in a minute </body>
+    </message>
+    <message id="m0009" time="2015-03-22 18:54:56 UTC" participant="153886">
+      <body>Are you in the room?</body>
+    </message>
+    <message id="m0010" time="2015-03-22 18:56:15 UTC" participant="153848">
+      <body>Not yet </body>
+    </message>
+    <message id="m0011" time="2015-03-22 18:56:26 UTC" participant="153848">
+      <body>Just about to sign in </body>
+    </message>
+    <message id="m0012" time="2015-03-22 18:56:40 UTC" participant="153886">
+      <body>Ok got it</body>
+    </message>
+  </messages>
+</conversation>
+

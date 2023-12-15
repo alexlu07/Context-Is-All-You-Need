@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141124.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-24 20:53:17 UTC" participant="152734">
+      <body>Jenno! I'll be home tomorrow thru Saturday, when can we hang? </body>
+    </message>
+    <message id="m0001" time="2014-11-24 21:45:36 UTC" participant="153272">
+      <body>I'm around! I work till Wednesday</body>
+    </message>
+    <message id="m0002" time="2014-11-24 22:52:21 UTC" participant="152734">
+      <body>Dinner Wednesday night or somethin Friday or a little jog Thursday am? What are you doing for thanksgiving? </body>
+    </message>
+  </messages>
+</conversation>
+

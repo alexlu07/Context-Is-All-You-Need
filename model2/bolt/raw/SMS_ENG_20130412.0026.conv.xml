@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-12 00:38:43 UTC" participant="132555">
+      <body>Hey Dan, you had mentioned earlier that you could also bring your regular camera, and take a few still photographs of us during the video shoot.  If that is still a possibility, that would be very cool.  </body>
+    </message>
+    <message id="m0001" time="2013-04-12 01:09:01 UTC" participant="130747">
+      <body>Yea. Its same camera. I have a dslr</body>
+    </message>
+    <message id="m0002" time="2013-04-12 01:22:16 UTC" participant="132555">
+      <body>Awesome.  See you on Saturday. </body>
+    </message>
+    <message id="m0003" time="2013-04-12 01:27:50 UTC" participant="130747">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

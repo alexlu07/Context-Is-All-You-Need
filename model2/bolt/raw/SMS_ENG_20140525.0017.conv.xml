@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140525.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-25 23:18:51 UTC" participant="153900">
+      <body>What are you doing</body>
+    </message>
+    <message id="m0001" time="2014-05-25 23:29:41 UTC" participant="153244">
+      <body>Working</body>
+    </message>
+    <message id="m0002" time="2014-05-25 23:34:40 UTC" participant="153900">
+      <body>Are you working tomorrow</body>
+    </message>
+    <message id="m0003" time="2014-05-25 23:35:08 UTC" participant="153244">
+      <body>No I'm off both jobs</body>
+    </message>
+    <message id="m0004" time="2014-05-26 13:42:12 UTC" participant="153900">
+      <body>What are you doing today</body>
+    </message>
+    <message id="m0005" time="2014-05-26 14:11:34 UTC" participant="153244">
+      <body>Nothing... you doing anything? </body>
+    </message>
+    <message id="m0006" time="2014-05-26 14:12:11 UTC" participant="153900">
+      <body>Working at 2.30</body>
+    </message>
+    <message id="m0007" time="2014-05-26 14:20:42 UTC" participant="153244">
+      <body>Oh... Phillies game?</body>
+    </message>
+    <message id="m0008" time="2014-05-26 14:21:18 UTC" participant="153900">
+      <body>Yea what are you doing</body>
+    </message>
+    <message id="m0009" time="2014-05-26 14:22:36 UTC" participant="153244">
+      <body>Now?  I'm laying in bed</body>
+    </message>
+    <message id="m0010" time="2014-05-26 19:17:38 UTC" participant="153244">
+      <body>Van for 4,000</body>
+    </message>
+  </messages>
+</conversation>
+

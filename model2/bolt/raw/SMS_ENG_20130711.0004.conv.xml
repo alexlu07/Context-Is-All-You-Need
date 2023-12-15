@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130922" time="2013-07-11 19:08:04 UTC">
+      <body>Shaping up to be more like 530 pal </body>
+    </message>
+    <message id="m0001" participant="130922" time="2013-07-11 19:08:13 UTC">
+      <body>Err , 430</body>
+    </message>
+    <message id="m0002" participant="130922" time="2013-07-11 19:08:48 UTC">
+      <body>Half an hour later than planned </body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-07-11 19:15:25 UTC">
+      <body>Tis the usual (and acceptable) amount of tardiness</body>
+    </message>
+  </messages>
+</conversation>

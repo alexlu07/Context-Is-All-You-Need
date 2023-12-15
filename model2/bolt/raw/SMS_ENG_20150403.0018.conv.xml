@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150403.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-03 00:38:24 UTC" participant="153665">
+      <body>When do you leave for gay Paris?</body>
+    </message>
+    <message id="m0001" time="2015-04-03 13:43:28 UTC" participant="153548">
+      <body>Monday! When do you guys leave for Sweden? I'm so excited to have a week off.</body>
+    </message>
+    <message id="m0002" time="2015-04-03 19:00:53 UTC" participant="153665">
+      <body>We don't go to Sweden until May 15th. </body>
+    </message>
+    <message id="m0003" time="2015-04-03 19:01:07 UTC" participant="153665">
+      <body>Have so much fun in France.</body>
+    </message>
+  </messages>
+</conversation>
+

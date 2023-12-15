@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131205.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-05 18:38:25 UTC" participant="152417">
+      <body>Hey Stu, do you have any extra parking spots on N Champlain St?  Ria and I don't have enough spots in our new driveway and would be willing to rent one.
+-Gabi</body>
+    </message>
+    <message id="m0001" time="2013-12-05 18:41:24 UTC" participant="152524">
+      <body>Hey Gabi. Unfortunately I don't have any extra. I'll keep my ears open though for spots. What's your address and how far are you willing to walk?</body>
+    </message>
+    <message id="m0003" time="2013-12-05 20:31:14 UTC" participant="152524">
+      <body>Go to Vt Paint and ask for David, the owner. He has spaces out back he rents. He just told me he has room</body>
+    </message>
+    <message id="m0004" time="2013-12-05 20:49:53 UTC" participant="152417">
+      <body>Thanks Stu!</body>
+    </message>
+    <message id="m0005" time="2013-12-05 20:50:08 UTC" participant="152524">
+      <body>Good luck</body>
+    </message>
+  </messages>
+</conversation>
+

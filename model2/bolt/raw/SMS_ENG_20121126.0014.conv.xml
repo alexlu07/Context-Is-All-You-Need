@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121126.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2012-11-26 00:45:54 UTC">
+      <body>Are you back at school? How are you feeling?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-26 00:48:21 UTC">
+      <body>Ahh sorry! Yes I am back! I'm feeling better :)</body>
+    </message>
+  </messages>
+</conversation>

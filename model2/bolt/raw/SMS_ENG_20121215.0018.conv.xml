@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2012-12-15 00:21:20 UTC">
+      <body>How r u feeling</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-15 00:24:15 UTC">
+      <body>Fine working</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-15 00:30:54 UTC">
+      <body>U</body>
+    </message>
+    <message id="m0003" participant="135397" time="2012-12-15 00:32:00 UTC">
+      <body>Yes ok. Dinner w randi and Janos. Wendy's a bit of a mess</body>
+    </message>
+    <message id="m0004" participant="135397" time="2012-12-15 00:34:08 UTC">
+      <body>Only if u want</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-12-15 00:34:20 UTC">
+      <body>Should I call her</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-12-15 00:34:30 UTC">
+      <body>Yes she should be</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-12-15 00:34:36 UTC">
+      <body>It's terrible </body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-12-15 00:34:46 UTC">
+      <body>As long as she knows she's ok</body>
+    </message>
+    <message id="m0009" participant="135397" time="2012-12-15 00:36:16 UTC">
+      <body>Yes. She's supposed to go to a pty but might not</body>
+    </message>
+    <message id="m0011" participant="130622" time="2012-12-15 01:49:40 UTC">
+      <body>Just got off phone with her can't talk must write for ten minutes</body>
+    </message>
+    <message id="m0012" participant="135397" time="2012-12-15 02:35:44 UTC">
+      <body>Good that u called</body>
+    </message>
+    <message id="m0013" participant="135397" time="2012-12-15 02:35:44 UTC">
+      <body>I need to write too</body>
+    </message>
+  </messages>
+</conversation>

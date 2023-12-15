@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130706.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-06 19:42:46 UTC" participant="152374">
+      <body>In case you haven't heard - 777 crashed on landing at SFO.</body>
+    </message>
+    <message id="m0001" time="2013-07-06 20:29:23 UTC" participant="153466">
+      <body>Just heard on npr when you txted. Any more info? I'm at my #############s birthday party</body>
+    </message>
+    <message id="m0002" time="2013-07-06 20:30:36 UTC" participant="152374">
+      <body>Nothing definitive yet. Tail is clean off the plane, but haven't heard about any casualties so far</body>
+    </message>
+  </messages>
+</conversation>
+

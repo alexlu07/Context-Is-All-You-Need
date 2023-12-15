@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120828.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136260" time="2012-08-28 03:14:08 UTC">
+      <body>Hi will! Are you trying to get into Italian 101 bc we just heard that no matter what you can get in as a freshman!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-28 03:24:05 UTC">
+      <body>Yes I am! That's good to hear. Did they explain the issue with the consent?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-28 03:28:09 UTC">
+      <body>Oh never mind, opus doesn't say that anymore. Thanks!</body>
+    </message>
+    <message id="m0003" participant="136260" time="2012-08-28 03:33:20 UTC">
+      <body>Sweet! Good luck with registration tomorrow</body>
+    </message>
+  </messages>
+</conversation>

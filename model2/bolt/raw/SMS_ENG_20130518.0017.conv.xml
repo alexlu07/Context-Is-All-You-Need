@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130659" time="2013-05-18 10:00:21 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-05-18 10:02:57 UTC">
+      <body>Hi Borges9</body>
+    </message>
+    <message id="m0002" participant="130659" time="2013-05-18 10:04:11 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-05-18 10:10:27 UTC">
+      <body>Hey im doing well how are you?</body>
+    </message>
+    <message id="m0004" participant="130659" time="2013-05-18 10:11:52 UTC">
+      <body>I'm kind of sleepy... Reluctant to start the day</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-05-18 10:13:29 UTC">
+      <body>same. i threw a party last night and woke up much earlier this morning than i wanteed to</body>
+    </message>
+    <message id="m0006" participant="130659" time="2013-05-18 10:23:39 UTC">
+      <body>I have a cat who doesn't let me get more than 3 hours of sleep at one time. I'm still in bed.. Thinking I should get up - have a lot to do today. Just can't find the motivation.</body>
+    </message>
+    <message id="m0007" participant="130659" time="2013-05-18 10:23:39 UTC">
+      <body>Why did you have a party? What were you celebrating?</body>
+    </message>
+    <message id="m0008" participant="130632" time="2013-05-18 11:49:29 UTC">
+      <body>I finished an mfa program at temple. also several friends are leaving for summer.</body>
+    </message>
+    <message id="m0009" participant="130659" time="2013-05-18 11:51:40 UTC">
+      <body>Congrats!</body>
+    </message>
+    <message id="m0010" participant="130659" time="2013-05-18 11:52:38 UTC">
+      <body>Now I feel old.. I graduated from Widener with a BA in English in 2001</body>
+    </message>
+    <message id="m0011" participant="130659" time="2013-05-18 18:44:24 UTC">
+      <body>How long have you been participating in this TextPenn study thing?</body>
+    </message>
+    <message id="m0012" participant="130632" time="2013-05-19 00:34:57 UTC">
+      <body>Not long maybe a couple days or so</body>
+    </message>
+  </messages>
+</conversation>

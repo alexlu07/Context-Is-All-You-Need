@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140210.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-10 18:15:56 UTC" participant="153631">
+      <body>You still gonna be on campus on Thursday? Wanna get lunch?</body>
+    </message>
+    <message id="m0001" time="2014-02-10 21:02:28 UTC" participant="153548">
+      <body>YES! If weather doesn't cancel my meeting!</body>
+    </message>
+    <message id="m0002" time="2014-02-10 21:06:45 UTC" participant="153631">
+      <body>UGH WEATHER</body>
+    </message>
+  </messages>
+</conversation>
+

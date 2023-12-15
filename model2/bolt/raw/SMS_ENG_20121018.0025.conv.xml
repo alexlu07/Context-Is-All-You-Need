@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121018.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-18 00:45:57 UTC" participant="152431">
+      <body>Gabi! I need our PA connection to use for jeh kulu, do you have a number?</body>
+    </message>
+    <message id="m0001" time="2012-10-18 01:01:08 UTC" participant="152417">
+      <body>Hmm, i dont have Brett hugh's number anymore</body>
+    </message>
+    <message id="m0002" time="2012-10-18 01:08:09 UTC" participant="152417">
+      <body>You could ask uvm, i believe the music floor has a PA they lend out</body>
+    </message>
+    <message id="m0003" time="2012-10-18 01:16:37 UTC" participant="152431">
+      <body>Thanks! </body>
+    </message>
+  </messages>
+</conversation>
+

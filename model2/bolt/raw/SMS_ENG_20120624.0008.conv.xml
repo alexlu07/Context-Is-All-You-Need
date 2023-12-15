@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120624.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-24 17:03:25 UTC" participant="153418">
+      <body>Hey, I'm going to be a few minutes late today. </body>
+    </message>
+    <message id="m0001" time="2012-06-24 17:09:26 UTC" participant="153439">
+      <body>Okay:)</body>
+    </message>
+    <message id="m0002" time="2012-06-24 17:19:36 UTC" participant="153418">
+      <body>Uh...so my ride decided to cancel on me at the last minute. I can still meet up, but I'll have to take the bus, and it'll take me a while. Is that okay with you?</body>
+    </message>
+    <message id="m0003" time="2012-06-24 17:22:10 UTC" participant="153439">
+      <body>No problem:)</body>
+    </message>
+    <message id="m0004" time="2012-06-24 17:23:28 UTC" participant="153418">
+      <body>Okay. I'll be taking the bus there, so I'm thinking that I'll be there around 2:00 or 2:15.</body>
+    </message>
+    <message id="m0005" time="2012-06-24 17:31:22 UTC" participant="153439">
+      <body>Okay!!</body>
+    </message>
+    <message id="m0006" time="2012-06-25 15:11:15 UTC" participant="153418">
+      <body>Hey, are you free at 12 today?</body>
+    </message>
+    <message id="m0007" time="2012-06-25 15:15:26 UTC" participant="153439">
+      <body>I'm not free then...
+Are u busy in the afternoon??</body>
+    </message>
+    <message id="m0008" time="2012-06-25 15:17:08 UTC" participant="153418">
+      <body>What time in the afternoon? I only have an hour of free time today.</body>
+    </message>
+    <message id="m0009" time="2012-06-25 15:19:52 UTC" participant="153439">
+      <body>I will be free after 4:00.</body>
+    </message>
+    <message id="m0010" time="2012-06-25 16:48:02 UTC" participant="153418">
+      <body>Okay. Do you wanna meet at 4:15 or so? </body>
+    </message>
+    <message id="m0011" time="2012-06-25 16:56:49 UTC" participant="153439">
+      <body>I'm not sure if i can be on time.
+Because i will go to center city. I may be late.
+You have only an hour, right?
+How about next time?</body>
+    </message>
+  </messages>
+</conversation>
+

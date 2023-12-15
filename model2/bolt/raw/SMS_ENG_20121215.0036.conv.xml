@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136291" time="2012-12-15 01:12:46 UTC">
+      <body>Isnt adam leaving tomorrow too?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-15 01:13:06 UTC">
+      <body>Yeah but his flight is at 9 AM!</body>
+    </message>
+    <message id="m0002" participant="136291" time="2012-12-15 01:16:51 UTC">
+      <body>Ooooh nvm then. Is he taking a cab?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-15 01:17:36 UTC">
+      <body>I think so, he's sharing with another friend or something</body>
+    </message>
+  </messages>
+</conversation>

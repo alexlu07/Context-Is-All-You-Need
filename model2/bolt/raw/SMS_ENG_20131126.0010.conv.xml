@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131126.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-26 00:44:48 UTC" participant="153639">
+      <body>￼Happy Thanksgiving!</body>
+    </message>
+    <message id="m0001" time="2013-11-26 00:50:08 UTC" participant="153548">
+      <body>Amazing.</body>
+    </message>
+    <message id="m0002" time="2013-11-26 00:50:22 UTC" participant="153548">
+      <body>Are you home for the holidays?</body>
+    </message>
+    <message id="m0003" time="2013-11-26 00:56:44 UTC" participant="153639">
+      <body>Just this week for tofurkey day, spending it in Richmond actually. Wasn't able to get Xmas off. You?</body>
+    </message>
+    <message id="m0004" time="2013-11-26 01:00:17 UTC" participant="153548">
+      <body>Yeah I'll be at honeybobs weds-Saturday. Tell your family hello!!</body>
+    </message>
+    <message id="m0005" time="2013-11-26 01:01:52 UTC" participant="153639">
+      <body>Cool, do the same for me!</body>
+    </message>
+  </messages>
+</conversation>
+

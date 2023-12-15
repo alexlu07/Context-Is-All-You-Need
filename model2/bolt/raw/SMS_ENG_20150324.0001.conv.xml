@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 20:50:20 UTC" participant="152251">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" time="2015-03-24 20:50:25 UTC" participant="152251">
+      <body>I reading my paper feedback</body>
+    </message>
+    <message id="m0002" time="2015-03-24 20:50:33 UTC" participant="152251">
+      <body>Thank you so much for being so detailed. </body>
+    </message>
+    <message id="m0003" time="2015-03-24 20:50:51 UTC" participant="152251">
+      <body>One question </body>
+    </message>
+    <message id="m0004" time="2015-03-24 20:52:42 UTC" participant="152251">
+      <body>What did you mean by this comment? ￼</body>
+    </message>
+    <message id="m0005" time="2015-03-24 20:52:43 UTC" participant="152251">
+      <body>I can't tell if you are laughing or you are happy with it :)</body>
+    </message>
+    <message id="m0006" time="2015-03-24 21:11:46 UTC" participant="152212">
+      <body>Oh it's happy </body>
+    </message>
+    <message id="m0007" time="2015-03-24 21:11:59 UTC" participant="152212">
+      <body>Vagueness = goodness </body>
+    </message>
+    <message id="m0008" time="2015-03-25 00:16:08 UTC" participant="152251">
+      <body>Oh! Yippy :)</body>
+    </message>
+    <message id="m0009" time="2015-03-25 00:16:20 UTC" participant="152251">
+      <body>Thank you again for giving such detailed feedback. </body>
+    </message>
+  </messages>
+</conversation>
+

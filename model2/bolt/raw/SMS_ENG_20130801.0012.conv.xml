@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135091" time="2013-08-01 15:03:22 UTC">
+      <body>Hey, how r u?</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-08-01 15:10:56 UTC">
+      <body>Good you?</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-08-01 15:11:22 UTC">
+      <body>I'm at work right now and one of my good friends here is named franny :)</body>
+    </message>
+    <message id="m0003" participant="135091" time="2013-08-01 15:12:42 UTC">
+      <body>Haha.. That's funny! What do u do for ur work?</body>
+    </message>
+  </messages>
+</conversation>

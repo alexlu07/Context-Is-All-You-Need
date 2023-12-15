@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110909.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-09-09 14:46:44 UTC" participant="131821">
+      <body>The man has been fixing the cooler.</body>
+    </message>
+    <message id="m0001" time="2011-09-09 14:47:19 UTC" participant="131822">
+      <body>Noice</body>
+    </message>
+    <message id="m0002" time="2011-09-09 14:47:49 UTC" participant="131821">
+      <body>Yrps</body>
+    </message>
+  </messages>
+</conversation>
+

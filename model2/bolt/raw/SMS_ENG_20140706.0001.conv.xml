@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140706.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-06 03:35:02 UTC" participant="152560">
+      <body>What's up? </body>
+    </message>
+    <message id="m0001" time="2014-07-06 12:29:22 UTC" participant="152417">
+      <body>Im at sue and dons</body>
+    </message>
+    <message id="m0002" time="2014-07-06 18:28:31 UTC" participant="152417">
+      <body>Whats up witchoo?</body>
+    </message>
+    <message id="m0004" time="2014-07-06 22:33:57 UTC" participant="152560">
+      <body>￼Here in Pittsford with Christine. </body>
+    </message>
+    <message id="m0005" time="2014-07-06 22:35:26 UTC" participant="152417">
+      <body>Shoot! I drove right past you today</body>
+    </message>
+  </messages>
+</conversation>
+

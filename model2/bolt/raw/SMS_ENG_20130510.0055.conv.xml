@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-10 16:10:13 UTC">
+      <body>they don't do carrots, only smartdogs, do you still want one? </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-05-10 16:10:48 UTC">
+      <body>Yes please!</body>
+    </message>
+  </messages>
+</conversation>

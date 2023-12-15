@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120827.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2012-08-27 12:59:21 UTC">
+      <body>Hi ####! Random question, do u have birds at home?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-08-27 16:54:45 UTC">
+      <body>Nope. My mom does...</body>
+    </message>
+    <message id="m0002" participant="131032" time="2012-08-28 02:08:01 UTC">
+      <body>Hah o well no biggie but we have a full bag of birdseed that we obviously do not need cause we have no pet birds. its from that time we accidentally resc</body>
+    </message>
+    <message id="m0003" participant="131032" time="2012-08-28 02:08:02 UTC">
+      <body>ued a fledgling..</body>
+    </message>
+  </messages>
+</conversation>
