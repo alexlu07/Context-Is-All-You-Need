@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2013-05-09 20:02:39 UTC">
+      <body>Is it okay to get free lunch in high school?  Is it cool?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-09 20:04:07 UTC">
+      <body>Depends on what's for lunch.</body>
+    </message>
+  </messages>
+</conversation>

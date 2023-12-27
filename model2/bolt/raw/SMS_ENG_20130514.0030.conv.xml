@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130514.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-14 20:15:46 UTC">
+      <body>Hey. In AZ.
+I expect to be in LV around June 21st...and again around July 15th.</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-14 20:16:23 UTC">
+      <body>Got stuff for you.</body>
+    </message>
+    <message id="m0002" participant="131377" time="2013-05-14 22:57:10 UTC">
+      <body>Not sure if I'll be here June21 but will in July</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120518.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2012-05-18 14:47:28 UTC">
+      <body>Hav u started studying for chem yet?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-05-18 15:20:11 UTC">
+      <body>Just finished my Greek final -- no</body>
+    </message>
+    <message id="m0002" participant="131825" time="2012-05-18 15:21:36 UTC">
+      <body>Yay how did it go?!</body>
+    </message>
+    <message id="m0003" participant="131825" time="2012-05-18 15:21:36 UTC">
+      <body>Well at least it's done :)</body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-05-18 15:21:47 UTC">
+      <body>Hopefully well? Hard to tell</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-05-18 15:22:21 UTC">
+      <body>Yeah; yay!</body>
+    </message>
+  </messages>
+</conversation>

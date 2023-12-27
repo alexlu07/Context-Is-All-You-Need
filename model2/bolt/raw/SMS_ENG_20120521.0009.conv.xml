@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120521.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136213" time="2012-05-21 20:40:53 UTC">
+      <body>Hey when you gonna be home? Figuring out dinner and my night</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-21 20:41:30 UTC">
+      <body>Just got off train. Walking home</body>
+    </message>
+    <message id="m0002" participant="136213" time="2012-05-21 20:41:36 UTC">
+      <body>Ahhhh I'll be there soon too</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-22 20:38:12 UTC">
+      <body>Wassup</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-22 20:38:52 UTC">
+      <body>Not yet. Why?</body>
+    </message>
+    <message id="m0005" participant="136213" time="2012-05-22 20:39:28 UTC">
+      <body>You home?</body>
+    </message>
+    <message id="m0006" participant="136213" time="2012-05-22 20:43:44 UTC">
+      <body>Just got there</body>
+    </message>
+    <message id="m0007" participant="136213" time="2012-05-22 20:48:00 UTC">
+      <body>Okaaaaaay</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-05-22 20:48:29 UTC">
+      <body>Ohhhh. I probably won't be home for a few hours</body>
+    </message>
+  </messages>
+</conversation>

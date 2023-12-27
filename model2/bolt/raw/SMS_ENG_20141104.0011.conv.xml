@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141104.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-04 21:10:15 UTC" participant="153548">
+      <body>Hey! I'll probably be in the studio til about 7 if you wanna come paint some bowls!</body>
+    </message>
+    <message id="m0001" time="2014-11-04 21:10:55 UTC" participant="153645">
+      <body>Ok - I will at least come by and say hi - since I may not get home till 6 :)</body>
+    </message>
+    <message id="m0002" time="2014-11-04 21:11:18 UTC" participant="153548">
+      <body>Cool!!! See us later!!</body>
+    </message>
+    <message id="m0003" time="2014-11-04 22:56:17 UTC" participant="153645">
+      <body>I will be by in 20 min! </body>
+    </message>
+  </messages>
+</conversation>
+

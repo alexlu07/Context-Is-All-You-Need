@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150106.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-06 16:27:43 UTC" participant="153458">
+      <body>Arr you in already? </body>
+    </message>
+    <message id="m0001" time="2015-01-06 16:42:58 UTC" participant="153418">
+      <body>Sorry, I was driving. I just got in.</body>
+    </message>
+  </messages>
+</conversation>
+

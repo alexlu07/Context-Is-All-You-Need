@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120625.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-25 16:54:27 UTC">
+      <body>Sorry I didn't get to say goodbye :(</body>
+    </message>
+    <message id="m0001" participant="136222" time="2012-06-25 16:56:10 UTC">
+      <body>Hey who's this? New phone and all? </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-25 16:57:29 UTC">
+      <body>Will Russo!</body>
+    </message>
+    <message id="m0003" participant="136222" time="2012-06-25 16:59:39 UTC">
+      <body>Oh hey man,  not a problem. You guys heading back soon? </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-25 17:05:52 UTC">
+      <body>We are on the bus now</body>
+    </message>
+  </messages>
+</conversation>

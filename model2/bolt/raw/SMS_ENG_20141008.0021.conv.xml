@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141008.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-08 15:32:44 UTC" participant="153660">
+      <body>I went to Connelly! Be right there.</body>
+    </message>
+    <message id="m0001" time="2014-10-08 15:38:29 UTC" participant="153660">
+      <body>This shit is in Hamilton, right after you walk in. </body>
+    </message>
+    <message id="m0002" time="2014-10-08 15:44:44 UTC" participant="153548">
+      <body>I'm not there yet! Heading now. Had to get equipment</body>
+    </message>
+    <message id="m0003" time="2014-10-08 15:46:17 UTC" participant="153548">
+      <body>Save me a seat if you can!</body>
+    </message>
+    <message id="m0004" time="2014-10-08 15:46:31 UTC" participant="153548">
+      <body>Should be there in 10</body>
+    </message>
+    <message id="m0007" time="2014-10-08 18:25:11 UTC" participant="153548">
+      <body>I was there! Behind you. I just have my studio so I had to leave 15 early to finish equipment</body>
+    </message>
+    <message id="m0008" time="2014-10-08 18:25:26 UTC" participant="153548">
+      <body>My 6 hour class</body>
+    </message>
+    <message id="m0009" time="2014-10-08 18:25:31 UTC" participant="153548">
+      <body>With hour break</body>
+    </message>
+    <message id="m0010" time="2014-10-08 18:39:25 UTC" participant="153660">
+      <body>Ohhhh ok! I totally missed you. Bet you're glad you spent an hour doing that! I'm going to transcribe that thing for our class tomorrow now.</body>
+    </message>
+  </messages>
+</conversation>
+

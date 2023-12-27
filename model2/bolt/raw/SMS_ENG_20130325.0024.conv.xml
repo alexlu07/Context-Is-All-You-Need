@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-03-25 12:32:24 UTC">
+      <body>Make the train ok?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-03-25 12:38:11 UTC">
+      <body>Yeah, just got to NYC. Gotta find the exit and make my way to a subway</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-03-25 13:58:18 UTC">
+      <body>Ok! Love you</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-03-25 13:58:41 UTC">
+      <body>Love you too!</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-03-25 15:12:14 UTC">
+      <body>Hey. Can you text me the Chase card # and expiration date?</body>
+    </message>
+    <message id="m0006" participant="131502" time="2013-03-25 17:38:08 UTC">
+      <body>Why do you need this?</body>
+    </message>
+    <message id="m0007" participant="131502" time="2013-03-25 17:42:24 UTC">
+      <body>Oh. Ok</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-03-25 17:42:25 UTC">
+      <body>Thanks. Wanted to register  it for a Hilton/Visa promotion. My page timed out though.</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-03-25 21:45:37 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-03-25 21:45:43 UTC">
+      <body>I'm going straight to dinners</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-03-25 21:45:47 UTC">
+      <body>Going to leave my phone in the room so it can charge.</body>
+    </message>
+    <message id="m0012" participant="131502" time="2013-03-25 21:47:44 UTC">
+      <body>Hey. Ok. Sounds good. I'm cooking dinner now</body>
+    </message>
+    <message id="m0013" participant="131502" time="2013-03-25 21:47:44 UTC">
+      <body>Not sure if texts are going thru?</body>
+    </message>
+    <message id="m0014" participant="131502" time="2013-03-25 21:49:52 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0015" participant="131502" time="2013-03-25 21:49:52 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0016" participant="130706" time="2013-03-25 21:50:01 UTC">
+      <body>Had to get connected to WiFi. Alright, talk to you later.</body>
+    </message>
+    <message id="m0017" participant="131502" time="2013-03-25 22:47:01 UTC">
+      <body>I just messaged Ilonka. Just waiting to hear something.</body>
+    </message>
+    <message id="m0018" participant="131502" time="2013-03-25 22:53:42 UTC">
+      <body>She said it's no problem. She told you to apply online and give Jack a call. She gave me his #</body>
+    </message>
+    <message id="m0019" participant="131502" time="2013-03-25 23:02:24 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0020" participant="130706" time="2013-03-25 23:03:38 UTC">
+      <body>Cool. What position am I applying for? IT Audit?</body>
+    </message>
+    <message id="m0021" participant="131502" time="2013-03-25 23:04:32 UTC">
+      <body>We can talk a bit now</body>
+    </message>
+    <message id="m0022" participant="130706" time="2013-03-25 23:06:06 UTC">
+      <body>When do you want to talk? Wait for kids to go to bed?</body>
+    </message>
+    <message id="m0023" participant="131502" time="2013-03-26 10:52:48 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0024" participant="130706" time="2013-03-26 10:53:34 UTC">
+      <body>I think you're awake</body>
+    </message>
+    <message id="m0025" participant="130706" time="2013-03-26 10:54:39 UTC">
+      <body>I think the house is cold</body>
+    </message>
+    <message id="m0026" participant="131502" time="2013-03-26 10:54:43 UTC">
+      <body>Trying to figure out why the damn furnace isn't on</body>
+    </message>
+    <message id="m0027" participant="131502" time="2013-03-26 18:05:08 UTC">
+      <body>Weak hip muscles. Got a script for physical therapy. </body>
+    </message>
+    <message id="m0028" participant="131502" time="2013-03-26 18:08:00 UTC">
+      <body>￼My knees!!! Sexy stuff. It's my IT band. </body>
+    </message>
+    <message id="m0029" participant="130706" time="2013-03-26 19:33:18 UTC">
+      <body>Hey, sorry! My phone is on silent for texts. I should have checked before sending email.</body>
+    </message>
+    <message id="m0030" participant="131502" time="2013-03-26 19:33:20 UTC">
+      <body>It's cool</body>
+    </message>
+    <message id="m0031" participant="131502" time="2013-03-26 19:33:20 UTC">
+      <body>Crazy huh?</body>
+    </message>
+    <message id="m0032" participant="130706" time="2013-03-26 19:33:59 UTC">
+      <body>Damn! You're legs are all boney!</body>
+    </message>
+    <message id="m0033" participant="130706" time="2013-03-26 19:34:46 UTC">
+      <body>I think that's a relatively good diagnosis, all things considered. Way better than a blown knee!</body>
+    </message>
+    <message id="m0034" participant="131502" time="2013-03-26 19:35:28 UTC">
+      <body>Yeah. It's not bad. Just annoying. One test he did it was incredible to see the difference in strength between my right hip and left.</body>
+    </message>
+    <message id="m0035" participant="130706" time="2013-03-26 19:43:02 UTC">
+      <body>Hmm.. Wonder why so different?</body>
+    </message>
+    <message id="m0036" participant="131502" time="2013-03-26 19:43:49 UTC">
+      <body>I asked and he said it's just one of those things. And, more common in women.</body>
+    </message>
+    <message id="m0037" participant="131502" time="2013-03-26 19:44:00 UTC">
+      <body>About to leave for my hour bike ride set to Judge Judy!!!</body>
+    </message>
+    <message id="m0038" participant="131502" time="2013-03-26 22:06:00 UTC">
+      <body>Aethel escaped the yard again. We have to do something about this. Maybe your mom can take him for a bit. He's running around, scaring people while I make dinner</body>
+    </message>
+    <message id="m0039" participant="130706" time="2013-03-26 22:47:20 UTC">
+      <body>I think that's a good idea. Did he come back?</body>
+    </message>
+    <message id="m0040" participant="131502" time="2013-03-26 22:47:28 UTC">
+      <body>Yes. He comes back. But considering I have a million things on my plate God knows how long he roams around for. Neighbors who don't mind it likely will start.</body>
+    </message>
+    <message id="m0041" participant="131502" time="2013-03-26 22:49:36 UTC">
+      <body>I wasn't implying anything. Just adding my input</body>
+    </message>
+    <message id="m0042" participant="130706" time="2013-03-26 22:50:03 UTC">
+      <body>No, I didn't mean it was okay as long as he came back. I didn't know if he was still running around outside.</body>
+    </message>
+    <message id="m0043" participant="131502" time="2013-03-26 22:53:52 UTC">
+      <body>What are you doing now?</body>
+    </message>
+    <message id="m0044" participant="130706" time="2013-03-26 22:58:03 UTC">
+      <body>ZAczzzzqazqa</body>
+    </message>
+    <message id="m0045" participant="130706" time="2013-03-26 22:58:06 UTC">
+      <body>Sending pocket texts</body>
+    </message>
+    <message id="m0046" participant="131502" time="2013-03-26 22:58:51 UTC">
+      <body> Ok</body>
+    </message>
+    <message id="m0047" participant="131502" time="2013-03-26 22:59:02 UTC">
+      <body>Other than that?</body>
+    </message>
+    <message id="m0048" participant="130706" time="2013-03-26 23:00:47 UTC">
+      <body>Just got back to room. About to call.</body>
+    </message>
+    <message id="m0049" participant="131502" time="2013-03-26 23:01:47 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0050" participant="131502" time="2013-03-27 18:54:31 UTC">
+      <body>￼Credits </body>
+    </message>
+    <message id="m0051" participant="130706" time="2013-03-27 21:32:10 UTC">
+      <body>Are you cooking something?</body>
+    </message>
+    <message id="m0052" participant="131502" time="2013-03-27 21:32:30 UTC">
+      <body>No?</body>
+    </message>
+    <message id="m0053" participant="130706" time="2013-03-27 21:34:03 UTC">
+      <body>Okay. Just curious, Nest said the house was 75 degrees. Guess it's warm out.</body>
+    </message>
+    <message id="m0054" participant="131502" time="2013-03-27 21:34:20 UTC">
+      <body>I'm not home</body>
+    </message>
+    <message id="m0055" participant="131502" time="2013-03-27 21:34:38 UTC">
+      <body>Could be the sunlight or something </body>
+    </message>
+    <message id="m0056" participant="131502" time="2013-03-27 21:34:56 UTC">
+      <body>I'm in a discussion again with my mom about this Italy thing.</body>
+    </message>
+    <message id="m0057" participant="130706" time="2013-03-27 21:35:26 UTC">
+      <body>Okay. Well Nest says it is 74 now. Just trying to spy. I love you!</body>
+    </message>
+    <message id="m0058" participant="131502" time="2013-03-27 21:37:04 UTC">
+      <body>She's yelling at me</body>
+    </message>
+    <message id="m0059" participant="130706" time="2013-03-27 21:37:49 UTC">
+      <body>Oh no... Maybe if she convinces someone to start me at 75k effective April 21 we can afford to go and pay back those that we owe money too.</body>
+    </message>
+    <message id="m0060" participant="131502" time="2013-03-27 21:46:48 UTC">
+      <body>I think we have to go</body>
+    </message>
+    <message id="m0061" participant="131502" time="2013-03-27 21:47:08 UTC">
+      <body>Ridiculous.</body>
+    </message>
+    <message id="m0062" participant="131502" time="2013-03-27 21:56:16 UTC">
+      <body>If we don't go she'll be angry at me for all eternity. I really don't want to go. </body>
+    </message>
+    <message id="m0063" participant="130706" time="2013-03-27 22:24:08 UTC">
+      <body>Sorry, at dinner</body>
+    </message>
+    <message id="m0064" participant="130706" time="2013-03-28 00:02:10 UTC">
+      <body>Hey sexy</body>
+    </message>
+    <message id="m0065" participant="131502" time="2013-03-28 00:03:20 UTC">
+      <body>Hey. Kids are up. Gonna put them to bed, watch Judge Judy and then call</body>
+    </message>
+    <message id="m0066" participant="130706" time="2013-03-28 00:04:13 UTC">
+      <body>Okay. I'm going to think about running. There's a storm coming but I think it might blow through.</body>
+    </message>
+    <message id="m0067" participant="131502" time="2013-03-28 00:04:16 UTC">
+      <body>Ok. I'm gonna call around 9:30</body>
+    </message>
+    <message id="m0068" participant="130706" time="2013-03-28 00:05:29 UTC">
+      <body>Okay, cool. I'll prolly aim to run around 8:30-45ish. Should be done by then.</body>
+    </message>
+    <message id="m0069" participant="131502" time="2013-03-28 00:06:09 UTC">
+      <body>Ok. </body>
+    </message>
+    <message id="m0070" participant="131502" time="2013-03-28 01:24:28 UTC">
+      <body>Gonna answer?</body>
+    </message>
+    <message id="m0071" participant="130706" time="2013-03-28 01:24:51 UTC">
+      <body>Hmm? Didn't ring!</body>
+    </message>
+    <message id="m0072" participant="131502" time="2013-03-28 01:25:20 UTC">
+      <body>Don't call me</body>
+    </message>
+    <message id="m0073" participant="131502" time="2013-03-28 01:25:37 UTC">
+      <body>I'm trying to call</body>
+    </message>
+    <message id="m0074" participant="130706" time="2013-03-28 01:26:10 UTC">
+      <body>I'm not!</body>
+    </message>
+    <message id="m0075" participant="131502" time="2013-03-28 01:27:28 UTC">
+      <body>I've called 5 times</body>
+    </message>
+    <message id="m0076" participant="130706" time="2013-03-28 01:29:16 UTC">
+      <body>I've got nothing</body>
+    </message>
+    <message id="m0077" participant="130706" time="2013-03-28 01:29:25 UTC">
+      <body>Can I call you!</body>
+    </message>
+    <message id="m0078" participant="130706" time="2013-03-28 01:29:31 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0079" participant="131502" time="2013-03-28 01:29:32 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0080" participant="131502" time="2013-03-28 01:29:36 UTC">
+      <body>Give me a sec to type!!!</body>
+    </message>
+    <message id="m0081" participant="130706" time="2013-03-28 01:49:52 UTC">
+      <body>Talk to you in the morning.</body>
+    </message>
+    <message id="m0082" participant="130706" time="2013-03-28 01:52:58 UTC">
+      <body>I don't know what to do about Italy. But calling me retarded and then berating me for a suggestion, no matter how stupid, isn't very nice. </body>
+    </message>
+    <message id="m0083" participant="130706" time="2013-03-28 01:53:13 UTC">
+      <body>I love you.</body>
+    </message>
+    <message id="m0084" participant="130706" time="2013-03-28 01:55:16 UTC">
+      <body>And now you're just ignoring me. Good night.</body>
+    </message>
+    <message id="m0085" participant="131502" time="2013-03-28 13:39:12 UTC">
+      <body>Rash of thefts around and what do I do?! Leave my purse in an unlocked car</body>
+    </message>
+    <message id="m0086" participant="131502" time="2013-03-28 13:39:12 UTC">
+      <body>It's there and all, but I'm a dumbass</body>
+    </message>
+    <message id="m0087" participant="131502" time="2013-03-28 14:28:16 UTC">
+      <body>￼Why me?</body>
+    </message>
+    <message id="m0088" participant="131502" time="2013-03-28 16:30:34 UTC">
+      <body>I don't even know if it's vomit or poop. Whatever it is it smells HORRIBLE</body>
+    </message>
+    <message id="m0089" participant="131502" time="2013-03-28 16:30:50 UTC">
+      <body>￼I'm at target with this issue </body>
+    </message>
+    <message id="m0090" participant="131502" time="2013-03-28 16:36:16 UTC">
+      <body>It's all over everything. I'll be here cleaning and dry heaving for a while</body>
+    </message>
+    <message id="m0091" participant="131502" time="2013-03-28 16:36:16 UTC">
+      <body>￼More</body>
+    </message>
+    <message id="m0092" participant="130706" time="2013-03-28 16:36:28 UTC">
+      <body>Oh no!!!</body>
+    </message>
+    <message id="m0093" participant="131502" time="2013-03-28 16:36:29 UTC">
+      <body>￼More</body>
+    </message>
+    <message id="m0094" participant="130706" time="2013-03-28 16:36:46 UTC">
+      <body>That is awful!!</body>
+    </message>
+    <message id="m0095" participant="131502" time="2013-03-28 16:37:36 UTC">
+      <body>It's down the seats</body>
+    </message>
+    <message id="m0096" participant="131502" time="2013-03-28 16:39:55 UTC">
+      <body>I'm gonna cry</body>
+    </message>
+    <message id="m0097" participant="131502" time="2013-03-28 16:51:49 UTC">
+      <body>The stuff in the back is shit</body>
+    </message>
+    <message id="m0098" participant="130706" time="2013-03-28 16:52:07 UTC">
+      <body>I'm so sorry. You don't deserve this. </body>
+    </message>
+    <message id="m0099" participant="131502" time="2013-03-28 16:55:13 UTC">
+      <body>I'm on my third roll of paper towels</body>
+    </message>
+    <message id="m0100" participant="131502" time="2013-03-28 16:55:48 UTC">
+      <body>Shit is all over my hands</body>
+    </message>
+    <message id="m0101" participant="131502" time="2013-03-28 16:57:02 UTC">
+      <body>I dunno wtf to do</body>
+    </message>
+    <message id="m0102" participant="131502" time="2013-03-28 17:01:38 UTC">
+      <body>God dammit! I just finished and she vomited everywhere</body>
+    </message>
+    <message id="m0103" participant="131502" time="2013-03-28 17:04:00 UTC">
+      <body>I'm just going home. It smells so bad in here.</body>
+    </message>
+    <message id="m0104" participant="131502" time="2013-03-28 17:23:39 UTC">
+      <body>Angie is shitting and pooping at the same time in the back yard</body>
+    </message>
+    <message id="m0105" participant="131502" time="2013-03-28 17:23:59 UTC">
+      <body>I mean shitting and barfing</body>
+    </message>
+    <message id="m0106" participant="131502" time="2013-03-28 17:46:40 UTC">
+      <body>No clue</body>
+    </message>
+    <message id="m0107" participant="131502" time="2013-03-28 17:46:40 UTC">
+      <body>Nasty through</body>
+    </message>
+    <message id="m0108" participant="131502" time="2013-03-28 17:46:40 UTC">
+      <body>Maybe she did. Kids ....</body>
+    </message>
+    <message id="m0109" participant="130706" time="2013-03-28 17:47:21 UTC">
+      <body>Gross... What did she get in to?!</body>
+    </message>
+    <message id="m0110" participant="130706" time="2013-03-28 17:47:51 UTC">
+      <body>I hope she's okay. Sounds like when she ate too much food.</body>
+    </message>
+    <message id="m0111" participant="130706" time="2013-03-28 17:48:31 UTC">
+      <body>I guess she'll need to rehydrate. Kids love feeding dogs!</body>
+    </message>
+    <message id="m0112" participant="131502" time="2013-03-28 17:48:40 UTC">
+      <body>Jack just said he fed her this morning</body>
+    </message>
+    <message id="m0113" participant="131502" time="2013-03-28 17:48:48 UTC">
+      <body>God no</body>
+    </message>
+    <message id="m0114" participant="130706" time="2013-03-28 17:48:53 UTC">
+      <body>Lets hope Aethel wasn't afflicted too!</body>
+    </message>
+    <message id="m0115" participant="130706" time="2013-03-28 18:44:55 UTC">
+      <body>Need you check email</body>
+    </message>
+    <message id="m0116" participant="131502" time="2013-03-28 18:45:43 UTC">
+      <body>No school Monday</body>
+    </message>
+    <message id="m0117" participant="131502" time="2013-03-28 18:46:24 UTC">
+      <body>Schedule it in the morning and I'll go to the gym</body>
+    </message>
+    <message id="m0118" participant="131502" time="2013-03-28 18:46:24 UTC">
+      <body>Works. 11 would be ideal</body>
+    </message>
+    <message id="m0119" participant="131502" time="2013-03-28 18:46:24 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0120" participant="130706" time="2013-03-28 18:46:58 UTC">
+      <body>10:00 AM?</body>
+    </message>
+    <message id="m0121" participant="130706" time="2013-03-28 18:47:35 UTC">
+      <body>11 it is.</body>
+    </message>
+    <message id="m0122" participant="131502" time="2013-03-28 19:07:44 UTC">
+      <body>￼Look how thrifty I am!!! Making my own jean shorts from old jeans I was giving away</body>
+    </message>
+    <message id="m0123" participant="130706" time="2013-03-28 19:09:14 UTC">
+      <body>Nice! Now make another pair! But make em shorter!!</body>
+    </message>
+    <message id="m0124" participant="131502" time="2013-03-28 19:09:46 UTC">
+      <body>No! And look at my thigh! Itz gettin toned!</body>
+    </message>
+    <message id="m0125" participant="131502" time="2013-03-28 19:09:52 UTC">
+      <body>It's the biking. I swear</body>
+    </message>
+    <message id="m0126" participant="130706" time="2013-03-28 20:14:33 UTC">
+      <body>0_0 ... </body>
+    </message>
+    <message id="m0127" participant="130706" time="2013-03-28 20:14:36 UTC">
+      <body>I like short shorts</body>
+    </message>
+    <message id="m0128" participant="130706" time="2013-03-28 20:15:17 UTC">
+      <body>I'm at Penn Station. If I want to go out earlier it'll cost 54.00. I don't want to spend it because Mark's been kind of an ass lately regarding expense reports and all that shit.</body>
+    </message>
+    <message id="m0129" participant="130706" time="2013-03-28 20:16:00 UTC">
+      <body>Got a $45 refund to the MasterCard for the old ticket though!</body>
+    </message>
+    <message id="m0130" participant="130706" time="2013-03-28 20:19:13 UTC">
+      <body>Actually, fuck it. I'm going to see what the cost to Ardmore is via the next train. I think there's one at 510</body>
+    </message>
+    <message id="m0131" participant="130706" time="2013-03-28 20:20:55 UTC">
+      <body>That's an hour and a half sooner.</body>
+    </message>
+    <message id="m0132" participant="130706" time="2013-03-28 20:25:43 UTC">
+      <body>I'm on it!</body>
+    </message>
+    <message id="m0133" participant="131502" time="2013-03-28 20:26:35 UTC">
+      <body>Sounds good! I'm on the bike!</body>
+    </message>
+    <message id="m0134" participant="131502" time="2013-03-28 20:26:40 UTC">
+      <body>That's why I haven't been texting.</body>
+    </message>
+    <message id="m0135" participant="131502" time="2013-03-28 20:26:40 UTC">
+      <body>Ok! Back to biking!!!</body>
+    </message>
+    <message id="m0136" participant="131502" time="2013-03-28 20:26:40 UTC">
+      <body>I'll text you when I'm done.</body>
+    </message>
+    <message id="m0137" participant="131502" time="2013-03-28 20:26:40 UTC">
+      <body>Tell me what time the train arrives</body>
+    </message>
+    <message id="m0138" participant="130706" time="2013-03-28 20:27:04 UTC">
+      <body>I'm on the train you sexy thigh monster!!</body>
+    </message>
+    <message id="m0139" participant="130706" time="2013-03-28 20:27:41 UTC">
+      <body>Well... Not yet. I will be though!</body>
+    </message>
+    <message id="m0140" participant="130706" time="2013-03-28 20:28:04 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0141" participant="130706" time="2013-03-28 20:32:03 UTC">
+      <body>6:55</body>
+    </message>
+    <message id="m0142" participant="131502" time="2013-03-28 21:12:40 UTC">
+      <body>I'll be there to pick you up. Train on time?</body>
+    </message>
+    <message id="m0143" participant="130706" time="2013-03-28 21:16:21 UTC">
+      <body>So far, so good! I've got the Amtrak App. It's pretty sweet!</body>
+    </message>
+    <message id="m0144" participant="130706" time="2013-03-28 22:43:44 UTC">
+      <body>On time. Second car from the front of the train.</body>
+    </message>
+    <message id="m0145" participant="130706" time="2013-03-28 22:43:58 UTC">
+      <body>So I guess third car if you include engine</body>
+    </message>
+    <message id="m0146" participant="131502" time="2013-03-28 22:44:03 UTC">
+      <body>Ok. I've just left</body>
+    </message>
+    <message id="m0147" participant="131502" time="2013-03-29 19:20:58 UTC">
+      <body>Where are you? I called so you'd be down here and I wouldn't have to wait</body>
+    </message>
+    <message id="m0148" participant="131502" time="2013-03-29 19:21:13 UTC">
+      <body>I'm trying to get to the gym by 4</body>
+    </message>
+  </messages>
+</conversation>

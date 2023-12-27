@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140902.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-02 23:20:33 UTC" participant="152417">
+      <body>Sorry, it's gonna take us too long to get down there.  Rain check</body>
+    </message>
+    <message id="m0001" time="2014-09-02 23:20:49 UTC" participant="152645">
+      <body>It's all good!</body>
+    </message>
+  </messages>
+</conversation>
+

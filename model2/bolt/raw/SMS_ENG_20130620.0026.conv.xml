@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135328" time="2013-06-20 21:53:38 UTC">
+      <body>Forgot to bring the PDF of the study home -- guess I'm writing it tomorrow</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-20 22:19:02 UTC">
+      <body>Hahaha whoops. After all that! I am eating potato chips :D</body>
+    </message>
+    <message id="m0002" participant="135328" time="2013-06-20 22:46:11 UTC">
+      <body>Yayay! I'm gonna have some chips and salsa</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-20 22:47:04 UTC">
+      <body>Yay! We should actually keep some in the office...</body>
+    </message>
+    <message id="m0004" participant="135328" time="2013-06-20 22:49:36 UTC">
+      <body>I need snacks throughout the day</body>
+    </message>
+  </messages>
+</conversation>

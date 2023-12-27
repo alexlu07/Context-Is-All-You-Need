@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130321.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-21 20:57:37 UTC">
+      <body>hey! how's things?</body>
+    </message>
+    <message id="m0001" participant="131359" time="2013-03-21 22:27:24 UTC">
+      <body>Doing a little day-drinking.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-21 22:47:51 UTC">
+      <body>nice!</body>
+    </message>
+  </messages>
+</conversation>

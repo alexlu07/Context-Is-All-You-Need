@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2013-05-18 18:09:19 UTC">
+      <body>PBK induction is in Founders, right?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-18 18:16:49 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-18 18:53:56 UTC">
+      <body>I'm by the door. 3rd to last row. </body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-05-19 11:44:11 UTC">
+      <body>Do you know if we are indoors or outdoors?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-19 11:47:02 UTC">
+      <body>Indoors</body>
+    </message>
+    <message id="m0005" participant="135266" time="2013-05-19 18:55:30 UTC">
+      <body>on our way </body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-19 19:03:51 UTC">
+      <body>Pull right up to 40s</body>
+    </message>
+    <message id="m0007" participant="135266" time="2013-05-20 11:47:50 UTC">
+      <body>Text me when ypu are up. We'll go to breakfast for you, whatever for me. </body>
+    </message>
+    <message id="m0008" participant="135266" time="2013-05-20 14:04:58 UTC">
+      <body>Are you up yet?</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-05-20 14:05:40 UTC">
+      <body>Just getting up now. I need 30 min. To get ready</body>
+    </message>
+    <message id="m0010" participant="135266" time="2013-05-20 14:06:43 UTC">
+      <body>See you in 30. Happy Birthday!</body>
+    </message>
+    <message id="m0011" participant="135080" time="2013-05-20 14:07:05 UTC">
+      <body>Thanks! :)</body>
+    </message>
+    <message id="m0012" participant="135266" time="2013-05-20 14:45:44 UTC">
+      <body>On campus. Outside Gummere. </body>
+    </message>
+    <message id="m0013" participant="135080" time="2013-05-20 14:46:02 UTC">
+      <body>On my way!</body>
+    </message>
+  </messages>
+</conversation>

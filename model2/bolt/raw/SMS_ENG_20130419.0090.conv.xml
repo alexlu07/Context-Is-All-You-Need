@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0090" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-19 20:03:03 UTC" participant="152734">
+      <body>Hey, how bout if I stop by around 5 or so tomorrow? </body>
+    </message>
+    <message id="m0001" time="2013-04-19 21:24:16 UTC" participant="152842">
+      <body>Works for me :)</body>
+    </message>
+    <message id="m0002" time="2013-04-20 19:36:37 UTC" participant="152734">
+      <body>Probably closer to 530 but I'll head your way, thanks!</body>
+    </message>
+    <message id="m0003" time="2013-04-20 19:37:36 UTC" participant="152842">
+      <body>K. I'll be here. I'm trapped anyway with a 15 page paper to write. :). Your visit will be refreshing! </body>
+    </message>
+  </messages>
+</conversation>
+

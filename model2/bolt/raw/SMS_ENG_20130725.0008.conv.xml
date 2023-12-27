@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131022" time="2013-07-25 12:50:09 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="136461" time="2013-07-25 12:50:09 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="131022" time="2013-07-25 13:30:56 UTC">
+      <body>How are you? :)</body>
+    </message>
+    <message id="m0003" participant="136461" time="2013-07-25 13:30:56 UTC">
+      <body>How're you?</body>
+    </message>
+    <message id="m0004" participant="131022" time="2013-07-25 13:37:16 UTC">
+      <body>Good, enjoying the cool weather today!</body>
+    </message>
+    <message id="m0005" participant="136461" time="2013-07-25 13:37:16 UTC">
+      <body>I'm good!</body>
+    </message>
+    <message id="m0006" participant="136461" time="2013-07-25 13:43:44 UTC">
+      <body>It's so nice compared to how it's been!</body>
+    </message>
+    <message id="m0007" participant="131022" time="2013-07-25 15:35:54 UTC">
+      <body>Indeed! Perfect weather, I can finally sleep haha. Doing anything fun today?</body>
+    </message>
+    <message id="m0008" participant="136461" time="2013-07-25 16:51:55 UTC">
+      <body>Eh, mostly just working! Maybe go to the movies later, it might be too nice outside to be inside though</body>
+    </message>
+    <message id="m0009" participant="131022" time="2013-07-25 17:06:44 UTC">
+      <body>Ah, yeah. Although it should be pretty nice all week! What movie would you see?</body>
+    </message>
+    <message id="m0010" participant="136461" time="2013-07-25 17:40:56 UTC">
+      <body>Red 2? It's some spy movie I never saw the first version of, but I love that kind of totally cheesy spy movie</body>
+    </message>
+    <message id="m0011" participant="131022" time="2013-07-25 17:45:48 UTC">
+      <body>Oh yeah! I liked the first one. Hope it's good, I love those ensemble casts</body>
+    </message>
+    <message id="m0012" participant="136461" time="2013-07-25 18:14:42 UTC">
+      <body>When'd that one come out? Yeah they're the best, have you seen the Italian job?</body>
+    </message>
+    <message id="m0013" participant="131022" time="2013-07-25 18:48:40 UTC">
+      <body>2010 maybe? No I haven't, do you recommend it?</body>
+    </message>
+    <message id="m0014" participant="136461" time="2013-07-25 18:57:05 UTC">
+      <body>Yesss, best movie ever. Same idea, but better. Marky mark, Donald Sutherland, mos def...it's excellent</body>
+    </message>
+    <message id="m0015" participant="131022" time="2013-07-25 18:58:29 UTC">
+      <body>Cool cool ill put it on the list!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2013-04-15 19:56:48 UTC">
+      <body>Thank you for my bday msg AND Why did you ask if I called my mom?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-15 20:02:03 UTC">
+      <body>Just because she living around here. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-15 20:02:09 UTC">
+      <body>Did u guys see the need</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-15 20:02:13 UTC">
+      <body>News</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-15 20:02:23 UTC">
+      <body>Can u tell my mom to call me</body>
+    </message>
+  </messages>
+</conversation>

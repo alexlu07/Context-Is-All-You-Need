@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110930.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-30 15:51:05 UTC">
+      <body>Hi dan! Thank you so much for your patience, help, and generosity with this last trip! Thank you especially for your gift. It means a lot. :) just so you know, I am changing my departure date to thursday the 6th for Philadelphia. I hope that's alright.</body>
+    </message>
+    <message id="m0001" participant="135143" time="2011-09-30 15:55:58 UTC">
+      <body>I'll take a look and get back to you this weekend.  Break a leg!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-30 15:58:30 UTC">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>

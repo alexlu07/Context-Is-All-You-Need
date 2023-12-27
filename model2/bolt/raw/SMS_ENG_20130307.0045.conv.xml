@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-07 22:22:50 UTC">
+      <body>did she ever tell us what the format of the test would be? </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-03-08 03:15:16 UTC">
+      <body>Basically a short story with fill in the blanks, numbers, paste tense and translating sentences</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-08 03:16:00 UTC">
+      <body>oh no. numbers. :( like writing out the word or just the actual numerals? </body>
+    </message>
+    <message id="m0003" participant="136129" time="2013-03-08 03:17:22 UTC">
+      <body>She didn't say and like the grammar rules with numbers so like خمس </body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-08 03:18:33 UTC">
+      <body>okay, thanks! </body>
+    </message>
+    <message id="m0006" participant="136129" time="2013-03-08 03:18:55 UTC">
+      <body>So if the word is feminine the number has to be masculine</body>
+    </message>
+  </messages>
+</conversation>

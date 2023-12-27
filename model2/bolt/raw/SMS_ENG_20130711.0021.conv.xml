@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131059" time="2013-07-11 20:43:04 UTC">
+      <body>Hello! What's up with you?</body>
+    </message>
+    <message id="m0001" participant="130751" time="2013-07-11 22:11:12 UTC">
+      <body>Nothing much just bought a house yesterday! Was busy today getting things prep for painting</body>
+    </message>
+    <message id="m0002" participant="131059" time="2013-07-11 22:58:44 UTC">
+      <body>Wow exciting. Congratulations!</body>
+    </message>
+  </messages>
+</conversation>

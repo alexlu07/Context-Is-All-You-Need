@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-02 15:44:01 UTC" participant="152417">
+      <body>Hey, the mirror costs $50 to replace, it would be really great if you could pay for the replacement
+- gabriel</body>
+    </message>
+    <message id="m0001" time="2013-01-02 20:00:03 UTC" participant="152553">
+      <body>hi gabriel.. i just got your message and your text.  can i give you a call tonight between 8 and 9?  i'm working until 8</body>
+    </message>
+    <message id="m0002" time="2013-01-02 20:00:47 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" time="2013-01-02 20:03:15 UTC" participant="152553">
+      <body>ok great i'll talk to you then</body>
+    </message>
+  </messages>
+</conversation>
+

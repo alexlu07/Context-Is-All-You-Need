@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130722.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-07-22 02:44:22 UTC">
+      <body>Any chance you're out n about? </body>
+    </message>
+    <message id="m0001" participant="137427" time="2013-07-22 03:03:50 UTC">
+      <body>Sadly, I'm in for the evening. Gotta work early tomorrow. You back in town?</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-07-22 03:05:25 UTC">
+      <body>I am! Let me know when you're free :)</body>
+    </message>
+    <message id="m0003" participant="137427" time="2013-07-22 03:07:10 UTC">
+      <body>Yay! My schedule gets a lot freer starting next week. I'll hit you up. Welcome back!</body>
+    </message>
+    <message id="m0004" participant="131838" time="2013-07-22 03:19:19 UTC">
+      <body>Great, thanks! </body>
+    </message>
+  </messages>
+</conversation>

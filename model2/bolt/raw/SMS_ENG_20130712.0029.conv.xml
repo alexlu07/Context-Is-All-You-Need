@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130712.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137311" time="2013-07-12 04:34:19 UTC">
+      <body>Tomorrow we have to leave the house at 12:30 to pick up Maman. OK</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-12 04:54:43 UTC">
+      <body>I</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-07-12 04:54:46 UTC">
+      <body>K*</body>
+    </message>
+  </messages>
+</conversation>

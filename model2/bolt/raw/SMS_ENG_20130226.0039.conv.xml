@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130226.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135461" time="2013-02-26 17:26:26 UTC">
+      <body>sofie are you free at all
+today to help out with an on design project in the grad office?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-26 17:27:11 UTC">
+      <body>I'm sorry.  After Tuesday next week!!!</body>
+    </message>
+    <message id="m0002" participant="135461" time="2013-02-26 17:31:44 UTC">
+      <body>no problem, just checking</body>
+    </message>
+  </messages>
+</conversation>

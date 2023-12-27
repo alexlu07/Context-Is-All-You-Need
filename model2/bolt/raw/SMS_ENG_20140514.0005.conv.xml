@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140514.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-14 20:24:43 UTC" participant="152417">
+      <body>Hey Josh, can you cover my 4 oclock guitar lesson tomorrow? -gabi</body>
+    </message>
+    <message id="m0001" time="2014-05-14 20:30:23 UTC" participant="152649">
+      <body>Sorry man - can't</body>
+    </message>
+  </messages>
+</conversation>
+

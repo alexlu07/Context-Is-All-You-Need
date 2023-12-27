@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150122.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-22 15:25:06 UTC" participant="153262">
+      <body>Hi
+Are you still making fancy cakes?
+I need one for Susie's 13th bday</body>
+    </message>
+    <message id="m0001" time="2015-01-22 18:22:49 UTC" participant="153244">
+      <body>Yea just let me know what you need done</body>
+    </message>
+    <message id="m0002" time="2015-01-22 18:22:59 UTC" participant="153244">
+      <body>And when you need it for</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-22 22:59:26 UTC">
+      <body>hey, did you ever return that black belt you borrowed from me a few weeks ago? i can't find it. </body>
+    </message>
+    <message id="m0001" participant="136146" time="2013-03-22 23:00:18 UTC">
+      <body>It's in my room, do yah need it?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-22 23:00:43 UTC">
+      <body>yeah, can you bring it by the room if you get a chance? no hurry though. </body>
+    </message>
+    <message id="m0003" participant="136146" time="2013-03-22 23:01:20 UTC">
+      <body>Yup I'll bring it down on my way down in fiveish</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-22 23:01:59 UTC">
+      <body>thanks! i'm not home but i'm sure shan is. </body>
+    </message>
+    <message id="m0005" participant="136146" time="2013-03-22 23:02:45 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

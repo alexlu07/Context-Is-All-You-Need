@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2013-05-15 03:33:11 UTC">
+      <body>Helen and I want to buy your fridge for our common room :)</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-15 03:37:34 UTC">
+      <body>Ok :) since there are 2 of you is $40 okay? If you are staying until Sunday can I give it to you Saturday?</body>
+    </message>
+    <message id="m0002" participant="135267" time="2013-05-15 14:21:30 UTC">
+      <body>Yes and yes!</body>
+    </message>
+  </messages>
+</conversation>

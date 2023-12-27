@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130630.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-30 00:20:09 UTC">
+      <body>Hey Ashley. U work off those tots?</body>
+    </message>
+    <message id="m0001" participant="135631" time="2013-06-30 00:26:14 UTC">
+      <body>Haha lets hope!</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-30 00:35:37 UTC">
+      <body>What r u up to tonight</body>
+    </message>
+    <message id="m0003" participant="135631" time="2013-06-30 00:39:54 UTC">
+      <body>Out to dinner! You?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-30 00:48:17 UTC">
+      <body>I'm just got done visiting a friend. u on a date?</body>
+    </message>
+    <message id="m0005" participant="135631" time="2013-06-30 00:55:51 UTC">
+      <body>Ha no I'm with my roommate</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-30 01:04:01 UTC">
+      <body>U doin anything else tonight</body>
+    </message>
+    <message id="m0007" participant="135631" time="2013-06-30 01:20:30 UTC">
+      <body>I think just laying low actually. I had a rough night last night. </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-30 01:22:32 UTC">
+      <body>I see. Well enjoy the rest of Ur dinner then</body>
+    </message>
+    <message id="m0009" participant="135631" time="2013-06-30 01:28:11 UTC">
+      <body>Thanks you too!</body>
+    </message>
+  </messages>
+</conversation>

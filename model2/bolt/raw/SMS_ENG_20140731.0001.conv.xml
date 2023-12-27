@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140731.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-31 01:49:31 UTC" participant="152658">
+      <body>Hey, it's Dan. Just checking in. Are you getting back tonight?</body>
+    </message>
+    <message id="m0001" time="2014-07-31 01:51:23 UTC" participant="152417">
+      <body>Ria is on her way there.  Thanks again for watching simone, i can pay you the rest on saturday.  </body>
+    </message>
+    <message id="m0002" time="2014-07-31 02:03:03 UTC" participant="152658">
+      <body>Cool, sounds good. It was fun. I'm going to take her out in the yard before I head. I'd do a longer walk but tweaked my back. She's gotten good exercise today.</body>
+    </message>
+  </messages>
+</conversation>
+

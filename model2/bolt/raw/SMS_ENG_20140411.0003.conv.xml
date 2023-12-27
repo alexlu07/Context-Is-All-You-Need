@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 20:08:57 UTC" participant="152417">
+      <body>Citizen cider has a grand opening tonight i think if you wanna check out their new space on pine st</body>
+    </message>
+    <message id="m0001" time="2014-04-11 20:22:32 UTC" participant="152417">
+      <body>O nevermind, thats tomorrow night.  Im down to go out for a beer tonight or tomorrow, which ever works for you</body>
+    </message>
+    <message id="m0002" time="2014-04-11 21:09:20 UTC" participant="152535">
+      <body>Lets do tomorrow. Id love me some cider. Thanks for letting me know! I should be good to go round 7. </body>
+    </message>
+  </messages>
+</conversation>
+

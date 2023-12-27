@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135360" time="2013-01-02 19:28:02 UTC">
+      <body>Wazzup sofie?? Im hangin w parisi</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-02 19:31:23 UTC">
+      <body>Yay!!! Hi Parisi!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-02 19:31:50 UTC">
+      <body>I'm at target what are your plans around six thirty </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-02 19:33:03 UTC">
+      <body>Or more importantly what is your plan? Will you be hanging out in a few hours. </body>
+    </message>
+    <message id="m0004" participant="135360" time="2013-01-02 19:34:30 UTC">
+      <body>Yeah, for sure! Just hit me up, well be around</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-03 00:59:19 UTC">
+      <body>What's your address kiddo</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-03 00:59:29 UTC">
+      <body>I'm coming to join</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-01-03 00:59:36 UTC">
+      <body>!!!!</body>
+    </message>
+  </messages>
+</conversation>

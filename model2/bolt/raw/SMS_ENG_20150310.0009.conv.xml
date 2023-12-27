@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150310.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-10 19:22:49 UTC" participant="153244">
+      <body>Hey, im working on the prices. I need a few more details... what flavor cake?  And if you do cupcakes too, how many cupcakes? </body>
+    </message>
+    <message id="m0001" time="2015-03-10 19:24:32 UTC" participant="153263">
+      <body>Could we do 1 layer vanilla n 1 chocolate?  Im thinking maybe 2 dozen cupcakes.  This was the cake itself doesnt need to be huge</body>
+    </message>
+    <message id="m0002" time="2015-03-10 19:25:31 UTC" participant="153244">
+      <body>Yea I can do one tier choc and the other yellow.. does it matter which order?</body>
+    </message>
+  </messages>
+</conversation>
+

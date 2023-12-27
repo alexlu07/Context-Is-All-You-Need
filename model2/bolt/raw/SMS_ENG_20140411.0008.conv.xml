@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 14:30:33 UTC" participant="153547">
+      <body>Hey Matt. I'm gonna verify my measurements at your place, and go get a quote from guida. I should be able to do it from outside without interrupting you</body>
+    </message>
+    <message id="m0001" time="2014-04-11 14:31:14 UTC" participant="153587">
+      <body>Cool, thank you very much</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140131.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-31 17:51:22 UTC" participant="153445">
+      <body>Happy new year John!  </body>
+    </message>
+    <message id="m0001" time="2014-01-31 18:16:07 UTC" participant="153418">
+      <body>Happy new year~</body>
+    </message>
+    <message id="m0002" time="2014-01-31 18:19:09 UTC" participant="153445">
+      <body>Thanks! Are you coming back this weekend? </body>
+    </message>
+    <message id="m0003" time="2014-01-31 18:19:40 UTC" participant="153418">
+      <body>Afraid not. Next weekend though.</body>
+    </message>
+    <message id="m0004" time="2014-01-31 18:22:03 UTC" participant="153445">
+      <body>Ahhhhh ok. I won't be here next weekend. But it's good to see the family</body>
+    </message>
+    <message id="m0005" time="2014-01-31 18:22:30 UTC" participant="153418">
+      <body>Where are you going next weekend?</body>
+    </message>
+    <message id="m0006" time="2014-01-31 18:24:57 UTC" participant="153445">
+      <body>Going to Florida with a few friends haha</body>
+    </message>
+    <message id="m0007" time="2014-01-31 18:25:19 UTC" participant="153418">
+      <body>Ah. Have fun. </body>
+    </message>
+    <message id="m0008" time="2014-01-31 18:26:09 UTC" participant="153445">
+      <body>Yeah a little warmer. Thanks</body>
+    </message>
+    <message id="m0009" time="2014-01-31 18:27:01 UTC" participant="153445">
+      <body>You like your job so far? </body>
+    </message>
+    <message id="m0010" time="2014-01-31 18:28:02 UTC" participant="153418">
+      <body>It's all right. I've gotten used to it. Could be better. :p</body>
+    </message>
+    <message id="m0011" time="2014-01-31 18:28:11 UTC" participant="153418">
+      <body>Do you graduate next year?</body>
+    </message>
+    <message id="m0012" time="2014-01-31 18:31:16 UTC" participant="153445">
+      <body>Yeah good. Hopefully it'll get better as the year goes along. Learn something new everyday</body>
+    </message>
+    <message id="m0013" time="2014-01-31 18:31:26 UTC" participant="153445">
+      <body>Yeah 2015, summer</body>
+    </message>
+  </messages>
+</conversation>
+

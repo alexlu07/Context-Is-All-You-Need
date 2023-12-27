@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131508" time="2013-01-19 02:35:44 UTC">
+      <body>Chillin watching tv </body>
+    </message>
+    <message id="m0001" participant="131508" time="2013-01-19 02:36:02 UTC">
+      <body>Jack has woken up twice</body>
+    </message>
+    <message id="m0002" participant="131508" time="2013-01-19 02:36:30 UTC">
+      <body>He's asleep now. Are you having fun?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-19 02:39:27 UTC">
+      <body>Think you got the wrong recipient!</body>
+    </message>
+    <message id="m0004" participant="131508" time="2013-01-19 02:40:00 UTC">
+      <body>Haha sorry Sam. I hope your doing well</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-01-19 02:41:03 UTC">
+      <body>Yeah, about to go running. Gillian out and about?</body>
+    </message>
+    <message id="m0006" participant="131508" time="2013-01-19 02:41:42 UTC">
+      <body>She out with some girls. </body>
+    </message>
+    <message id="m0007" participant="131508" time="2013-01-19 02:42:08 UTC">
+      <body>The bottle of wine you gave is safe in the bar and waiting for a special occasion. Thank you</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-01-19 02:43:31 UTC">
+      <body>We gave a bottle of wine?</body>
+    </message>
+    <message id="m0009" participant="131508" time="2013-01-19 02:44:14 UTC">
+      <body>Haha that was meant for my other friend Sam. I'm struggling tonight</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-01-19 02:44:40 UTC">
+      <body>Sure that bottle's safe?</body>
+    </message>
+    <message id="m0011" participant="131508" time="2013-01-19 02:45:12 UTC">
+      <body>Haha are you running outside or at the gym?</body>
+    </message>
+    <message id="m0012" participant="130706" time="2013-01-19 03:00:16 UTC">
+      <body>Outside, Kathy's the only one with the membership.</body>
+    </message>
+    <message id="m0013" participant="130706" time="2013-01-19 03:00:34 UTC">
+      <body>Time to go, it's cold!</body>
+    </message>
+  </messages>
+</conversation>

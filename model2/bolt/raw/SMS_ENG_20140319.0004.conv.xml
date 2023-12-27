@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140319.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-19 11:30:45 UTC" participant="153547">
+      <body>I had to go to bank so I left early. I'm outside. Can u let me in if you're gonna be a while?</body>
+    </message>
+    <message id="m0001" time="2014-03-19 22:37:37 UTC" participant="153547">
+      <body>Hey, reply to this when u get it. It is 637pm . I just got your messages from this morning</body>
+    </message>
+    <message id="m0002" time="2014-03-19 23:23:28 UTC" participant="149372">
+      <body>Got it. These foam guns are a bitch to clean. Gotta make sure they don't get left open. </body>
+    </message>
+    <message id="m0003" time="2014-03-19 23:23:44 UTC" participant="149372">
+      <body>It says I got at 6:37. Just didn't hear it. </body>
+    </message>
+    <message id="m0004" time="2014-03-19 23:24:31 UTC" participant="153547">
+      <body>Ok I will make it a point to be diligent . Did u just get this? It is 724pm</body>
+    </message>
+    <message id="m0005" time="2014-03-19 23:25:54 UTC" participant="153547">
+      <body>Ok seems to be working now. </body>
+    </message>
+    <message id="m0006" time="2014-03-20 11:19:39 UTC" participant="153547">
+      <body>Outside</body>
+    </message>
+    <message id="m0007" time="2014-03-20 11:20:32 UTC" participant="149372">
+      <body>2 min</body>
+    </message>
+  </messages>
+</conversation>
+

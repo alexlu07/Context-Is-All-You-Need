@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136272" time="2012-10-12 01:33:52 UTC">
+      <body>The eternal wait at Marta for a bus...</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-12 02:30:45 UTC">
+      <body>Marta actually never comes. Ever. </body>
+    </message>
+    <message id="m0002" participant="136272" time="2012-10-12 02:36:07 UTC">
+      <body>And yet I have returned. It is curious</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-12 03:10:10 UTC">
+      <body>Are you staying for fall break</body>
+    </message>
+    <message id="m0004" participant="136272" time="2012-10-12 11:39:47 UTC">
+      <body>No I'll be in Chicago Friday night through Sunday afternoon and then gone from Sunday night to Tuesday morning</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-12 12:33:04 UTC">
+      <body>Ah ok. We will have to hang out when you get back. I haven't seen you in like two weeks</body>
+    </message>
+    <message id="m0006" participant="136272" time="2012-10-12 12:36:01 UTC">
+      <body>Yeah definitely. I'll try to bring back a multiplayer GameCube game</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-10-12 12:39:12 UTC">
+      <body> NICE</body>
+    </message>
+    <message id="m0008" participant="136272" time="2012-10-12 12:41:08 UTC">
+      <body>Ha yeah we'll see if I have any left. I'm for sure bringing the first two paper Marios, so I'm set</body>
+    </message>
+  </messages>
+</conversation>

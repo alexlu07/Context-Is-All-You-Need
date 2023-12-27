@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140514.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-14 15:23:03 UTC" participant="152560">
+      <body>Need anything at the grocery store?
+</body>
+    </message>
+    <message id="m0001" time="2014-05-14 16:10:40 UTC" participant="152560">
+      <body>I grabbed you some bread and pizzas-and the usual stuff for the house. See you tonight!</body>
+    </message>
+    <message id="m0002" time="2014-05-14 16:48:25 UTC" participant="152417">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

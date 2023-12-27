@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20101111.0000" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" time="2010-11-11 15:20:46 UTC" participant="153901">
+      <body>working today?</body>
+    </message>
+    <message id="m0001" time="2010-11-11 15:38:10 UTC" participant="153910">
+      <body>yep</body>
+    </message>
+    <message id="m0002" time="2010-11-11 15:38:15 UTC" participant="153910">
+      <body>unfortunately</body>
+    </message>
+    <message id="m0003" time="2010-11-11 15:38:19 UTC" participant="153910">
+      <body>are you?</body>
+    </message>
+  </messages>
+</conversation>
+

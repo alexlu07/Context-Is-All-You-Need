@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140116.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-16 23:04:41 UTC" participant="153547">
+      <body>When do you get back? Please email your itinerary </body>
+    </message>
+    <message id="m0001" time="2014-01-16 23:07:11 UTC" participant="153557">
+      <body>Hey! I'm expected back in philly around 10:30 am. If i get through customs by 12, I'm going to take a cab home, shower and then have to be back at the airport by 4:30 pm.</body>
+    </message>
+    <message id="m0002" time="2014-01-16 23:07:36 UTC" participant="153557">
+      <body>My flight for Utah leaves at 6 pm.</body>
+    </message>
+    <message id="m0003" time="2014-01-16 23:17:20 UTC" participant="153557">
+      <body>Just sent the itinerary. I won't have a phone or internet until I land</body>
+    </message>
+    <message id="m0004" time="2014-01-16 23:17:20 UTC" participant="153557">
+      <body>So you will have to check the flight status of each</body>
+    </message>
+    <message id="m0005" time="2014-01-16 23:18:40 UTC" participant="153557">
+      <body>Ps. 10:30 am SATURDAY</body>
+    </message>
+    <message id="m0006" time="2014-01-17 13:53:24 UTC" participant="153557">
+      <body>Hi! Did the business cards come!</body>
+    </message>
+    <message id="m0007" time="2014-01-17 13:54:04 UTC" participant="153547">
+      <body>Yeah I think so</body>
+    </message>
+    <message id="m0008" time="2014-01-17 14:00:22 UTC" participant="153557">
+      <body>Yes! </body>
+    </message>
+    <message id="m0009" time="2014-01-17 14:00:22 UTC" participant="153557">
+      <body>How are your hands?</body>
+    </message>
+    <message id="m0010" time="2014-01-17 21:05:04 UTC" participant="153557">
+      <body>Heading to airport now!</body>
+    </message>
+  </messages>
+</conversation>
+

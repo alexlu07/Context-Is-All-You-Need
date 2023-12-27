@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-07-08 17:25:50 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-07-08 18:08:57 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-08 18:16:00 UTC">
+      <body>Sj mean south jerz?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-09 08:40:49 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-07-09 09:26:07 UTC">
+      <body>Hey there</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-07-09 09:44:53 UTC">
+      <body>so where are u from?</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-07-09 09:48:49 UTC">
+      <body>Philly. U</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-07-09 09:56:08 UTC">
+      <body>same. U originally from here?</body>
+    </message>
+    <message id="m0009" participant="130693" time="2013-07-09 10:06:10 UTC">
+      <body>Yup yup</body>
+    </message>
+    <message id="m0010" participant="130693" time="2013-07-09 10:06:10 UTC">
+      <body>U</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-07-09 10:12:11 UTC">
+      <body>I'm from Norristown but I've been in Philly for awhile</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150216.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-16 16:38:05 UTC" participant="153804">
+      <body>FYI,just so you know will be doing your Auburn rite aid tomorrow 2/17</body>
+    </message>
+    <message id="m0001" time="2015-02-16 19:38:52 UTC" participant="153821">
+      <body>Thanks</body>
+    </message>
+    <message id="m0002" time="2015-02-16 23:13:27 UTC" participant="153804">
+      <body>They just had a spot on channel 9 news about the guy that makes the bowties made in Central New York and it's pretty cool</body>
+    </message>
+    <message id="m0003" time="2015-02-16 23:14:10 UTC" participant="153804">
+      <body>you might be able to see it online guess it would be ABC</body>
+    </message>
+    <message id="m0004" time="2015-02-17 00:13:48 UTC" participant="153821">
+      <body>OK thanks I'll check it out</body>
+    </message>
+  </messages>
+</conversation>
+

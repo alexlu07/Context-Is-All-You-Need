@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120708.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131028" time="2012-07-08 21:47:41 UTC">
+      <body>We skyping soon?</body>
+    </message>
+    <message id="m0001" participant="131028" time="2012-07-08 21:50:45 UTC">
+      <body>Oh wait we're skyping at 5!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-07-08 22:06:10 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-07-08 22:07:38 UTC">
+      <body>But I'm free now if you want</body>
+    </message>
+    <message id="m0004" participant="131028" time="2012-07-08 22:12:34 UTC">
+      <body>Cool how about in 10 min?</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-07-08 22:12:53 UTC">
+      <body>Perfect!</body>
+    </message>
+  </messages>
+</conversation>

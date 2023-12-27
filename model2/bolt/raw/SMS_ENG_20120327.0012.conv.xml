@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120327.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-03-27 18:45:46 UTC">
+      <body>Hey Casey, what's your shoe size? I'm in Chinatown now getting you a robe and slippers</body>
+    </message>
+    <message id="m0001" participant="131331" time="2012-03-27 18:46:24 UTC">
+      <body>10, 10 1/2</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-03-27 18:46:45 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-03-27 18:53:21 UTC">
+      <body>Also before I get the robe, it's a large and it's pretty big on me. I'm 6ft 200lbs. This should fit fine on you?</body>
+    </message>
+    <message id="m0004" participant="131331" time="2012-03-27 18:54:56 UTC">
+      <body>I'm 5'11" 250, big in the chest</body>
+    </message>
+    <message id="m0005" participant="131331" time="2012-03-28 03:56:21 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

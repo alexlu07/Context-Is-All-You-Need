@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2012-12-27 18:07:53 UTC">
+      <body>Dinner tonight?   What time?  Carnitas, tamales, cuban black beans.  Might invite Kay and Kit to join is, if ok with you.  RSVP</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-27 19:11:55 UTC">
+      <body>Canceling re dinner tonight. Thanks for the invite!!</body>
+    </message>
+    <message id="m0002" participant="131505" time="2012-12-27 19:15:07 UTC">
+      <body>Ok.  What brand dog food?  Can i keep Aethel a few more days? </body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-27 19:17:14 UTC">
+      <body>Innova EVO - either fish or poultry. NOT RED MEAT (stinky farts)</body>
+    </message>
+  </messages>
+</conversation>

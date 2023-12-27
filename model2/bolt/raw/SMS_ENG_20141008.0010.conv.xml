@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141008.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-08 22:00:07 UTC" participant="152644">
+      <body>Still on for tonight?</body>
+    </message>
+    <message id="m0001" time="2014-10-08 22:00:32 UTC" participant="152417">
+      <body>clark que si! Is dan in? My mom’s phd student who I met in Spain is coming too</body>
+    </message>
+    <message id="m0002" time="2014-10-08 22:00:32 UTC" participant="152644">
+      <body>Dan is sickish, so he's out. Spanish speakers unite!</body>
+    </message>
+    <message id="m0003" time="2014-10-08 22:02:12 UTC" participant="152644">
+      <body>I'm gonna eat dinner here, and plan to get there at 8</body>
+    </message>
+    <message id="m0004" time="2014-10-08 22:02:26 UTC" participant="152644">
+      <body>Sound good?</body>
+    </message>
+    <message id="m0005" time="2014-10-08 22:06:56 UTC" participant="152417">
+      <body>perfect</body>
+    </message>
+  </messages>
+</conversation>
+

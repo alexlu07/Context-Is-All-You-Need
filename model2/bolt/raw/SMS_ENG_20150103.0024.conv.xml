@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150103.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-03 19:13:20 UTC" participant="153804">
+      <body>Do you or Pat know where we can buy a couple bales of hay?</body>
+    </message>
+    <message id="m0001" time="2015-01-03 19:14:12 UTC" participant="153804">
+      <body>Looking to put hay in Sansa's dog house</body>
+    </message>
+    <message id="m0002" time="2015-01-03 19:18:05 UTC" participant="153815">
+      <body>I will ask Pat when he gets home. He went to a friends house to watch the game.</body>
+    </message>
+    <message id="m0003" time="2015-01-03 19:19:15 UTC" participant="153804">
+      <body>thanks</body>
+    </message>
+    <message id="m0004" time="2015-01-04 14:50:28 UTC" participant="153804">
+      <body>When I take my walk this morning I will drop off manual for you to look over just to see the components of the wall for Revlon/Almay</body>
+    </message>
+    <message id="m0005" time="2015-01-04 14:51:25 UTC" participant="153804">
+      <body>Did you get an email from Revlon yet?</body>
+    </message>
+    <message id="m0006" time="2015-01-04 16:58:00 UTC" participant="153815">
+      <body>No I havent rcvd anything yet. Did you go for your walk yet?</body>
+    </message>
+  </messages>
+</conversation>
+

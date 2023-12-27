@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120403.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-04-03 19:19:55 UTC">
+      <body>Ill call when I can</body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-04-03 19:20:32 UTC">
+      <body>On skype now. Talk later?</body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-04-03 19:20:32 UTC">
+      <body>Ok. Sorry. Producers calling. Deadline. </body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-04-03 22:24:00 UTC">
+      <body>At work now. ;(</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-04-03 22:30:24 UTC">
+      <body>Lets talk tonight. </body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-04-03 23:06:40 UTC">
+      <body>Oki dok. </body>
+    </message>
+    <message id="m0006" participant="131019" time="2012-04-03 23:07:25 UTC">
+      <body>Okay call when you're off</body>
+    </message>
+    <message id="m0007" participant="131019" time="2012-04-04 06:28:52 UTC">
+      <body>Call u in a minute</body>
+    </message>
+    <message id="m0008" participant="131064" time="2012-04-04 06:30:24 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0009" participant="131019" time="2012-04-04 23:28:17 UTC">
+      <body>When do I get my tax return btw?</body>
+    </message>
+    <message id="m0010" participant="131019" time="2012-04-04 23:31:30 UTC">
+      <body>Also can you send me the money before 1 tmrw?</body>
+    </message>
+    <message id="m0011" participant="131064" time="2012-04-04 23:36:32 UTC">
+      <body>When we get the rtrn then u will. </body>
+    </message>
+    <message id="m0012" participant="131019" time="2012-04-04 23:37:00 UTC">
+      <body>Okay </body>
+    </message>
+  </messages>
+</conversation>

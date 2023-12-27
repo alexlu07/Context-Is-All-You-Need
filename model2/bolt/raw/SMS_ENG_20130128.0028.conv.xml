@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130128.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134277" time="2013-01-28 21:54:10 UTC">
+      <body>Still on for tomorrow?</body>
+    </message>
+    <message id="m0001" participant="134277" time="2013-01-28 21:54:24 UTC">
+      <body>What time?  Where?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-01-28 21:55:07 UTC">
+      <body>Yeah. Let's plan on 630ish at ye old ale house. </body>
+    </message>
+    <message id="m0003" participant="134277" time="2013-01-28 21:55:36 UTC">
+      <body>Ok. Sounds like a plan.</body>
+    </message>
+  </messages>
+</conversation>

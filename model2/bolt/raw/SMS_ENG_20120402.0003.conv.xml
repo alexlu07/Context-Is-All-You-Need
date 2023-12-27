@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120402.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-04-02 19:07:42 UTC">
+      <body>It was a different package not from you</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-04-02 19:09:52 UTC">
+      <body>Ugh.  I'm going to have to call them :(</body>
+    </message>
+  </messages>
+</conversation>

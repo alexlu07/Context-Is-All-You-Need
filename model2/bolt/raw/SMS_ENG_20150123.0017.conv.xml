@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 15:17:06 UTC" participant="153418">
+      <body>Status? </body>
+    </message>
+    <message id="m0001" time="2015-01-23 15:17:53 UTC" participant="153458">
+      <body> they aren't done with the car. I guess let's just go to work</body>
+    </message>
+    <message id="m0002" time="2015-01-23 15:18:40 UTC" participant="153418">
+      <body>Not gonna be done at all today? </body>
+    </message>
+    <message id="m0003" time="2015-01-23 15:19:21 UTC" participant="153458">
+      <body>Let me ask</body>
+    </message>
+    <message id="m0004" time="2015-01-23 15:26:57 UTC" participant="153458">
+      <body>My life for an excuse to get picked up at eleven thirty lol but I guess we should go</body>
+    </message>
+    <message id="m0005" time="2015-01-23 15:27:41 UTC" participant="153418">
+      <body>I'll be a bit late today, so you can chill out for a bit.</body>
+    </message>
+    <message id="m0006" time="2015-01-23 15:28:54 UTC" participant="153458">
+      <body>Like till when. Can I snooze for twenty?</body>
+    </message>
+    <message id="m0007" time="2015-01-23 15:29:15 UTC" participant="153418">
+      <body>Yeah, go ahead.</body>
+    </message>
+  </messages>
+</conversation>
+

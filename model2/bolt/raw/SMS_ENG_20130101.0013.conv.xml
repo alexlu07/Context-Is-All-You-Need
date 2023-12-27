@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130101.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-01-01 04:01:01 UTC">
+      <body>Happy Anniversary to you and #####!!! And Happy New Year! Just got back to ######...let's Skype ASAP.</body>
+    </message>
+    <message id="m0001" participant="131028" time="2013-01-01 05:39:13 UTC">
+      <body>Yes please!! Happy new year xoxo talk Sunday?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-01 20:45:57 UTC">
+      <body>Sunday should work! As long as we're done by 5pm Pacific.</body>
+    </message>
+    <message id="m0003" participant="131028" time="2013-01-02 03:13:46 UTC">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0004" participant="131028" time="2013-01-02 03:14:43 UTC">
+      <body>How about 10 am pacific?</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-01-02 21:53:04 UTC">
+      <body>Whoops, forgot to reply! Yes! That's perfect.</body>
+    </message>
+  </messages>
+</conversation>

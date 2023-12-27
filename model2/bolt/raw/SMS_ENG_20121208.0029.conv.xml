@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-08 02:21:05 UTC">
+      <body>Hey Ben when does the party start? Also do we need more alcohol?</body>
+    </message>
+    <message id="m0001" participant="136284" time="2012-12-08 02:22:19 UTC">
+      <body>Aight so Dante is point on this exec is giving a little gift, but more probably wouldn't hurt. Talk to Israel or Dante.</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-08 02:25:33 UTC">
+      <body>Ok I have some I need to get rid of. I'll bring it</body>
+    </message>
+  </messages>
+</conversation>

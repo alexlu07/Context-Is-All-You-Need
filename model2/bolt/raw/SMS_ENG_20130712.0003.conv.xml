@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130712.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131839" time="2013-07-12 11:50:15 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="130677" time="2013-07-12 11:52:22 UTC">
+      <body>Hi happy Friday!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2013-07-12 11:56:22 UTC">
+      <body>Happy Friday indeed!</body>
+    </message>
+    <message id="m0003" participant="130677" time="2013-07-12 12:00:13 UTC">
+      <body>Big plans for the weekend?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2013-07-12 12:33:07 UTC">
+      <body>Work! Lots of work.</body>
+    </message>
+    <message id="m0005" participant="130677" time="2013-07-12 12:37:36 UTC">
+      <body>No! That's sad. It's time to escape work for the weekend!</body>
+    </message>
+    <message id="m0006" participant="131839" time="2013-07-12 12:54:24 UTC">
+      <body>Yea, I get to have my fun during the week so I don't mind it too much! You? Big plans?</body>
+    </message>
+    <message id="m0007" participant="130677" time="2013-07-12 13:32:02 UTC">
+      <body>Ah! Makes sense. Not too much planned. Going antique shopping tomorrow.</body>
+    </message>
+  </messages>
+</conversation>

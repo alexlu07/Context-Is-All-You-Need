@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130630" time="2013-06-08 14:56:38 UTC">
+      <body>Heya gubyop! How goes?</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-06-08 15:00:04 UTC">
+      <body>Hey there. You are the bloger?</body>
+    </message>
+    <message id="m0002" participant="130630" time="2013-06-08 15:01:04 UTC">
+      <body>Yes, that's me</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-06-08 15:03:22 UTC">
+      <body>I have not looked at your site. One of my things to do.</body>
+    </message>
+    <message id="m0004" participant="130630" time="2013-06-08 15:04:06 UTC">
+      <body>Oh, it's not required:)</body>
+    </message>
+    <message id="m0005" participant="131218" time="2013-06-08 15:07:58 UTC">
+      <body>Oh really? Thats a huge relief!</body>
+    </message>
+    <message id="m0006" participant="130630" time="2013-06-08 15:08:51 UTC">
+      <body>LOL!</body>
+    </message>
+    <message id="m0007" participant="130630" time="2013-06-08 15:08:56 UTC">
+      <body>On way to a family party</body>
+    </message>
+    <message id="m0008" participant="131218" time="2013-06-08 17:17:37 UTC">
+      <body>Dont forget the bean dip.</body>
+    </message>
+    <message id="m0009" participant="131218" time="2013-06-09 11:16:01 UTC">
+      <body>How was the party?</body>
+    </message>
+    <message id="m0010" participant="130630" time="2013-06-09 13:27:17 UTC">
+      <body>Was good</body>
+    </message>
+    <message id="m0011" participant="130630" time="2013-06-09 13:27:22 UTC">
+      <body>How goes?</body>
+    </message>
+  </messages>
+</conversation>

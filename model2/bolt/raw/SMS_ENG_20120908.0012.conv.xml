@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-09-08 04:05:20 UTC">
+      <body>You called?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-09-08 19:48:16 UTC">
+      <body>Sorry - in a board mtg today.</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-09-08 19:50:17 UTC">
+      <body>It's cool just walking</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-09-09 04:20:16 UTC">
+      <body>I'm home now if you need anything</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-09-10 03:41:52 UTC">
+      <body>Are u at practice?</body>
+    </message>
+  </messages>
+</conversation>

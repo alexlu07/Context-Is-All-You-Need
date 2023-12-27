@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-24 13:54:47 UTC" participant="152120">
+      <body>Hey. How should I send you the graduation pictures?</body>
+    </message>
+    <message id="m0001" time="2013-06-24 19:14:37 UTC" participant="153418">
+      <body>Uh...AIM?</body>
+    </message>
+    <message id="m0002" time="2013-06-24 19:15:18 UTC" participant="152120">
+      <body>I don't use that anymore.</body>
+    </message>
+    <message id="m0003" time="2013-06-24 20:08:34 UTC" participant="153418">
+      <body>What do you use?</body>
+    </message>
+    <message id="m0004" time="2013-06-24 20:11:53 UTC" participant="152120">
+      <body>Nothing? Lol</body>
+    </message>
+    <message id="m0005" time="2013-06-24 20:14:05 UTC" participant="153418">
+      <body>I'll pick them up in person sometime then.</body>
+    </message>
+    <message id="m0006" time="2013-06-24 20:16:24 UTC" participant="152120">
+      <body>MML</body>
+    </message>
+    <message id="m0007" time="2013-06-24 20:16:34 UTC" participant="152120">
+      <body>Mmk*</body>
+    </message>
+  </messages>
+</conversation>
+

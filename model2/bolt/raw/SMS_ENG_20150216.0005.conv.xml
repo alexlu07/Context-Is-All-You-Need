@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150216.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-16 23:21:44 UTC" participant="152249">
+      <body>If you get a return label for something I ordered, don't bother sending it to me because I had the form forwarded to my email address. 
+TBBWoC</body>
+    </message>
+    <message id="m0001" time="2015-02-16 23:41:22 UTC" participant="152212">
+      <body>Gpa how do you do bold?</body>
+    </message>
+    <message id="m0002" time="2015-02-16 23:42:56 UTC" participant="152249">
+      <body>By putting part of the message in the subject field.
+CAUTION: if you only write in the Subject field but not in the Text field, message cannot be sent</body>
+    </message>
+    <message id="m0003" time="2015-02-16 23:48:50 UTC" participant="152212">
+      <body>CAUTION: I love you</body>
+    </message>
+    <message id="m0004" time="2015-02-16 23:49:09 UTC" participant="152212">
+      <body>Hmmm where is the subject field </body>
+    </message>
+    <message id="m0005" time="2015-02-16 23:53:14 UTC" participant="152249">
+      <body>On top of the Message field</body>
+    </message>
+  </messages>
+</conversation>
+

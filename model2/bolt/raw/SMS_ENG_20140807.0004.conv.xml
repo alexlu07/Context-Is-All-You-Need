@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140807.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-07 21:50:23 UTC" participant="152734">
+      <body>Teaching tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-08-08 00:09:09 UTC" participant="153298">
+      <body>Yes, does any time 3 on work for you? </body>
+    </message>
+    <message id="m0002" time="2014-08-08 01:04:15 UTC" participant="152734">
+      <body>Yup! I'm free, when's best for you? </body>
+    </message>
+    <message id="m0003" time="2014-08-08 19:03:13 UTC" participant="152734">
+      <body>Hey tan, should I start warming up?</body>
+    </message>
+  </messages>
+</conversation>
+

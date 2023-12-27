@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-25 00:50:22 UTC">
+      <body>got money for you.</body>
+    </message>
+    <message id="m0001" participant="131367" time="2013-02-25 03:31:05 UTC">
+      <body>Horray</body>
+    </message>
+    <message id="m0002" participant="131367" time="2013-02-25 03:31:12 UTC">
+      <body>Tomorrow?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-25 04:09:10 UTC">
+      <body>yep.</body>
+    </message>
+    <message id="m0004" participant="131367" time="2013-02-25 21:07:56 UTC">
+      <body>Yo</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-02-25 21:09:05 UTC">
+      <body>yo. what's shakin', man?</body>
+    </message>
+    <message id="m0006" participant="131367" time="2013-02-25 21:11:58 UTC">
+      <body>Workin. Tomorrow works better for me. What about you?</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-02-25 21:13:21 UTC">
+      <body>cool with me.</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-02-25 21:13:50 UTC">
+      <body>lemme know when's good.</body>
+    </message>
+    <message id="m0009" participant="131367" time="2013-02-25 21:44:46 UTC">
+      <body>Ok.. If you come to my place, I'll make you lunch and we could play a lil guitar.</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-02-25 22:08:20 UTC">
+      <body>sounds good.
+i'll confirm in the morning - gotta take care of some stuff in the am.</body>
+    </message>
+    <message id="m0011" participant="131367" time="2013-02-25 22:09:09 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" participant="131367" time="2013-02-26 20:45:55 UTC">
+      <body>You still coming?</body>
+    </message>
+    <message id="m0013" participant="131350" time="2013-02-26 21:30:03 UTC">
+      <body>total chaos day.
+working. noho.
+maybe later or tomorrow?</body>
+    </message>
+    <message id="m0014" participant="131367" time="2013-02-26 22:51:19 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0015" participant="131367" time="2013-02-26 22:51:31 UTC">
+      <body>I'm in valley Thursday</body>
+    </message>
+    <message id="m0016" participant="131350" time="2013-02-26 23:31:13 UTC">
+      <body>when's good thursday?</body>
+    </message>
+    <message id="m0017" participant="131367" time="2013-02-26 23:32:10 UTC">
+      <body>I'll be rolling through about 3</body>
+    </message>
+    <message id="m0018" participant="131367" time="2013-02-26 23:32:22 UTC">
+      <body>Gotta be at the galleria at 4</body>
+    </message>
+  </messages>
+</conversation>

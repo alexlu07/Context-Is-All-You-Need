@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120512.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2012-05-12 03:54:40 UTC">
+      <body>Scott's coming to Barbary! Are you too?? Super fun here. Come!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-05-12 05:00:11 UTC">
+      <body>We went upstairs!</body>
+    </message>
+    <message id="m0002" participant="135140" time="2012-05-12 05:00:48 UTC">
+      <body>Ok great!! </body>
+    </message>
+    <message id="m0003" participant="135140" time="2012-05-12 22:00:32 UTC">
+      <body>Thank you for coming out last night!! I had a ton of fun, hope you did too.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140824.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-24 16:28:07 UTC" participant="152115">
+      <body>We're here.</body>
+    </message>
+    <message id="m0001" time="2014-08-24 16:30:47 UTC" participant="152117">
+      <body>Ok. Love you! Have fun! Call when your leaving! Love mom</body>
+    </message>
+    <message id="m0002" time="2014-08-24 21:21:27 UTC" participant="152117">
+      <body>We are leaving todd's now. Be home within the hour. Are you still at the shore?</body>
+    </message>
+    <message id="m0003" time="2014-08-24 21:43:27 UTC" participant="152117">
+      <body>Are u still there on on your way home? Let me know. Love you!!!</body>
+    </message>
+    <message id="m0004" time="2014-08-24 23:43:01 UTC" participant="152115">
+      <body>We're going to eat at el jarocho. Be home in a little while.</body>
+    </message>
+    <message id="m0005" time="2014-08-24 23:53:23 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

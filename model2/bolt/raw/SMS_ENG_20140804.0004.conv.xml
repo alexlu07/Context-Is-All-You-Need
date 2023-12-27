@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 19:54:40 UTC" participant="152649">
+      <body>Hey man - any chance I could borrow your cajon tonight? </body>
+    </message>
+    <message id="m0001" time="2014-08-04 20:21:21 UTC" participant="152649">
+      <body>Nvm</body>
+    </message>
+    <message id="m0002" time="2014-08-04 20:21:51 UTC" participant="152417">
+      <body>Ok, sorry i didnt get back in time, i was just writing a response</body>
+    </message>
+    <message id="m0003" time="2014-08-04 20:22:05 UTC" participant="152649">
+      <body>No worries man!</body>
+    </message>
+    <message id="m0004" time="2014-08-04 20:22:50 UTC" participant="152649">
+      <body>We found one ;)</body>
+    </message>
+  </messages>
+</conversation>
+

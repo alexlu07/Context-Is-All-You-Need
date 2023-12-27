@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140707.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-07 19:37:55 UTC" participant="153547">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-07-07 20:07:28 UTC" participant="153557">
+      <body>They are in love.</body>
+    </message>
+    <message id="m0002" time="2014-07-07 20:17:16 UTC" participant="153557">
+      <body>I can't find Olivia</body>
+    </message>
+    <message id="m0003" time="2014-07-07 20:17:26 UTC" participant="153557">
+      <body>She's not at our meeting spot</body>
+    </message>
+    <message id="m0004" time="2014-07-07 20:18:20 UTC" participant="153547">
+      <body>She doesn't have her phone, it's here.  Just wait. How late is she?</body>
+    </message>
+    <message id="m0005" time="2014-07-07 20:20:38 UTC" participant="153557">
+      <body>Found her</body>
+    </message>
+    <message id="m0006" time="2014-07-07 21:22:03 UTC" participant="153547">
+      <body>What are you doing for dinner?</body>
+    </message>
+    <message id="m0007" time="2014-07-07 21:22:52 UTC" participant="153557">
+      <body>We might go for Thai but I have a terrible migraine and need to rest a bit</body>
+    </message>
+    <message id="m0008" time="2014-07-07 21:23:06 UTC" participant="153557">
+      <body>We will be home in like 10 minutes or so</body>
+    </message>
+  </messages>
+</conversation>
+

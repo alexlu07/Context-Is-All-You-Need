@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140507.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-07 14:51:44 UTC" participant="152427">
+      <body>Thanks also on Sundays what time is call?</body>
+    </message>
+    <message id="m0001" time="2014-05-07 14:52:08 UTC" participant="152417">
+      <body>Showtime is 9 on saturday</body>
+    </message>
+    <message id="m0002" time="2014-05-07 16:34:53 UTC" participant="152417">
+      <body>Ill get back to you on about sunday</body>
+    </message>
+  </messages>
+</conversation>
+

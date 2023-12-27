@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-02-18 20:15:03 UTC">
+      <body>Do you want to do dinner at 6?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-18 20:15:20 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-02-18 22:55:24 UTC">
+      <body>Heading over to the dc with sam - meet you there. Also, feel free to collect the suite...I didn't text anyone but you.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-18 22:55:36 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

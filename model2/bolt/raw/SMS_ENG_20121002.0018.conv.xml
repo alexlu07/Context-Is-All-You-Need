@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121002.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135573" time="2012-10-02 22:29:31 UTC">
+      <body>Todays class is at 630 or 7</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-02 22:31:39 UTC">
+      <body>7</body>
+    </message>
+  </messages>
+</conversation>

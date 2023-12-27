@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 21:10:20 UTC" participant="153548">
+      <body>Hey! I am still feeling so sick I think I should not try Pilates tonight:(</body>
+    </message>
+    <message id="m0001" time="2015-02-02 21:11:09 UTC" participant="153553">
+      <body>Oh no! It's ok! I have a client tonight anyways</body>
+    </message>
+    <message id="m0002" time="2015-02-02 21:11:40 UTC" participant="153548">
+      <body>Yes!! Looking forward to it!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120217.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-17 23:21:21 UTC" participant="153464">
+      <body>Heya! Can I swing by and pick up my package around 7?</body>
+    </message>
+    <message id="m0001" time="2012-02-17 23:21:53 UTC" participant="152374">
+      <body> Yup, I'll be home</body>
+    </message>
+  </messages>
+</conversation>
+

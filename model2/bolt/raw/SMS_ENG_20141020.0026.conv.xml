@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 21:15:43 UTC" participant="153804">
+      <body>Send me a text to see if my phone works</body>
+    </message>
+    <message id="m0001" time="2014-10-20 21:24:27 UTC" participant="153807">
+      <body>Hope you get this!</body>
+    </message>
+    <message id="m0002" time="2014-10-20 21:26:19 UTC" participant="153804">
+      <body>Guess I'm back to normal</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-14 17:24:45 UTC">
+      <body>Glenn I need you to email me a copy of your song</body>
+    </message>
+    <message id="m0001" participant="132555" time="2013-04-14 17:33:12 UTC">
+      <body>Sure, do you need a specific format?  I have it as a wave file on my computer.  </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-14 17:33:39 UTC">
+      <body>Yeah that should be fine</body>
+    </message>
+    <message id="m0003" participant="132555" time="2013-04-14 17:43:39 UTC">
+      <body>Just sent.  It was too big, so I converted it to mp3.</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-04-14 18:00:19 UTC">
+      <body>OK thanks</body>
+    </message>
+  </messages>
+</conversation>

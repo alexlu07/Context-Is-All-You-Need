@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121008.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131351" time="2012-10-08 01:52:34 UTC">
+      <body>Hey dude, moving to west LA in 2 weeks, let's hook up before I go.</body>
+    </message>
+    <message id="m0001" participant="131350" time="2012-10-08 01:55:44 UTC">
+      <body>Whaaaat?!  hell, yeah.  when are you available?</body>
+    </message>
+    <message id="m0002" participant="131351" time="2012-10-08 02:07:21 UTC">
+      <body>Tuesday-Friday after 6</body>
+    </message>
+  </messages>
+</conversation>

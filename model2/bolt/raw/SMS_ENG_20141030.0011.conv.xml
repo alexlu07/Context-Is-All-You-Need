@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141030.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-30 16:23:28 UTC" participant="152772">
+      <body>Do you like Joni Mitchell ?</body>
+    </message>
+    <message id="m0001" time="2014-10-30 16:36:17 UTC" participant="152735">
+      <body>Of course!</body>
+    </message>
+    <message id="m0002" time="2014-10-30 16:36:22 UTC" participant="152735">
+      <body>Who doesn't </body>
+    </message>
+    <message id="m0003" time="2014-10-30 17:08:43 UTC" participant="152772">
+      <body>Do you like her paintings </body>
+    </message>
+    <message id="m0004" time="2014-10-30 17:22:33 UTC" participant="152735">
+      <body>Woah I didn't know she painted. Will check out shortly. </body>
+    </message>
+    <message id="m0005" time="2014-10-30 17:23:09 UTC" participant="152772">
+      <body>She said that she is a painter first and a musician second </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 21:51:24 UTC" participant="152115">
+      <body>I'm at Penn.</body>
+    </message>
+    <message id="m0001" time="2015-02-03 21:53:06 UTC" participant="152117">
+      <body>Ok love you! Let me know when you meet up with Michael so I know you are ok and together</body>
+    </message>
+    <message id="m0002" time="2015-02-03 21:54:09 UTC" participant="152115">
+      <body>I'm already with him.</body>
+    </message>
+    <message id="m0003" time="2015-02-03 21:54:31 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2015-02-04 20:43:09 UTC" participant="152117">
+      <body>Hey chicken just want to let you know pop-pop put $100 in my account for you which I just transferred into yours. Text him when you get a chance to thank him and also I'm trying to figure out what to make for dinner. Are you working tomorrow? Let me know. Love you</body>
+    </message>
+    <message id="m0005" time="2015-02-04 21:33:06 UTC" participant="152115">
+      <body>Not working tomorrow.</body>
+    </message>
+    <message id="m0006" time="2015-02-04 21:33:36 UTC" participant="152117">
+      <body>Ok love you!</body>
+    </message>
+  </messages>
+</conversation>
+

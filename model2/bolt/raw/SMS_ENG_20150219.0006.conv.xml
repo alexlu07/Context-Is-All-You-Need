@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150219.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-19 12:48:00 UTC" participant="152212">
+      <body>will you be at school around 12:30/1 today</body>
+    </message>
+    <message id="m0001" time="2015-02-19 12:48:00 UTC" participant="152212">
+      <body>I miss yoU!</body>
+    </message>
+    <message id="m0002" time="2015-02-19 12:48:00 UTC" participant="152212">
+      <body>and I have a work question</body>
+    </message>
+    <message id="m0003" time="2015-02-19 12:54:24 UTC" participant="152256">
+      <body>yes pretty much all day </body>
+    </message>
+    <message id="m0004" time="2015-02-19 12:54:24 UTC" participant="152212">
+      <body>ok i will stop by</body>
+    </message>
+    <message id="m0005" time="2015-02-19 12:54:24 UTC" participant="152256">
+      <body>see you then</body>
+    </message>
+    <message id="m0006" time="2015-02-19 12:56:32 UTC" participant="152212">
+      <body>YAY</body>
+    </message>
+  </messages>
+</conversation>
+

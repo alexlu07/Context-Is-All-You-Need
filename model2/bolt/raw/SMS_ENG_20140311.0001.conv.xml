@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140311.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-11 23:27:58 UTC" participant="152417">
+      <body>I believe you can come to watch the show tomorrow, theyre doing a preview for VIPs</body>
+    </message>
+    <message id="m0001" time="2014-03-11 23:31:07 UTC" participant="152560">
+      <body>Oh cool-that would be great if they don't mind. </body>
+    </message>
+    <message id="m0002" time="2014-03-12 16:48:21 UTC" participant="152417">
+      <body>Youre welcome to come tonight</body>
+    </message>
+    <message id="m0003" time="2014-03-12 20:59:46 UTC" participant="152417">
+      <body>Im home early and made borscht! Did the girls eat?</body>
+    </message>
+  </messages>
+</conversation>
+

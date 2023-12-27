@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130925.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-25 18:42:08 UTC" participant="154901">
+      <body>Hey where do u want me 2 do wit your clothes in the dryer </body>
+    </message>
+    <message id="m0001" time="2013-09-25 19:11:00 UTC" participant="153244">
+      <body>You can just put them on steph's... we'll take care if them later.</body>
+    </message>
+    <message id="m0002" time="2013-09-25 19:11:09 UTC" participant="153244">
+      <body>Steph bed*</body>
+    </message>
+  </messages>
+</conversation>
+

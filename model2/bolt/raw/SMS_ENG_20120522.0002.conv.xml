@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120522.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131822" time="2012-05-22 16:00:00 UTC">
+      <body>got a B+!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-05-22 16:01:13 UTC">
+      <body>Nice hopefully it was because we woke you up to go study</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-05-22 16:01:58 UTC">
+      <body>;-P you're welcome </body>
+    </message>
+    <message id="m0003" participant="131822" time="2012-05-22 16:02:08 UTC">
+      <body>Lol sure it was</body>
+    </message>
+  </messages>
+</conversation>

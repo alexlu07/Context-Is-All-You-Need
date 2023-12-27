@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140221.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-21 00:08:32 UTC" participant="153634">
+      <body>hey! still at work. I might be able to talk right before our group talk</body>
+    </message>
+    <message id="m0001" time="2014-02-21 00:10:35 UTC" participant="153548">
+      <body>Cool give me a call!</body>
+    </message>
+    <message id="m0002" time="2014-02-21 01:07:51 UTC" participant="153548">
+      <body>Looks like meeting was pushed to tmw. Let's still video chat!</body>
+    </message>
+    <message id="m0003" time="2014-02-21 01:12:32 UTC" participant="153634">
+      <body>ok how about 7:30?</body>
+    </message>
+    <message id="m0004" time="2014-02-21 01:15:23 UTC" participant="153548">
+      <body>Yeah! </body>
+    </message>
+    <message id="m0005" time="2014-02-21 17:21:04 UTC" participant="153634">
+      <body>"I'll try to hit this google chat"</body>
+    </message>
+  </messages>
+</conversation>
+

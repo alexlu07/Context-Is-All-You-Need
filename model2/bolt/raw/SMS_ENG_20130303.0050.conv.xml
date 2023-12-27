@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136160" time="2013-03-03 00:10:48 UTC">
+      <body>Are you doing a bisque tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-03 00:18:19 UTC">
+      <body>possibly, depending on how much stuff shows up </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-03 17:17:46 UTC">
+      <body>hey, i'm gonna go in and load at 4, just so you know. idk if that affects your plans or not. </body>
+    </message>
+    <message id="m0003" participant="136160" time="2013-03-03 18:34:34 UTC">
+      <body>Can i put a few wet tiles into the kiln?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-03 18:34:54 UTC">
+      <body>sure. i changed my mind anyway. loading tonight at 10.</body>
+    </message>
+    <message id="m0005" participant="136160" time="2013-03-03 18:35:20 UTC">
+      <body>Sweet thanks!</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-03-04 01:52:17 UTC">
+      <body>hey, were you still planning on putting test tiles in tonight's kiln? </body>
+    </message>
+    <message id="m0007" participant="136160" time="2013-03-04 01:53:04 UTC">
+      <body>I jhave little tiles. Theyre on a sheetrock on my shelf</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-03-04 01:54:00 UTC">
+      <body>oh, okay. yeah, i'll stick em in </body>
+    </message>
+    <message id="m0009" participant="136160" time="2013-03-04 01:54:25 UTC">
+      <body>Fankss</body>
+    </message>
+    <message id="m0010" participant="136112" time="2013-03-04 02:05:37 UTC">
+      <body>i broke them all up and stuck them in a cup, hopefully they'll be done soon. wednesday, maybe. </body>
+    </message>
+    <message id="m0011" participant="136160" time="2013-03-04 02:06:03 UTC">
+      <body>Perfect</body>
+    </message>
+  </messages>
+</conversation>

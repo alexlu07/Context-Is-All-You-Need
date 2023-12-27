@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 13:03:08 UTC" participant="153547">
+      <body>Do u want the 30 or 40 gallon unit?  The 30 is $337 and the 40 is $317. 30 is for 1-2 people 40 is for 3-4</body>
+    </message>
+    <message id="m0001" time="2014-11-13 13:05:59 UTC" participant="153602">
+      <body>The 30 gallon is good. Thanks.</body>
+    </message>
+    <message id="m0002" time="2014-11-13 14:00:41 UTC" participant="153547">
+      <body>I'm outside</body>
+    </message>
+  </messages>
+</conversation>
+

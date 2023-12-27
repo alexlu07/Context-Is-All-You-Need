@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131026.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-26 00:03:47 UTC" participant="154352">
+      <body>You at the movie?</body>
+    </message>
+    <message id="m0001" time="2013-10-26 00:04:58 UTC" participant="154401">
+      <body>Nah im gonna go to jacks party. u should come  10th and callowhill</body>
+    </message>
+    <message id="m0002" time="2013-10-26 01:52:33 UTC" participant="154352">
+      <body>You still at that party?</body>
+    </message>
+    <message id="m0003" time="2013-10-26 01:53:12 UTC" participant="154401">
+      <body>Yep come ouer</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120701.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135502" time="2012-07-01 18:35:44 UTC">
+      <body>Cat man!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-02 00:36:10 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-02 13:21:15 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0003" participant="135502" time="2012-07-02 13:30:40 UTC">
+      <body>VERY happy that u are there. I L Y soooo</body>
+    </message>
+  </messages>
+</conversation>

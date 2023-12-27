@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 18:23:42 UTC" participant="152417">
+      <body>Can you play the bean sat at midnight?</body>
+    </message>
+    <message id="m0001" time="2014-08-04 18:28:58 UTC" participant="152480">
+      <body>I think so.but would want to hear others opinions- late night, no pay</body>
+    </message>
+    <message id="m0002" time="2014-08-04 18:35:06 UTC" participant="152417">
+      <body>Jonah's in, im in, there will be a cover so therell be a little bitta money</body>
+    </message>
+  </messages>
+</conversation>
+

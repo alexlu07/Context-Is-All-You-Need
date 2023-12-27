@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121214.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-14 17:06:06 UTC">
+      <body>Hey there! Ill be there in like 5 min. sorry!</body>
+    </message>
+    <message id="m0001" participant="135264" time="2012-12-14 17:12:32 UTC">
+      <body>No worries! I am just walking out of admission. I left my wallet in my room, so I'm going to go grab it! </body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-14 17:25:48 UTC">
+      <body>Okay!</body>
+    </message>
+  </messages>
+</conversation>

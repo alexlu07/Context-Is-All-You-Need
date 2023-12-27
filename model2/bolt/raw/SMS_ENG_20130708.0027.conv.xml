@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0027" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130794" time="2013-07-08 22:53:20 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="133218" time="2013-07-08 23:00:41 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130794" time="2013-07-08 23:01:36 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="133218" time="2013-07-08 23:02:44 UTC">
+      <body>Getting over some terrible food poisoning. You?</body>
+    </message>
+    <message id="m0004" participant="130794" time="2013-07-08 23:04:21 UTC">
+      <body>Ohh no sorry to hear that. I am good</body>
+    </message>
+    <message id="m0005" participant="133218" time="2013-07-08 23:05:31 UTC">
+      <body>Thanks. That's good. So what dod you do?</body>
+    </message>
+    <message id="m0006" participant="130794" time="2013-07-08 23:06:23 UTC">
+      <body>I work in research. You?</body>
+    </message>
+    <message id="m0007" participant="133218" time="2013-07-08 23:07:25 UTC">
+      <body>I am a student during the year but for the summer I work with kids.</body>
+    </message>
+    <message id="m0008" participant="130794" time="2013-07-08 23:08:21 UTC">
+      <body>What are you studying?</body>
+    </message>
+    <message id="m0009" participant="133218" time="2013-07-08 23:09:19 UTC">
+      <body>Anthropology and Linguistics. What are you researching?</body>
+    </message>
+    <message id="m0010" participant="130794" time="2013-07-08 23:10:41 UTC">
+      <body>It's clinical trials</body>
+    </message>
+    <message id="m0011" participant="130794" time="2013-07-08 23:11:30 UTC">
+      <body>So new drugs and devices</body>
+    </message>
+    <message id="m0012" participant="133218" time="2013-07-08 23:12:18 UTC">
+      <body>Sounds fascinating</body>
+    </message>
+    <message id="m0013" participant="130794" time="2013-07-08 23:14:11 UTC">
+      <body>Something new every day. Where do you go to school?</body>
+    </message>
+    <message id="m0014" participant="133218" time="2013-07-08 23:21:16 UTC">
+      <body>The University of Chicago. Where do you go?</body>
+    </message>
+    <message id="m0015" participant="130794" time="2013-07-08 23:35:19 UTC">
+      <body>I got my degree from UC Davis</body>
+    </message>
+    <message id="m0016" participant="130794" time="2013-07-08 23:37:27 UTC">
+      <body>Are you from the Chicago area originally?</body>
+    </message>
+    <message id="m0017" participant="130794" time="2013-07-09 12:01:55 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0018" participant="133218" time="2013-07-09 16:15:30 UTC">
+      <body>Morning, I grew up military so I lived all over.</body>
+    </message>
+  </messages>
+</conversation>

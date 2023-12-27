@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-16 22:36:04 UTC" participant="153472">
+      <body>text when u get here. the bell drives ####### crazy.</body>
+    </message>
+    <message id="m0001" time="2013-04-16 22:36:56 UTC" participant="152374">
+      <body>Ok, I'm almost there!</body>
+    </message>
+    <message id="m0002" time="2013-04-16 22:37:44 UTC" participant="153472">
+      <body>k..see u soon!</body>
+    </message>
+    <message id="m0003" time="2013-04-16 22:47:00 UTC" participant="152374">
+      <body>Am here!</body>
+    </message>
+    <message id="m0004" time="2013-04-16 22:47:33 UTC" participant="153472">
+      <body>be right out</body>
+    </message>
+    <message id="m0005" time="2013-04-16 22:53:11 UTC" participant="152374">
+      <body>Everything ok?</body>
+    </message>
+    <message id="m0006" time="2013-04-17 03:09:19 UTC" participant="152374">
+      <body>I'm back safely :-) Thanks again!!</body>
+    </message>
+  </messages>
+</conversation>
+

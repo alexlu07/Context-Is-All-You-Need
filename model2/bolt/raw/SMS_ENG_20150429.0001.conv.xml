@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150429.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-29 00:23:50 UTC" participant="153808">
+      <body>￼Diana's new used car. </body>
+    </message>
+    <message id="m0001" time="2015-04-29 00:24:11 UTC" participant="153808">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2015-04-29 00:25:32 UTC" participant="153804">
+      <body>Looks clean.</body>
+    </message>
+    <message id="m0003" time="2015-04-29 00:26:32 UTC" participant="153808">
+      <body>Not bad for a 11 year old car.</body>
+    </message>
+    <message id="m0004" time="2015-04-29 00:30:34 UTC" participant="153808">
+      <body>Can't complain. She has it paid off.</body>
+    </message>
+  </messages>
+</conversation>
+

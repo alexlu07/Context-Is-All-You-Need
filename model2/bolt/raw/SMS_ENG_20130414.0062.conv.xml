@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-14 13:21:50 UTC" participant="152374">
+      <body>Hey, I'm here but out in my car. I'll be in after 9:30, I have to register for a course at 9:30 on the dot and I don't know if I can get network signal inside :-)</body>
+    </message>
+    <message id="m0001" time="2013-04-14 13:22:54 UTC" participant="153470">
+      <body>Ok that will work</body>
+    </message>
+    <message id="m0002" time="2013-04-14 13:23:25 UTC" participant="152374">
+      <body>I'm not late am I? ### said 10</body>
+    </message>
+    <message id="m0003" time="2013-04-14 13:24:18 UTC" participant="153470">
+      <body>No not late you have time</body>
+    </message>
+    <message id="m0004" time="2013-04-14 13:24:38 UTC" participant="152374">
+      <body>Ok good. See you in a few</body>
+    </message>
+    <message id="m0005" time="2013-04-14 13:47:31 UTC" participant="153470">
+      <body>Should go quick today its only the 40 frame for both of us switch off every game</body>
+    </message>
+  </messages>
+</conversation>
+

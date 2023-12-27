@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131113.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-13 13:57:13 UTC" participant="153547">
+      <body>Hey man, do you have any time to give me a quick simple tutorial on tracing images in illustrator? I can cook you dinner or throw u some cash</body>
+    </message>
+    <message id="m0001" time="2013-11-13 14:14:46 UTC" participant="153560">
+      <body>Yeah. This week or next?</body>
+    </message>
+    <message id="m0002" time="2013-11-13 18:34:54 UTC" participant="153547">
+      <body>I'm off work today and usually home after 6pm rest of week. Available this weekend</body>
+    </message>
+  </messages>
+</conversation>
+

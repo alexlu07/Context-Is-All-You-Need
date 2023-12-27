@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140714.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-14 21:30:40 UTC" participant="149372">
+      <body>Thanks for helping out at Woodstock. I have your cash on me and I'll try to swing by with it tonight. </body>
+    </message>
+    <message id="m0001" time="2014-07-14 22:42:51 UTC" participant="153547">
+      <body>I have class tonight. Adam wants me to help tomorrow if it is ok with you</body>
+    </message>
+    <message id="m0002" time="2014-07-15 00:00:00 UTC" participant="149372">
+      <body>Yes. Absolutely. Thanks. I put your stuff in the turtle shell. </body>
+    </message>
+    <message id="m0003" time="2014-07-15 13:47:44 UTC" participant="149372">
+      <body>Did you get the moneys I left?</body>
+    </message>
+    <message id="m0004" time="2014-07-15 15:11:46 UTC" participant="153547">
+      <body>I forgot to check but I'm sure it's still there</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0025" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131711" time="2013-07-10 22:19:06 UTC">
+      <body>Hello again!</body>
+    </message>
+    <message id="m0001" participant="130661" time="2013-07-10 22:20:08 UTC">
+      <body>Hi! How's it going?</body>
+    </message>
+    <message id="m0002" participant="131711" time="2013-07-10 22:20:38 UTC">
+      <body>Hello again!</body>
+    </message>
+    <message id="m0003" participant="131711" time="2013-07-10 22:22:14 UTC">
+      <body>Good yourself?</body>
+    </message>
+    <message id="m0004" participant="130661" time="2013-07-10 22:52:10 UTC">
+      <body>Not too bad, got back home about an hour ago. Will probably read a book.</body>
+    </message>
+    <message id="m0005" participant="130661" time="2013-07-10 22:57:14 UTC">
+      <body>Did you do anything this past long weekend?</body>
+    </message>
+    <message id="m0006" participant="131711" time="2013-07-10 22:58:04 UTC">
+      <body>Went on vacation to Los Angeles lol that's like a city away</body>
+    </message>
+  </messages>
+</conversation>

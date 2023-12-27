@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111025.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-10-25 15:33:10 UTC">
+      <body>Hope your midterms went well!  Don't forget your intern app.  Xoxo</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-10-25 15:39:38 UTC">
+      <body>Could you send me the link again?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-10-25 15:41:05 UTC">
+      <body>I'm in Omaha without a computer.  I sent you an email with everything in it I think.</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-10-25 15:44:18 UTC">
+      <body>I'm in class without a computer. I'll look leighter</body>
+    </message>
+    <message id="m0004" participant="131824" time="2011-10-25 15:44:56 UTC">
+      <body>K :)</body>
+    </message>
+  </messages>
+</conversation>

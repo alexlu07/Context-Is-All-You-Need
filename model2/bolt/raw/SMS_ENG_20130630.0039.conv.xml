@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130630.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-30 23:51:11 UTC" participant="154391">
+      <body>Still up for drinks tonight?</body>
+    </message>
+    <message id="m0001" time="2013-07-01 00:27:20 UTC" participant="154352">
+      <body>I'm still at the park. I'm just going to head home soon.</body>
+    </message>
+    <message id="m0002" time="2013-07-01 00:31:28 UTC" participant="154391">
+      <body>Alright, next week then. You sure are hard to coordinate with.</body>
+    </message>
+  </messages>
+</conversation>
+

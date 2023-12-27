@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-15 22:31:21 UTC">
+      <body>you aren't planning on going to the studio, are you? </body>
+    </message>
+    <message id="m0001" participant="136196" time="2013-04-15 22:32:24 UTC">
+      <body>I was already there today, sorry.</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-15 22:32:36 UTC">
+      <body>no probs, thanks! </body>
+    </message>
+  </messages>
+</conversation>

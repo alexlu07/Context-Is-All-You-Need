@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-11-23 15:12:36 UTC">
+      <body>Hi love! Hope you had a lovely thanksgiving! So for sunday, we looked at a map and realized we're actually kind of far...but we'll be coming down 476 on our way back, so maybe we could meet up somewhere along there? Would that work for you? </body>
+    </message>
+    <message id="m0001" participant="131462" time="2012-11-23 18:44:35 UTC">
+      <body>Sure, I'll take a look at the map and find a place off if 476.</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-11-23 19:55:47 UTC">
+      <body>Okay great! And actually, I don't know what your plans are like, but would it make sense for us to do dinner tomorrow night instead? We're thinking of maybe heading back tomorrow night instead</body>
+    </message>
+    <message id="m0003" participant="131462" time="2012-11-24 19:49:04 UTC">
+      <body>There's a great restaurant at a store called Terrain. It's about an hour from Lancaster. I think it will be about 20 minutes out of your way. Take a look at google maps and let me know it that works for you.</body>
+    </message>
+    <message id="m0004" participant="131450" time="2012-11-24 20:51:16 UTC">
+      <body>Okay, do you know what town it's in? Google is giving me multiple results...</body>
+    </message>
+    <message id="m0005" participant="131462" time="2012-11-24 20:53:48 UTC">
+      <body>Glen mills</body>
+    </message>
+    <message id="m0006" participant="131450" time="2012-11-24 21:02:43 UTC">
+      <body>Okay, fab! Does 11 work for you? </body>
+    </message>
+    <message id="m0007" participant="131450" time="2012-11-24 21:16:22 UTC">
+      <body>Oh wait, on opentable it says they don't have 11, but they have 10:30. Would that be okay?</body>
+    </message>
+    <message id="m0008" participant="131462" time="2012-11-24 21:17:02 UTC">
+      <body>Sure.</body>
+    </message>
+    <message id="m0009" participant="131450" time="2012-11-24 21:20:35 UTC">
+      <body>Okay, excellent! We'll see you there at 10:30 then. Can't wait!! &lt;3</body>
+    </message>
+    <message id="m0010" participant="131462" time="2012-11-24 21:21:17 UTC">
+      <body>Yay, see you tomorrow.</body>
+    </message>
+    <message id="m0011" participant="131450" time="2012-11-25 15:35:10 UTC">
+      <body>When you get here we're in the room to the left :)</body>
+    </message>
+  </messages>
+</conversation>

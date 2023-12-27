@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136194" time="2013-04-07 20:58:09 UTC">
+      <body>Hey. I'm leaving in like 30 if you still want to come with.</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-07 20:59:01 UTC">
+      <body>on my way home now, i'll let you know when i get back. </body>
+    </message>
+    <message id="m0002" participant="136194" time="2013-04-07 21:05:29 UTC">
+      <body>Okay.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-07 21:16:56 UTC">
+      <body>i'm back! </body>
+    </message>
+    <message id="m0004" participant="136194" time="2013-04-07 21:17:58 UTC">
+      <body>Cool. You ready to go?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-04-07 21:18:42 UTC">
+      <body>yeah. lemme grab a jacket and i'll be right up </body>
+    </message>
+    <message id="m0006" participant="136194" time="2013-04-07 21:19:37 UTC">
+      <body>Is it cool outside?</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-04-07 21:20:01 UTC">
+      <body>still nice. movie theaters are cold, though. </body>
+    </message>
+    <message id="m0008" participant="136194" time="2013-04-07 21:22:09 UTC">
+      <body>Good point</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120603.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-06-03 12:34:46 UTC">
+      <body>Hi tim is sick so I'll need ur help with the story in God squad. See u soon!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-03 14:01:26 UTC">
+      <body>What do I have to do!</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-06-03 14:03:42 UTC">
+      <body>Read the voice of god quotes!</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-06-03 21:50:59 UTC">
+      <body>When r u coming over? I'm getting hungry!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-03 21:54:30 UTC">
+      <body>I'll be over by 6:30!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120508.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-08 11:48:57 UTC">
+      <body>Do we meet on the third floor for gym now?</body>
+    </message>
+    <message id="m0001" participant="136211" time="2012-05-08 12:06:16 UTC">
+      <body>yeah</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-08 12:06:54 UTC">
+      <body>Ugh. Are we doing weight training</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120323.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-03-23 16:08:25 UTC">
+      <body>I need mah summer clothes! I'll call later</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-03-23 22:44:48 UTC">
+      <body>Did the pictures get sent? </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-23 23:17:48 UTC">
+      <body>Yes, still missing the denim dress and there's a red one too?</body>
+    </message>
+    <message id="m0003" participant="135103" time="2012-03-23 23:19:17 UTC">
+      <body>I'll keep looking.  I did that all by my self! </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-03-23 23:19:25 UTC">
+      <body>Cool mama</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137353" time="2013-05-27 00:23:31 UTC">
+      <body>Sorry I will not bother you anymore. </body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-27 00:44:51 UTC">
+      <body>Dear sir/Madame you have the wrong number </body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-05-27 01:12:34 UTC">
+      <body>Dear sir/Madame you DEFINITELY  have the wrong number </body>
+    </message>
+  </messages>
+</conversation>

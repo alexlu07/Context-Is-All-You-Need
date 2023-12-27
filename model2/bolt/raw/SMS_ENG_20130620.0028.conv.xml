@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135456" time="2013-06-20 12:51:32 UTC">
+      <body>I'm on the 10th floor</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-20 12:52:07 UTC">
+      <body>I'm on four I got here super early. I'll be up at 10 at nine</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-20 12:56:59 UTC">
+      <body>   I'm on my way up. I have a list of questions.  </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-20 12:57:37 UTC">
+      <body>Been game planning/sorting second hand gold. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131015.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-15 21:16:26 UTC" participant="153644">
+      <body>Hey Lindsey - what're the chances you'll be home tonight around 9pm and I can pick up my suit?  I actually need it. My once a year dress up is coming soon :)</body>
+    </message>
+    <message id="m0002" time="2013-10-15 21:22:08 UTC" participant="153644">
+      <body>Awesome!  Ill come by round 9.  See you later!</body>
+    </message>
+    <message id="m0003" time="2013-10-15 21:22:09 UTC" participant="153548">
+      <body>I have yr shoes too</body>
+    </message>
+    <message id="m0004" time="2013-10-15 21:22:53 UTC" participant="153548">
+      <body>See ya</body>
+    </message>
+    <message id="m0005" time="2013-10-16 00:54:24 UTC" participant="153644">
+      <body>Hi - I'm on your block.  Which one are u?</body>
+    </message>
+    <message id="m0006" time="2013-10-16 00:55:10 UTC" participant="153548">
+      <body>Green door. 1118</body>
+    </message>
+    <message id="m0007" time="2013-10-16 00:55:19 UTC" participant="153548">
+      <body>Coming down.</body>
+    </message>
+  </messages>
+</conversation>
+

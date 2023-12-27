@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-02-07 13:04:21 UTC">
+      <body>Would u like coffee at dunkin donuts</body>
+    </message>
+    <message id="m0001" participant="131507" time="2013-02-07 13:05:33 UTC">
+      <body>??</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-02-07 13:22:37 UTC">
+      <body>No thank you.</body>
+    </message>
+  </messages>
+</conversation>

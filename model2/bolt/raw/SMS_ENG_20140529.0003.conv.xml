@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140529.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-29 16:17:04 UTC" participant="152560">
+      <body>Should I grab us DOM tickets?...</body>
+    </message>
+    <message id="m0001" time="2014-05-29 16:29:49 UTC" participant="152417">
+      <body>Yes please</body>
+    </message>
+    <message id="m0002" time="2014-05-29 16:34:08 UTC" participant="152560">
+      <body>You got it :)</body>
+    </message>
+    <message id="m0003" time="2014-05-29 16:55:28 UTC" participant="152560">
+      <body>All set. Got em. </body>
+    </message>
+    <message id="m0004" time="2014-05-29 18:30:23 UTC" participant="152417">
+      <body>The kindergarten play/potluck is June 3rd 9-10</body>
+    </message>
+    <message id="m0005" time="2014-05-29 18:31:28 UTC" participant="152560">
+      <body>Awesome. I want to see it! </body>
+    </message>
+    <message id="m0006" time="2014-05-30 01:10:54 UTC" participant="152417">
+      <body>Come to ArtsRiot if you can, we dont start until 1030</body>
+    </message>
+    <message id="m0007" time="2014-05-30 02:10:08 UTC" participant="152560">
+      <body>Ok cool. I'm just finishing up now-not sure if I can make it on time. </body>
+    </message>
+    <message id="m0008" time="2014-05-30 15:10:23 UTC" participant="152560">
+      <body>I am starting to have second thoughts about living in the dorms my first semester-do you think I made the right decision?...</body>
+    </message>
+  </messages>
+</conversation>
+

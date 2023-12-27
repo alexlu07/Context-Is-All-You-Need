@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 23:02:28 UTC" participant="154352">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0001" time="2013-08-16 01:15:43 UTC" participant="154390">
+      <body>Got back from dinner. test video  in a couple minutes?</body>
+    </message>
+    <message id="m0002" time="2013-08-16 01:15:43 UTC" participant="154390">
+      <body>Got back from dinner. test video  in a couple minutes?</body>
+    </message>
+    <message id="m0003" time="2013-08-16 01:30:18 UTC" participant="154390">
+      <body>??</body>
+    </message>
+    <message id="m0004" time="2013-08-16 01:57:25 UTC" participant="154390">
+      <body>Call when you get back "</body>
+    </message>
+    <message id="m0005" time="2013-08-16 17:38:38 UTC" participant="154390">
+      <body>So im planning on coming to havertown on sunday. Want to come over mom and dad's house mid day too?</body>
+    </message>
+    <message id="m0006" time="2013-08-16 17:39:43 UTC" participant="154352">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

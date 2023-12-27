@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140812.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-12 23:42:39 UTC" participant="153547">
+      <body>Lindsey said you were trying to do something this weekend, but I am going down to Asheville to look at this property</body>
+    </message>
+    <message id="m0001" time="2014-08-13 00:01:43 UTC" participant="149372">
+      <body>Oh ok. </body>
+    </message>
+    <message id="m0002" time="2014-08-13 00:02:24 UTC" participant="153547">
+      <body>I can come get my stuff tomorrow or Thursday</body>
+    </message>
+    <message id="m0003" time="2014-08-13 00:03:26 UTC" participant="149372">
+      <body>Tomorrow later in the day or Thursday whenever. </body>
+    </message>
+    <message id="m0004" time="2014-08-13 00:05:11 UTC" participant="149372">
+      <body>Are you going to sell your house to buy that place?</body>
+    </message>
+    <message id="m0005" time="2014-08-13 00:07:20 UTC" participant="153547">
+      <body>I don't know but I want to at least go see it and talk to the guy to see if we can work something out with his moving schedule and mine. There are a few options but most likely I need to sell</body>
+    </message>
+    <message id="m0006" time="2014-08-13 00:08:32 UTC" participant="149372">
+      <body>Daaamn. That is nuts. Will you be around next weekend?</body>
+    </message>
+    <message id="m0007" time="2014-08-13 00:10:00 UTC" participant="153547">
+      <body>I have no clue but I don't currently have any plans for the weekend of the 23rd</body>
+    </message>
+    <message id="m0008" time="2014-08-13 15:06:40 UTC" participant="149372">
+      <body>Where you at? I need the van soon. </body>
+    </message>
+    <message id="m0009" time="2014-08-13 15:07:23 UTC" participant="153547">
+      <body>Oh. I'll drive it back over in a minute</body>
+    </message>
+  </messages>
+</conversation>
+

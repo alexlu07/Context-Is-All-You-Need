@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131291" time="2013-04-04 18:53:05 UTC">
+      <body>Should we come now or wait until later because of traffic?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-04-04 18:55:33 UTC">
+      <body>Traffic doesn't look too bad  right now. I can head out anytime.</body>
+    </message>
+    <message id="m0002" participant="131291" time="2013-04-04 18:56:19 UTC">
+      <body>I'm still an hour and a half away.</body>
+    </message>
+    <message id="m0003" participant="131291" time="2013-04-04 18:56:39 UTC">
+      <body>Is the farm in Dickerson?</body>
+    </message>
+    <message id="m0004" participant="131281" time="2013-04-04 18:57:47 UTC">
+      <body>Yes... Or so google says. They say Poolesville. But same thing.</body>
+    </message>
+    <message id="m0005" participant="131291" time="2013-04-04 19:01:43 UTC">
+      <body>Ok. GPS says 4:30. But I bet it will be later with traffic.</body>
+    </message>
+    <message id="m0006" participant="131281" time="2013-04-04 19:05:15 UTC">
+      <body>Yeah, traffic will pick up soon, at least going away from DC. On my route out there for sure. I'll expect longer for both of us.</body>
+    </message>
+  </messages>
+</conversation>

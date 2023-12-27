@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135281" time="2013-03-08 00:35:56 UTC">
+      <body>Hey, it's katie. Jen wants to know if you can meet at 8 instead of 8:30?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-08 01:02:09 UTC">
+      <body>I just got this! I can come now! Are you there now?</body>
+    </message>
+    <message id="m0002" participant="135281" time="2013-03-08 01:03:02 UTC">
+      <body>Yeah, sounds good.</body>
+    </message>
+  </messages>
+</conversation>

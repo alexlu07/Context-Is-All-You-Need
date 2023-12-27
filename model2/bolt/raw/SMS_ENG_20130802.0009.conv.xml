@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130802.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132520" time="2013-08-02 15:02:10 UTC">
+      <body>Well hello again! How was your movie?</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-08-02 15:04:33 UTC">
+      <body>It was good. Having read the book it left a lot to be desired.</body>
+    </message>
+    <message id="m0002" participant="132520" time="2013-08-02 15:23:25 UTC">
+      <body>Yeah my boyfriend said that he was worried it would be pretty different</body>
+    </message>
+  </messages>
+</conversation>

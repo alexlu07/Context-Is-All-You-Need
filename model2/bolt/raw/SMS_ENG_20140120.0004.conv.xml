@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140120.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-20 23:42:56 UTC" participant="153580">
+      <body>Can I use you for a reference at the tool library?</body>
+    </message>
+    <message id="m0001" time="2014-01-20 23:43:56 UTC" participant="153547">
+      <body>Yeah but I'm not a member. I think Michael might be</body>
+    </message>
+    <message id="m0002" time="2014-01-20 23:44:38 UTC" participant="153580">
+      <body>You don't have to be a member thy will call you and ask you if you'd lend me a tool.</body>
+    </message>
+    <message id="m0003" time="2014-01-20 23:45:31 UTC" participant="153547">
+      <body>Yeah no prob . I gotta come meet Ruby sometime before she's all grown up</body>
+    </message>
+    <message id="m0004" time="2014-01-20 23:51:28 UTC" participant="153580">
+      <body>Hell ya!! Thanks. I'll hit you up this weekend if you te around</body>
+    </message>
+  </messages>
+</conversation>
+

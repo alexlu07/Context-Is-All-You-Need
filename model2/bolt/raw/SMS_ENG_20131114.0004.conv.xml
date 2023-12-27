@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131114.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-14 23:52:54 UTC" participant="153557">
+      <body>I'm going to stop and get some soup from the co op do you need anything?</body>
+    </message>
+    <message id="m0001" time="2013-11-14 23:56:49 UTC" participant="153547">
+      <body>No I'm good </body>
+    </message>
+    <message id="m0002" time="2013-11-15 21:56:16 UTC" participant="153557">
+      <body>I tried to get a new saddle today it no one has black!</body>
+    </message>
+    <message id="m0003" time="2013-11-15 22:15:17 UTC" participant="153557">
+      <body>Come over after you eat your buffalo wings!</body>
+    </message>
+    <message id="m0004" time="2013-11-15 22:16:08 UTC" participant="153547">
+      <body>Ok. I got some bills and stuff to take care of too</body>
+    </message>
+    <message id="m0005" time="2013-11-15 22:17:36 UTC" participant="153557">
+      <body>Yay! I have to sort my laundry and check my finances too </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150115.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-15 22:51:30 UTC" participant="153418">
+      <body>Hey, what's the time and place for tomorrow? </body>
+    </message>
+    <message id="m0001" time="2015-01-15 22:53:40 UTC" participant="153459">
+      <body>So this is a case of managing expectations.  I just heard back and everybody is busy.  I'm cool with grabbing food and some drinks and catching up though</body>
+    </message>
+    <message id="m0002" time="2015-01-15 22:54:33 UTC" participant="153418">
+      <body>Sounds good to me. Where were you thinking? </body>
+    </message>
+    <message id="m0003" time="2015-01-15 22:54:46 UTC" participant="153459">
+      <body>.  Your call</body>
+    </message>
+    <message id="m0004" time="2015-01-15 22:55:12 UTC" participant="153459">
+      <body>Zavino on campus a wine bar</body>
+    </message>
+    <message id="m0005" time="2015-01-15 22:55:28 UTC" participant="153459">
+      <body>We can meet at my office</body>
+    </message>
+    <message id="m0006" time="2015-01-15 22:55:57 UTC" participant="153418">
+      <body>Let's meet up first. Where do you work now? </body>
+    </message>
+    <message id="m0007" time="2015-01-15 22:58:37 UTC" participant="153459">
+      <body>Same place 542</body>
+    </message>
+    <message id="m0008" time="2015-01-15 23:02:19 UTC" participant="153418">
+      <body>In the LeBow building? </body>
+    </message>
+    <message id="m0009" time="2015-01-15 23:02:43 UTC" participant="153459">
+      <body>Yeah</body>
+    </message>
+    <message id="m0010" time="2015-01-15 23:03:11 UTC" participant="153418">
+      <body>All right, I'll just yell at the front desk to get you, lol</body>
+    </message>
+    <message id="m0011" time="2015-01-15 23:03:16 UTC" participant="153418">
+      <body>What time do you get off? </body>
+    </message>
+    <message id="m0012" time="2015-01-15 23:08:05 UTC" participant="153459">
+      <body>5</body>
+    </message>
+    <message id="m0013" time="2015-01-15 23:12:12 UTC" participant="153418">
+      <body> All right, I'll drop by then.</body>
+    </message>
+  </messages>
+</conversation>
+

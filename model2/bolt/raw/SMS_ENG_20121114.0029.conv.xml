@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-14 19:30:17 UTC">
+      <body>Something we forgot to discuss in our last Skype sesh: what are your thanksgiving plans? Think we can squeeze in a visit?</body>
+    </message>
+    <message id="m0001" participant="136279" time="2012-11-15 00:29:21 UTC">
+      <body>Yes! Absolutely.</body>
+    </message>
+  </messages>
+</conversation>

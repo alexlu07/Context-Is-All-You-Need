@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110821.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-08-21 16:52:07 UTC">
+      <body>Dad and i are at the emergency room. I'll call if anything changes. Right now tHey are giving him fluids</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-21 16:54:10 UTC">
+      <body>What happened? Should I come down?</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-08-21 16:59:54 UTC">
+      <body>No he's had the flu for too many days and so they are checking him over</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-21 17:01:00 UTC">
+      <body>What could it be?</body>
+    </message>
+    <message id="m0004" participant="135103" time="2011-08-21 17:03:28 UTC">
+      <body>they're checking he it's bacterial or viral. And he his diabetes is out of whack</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-21 23:18:53 UTC">
+      <body>How is everything?</body>
+    </message>
+    <message id="m0006" participant="135103" time="2011-08-21 23:21:30 UTC">
+      <body>We're home. Dad still feels terrible but the pills haven't kicked in yet</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-08-21 23:21:59 UTC">
+      <body>When will they kick in?</body>
+    </message>
+    <message id="m0008" participant="135103" time="2011-08-21 23:23:22 UTC">
+      <body>We're hoping real soon. How are you doing?</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-08-21 23:23:52 UTC">
+      <body>I'm ok, tim left this morning and it was really horrible</body>
+    </message>
+    <message id="m0010" participant="135103" time="2011-08-21 23:24:44 UTC">
+      <body>I remember that feeling</body>
+    </message>
+    <message id="m0011" participant="135103" time="2011-08-22 12:30:40 UTC">
+      <body>I want to order sweatin to the oldhes  which one?</body>
+    </message>
+    <message id="m0012" participant="131839" time="2011-08-22 12:31:39 UTC">
+      <body>You can get all four in one then you'd have some cariety and wouldn't get tired of it</body>
+    </message>
+    <message id="m0013" participant="135103" time="2011-08-22 12:32:48 UTC">
+      <body>Ok i've lost twelve pounds!</body>
+    </message>
+    <message id="m0014" participant="131839" time="2011-08-22 12:33:24 UTC">
+      <body>Awesome mom, I'm proud of you</body>
+    </message>
+    <message id="m0015" participant="135103" time="2011-08-22 12:34:09 UTC">
+      <body>Thanks matt</body>
+    </message>
+    <message id="m0016" participant="131839" time="2011-08-22 12:36:16 UTC">
+      <body>How's dad?</body>
+    </message>
+  </messages>
+</conversation>

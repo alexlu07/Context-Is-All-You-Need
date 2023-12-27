@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-06-09 18:59:22 UTC">
+      <body>Hey sis. Danielle and I we're thinking about going to the drive in movie theater up your way this evening. Care for a lil visit?</body>
+    </message>
+    <message id="m0001" participant="136730" time="2013-06-09 19:14:06 UTC">
+      <body>Sure. Better check to make sure there open.</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-06-09 19:15:02 UTC">
+      <body>They are.</body>
+    </message>
+    <message id="m0003" participant="136730" time="2013-06-09 19:17:48 UTC">
+      <body>Cool what time u stopping by?</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-06-09 19:26:40 UTC">
+      <body>Still working that out.  Maybe around 7?  ....gotta do some more calculations tho.</body>
+    </message>
+    <message id="m0005" participant="136730" time="2013-06-09 19:56:51 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="131015" time="2013-06-09 22:56:04 UTC">
+      <body>Running pretty late because I had to change some tires on my car. Headed your way now. Not going to have to much time but it will be nice to see you and you finally meet Danielle.</body>
+    </message>
+    <message id="m0007" participant="136730" time="2013-06-09 23:11:17 UTC">
+      <body>Ok sounds good</body>
+    </message>
+  </messages>
+</conversation>

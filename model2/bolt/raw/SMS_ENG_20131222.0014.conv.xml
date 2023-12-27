@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131222.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-22 01:29:54 UTC" participant="153244">
+      <body>Hey tutoring tomorrow, you available? </body>
+    </message>
+    <message id="m0001" time="2013-12-22 02:49:55 UTC" participant="152116">
+      <body>Yeah I can. He's not on break?</body>
+    </message>
+    <message id="m0002" time="2013-12-22 04:08:21 UTC" participant="153244">
+      <body>Probably this week but he didn't have tutoring last weekend</body>
+    </message>
+    <message id="m0003" time="2013-12-22 04:17:31 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0004" time="2013-12-22 15:01:40 UTC" participant="153244">
+      <body>Hey you on your way?</body>
+    </message>
+  </messages>
+</conversation>
+

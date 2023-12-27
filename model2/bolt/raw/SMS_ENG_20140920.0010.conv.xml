@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 14:06:56 UTC" participant="153645">
+      <body>Want anything from satellite? </body>
+    </message>
+    <message id="m0001" time="2014-09-20 14:14:04 UTC" participant="153548">
+      <body>I'm good! I'm bringing a smoothie from home. Thank you!</body>
+    </message>
+    <message id="m0002" time="2014-09-20 14:19:44 UTC" participant="153645">
+      <body>Ok! </body>
+    </message>
+    <message id="m0003" time="2014-09-20 20:18:08 UTC" participant="153645">
+      <body>Thanks for being understanding - just got out of bed a bit ago - I will text or email with some other dates to meet up soon! </body>
+    </message>
+    <message id="m0004" time="2014-09-20 20:20:12 UTC" participant="153645">
+      <body>Have fun in Harrisburg! </body>
+    </message>
+    <message id="m0005" time="2014-09-20 21:06:52 UTC" participant="153548">
+      <body>No problem. Hope you feel better soon!!! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-05-01 16:22:57 UTC">
+      <body>Lunch today? You might have to pick me up.</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-05-01 17:41:49 UTC">
+      <body>Any thoughts?</body>
+    </message>
+    <message id="m0002" participant="131503" time="2013-05-01 17:44:14 UTC">
+      <body>Give me a moment, I was at the hospital for a doctors appointment with Natalie. Just getting out now. I kind of have to see how things look at work first.</body>
+    </message>
+    <message id="m0003" participant="131503" time="2013-05-01 17:44:32 UTC">
+      <body>Actually, I just realized that I won't have a car today because it is at the train station.</body>
+    </message>
+    <message id="m0004" participant="131503" time="2013-05-01 17:44:32 UTC">
+      <body>How does tomorrow look?</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-05-01 17:49:17 UTC">
+      <body>I was kind of hoping to use the excuse to escape from my coworker and return a phone call to an employer I applied to last night. But that's another issue.</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-05-01 17:50:11 UTC">
+      <body>I am actually curious to see your new place. I've got the car tonight if I want, any objections to me driving up?</body>
+    </message>
+    <message id="m0007" participant="131503" time="2013-05-01 17:59:28 UTC">
+      <body>No problem at all </body>
+    </message>
+    <message id="m0008" participant="131503" time="2013-05-01 18:16:32 UTC">
+      <body>What time would you be heading up?</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-05-01 18:18:31 UTC">
+      <body>Not sure. We've been leaving the client on average around 6:30. Have to go back to hotel to drop off co worker. Maybe 7?</body>
+    </message>
+    <message id="m0010" participant="131503" time="2013-05-01 18:18:40 UTC">
+      <body>Sounds good. </body>
+    </message>
+    <message id="m0011" participant="131503" time="2013-05-01 19:39:44 UTC">
+      <body>That might be an issue for tonight. Natalie's neurologist just called and wants to see her first thing in the morning. That means going to bed early and waking up at 4:30 tomorrow. Would you be able to come up tomorrow evening? </body>
+    </message>
+    <message id="m0012" participant="131503" time="2013-05-01 19:39:44 UTC">
+      <body>If you leave from here at 7 you will get to our place at almost 8pm</body>
+    </message>
+    <message id="m0013" participant="130706" time="2013-05-01 19:44:28 UTC">
+      <body>
+I'll be headin to the airport tomorrow night. Perhaps lunch tomorrow?</body>
+    </message>
+    <message id="m0014" participant="131503" time="2013-05-01 19:50:24 UTC">
+      <body>Lunch sounds good. I will pick you up. Just let me know what time.</body>
+    </message>
+    <message id="m0015" participant="130706" time="2013-05-01 19:52:12 UTC">
+      <body>1 pm work.</body>
+    </message>
+    <message id="m0016" participant="131503" time="2013-05-02 19:33:20 UTC">
+      <body>Can you send your address</body>
+    </message>
+    <message id="m0018" participant="131503" time="2013-05-02 19:35:28 UTC">
+      <body>What kind of food are you in the mood for?</body>
+    </message>
+    <message id="m0019" participant="130706" time="2013-05-02 19:50:42 UTC">
+      <body>Doesn't matter, anything goes.</body>
+    </message>
+  </messages>
+</conversation>

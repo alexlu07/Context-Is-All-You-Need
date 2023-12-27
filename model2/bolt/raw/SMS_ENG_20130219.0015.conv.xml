@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-02-19 00:32:41 UTC">
+      <body>Are we talking tonight?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-02-19 02:25:23 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="131023" time="2013-02-19 02:26:01 UTC">
+      <body>Guess not! I forgot sorry!  Xoxoxo. Tomorrow?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-02-19 02:26:47 UTC">
+      <body>Aw!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-02-19 02:27:19 UTC">
+      <body>"I hope Lucky can't fit through it." -Richie</body>
+    </message>
+    <message id="m0005" participant="131023" time="2013-02-19 02:27:45 UTC">
+      <body>Randy put in a doggie door for Annie today!   </body>
+    </message>
+    <message id="m0006" participant="131023" time="2013-02-19 02:29:28 UTC">
+      <body>Me too!</body>
+    </message>
+    <message id="m0007" participant="130712" time="2013-02-19 02:51:20 UTC">
+      <body>Oh, nice!!</body>
+    </message>
+    <message id="m0008" participant="130712" time="2013-02-19 02:53:03 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0009" participant="131023" time="2013-02-19 02:53:46 UTC">
+      <body>4 tomorrow?</body>
+    </message>
+    <message id="m0010" participant="131023" time="2013-02-19 02:54:46 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-11 01:58:19 UTC">
+      <body>Hey. My stomach hurts and I feel kind of sick so I'm not sure if I'm gonna go after all. If I start feeling better I might just go late. Sorry :(</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-02-11 01:59:08 UTC">
+      <body>Ok, that's fine. Feel better!</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-02-11 02:32:27 UTC">
+      <body>It's just me and sarah, haha</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-11 02:34:24 UTC">
+      <body>Oh nooo! I wish I could have come but I don't feel better :( tell her hi!</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-02-11 16:57:16 UTC">
+      <body>Hey, how are you feeling?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-02-11 16:58:13 UTC">
+      <body>Better! Nurse says its likely a virus and I'm likely contagious so I'm camping out here in Lloyd :P</body>
+    </message>
+  </messages>
+</conversation>

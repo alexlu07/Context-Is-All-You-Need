@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130518" time="2013-05-01 08:53:23 UTC">
+      <body>Good morning Italy</body>
+    </message>
+    <message id="m0001" participant="130524" time="2013-05-01 08:54:30 UTC">
+      <body>'Morning</body>
+    </message>
+    <message id="m0002" participant="130518" time="2013-05-01 08:56:35 UTC">
+      <body>Is this a good time to chat or would you like to chat later today?</body>
+    </message>
+    <message id="m0003" participant="130524" time="2013-05-01 08:58:02 UTC">
+      <body>The evening would probably be better for me. Is that okay for you?</body>
+    </message>
+    <message id="m0004" participant="130518" time="2013-05-01 08:58:55 UTC">
+      <body>Yes that would be great.</body>
+    </message>
+    <message id="m0005" participant="130518" time="2013-05-01 08:59:24 UTC">
+      <body>Just send a text and let me kno</body>
+    </message>
+    <message id="m0006" participant="130524" time="2013-05-01 09:00:00 UTC">
+      <body>Ok awesome! Sounds good</body>
+    </message>
+    <message id="m0007" participant="130524" time="2013-05-01 09:00:47 UTC">
+      <body>7ish ok again?</body>
+    </message>
+    <message id="m0008" participant="130518" time="2013-05-01 09:01:17 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0009" participant="130524" time="2013-05-01 09:01:41 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0010" participant="130524" time="2013-05-01 19:30:03 UTC">
+      <body>Hey!</body>
+    </message>
+    <message id="m0011" participant="130518" time="2013-05-01 19:30:59 UTC">
+      <body>Hey how did it go</body>
+    </message>
+    <message id="m0012" participant="130524" time="2013-05-01 19:32:38 UTC">
+      <body>My presentation is tomorrow just doing some last minute revisions</body>
+    </message>
+    <message id="m0013" participant="130524" time="2013-05-01 19:32:43 UTC">
+      <body>How was your day?</body>
+    </message>
+    <message id="m0014" participant="130518" time="2013-05-01 19:35:31 UTC">
+      <body>It wasn't bad at all. I went to the office for a half day and then did some research on Martin Luther quotes.</body>
+    </message>
+    <message id="m0015" participant="130524" time="2013-05-01 19:37:00 UTC">
+      <body>Why are you researching Martin Luther quotes?</body>
+    </message>
+    <message id="m0016" participant="130518" time="2013-05-01 19:39:11 UTC">
+      <body>I would like to incorporate him into an art project I am proposing</body>
+    </message>
+    <message id="m0017" participant="130518" time="2013-05-01 19:39:36 UTC">
+      <body>He has some very colorful quotes</body>
+    </message>
+    <message id="m0018" participant="130524" time="2013-05-01 19:40:15 UTC">
+      <body>That's so cool was that the grant you were writing?</body>
+    </message>
+    <message id="m0019" participant="130518" time="2013-05-01 19:41:27 UTC">
+      <body>It wasn't a grant just a proposal to do an installation in Minneapolis</body>
+    </message>
+    <message id="m0020" participant="130524" time="2013-05-01 19:42:18 UTC">
+      <body>Oh awesome!</body>
+    </message>
+    <message id="m0021" participant="130524" time="2013-05-01 19:42:45 UTC">
+      <body>How do you find places to put your work up?</body>
+    </message>
+    <message id="m0022" participant="130518" time="2013-05-01 19:45:14 UTC">
+      <body>I get a lot of calls for submissions and residencies from friends and from different programs</body>
+    </message>
+    <message id="m0023" participant="130518" time="2013-05-01 19:46:04 UTC">
+      <body>But you can just search for applications online, there are so many</body>
+    </message>
+    <message id="m0024" participant="130524" time="2013-05-01 19:46:31 UTC">
+      <body>So you have a lot of connections? That's so cool</body>
+    </message>
+    <message id="m0025" participant="130524" time="2013-05-01 19:48:31 UTC">
+      <body>So you do a lot of them?</body>
+    </message>
+    <message id="m0026" participant="130518" time="2013-05-01 19:48:36 UTC">
+      <body>Sort of, I mean most of my friends are artists or have something to do with the arts.</body>
+    </message>
+    <message id="m0027" participant="130518" time="2013-05-01 19:49:41 UTC">
+      <body>No I don't like working away from home</body>
+    </message>
+    <message id="m0028" participant="130518" time="2013-05-01 19:50:24 UTC">
+      <body>But the place in Minneapolis gives u assistants and has a lot of the materials on hand</body>
+    </message>
+    <message id="m0029" participant="130518" time="2013-05-01 19:51:36 UTC">
+      <body>It's not likely that they will invite me there</body>
+    </message>
+    <message id="m0030" participant="130524" time="2013-05-01 19:51:36 UTC">
+      <body>That's awesome</body>
+    </message>
+    <message id="m0031" participant="130524" time="2013-05-01 19:52:09 UTC">
+      <body>Do you do a lot in Philly? Have you had your work up here?</body>
+    </message>
+    <message id="m0032" participant="130518" time="2013-05-01 19:52:41 UTC">
+      <body>Once and a while I just do an application to keep from getting rusty</body>
+    </message>
+    <message id="m0033" participant="130518" time="2013-05-01 19:53:02 UTC">
+      <body>I've shown a bit in Philly</body>
+    </message>
+    <message id="m0034" participant="130518" time="2013-05-01 19:53:12 UTC">
+      <body>The last show I was in here came down in feb</body>
+    </message>
+    <message id="m0035" participant="130524" time="2013-05-01 19:55:47 UTC">
+      <body>Cool! Do you have any in the near future?</body>
+    </message>
+    <message id="m0036" participant="130524" time="2013-05-01 19:55:47 UTC">
+      <body>Or just considering this Minneapolis one?</body>
+    </message>
+    <message id="m0037" participant="130518" time="2013-05-01 19:57:07 UTC">
+      <body>Nothing planed at the moment just doing some applications</body>
+    </message>
+    <message id="m0038" participant="130518" time="2013-05-01 19:58:14 UTC">
+      <body>For every ten applications I fill out I usually land 1</body>
+    </message>
+    <message id="m0039" participant="130518" time="2013-05-01 20:07:20 UTC">
+      <body>I'm so ready for summer</body>
+    </message>
+    <message id="m0040" participant="130518" time="2013-05-01 20:07:20 UTC">
+      <body>I need to go swimming as soon as possible</body>
+    </message>
+    <message id="m0041" participant="130524" time="2013-05-01 20:07:20 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0042" participant="130524" time="2013-05-01 20:08:57 UTC">
+      <body>I know!</body>
+    </message>
+    <message id="m0043" participant="130524" time="2013-05-01 20:09:07 UTC">
+      <body>I'm following my summer league draft right now and it just makes me want to go outside and play</body>
+    </message>
+    <message id="m0044" participant="130524" time="2013-05-01 20:09:39 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0045" participant="130524" time="2013-05-01 20:10:24 UTC">
+      <body>Or down the shore</body>
+    </message>
+    <message id="m0046" participant="130518" time="2013-05-01 20:19:58 UTC">
+      <body>And the weather has been awesome lately, it does not make me want to go to the office</body>
+    </message>
+    <message id="m0047" participant="130518" time="2013-05-01 20:19:58 UTC">
+      <body>Did you ever watch the comedy show The State that was on MTV in the90's</body>
+    </message>
+    <message id="m0048" participant="130524" time="2013-05-01 20:19:58 UTC">
+      <body>None of my friends have shore houses anymore tho</body>
+    </message>
+    <message id="m0049" participant="130524" time="2013-05-01 20:19:58 UTC">
+      <body>Tho all the sand is annoying cause it just gets everywhere</body>
+    </message>
+    <message id="m0050" participant="130524" time="2013-05-01 20:21:18 UTC">
+      <body>Yes! I loved The State!</body>
+    </message>
+    <message id="m0051" participant="130518" time="2013-05-01 20:21:39 UTC">
+      <body>Yeah I guess the beach isn't totally great</body>
+    </message>
+    <message id="m0052" participant="130524" time="2013-05-01 20:21:39 UTC">
+      <body>I watched it on VHS at a friend's house a lot</body>
+    </message>
+    <message id="m0053" participant="130524" time="2013-05-01 20:21:39 UTC">
+      <body>Michael Ian Black is the man</body>
+    </message>
+    <message id="m0054" participant="130518" time="2013-05-01 20:22:59 UTC">
+      <body>Yes the state is so good.</body>
+    </message>
+    <message id="m0055" participant="130518" time="2013-05-01 20:24:07 UTC">
+      <body>Did you watch the movie wet hot American summer with a lot of the state cast in it</body>
+    </message>
+    <message id="m0056" participant="130524" time="2013-05-01 20:24:58 UTC">
+      <body>Yeah loved it! Haven't seen it in awhile tho</body>
+    </message>
+    <message id="m0057" participant="130524" time="2013-05-01 20:25:28 UTC">
+      <body>I live Paul Rudd too</body>
+    </message>
+    <message id="m0058" participant="130524" time="2013-05-01 20:25:28 UTC">
+      <body>*love</body>
+    </message>
+    <message id="m0059" participant="130518" time="2013-05-01 20:25:56 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0060" participant="130518" time="2013-05-01 20:26:46 UTC">
+      <body>I wish I had gone to a summer camp like that when I was a kid</body>
+    </message>
+    <message id="m0061" participant="130524" time="2013-05-01 20:27:12 UTC">
+      <body>We watch Role Models every NYE.</body>
+    </message>
+    <message id="m0062" participant="130524" time="2013-05-01 20:27:55 UTC">
+      <body>It's just so good</body>
+    </message>
+    <message id="m0063" participant="130518" time="2013-05-01 20:28:46 UTC">
+      <body>What is that show about? I don't know it</body>
+    </message>
+    <message id="m0065" participant="130524" time="2013-05-01 20:29:55 UTC">
+      <body>Haha yeah. I never even went to summer camp really</body>
+    </message>
+    <message id="m0066" participant="130524" time="2013-05-01 20:30:23 UTC">
+      <body>Role Models is a movie with Paul Rudd and Sean William Scott and Jane Lynch and the guy who plays McLovin</body>
+    </message>
+    <message id="m0067" participant="130524" time="2013-05-01 20:30:50 UTC">
+      <body>It's really funny, if you haven't seen it</body>
+    </message>
+    <message id="m0068" participant="130518" time="2013-05-01 20:31:52 UTC">
+      <body>Summer camp with Michael Showalter would have been so cool!</body>
+    </message>
+    <message id="m0069" participant="130518" time="2013-05-01 20:32:22 UTC">
+      <body>Is role models a recent film</body>
+    </message>
+    <message id="m0070" participant="130524" time="2013-05-01 20:32:50 UTC">
+      <body>Absolutely!</body>
+    </message>
+    <message id="m0071" participant="130524" time="2013-05-01 20:34:11 UTC">
+      <body>Yeah I thought it was really funny</body>
+    </message>
+    <message id="m0072" participant="130518" time="2013-05-01 20:35:03 UTC">
+      <body>I wonder if its on net flicks</body>
+    </message>
+    <message id="m0073" participant="130524" time="2013-05-01 20:36:05 UTC">
+      <body>I'd bet it is</body>
+    </message>
+    <message id="m0074" participant="130524" time="2013-05-01 20:36:11 UTC">
+      <body>It's been a few yrs</body>
+    </message>
+    <message id="m0075" participant="130518" time="2013-05-01 20:37:51 UTC">
+      <body>I want to go to the theater to see a new film but I have no idea what's playing</body>
+    </message>
+    <message id="m0076" participant="130518" time="2013-05-01 20:37:51 UTC">
+      <body>Do you know anything good that's playing now</body>
+    </message>
+    <message id="m0077" participant="130524" time="2013-05-01 20:38:44 UTC">
+      <body>I haven't been it a while</body>
+    </message>
+    <message id="m0078" participant="130524" time="2013-05-01 20:39:12 UTC">
+      <body>But I love going esp when they have college night and tix are cheaper</body>
+    </message>
+    <message id="m0079" participant="130518" time="2013-05-01 20:40:53 UTC">
+      <body>Have u ever been to the Ihouse at penn to see a movie</body>
+    </message>
+    <message id="m0080" participant="130524" time="2013-05-01 20:41:42 UTC">
+      <body>No, I always go to the Rave</body>
+    </message>
+    <message id="m0081" participant="130518" time="2013-05-01 20:41:47 UTC">
+      <body>They play a lot of good movies that haven been seen on the big screen in a long time</body>
+    </message>
+    <message id="m0082" participant="130524" time="2013-05-01 20:42:08 UTC">
+      <body>I'm excited for Star Trek but I think that's coming out in the summer</body>
+    </message>
+    <message id="m0083" participant="130524" time="2013-05-01 20:42:09 UTC">
+      <body>Did you watch the trailer for it?</body>
+    </message>
+    <message id="m0084" participant="130524" time="2013-05-01 20:43:00 UTC">
+      <body>Oh awesome! There was a theater like that where I grew up</body>
+    </message>
+    <message id="m0085" participant="130518" time="2013-05-01 20:43:15 UTC">
+      <body>I like the rave too but it has been awhile</body>
+    </message>
+    <message id="m0086" participant="130518" time="2013-05-01 20:51:44 UTC">
+      <body>Yes! I did watch the trailer</body>
+    </message>
+    <message id="m0087" participant="130518" time="2013-05-01 20:51:44 UTC">
+      <body>A young Scotty!</body>
+    </message>
+    <message id="m0088" participant="130518" time="2013-05-01 20:51:44 UTC">
+      <body>The movie looked cool.</body>
+    </message>
+    <message id="m0089" participant="130518" time="2013-05-01 20:51:44 UTC">
+      <body>I think I'm going to go see the ST movie when it comes out even tho I didn't see the last one</body>
+    </message>
+    <message id="m0090" participant="130524" time="2013-05-01 20:51:44 UTC">
+      <body>The midnight movies were always like oldish awesome movies that hasn't been around</body>
+    </message>
+    <message id="m0091" participant="130524" time="2013-05-01 20:52:32 UTC">
+      <body>But yeah, there hasn't been anything good lately</body>
+    </message>
+    <message id="m0092" participant="130524" time="2013-05-01 20:52:58 UTC">
+      <body>I think they're all waiting to come out over the summer</body>
+    </message>
+    <message id="m0093" participant="130524" time="2013-05-01 20:54:13 UTC">
+      <body>The last one was good! See if it's on Netflix</body>
+    </message>
+    <message id="m0094" participant="130524" time="2013-05-01 20:54:37 UTC">
+      <body>It's worth it to watch but def see the second one either way bc I think the big screen is gonna be sweet</body>
+    </message>
+    <message id="m0095" participant="130518" time="2013-05-01 21:04:21 UTC">
+      <body>I saw there is a new iron man movie this summer. I probably wouldn't see it but I heard Ben Kingsley is in it and I like him a lot</body>
+    </message>
+    <message id="m0096" participant="130518" time="2013-05-01 21:04:21 UTC">
+      <body>Yeah everything is on tiny phone screens and its really nice to see a film on the big screen</body>
+    </message>
+    <message id="m0097" participant="130518" time="2013-05-01 21:04:21 UTC">
+      <body>What time can you chat till tonight?</body>
+    </message>
+    <message id="m0098" participant="130524" time="2013-05-01 21:07:05 UTC">
+      <body>I like Ben Kingsly a lot too!</body>
+    </message>
+    <message id="m0099" participant="130524" time="2013-05-01 21:07:37 UTC">
+      <body>He's been in so much stuff!</body>
+    </message>
+    <message id="m0100" participant="130524" time="2013-05-01 21:07:52 UTC">
+      <body>I can chat til like 10ish probs</body>
+    </message>
+    <message id="m0101" participant="130518" time="2013-05-01 21:10:08 UTC">
+      <body>Have u ever seen Kingsley in Sexy Beast</body>
+    </message>
+    <message id="m0102" participant="130524" time="2013-05-01 21:10:56 UTC">
+      <body>No I haven't</body>
+    </message>
+    <message id="m0103" participant="130518" time="2013-05-01 21:11:01 UTC">
+      <body>If you watch that and then ghandi it's hard to believe its the same actor</body>
+    </message>
+    <message id="m0104" participant="130524" time="2013-05-01 21:12:01 UTC">
+      <body>It's so amazing when they're so versatile</body>
+    </message>
+    <message id="m0105" participant="130518" time="2013-05-01 21:13:00 UTC">
+      <body>Sexy beast is a British gangster movie from 2000 where Kingsley plays a complete psycho</body>
+    </message>
+    <message id="m0106" participant="130524" time="2013-05-01 21:13:00 UTC">
+      <body>I think I'd have a hard enough time remembering lines</body>
+    </message>
+    <message id="m0107" participant="130524" time="2013-05-01 21:14:01 UTC">
+      <body>That sounds really awesome actually lol</body>
+    </message>
+    <message id="m0108" participant="130518" time="2013-05-01 21:14:37 UTC">
+      <body>Yeah I could never act, I'm way to self conscience</body>
+    </message>
+    <message id="m0109" participant="130518" time="2013-05-01 21:15:59 UTC">
+      <body>Yeah you should check out sexy beast, it's way less known than it deserves to be. There is some intense acting in it</body>
+    </message>
+    <message id="m0110" participant="130524" time="2013-05-01 21:16:03 UTC">
+      <body>I've never tried and I agree I think I'd be way too self conscious</body>
+    </message>
+    <message id="m0111" participant="130524" time="2013-05-01 21:16:29 UTC">
+      <body>Too much attention</body>
+    </message>
+    <message id="m0112" participant="130524" time="2013-05-01 21:17:33 UTC">
+      <body>Do you know if it's on Netflix?</body>
+    </message>
+    <message id="m0113" participant="130518" time="2013-05-01 21:17:34 UTC">
+      <body>Also the Kingsley movie the house of sand and fog is really good but again totally different kind of character</body>
+    </message>
+    <message id="m0114" participant="130518" time="2013-05-01 21:18:43 UTC">
+      <body>I've never seen a bad performance from Kingsley</body>
+    </message>
+    <message id="m0115" participant="130518" time="2013-05-01 21:19:12 UTC">
+      <body>I think sexy beast is on net flicks!</body>
+    </message>
+    <message id="m0116" participant="130518" time="2013-05-01 21:20:22 UTC">
+      <body>House of sand and fog is on Netflix but not on instant</body>
+    </message>
+    <message id="m0117" participant="130518" time="2013-05-01 21:20:43 UTC">
+      <body>So u have to order the DVD and wait</body>
+    </message>
+    <message id="m0118" participant="130524" time="2013-05-01 21:20:43 UTC">
+      <body>What's that one about?</body>
+    </message>
+    <message id="m0119" participant="130524" time="2013-05-01 21:21:30 UTC">
+      <body>I have no patience!</body>
+    </message>
+    <message id="m0120" participant="130518" time="2013-05-01 21:23:30 UTC">
+      <body>House of sand and fog is about a family who buys a foreclosed home and the prior owner wants it back</body>
+    </message>
+    <message id="m0121" participant="130518" time="2013-05-01 21:23:58 UTC">
+      <body>But it is way better than the description sounds</body>
+    </message>
+    <message id="m0122" participant="130524" time="2013-05-01 21:25:30 UTC">
+      <body>Haha that happens a lot</body>
+    </message>
+    <message id="m0123" participant="130518" time="2013-05-01 21:25:55 UTC">
+      <body>Yeah I don't like to wait for movies either but sometimes I do because the movies are impossible to get otherwise</body>
+    </message>
+    <message id="m0124" participant="130524" time="2013-05-01 21:28:05 UTC">
+      <body>Yeah very true</body>
+    </message>
+    <message id="m0125" participant="130518" time="2013-05-01 21:29:36 UTC">
+      <body>I just got Polanski's film repulsion in the mail from Netflix</body>
+    </message>
+    <message id="m0126" participant="130518" time="2013-05-01 21:30:24 UTC">
+      <body>I can't wait to watch it this weekend. I've hear good things about it</body>
+    </message>
+    <message id="m0127" participant="130524" time="2013-05-01 21:31:18 UTC">
+      <body>I haven't heard of that</body>
+    </message>
+    <message id="m0128" participant="130518" time="2013-05-01 21:32:33 UTC">
+      <body>It's from 1965!</body>
+    </message>
+    <message id="m0129" participant="130524" time="2013-05-01 21:33:25 UTC">
+      <body>Oh wow!</body>
+    </message>
+    <message id="m0130" participant="130518" time="2013-05-01 21:33:29 UTC">
+      <body>I'm going to send you an emoji in the next txt , tell me if you get it</body>
+    </message>
+    <message id="m0131" participant="130518" time="2013-05-01 21:33:43 UTC">
+      <body/>
+    </message>
+    <message id="m0132" participant="130524" time="2013-05-01 21:42:40 UTC">
+      <body>Nope didn't get it</body>
+    </message>
+    <message id="m0133" participant="130524" time="2013-05-01 21:42:40 UTC">
+      <body>It's just blank</body>
+    </message>
+    <message id="m0134" participant="130518" time="2013-05-01 21:42:41 UTC">
+      <body>I guess the emoji didn't work. I was just curious to see what would happen</body>
+    </message>
+    <message id="m0135" participant="130518" time="2013-05-01 21:42:41 UTC">
+      <body>I see that Polanski made a film with Sigourney Weaver and Ben Kingsley!</body>
+    </message>
+    <message id="m0136" participant="130518" time="2013-05-01 21:42:41 UTC">
+      <body>I guess that's next in my net flicks queue</body>
+    </message>
+    <message id="m0137" participant="130524" time="2013-05-01 21:42:57 UTC">
+      <body>It doesn't have any weird signs either</body>
+    </message>
+    <message id="m0138" participant="130524" time="2013-05-01 21:51:21 UTC">
+      <body>Just shows up as your handle with nothing</body>
+    </message>
+    <message id="m0139" participant="130524" time="2013-05-01 21:51:21 UTC">
+      <body>Alright, I have to get going</body>
+    </message>
+    <message id="m0140" participant="130524" time="2013-05-01 21:51:21 UTC">
+      <body>Have to send my partner this video because she couldn't get the one I sent her this morning</body>
+    </message>
+    <message id="m0141" participant="130518" time="2013-05-01 21:52:54 UTC">
+      <body>Just an experiment</body>
+    </message>
+    <message id="m0142" participant="130518" time="2013-05-01 21:53:44 UTC">
+      <body>Ok good luck! Talk to you later!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121117.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2012-11-17 01:43:02 UTC">
+      <body>Are you coming to the show? I have a chair for you</body>
+    </message>
+    <message id="m0001" participant="135275" time="2012-11-17 07:09:41 UTC">
+      <body>You want to do breakfast at 11 or 11:30?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-17 07:10:02 UTC">
+      <body>11:30?</body>
+    </message>
+    <message id="m0003" participant="135275" time="2012-11-17 07:11:48 UTC">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>

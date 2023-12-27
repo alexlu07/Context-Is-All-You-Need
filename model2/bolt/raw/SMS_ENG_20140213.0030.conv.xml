@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140213.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-13 23:17:13 UTC" participant="153900">
+      <body>Hey did you work today</body>
+    </message>
+    <message id="m0001" time="2014-02-13 23:27:06 UTC" participant="153244">
+      <body>No had off</body>
+    </message>
+    <message id="m0002" time="2014-02-13 23:28:04 UTC" participant="153900">
+      <body>Are you off tomorrow they are closing school and goverment offices</body>
+    </message>
+    <message id="m0003" time="2014-02-13 23:28:59 UTC" participant="153244">
+      <body>Oh we don't know yet</body>
+    </message>
+  </messages>
+</conversation>
+

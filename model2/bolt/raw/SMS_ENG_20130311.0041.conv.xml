@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130311.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-03-11 18:30:25 UTC">
+      <body>Hey, are you at my crib right now? I think I might have fucked up.</body>
+    </message>
+    <message id="m0001" participant="136729" time="2013-03-11 18:33:03 UTC">
+      <body>nah, whats up?</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-03-11 18:34:56 UTC">
+      <body>If yr not at the crib it doesn't matter.  I'll keep trying to get ahold of someone.</body>
+    </message>
+    <message id="m0003" participant="136729" time="2013-03-11 18:38:11 UTC">
+      <body>word</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135897" time="2013-07-07 15:47:45 UTC">
+      <body>Hey Jeremy...can I swing by in about 15 min to grab keys?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-07 15:56:54 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" participant="135897" time="2013-07-07 16:38:53 UTC">
+      <body>Hey man....outside with the keys</body>
+    </message>
+    <message id="m0004" participant="135897" time="2013-07-07 16:39:58 UTC">
+      <body>Xp</body>
+    </message>
+  </messages>
+</conversation>

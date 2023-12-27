@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140923.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-23 21:59:49 UTC" participant="152115">
+      <body>I just got Fluffy' s lab report.  Is he anemic or is it something worse?</body>
+    </message>
+    <message id="m0001" time="2014-09-23 22:01:09 UTC" participant="152117">
+      <body>Unfortunately, it's both. I'll tell u when you get home.</body>
+    </message>
+    <message id="m0002" time="2014-09-24 13:28:12 UTC" participant="152115">
+      <body>I'm home. No one told me that the lady wasn't going to be in today to teach the class.</body>
+    </message>
+  </messages>
+</conversation>
+

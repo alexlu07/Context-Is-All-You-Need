@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150410.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-10 21:27:51 UTC" participant="154991">
+      <body>What are you doing tonight?</body>
+    </message>
+    <message id="m0001" time="2015-04-10 22:54:28 UTC" participant="153491">
+      <body>Hey Brenda!!! </body>
+    </message>
+    <message id="m0002" time="2015-04-10 22:54:57 UTC" participant="153491">
+      <body>I might be going to get sushi with my friend. You?</body>
+    </message>
+    <message id="m0003" time="2015-04-10 22:58:08 UTC" participant="154991">
+      <body>Do you want to come out with us?</body>
+    </message>
+    <message id="m0004" time="2015-04-10 22:59:06 UTC" participant="153491">
+      <body>Where/when are you going out???</body>
+    </message>
+    <message id="m0005" time="2015-04-10 23:28:00 UTC" participant="154991">
+      <body>We're going to meet at my place around 9:30</body>
+    </message>
+    <message id="m0006" time="2015-04-10 23:28:44 UTC" participant="154991">
+      <body>Or you can meet us later</body>
+    </message>
+    <message id="m0007" time="2015-04-10 23:44:26 UTC" participant="153491">
+      <body>Oh cool! Are you all planning to go out or staying in?</body>
+    </message>
+    <message id="m0008" time="2015-04-10 23:45:04 UTC" participant="154991">
+      <body>Going out</body>
+    </message>
+    <message id="m0009" time="2015-04-10 23:46:07 UTC" participant="153491">
+      <body>Around Havertown or in Philly?</body>
+    </message>
+    <message id="m0010" time="2015-04-10 23:47:12 UTC" participant="154991">
+      <body>Not sure yet</body>
+    </message>
+    <message id="m0011" time="2015-04-10 23:53:54 UTC" participant="153491">
+      <body>Okay, just let me know when you decide. I might still be out so we could coordinate :)</body>
+    </message>
+    <message id="m0012" time="2015-04-10 23:54:20 UTC" participant="154991">
+      <body>Ok. I'll keep you posted</body>
+    </message>
+    <message id="m0013" time="2015-04-10 23:54:44 UTC" participant="153491">
+      <body>Thank you Brenda dear!!! </body>
+    </message>
+    <message id="m0014" time="2015-04-11 01:34:25 UTC" participant="153491">
+      <body>Any updates?</body>
+    </message>
+    <message id="m0015" time="2015-04-11 06:28:53 UTC" participant="153491">
+      <body>Are you okay?</body>
+    </message>
+  </messages>
+</conversation>
+

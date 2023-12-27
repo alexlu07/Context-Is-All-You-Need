@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140725.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-25 18:14:38 UTC" participant="153448">
+      <body>Hi John,
+Will be showing the apt today around 330-4pm and tomorrow various times. 
+If you need a couple days extra to move out no problem, no charge. We </body>
+    </message>
+    <message id="m0001" time="2014-07-25 18:15:44 UTC" participant="153448">
+      <body>will not get to it for a few days anyway. 
+Jim</body>
+    </message>
+    <message id="m0002" time="2014-07-25 18:18:18 UTC" participant="153418">
+      <body>Hi Jim. Thanks for the heads up. I apologize, the apartment might be a bit of a mess today. I'll have it cleaned up for tomorrow.</body>
+    </message>
+    <message id="m0003" time="2014-07-25 18:19:06 UTC" participant="153418">
+      <body>Would you happen to have any new information about the furniture that I wanted to leave? </body>
+    </message>
+    <message id="m0004" time="2014-07-25 18:20:05 UTC" participant="153448">
+      <body>We cannot use it. But I am still asking around if someone wants it.</body>
+    </message>
+  </messages>
+</conversation>
+

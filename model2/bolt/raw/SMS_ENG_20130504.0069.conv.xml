@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 21:56:13 UTC" participant="153472">
+      <body>I'm in need of some Indian food options. any suggestions?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 21:57:25 UTC" participant="152374">
+      <body>I'd vote for either King of Tandoor (which is also byob, that's the one we went to one) or Tiffin</body>
+    </message>
+    <message id="m0002" time="2013-05-04 21:58:31 UTC" participant="153472">
+      <body>oops. I'm actually looking for entre suggestions. I'm in the Poconos and taking my parents for Indian.</body>
+    </message>
+    <message id="m0003" time="2013-05-04 22:00:12 UTC" participant="152374">
+      <body>Ah! Non-spicy: chicken korma (delicious cashew sauce). Otherwise anything tikka masala is a good intro, or tandoori if they prefer a smoked/grilled kind of thing</body>
+    </message>
+    <message id="m0004" time="2013-05-04 22:01:12 UTC" participant="152374">
+      <body>It also depends on the type of restaurant you're at though. Northern Indian is a lot different than other styles, for example. I'd just ask for their suggestions for someone new to the cuisine :-)</body>
+    </message>
+  </messages>
+</conversation>
+

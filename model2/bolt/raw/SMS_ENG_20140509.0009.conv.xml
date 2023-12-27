@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140509.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-09 20:13:52 UTC" participant="153557">
+      <body>I'm at whole foods. Do you need me to pick up meat ?</body>
+    </message>
+    <message id="m0001" time="2014-05-09 20:22:54 UTC" participant="153547">
+      <body>Get chips</body>
+    </message>
+    <message id="m0002" time="2014-05-09 20:23:15 UTC" participant="153557">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-05-10 15:21:17 UTC" participant="153547">
+      <body>I'm sorry I was being rude last night.  I ate some guac this morning</body>
+    </message>
+  </messages>
+</conversation>
+

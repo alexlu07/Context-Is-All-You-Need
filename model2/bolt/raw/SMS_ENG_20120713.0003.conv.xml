@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120713.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131531" time="2012-07-13 14:50:49 UTC">
+      <body>Ms Faber we both forgot about our standing Tuesday date this week! </body>
+    </message>
+    <message id="m0001" participant="131531" time="2012-07-13 14:51:08 UTC">
+      <body>I knew something was off with my week and just realized! </body>
+    </message>
+    <message id="m0002" participant="131528" time="2012-07-13 15:28:34 UTC">
+      <body>I wasn't sure if you were back from SC! We won't forget next week. Can we grab a salad and a bottle of wine and hang out at you house? </body>
+    </message>
+    <message id="m0003" participant="131531" time="2012-07-13 15:30:50 UTC">
+      <body>Yes!! Sounds awesome, we can go to the roof and just relax. Glorious. </body>
+    </message>
+    <message id="m0004" participant="131528" time="2012-07-13 15:35:08 UTC">
+      <body>Roof? Yay!!! </body>
+    </message>
+  </messages>
+</conversation>

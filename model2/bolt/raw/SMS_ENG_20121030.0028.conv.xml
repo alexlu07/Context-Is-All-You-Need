@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121030.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-30 21:39:45 UTC">
+      <body/>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-31 03:03:24 UTC">
+      <body>Do you want to eat some birthday cake soon? </body>
+    </message>
+    <message id="m0002" participant="136263" time="2012-10-31 03:03:28 UTC">
+      <body>Yez</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-31 03:04:42 UTC">
+      <body>Aiiiight</body>
+    </message>
+  </messages>
+</conversation>

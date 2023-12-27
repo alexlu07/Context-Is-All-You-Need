@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0026" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130632" time="2013-05-22 09:20:09 UTC">
+      <body>Hello, good morning</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-05-22 12:12:59 UTC">
+      <body>Hugamorg</body>
+    </message>
+    <message id="m0002" participant="130688" time="2013-05-22 12:30:06 UTC">
+      <body>Hello:-) good afternoon</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-05-22 12:37:18 UTC">
+      <body>Hi. my allergies are brutal today. i just took some benedryl.</body>
+    </message>
+    <message id="m0004" participant="130688" time="2013-05-22 12:39:45 UTC">
+      <body>Yuck. Benedryl makes me super sleepy. Does it make you sleepy?</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-05-22 13:41:07 UTC">
+      <body>No i dont feel too tired but i may crash after lunch</body>
+    </message>
+    <message id="m0006" participant="130632" time="2013-05-22 14:40:53 UTC">
+      <body>What's your favorite color?</body>
+    </message>
+    <message id="m0007" participant="130688" time="2013-05-22 14:42:45 UTC">
+      <body>Yellow. You?</body>
+    </message>
+    <message id="m0008" participant="130632" time="2013-05-22 14:53:36 UTC">
+      <body>Green. realizing that 50% of my wardrobe is green</body>
+    </message>
+    <message id="m0009" participant="130688" time="2013-05-22 14:56:19 UTC">
+      <body>Funny. Wearing green right now.</body>
+    </message>
+    <message id="m0010" participant="130632" time="2013-05-22 15:05:45 UTC">
+      <body>Don't cop my style</body>
+    </message>
+    <message id="m0011" participant="130688" time="2013-05-22 16:14:12 UTC">
+      <body>Lol. Maybe you are cropping mine</body>
+    </message>
+    <message id="m0012" participant="130632" time="2013-05-22 18:23:21 UTC">
+      <body>What plant do you enjoy interacting with most?</body>
+    </message>
+    <message id="m0013" participant="130688" time="2013-05-22 18:43:13 UTC">
+      <body>Aloe vera. It never dies and calms the burn. You?</body>
+    </message>
+    <message id="m0014" participant="130632" time="2013-05-22 19:10:14 UTC">
+      <body>Okra. i haven't quite figured it out yet, but okra looms large in my psyche</body>
+    </message>
+    <message id="m0015" participant="130632" time="2013-05-22 19:16:06 UTC">
+      <body>I just read a poem that mentioned aloe</body>
+    </message>
+  </messages>
+</conversation>

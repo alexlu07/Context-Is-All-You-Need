@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-06-29 14:35:15 UTC">
+      <body>Moving day moving day!!! :D I get to see you soon!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-29 14:43:33 UTC">
+      <body>Do you know when you are getting here? Do you need help moving?</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-06-29 14:46:48 UTC">
+      <body>Hey! Probably coming over in an hour or two. Wouldn't mind some help moving boxes up to my room, if you're up for it. Can't wait to see you! :)</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-29 14:47:33 UTC">
+      <body>Ok! I will finish eating and shower and head there. I know they are cleaning now anyway</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-06-29 14:49:30 UTC">
+      <body>Okay cool. I'll let you know when I'm heading over there. </body>
+    </message>
+  </messages>
+</conversation>

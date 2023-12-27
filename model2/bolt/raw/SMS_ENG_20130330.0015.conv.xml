@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2013-03-30 18:05:29 UTC">
+      <body>Try an be here by noonish prlly</body>
+    </message>
+    <message id="m0001" participant="131065" time="2013-03-30 18:06:32 UTC">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0002" participant="131019" time="2013-03-30 18:06:43 UTC">
+      <body>At pomas you want anything?</body>
+    </message>
+    <message id="m0003" participant="131065" time="2013-03-30 18:12:16 UTC">
+      <body>Heh no thanks, but enjoy lovey!</body>
+    </message>
+    <message id="m0004" participant="131065" time="2013-03-30 18:14:24 UTC">
+      <body>I'm perfectly okay with that hahah</body>
+    </message>
+    <message id="m0005" participant="131019" time="2013-03-30 18:14:28 UTC">
+      <body>You'll prlly have to eat half my meatball btw</body>
+    </message>
+    <message id="m0006" participant="131019" time="2013-03-30 18:44:03 UTC">
+      <body>Let me know when you leave</body>
+    </message>
+    <message id="m0007" participant="131065" time="2013-03-30 18:46:24 UTC">
+      <body>Just did, by usd</body>
+    </message>
+  </messages>
+</conversation>

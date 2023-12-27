@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140927.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-27 23:34:11 UTC" participant="153541">
+      <body>Hola. It's Quang. What are you doing tonight?</body>
+    </message>
+    <message id="m0001" time="2014-09-27 23:56:48 UTC" participant="153491">
+      <body>Chao! Did you get a new number? I'm currently babysitting while my sister is out and then meeting up with some friends later. You?</body>
+    </message>
+    <message id="m0002" time="2014-09-27 23:57:41 UTC" participant="153541">
+      <body>Meet me at Harris</body>
+    </message>
+    <message id="m0003" time="2014-09-27 23:58:15 UTC" participant="153491">
+      <body>Harris? Where's that?</body>
+    </message>
+    <message id="m0004" time="2014-09-27 23:58:47 UTC" participant="153541">
+      <body>Harrahs</body>
+    </message>
+    <message id="m0005" time="2014-09-28 00:03:33 UTC" participant="153491">
+      <body>Awww you suck! I was there for hourrrrsssss last weekend and texted if you and Bobby were going to come. You didn't and it wasn't as fun. </body>
+    </message>
+    <message id="m0006" time="2014-09-28 00:03:39 UTC" participant="153491">
+      <body>:(</body>
+    </message>
+    <message id="m0007" time="2014-09-28 00:11:55 UTC" participant="153541">
+      <body>We were both in Toronto</body>
+    </message>
+    <message id="m0008" time="2014-09-28 00:14:43 UTC" participant="153541">
+      <body>Did you send me an imessage?</body>
+    </message>
+    <message id="m0009" time="2014-09-28 00:15:45 UTC" participant="153541">
+      <body>I can't send you an imessage for some reason</body>
+    </message>
+    <message id="m0010" time="2014-09-28 00:17:53 UTC" participant="153491">
+      <body>￼Hello Mr. Quang!</body>
+    </message>
+    <message id="m0011" time="2014-09-28 01:14:07 UTC" participant="153541">
+      <body>Turn on your iMessage.</body>
+    </message>
+    <message id="m0012" time="2014-09-28 01:53:09 UTC" participant="153491">
+      <body>Done.</body>
+    </message>
+  </messages>
+</conversation>
+

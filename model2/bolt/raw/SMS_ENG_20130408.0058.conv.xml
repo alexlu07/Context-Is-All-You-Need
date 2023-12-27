@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-08 22:24:34 UTC" participant="153489">
+      <body>On our way!</body>
+    </message>
+    <message id="m0001" time="2013-04-08 22:28:37 UTC" participant="152374">
+      <body>Yay! We picked a perfect day for this :-)</body>
+    </message>
+    <message id="m0002" time="2013-04-08 22:34:28 UTC" participant="153489">
+      <body>I know! So excited</body>
+    </message>
+    <message id="m0003" time="2013-04-08 22:56:22 UTC" participant="152374">
+      <body>If you haven't come in yet, the easiest way to get to our seats is to come in at the left field gate, then take the stairs up to the bridge that overlooks the bullpen</body>
+    </message>
+  </messages>
+</conversation>
+

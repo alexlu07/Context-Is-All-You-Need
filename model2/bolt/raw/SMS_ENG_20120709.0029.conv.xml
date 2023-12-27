@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120709.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-09 04:25:38 UTC">
+      <body>Can I get a ticket at the door on wednesday</body>
+    </message>
+    <message id="m0001" participant="136249" time="2012-07-09 04:26:40 UTC">
+      <body>yeah but its more expensive and it helps us more if you have a ticket from is</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-09 04:27:23 UTC">
+      <body>Oh well I don't think I'll be able to get a ticket in advance :(</body>
+    </message>
+    <message id="m0003" participant="136249" time="2012-07-09 04:28:48 UTC">
+      <body>Ill meet you wherever is convenient if you really cant then i guess go to the door</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-07-09 04:31:23 UTC">
+      <body>I'm going to be close to union square in the afternoon. Is that good? How much is the ticket</body>
+    </message>
+    <message id="m0005" participant="136249" time="2012-07-09 04:33:04 UTC">
+      <body>A ticket is 10, i dont think i can meet up tomorrow till 8</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-07-09 04:34:22 UTC">
+      <body>Oh I meant on weds</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-07-09 04:34:36 UTC">
+      <body>I'm in long island till weds morning </body>
+    </message>
+    <message id="m0008" participant="136249" time="2012-07-09 04:37:20 UTC">
+      <body>Alright, i can meet you when you get back</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-07-09 04:38:00 UTC">
+      <body>Yayyyy</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-07-09 23:00:20 UTC">
+      <body>What's good with the after party ;D</body>
+    </message>
+    <message id="m0011" participant="136249" time="2012-07-10 00:06:24 UTC">
+      <body>Not sure yet ill keep u posted</body>
+    </message>
+  </messages>
+</conversation>

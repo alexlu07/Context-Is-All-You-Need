@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-08 20:51:02 UTC">
+      <body>happy monday!</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-04-09 15:11:26 UTC">
+      <body>Happy Tuesday! </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-09 15:20:25 UTC">
+      <body>how are you today, beautiful?</body>
+    </message>
+    <message id="m0003" participant="131375" time="2013-04-09 15:22:45 UTC">
+      <body>Sore and about to do five miles with my trainer, again. Worth it though. How's you?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-09 15:24:11 UTC">
+      <body>not great, but gonna make the best of it.
+
+excited about the CD...</body>
+    </message>
+    <message id="m0005" participant="131375" time="2013-04-09 15:24:56 UTC">
+      <body>I smile. You should be excited.</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-04-09 15:26:27 UTC">
+      <body>i gots stuff to talk to you about.  go train, and call/txt me later?</body>
+    </message>
+    <message id="m0007" participant="131375" time="2013-04-09 15:27:19 UTC">
+      <body>Sounds good.</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-04-09 15:27:37 UTC">
+      <body>-kiss-</body>
+    </message>
+  </messages>
+</conversation>

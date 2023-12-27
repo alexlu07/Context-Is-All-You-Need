@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140916.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-16 22:28:24 UTC" participant="152116">
+      <body>You are meeting tomorrow</body>
+    </message>
+    <message id="m0001" time="2014-09-16 22:28:30 UTC" participant="152116">
+      <body>Right?</body>
+    </message>
+    <message id="m0002" time="2014-09-16 22:29:03 UTC" participant="153491">
+      <body>Yup.</body>
+    </message>
+    <message id="m0003" time="2014-09-16 22:32:54 UTC" participant="152116">
+      <body>Okay good.</body>
+    </message>
+    <message id="m0004" time="2014-09-16 22:44:15 UTC" participant="153491">
+      <body>Where did you want to meet?</body>
+    </message>
+    <message id="m0005" time="2014-09-16 22:54:10 UTC" participant="152116">
+      <body>I'd say Penn but I don't want to go to the Starbucks. How about chinatown?</body>
+    </message>
+    <message id="m0006" time="2014-09-16 22:54:43 UTC" participant="153491">
+      <body>Where in Chinatown?</body>
+    </message>
+    <message id="m0007" time="2014-09-16 22:55:15 UTC" participant="153491">
+      <body>Wait Chinatown really?</body>
+    </message>
+    <message id="m0008" time="2014-09-16 22:55:26 UTC" participant="153491">
+      <body>Where's a good place to sit and talk?</body>
+    </message>
+    <message id="m0009" time="2014-09-16 23:27:44 UTC" participant="152116">
+      <body>I don't know haha</body>
+    </message>
+    <message id="m0010" time="2014-09-17 17:29:49 UTC" participant="152116">
+      <body>Woah haha</body>
+    </message>
+    <message id="m0011" time="2014-09-17 19:19:09 UTC" participant="153491">
+      <body>Hey, so Xuan just called and asked if I can watch the boys while she's getting stuff done. Can we meet around 5:30-6?</body>
+    </message>
+    <message id="m0012" time="2014-09-17 20:22:27 UTC" participant="152116">
+      <body>Yeah that's fine</body>
+    </message>
+    <message id="m0013" time="2014-09-17 20:59:49 UTC" participant="153491">
+      <body>I'm craving Chipotle. Want to grab food?</body>
+    </message>
+    <message id="m0014" time="2014-09-17 21:18:08 UTC" participant="152116">
+      <body>Yes actually</body>
+    </message>
+    <message id="m0015" time="2014-09-17 21:18:17 UTC" participant="152116">
+      <body>So you'll come toPenn?</body>
+    </message>
+    <message id="m0016" time="2014-09-17 21:19:20 UTC" participant="153491">
+      <body>Yea, since Chipotle is there everything.</body>
+    </message>
+    <message id="m0017" time="2014-09-17 21:35:14 UTC" participant="152116">
+      <body>Okay let me know when m ou</body>
+    </message>
+    <message id="m0018" time="2014-09-17 21:35:26 UTC" participant="152116">
+      <body>*you leave</body>
+    </message>
+    <message id="m0019" time="2014-09-17 21:40:27 UTC" participant="153491">
+      <body>Leaving now.</body>
+    </message>
+    <message id="m0020" time="2014-09-17 21:43:47 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0021" time="2014-09-17 21:58:21 UTC" participant="153491">
+      <body>Just parked on Spruce.</body>
+    </message>
+    <message id="m0022" time="2014-09-17 22:04:30 UTC" participant="152116">
+      <body>Okay I'm running a little late</body>
+    </message>
+    <message id="m0023" time="2014-09-17 22:05:54 UTC" participant="153491">
+      <body>Alright, I'll be in the CVS.</body>
+    </message>
+    <message id="m0024" time="2014-09-17 22:21:41 UTC" participant="153491">
+      <body>You know what, I'm going to go to the bank</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0084" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-19 10:52:22 UTC">
+      <body>I have really bad cramps and can't get out of bed. I'm going to take some Advil and when it goes away can you take me to school? </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-04-19 10:53:22 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-19 10:53:40 UTC">
+      <body>Thank you </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-04-19 14:05:04 UTC">
+      <body>Can we leave in ten minutes? </body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-04-19 14:05:57 UTC">
+      <body>Y</body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-04-19 21:43:14 UTC">
+      <body>Please remember to complete your packing by tomorrow afternoon. And also be careful to wear warm clothing. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120801.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-08-01 00:03:59 UTC">
+      <body>Have fun at the theater!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-01 00:04:11 UTC">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-01 04:36:21 UTC">
+      <body>The moon is so full and bright tonight. You'd love it</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-08-01 04:43:17 UTC">
+      <body>Thanks! I'll look for it. Don't stat out too late</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-08-01 04:52:20 UTC">
+      <body>I'm home now. Also the girls won the gold for gymnastics!</body>
+    </message>
+    <message id="m0005" participant="136202" time="2012-08-01 04:53:32 UTC">
+      <body>:-). Going back to sleep now Crall tomorrow. XO</body>
+    </message>
+    <message id="m0006" participant="136202" time="2012-08-02 00:55:47 UTC">
+      <body>Hey finally saw the moon! Awesome! What r u up to?</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-08-02 00:59:40 UTC">
+      <body>Making pasta and watching the Olympics</body>
+    </message>
+  </messages>
+</conversation>

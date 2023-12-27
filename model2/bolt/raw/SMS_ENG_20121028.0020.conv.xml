@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2012-10-28 14:03:19 UTC">
+      <body>Heyy##### are yall closer to 11ish? Just want to time it so the food will be warm!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-10-28 14:06:04 UTC">
+      <body>Yeah, we were planning on getting there around 11</body>
+    </message>
+    <message id="m0002" participant="131032" time="2012-10-28 14:43:24 UTC">
+      <body>Ok! Maybe plan on getting here at like 11:15? :)</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-10-28 14:45:00 UTC">
+      <body>Okay, we'll wait to leave</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130314.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135292" time="2013-03-14 22:03:25 UTC">
+      <body>Hey u ok? Got your gchats but u weren't online when I saw them. Whats up?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-14 22:06:59 UTC">
+      <body>Hey! I'm online now- can you chat? If not I can call you</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-15 14:33:57 UTC">
+      <body>I took the job at Penn :)</body>
+    </message>
+    <message id="m0003" participant="135292" time="2013-03-15 17:46:20 UTC">
+      <body>woohoo! Congrats and all the best!!</body>
+    </message>
+  </messages>
+</conversation>

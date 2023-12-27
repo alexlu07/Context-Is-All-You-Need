@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137309" time="2013-06-20 21:00:28 UTC">
+      <body>Who is taking me to gong fu today???</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-06-20 21:00:59 UTC">
+      <body>Ask dad if not I will</body>
+    </message>
+  </messages>
+</conversation>

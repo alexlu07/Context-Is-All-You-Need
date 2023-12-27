@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140826.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-26 15:42:27 UTC" participant="152417">
+      <body>Hi Mike, Gabi here, where will we meet for our lesson tomorrow at 3? And is there a book i should get?</body>
+    </message>
+    <message id="m0001" time="2014-08-26 15:49:11 UTC" participant="152570">
+      <body>Hey Gabi, I'm sending emails to reserve rooms for the semester now. Let's just meet on the 7th floor of the Merriam for now. Don't worry about a book. </body>
+    </message>
+  </messages>
+</conversation>
+

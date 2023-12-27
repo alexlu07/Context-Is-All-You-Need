@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141127.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-27 14:33:02 UTC" participant="153544">
+      <body>Happy Thanksgiving!</body>
+    </message>
+    <message id="m0001" time="2014-11-27 20:22:33 UTC" participant="153491">
+      <body>Happy Thanksgiving!!!</body>
+    </message>
+    <message id="m0002" time="2014-11-28 04:58:40 UTC" participant="153544">
+      <body>Don't happen to be in AC are you</body>
+    </message>
+    <message id="m0003" time="2014-11-28 05:48:40 UTC" participant="153491">
+      <body>Hahah no I'm not. In Philly. Sounds like you're having an interesting Thanksgiving!</body>
+    </message>
+  </messages>
+</conversation>
+

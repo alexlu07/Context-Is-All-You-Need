@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140421.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-21 16:40:11 UTC" participant="153548">
+      <body>Yoga tonight?</body>
+    </message>
+    <message id="m0001" time="2014-04-21 17:16:48 UTC" participant="153678">
+      <body>Yaya!! Let's do it</body>
+    </message>
+    <message id="m0002" time="2014-04-21 18:48:09 UTC" participant="153548">
+      <body>Okay! 6:45 corner see you then!</body>
+    </message>
+    <message id="m0003" time="2014-04-21 19:34:53 UTC" participant="153678">
+      <body>See you then! </body>
+    </message>
+  </messages>
+</conversation>
+

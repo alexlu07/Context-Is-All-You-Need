@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150318.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-18 13:13:17 UTC" participant="152766">
+      <body>Hi Ingrid. What time are you free tomorrow? Is 530 too early?</body>
+    </message>
+    <message id="m0001" time="2015-03-18 14:35:51 UTC" participant="152735">
+      <body>Nope! 5:30 sounds great. See you soon!</body>
+    </message>
+    <message id="m0002" time="2015-03-18 18:46:12 UTC" participant="152766">
+      <body>Thanks. </body>
+    </message>
+    <message id="m0003" time="2015-03-18 18:46:19 UTC" participant="152766">
+      <body>See you tomorrow!</body>
+    </message>
+  </messages>
+</conversation>
+

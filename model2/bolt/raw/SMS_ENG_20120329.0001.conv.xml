@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120329.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-03-29 15:08:30 UTC">
+      <body>Tracking says the bathing suit was delivered, how's it look?</body>
+    </message>
+    <message id="m0001" participant="131332" time="2012-03-29 15:09:38 UTC">
+      <body>I haven't opened it yet.</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-03-29 15:11:41 UTC">
+      <body>Oh. So we decided we are putting the "one week" block on the top of the hourglass? I forgot what we determined yesterday</body>
+    </message>
+    <message id="m0003" participant="131332" time="2012-03-29 15:12:31 UTC">
+      <body>I thought we said it would be movable?</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-03-29 15:13:49 UTC">
+      <body>Right, we'll attach it wherever we like it on set</body>
+    </message>
+    <message id="m0005" participant="131332" time="2012-03-29 15:14:22 UTC">
+      <body>That makes sense.</body>
+    </message>
+    <message id="m0006" participant="131332" time="2012-03-29 15:32:40 UTC">
+      <body>Let me ask around. I know many soccer players.</body>
+    </message>
+    <message id="m0007" participant="131332" time="2012-03-29 15:35:31 UTC">
+      <body>Right now he looks like I always imagined him too. A coat seems cumbersome and aristocratic.</body>
+    </message>
+    <message id="m0008" participant="130692" time="2012-03-29 15:39:15 UTC">
+      <body>Ok. Talk to Peter and decide if he needs one or not and let me know</body>
+    </message>
+    <message id="m0009" participant="131332" time="2012-03-29 18:18:04 UTC">
+      <body>My soccer friends all just go to Dick's or Modell's.</body>
+    </message>
+    <message id="m0010" participant="130692" time="2012-03-29 18:18:53 UTC">
+      <body>Ok I'll see what I can find</body>
+    </message>
+    <message id="m0011" participant="131332" time="2012-03-29 18:33:10 UTC">
+      <body>Get white also. Just in case. You can always return the unused ones.</body>
+    </message>
+    <message id="m0012" participant="130692" time="2012-03-29 18:33:26 UTC">
+      <body>Gotcha</body>
+    </message>
+  </messages>
+</conversation>

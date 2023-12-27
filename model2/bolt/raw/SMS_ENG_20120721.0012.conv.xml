@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120721.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-21 04:07:54 UTC">
+      <body>So I'm staying in Brooklyn if you hadnt already guessed :)</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-07-21 12:02:39 UTC">
+      <body>Thank you fro telling me! &lt;3</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-07-21 21:26:45 UTC">
+      <body>I'm getting hungry. What time will u b home?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-21 21:33:46 UTC">
+      <body>I think I'll be home by 7</body>
+    </message>
+  </messages>
+</conversation>

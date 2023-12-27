@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2012-12-27 06:34:16 UTC">
+      <body>I miss you! How's your break going?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-12-27 17:23:14 UTC">
+      <body>I miss you too! It's going well. Anna got here yesterday so that's fun. Other than that sleeping and hanging out with Neelima and her family, mostly :) what about you, how is your break going? What have you been up to?</body>
+    </message>
+    <message id="m0002" participant="135275" time="2012-12-27 19:15:31 UTC">
+      <body>That sounds lovely. :) Mine's been great, too. Just been spending time with my sister and parents, which has been fantastic. Flying up to michigan tomorrow!</body>
+    </message>
+  </messages>
+</conversation>

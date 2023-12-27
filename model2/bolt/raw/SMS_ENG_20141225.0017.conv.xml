@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141225.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-25 19:31:12 UTC" participant="153557">
+      <body>Merry Christmas </body>
+    </message>
+    <message id="m0001" time="2014-12-26 17:18:56 UTC" participant="153557">
+      <body>Hey are you back? I'm gonna go home Sunday and help my mom out a little more up here </body>
+    </message>
+    <message id="m0002" time="2014-12-26 17:23:51 UTC" participant="153547">
+      <body>Headed to airport now. Be home around 730</body>
+    </message>
+    <message id="m0003" time="2014-12-26 17:25:50 UTC" participant="153557">
+      <body>Okay safe travels. </body>
+    </message>
+    <message id="m0004" time="2014-12-26 17:25:53 UTC" participant="153557">
+      <body>Tell your family Hi!</body>
+    </message>
+  </messages>
+</conversation>
+

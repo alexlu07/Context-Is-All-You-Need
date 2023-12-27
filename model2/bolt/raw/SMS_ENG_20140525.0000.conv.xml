@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140525.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-25 20:07:16 UTC" participant="152417">
+      <body>Knock knock</body>
+    </message>
+    <message id="m0001" time="2014-05-25 20:13:38 UTC" participant="152429">
+      <body>Who's there?</body>
+    </message>
+    <message id="m0002" time="2014-05-25 20:33:57 UTC" participant="152417">
+      <body>Doctor</body>
+    </message>
+    <message id="m0003" time="2014-05-25 22:21:52 UTC" participant="152429">
+      <body>I see what you did there</body>
+    </message>
+  </messages>
+</conversation>
+

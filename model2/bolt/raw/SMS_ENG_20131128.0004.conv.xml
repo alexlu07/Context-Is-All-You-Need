@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131128.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-28 22:03:00 UTC" participant="152560">
+      <body>Happy t-day. What would be a good time to meet up tomorrow?</body>
+    </message>
+    <message id="m0001" time="2013-11-28 22:04:53 UTC" participant="152417">
+      <body>Happy birthday-tday-hannukah!  What are you gonna do with ruby when were at the art museum? Maybe you should drop her here first</body>
+    </message>
+    <message id="m0002" time="2013-11-28 22:05:45 UTC" participant="152560">
+      <body>That would be awesome if your folks don't mind.</body>
+    </message>
+    <message id="m0003" time="2013-11-28 22:06:27 UTC" participant="152560">
+      <body>What is your address again?</body>
+    </message>
+    <message id="m0005" time="2013-11-28 22:08:42 UTC" participant="152560">
+      <body>Mateen can't make it to the museum, so we can go later in the afternoon if you guys would prefer.</body>
+    </message>
+    <message id="m0006" time="2013-11-28 22:21:26 UTC" participant="152560">
+      <body>Is it ok if we meet around 11 or 12? Jo is scooping me up in red hill, so it might be easier to shoot for a bit later. Does that give us enough time before dinner?</body>
+    </message>
+    <message id="m0007" time="2013-11-28 22:35:32 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0008" time="2013-11-29 03:12:08 UTC" participant="152417">
+      <body>Did you hear about the guy who built a plane? His performance was riveting! </body>
+    </message>
+    <message id="m0009" time="2013-11-29 03:18:59 UTC" participant="152560">
+      <body>Haha!</body>
+    </message>
+    <message id="m0010" time="2013-11-29 19:36:50 UTC" participant="152417">
+      <body>Whered you go?</body>
+    </message>
+    <message id="m0011" time="2013-11-29 19:47:42 UTC" participant="152560">
+      <body>We lost you-we are with the Dutch paintings.</body>
+    </message>
+    <message id="m0012" time="2013-11-29 19:48:30 UTC" participant="152417">
+      <body>We went up to the older european stuff</body>
+    </message>
+    <message id="m0013" time="2013-11-29 19:50:12 UTC" participant="152560">
+      <body>We are here too. Im in 264 right now.</body>
+    </message>
+  </messages>
+</conversation>
+

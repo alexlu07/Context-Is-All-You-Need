@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-11 23:36:43 UTC">
+      <body>Hey bro. U want to go to movies or go to dave and busters this weekend?</body>
+    </message>
+    <message id="m0001" participant="136648" time="2013-07-12 00:48:26 UTC">
+      <body>Hey bro. Um I choose the movies</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-12 01:23:08 UTC">
+      <body>Cool. See what?</body>
+    </message>
+    <message id="m0003" participant="136648" time="2013-07-12 02:09:43 UTC">
+      <body>Grown ups 2?</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-12 02:32:29 UTC">
+      <body>Whatever u want to see bro. Theres a lot out</body>
+    </message>
+    <message id="m0005" participant="136648" time="2013-07-12 02:34:50 UTC">
+      <body>Can I let u know tomorrow </body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-12 02:35:44 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-07-12 23:06:47 UTC">
+      <body>Movie?</body>
+    </message>
+    <message id="m0008" participant="136648" time="2013-07-12 23:17:00 UTC">
+      <body>The Lone Ranger</body>
+    </message>
+    <message id="m0009" participant="130693" time="2013-07-13 13:38:52 UTC">
+      <body>Where do you go for church later?</body>
+    </message>
+    <message id="m0010" participant="136648" time="2013-07-13 22:35:15 UTC">
+      <body>Yo bro we r at super fresh- using bathroom. I think there is a festival goin on. Traffic is too heavy.</body>
+    </message>
+    <message id="m0011" participant="130693" time="2013-07-13 22:46:44 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" participant="136648" time="2013-07-13 22:47:31 UTC">
+      <body>We r on our way</body>
+    </message>
+    <message id="m0013" participant="130693" time="2013-07-13 22:49:30 UTC">
+      <body>U want to see lone ranger or superman?</body>
+    </message>
+    <message id="m0014" participant="136648" time="2013-07-13 22:50:43 UTC">
+      <body>Lone Ranger </body>
+    </message>
+    <message id="m0015" participant="130693" time="2013-07-13 22:50:58 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

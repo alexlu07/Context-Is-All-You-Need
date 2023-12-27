@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111009.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-10-09 20:19:46 UTC">
+      <body>How's the occupation going?</body>
+    </message>
+    <message id="m0001" participant="135130" time="2011-10-09 23:06:54 UTC">
+      <body>I'm in san fran for now but it sounds like its going well </body>
+    </message>
+    <message id="m0002" participant="135130" time="2011-10-10 20:25:12 UTC">
+      <body>Free Concert/Rally Friday Oct 14 11am-3pm w Toki Wright &amp; more! 3pm Massive march on the banks for economic justice. @Peavy Plaza. We are the 99%! Pass it on!</body>
+    </message>
+  </messages>
+</conversation>

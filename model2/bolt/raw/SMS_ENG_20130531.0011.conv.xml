@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130529" time="2013-05-31 15:56:09 UTC">
+      <body>hey Borges. Sup?</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-05-31 16:19:57 UTC">
+      <body>Hey edward. not much just working at a coffee shop. you?</body>
+    </message>
+    <message id="m0002" participant="130529" time="2013-05-31 16:26:47 UTC">
+      <body>Just working in an office. Are you air conditioned?</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-05-31 16:33:20 UTC">
+      <body>yeah but im sitting in the sun, which seems sort of illogical</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-05-31 18:48:08 UTC">
+      <body>What kind of office are you working in?</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-05-31 20:37:48 UTC">
+      <body>Grrrrr</body>
+    </message>
+  </messages>
+</conversation>

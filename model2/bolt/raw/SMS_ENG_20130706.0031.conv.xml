@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130706.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132554" time="2013-07-06 18:42:24 UTC">
+      <body>Yo, u away this weekednd!</body>
+    </message>
+    <message id="m0001" participant="132554" time="2013-07-06 18:42:34 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-06 18:45:58 UTC">
+      <body>Yup beach remember</body>
+    </message>
+    <message id="m0003" participant="132554" time="2013-07-06 18:46:36 UTC">
+      <body>Thars right.. how are the bitties down there?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-07-06 18:49:52 UTC">
+      <body>Beautiful</body>
+    </message>
+    <message id="m0005" participant="132554" time="2013-07-06 18:51:09 UTC">
+      <body>Dizamn</body>
+    </message>
+  </messages>
+</conversation>

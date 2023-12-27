@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130962" time="2013-04-16 13:46:55 UTC">
+      <body>Good luck today Bob!! :) :) Love, Monica</body>
+    </message>
+    <message id="m0001" participant="131438" time="2013-04-16 13:49:56 UTC">
+      <body>Thanks. I will say hello to Dr. Kohler for you! </body>
+    </message>
+    <message id="m0002" participant="130962" time="2013-04-16 13:50:51 UTC">
+      <body>Please do! I am one of his most loyal customers! Ha ha!</body>
+    </message>
+  </messages>
+</conversation>

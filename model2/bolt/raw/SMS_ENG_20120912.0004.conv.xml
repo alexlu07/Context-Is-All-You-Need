@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120912.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-09-12 23:19:36 UTC">
+      <body>￼￼￼￼￼￼</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-09-13 02:03:44 UTC">
+      <body>Your plant looks great!  Is that a Tajik flag?  Thanks for sending these!</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-09-13 03:58:56 UTC">
+      <body>The earliest I can get a check to you is 9/18 so see if you can use a credit card or do a partial payment until 9/18.</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-09-13 04:24:17 UTC">
+      <body>Can you write me a check and I can deposit it? I need to give them a check now, but they said I could ask them to postpone cashing it</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-09-13 04:24:32 UTC">
+      <body>Ok.  I'll send it to you now.</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-09-13 04:25:52 UTC">
+      <body>No it's closed now until 7 am, but they are available</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-09-13 04:26:09 UTC">
+      <body>Sorry wrong window</body>
+    </message>
+    <message id="m0007" participant="131821" time="2012-09-13 04:26:23 UTC">
+      <body>When should I tell them to Hil it for?</body>
+    </message>
+  </messages>
+</conversation>

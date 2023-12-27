@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150330.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-30 17:04:00 UTC" participant="153556">
+      <body>Yeah, I hear they're pretty good and prolly cheaper than mr d</body>
+    </message>
+    <message id="m0001" time="2015-03-30 17:04:35 UTC" participant="153547">
+      <body>Have you heard anything about best choice plumbing? </body>
+    </message>
+    <message id="m0002" time="2015-03-30 17:08:04 UTC" participant="153547">
+      <body>Well mr d was more but they're gonna scope it to the main and do the concrete. Mr d $4950 best choice $4500 no cement or $5200 with cement. But me d said they would prolly match prices</body>
+    </message>
+    <message id="m0003" time="2015-03-30 17:08:53 UTC" participant="153547">
+      <body>I mean best choice said they would prolly match prices</body>
+    </message>
+  </messages>
+</conversation>
+

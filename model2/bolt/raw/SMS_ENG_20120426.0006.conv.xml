@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120426.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-26 22:27:36 UTC">
+      <body>I'm going to leave props and dressings with Michael to give to you on Saturday. Bring your basic set dressing kit. Can I pick the props up from you early next week?</body>
+    </message>
+    <message id="m0001" participant="131328" time="2012-04-26 22:58:08 UTC">
+      <body>Yea that sounds fine. Let me know how the first day goes</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-26 23:00:41 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

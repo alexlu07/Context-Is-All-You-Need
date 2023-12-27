@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-12-01 22:37:33 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="135442" time="2012-12-01 22:49:36 UTC">
+      <body>How is it?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-01 22:49:48 UTC">
+      <body>More please</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-01 22:49:54 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-01 22:58:33 UTC">
+      <body>M</body>
+    </message>
+  </messages>
+</conversation>

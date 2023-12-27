@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130311.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-11 21:36:05 UTC" participant="152529">
+      <body>Hey I can't find your email for some reason. Are we doing tonight at 7 at Rosé street?</body>
+    </message>
+    <message id="m0001" time="2013-03-11 22:02:40 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" time="2013-03-11 22:58:08 UTC" participant="152529">
+      <body>Running a little late but be there shortly</body>
+    </message>
+  </messages>
+</conversation>
+

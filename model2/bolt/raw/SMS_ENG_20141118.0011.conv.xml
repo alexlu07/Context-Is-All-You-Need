@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 10:44:16 UTC" participant="153421">
+      <body>I have the hat </body>
+    </message>
+    <message id="m0001" time="2014-11-18 10:46:51 UTC" participant="153417">
+      <body>Okay. Must have fallen out of my bag</body>
+    </message>
+    <message id="m0002" time="2014-11-18 11:09:34 UTC" participant="153417">
+      <body>Can you tell jenny to grab my iPod from my black coat pocket?</body>
+    </message>
+    <message id="m0003" time="2014-11-18 11:20:29 UTC" participant="153421">
+      <body>Chris no head phone </body>
+    </message>
+    <message id="m0004" time="2014-11-18 11:20:44 UTC" participant="153417">
+      <body>Yeah I have the headphones</body>
+    </message>
+  </messages>
+</conversation>
+

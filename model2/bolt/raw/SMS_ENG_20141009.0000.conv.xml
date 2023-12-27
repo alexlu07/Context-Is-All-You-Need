@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141009.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-09 23:00:16 UTC" participant="149360">
+      <body>U guys can have a potpie . Almost ready</body>
+    </message>
+    <message id="m0001" time="2014-10-10 00:00:26 UTC" participant="149306">
+      <body>Thanks but we are out on the town. Do you think we can get a ride in your car to the opening Sunday or are the spaces already booked?</body>
+    </message>
+    <message id="m0002" time="2014-10-10 00:00:38 UTC" participant="149306">
+      <body>Sorry Saturday </body>
+    </message>
+    <message id="m0003" time="2014-10-10 00:02:08 UTC" participant="149360">
+      <body>U can ride with us</body>
+    </message>
+  </messages>
+</conversation>
+

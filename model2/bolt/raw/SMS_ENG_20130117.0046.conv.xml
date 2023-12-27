@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130117.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-17 19:30:27 UTC" participant="154352">
+      <body>Meet at mad for mex tonight</body>
+    </message>
+    <message id="m0001" time="2013-01-17 19:37:08 UTC" participant="154391">
+      <body>I'm not feeling so hot today, raincheck?</body>
+    </message>
+    <message id="m0002" time="2013-01-17 20:05:35 UTC" participant="154352">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

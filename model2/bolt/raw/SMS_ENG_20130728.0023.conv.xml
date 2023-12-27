@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130728.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-07-28 02:23:50 UTC">
+      <body>What's your address and do I park in your driveway </body>
+    </message>
+    <message id="m0001" participant="137256" time="2013-07-28 02:29:32 UTC">
+      <body>No don't park in my driveway</body>
+    </message>
+    <message id="m0003" participant="137256" time="2013-07-28 02:29:36 UTC">
+      <body>Park on Margaret mester's street</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-04 19:49:17 UTC">
+      <body>U free this weekend??</body>
+    </message>
+    <message id="m0001" participant="135620" time="2013-06-05 02:13:46 UTC">
+      <body>Aww I am going to NYC for governors ball this weekend. </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-05 02:25:28 UTC">
+      <body>damn woman</body>
+    </message>
+    <message id="m0003" participant="135620" time="2013-06-05 03:07:45 UTC">
+      <body>Ah yeah I thought u were gone this weekend</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-05 03:10:51 UTC">
+      <body>Yeah I was gonna go campin but its raining all weekend so we canceled</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-06-05 03:11:05 UTC">
+      <body>Maybe next weekend?</body>
+    </message>
+    <message id="m0006" participant="135620" time="2013-06-05 15:12:35 UTC">
+      <body>Yeah I'll be around all next weekend!</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-06-05 15:13:20 UTC">
+      <body>OK well keep Ur schedule open for me!</body>
+    </message>
+    <message id="m0008" participant="135620" time="2013-06-05 19:37:25 UTC">
+      <body>Haha I will</body>
+    </message>
+  </messages>
+</conversation>

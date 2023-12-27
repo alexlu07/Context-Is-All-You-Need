@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120517.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131019" time="2012-05-17 18:20:13 UTC">
+      <body>Eho I'm good, how are you? </body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-05-18 05:39:24 UTC">
+      <body>What kind of insurance? We can talk tomorrow? Cool? I can probably call you around 10 or 11 for an hour or so?</body>
+    </message>
+    <message id="m0004" participant="131019" time="2012-05-18 05:40:35 UTC">
+      <body>Okay sounds good. What kind of insurance?</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-05-18 05:41:20 UTC">
+      <body>Call me when u wake ip please. </body>
+    </message>
+    <message id="m0006" participant="131019" time="2012-05-18 05:44:33 UTC">
+      <body>Oh okay well talk tomorrow then</body>
+    </message>
+    <message id="m0007" participant="131064" time="2012-05-18 05:45:36 UTC">
+      <body>Your health insursnce. Woth my company or wotj college. We have to decide by tomortow. </body>
+    </message>
+    <message id="m0008" participant="131064" time="2012-05-18 05:45:36 UTC">
+      <body>Dont fforget please. </body>
+    </message>
+    <message id="m0009" participant="131019" time="2012-05-18 05:46:39 UTC">
+      <body>Okay call me at 11 if I haven't </body>
+    </message>
+    <message id="m0011" participant="131019" time="2012-05-18 17:55:43 UTC">
+      <body>Is it okay if I call you in 45?</body>
+    </message>
+  </messages>
+</conversation>

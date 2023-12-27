@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120531.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136207" time="2012-05-31 23:17:20 UTC">
+      <body>You got the yearbooks already</body>
+    </message>
+    <message id="m0001" participant="136207" time="2012-05-31 23:17:20 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-31 23:17:38 UTC">
+      <body>Wtf jack you never told me you were in the dance dance revolution club</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-31 23:18:22 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0004" participant="136207" time="2012-05-31 23:19:28 UTC">
+      <body>We have an economic tests tomoro correct?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-05-31 23:24:16 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0006" participant="136207" time="2012-05-31 23:28:00 UTC">
+      <body>Oh</body>
+    </message>
+    <message id="m0007" participant="136207" time="2012-05-31 23:28:00 UTC">
+      <body>Ok then</body>
+    </message>
+  </messages>
+</conversation>

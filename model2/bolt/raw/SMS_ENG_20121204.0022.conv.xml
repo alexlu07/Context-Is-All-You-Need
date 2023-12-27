@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121204.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135582" time="2012-12-04 15:10:52 UTC">
+      <body>Sofie, I'm about 10 minutes behind. Will come to 4th floor at 1040.</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-04 15:11:14 UTC">
+      <body>No rush</body>
+    </message>
+  </messages>
+</conversation>

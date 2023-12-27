@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120527.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-27 23:09:17 UTC">
+      <body>Wait a minute. Stuy is doing seussical??</body>
+    </message>
+    <message id="m0001" participant="136237" time="2012-05-28 00:32:15 UTC">
+      <body>Yeah!! why?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-28 00:37:28 UTC">
+      <body>Thats one of my favorites!!!!</body>
+    </message>
+    <message id="m0003" participant="136237" time="2012-05-28 04:51:40 UTC">
+      <body>You should come see it!! i haven't been involved at all so i can't make any claims about its quality but it should be a fun show!!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-28 16:17:33 UTC">
+      <body>Haha I'm sure it will be great. When is it and how much?</body>
+    </message>
+    <message id="m0005" participant="136237" time="2012-05-28 20:36:07 UTC">
+      <body>It's this coming wednesday, thursday and friday! for non-stuy people it's $10 but you might be able to get a $7 stuy student ticket.</body>
+    </message>
+  </messages>
+</conversation>

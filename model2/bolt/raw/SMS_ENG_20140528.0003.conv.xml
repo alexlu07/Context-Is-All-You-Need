@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140528.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-28 19:50:14 UTC" participant="153548">
+      <body>You in your office?</body>
+    </message>
+    <message id="m0001" time="2014-05-28 19:50:24 UTC" participant="153631">
+      <body>I have a meeting right now!</body>
+    </message>
+    <message id="m0002" time="2014-05-28 19:50:24 UTC" participant="153631">
+      <body>Dang!!!</body>
+    </message>
+    <message id="m0003" time="2014-05-28 19:52:02 UTC" participant="153548">
+      <body>Aw dang! Just finished a 4 hour meeting was gonna say hi!</body>
+    </message>
+    <message id="m0004" time="2014-05-28 19:52:04 UTC" participant="153548">
+      <body>Next time!</body>
+    </message>
+    <message id="m0005" time="2014-05-28 19:54:27 UTC" participant="153548">
+      <body>Have a good meeting!</body>
+    </message>
+  </messages>
+</conversation>
+

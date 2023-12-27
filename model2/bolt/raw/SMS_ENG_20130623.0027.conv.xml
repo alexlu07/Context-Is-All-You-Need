@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-23 20:38:42 UTC">
+      <body>I think u sent this to wrong person</body>
+    </message>
+    <message id="m0001" participant="135629" time="2013-06-23 21:33:32 UTC">
+      <body>Oooops..sorry</body>
+    </message>
+  </messages>
+</conversation>

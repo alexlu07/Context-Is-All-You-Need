@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2013-02-18 18:26:17 UTC">
+      <body>Hey love. Just checking in</body>
+    </message>
+    <message id="m0001" participant="135395" time="2013-02-19 00:17:04 UTC">
+      <body>Hi I am in section right now. Everything okay?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-19 00:17:56 UTC">
+      <body>Yes just fine.  Just calling u back</body>
+    </message>
+    <message id="m0003" participant="135395" time="2013-02-19 00:21:50 UTC">
+      <body>Ok. I love you</body>
+    </message>
+    <message id="m0004" participant="135395" time="2013-02-19 14:59:09 UTC">
+      <body>Mark and I signed up for the st paddys 5k!! Sofie dooo it!</body>
+    </message>
+  </messages>
+</conversation>

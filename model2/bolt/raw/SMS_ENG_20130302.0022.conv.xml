@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130302.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-03-02 19:41:55 UTC">
+      <body>Hey, it just occured to me that it would be really helpful if i could borrow your air mattress, could i?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-02 20:36:13 UTC">
+      <body>Of course! I think it's by the vacuum</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-03-02 20:47:10 UTC">
+      <body>Thanks so much!</body>
+    </message>
+    <message id="m0003" participant="135274" time="2013-03-03 16:07:52 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-03 16:11:06 UTC">
+      <body>We will meet you in 10 sorry!</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-03-03 16:13:20 UTC">
+      <body>We're not ready yet either, so we won't go yet either.  </body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-03-03 16:24:47 UTC">
+      <body>Ok! We will be ready very soon...when do you need until?</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-03-03 16:29:16 UTC">
+      <body>We're ready!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-22 01:25:00 UTC">
+      <body>what are you doing tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-22 01:25:47 UTC">
+      <body>wanna go with me on a quick roadtrip to sanfrancisco?  i'll buy dinner.</body>
+    </message>
+    <message id="m0002" participant="131363" time="2013-02-22 01:38:22 UTC">
+      <body>I'm working tomorrow lol</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-22 01:41:18 UTC">
+      <body>k.</body>
+    </message>
+  </messages>
+</conversation>

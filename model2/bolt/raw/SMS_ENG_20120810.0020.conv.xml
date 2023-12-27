@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120810.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-10 15:38:45 UTC" participant="153439">
+      <body>Are u coming today?</body>
+    </message>
+    <message id="m0001" time="2012-08-10 20:26:22 UTC" participant="153418">
+      <body>Hey, where did that long excerpt come from? The long one about South Carolina.</body>
+    </message>
+    <message id="m0002" time="2012-08-10 22:02:55 UTC" participant="153439">
+      <body>My teacher put it on the blackboard!</body>
+    </message>
+  </messages>
+</conversation>
+

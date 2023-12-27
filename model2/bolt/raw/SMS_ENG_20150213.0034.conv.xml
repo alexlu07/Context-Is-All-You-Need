@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150213.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-13 15:07:18 UTC" participant="153804">
+      <body>How many hours to Pittsburgh?</body>
+    </message>
+    <message id="m0001" time="2015-02-13 15:11:50 UTC" participant="153809">
+      <body>6. Why</body>
+    </message>
+    <message id="m0002" time="2015-02-13 15:12:42 UTC" participant="153804">
+      <body>SUE son Christian is applying for some type of internship for next summer</body>
+    </message>
+    <message id="m0003" time="2015-02-13 15:25:36 UTC" participant="153809">
+      <body>Long drive. Pretty city. Worth visiting</body>
+    </message>
+  </messages>
+</conversation>
+

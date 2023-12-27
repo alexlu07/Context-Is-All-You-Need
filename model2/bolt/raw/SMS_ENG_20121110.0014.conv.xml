@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2012-11-10 03:26:56 UTC">
+      <body>Sent u an email saying oops, busy until 11am. Can we talk then?</body>
+    </message>
+    <message id="m0001" participant="135354" time="2012-11-10 03:26:56 UTC">
+      <body>Yay ok Gnite!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-10 03:27:20 UTC">
+      <body>Oh yes yes</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-10 16:06:47 UTC">
+      <body>I'll call you in seven?</body>
+    </message>
+    <message id="m0004" participant="135354" time="2012-11-10 16:08:32 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

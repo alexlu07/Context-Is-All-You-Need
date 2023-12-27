@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 23:46:48 UTC" participant="152429">
+      <body>Is there a Spanish version of William the way that in French it's Guillaume?</body>
+    </message>
+    <message id="m0001" time="2015-01-31 00:42:28 UTC" participant="152417">
+      <body>Guillermo</body>
+    </message>
+    <message id="m0002" time="2015-01-31 01:05:20 UTC" participant="152429">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

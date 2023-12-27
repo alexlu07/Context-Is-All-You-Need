@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 18:34:24 UTC" participant="153418">
+      <body>Are you alive? </body>
+    </message>
+    <message id="m0001" time="2015-01-20 18:35:54 UTC" participant="153458">
+      <body>Um the car is taking longer than expected. They said it would be done today though. I am not sure when they will finish</body>
+    </message>
+    <message id="m0002" time="2015-01-20 18:36:27 UTC" participant="153418">
+      <body>Did you tell anyone? </body>
+    </message>
+    <message id="m0003" time="2015-01-20 18:57:03 UTC" participant="153458">
+      <body>I told Dave I would be in at two but it looks like that won't happen so I will email him I guess</body>
+    </message>
+    <message id="m0004" time="2015-01-20 21:32:32 UTC" participant="153418">
+      <body>You're not coming in today, are you? </body>
+    </message>
+    <message id="m0005" time="2015-01-20 21:33:33 UTC" participant="153458">
+      <body>I doubt it. I guess I will see you tomorrow. Four am?</body>
+    </message>
+    <message id="m0006" time="2015-01-20 21:33:56 UTC" participant="153418">
+      <body>Nah, I'm good.</body>
+    </message>
+    <message id="m0007" time="2015-01-21 01:45:20 UTC" participant="153458">
+      <body>So my car is still dead can you give me a ride?</body>
+    </message>
+    <message id="m0008" time="2015-01-21 01:45:58 UTC" participant="153418">
+      <body>You mean tomorrow, right? </body>
+    </message>
+    <message id="m0009" time="2015-01-21 01:46:22 UTC" participant="153458">
+      <body>Yeah</body>
+    </message>
+    <message id="m0010" time="2015-01-21 02:11:19 UTC" participant="153418">
+      <body> Same time then.</body>
+    </message>
+    <message id="m0011" time="2015-01-21 14:44:46 UTC" participant="153418">
+      <body>I'm gonna be a bit late. Just chill out.</body>
+    </message>
+    <message id="m0012" time="2015-01-21 15:18:06 UTC" participant="153418">
+      <body>I'm leaving now.</body>
+    </message>
+  </messages>
+</conversation>
+

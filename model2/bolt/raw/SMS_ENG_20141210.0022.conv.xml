@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141210.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-10 20:53:42 UTC" participant="153804">
+      <body>I know you had a funeral to go to so give me a call when you can</body>
+    </message>
+    <message id="m0001" time="2014-12-10 21:04:27 UTC" participant="153821">
+      <body>On our way I'll talk to you tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-12-10 21:04:55 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

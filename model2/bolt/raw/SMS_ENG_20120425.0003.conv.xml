@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120425.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2012-04-25 18:45:19 UTC">
+      <body>Gbc lunch at 1?</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-04-25 18:49:23 UTC">
+      <body>But of course (:</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-04-25 19:52:46 UTC">
+      <body>I'm out of class now and gonna head to gbc</body>
+    </message>
+    <message id="m0003" participant="131063" time="2012-04-25 19:53:19 UTC">
+      <body>K I'll head down now too then</body>
+    </message>
+  </messages>
+</conversation>

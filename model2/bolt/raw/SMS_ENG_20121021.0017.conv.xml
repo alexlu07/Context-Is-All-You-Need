@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121021.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-21 23:52:19 UTC">
+      <body>Come to nicks improv show</body>
+    </message>
+    <message id="m0001" participant="136277" time="2012-10-21 23:55:02 UTC">
+      <body>I can't too much hw. How was aids?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-21 23:55:29 UTC">
+      <body>It was fun but tiring</body>
+    </message>
+    <message id="m0003" participant="136277" time="2012-10-21 23:56:03 UTC">
+      <body>Why? Weren't you just walking?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-21 23:56:45 UTC">
+      <body>Yeah but it was hot and we had to wait for like two hours before we started walking</body>
+    </message>
+    <message id="m0005" participant="136277" time="2012-10-22 00:11:08 UTC">
+      <body>Oh shittt </body>
+    </message>
+  </messages>
+</conversation>

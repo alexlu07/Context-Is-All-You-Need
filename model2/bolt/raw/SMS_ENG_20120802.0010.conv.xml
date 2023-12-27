@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120802.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136203" time="2012-08-02 19:41:52 UTC">
+      <body>Will you send me the info for your driving place?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-03 01:04:13 UTC">
+      <body>Sure I'll ask my mom for it. What kind of class are you looking for </body>
+    </message>
+    <message id="m0002" participant="136203" time="2012-08-03 01:06:08 UTC">
+      <body>Idk... I need driving practice and I need to sit thru drivers ed</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-08-03 01:08:38 UTC">
+      <body>Ok well I'm getting lessons from Atila's driving school. If you have a permit they can take you for driving lessons, sign you up for drivers Ed classes and set up a road test for you</body>
+    </message>
+    <message id="m0004" participant="136203" time="2012-08-03 01:12:32 UTC">
+      <body>Cool. Thanks. I have a permit so I'm good to go</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140815.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-15 19:14:08 UTC" participant="153606">
+      <body>Yes of course.</body>
+    </message>
+    <message id="m0001" time="2014-08-15 19:14:09 UTC" participant="153547">
+      <body>Hello Xavier, could you please text me the address? I'm planning on 9am if that is ok with you. I'll give you a call this evening if I don't hear from you first</body>
+    </message>
+    <message id="m0003" time="2014-08-15 19:16:33 UTC" participant="153606">
+      <body>9am is good </body>
+    </message>
+  </messages>
+</conversation>
+

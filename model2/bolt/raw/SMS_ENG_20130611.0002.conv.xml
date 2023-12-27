@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131164" time="2013-06-11 08:12:39 UTC">
+      <body>Hi! Good morning</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-06-11 08:23:54 UTC">
+      <body>Good morning! How are you?</body>
+    </message>
+    <message id="m0002" participant="131164" time="2013-06-11 08:27:10 UTC">
+      <body>I am ok. I needed to come to north jersey to go to my companies headquaters</body>
+    </message>
+    <message id="m0003" participant="130995" time="2013-06-11 11:51:04 UTC">
+      <body>What kind of work do you do?</body>
+    </message>
+    <message id="m0004" participant="131164" time="2013-06-11 17:53:10 UTC">
+      <body>I am a travel agent. You?</body>
+    </message>
+    <message id="m0005" participant="130995" time="2013-06-11 19:15:18 UTC">
+      <body>That's so cool! I was a travel agent temporarily years ago. I loved it. I was a cruise specialist. Do you work for an agency?</body>
+    </message>
+    <message id="m0006" participant="131164" time="2013-06-11 20:21:14 UTC">
+      <body>I work in the wholesale division of Liberty travel the name of the company is called Go Go</body>
+    </message>
+  </messages>
+</conversation>

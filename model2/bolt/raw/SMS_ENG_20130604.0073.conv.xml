@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-04 17:28:32 UTC" participant="152420">
+      <body>Feel better!</body>
+    </message>
+    <message id="m0001" time="2013-06-05 11:29:46 UTC" participant="152420">
+      <body>U available for a cookout send off to BA at my place on the 15th?</body>
+    </message>
+    <message id="m0002" time="2013-06-05 11:46:30 UTC" participant="152417">
+      <body>I think ill be in Philly til the 16th, would the 16th work?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140507.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-07 19:36:44 UTC" participant="153491">
+      <body>Hey, can you call me when you're free?</body>
+    </message>
+    <message id="m0001" time="2014-05-07 19:52:19 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-05-08 15:43:22 UTC" participant="152116">
+      <body>Me and Eden can't do Saturday. </body>
+    </message>
+  </messages>
+</conversation>
+

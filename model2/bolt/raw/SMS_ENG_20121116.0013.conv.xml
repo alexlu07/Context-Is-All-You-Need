@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121116.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131406" time="2012-11-16 22:32:32 UTC">
+      <body>Don't want 2</body>
+    </message>
+    <message id="m0001" participant="131403" time="2012-11-16 22:33:18 UTC">
+      <body>Why don't you make dinner tonight</body>
+    </message>
+    <message id="m0002" participant="131403" time="2012-11-16 22:34:12 UTC">
+      <body>Ready brat brat</body>
+    </message>
+    <message id="m0003" participant="131406" time="2012-11-16 22:34:40 UTC">
+      <body>Snooty snot snot</body>
+    </message>
+    <message id="m0004" participant="131406" time="2012-11-16 22:34:40 UTC">
+      <body>Shut up</body>
+    </message>
+    <message id="m0005" participant="131403" time="2012-11-16 22:35:44 UTC">
+      <body>Behave</body>
+    </message>
+    <message id="m0006" participant="131406" time="2012-11-16 22:45:54 UTC">
+      <body>No      No I don't
+</body>
+    </message>
+    <message id="m0007" participant="131406" time="2012-11-16 22:46:18 UTC">
+      <body>Don't know</body>
+    </message>
+    <message id="m0008" participant="131406" time="2012-11-16 22:46:33 UTC">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>

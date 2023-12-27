@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0105" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136635" time="2013-05-26 20:56:44 UTC">
+      <body>Oh word. I'm heading out west now. What time is your boy's joint</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-05-27 18:16:48 UTC">
+      <body>Anything going on?</body>
+    </message>
+    <message id="m0002" participant="136635" time="2013-05-27 18:20:00 UTC">
+      <body>I'm heading out to Thornton PA for a bit. My buddy Jerry is firing up the smoker</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-05-27 18:20:20 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

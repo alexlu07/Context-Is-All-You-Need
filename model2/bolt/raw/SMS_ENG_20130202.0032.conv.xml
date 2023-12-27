@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-02 15:15:08 UTC">
+      <body> Can we start my hair at like 11? </body>
+    </message>
+    <message id="m0001" participant="137263" time="2013-02-02 16:06:24 UTC">
+      <body>11:15</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-02-02 16:07:08 UTC">
+      <body>Well I currently can't find a ride to the school ack</body>
+    </message>
+    <message id="m0003" participant="137263" time="2013-02-02 16:08:17 UTC">
+      <body>Ha aw baby call Kateri she lives in Rutledge </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-02-02 16:08:31 UTC">
+      <body>Kateri is scary</body>
+    </message>
+    <message id="m0005" participant="137263" time="2013-02-02 16:12:48 UTC">
+      <body>But Allison is scarier </body>
+    </message>
+  </messages>
+</conversation>

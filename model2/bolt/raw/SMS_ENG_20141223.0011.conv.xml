@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141223.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-23 20:15:09 UTC" participant="153547">
+      <body>Did you make it to your moms yet?</body>
+    </message>
+    <message id="m0001" time="2014-12-23 20:20:08 UTC" participant="153557">
+      <body>I just got to Mass MOCA and it was closed. Heading to moms now. About an hour away</body>
+    </message>
+    <message id="m0002" time="2014-12-23 20:20:37 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-12-23 20:20:54 UTC" participant="153547">
+      <body>Weather sucks here</body>
+    </message>
+    <message id="m0004" time="2014-12-23 20:21:32 UTC" participant="153557">
+      <body>Rained the whole way here</body>
+    </message>
+    <message id="m0005" time="2014-12-23 20:21:36 UTC" participant="153557">
+      <body>And it's cold</body>
+    </message>
+    <message id="m0006" time="2014-12-23 20:22:04 UTC" participant="153547">
+      <body>Drive safe</body>
+    </message>
+    <message id="m0007" time="2014-12-23 20:22:24 UTC" participant="153557">
+      <body>I will. Going slow. Happy to make it before dark though. Love us.</body>
+    </message>
+    <message id="m0008" time="2014-12-23 20:22:24 UTC" participant="153557">
+      <body>You I mean</body>
+    </message>
+  </messages>
+</conversation>
+

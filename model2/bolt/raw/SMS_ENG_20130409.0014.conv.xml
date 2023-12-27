@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130409.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131353" time="2013-04-09 17:29:13 UTC">
+      <body>Hey when were we getting together? I got a call yesterday and I am leaving tomorrow </body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-04-09 17:35:12 UTC">
+      <body>shit. fuck. damn.
+maybe this afternoon? 4?</body>
+    </message>
+    <message id="m0002" participant="131353" time="2013-04-09 17:35:52 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

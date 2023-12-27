@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0105" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-23 20:06:22 UTC" participant="152417">
+      <body>Can I ride home with you to night? I am going to leave my car at home</body>
+    </message>
+    <message id="m0001" time="2013-05-23 21:37:41 UTC" participant="152560">
+      <body>Absolutely.</body>
+    </message>
+    <message id="m0002" time="2013-05-23 21:38:02 UTC" participant="152560">
+      <body>What time do you think you're getting out?</body>
+    </message>
+    <message id="m0003" time="2013-05-23 21:38:24 UTC" participant="152417">
+      <body>1030</body>
+    </message>
+    <message id="m0004" time="2013-05-23 21:40:11 UTC" participant="152560">
+      <body>Awesome; see you then. (wish I could see the show tonight!)...</body>
+    </message>
+    <message id="m0005" time="2013-05-24 02:50:26 UTC" participant="152560">
+      <body>Closing up here; stop by whenever or I will meet up with ya....</body>
+    </message>
+    <message id="m0006" time="2013-05-24 03:01:29 UTC" participant="152417">
+      <body>K, be over soon</body>
+    </message>
+    <message id="m0007" time="2013-05-24 18:27:31 UTC" participant="152417">
+      <body>Can you walk the girls or should i stop back there?</body>
+    </message>
+    <message id="m0008" time="2013-05-24 18:33:45 UTC" participant="152560">
+      <body>They had dinner already, and I am just about to walk them.</body>
+    </message>
+    <message id="m0009" time="2013-05-24 18:51:27 UTC" participant="152417">
+      <body>Thank you!</body>
+    </message>
+    <message id="m0010" time="2013-05-24 18:52:00 UTC" participant="152560">
+      <body>You got it. See ya tonight!</body>
+    </message>
+    <message id="m0011" time="2013-05-24 19:35:56 UTC" participant="152560">
+      <body>We went for a long walk, but Simone didn't do anything-do you think she'll be ok?</body>
+    </message>
+    <message id="m0012" time="2013-05-24 19:36:19 UTC" participant="152417">
+      <body>Ya</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120508.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-05-08 19:43:44 UTC">
+      <body>Magical hour opened up, you free?</body>
+    </message>
+    <message id="m0001" participant="135117" time="2012-05-08 19:48:51 UTC">
+      <body>Not now, sorry. Have a ton of stuff to so before the woodshop closes. Take that hour and treat yourself to something you've been craving! </body>
+    </message>
+    <message id="m0002" participant="135117" time="2012-05-09 03:40:46 UTC">
+      <body>Text just to let me know you're safe</body>
+    </message>
+    <message id="m0003" participant="135117" time="2012-05-09 03:55:46 UTC">
+      <body>You've got me worried ...</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-05-09 03:58:37 UTC">
+      <body>Just got inside - sorry to worry you </body>
+    </message>
+    <message id="m0005" participant="135117" time="2012-05-09 03:59:37 UTC">
+      <body>Good good. Take care of yourself Mattie </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150413.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-13 11:28:44 UTC" participant="153412">
+      <body>Ready when you are. </body>
+    </message>
+    <message id="m0001" time="2015-04-13 11:38:25 UTC" participant="153416">
+      <body>Okay! Be there soon</body>
+    </message>
+    <message id="m0002" time="2015-04-13 11:38:40 UTC" participant="153412">
+      <body>Okay. </body>
+    </message>
+    <message id="m0003" time="2015-04-13 11:52:03 UTC" participant="153416">
+      <body>Coming</body>
+    </message>
+    <message id="m0004" time="2015-04-13 20:53:14 UTC" participant="153412">
+      <body>I...do not...feel like...studying!</body>
+    </message>
+    <message id="m0005" time="2015-04-13 20:54:41 UTC" participant="153416">
+      <body>Haha can't say I blame you</body>
+    </message>
+    <message id="m0006" time="2015-04-13 20:55:48 UTC" participant="153412">
+      <body>Ughhhh. I just want to sleep. Sleep sleep sleep. As if I haven't slept enough. Haha. </body>
+    </message>
+    <message id="m0007" time="2015-04-13 20:56:43 UTC" participant="153416">
+      <body>Nap! Cat nap lol</body>
+    </message>
+    <message id="m0008" time="2015-04-13 20:58:33 UTC" participant="153412">
+      <body>Nooo. I don't know how to cat nap. It'll turn to a 3 hr nap. </body>
+    </message>
+  </messages>
+</conversation>
+

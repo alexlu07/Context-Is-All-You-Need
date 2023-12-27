@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150330.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-30 14:30:04 UTC" participant="153412">
+      <body>Don't know if you know this. But how do you know how many ions an element has?</body>
+    </message>
+    <message id="m0001" time="2015-03-30 14:30:24 UTC" participant="153413">
+      <body>...isn't that the charge? That's just something you'd have to know. An element doesn't have ions. It is either an ion or not.</body>
+    </message>
+    <message id="m0002" time="2015-03-30 14:35:44 UTC" participant="153412">
+      <body>Oh!!! Okay! So the only ones that would have possible multiple ions are the elements in the D block because they don't technically have assigned charges?</body>
+    </message>
+    <message id="m0003" time="2015-03-30 14:46:25 UTC" participant="153413">
+      <body>Yeah pretty much</body>
+    </message>
+    <message id="m0004" time="2015-03-30 15:04:13 UTC" participant="153412">
+      <body>Coolio</body>
+    </message>
+    <message id="m0005" time="2015-03-30 18:08:00 UTC" participant="153413">
+      <body>We're close. 11th and chestnut</body>
+    </message>
+    <message id="m0006" time="2015-03-30 18:09:54 UTC" participant="153412">
+      <body>K</body>
+    </message>
+    <message id="m0007" time="2015-03-31 13:45:34 UTC" participant="153412">
+      <body>I think I did okay on my exam! But my lab is cancelled!!!!</body>
+    </message>
+    <message id="m0008" time="2015-03-31 13:45:36 UTC" participant="153413">
+      <body>Yayyyyyy</body>
+    </message>
+    <message id="m0009" time="2015-03-31 13:46:38 UTC" participant="153412">
+      <body>So I'll meet you at the hospital. I'll stay in the libs till then. </body>
+    </message>
+    <message id="m0010" time="2015-03-31 13:56:16 UTC" participant="153413">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

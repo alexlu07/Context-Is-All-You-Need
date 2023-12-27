@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110909.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-09-09 03:02:48 UTC">
+      <body>Hey Victoria sorry forgot to tell you we finished eating</body>
+    </message>
+    <message id="m0001" participant="131827" time="2011-09-09 03:03:22 UTC">
+      <body>No problem. :)</body>
+    </message>
+  </messages>
+</conversation>

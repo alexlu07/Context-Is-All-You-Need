@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 00:36:16 UTC" participant="149372">
+      <body>Can you meet tomorrow or thurs morn instead of tonight?</body>
+    </message>
+    <message id="m0001" time="2014-04-23 00:39:24 UTC" participant="153547">
+      <body>Ok. I can meet tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-04-23 00:40:32 UTC" participant="149372">
+      <body>What time? You call it. </body>
+    </message>
+    <message id="m0003" time="2014-04-23 00:42:24 UTC" participant="153547">
+      <body>845</body>
+    </message>
+    <message id="m0004" time="2014-04-23 00:42:40 UTC" participant="149372">
+      <body>Ok. I'll make coffee. </body>
+    </message>
+  </messages>
+</conversation>
+

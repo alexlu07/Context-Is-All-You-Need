@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150323.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-23 12:00:30 UTC" participant="152212">
+      <body>No
+Meeting today reminder </body>
+    </message>
+    <message id="m0001" time="2015-03-23 12:01:08 UTC" participant="152256">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

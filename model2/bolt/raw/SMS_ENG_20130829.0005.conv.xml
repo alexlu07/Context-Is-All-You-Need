@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130829.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-29 18:41:19 UTC" participant="154352">
+      <body>This is a text message</body>
+    </message>
+    <message id="m0001" time="2013-08-29 18:43:14 UTC" participant="154404">
+      <body>It most certainly is!</body>
+    </message>
+    <message id="m0002" time="2013-08-29 18:43:45 UTC" participant="154404">
+      <body>Is this the text message I've been waiting for my whoooolllllleeee life?!</body>
+    </message>
+    <message id="m0003" time="2013-08-29 18:44:17 UTC" participant="154352">
+      <body>Indeed</body>
+    </message>
+    <message id="m0004" time="2013-08-29 18:45:17 UTC" participant="154404">
+      <body>*sigh of relief* You've made my day.</body>
+    </message>
+    <message id="m0005" time="2013-08-29 18:45:20 UTC" participant="154404">
+      <body>Or my life.</body>
+    </message>
+  </messages>
+</conversation>
+

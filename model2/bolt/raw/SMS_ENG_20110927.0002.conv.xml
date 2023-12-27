@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110927.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-27 13:31:55 UTC">
+      <body>I'm about to turn off my phone, but they just told us that there is going to be a 40 minute delay which won't leave me any time for the layover. I texted dan but haven't heard back, i don't know if hes flying but could you see if he's received my text?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-27 14:13:11 UTC">
+      <body>This is so awful</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-09-27 14:13:53 UTC">
+      <body>It will be ok</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-27 14:14:33 UTC">
+      <body>Dan got me a flight but my nerves are so rattles</body>
+    </message>
+    <message id="m0004" participant="135103" time="2011-09-27 14:15:26 UTC">
+      <body>I know. Try to take deep breaths</body>
+    </message>
+  </messages>
+</conversation>

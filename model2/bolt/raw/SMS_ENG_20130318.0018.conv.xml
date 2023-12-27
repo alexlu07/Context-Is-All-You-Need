@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134310" time="2013-03-18 16:57:19 UTC">
+      <body>Hey want to send me some photos so I can put them in the newsletter? And send me whatever else you have. Thanks!</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-03-18 17:35:09 UTC">
+      <body>Sending now</body>
+    </message>
+    <message id="m0002" participant="134310" time="2013-03-18 17:35:38 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

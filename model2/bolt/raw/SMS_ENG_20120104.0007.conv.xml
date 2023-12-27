@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120104.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-01-04 22:48:53 UTC">
+      <body>The surgery all went well!</body>
+    </message>
+    <message id="m0001" participant="135093" time="2012-01-04 22:57:52 UTC">
+      <body>So good to hear!!</body>
+    </message>
+  </messages>
+</conversation>

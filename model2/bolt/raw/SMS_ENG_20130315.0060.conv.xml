@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130315.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-15 00:42:01 UTC" participant="152426">
+      <body>Were at Jessie's play</body>
+    </message>
+    <message id="m0001" time="2013-03-15 02:39:07 UTC" participant="152426">
+      <body>Are you still up?</body>
+    </message>
+    <message id="m0002" time="2013-03-15 23:51:19 UTC" participant="152417">
+      <body>Gimme a call when youre out of services</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141218.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-18 02:27:12 UTC" participant="149360">
+      <body>Did you leave for England yet?</body>
+    </message>
+    <message id="m0001" time="2014-12-18 03:16:16 UTC" participant="149360">
+      <body>Can I use your truck tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-12-18 09:38:21 UTC" participant="149306">
+      <body>Yes and yes</body>
+    </message>
+    <message id="m0003" time="2014-12-18 11:33:20 UTC" participant="149360">
+      <body>Have a great Christmas! Tell Jamie and Sofie I said hi</body>
+    </message>
+  </messages>
+</conversation>
+

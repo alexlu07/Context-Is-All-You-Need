@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131593" time="2013-06-05 15:33:52 UTC">
+      <body>Enter "7190" to verify this is your phone</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-05 15:34:21 UTC">
+      <body>7190</body>
+    </message>
+  </messages>
+</conversation>

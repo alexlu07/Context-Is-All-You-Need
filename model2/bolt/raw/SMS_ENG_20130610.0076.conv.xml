@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0076" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-10 11:23:00 UTC" participant="153418">
+      <body>I'm gonna be leaving to school later today, so you can drop by whenever. Sorry for the late notice. </body>
+    </message>
+    <message id="m0001" time="2013-06-10 11:25:58 UTC" participant="153445">
+      <body>Oh okay thanks! </body>
+    </message>
+    <message id="m0002" time="2013-06-10 12:46:52 UTC" participant="153445">
+      <body>Actually, I have an interview today, so you don't have to wait for me. </body>
+    </message>
+    <message id="m0003" time="2013-06-10 23:58:36 UTC" participant="153445">
+      <body>Do you have school tomorrow or on Wednesday ? </body>
+    </message>
+    <message id="m0004" time="2013-06-10 23:59:41 UTC" participant="153418">
+      <body>I need to be at school at 11 tomorrow.</body>
+    </message>
+    <message id="m0005" time="2013-06-11 00:00:15 UTC" participant="153418">
+      <body>Wednesday at 1.</body>
+    </message>
+    <message id="m0006" time="2013-06-11 00:16:57 UTC" participant="153445">
+      <body>Thanks, I'll go with you tomorrow! </body>
+    </message>
+    <message id="m0007" time="2013-06-11 02:06:47 UTC" participant="153445">
+      <body>Thanks, I'll go with you tomorrow! </body>
+    </message>
+  </messages>
+</conversation>
+

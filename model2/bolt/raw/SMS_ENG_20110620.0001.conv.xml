@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110620.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-20 21:06:20 UTC">
+      <body>Still want to make music?</body>
+    </message>
+    <message id="m0001" participant="135100" time="2011-06-20 22:47:01 UTC">
+      <body>Oh, I fucked up. I have to work in a couple hours then til 12.  Are you free the same time tomorrow?  Sorry for being a dickhead.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-20 22:47:39 UTC">
+      <body>Quit it with the Dickhead. Yea that works</body>
+    </message>
+    <message id="m0003" participant="135100" time="2011-06-20 22:59:09 UTC">
+      <body>K cool</body>
+    </message>
+    <message id="m0004" participant="135100" time="2011-06-21 22:31:35 UTC">
+      <body>Cha wanna do</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-21 22:32:18 UTC">
+      <body>Make music dood. Where at? My roommates got her client here</body>
+    </message>
+    <message id="m0006" participant="135100" time="2011-06-21 22:35:00 UTC">
+      <body>Here's fine, I have a couple of things to do first so you wanna say...6:30?  I work at ten so that gives us plenty of time.</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-06-21 22:35:26 UTC">
+      <body>That sounds perf. Where do you live?</body>
+    </message>
+  </messages>
+</conversation>

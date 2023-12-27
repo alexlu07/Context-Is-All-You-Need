@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-05 19:50:03 UTC" participant="149306">
+      <body>What time are u getting to Bauhaus </body>
+    </message>
+    <message id="m0001" time="2013-06-05 19:56:10 UTC" participant="149369">
+      <body>I'm going to try to get there at 5 so i can eat without it being too crazy</body>
+    </message>
+    <message id="m0002" time="2013-06-05 19:58:10 UTC" participant="149306">
+      <body>Ok see u then</body>
+    </message>
+  </messages>
+</conversation>
+

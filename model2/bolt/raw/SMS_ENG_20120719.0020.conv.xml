@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120719.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-07-19 20:35:10 UTC" participant="153439">
+      <body>Tomorrow is available for u??</body>
+    </message>
+    <message id="m0001" time="2012-07-19 20:37:09 UTC" participant="153418">
+      <body>I'm free tomorrow after 11:30 and before 3:15. Do any of those times work for you?</body>
+    </message>
+    <message id="m0002" time="2012-07-20 01:12:06 UTC" participant="153418">
+      <body>Uh...did you get my last message?</body>
+    </message>
+    <message id="m0003" time="2012-07-20 05:16:08 UTC" participant="153439">
+      <body>I'm sorry but my phone died....
+Can i meet u at 13:00??</body>
+    </message>
+    <message id="m0006" time="2012-07-20 05:16:21 UTC" participant="153439">
+      <body>I cannot text....
+I dont know why....</body>
+    </message>
+    <message id="m0008" time="2012-07-20 05:19:12 UTC" participant="153439">
+      <body>I'm sorry but my phone died....
+Can i meet u at 13:00??</body>
+    </message>
+    <message id="m0009" time="2012-07-20 06:01:15 UTC" participant="153418">
+      <body>Hey! Sorry to text you so late. 13:00 sounds good. I'll see you then~</body>
+    </message>
+  </messages>
+</conversation>
+

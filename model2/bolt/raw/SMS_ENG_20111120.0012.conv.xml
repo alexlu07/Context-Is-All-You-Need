@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111120.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-11-20 19:20:31 UTC">
+      <body>Hey guys - due to all the chamber choir conflicts, we we won't be performing at the PDA conference. Enjoy the afternoon and I'll see you tonight!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-11-20 19:23:30 UTC">
+      <body>But it's just Vijay, James, Ricky, Ryan, and I. I'm sure if you sing songs without TB it'll be fine</body>
+    </message>
+    <message id="m0002" participant="131830" time="2011-11-20 19:25:19 UTC">
+      <body>Matt won't be able to make it either, so I don't think it'll work. Thanks for the suggestion, though!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-11-20 19:28:00 UTC">
+      <body>But we can't back out of a commitment at the last minute just so Matt can go watch his girlfriend's concert! Or did we cancel last week?</body>
+    </message>
+    <message id="m0004" participant="131830" time="2011-11-20 19:29:23 UTC">
+      <body>We never said that we could perform. It's just taken a while for me to finalize that given the group's conflicts</body>
+    </message>
+    <message id="m0005" participant="131821" time="2011-11-20 19:29:58 UTC">
+      <body>Oh okay no problem then xD sorry</body>
+    </message>
+  </messages>
+</conversation>

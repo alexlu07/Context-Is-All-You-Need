@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140618.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-18 21:02:41 UTC" participant="152734">
+      <body>Hey do you know what time you ride on Friday? Your cheering committee wants to know</body>
+    </message>
+    <message id="m0001" time="2014-06-18 21:05:04 UTC" participant="153305">
+      <body>Nothing yet! </body>
+    </message>
+    <message id="m0002" time="2014-06-18 21:27:49 UTC" participant="153305">
+      <body>They are early times! 230 dressage </body>
+    </message>
+    <message id="m0003" time="2014-06-18 21:30:31 UTC" participant="153305">
+      <body>330 stadium only two novice no xc</body>
+    </message>
+    <message id="m0004" time="2014-06-18 21:58:24 UTC" participant="153305">
+      <body>:)</body>
+    </message>
+    <message id="m0005" time="2014-06-18 21:58:28 UTC" participant="152734">
+      <body>Roger that!</body>
+    </message>
+  </messages>
+</conversation>
+

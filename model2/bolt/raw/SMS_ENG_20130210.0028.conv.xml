@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-02-10 18:53:50 UTC">
+      <body>In car if u wanna talk</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-10 18:54:05 UTC">
+      <body>U just callede twice </body>
+    </message>
+    <message id="m0002" participant="135397" time="2013-02-10 18:54:27 UTC">
+      <body>Call cel</body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-02-10 18:54:55 UTC">
+      <body>Yea. Do u not wanna talk? Guess not</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-10 19:00:10 UTC">
+      <body>I'm trying to work</body>
+    </message>
+  </messages>
+</conversation>

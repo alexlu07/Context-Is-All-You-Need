@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 14:58:03 UTC" participant="153458">
+      <body>Hey I am up what time is good </body>
+    </message>
+    <message id="m0001" time="2015-01-28 14:59:10 UTC" participant="153418">
+      <body>I'll try to get there around 10:45. Could be a bit later</body>
+    </message>
+    <message id="m0002" time="2015-01-28 15:00:15 UTC" participant="153458">
+      <body>K </body>
+    </message>
+  </messages>
+</conversation>
+

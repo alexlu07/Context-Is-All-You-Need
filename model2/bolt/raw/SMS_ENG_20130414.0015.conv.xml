@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-14 17:11:25 UTC">
+      <body>hey. happy sunday!
+how are you? how's your day?</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-04-14 19:42:21 UTC">
+      <body>(2/2) ake at the beep.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-14 20:07:48 UTC">
+      <body>hey. resend that.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-06-13 01:18:24 UTC">
+      <body>Does the SD mean south Dakota?</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-06-13 03:52:05 UTC">
+      <body>No.. It's my initials (middle and last name)... I'm just outside Philadelphia</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-06-13 11:13:51 UTC">
+      <body>I'm in San Francisco.</body>
+    </message>
+  </messages>
+</conversation>

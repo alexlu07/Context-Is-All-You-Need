@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-25 02:01:51 UTC">
+      <body>Can we switch our time to two tomorrow?  If not no worries. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-25 13:04:56 UTC">
+      <body>Lee almost there. Should I grab us coffee</body>
+    </message>
+    <message id="m0002" participant="135469" time="2013-04-25 13:07:12 UTC">
+      <body>Hi Sofie
+I thought I texted you back and said ok but I didn't send it
+I was taking it slow and will be in at 10</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-25 13:08:51 UTC">
+      <body>Haha well we can do two to five or ten to one what do you prefer</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-25 13:09:21 UTC">
+      <body>I stayed up super late and finished up some stuff</body>
+    </message>
+  </messages>
+</conversation>

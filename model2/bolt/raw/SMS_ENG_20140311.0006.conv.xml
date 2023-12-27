@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140311.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-11 17:47:49 UTC" participant="153491">
+      <body>How goes the walk Mr. Tour Guide?</body>
+    </message>
+    <message id="m0001" time="2014-03-11 17:48:38 UTC" participant="152116">
+      <body>I didn't start yet</body>
+    </message>
+    <message id="m0002" time="2014-03-11 17:48:46 UTC" participant="152116">
+      <body>I'm on my way to meet them now</body>
+    </message>
+    <message id="m0003" time="2014-03-11 17:49:46 UTC" participant="153491">
+      <body>Sucks, it's going to be 65 degrees today but if course I have to be in doors until 8 :(</body>
+    </message>
+    <message id="m0004" time="2014-03-11 17:50:14 UTC" participant="152116">
+      <body>Are you at work?</body>
+    </message>
+    <message id="m0005" time="2014-03-11 17:50:28 UTC" participant="152116">
+      <body>Right now I mean?</body>
+    </message>
+    <message id="m0006" time="2014-03-11 17:52:58 UTC" participant="153491">
+      <body>Yes, that's why I'm stuck inside until 8.</body>
+    </message>
+    <message id="m0007" time="2014-03-11 17:54:03 UTC" participant="152116">
+      <body>Okay I thought you were on break.</body>
+    </message>
+    <message id="m0008" time="2014-03-11 17:54:40 UTC" participant="153491">
+      <body>Oh yea I am!</body>
+    </message>
+  </messages>
+</conversation>
+

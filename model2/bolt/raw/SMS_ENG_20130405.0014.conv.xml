@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-05 02:19:29 UTC">
+      <body>sat 930 shawna?</body>
+    </message>
+    <message id="m0001" participant="131358" time="2013-04-05 02:20:32 UTC">
+      <body>10</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-05 02:26:58 UTC">
+      <body>k. see you then!</body>
+    </message>
+    <message id="m0003" participant="131358" time="2013-04-06 00:03:58 UTC">
+      <body>Can we do 11ish instead?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-06 00:16:29 UTC">
+      <body>yeah. see you at 11.</body>
+    </message>
+    <message id="m0006" participant="131358" time="2013-04-06 00:17:01 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-06 00:17:27 UTC">
+      <body>yep.</body>
+    </message>
+  </messages>
+</conversation>

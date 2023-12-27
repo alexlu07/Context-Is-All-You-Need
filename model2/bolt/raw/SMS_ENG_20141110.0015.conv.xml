@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141110.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-10 00:33:17 UTC" participant="153491">
+      <body> Is it just me or does it feel much later than it actually is?</body>
+    </message>
+    <message id="m0001" time="2014-11-10 00:34:33 UTC" participant="153543">
+      <body>Yes! I was thinking that an hour ago. </body>
+    </message>
+    <message id="m0002" time="2014-11-10 00:37:50 UTC" participant="153491">
+      <body>It feels like 10:30 to me.</body>
+    </message>
+    <message id="m0003" time="2014-11-10 00:38:11 UTC" participant="153491">
+      <body>I got home more than an hour ago and I'm still cold. </body>
+    </message>
+    <message id="m0004" time="2014-11-10 00:43:46 UTC" participant="153491">
+      <body>How was the sushi?</body>
+    </message>
+    <message id="m0005" time="2014-11-10 01:31:44 UTC" participant="153543">
+      <body>Sushi was good! As usual, how are you? Heard back from that company yet? </body>
+    </message>
+    <message id="m0006" time="2014-11-10 01:49:46 UTC" participant="153491">
+      <body>Good, still cold hahah. Had some pretty good wine today, even though I'm not a big alcohol person. Shocking isn't it? Hahahah. Not yet. </body>
+    </message>
+    <message id="m0007" time="2014-11-10 01:49:54 UTC" participant="153491">
+      <body>How's your week going?</body>
+    </message>
+    <message id="m0008" time="2014-11-10 01:49:58 UTC" participant="153491">
+      <body>*looking</body>
+    </message>
+    <message id="m0009" time="2014-11-10 01:55:12 UTC" participant="153543">
+      <body>Did you bring any wine home?</body>
+    </message>
+    <message id="m0010" time="2014-11-10 01:55:12 UTC" participant="153543">
+      <body>I'll be at Hampton tomorrow and then Crowne Tuesday. </body>
+    </message>
+    <message id="m0011" time="2014-11-10 02:00:46 UTC" participant="153491">
+      <body>Hahah no, I had only sips. If I drank a whole bottle, I will not be okay.</body>
+    </message>
+    <message id="m0012" time="2014-11-10 02:01:38 UTC" participant="153491">
+      <body>Are you alternating days now?</body>
+    </message>
+  </messages>
+</conversation>
+

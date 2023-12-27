@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 01:50:01 UTC" participant="153548">
+      <body>Didn't get the job:( </body>
+    </message>
+    <message id="m0001" time="2014-04-23 01:50:36 UTC" participant="153548">
+      <body>Not moving to Minnesota.</body>
+    </message>
+    <message id="m0002" time="2014-04-23 01:53:04 UTC" participant="153631">
+      <body/>
+    </message>
+    <message id="m0003" time="2014-04-23 01:53:04 UTC" participant="153631">
+      <body>I'm sorry </body>
+    </message>
+    <message id="m0004" time="2014-04-23 01:55:09 UTC" participant="153631">
+      <body>You don't wanna live there anyway! Too damn cold</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120323.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-03-23 23:37:32 UTC">
+      <body>Hey lady :) just wondering when you'll be home... I'm in a key situation</body>
+    </message>
+    <message id="m0001" participant="135140" time="2012-03-24 00:34:08 UTC">
+      <body>Hey I'm heading to fishtown now ;)</body>
+    </message>
+    <message id="m0002" participant="135140" time="2012-03-24 15:42:56 UTC">
+      <body>Hey babe! Did you figure out key situation last night? Hope you were cool! I'm on the road headed to atlanta, back on Friday. Have a great week. ;) xoxox</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-03-24 15:45:58 UTC">
+      <body>I did, I realized that going home would've left scott stranded so I stuck around   And luckily someone came home not much later. Thanks for your help though! Safe travels!</body>
+    </message>
+    <message id="m0004" participant="135140" time="2012-03-24 15:47:12 UTC">
+      <body>Cool ok. Thanks!! </body>
+    </message>
+  </messages>
+</conversation>

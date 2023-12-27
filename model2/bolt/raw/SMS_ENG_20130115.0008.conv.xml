@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130115.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135422" time="2013-01-15 01:26:27 UTC">
+      <body>Hi! I'm at work! </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-15 05:07:16 UTC">
+      <body>Hi! I just wanted to say hi!</body>
+    </message>
+  </messages>
+</conversation>

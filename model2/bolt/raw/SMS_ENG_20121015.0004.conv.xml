@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121015.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-10-15 20:14:03 UTC">
+      <body>Skype tonight?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-10-15 20:24:41 UTC">
+      <body>We're going to the fair tonight! Can I call you on the way home?</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-10-15 20:28:07 UTC">
+      <body>Sure but want to talk a different day?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-10-15 21:15:17 UTC">
+      <body>No, it's a busy week. I'll call you tonight!</body>
+    </message>
+    <message id="m0004" participant="131023" time="2012-10-15 21:16:06 UTC">
+      <body>Ok sounds good Pix!  Xoxoxo</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-10-15 23:46:15 UTC">
+      <body>Home in time to Skype at 8! See you soon!</body>
+    </message>
+    <message id="m0006" participant="131023" time="2012-10-15 23:46:59 UTC">
+      <body>Perfect!</body>
+    </message>
+  </messages>
+</conversation>

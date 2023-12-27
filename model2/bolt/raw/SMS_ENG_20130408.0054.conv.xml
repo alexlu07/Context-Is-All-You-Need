@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-08 18:48:32 UTC" participant="152526">
+      <body>Make sure you save your receipts from printing the flyers so we can reimburse you. </body>
+    </message>
+    <message id="m0001" time="2013-04-08 19:48:22 UTC" participant="152417">
+      <body>I ordered printer ink so i can print em at home, can that be reimbursed?</body>
+    </message>
+    <message id="m0002" time="2013-04-08 19:52:02 UTC" participant="152526">
+      <body>It's probably a lot cheaper to print one and then photocopy the rest. How much is the ink?</body>
+    </message>
+    <message id="m0003" time="2013-04-08 19:54:09 UTC" participant="152417">
+      <body>It was $18, and they estimate that that can print 3000 pages, its a pretty efficient bw laser printer</body>
+    </message>
+    <message id="m0004" time="2013-04-08 19:56:48 UTC" participant="152526">
+      <body>Oh. Yea. Just do that then. My printer is a dinosaur and the ink is really expensive. I have no perspective. Do you have an invoice for it? Or some kind of receipt?</body>
+    </message>
+    <message id="m0005" time="2013-04-08 19:56:48 UTC" participant="152526">
+      <body>Perf!</body>
+    </message>
+    <message id="m0006" time="2013-04-08 19:57:36 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0007" time="2013-04-08 19:58:56 UTC" participant="152526">
+      <body>Oh. I have been in touch with the truffle girl. She's going to make spicy and aphrodisiac truffles for us! and Rose ones too!</body>
+    </message>
+  </messages>
+</conversation>
+

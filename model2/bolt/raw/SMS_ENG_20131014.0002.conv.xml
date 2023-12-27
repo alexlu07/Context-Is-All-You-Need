@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131014.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-14 11:08:44 UTC" participant="152120">
+      <body>Good morning john! I hope you're enjoying Baltimore and your new job! What is your address? :)</body>
+    </message>
+    <message id="m0003" time="2013-10-14 15:26:22 UTC" participant="152120">
+      <body>Are you coming back to Philly anytime soon?</body>
+    </message>
+    <message id="m0004" time="2013-10-14 23:45:15 UTC" participant="153418">
+      <body>I don't know when yet. What's up?</body>
+    </message>
+    <message id="m0005" time="2013-10-14 23:45:43 UTC" participant="152120">
+      <body>Trying to see when we can visit you :)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-03 02:27:59 UTC">
+      <body>Deinstall is so boring! I can't figure out how to use caps lock!</body>
+    </message>
+    <message id="m0001" participant="131863" time="2013-06-03 02:29:20 UTC">
+      <body>i can't talk bc i'm in computer lab in a coffeeshop costume. call you later!</body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-06-03 02:29:45 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

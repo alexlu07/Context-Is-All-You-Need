@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 13:52:00 UTC" participant="153852">
+      <body>Schedule for tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-03-24 14:15:44 UTC" participant="153848">
+      <body>Yoga at 7 class at 3:30-4:45 </body>
+    </message>
+    <message id="m0002" time="2015-03-24 14:15:58 UTC" participant="153848">
+      <body>Production meeting later in evening at time tbd </body>
+    </message>
+    <message id="m0003" time="2015-03-24 14:26:08 UTC" participant="153852">
+      <body>Pick a fun place for lunch</body>
+    </message>
+    <message id="m0004" time="2015-03-24 14:32:03 UTC" participant="153848">
+      <body>Artichoke? </body>
+    </message>
+    <message id="m0005" time="2015-03-24 14:34:40 UTC" participant="153852">
+      <body>Sweet</body>
+    </message>
+    <message id="m0006" time="2015-03-24 14:37:11 UTC" participant="153848">
+      <body>I don't think it's vegan though...</body>
+    </message>
+    <message id="m0007" time="2015-03-24 14:37:30 UTC" participant="153852">
+      <body>Mm mm</body>
+    </message>
+  </messages>
+</conversation>
+

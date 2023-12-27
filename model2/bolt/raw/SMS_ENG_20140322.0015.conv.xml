@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140322.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-22 13:26:30 UTC" participant="153548">
+      <body>What time for dinner tonight and what can I bring? Treats, wine, beer, all of the above?</body>
+    </message>
+    <message id="m0001" time="2014-03-22 14:23:18 UTC" participant="153601">
+      <body>Well rubys bedtime is 6:30-7. So if you want to catch her id say 5:30/6 but you'll need to entertain yourself for 20 mins while I put her to bed. Otherwise, 7:30? And wine sounds good!!</body>
+    </message>
+    <message id="m0002" time="2014-03-22 14:26:17 UTC" participant="153548">
+      <body>Great! I'll be there between 5:30 and 6 so I can see that lil boo. Let me know if you anything else!</body>
+    </message>
+    <message id="m0003" time="2014-03-22 21:30:34 UTC" participant="153548">
+      <body>I should be there in 20 minutes!</body>
+    </message>
+    <message id="m0004" time="2014-03-22 21:33:58 UTC" participant="153601">
+      <body>K!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140120.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-20 21:08:25 UTC" participant="153548">
+      <body>Hey! Shorts ran late leaving now</body>
+    </message>
+    <message id="m0001" time="2014-01-20 21:08:57 UTC" participant="153548">
+      <body>Where should we meet you</body>
+    </message>
+    <message id="m0002" time="2014-01-20 21:09:20 UTC" participant="153665">
+      <body>I'm outside the door.</body>
+    </message>
+    <message id="m0003" time="2014-01-20 21:09:20 UTC" participant="153665">
+      <body>To the theater.</body>
+    </message>
+    <message id="m0004" time="2014-01-20 21:09:20 UTC" participant="153665">
+      <body>Free lunch! Free lunch! Free lunch!</body>
+    </message>
+    <message id="m0005" time="2014-01-20 21:09:33 UTC" participant="153548">
+      <body>Great</body>
+    </message>
+    <message id="m0006" time="2014-01-20 21:09:40 UTC" participant="153548">
+      <body>Waiting for lights up</body>
+    </message>
+    <message id="m0007" time="2014-01-20 21:10:42 UTC" participant="153548">
+      <body>OMG long credits</body>
+    </message>
+    <message id="m0008" time="2014-01-21 02:26:49 UTC" participant="153548">
+      <body>We are in the lobby. Thinking about getting dinner!</body>
+    </message>
+    <message id="m0009" time="2014-01-21 02:27:12 UTC" participant="153665">
+      <body>Cool. Coming.</body>
+    </message>
+    <message id="m0010" time="2014-01-21 06:03:33 UTC" participant="153548">
+      <body>Hey! Can you resend me the code? I can't unlock the door</body>
+    </message>
+    <message id="m0011" time="2014-01-21 06:04:48 UTC" participant="153665">
+      <body>3782!</body>
+    </message>
+    <message id="m0012" time="2014-01-21 06:04:48 UTC" participant="153665">
+      <body>You in?</body>
+    </message>
+    <message id="m0013" time="2014-01-21 06:06:49 UTC" participant="153548">
+      <body>I'm in!</body>
+    </message>
+    <message id="m0014" time="2014-01-21 06:07:02 UTC" participant="153548">
+      <body>Didn't realize I had to turn the key knob thing</body>
+    </message>
+    <message id="m0015" time="2014-01-21 06:07:05 UTC" participant="153665">
+      <body>Great.</body>
+    </message>
+    <message id="m0016" time="2014-01-21 06:07:10 UTC" participant="153548">
+      <body>Have fun!!!</body>
+    </message>
+    <message id="m0017" time="2014-01-21 06:07:11 UTC" participant="153665">
+      <body>Aha. Yes.</body>
+    </message>
+    <message id="m0018" time="2014-01-21 06:07:19 UTC" participant="153665">
+      <body>Thanks.</body>
+    </message>
+    <message id="m0019" time="2014-01-21 06:07:27 UTC" participant="153665">
+      <body>I'll be back in a bit.</body>
+    </message>
+  </messages>
+</conversation>
+

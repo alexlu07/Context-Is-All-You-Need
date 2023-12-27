@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-11-14 00:31:47 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-14 00:32:17 UTC">
+      <body>Just finishing dinner at the DUC</body>
+    </message>
+    <message id="m0002" participant="136277" time="2012-11-14 00:34:04 UTC">
+      <body>Gahhhh </body>
+    </message>
+    <message id="m0003" participant="136277" time="2012-11-14 00:34:41 UTC">
+      <body>Wait how long will you be there?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-14 00:35:03 UTC">
+      <body>We are leaving now</body>
+    </message>
+    <message id="m0005" participant="136277" time="2012-11-14 00:36:08 UTC">
+      <body>Kk </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-11-14 21:35:31 UTC">
+      <body>Pretty sure the frats are dead this weekend. Caribbean party should be fun!</body>
+    </message>
+    <message id="m0007" participant="136277" time="2012-11-14 22:03:00 UTC">
+      <body>Dinner soon? </body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-11-14 22:03:30 UTC">
+      <body>I'm going to the FACE meeting for dinner at 5:30</body>
+    </message>
+    <message id="m0009" participant="136277" time="2012-11-14 22:04:17 UTC">
+      <body>Damn</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-11-14 22:04:41 UTC">
+      <body>You can come if you want</body>
+    </message>
+    <message id="m0011" participant="136277" time="2012-11-14 22:05:35 UTC">
+      <body>I have chem lab at 6</body>
+    </message>
+    <message id="m0012" participant="136164" time="2012-11-14 22:05:50 UTC">
+      <body>Ohhh ok</body>
+    </message>
+  </messages>
+</conversation>

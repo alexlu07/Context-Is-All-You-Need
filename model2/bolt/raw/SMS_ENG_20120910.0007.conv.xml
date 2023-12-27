@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120910.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131289" time="2012-09-10 21:36:20 UTC">
+      <body>Hey do you know what happened to the microphone you were wearing? I wanted to charge it</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-09-10 21:37:25 UTC">
+      <body>oh! i think i set it in the  desks near the door when we were taking the kids downstairs</body>
+    </message>
+    <message id="m0002" participant="131289" time="2012-09-10 21:40:35 UTC">
+      <body>Ok got it thanks. Did you hear that inquiry day is your choice this week cuz we have to be here on thurs. Anyway</body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-09-10 21:41:24 UTC">
+      <body>oh yeah, thanks for reminding me.... gotta check with my group</body>
+    </message>
+  </messages>
+</conversation>

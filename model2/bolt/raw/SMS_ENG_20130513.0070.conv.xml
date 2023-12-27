@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-13 20:25:37 UTC" participant="152417">
+      <body>India house is closed, shalimar it is</body>
+    </message>
+    <message id="m0001" time="2013-05-13 21:20:30 UTC" participant="152560">
+      <body>Just got back-my legs are jello!</body>
+    </message>
+    <message id="m0002" time="2013-05-13 22:38:23 UTC" participant="152417">
+      <body>Jelly jelly jelly jelly jelly jelly! Jelly bones!</body>
+    </message>
+    <message id="m0003" time="2013-05-13 23:03:22 UTC" participant="152417">
+      <body>Did you put in the order?</body>
+    </message>
+    <message id="m0004" time="2013-05-13 23:04:22 UTC" participant="152560">
+      <body>Yep.</body>
+    </message>
+    <message id="m0005" time="2013-05-13 23:04:58 UTC" participant="152417">
+      <body>:-) thanks see you soon</body>
+    </message>
+    <message id="m0006" time="2013-05-13 23:05:24 UTC" participant="152560">
+      <body>See ya</body>
+    </message>
+  </messages>
+</conversation>
+

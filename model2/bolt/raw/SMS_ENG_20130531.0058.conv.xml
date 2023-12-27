@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137260" time="2013-05-31 17:25:20 UTC">
+      <body>Hey what are you doing tomorrow</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-31 17:26:39 UTC">
+      <body>Not much what's up </body>
+    </message>
+    <message id="m0002" participant="137260" time="2013-05-31 17:29:17 UTC">
+      <body>I'm having a tiny and casual grad party that's pretty much a few members of my family + Sam and there'll be sandwiches and black forest cake and stuff and f you're around you should stop by :)</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-05-31 17:34:12 UTC">
+      <body>Sounds lovely! What time? </body>
+    </message>
+    <message id="m0004" participant="137260" time="2013-05-31 17:36:50 UTC">
+      <body>It starts around 6, dessert's around 7, and we're going to go up and watch the swarthmore college graduates' fireworks display at 9, so whenever you like/whatever you wanna show up for really :)</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-05-31 17:37:08 UTC">
+      <body>Wonderful! I'll see you then :)</body>
+    </message>
+    <message id="m0006" participant="137260" time="2013-05-31 17:37:30 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

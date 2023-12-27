@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130718.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-18 17:21:14 UTC">
+      <body>Hey hey, how's your day going?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-18 18:03:26 UTC">
+      <body>Interesting. Sitting here taking part in an occupation of Gov Rick Scott's office. Really great young folks organizing all this. Theyve been here for 3 days,</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-18 18:03:38 UTC">
+      <body>I cant believe the Gov wont meet with them!</body>
+    </message>
+  </messages>
+</conversation>

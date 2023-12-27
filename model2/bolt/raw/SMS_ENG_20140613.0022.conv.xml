@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140613.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-13 23:32:00 UTC" participant="154901">
+      <body>Hey r u around</body>
+    </message>
+    <message id="m0001" time="2014-06-13 23:34:00 UTC" participant="153244">
+      <body>Not home but nearby.  What's up?</body>
+    </message>
+    <message id="m0002" time="2014-06-13 23:36:47 UTC" participant="154901">
+      <body>Its okay its nothing bad lol</body>
+    </message>
+    <message id="m0003" time="2014-06-13 23:37:05 UTC" participant="153244">
+      <body>Ok lol</body>
+    </message>
+    <message id="m0004" time="2014-06-13 23:37:18 UTC" participant="154901">
+      <body>Lol </body>
+    </message>
+    <message id="m0005" time="2014-06-13 23:37:34 UTC" participant="154901">
+      <body>Sorry did I get u worry casue Steph called me </body>
+    </message>
+    <message id="m0006" time="2014-06-13 23:52:25 UTC" participant="153244">
+      <body>Naw.. we were headed to the diner but since we were nearby we were going to stop back home </body>
+    </message>
+    <message id="m0007" time="2014-06-13 23:53:02 UTC" participant="154901">
+      <body>Lol its okay sorry </body>
+    </message>
+    <message id="m0008" time="2014-06-13 23:53:24 UTC" participant="153244">
+      <body>Lol its fine</body>
+    </message>
+  </messages>
+</conversation>
+

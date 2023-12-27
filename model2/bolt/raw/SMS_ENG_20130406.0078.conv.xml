@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-06 19:22:20 UTC" participant="152734">
+      <body>How's it coming?</body>
+    </message>
+    <message id="m0001" time="2013-04-07 01:36:26 UTC" participant="153268">
+      <body>We're here, no problem. see you in am.</body>
+    </message>
+    <message id="m0002" time="2013-04-07 01:36:53 UTC" participant="152734">
+      <body>Ok, good night!</body>
+    </message>
+    <message id="m0003" time="2013-04-07 12:40:56 UTC" participant="152734">
+      <body>Hey mom, wanna come here for breakfast? Or we could go up to the coffee shop or someplace? </body>
+    </message>
+    <message id="m0004" time="2013-04-07 19:05:44 UTC" participant="153268">
+      <body>We're on the turnpike. tell richard he gives good directions! have agood lesson &amp; thanks!
+</body>
+    </message>
+    <message id="m0005" time="2013-04-07 19:10:46 UTC" participant="152734">
+      <body>Glad you made it! Thanks for visiting, come back any time.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131026.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-26 00:35:52 UTC" participant="154392">
+      <body>Could either of you pick me up from the airport tomorrow at 1:14pm, United 3333?</body>
+    </message>
+    <message id="m0001" time="2013-10-26 00:38:02 UTC" participant="154352">
+      <body>I'll be out of town tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

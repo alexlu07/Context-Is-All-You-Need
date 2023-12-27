@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131358" time="2013-05-01 23:43:10 UTC">
+      <body>Hurt my shoulder can we do next tues?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-01 23:52:32 UTC">
+      <body>Yeah. Of course.
+
+You okay?
+You need anything?</body>
+    </message>
+    <message id="m0002" participant="131358" time="2013-05-01 23:53:59 UTC">
+      <body>A right arm. But im good just need to rest it</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-02 00:10:19 UTC">
+      <body>Cool.
+Feel better!</body>
+    </message>
+  </messages>
+</conversation>

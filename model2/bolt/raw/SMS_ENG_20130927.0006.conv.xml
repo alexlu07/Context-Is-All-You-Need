@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130927.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-27 11:18:54 UTC" participant="154405">
+      <body>We r leaving late 630-7</body>
+    </message>
+    <message id="m0001" time="2013-09-27 13:29:47 UTC" participant="154352">
+      <body>I'll take the train in to the concert and meet you there. Can I still ride back with you?</body>
+    </message>
+    <message id="m0002" time="2013-09-27 13:30:39 UTC" participant="154405">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" time="2013-09-27 13:54:12 UTC" participant="154352">
+      <body>My buddy who also lives in Ridley is interested in the concert. Is there room in the car for him too on the ride back?</body>
+    </message>
+    <message id="m0004" time="2013-09-27 14:31:16 UTC" participant="154405">
+      <body>I'm not sure</body>
+    </message>
+    <message id="m0005" time="2013-09-27 14:31:34 UTC" participant="154405">
+      <body>At moment there prolly will be</body>
+    </message>
+    <message id="m0007" time="2013-09-27 14:31:55 UTC" participant="154405">
+      <body>Only .4 with u so just little tight</body>
+    </message>
+    <message id="m0008" time="2013-09-27 14:33:34 UTC" participant="154352">
+      <body>That sounds ok.</body>
+    </message>
+    <message id="m0009" time="2013-09-27 23:38:42 UTC" participant="154405">
+      <body>Here</body>
+    </message>
+    <message id="m0010" time="2013-09-28 00:48:41 UTC" participant="154405">
+      <body>Where u at?</body>
+    </message>
+    <message id="m0011" time="2013-09-28 02:02:33 UTC" participant="154405">
+      <body>Not going home after concert going out</body>
+    </message>
+    <message id="m0012" time="2013-09-28 02:02:39 UTC" participant="154405">
+      <body>Lmk wats up</body>
+    </message>
+  </messages>
+</conversation>
+

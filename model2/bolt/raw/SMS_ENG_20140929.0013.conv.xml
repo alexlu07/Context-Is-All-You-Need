@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140929.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-29 22:14:22 UTC" participant="153472">
+      <body>I know it I a lil rainy, but do u still want to walk?</body>
+    </message>
+    <message id="m0001" time="2014-09-29 22:20:53 UTC" participant="152374">
+      <body>I think maybe not. Is that OK? I'm in MD tomorrow and Wednesday and busy Thursday so raincheck (literally) for next week? </body>
+    </message>
+    <message id="m0002" time="2014-09-29 22:27:48 UTC" participant="153472">
+      <body>That is fine. No worries!</body>
+    </message>
+  </messages>
+</conversation>
+

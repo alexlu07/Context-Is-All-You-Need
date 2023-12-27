@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110923.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135143" time="2011-09-23 01:17:43 UTC">
+      <body>Everything looks good tomorrow.  I checked you in and forwarded your boarding pass.  You can always use the machines at the airport, but it will save you time i</body>
+    </message>
+    <message id="m0001" participant="135143" time="2011-09-23 01:17:48 UTC">
+      <body>f you're not checking bags. You'll notice no seat assignment so see the gate agent.  Have fun!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-23 11:18:27 UTC">
+      <body>All is well, I had a seat to Dallas when I checked in :)</body>
+    </message>
+    <message id="m0003" participant="135143" time="2011-09-23 11:22:28 UTC">
+      <body>Excellent!</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-23 14:37:30 UTC">
+      <body>First class seat on the way to San Antonio. :) Best uncle ever!</body>
+    </message>
+    <message id="m0005" participant="135143" time="2011-09-23 15:20:42 UTC">
+      <body>Have fun!</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-09-23 17:38:36 UTC">
+      <body>Safe and sound in San Anton :)</body>
+    </message>
+    <message id="m0007" participant="135143" time="2011-09-23 17:41:32 UTC">
+      <body>I"ll let you know if pax load changes.  Plan on a call Monday.  Have fun</body>
+    </message>
+  </messages>
+</conversation>

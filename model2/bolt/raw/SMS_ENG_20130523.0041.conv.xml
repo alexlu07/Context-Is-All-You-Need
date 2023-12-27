@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0041" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-05-23 16:13:32 UTC">
+      <body>How's your day going?</body>
+    </message>
+    <message id="m0001" participant="130699" time="2013-05-23 16:16:20 UTC">
+      <body>Hi, it's very humid! How about you?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-05-23 16:42:28 UTC">
+      <body>About to work - have to go in at 6</body>
+    </message>
+    <message id="m0003" participant="130699" time="2013-05-23 16:43:20 UTC">
+      <body>What do you do? I'm leaving work now</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-05-23 16:45:25 UTC">
+      <body>I work in a bar running food and bartending</body>
+    </message>
+    <message id="m0005" participant="130699" time="2013-05-23 16:46:16 UTC">
+      <body>Nice, in philly?</body>
+    </message>
+  </messages>
+</conversation>

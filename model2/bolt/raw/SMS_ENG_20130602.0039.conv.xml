@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135469" time="2013-06-02 20:07:14 UTC">
+      <body>Hi Sofie
+If you can work tomorrow Monday that would be a great help.
+What's your schedule like?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-02 20:17:05 UTC">
+      <body>Yes I was just going to text you!!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-02 20:17:10 UTC">
+      <body>What time?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-02 20:17:20 UTC">
+      <body>I'm
+All yours!!!</body>
+    </message>
+    <message id="m0004" participant="135469" time="2013-06-02 20:18:08 UTC">
+      <body>Excellent
+How about 9:30</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-02 20:18:48 UTC">
+      <body>Perfect! Can't wait!</body>
+    </message>
+    <message id="m0006" participant="135469" time="2013-06-02 20:19:22 UTC">
+      <body>Good</body>
+    </message>
+  </messages>
+</conversation>

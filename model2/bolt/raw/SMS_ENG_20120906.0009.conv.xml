@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135378" time="2012-09-06 16:59:44 UTC">
+      <body>Do u know where our classroom is for information architecture </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-06 17:38:36 UTC">
+      <body>We meet at six tower third floor</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110708.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-08 22:16:58 UTC">
+      <body>Do you know the plan?</body>
+    </message>
+    <message id="m0001" participant="135097" time="2011-07-08 22:18:16 UTC">
+      <body>jacks gonna pick me up around 6 6 30 then go grocery shopping. ill call you then so you can meet us at his place</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-08 22:19:00 UTC">
+      <body>Could you guys pick me up on the way back to his place? Downtowns bad for parking</body>
+    </message>
+    <message id="m0003" participant="135097" time="2011-07-08 22:20:39 UTC">
+      <body>probably. i will check with him when he gets here.</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-08 22:20:54 UTC">
+      <body>Sounds good. :)</body>
+    </message>
+    <message id="m0005" participant="135097" time="2011-07-08 23:02:02 UTC">
+      <body>Address?</body>
+    </message>
+    <message id="m0007" participant="135097" time="2011-07-08 23:02:59 UTC">
+      <body>yes!</body>
+    </message>
+  </messages>
+</conversation>

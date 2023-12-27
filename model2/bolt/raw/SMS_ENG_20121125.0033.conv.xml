@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-25 18:13:54 UTC">
+      <body>Boarded</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-11-25 18:14:48 UTC">
+      <body>Safe travels! XO</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-25 21:34:43 UTC">
+      <body>Landed!</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-11-25 21:37:28 UTC">
+      <body>Great.</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-11-26 00:02:37 UTC">
+      <body>Back on campus?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-11-26 00:03:37 UTC">
+      <body>Yeah got back at 5</body>
+    </message>
+    <message id="m0006" participant="136202" time="2012-11-26 00:04:23 UTC">
+      <body>Great to have you here. Good luck w the rest of the semester!</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-11-26 00:05:04 UTC">
+      <body>THX</body>
+    </message>
+    <message id="m0008" participant="136202" time="2012-11-26 02:33:29 UTC">
+      <body>Movies were all sold out this aft so I watched the hunger games at home. Pretty good despite the creepy story line.</body>
+    </message>
+  </messages>
+</conversation>

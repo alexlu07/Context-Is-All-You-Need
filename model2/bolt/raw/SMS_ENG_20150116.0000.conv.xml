@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150116.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-16 16:58:02 UTC" participant="152115">
+      <body>You got it?!</body>
+    </message>
+    <message id="m0001" time="2015-01-16 16:58:14 UTC" participant="152115">
+      <body>Pick it up tonight!</body>
+    </message>
+    <message id="m0002" time="2015-01-16 17:08:33 UTC" participant="152116">
+      <body>Yeah I'll stop by after work.</body>
+    </message>
+    <message id="m0003" time="2015-01-17 00:04:36 UTC" participant="152116">
+      <body>Would you want to go out with John or Uyen?</body>
+    </message>
+    <message id="m0004" time="2015-01-17 00:25:18 UTC" participant="152115">
+      <body>Ok if you want</body>
+    </message>
+    <message id="m0005" time="2015-01-17 00:25:33 UTC" participant="152115">
+      <body>Sorry! I thought that sent 20min ago!</body>
+    </message>
+    <message id="m0006" time="2015-01-17 00:26:18 UTC" participant="152116">
+      <body>Uyen canceled. Its Okay. I'm waiting to hear from John</body>
+    </message>
+    <message id="m0007" time="2015-01-17 00:26:42 UTC" participant="152115">
+      <body>Ah. Ok. I was gonna pick uyen</body>
+    </message>
+    <message id="m0008" time="2015-01-17 00:28:53 UTC" participant="152116">
+      <body>Why?</body>
+    </message>
+    <message id="m0009" time="2015-01-17 00:29:47 UTC" participant="152115">
+      <body>Because she's leaving and our times actually coincided and we're seeing John tomorrow.</body>
+    </message>
+    <message id="m0010" time="2015-01-17 00:30:40 UTC" participant="152116">
+      <body>She was too cold haha</body>
+    </message>
+    <message id="m0011" time="2015-01-17 00:31:17 UTC" participant="152115">
+      <body>Ugh. That's not a substantial reason! That sucks.</body>
+    </message>
+    <message id="m0012" time="2015-01-17 00:31:56 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>
+

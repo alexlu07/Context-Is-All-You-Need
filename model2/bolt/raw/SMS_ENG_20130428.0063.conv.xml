@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-28 03:57:02 UTC" participant="152560">
+      <body>At VPB grabbing a beer-are you downtown?</body>
+    </message>
+    <message id="m0001" time="2013-04-28 03:58:52 UTC" participant="152417">
+      <body>Just getting off 89, ill get dropped off there</body>
+    </message>
+    <message id="m0002" time="2013-04-28 22:33:53 UTC" participant="152417">
+      <body>Ill be a lil late</body>
+    </message>
+    <message id="m0003" time="2013-04-28 22:36:20 UTC" participant="152560">
+      <body>No prob. Girls went out already.</body>
+    </message>
+  </messages>
+</conversation>
+

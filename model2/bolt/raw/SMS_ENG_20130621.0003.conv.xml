@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131717" time="2013-06-21 09:41:30 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131007" time="2013-06-21 11:43:38 UTC">
+      <body>Hi, how are you</body>
+    </message>
+    <message id="m0002" participant="131717" time="2013-06-21 12:57:35 UTC">
+      <body>I'm okay... I'm glad friday is finally here. How are you?</body>
+    </message>
+    <message id="m0003" participant="131007" time="2013-06-21 12:59:14 UTC">
+      <body>I'm doing well. Me too, though its a big weekend for my family. My brothers wedding is tomorrow so were going through the stress of all the last minute details</body>
+    </message>
+    <message id="m0004" participant="131717" time="2013-06-21 14:14:19 UTC">
+      <body>Oh okay...I used to work with a wedding dj friend.. I know all about it!</body>
+    </message>
+    <message id="m0005" participant="131717" time="2013-06-21 14:52:24 UTC">
+      <body>Working weddings coulde be fun and intense at the same time</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-02 23:30:46 UTC">
+      <body>Hey there! Sorry to call you so last minute! I hope I didn't add any stress or anything and like I said we are here til tomorrow so if brunch or something is easier let me know! And if you're headed downtown tell me where we can meet you </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-03 00:26:07 UTC">
+      <body>Do we just take the 96 bus across town?</body>
+    </message>
+    <message id="m0002" participant="135299" time="2013-01-03 00:35:48 UTC">
+      <body>Actually, can I meet you on the east side in like an hour and 20?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-03 00:39:12 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-03 00:58:13 UTC">
+      <body>Do you want to make plans now or do you want to call when you're heading over?</body>
+    </message>
+    <message id="m0005" participant="135299" time="2013-01-03 01:02:40 UTC">
+      <body>I'm on 89th and 1st. I don't know what to do around here but I'm cool with whatever.</body>
+    </message>
+    <message id="m0006" participant="135299" time="2013-01-03 01:02:43 UTC">
+      <body>I can probably leave here around 9. </body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-01-03 01:05:01 UTC">
+      <body>Okay. We are coming from 3rd and 95th. We can ask her cousin! She is getting home from work at 9 so we will hand off the apt key and ask her</body>
+    </message>
+    <message id="m0008" participant="135299" time="2013-01-03 01:05:26 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-01-03 01:05:33 UTC">
+      <body>Also do you care if her cousin comes?</body>
+    </message>
+    <message id="m0010" participant="135299" time="2013-01-03 01:05:58 UTC">
+      <body>That's fine :) </body>
+    </message>
+    <message id="m0011" participant="135299" time="2013-01-03 01:28:19 UTC">
+      <body>I'll be leaving here in like 5-10 minutes. Sorry it keeps changing. </body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-01-03 01:30:56 UTC">
+      <body>No worries! We are sitting in her apt talking. The place she recommended is a tavern we can sit and talk, you and I can get a drink if you want (sorry I changed my mind haha it's fine if you want to do that) and we can sit and talk :) it's kinsale tavern on 3rd between 93rd and 94th</body>
+    </message>
+    <message id="m0013" participant="135299" time="2013-01-03 01:36:00 UTC">
+      <body>K I'll meet you there in a few. </body>
+    </message>
+    <message id="m0014" participant="135080" time="2013-01-03 01:36:34 UTC">
+      <body>Are you leaving now? Should we head over?</body>
+    </message>
+    <message id="m0015" participant="135299" time="2013-01-03 01:39:58 UTC">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>

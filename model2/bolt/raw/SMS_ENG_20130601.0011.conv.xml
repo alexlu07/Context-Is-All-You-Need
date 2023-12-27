@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130601.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130937" time="2013-06-01 00:25:24 UTC">
+      <body>Morgan I am and my number this is.</body>
+    </message>
+    <message id="m0001" participant="131837" time="2013-06-01 00:33:06 UTC">
+      <body>Ah, it is! I fixed it, so now I must re-inform</body>
+    </message>
+  </messages>
+</conversation>

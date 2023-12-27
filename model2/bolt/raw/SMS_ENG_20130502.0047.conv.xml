@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-02 20:39:29 UTC">
+      <body>Would it be okay with you if I invited Hannah Michelle to the PBK induction and told her which of us got it? It feels weird to me not to invite her. Also are you counting Elise as your guest in the RSVP?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2013-05-02 20:39:53 UTC">
+      <body>Sure, i can do that.</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-05-03 03:12:39 UTC">
+      <body>Your text cut off. Can you resend?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-03 03:14:07 UTC">
+      <body>Wait what?</body>
+    </message>
+    <message id="m0004" participant="135265" time="2013-05-03 03:15:23 UTC">
+      <body>I didn't get your text about hannah.</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-05-03 03:15:53 UTC">
+      <body>Would it be okay with you if I invited Hannah Michelle to the PBK induction and told her which of us got it? It feels weird to me not to invite her. Also are you counting Elise as your guest in the RSVP?</body>
+    </message>
+    <message id="m0006" participant="135265" time="2013-05-03 03:16:27 UTC">
+      <body>Yes and yes</body>
+    </message>
+  </messages>
+</conversation>

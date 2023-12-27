@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131023.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-23 02:05:37 UTC" participant="152417">
+      <body>Wana play a jazz gig tomorrow night? North en studios 830, couple bux maybe</body>
+    </message>
+    <message id="m0001" time="2013-10-23 02:16:31 UTC" participant="152427">
+      <body>Who else is on the gig?  Maybe, I've got to figure out work coverage though</body>
+    </message>
+    <message id="m0003" time="2013-10-23 17:48:48 UTC" participant="152427">
+      <body>Gabi I can't find someone to cover my shift tonight, thanks for the invite though</body>
+    </message>
+    <message id="m0004" time="2013-10-23 18:29:52 UTC" participant="152417">
+      <body>Bummer, it got cancelled anyway, steve is sick</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140726.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-26 02:00:41 UTC" participant="149306">
+      <body>Ok don't worry about it.</body>
+    </message>
+    <message id="m0001" time="2014-07-26 02:01:26 UTC" participant="149360">
+      <body>I'm going to baltimore tomorrow if u wanna go</body>
+    </message>
+    <message id="m0002" time="2014-07-26 02:03:37 UTC" participant="149306">
+      <body>Thanks, but I gotta stay here and watch Daniels place.</body>
+    </message>
+  </messages>
+</conversation>
+

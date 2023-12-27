@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140813.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-13 01:30:47 UTC" participant="153491">
+      <body>So I just talked to Uyen and she said she's going home. I thought she was meeting up with you. Are you still at the sushi place? </body>
+    </message>
+    <message id="m0001" time="2014-08-13 01:32:24 UTC" participant="152118">
+      <body>No. We just got home. Sorry I didn't text you. My battery died.</body>
+    </message>
+    <message id="m0002" time="2014-08-13 22:01:13 UTC" participant="153491">
+      <body>Yea it was a weird day yesterday. I actually ran into Ale at the exhibit!</body>
+    </message>
+  </messages>
+</conversation>
+

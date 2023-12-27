@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131010.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-10 18:37:52 UTC" participant="153634">
+      <body>can you talk this afternoon or are you teaching?</body>
+    </message>
+    <message id="m0001" time="2013-10-10 21:14:28 UTC" participant="153548">
+      <body>Hey! Won't be home til late after work but how is tmw??</body>
+    </message>
+    <message id="m0002" time="2013-10-10 21:43:28 UTC" participant="153634">
+      <body>not sure yet but might work!</body>
+    </message>
+  </messages>
+</conversation>
+

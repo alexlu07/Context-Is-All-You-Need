@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140131.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-31 18:38:00 UTC" participant="153548">
+      <body>Hi! My hard drive is failing (again) and I guess I'm gonna get a new MacBook Pro. If I get a 13 inch, do you think I will regret it.</body>
+    </message>
+    <message id="m0001" time="2014-01-31 18:39:06 UTC" participant="153548">
+      <body>It's like 1000 cheaper! </body>
+    </message>
+    <message id="m0002" time="2014-01-31 18:49:16 UTC" participant="153639">
+      <body>Nope, I just got the 13" retina. Love it</body>
+    </message>
+    <message id="m0003" time="2014-01-31 19:03:53 UTC" participant="153548">
+      <body>Did you get the 2.6?</body>
+    </message>
+    <message id="m0004" time="2014-01-31 19:04:45 UTC" participant="153548">
+      <body>So fast!</body>
+    </message>
+    <message id="m0005" time="2014-01-31 20:23:19 UTC" participant="153639">
+      <body>2.4 </body>
+    </message>
+  </messages>
+</conversation>
+

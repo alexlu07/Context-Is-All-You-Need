@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130994" time="2013-06-05 16:14:56 UTC">
+      <body>Hi Squid</body>
+    </message>
+    <message id="m0001" participant="131805" time="2013-06-05 16:24:33 UTC">
+      <body>Hello, how are you?</body>
+    </message>
+    <message id="m0002" participant="130994" time="2013-06-05 19:16:43 UTC">
+      <body>Great - and yourself?</body>
+    </message>
+    <message id="m0003" participant="131805" time="2013-06-05 19:19:58 UTC">
+      <body>A little qweasy from donating blood today, but otherwise fine.</body>
+    </message>
+    <message id="m0004" participant="131805" time="2013-06-05 19:33:59 UTC">
+      <body>What have you been up to yourself?</body>
+    </message>
+    <message id="m0005" participant="130994" time="2013-06-06 08:28:13 UTC">
+      <body>Lots of biking</body>
+    </message>
+  </messages>
+</conversation>

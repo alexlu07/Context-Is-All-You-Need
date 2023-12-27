@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140607.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-07 14:28:16 UTC" participant="152743">
+      <body>Sorry I missed you at the gallery last night. Are you there today?</body>
+    </message>
+    <message id="m0001" time="2014-06-07 14:41:04 UTC" participant="152743">
+      <body>Also there is an artist showing at the Rittenhouse Art Fair that I would like to do an artists feature on. Are you planning on going to it</body>
+    </message>
+    <message id="m0002" time="2014-06-07 16:01:38 UTC" participant="152735">
+      <body>I was there yesterday! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131025.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-25 20:30:00 UTC" participant="152535">
+      <body>Yo on the move. See u</body>
+    </message>
+    <message id="m0001" time="2013-10-26 14:11:12 UTC" participant="152535">
+      <body>Yo send me your 7/8 chart before u leave. </body>
+    </message>
+    <message id="m0002" time="2013-10-26 17:18:56 UTC" participant="152535">
+      <body>Let me check with molls. Most likely though. Peeeace!</body>
+    </message>
+    <message id="m0003" time="2013-10-26 17:19:04 UTC" participant="152417">
+      <body>Eek, unfortunately it looks like i never did type it into sibelius.  Wanna get together at 6or 7?</body>
+    </message>
+    <message id="m0004" time="2013-10-26 20:13:52 UTC" participant="152535">
+      <body>I will come by at 6. Is that still cool? Make sure u grab a snack :)</body>
+    </message>
+    <message id="m0005" time="2013-10-26 20:18:56 UTC" participant="152417">
+      <body>Actually is 7 OK so i have time to put up the plastic and get some heat goin</body>
+    </message>
+    <message id="m0006" time="2013-10-26 20:19:25 UTC" participant="152535">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>
+

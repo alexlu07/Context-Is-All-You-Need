@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140523.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-23 18:53:07 UTC" participant="152374">
+      <body>Totally last minute but: want to go to the phils game tonight? Free ticket. Friend had to bail. </body>
+    </message>
+    <message id="m0001" time="2014-05-23 18:53:45 UTC" participant="154093">
+      <body>Sure, what time</body>
+    </message>
+    <message id="m0002" time="2014-05-23 18:54:12 UTC" participant="152374">
+      <body>Game is at 7. depends how you want to get there. What do you think? </body>
+    </message>
+    <message id="m0003" time="2014-05-23 18:55:20 UTC" participant="154093">
+      <body>Is 6-6:30 good</body>
+    </message>
+    <message id="m0004" time="2014-05-23 18:56:29 UTC" participant="152374">
+      <body>Sure </body>
+    </message>
+    <message id="m0005" time="2014-05-23 18:56:59 UTC" participant="154093">
+      <body>Want me to pick you up</body>
+    </message>
+    <message id="m0006" time="2014-05-23 19:00:28 UTC" participant="152374">
+      <body>Sure, if you want to drive </body>
+    </message>
+    <message id="m0007" time="2014-05-23 19:01:04 UTC" participant="154093">
+      <body>Yeah, I'll txt when I'm omw</body>
+    </message>
+    <message id="m0008" time="2014-05-23 19:01:25 UTC" participant="152374">
+      <body>OK. Thanks :) </body>
+    </message>
+    <message id="m0009" time="2014-05-23 21:07:18 UTC" participant="154093">
+      <body>I'm in KoP, omw, hopefully wont be too long</body>
+    </message>
+    <message id="m0010" time="2014-05-23 21:34:47 UTC" participant="152374">
+      <body>Take your time </body>
+    </message>
+    <message id="m0011" time="2014-05-23 22:07:08 UTC" participant="154093">
+      <body>I'm outside</body>
+    </message>
+    <message id="m0012" time="2014-05-23 22:07:22 UTC" participant="152374">
+      <body>Be right down </body>
+    </message>
+  </messages>
+</conversation>
+

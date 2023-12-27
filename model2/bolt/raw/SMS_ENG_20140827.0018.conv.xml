@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140827.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-27 20:53:09 UTC" participant="153804">
+      <body>How's it going</body>
+    </message>
+    <message id="m0001" time="2014-08-27 21:37:04 UTC" participant="153812">
+      <body>Were getting there. Calling it quits for the day because I can do all my clothes by myself this weekend</body>
+    </message>
+    <message id="m0002" time="2014-08-27 21:39:09 UTC" participant="153804">
+      <body>Have a nice evening</body>
+    </message>
+    <message id="m0003" time="2014-08-27 21:39:12 UTC" participant="153812">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2014-08-27 21:39:12 UTC" participant="153812">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2014-08-27 21:41:16 UTC" participant="153804">
+      <body>Looks like a decorator was there</body>
+    </message>
+  </messages>
+</conversation>
+

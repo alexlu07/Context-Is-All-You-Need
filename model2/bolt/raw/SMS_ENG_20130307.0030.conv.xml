@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131486" time="2013-03-07 02:50:18 UTC">
+      <body>Tsild!  Hope i caught you before your birthday is over.  Happy 25th!  Love, Mom</body>
+    </message>
+    <message id="m0001" participant="131486" time="2013-03-07 02:53:57 UTC">
+      <body>Never thought of it that way...</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-03-07 02:54:01 UTC">
+      <body>Thank you!! I'm officially no longer in my early twenties, yipes!</body>
+    </message>
+    <message id="m0003" participant="131486" time="2013-03-07 12:27:30 UTC">
+      <body>And did you get a snow day?</body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-03-07 12:29:51 UTC">
+      <body>I did! Though there really wasn't much snow...</body>
+    </message>
+    <message id="m0005" participant="131486" time="2013-03-07 12:30:47 UTC">
+      <body>So i heard.  It was on the news that half of dc was shut down even though the storm was lame.</body>
+    </message>
+    <message id="m0006" participant="131450" time="2013-03-07 12:32:36 UTC">
+      <body>Yeah..dc really just can't handle precipitation...totally lame, though it worked out in my favor!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130926.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-26 23:00:35 UTC" participant="152560">
+      <body>I got out earlier than expected. Should I grab something to bring that we can whip up really quickly?...</body>
+    </message>
+    <message id="m0001" time="2013-09-26 23:30:44 UTC" participant="152417">
+      <body>Lets just bring beer or something instant, like pudding pie</body>
+    </message>
+    <message id="m0002" time="2013-09-26 23:32:00 UTC" participant="152560">
+      <body>Pudding pie?</body>
+    </message>
+    <message id="m0003" time="2013-09-27 17:11:16 UTC" participant="152560">
+      <body>How's it going in the kitchen?</body>
+    </message>
+    <message id="m0004" time="2013-09-27 17:13:04 UTC" participant="152417">
+      <body>Great, i made 70 dumplings per hour</body>
+    </message>
+    <message id="m0005" time="2013-09-27 17:14:35 UTC" participant="152560">
+      <body>Nice!</body>
+    </message>
+    <message id="m0006" time="2013-09-27 17:21:22 UTC" participant="152417">
+      <body>Also, pork belly = amazing</body>
+    </message>
+    <message id="m0007" time="2013-09-27 17:28:13 UTC" participant="152560">
+      <body>It's the foie gras of pork.</body>
+    </message>
+  </messages>
+</conversation>
+

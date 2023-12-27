@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-03-30 15:40:05 UTC">
+      <body>Any news about your plans for next year</body>
+    </message>
+    <message id="m0001" participant="137377" time="2013-03-30 15:40:23 UTC">
+      <body>Ni</body>
+    </message>
+    <message id="m0002" participant="137377" time="2013-03-30 15:40:27 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0003" participant="137377" time="2013-03-30 15:40:31 UTC">
+      <body>Why? </body>
+    </message>
+    <message id="m0004" participant="137377" time="2013-03-30 15:40:48 UTC">
+      <body>Thank you</body>
+    </message>
+    <message id="m0005" participant="137377" time="2013-03-30 15:40:48 UTC">
+      <body>I'll call in a bit</body>
+    </message>
+    <message id="m0006" participant="137377" time="2013-03-30 15:40:48 UTC">
+      <body>I wanted to talk to you yesterday </body>
+    </message>
+    <message id="m0007" participant="132437" time="2013-03-30 15:41:02 UTC">
+      <body>Just curious and wishing you the best. </body>
+    </message>
+    <message id="m0008" participant="137377" time="2013-03-30 15:41:44 UTC">
+      <body>But I got distracted </body>
+    </message>
+    <message id="m0009" participant="137377" time="2013-03-30 15:42:13 UTC">
+      <body>I'll call you in like 20 minutes </body>
+    </message>
+    <message id="m0010" participant="132437" time="2013-03-30 15:44:00 UTC">
+      <body>OK, but if I don't answer it means I am busy trying to see my doctor. My ear is stopped up. %#++*?&amp;$(&amp;@ </body>
+    </message>
+  </messages>
+</conversation>

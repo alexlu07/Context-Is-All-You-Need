@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131358" time="2013-04-11 02:33:31 UTC">
+      <body>Did u want to come in tomorrow? 9 ?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-04-11 02:35:30 UTC">
+      <body>yeah. 9 or later, whatever's good for you.</body>
+    </message>
+    <message id="m0002" participant="131358" time="2013-04-11 02:38:45 UTC">
+      <body>9 or 9 30 whichever</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-11 02:39:21 UTC">
+      <body>let's do 930.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-11 02:39:45 UTC">
+      <body>lesson afterwards?</body>
+    </message>
+    <message id="m0005" participant="131358" time="2013-04-11 02:44:55 UTC">
+      <body>Sure    c u9 30</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-04-11 02:45:51 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0007" participant="131358" time="2013-04-11 15:09:08 UTC">
+      <body>Can we make it later in the day. Like 4?</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-04-11 15:09:58 UTC">
+      <body>yep. see you at 4.</body>
+    </message>
+  </messages>
+</conversation>

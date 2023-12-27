@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2012-11-14 17:01:52 UTC">
+      <body>Lets try to leave between 2 and 3 next Wednesday</body>
+    </message>
+    <message id="m0001" participant="135395" time="2012-11-14 17:06:08 UTC">
+      <body>Sof?</body>
+    </message>
+    <message id="m0002" participant="135395" time="2012-11-14 18:14:24 UTC">
+      <body>Where's your apt? Are you dinner with Wendy tonight</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-14 19:04:49 UTC">
+      <body>No dinner I have class until. Nine.  Getting bikini wax on Newbury street. </body>
+    </message>
+    <message id="m0005" participant="135395" time="2012-11-14 19:14:08 UTC">
+      <body>Another one? I need a facial lets make appointments </body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-14 20:14:00 UTC">
+      <body>I think we have to make it way in advance she really busy</body>
+    </message>
+    <message id="m0007" participant="135395" time="2012-11-14 22:04:48 UTC">
+      <body>You don't think you can make your bikini apt earlier right</body>
+    </message>
+    <message id="m0008" participant="135395" time="2012-11-14 22:06:56 UTC">
+      <body>I'm just thinking if I get out at 230 and I bring all my stuff to work its be nice to pick youand mark up and go</body>
+    </message>
+    <message id="m0009" participant="135395" time="2012-11-14 22:06:56 UTC">
+      <body>Maybe I'm over thinking it</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-11-14 23:16:55 UTC">
+      <body>I can't reschedule. Sorry </body>
+    </message>
+    <message id="m0014" participant="130622" time="2012-11-14 23:18:40 UTC">
+      <body>It's a little bit tricky to get an appointment there</body>
+    </message>
+  </messages>
+</conversation>

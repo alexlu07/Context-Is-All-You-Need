@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141017.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-17 17:42:11 UTC" participant="152115">
+      <body>I meant to text you last night but I was at work. It's a nice looking gun. And it looks like you handle it well judging on those shots.</body>
+    </message>
+    <message id="m0001" time="2014-10-17 17:46:15 UTC" participant="152121">
+      <body>I love it</body>
+    </message>
+    <message id="m0002" time="2014-10-17 17:46:30 UTC" participant="152115">
+      <body>Haha. Good.</body>
+    </message>
+  </messages>
+</conversation>
+

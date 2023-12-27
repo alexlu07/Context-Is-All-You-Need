@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140714.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-14 13:23:10 UTC" participant="153645">
+      <body>Hey friend - at the studio cleaning up (we have a couch now! ) do you still need those index cards on the wall or is it okay to take them down? </body>
+    </message>
+    <message id="m0001" time="2014-07-14 13:24:50 UTC" participant="153548">
+      <body>You can totally take them down! </body>
+    </message>
+    <message id="m0002" time="2014-07-14 13:26:00 UTC" participant="153645">
+      <body>Great! </body>
+    </message>
+  </messages>
+</conversation>
+

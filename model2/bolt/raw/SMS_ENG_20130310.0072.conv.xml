@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-10 14:45:51 UTC" participant="152734">
+      <body>Change of plans - the horse got sold this weekend! I'm going to look at 1, maybe 2 more today...but no need to come out this afternoon, sorry.</body>
+    </message>
+    <message id="m0001" time="2013-03-10 14:47:28 UTC" participant="153298">
+      <body>So sorry Julia! Okay, well guess wasn't meant to be. We'll find something for you</body>
+    </message>
+    <message id="m0002" time="2013-03-10 14:48:57 UTC" participant="152734">
+      <body>Yup, on to the next one! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150113.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-13 19:49:39 UTC" participant="152116">
+      <body>Yeah. They mostly just want to touch base before driving out there</body>
+    </message>
+    <message id="m0001" time="2015-01-13 19:50:26 UTC" participant="152115">
+      <body>Ok. Well I'm glad it's short for you.</body>
+    </message>
+    <message id="m0002" time="2015-01-13 19:51:08 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0003" time="2015-01-14 04:37:02 UTC" participant="152116">
+      <body>I'm on my way</body>
+    </message>
+    <message id="m0004" time="2015-01-14 17:55:15 UTC" participant="152115">
+      <body>The garlic Chipotle salsa is good.</body>
+    </message>
+    <message id="m0005" time="2015-01-14 17:56:44 UTC" participant="152115">
+      <body>I didn't get your "I'm on my way text" until close to midnight last night.</body>
+    </message>
+    <message id="m0006" time="2015-01-14 17:59:43 UTC" participant="152116">
+      <body>I figured. And good. I'll try some later</body>
+    </message>
+  </messages>
+</conversation>
+

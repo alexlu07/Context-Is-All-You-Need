@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0091" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-30 05:11:48 UTC" participant="153244">
+      <body>Going to bed... did you ever put clothes in the dryer?</body>
+    </message>
+    <message id="m0001" time="2013-05-30 05:12:42 UTC" participant="152116">
+      <body>Yeah I did. I'm waiting for them. Goodnight</body>
+    </message>
+    <message id="m0002" time="2013-05-30 05:13:10 UTC" participant="153244">
+      <body>Ok. Night</body>
+    </message>
+    <message id="m0003" time="2013-05-31 03:18:25 UTC" participant="152116">
+      <body>I think that looks really nice</body>
+    </message>
+  </messages>
+</conversation>
+

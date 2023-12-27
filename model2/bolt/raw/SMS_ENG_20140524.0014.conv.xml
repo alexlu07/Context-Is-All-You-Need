@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140524.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-24 19:08:17 UTC" participant="152116">
+      <body>What time are you going out today?</body>
+    </message>
+    <message id="m0001" time="2014-05-24 19:55:01 UTC" participant="153244">
+      <body>I'm not... cancelled bec I'm sick</body>
+    </message>
+    <message id="m0002" time="2014-05-24 21:29:51 UTC" participant="152116">
+      <body>Oh okay. You have a cold?</body>
+    </message>
+    <message id="m0003" time="2014-05-24 22:00:31 UTC" participant="153244">
+      <body>Yea.. started to get a soar throat wed night. Woke up thurs feeling horrible, That's why I cancelled meeting up with you.</body>
+    </message>
+    <message id="m0004" time="2014-05-24 22:41:55 UTC" participant="152116">
+      <body>Oh okay</body>
+    </message>
+  </messages>
+</conversation>
+

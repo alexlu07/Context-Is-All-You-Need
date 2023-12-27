@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 11:22:40 UTC" participant="153584">
+      <body>Ok. 7:36?</body>
+    </message>
+    <message id="m0001" time="2014-03-20 11:23:12 UTC" participant="153547">
+      <body>Waiting on Michael. Might be a minute or few late</body>
+    </message>
+    <message id="m0002" time="2014-03-20 11:25:03 UTC" participant="153547">
+      <body>5 min</body>
+    </message>
+    <message id="m0003" time="2014-03-20 11:26:00 UTC" participant="153547">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0004" time="2014-03-20 11:26:12 UTC" participant="153584">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

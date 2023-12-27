@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 11:47:14 UTC" participant="154392">
+      <body>Where you be?</body>
+    </message>
+    <message id="m0001" time="2013-08-30 11:49:14 UTC" participant="154352">
+      <body>I'm in the lot next to the McDonalds in a crowd of old people</body>
+    </message>
+    <message id="m0002" time="2013-08-30 11:50:00 UTC" participant="154392">
+      <body>Ok.  I'm at the McDs with more old people</body>
+    </message>
+    <message id="m0003" time="2013-08-30 11:50:11 UTC" participant="154392">
+      <body>Is the bonster with you?</body>
+    </message>
+    <message id="m0004" time="2013-08-30 11:50:23 UTC" participant="154352">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>
+

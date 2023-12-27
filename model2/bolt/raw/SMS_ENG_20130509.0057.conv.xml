@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-05-09 18:15:53 UTC">
+      <body>Have you guys paid for your tickets yet?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-09 18:26:03 UTC">
+      <body>Yep but we have thru fri</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-05-09 18:26:39 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

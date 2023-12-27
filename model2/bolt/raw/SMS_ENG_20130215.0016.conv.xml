@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-15 18:29:35 UTC">
+      <body>hey, ken...
+any runs today?
+do you need me to take the suit to joanne's?</body>
+    </message>
+    <message id="m0001" participant="131361" time="2013-02-15 18:30:54 UTC">
+      <body>No, we're still not at that point. I will let you know.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-15 18:32:39 UTC">
+      <body>cool. just wanted to check in with you.
+
+also...is it okay to cash that last check, or should i keep holding on to it?</body>
+    </message>
+    <message id="m0003" participant="131361" time="2013-02-15 18:37:13 UTC">
+      <body>You can cash it. Last week's payroll will have to wait until next Friday though. Sorry.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-15 18:40:39 UTC">
+      <body>cool.
+no problem.
+i really appreciate the work, ken...you've really helped me out. waiting is no issue - it's the least i can do.</body>
+    </message>
+    <message id="m0005" participant="131361" time="2013-02-15 18:41:37 UTC">
+      <body>Thanks.</body>
+    </message>
+  </messages>
+</conversation>

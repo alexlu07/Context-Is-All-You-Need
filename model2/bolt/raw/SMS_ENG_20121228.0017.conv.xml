@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131481" time="2012-12-28 21:52:05 UTC">
+      <body>Do u think u guys ready by 415?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2012-12-28 21:53:17 UTC">
+      <body>Umm I'm not sure...Dan's in the shower but just said he's starting to feel sick again, so he's not sure if he's going to go</body>
+    </message>
+    <message id="m0002" participant="131481" time="2012-12-28 21:55:05 UTC">
+      <body>Tell him take another pill now it might help</body>
+    </message>
+    <message id="m0003" participant="131450" time="2012-12-28 21:55:23 UTC">
+      <body>Okay, will do!</body>
+    </message>
+    <message id="m0004" participant="131450" time="2012-12-28 22:11:31 UTC">
+      <body>I'm not sure Dan's going to make it to opryland today. He took another pill but he's getting sick again now :-(</body>
+    </message>
+    <message id="m0005" participant="131450" time="2012-12-28 22:30:52 UTC">
+      <body>He's zonked out...ready to head over when you are</body>
+    </message>
+  </messages>
+</conversation>

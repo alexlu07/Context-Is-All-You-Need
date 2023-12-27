@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135955" time="2013-07-13 10:55:29 UTC">
+      <body>Hi, Kangtan.</body>
+    </message>
+    <message id="m0001" participant="133266" time="2013-07-13 11:00:46 UTC">
+      <body>Hello!!</body>
+    </message>
+    <message id="m0002" participant="133266" time="2013-07-13 11:01:17 UTC">
+      <body>How's your Saturday going?</body>
+    </message>
+    <message id="m0003" participant="135955" time="2013-07-13 11:03:17 UTC">
+      <body>Not bad. Been about to make breakfast for about an hour now. LOL. You?</body>
+    </message>
+    <message id="m0004" participant="133266" time="2013-07-13 11:04:57 UTC">
+      <body>Good! My younger brother is visiting me and we're about to go to the farmer's market, so a pretty laid-back day</body>
+    </message>
+    <message id="m0005" participant="135955" time="2013-07-13 11:08:14 UTC">
+      <body>Nice. Definitely a fan of farmer's markets. I went after work on Thursday. (I'm in Rochester, NY, and we have a couple of good markets here.)</body>
+    </message>
+    <message id="m0006" participant="133266" time="2013-07-13 11:09:27 UTC">
+      <body>Ah, are you at RIT?</body>
+    </message>
+    <message id="m0007" participant="135955" time="2013-07-13 11:10:36 UTC">
+      <body>No, but I will be in the fall. Starting a master's program in psych.</body>
+    </message>
+    <message id="m0008" participant="133266" time="2013-07-13 11:14:55 UTC">
+      <body>Awesome! I'm at the university of Illinois right now, BA linguistics</body>
+    </message>
+    <message id="m0009" participant="135955" time="2013-07-13 12:51:37 UTC">
+      <body>Cool! I took a few linguistics classes undergrad. I'll be out shopping for most of the afternoon, but I wish I could talk more.</body>
+    </message>
+    <message id="m0010" participant="135955" time="2013-07-13 17:35:23 UTC">
+      <body>That was a productive shopping trip. How was yours?</body>
+    </message>
+  </messages>
+</conversation>

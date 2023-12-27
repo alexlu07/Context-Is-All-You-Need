@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120511.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-11 02:35:07 UTC">
+      <body>Hey Nic I've been meaning to ask you: hows posse going?</body>
+    </message>
+    <message id="m0001" participant="136215" time="2012-05-11 02:37:52 UTC">
+      <body>Pretty good. It's sort of tedious though :(</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-11 02:39:27 UTC">
+      <body>What do you mean?</body>
+    </message>
+    <message id="m0003" participant="136215" time="2012-05-11 02:40:00 UTC">
+      <body>Like the stuff they have us doing is a waste of time, all these discussions and shit </body>
+    </message>
+    <message id="m0004" participant="136215" time="2012-05-11 02:40:00 UTC">
+      <body>Yeah basically. And every week we talk about something different </body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-05-11 02:41:12 UTC">
+      <body>Oh yeah there's like weekly meetings and shit right? Are the other kids cool?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-05-11 02:44:44 UTC">
+      <body>That's cool. But yeah i can imagine it being tedious as well</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131042" time="2013-05-10 14:07:26 UTC">
+      <body>Yo #####, what's your draw something and words with friends username</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-10 14:17:28 UTC">
+      <body>I don't play anymore!</body>
+    </message>
+    <message id="m0002" participant="131042" time="2013-05-10 14:21:01 UTC">
+      <body>Ur useless </body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-05-10 14:21:23 UTC">
+      <body>Ha</body>
+    </message>
+    <message id="m0004" participant="131042" time="2013-05-10 14:27:55 UTC">
+      <body>:-P</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-27 19:27:07 UTC">
+      <body>Hi Mike! It's Liza. I am trying to make an apartment decision right now and I have a quick question - are you able to talk for a minute?</body>
+    </message>
+    <message id="m0001" participant="135320" time="2013-04-27 21:07:12 UTC">
+      <body>Hey Liza! Yeah, for sure. I am just heading back to shore now. Should be on a train with time to talk at like 6/630. Does that work?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-27 21:24:03 UTC">
+      <body>Thank you so much! We actually already decided - we took the place at 44th and locust rather than Chestnut between 44th/45th. The one we decided against didn't seem quite as safe, which is what I was going to ask you about.</body>
+    </message>
+    <message id="m0003" participant="135320" time="2013-04-27 21:25:52 UTC">
+      <body>Oh! What a great location. I would have said do locust over chestnut too!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-27 21:26:14 UTC">
+      <body>Excellent :)</body>
+    </message>
+  </messages>
+</conversation>

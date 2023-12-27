@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120921.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-21 16:44:23 UTC" participant="152430">
+      <body>Did you put down a safety deposit at elmwood?</body>
+    </message>
+    <message id="m0001" time="2012-09-21 19:13:41 UTC" participant="152417">
+      <body>Yeah, cuz i paid annie her deposit $ so im part of that deposit check</body>
+    </message>
+    <message id="m0002" time="2012-09-21 21:14:41 UTC" participant="152430">
+      <body>Right. Then i has money for you soon. Stay tuned.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-23 11:44:28 UTC">
+      <body>U still want to get together today?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-23 20:40:06 UTC">
+      <body>no good?</body>
+    </message>
+    <message id="m0002" participant="135620" time="2013-06-23 22:02:31 UTC">
+      <body>Ugh I'm so sorry. I am really sick. I haven't been in bed all day</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-23 22:05:54 UTC">
+      <body>:( its ok. Feel better!</body>
+    </message>
+    <message id="m0004" participant="135620" time="2013-06-23 23:09:33 UTC">
+      <body>Thanks. </body>
+    </message>
+  </messages>
+</conversation>

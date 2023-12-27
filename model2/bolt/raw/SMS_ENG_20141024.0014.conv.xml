@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141024.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-24 00:09:28 UTC" participant="153548">
+      <body>Hey! When you get to the Hilton Harrisburg, there is an alley around back the hotel that has the entrance to the parking lot special for the hotel. </body>
+    </message>
+    <message id="m0001" time="2014-10-24 00:10:50 UTC" participant="153548">
+      <body>Make sure to get a ticket and that is charged to the room when you check in</body>
+    </message>
+    <message id="m0002" time="2014-10-24 00:16:40 UTC" participant="153548">
+      <body>Safe travels!!! </body>
+    </message>
+    <message id="m0003" time="2014-10-24 04:13:33 UTC" participant="153641">
+      <body>I just checked in. Just seeing if y'all are up or already sleeping.</body>
+    </message>
+    <message id="m0004" time="2014-10-24 12:04:10 UTC" participant="153548">
+      <body>I was totally passed out. Meeting Bev in the lobby at 8:30 to head over to location. Meet us down there!</body>
+    </message>
+    <message id="m0005" time="2014-10-24 12:04:53 UTC" participant="153641">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

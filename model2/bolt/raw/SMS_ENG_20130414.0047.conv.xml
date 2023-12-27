@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-04-14 19:41:38 UTC">
+      <body>How's your weekend going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-14 19:44:12 UTC">
+      <body>really good! having katie here is so fun. everyone agrees that the rum is delicious, btw. </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-04-14 21:19:14 UTC">
+      <body>Great. I'm glad you like it.</body>
+    </message>
+    <message id="m0003" participant="136150" time="2013-04-14 21:20:04 UTC">
+      <body>Oh. Are you free wednesday night?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-14 21:33:05 UTC">
+      <body>sorta... i have a club meeting at 5:30 and there's an on-campus event i wanted to go to after. why? </body>
+    </message>
+    <message id="m0005" participant="136150" time="2013-04-14 21:36:44 UTC">
+      <body>I wanted to see you of course. But later is fine.</body>
+    </message>
+  </messages>
+</conversation>

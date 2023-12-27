@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-02 14:02:08 UTC" participant="152417">
+      <body>I have a glockenspiel and a part for you, can i drop it off sometime today?</body>
+    </message>
+    <message id="m0001" time="2013-05-02 22:02:00 UTC" participant="152427">
+      <body>Hey Gabi, I'll be here for about an hour then my night is booked up, I could always swing by tomorrow and grab that chart </body>
+    </message>
+    <message id="m0002" time="2013-05-02 22:02:40 UTC" participant="152427">
+      <body>Also could you please send me a link to the Spielpalast Dropbox? I seemed to have lost it ~</body>
+    </message>
+    <message id="m0003" time="2013-05-03 12:37:25 UTC" participant="152417">
+      <body>I resent the dropbox, i get home at 3ish today so i can drop off the glok around then</body>
+    </message>
+  </messages>
+</conversation>
+

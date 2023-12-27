@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130907.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-07 01:01:22 UTC" participant="153418">
+      <body>Hey, I'm sorry for missing tonight. I came home and faceplanted hard. </body>
+    </message>
+    <message id="m0001" time="2013-09-07 01:02:12 UTC" participant="153418">
+      <body>Late-happy birthday though! I'll treat you to something next time we're out. </body>
+    </message>
+    <message id="m0002" time="2013-09-07 03:44:10 UTC" participant="153415">
+      <body>Thanks, John! Don't worry about it. The burger place would have only left you with one option anyway, so I didn't think it would be fair. See you next time.</body>
+    </message>
+    <message id="m0003" time="2013-09-08 00:33:10 UTC" participant="153415">
+      <body>Hey John. So tomorrow there's this communication workshop thing. It's about helping community members and a big thing is how to network and meet people. </body>
+    </message>
+    <message id="m0004" time="2013-09-08 00:33:56 UTC" participant="153415">
+      <body>A client of my mom's wanted me and Michael to go. She has an RN and a computer guy to introduce us to that may help with jobs. Would you want to come? It</body>
+    </message>
+    <message id="m0005" time="2013-09-08 00:33:57 UTC" participant="153415">
+      <body> starts at 10 am.</body>
+    </message>
+    <message id="m0006" time="2013-09-08 00:33:59 UTC" participant="153415">
+      <body>No pressure. We both don't really feel like going, but someone there might know of someone who could be of some use.</body>
+    </message>
+  </messages>
+</conversation>
+

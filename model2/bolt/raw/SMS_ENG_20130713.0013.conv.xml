@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131969" time="2013-07-13 18:42:30 UTC">
+      <body>Did you still want me to grab you something from my roomie before nyc for you?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-13 23:15:18 UTC">
+      <body>If you can, but no worries</body>
+    </message>
+    <message id="m0002" participant="131969" time="2013-07-14 00:04:40 UTC">
+      <body>I have it here for you. Do you want to pick it up our should I stop it off</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-07-14 01:26:58 UTC">
+      <body>You can just bring it tomorrow. We're aiming to leave around 10...does that work for you?</body>
+    </message>
+    <message id="m0004" participant="131969" time="2013-07-14 01:27:29 UTC">
+      <body>Sure can yall pick me up?</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-07-14 01:28:39 UTC">
+      <body>Shirley</body>
+    </message>
+    <message id="m0006" participant="131969" time="2013-07-14 01:28:57 UTC">
+      <body>Sweet thanks</body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-07-14 13:44:56 UTC">
+      <body>Gettin costumes then headed west, pry 11ish</body>
+    </message>
+    <message id="m0008" participant="131969" time="2013-07-14 13:51:00 UTC">
+      <body>Cool got my costume now I need to poop take your time:-) </body>
+    </message>
+    <message id="m0009" participant="131964" time="2013-07-14 15:01:49 UTC">
+      <body>Outside </body>
+    </message>
+    <message id="m0010" participant="131964" time="2013-07-15 05:04:55 UTC">
+      <body>Yo yo, sleep whenever you'd like. We are crashin at james' place, 2 blocks away</body>
+    </message>
+    <message id="m0011" participant="131964" time="2013-07-15 05:05:25 UTC">
+      <body>See ya for breakfast!!</body>
+    </message>
+  </messages>
+</conversation>

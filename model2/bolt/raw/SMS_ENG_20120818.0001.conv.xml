@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120818.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131029" time="2012-08-18 01:05:07 UTC">
+      <body>Hi... I decided to come home instead of hitting up ######... soon home will be in ###### and I'll be much more social!!! Thanks for the invite </body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-08-18 01:18:50 UTC">
+      <body>Can't wait!</body>
+    </message>
+    <message id="m0002" participant="131029" time="2012-08-18 01:20:56 UTC">
+      <body>Meeeee either. Have a good night. If you remember... text me to tomorrow to tell me where you're sitting for George Jones... I'll try to find you and say hi</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-08-18 01:21:54 UTC">
+      <body>Oh oh! In the balcony...row c I think</body>
+    </message>
+    <message id="m0004" participant="131029" time="2012-08-18 01:24:28 UTC">
+      <body>Ok... try to find me. There might be better seats. </body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-08-18 01:24:55 UTC">
+      <body>Awesome! Have a good night!</body>
+    </message>
+    <message id="m0006" participant="131029" time="2012-08-18 01:25:43 UTC">
+      <body>You too</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150315.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-15 17:41:17 UTC" participant="153428">
+      <body>Which day did i wrk for u? 11th? 12th?</body>
+    </message>
+    <message id="m0001" time="2015-03-15 17:42:59 UTC" participant="153417">
+      <body>The 10th</body>
+    </message>
+    <message id="m0002" time="2015-03-15 17:43:15 UTC" participant="153428">
+      <body>Cool thx. </body>
+    </message>
+  </messages>
+</conversation>
+

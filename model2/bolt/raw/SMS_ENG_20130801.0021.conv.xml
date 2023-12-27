@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131059" time="2013-08-01 20:34:17 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="136133" time="2013-08-01 21:08:29 UTC">
+      <body>Hello! How are you today?</body>
+    </message>
+    <message id="m0002" participant="131059" time="2013-08-01 21:10:00 UTC">
+      <body>Good, you?</body>
+    </message>
+    <message id="m0003" participant="136133" time="2013-08-01 21:21:27 UTC">
+      <body>Ah that's good to hear. I am well. It's been nice out today.</body>
+    </message>
+    <message id="m0004" participant="131059" time="2013-08-01 21:23:35 UTC">
+      <body>Nice and sunny.</body>
+    </message>
+    <message id="m0005" participant="136133" time="2013-08-01 21:30:12 UTC">
+      <body>Absolutely. But not too hot out lately</body>
+    </message>
+    <message id="m0006" participant="131059" time="2013-08-02 11:45:03 UTC">
+      <body>A little cooler today I see</body>
+    </message>
+  </messages>
+</conversation>

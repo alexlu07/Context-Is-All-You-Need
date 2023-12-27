@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141121.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-21 21:15:43 UTC" participant="152597">
+      <body>Hey Gabi, this is Caviar. Did you see the order and texts I just sent? I think there might be something wrong with our system so just double checking</body>
+    </message>
+    <message id="m0001" time="2014-11-21 21:16:52 UTC" participant="152417">
+      <body>I got the dim sum order.  I just had an issue with order 21 for federal donuts</body>
+    </message>
+    <message id="m0002" time="2014-11-21 21:17:12 UTC" participant="152597">
+      <body>What was the issue?</body>
+    </message>
+    <message id="m0003" time="2014-11-21 21:18:45 UTC" participant="152417">
+      <body>I tried to reject at first, it showed up as accepted anyway so i decided to just go for it and when i got there there was another courier there for the same order.</body>
+    </message>
+    <message id="m0004" time="2014-11-21 21:19:51 UTC" participant="152597">
+      <body>Weird. I've heard of one other person in SF with the same issue though. I'll forward this along to our engineers. If you want to reject an order, just text us to confirm so this doesn't happen again.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-29 02:35:28 UTC" participant="154390">
+      <body>Did you make it to new Hampshire yet?!</body>
+    </message>
+    <message id="m0001" time="2012-12-29 04:25:48 UTC" participant="154352">
+      <body>In NH recently. How was your trip to NY?</body>
+    </message>
+    <message id="m0002" time="2012-12-29 20:48:27 UTC" participant="154390">
+      <body>Glad to hear.. must have been a long day. My drive was ok, except for getting lost in Harlem for a bit but I got here at 4 yesterday.</body>
+    </message>
+  </messages>
+</conversation>
+

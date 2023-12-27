@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140109.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-09 21:51:13 UTC" participant="153557">
+      <body>I'm so sunburnt.</body>
+    </message>
+    <message id="m0001" time="2014-01-10 12:20:40 UTC" participant="153557">
+      <body>How is Frankie?</body>
+    </message>
+    <message id="m0002" time="2014-01-10 13:32:05 UTC" participant="153547">
+      <body>Frankie's good. She only wants to eat the other food though</body>
+    </message>
+    <message id="m0003" time="2014-01-10 13:40:56 UTC" participant="153557">
+      <body>I guess I don't have to buy the expensive food anymore. How are you?! I miss you and the kitties and the house.</body>
+    </message>
+    <message id="m0004" time="2014-01-10 13:41:20 UTC" participant="153557">
+      <body>How cold is it?</body>
+    </message>
+    <message id="m0005" time="2014-01-10 13:42:01 UTC" participant="153547">
+      <body>I'm fine. The kitties are good. The house is wrecked but I'll have it in order before u get back</body>
+    </message>
+    <message id="m0006" time="2014-01-10 13:43:02 UTC" participant="153547">
+      <body>So cold</body>
+    </message>
+  </messages>
+</conversation>
+

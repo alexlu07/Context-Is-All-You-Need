@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130962" time="2013-01-05 00:51:28 UTC">
+      <body>Are you around tonight? I can try to call you in a bit! </body>
+    </message>
+    <message id="m0001" participant="131423" time="2013-01-05 02:12:08 UTC">
+      <body>Hey, we are out right now :( sry! Would love to chat. U around tmrw? Or Sun?</body>
+    </message>
+    <message id="m0002" participant="131423" time="2013-01-05 02:37:45 UTC">
+      <body>￼Wish u were here.:)</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-01-05 02:38:48 UTC">
+      <body>Ooh me too! I am home tomorrow 1-4 and Sunday after 2. Have fun tonight!</body>
+    </message>
+    <message id="m0004" participant="131423" time="2013-01-05 04:26:40 UTC">
+      <body>Ok sounds good!! </body>
+    </message>
+  </messages>
+</conversation>

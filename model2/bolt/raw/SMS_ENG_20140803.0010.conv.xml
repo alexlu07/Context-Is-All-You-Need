@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140803.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-03 13:30:55 UTC" participant="153653">
+      <body>Should I meet you at the hotel? </body>
+    </message>
+    <message id="m0001" time="2014-08-03 13:31:16 UTC" participant="153653">
+      <body>That was my plan l, take the metro in and be there around 1145</body>
+    </message>
+    <message id="m0002" time="2014-08-03 13:35:32 UTC" participant="153548">
+      <body>Sounds good! I'll text you when the train gets in!</body>
+    </message>
+    <message id="m0003" time="2014-08-03 13:36:07 UTC" participant="153653">
+      <body>Sweet!!</body>
+    </message>
+    <message id="m0004" time="2014-08-03 15:27:45 UTC" participant="153548">
+      <body>Arriving in a few minutes. Gonna jump on the metro to metro station! See ya in a bit!</body>
+    </message>
+    <message id="m0005" time="2014-08-03 15:28:32 UTC" participant="153653">
+      <body>Nice, I'm getting on metro now!!</body>
+    </message>
+    <message id="m0006" time="2014-08-03 15:54:25 UTC" participant="153653">
+      <body>Here</body>
+    </message>
+    <message id="m0007" time="2014-08-03 15:54:53 UTC" participant="153548">
+      <body>Iamb mom block away I think I see you</body>
+    </message>
+    <message id="m0008" time="2014-08-03 15:55:11 UTC" participant="153653">
+      <body>I am inside</body>
+    </message>
+    <message id="m0009" time="2014-08-03 15:55:25 UTC" participant="153548">
+      <body>Lol THAT WAS NOT YOU!</body>
+    </message>
+    <message id="m0010" time="2014-08-03 15:56:03 UTC" participant="153653">
+      <body>Haha</body>
+    </message>
+  </messages>
+</conversation>
+

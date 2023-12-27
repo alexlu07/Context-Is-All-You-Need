@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141218.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-18 04:00:18 UTC" participant="152743">
+      <body>How you doing? I'm in Philly the 30th to the 2nd. Would be nice to catch up over a lobster roll lunch</body>
+    </message>
+    <message id="m0001" time="2014-12-18 04:26:44 UTC" participant="152735">
+      <body>Sounds great! Text me as soon as you're in!</body>
+    </message>
+    <message id="m0002" time="2014-12-18 04:27:02 UTC" participant="152743">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

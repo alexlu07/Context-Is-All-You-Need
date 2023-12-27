@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134736" time="2013-07-14 14:16:50 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-07-14 15:22:57 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="134736" time="2013-07-14 17:18:44 UTC">
+      <body>How are you</body>
+    </message>
+    <message id="m0003" participant="130659" time="2013-07-14 18:43:27 UTC">
+      <body>Getting over a cold</body>
+    </message>
+    <message id="m0004" participant="134736" time="2013-07-14 18:51:21 UTC">
+      <body>Aw :( hope you get better asap</body>
+    </message>
+    <message id="m0005" participant="130659" time="2013-07-14 18:52:19 UTC">
+      <body>Thanks... Been sick for 9 days now</body>
+    </message>
+    <message id="m0006" participant="134736" time="2013-07-14 19:02:19 UTC">
+      <body>Whoa that sucks</body>
+    </message>
+    <message id="m0007" participant="134736" time="2013-07-14 19:02:19 UTC">
+      <body>Theraflu helps me with congestion</body>
+    </message>
+  </messages>
+</conversation>

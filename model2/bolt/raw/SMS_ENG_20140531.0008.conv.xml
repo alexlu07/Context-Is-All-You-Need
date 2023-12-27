@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140531.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-31 20:13:52 UTC" participant="153557">
+      <body>￼Want this?</body>
+    </message>
+    <message id="m0001" time="2014-05-31 20:16:20 UTC" participant="153547">
+      <body>Not really</body>
+    </message>
+    <message id="m0002" time="2014-05-31 22:49:16 UTC" participant="153547">
+      <body>I think I'm getting Choy rhombus for dinner. Are you gonna be at the studio for a while?</body>
+    </message>
+    <message id="m0003" time="2014-05-31 22:56:00 UTC" participant="153557">
+      <body>Hey I was thinking about heading out soon.</body>
+    </message>
+    <message id="m0004" time="2014-05-31 23:25:52 UTC" participant="153557">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0005" time="2014-05-31 23:27:22 UTC" participant="153547">
+      <body>I'm at home. I already got dinner</body>
+    </message>
+    <message id="m0006" time="2014-05-31 23:31:49 UTC" participant="153557">
+      <body>Aw dang</body>
+    </message>
+    <message id="m0007" time="2014-05-31 23:32:17 UTC" participant="153547">
+      <body>There collard greens here</body>
+    </message>
+    <message id="m0008" time="2014-06-01 01:46:31 UTC" participant="153557">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120514.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131283" time="2012-05-14 15:34:17 UTC">
+      <body>How's Monday treating you? :)</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-05-14 15:55:49 UTC">
+      <body>Glad for cooler weather today! Heading out to lunch with in-laws, keeping busy :)</body>
+    </message>
+    <message id="m0002" participant="131283" time="2012-05-14 16:48:20 UTC">
+      <body>Glad you've got company! Keep moving, you're doing great.</body>
+    </message>
+  </messages>
+</conversation>

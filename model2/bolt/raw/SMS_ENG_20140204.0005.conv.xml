@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140204.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-04 22:28:58 UTC" participant="153491">
+      <body>We need to order our bus tickets.</body>
+    </message>
+    <message id="m0001" time="2014-02-05 00:48:16 UTC" participant="152116">
+      <body>I woke up with a sore throat today :(</body>
+    </message>
+    <message id="m0002" time="2014-02-05 01:13:14 UTC" participant="153491">
+      <body>Okay, I think as though there should be an ellipse at the end if that sentence ^</body>
+    </message>
+    <message id="m0003" time="2014-02-05 01:13:22 UTC" participant="153491">
+      <body>Are you trying to say something?</body>
+    </message>
+    <message id="m0004" time="2014-02-05 01:42:15 UTC" participant="152116">
+      <body>If I don't feel well I probably shouldn't go. I'll see how I feel tomorrow</body>
+    </message>
+    <message id="m0005" time="2014-02-05 06:12:44 UTC" participant="153491">
+      <body>*ellipsis</body>
+    </message>
+    <message id="m0006" time="2014-02-05 21:14:58 UTC" participant="153491">
+      <body>?</body>
+    </message>
+  </messages>
+</conversation>
+

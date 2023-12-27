@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131010.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-10 15:02:08 UTC" participant="153633">
+      <body>Can you make it to the ica today? 1pm?</body>
+    </message>
+    <message id="m0001" time="2013-10-10 15:04:06 UTC" participant="153548">
+      <body>I'm home sick today!Of course!</body>
+    </message>
+    <message id="m0002" time="2013-10-10 15:05:50 UTC" participant="153633">
+      <body>Ah, man, sorry you are sick! Let me know your availability for next week. We will make this happen! Feel better!</body>
+    </message>
+    <message id="m0003" time="2013-10-10 15:07:12 UTC" participant="153548">
+      <body>Thanks lady. I'm in bed with kitty and movies. Could be worse. I'll let you know how next week looks. Have a good day!</body>
+    </message>
+  </messages>
+</conversation>
+

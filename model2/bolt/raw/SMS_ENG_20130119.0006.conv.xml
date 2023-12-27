@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-01-19 17:15:49 UTC">
+      <body>Can you buy butter and eggs when you go to Giant?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-01-19 17:16:29 UTC">
+      <body>Today is my mom's birthday, I'm gonna make a cake.</body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-01-19 17:20:25 UTC">
+      <body>Sorry, heavy cream too please?</body>
+    </message>
+    <message id="m0003" participant="131282" time="2013-01-19 17:22:18 UTC">
+      <body>I'll get it on the way back</body>
+    </message>
+  </messages>
+</conversation>

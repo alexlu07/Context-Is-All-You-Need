@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133111" time="2013-04-17 00:30:03 UTC">
+      <body>made all the formatting revisions to my thesis and applied for a job . what a day</body>
+    </message>
+    <message id="m0001" participant="133117" time="2013-04-17 00:32:56 UTC">
+      <body>Excellent</body>
+    </message>
+    <message id="m0002" participant="133111" time="2013-04-17 00:35:49 UTC">
+      <body>also Sean got promoted</body>
+    </message>
+    <message id="m0003" participant="133117" time="2013-04-17 00:37:34 UTC">
+      <body>Wow incredible day </body>
+    </message>
+    <message id="m0004" participant="133111" time="2013-04-17 00:37:57 UTC">
+      <body>yar</body>
+    </message>
+    <message id="m0005" participant="133117" time="2013-04-17 00:38:51 UTC">
+      <body>.and a raise?</body>
+    </message>
+    <message id="m0006" participant="133111" time="2013-04-17 00:39:20 UTC">
+      <body>that comes with the promotion :-)</body>
+    </message>
+    <message id="m0007" participant="133117" time="2013-04-17 00:40:27 UTC">
+      <body>Yet another reason to celebrate</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 14:58:47 UTC" participant="153454">
+      <body>Hi John, this is Michael from New York Life. Just want to know when you'll be in Phila . Your money should be here this week.</body>
+    </message>
+    <message id="m0001" time="2014-04-02 17:21:44 UTC" participant="153418">
+      <body>Hello. I'll be available next Monday starting from 3PM and all day Tuesday. Would these times work for you? </body>
+    </message>
+    <message id="m0002" time="2014-04-02 18:08:14 UTC" participant="153454">
+      <body>How about Tuesday at 10:30am?</body>
+    </message>
+    <message id="m0003" time="2014-04-02 18:18:53 UTC" participant="153418">
+      <body>That works for me. I'll see you then. </body>
+    </message>
+    <message id="m0004" time="2014-04-02 18:20:15 UTC" participant="153454">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

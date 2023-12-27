@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-25 14:27:14 UTC" participant="153244">
+      <body>Hey, I get done work around 3, what time do you want to run?</body>
+    </message>
+    <message id="m0001" time="2014-10-25 14:29:33 UTC" participant="153890">
+      <body>I don't care</body>
+    </message>
+    <message id="m0002" time="2014-10-25 14:29:41 UTC" participant="153890">
+      <body>Whenever</body>
+    </message>
+    <message id="m0003" time="2014-10-25 15:14:35 UTC" participant="153244">
+      <body>Ok ill just pick you straight from work then</body>
+    </message>
+    <message id="m0004" time="2014-10-25 19:11:11 UTC" participant="153244">
+      <body>Ill be done work shortly. .. I want to run to Wal-Mart to check out the weight vests... want to take the ride with me or pick you up afterwards? </body>
+    </message>
+    <message id="m0005" time="2014-10-25 19:11:44 UTC" participant="153890">
+      <body>Pick me up after but I'm at Dv</body>
+    </message>
+    <message id="m0006" time="2014-10-25 19:12:19 UTC" participant="153244">
+      <body>Dv?</body>
+    </message>
+    <message id="m0007" time="2014-10-25 19:12:42 UTC" participant="153890">
+      <body>Yea</body>
+    </message>
+    <message id="m0008" time="2014-10-25 19:13:26 UTC" participant="153244">
+      <body>What's dv?</body>
+    </message>
+    <message id="m0009" time="2014-10-25 21:30:51 UTC" participant="153244">
+      <body>Are you hungry? </body>
+    </message>
+    <message id="m0010" time="2014-10-25 23:54:37 UTC" participant="153244">
+      <body>Hey im at my moms.. did you want to grab something to eat? Ill be leaving soon</body>
+    </message>
+    <message id="m0011" time="2014-10-25 23:55:28 UTC" participant="153890">
+      <body>No I'm ok</body>
+    </message>
+    <message id="m0012" time="2014-10-26 12:58:35 UTC" participant="153244">
+      <body>Hey im going to run again, did you want to come with me?</body>
+    </message>
+    <message id="m0013" time="2014-10-26 13:58:15 UTC" participant="153890">
+      <body>Wats up Midge</body>
+    </message>
+    <message id="m0014" time="2014-10-26 13:59:00 UTC" participant="153244">
+      <body>Just wanted to see if you want to come running again before I leave</body>
+    </message>
+    <message id="m0015" time="2014-10-26 13:59:46 UTC" participant="153890">
+      <body>I'm watching Superbad the movie</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-02-12 14:41:21 UTC">
+      <body>Thank you for the deposit!</body>
+    </message>
+    <message id="m0001" participant="135266" time="2013-02-12 14:42:12 UTC">
+      <body>Your welcome. </body>
+    </message>
+  </messages>
+</conversation>

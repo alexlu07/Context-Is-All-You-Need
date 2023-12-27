@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110914.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-09-14 21:18:22 UTC">
+      <body>How's the poster for the activities fair coming along?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-14 21:19:20 UTC">
+      <body>We have the pictures, and we have a date for assembly tonight</body>
+    </message>
+    <message id="m0002" participant="131830" time="2011-09-14 21:27:24 UTC">
+      <body>Great - let me know if you have any questions!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-09-14 21:29:54 UTC">
+      <body>Will do!</body>
+    </message>
+  </messages>
+</conversation>

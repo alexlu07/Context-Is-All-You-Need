@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140228.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-28 22:23:02 UTC" participant="153472">
+      <body>Are we still on for dinner on Tues? Providing we survive the storm.</body>
+    </message>
+    <message id="m0001" time="2014-02-28 22:23:22 UTC" participant="152374">
+      <body>Absolutely! I'm really looking forward to it</body>
+    </message>
+    <message id="m0002" time="2014-02-28 22:24:07 UTC" participant="153472">
+      <body>Me too. Do you think we should call for a reservation?</body>
+    </message>
+    <message id="m0003" time="2014-02-28 22:24:28 UTC" participant="152374">
+      <body>I've never been there, so I have no idea. Feel free if you think we should</body>
+    </message>
+    <message id="m0004" time="2014-02-28 22:32:21 UTC" participant="153472">
+      <body>Wow! I thought you had been there before. Now I'm really excited. I doubt we need a ressie for a Tue but I guess it wouldn't hurt what time were you thinking?</body>
+    </message>
+    <message id="m0005" time="2014-02-28 22:34:11 UTC" participant="152374">
+      <body>I can probably be home and ready to go by 6 at the latest. Any time after that</body>
+    </message>
+  </messages>
+</conversation>
+

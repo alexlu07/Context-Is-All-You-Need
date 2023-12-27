@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150408.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-08 00:25:07 UTC" participant="152123">
+      <body>Hey, you going to Aunt Joan's thing?</body>
+    </message>
+    <message id="m0001" time="2015-04-08 00:35:12 UTC" participant="153244">
+      <body>No I work sundays</body>
+    </message>
+    <message id="m0002" time="2015-04-08 00:36:15 UTC" participant="152123">
+      <body>I just turned her down</body>
+    </message>
+    <message id="m0003" time="2015-04-08 01:12:08 UTC" participant="153244">
+      <body>Lol oh ok. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150110.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-10 23:11:31 UTC" participant="152119">
+      <body>Hey! Is this the weekend that you're in Philly? </body>
+    </message>
+    <message id="m0001" time="2015-01-10 23:12:29 UTC" participant="153418">
+      <body>Nope. I'll be in next weekend starting on Thursday night or Friday morning.</body>
+    </message>
+    <message id="m0002" time="2015-01-10 23:13:27 UTC" participant="152119">
+      <body>Awww okay. Well I'll see you then, haha. How was your week? </body>
+    </message>
+    <message id="m0003" time="2015-01-10 23:15:26 UTC" participant="153418">
+      <body>Pretty busy. I worked 10 days for most of the week, but I'll be going back to a more normal schedule next week.</body>
+    </message>
+    <message id="m0004" time="2015-01-10 23:15:39 UTC" participant="153418">
+      <body>Yours? Are you teaching full time now? </body>
+    </message>
+    <message id="m0005" time="2015-01-10 23:18:40 UTC" participant="152119">
+      <body>Oh gosh! Don't over work yourself! Yeah, I'm full time. I'm not sure if I told you about it. I'm a technology teacher in the Kensington section of Philly</body>
+    </message>
+    <message id="m0006" time="2015-01-10 23:19:47 UTC" participant="152119">
+      <body>. It's not very exciting, mostly I teach the kids this one math program online and mess around with ancient MacBooks, lol. </body>
+    </message>
+    <message id="m0007" time="2015-01-10 23:21:27 UTC" participant="153418">
+      <body>Have you been there since before October? I think I heard about that, but I thought you got a new job.</body>
+    </message>
+    <message id="m0008" time="2015-01-10 23:21:57 UTC" participant="153418">
+      <body>By the way, math is awesome. You should teach them algebra and stuff.</body>
+    </message>
+    <message id="m0009" time="2015-01-10 23:24:28 UTC" participant="152119">
+      <body>No, I started in December. Haha yeah this program is actually really cool. It's a non-verbal problem solving game and according to what grade they're in,</body>
+    </message>
+    <message id="m0010" time="2015-01-10 23:24:38 UTC" participant="152119">
+      <body> it teaches anything from one to one correspondence all the way to beginning algebra.  </body>
+    </message>
+    <message id="m0011" time="2015-01-10 23:31:41 UTC" participant="153418">
+      <body>That's cool. Is it free? :p</body>
+    </message>
+    <message id="m0012" time="2015-01-10 23:43:36 UTC" participant="152119">
+      <body>Haha I don't think so. The school gets it through a grant. You need an access code for the kids to play. </body>
+    </message>
+    <message id="m0013" time="2015-01-11 00:12:08 UTC" participant="153418">
+      <body>Oh. That kinda blows. I wanted to try it out, lol</body>
+    </message>
+  </messages>
+</conversation>
+

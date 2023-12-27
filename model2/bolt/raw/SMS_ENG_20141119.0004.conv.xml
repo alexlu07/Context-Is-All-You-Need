@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141119.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-19 23:23:11 UTC" participant="152582">
+      <body>I have a joke for you!!!</body>
+    </message>
+    <message id="m0001" time="2014-11-19 23:23:44 UTC" participant="152582">
+      <body>You have to say it aloud though</body>
+    </message>
+    <message id="m0002" time="2014-11-19 23:23:44 UTC" participant="152582">
+      <body>How do you think the unthinkable? With an itheburg. </body>
+    </message>
+    <message id="m0003" time="2014-11-19 23:25:32 UTC" participant="152417">
+      <body>Ha!</body>
+    </message>
+  </messages>
+</conversation>
+

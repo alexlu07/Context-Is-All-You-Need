@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135269" time="2013-01-19 16:49:21 UTC">
+      <body>Hey all, i'm getting back tomorrow. What are others' ETAs? Can't wait to see you all!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-19 16:49:57 UTC">
+      <body>Likely 3-5ish tomorrow :)</body>
+    </message>
+    <message id="m0002" participant="135269" time="2013-01-19 16:50:22 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0003" participant="135269" time="2013-01-19 19:02:18 UTC">
+      <body>I think it would be fun if we went into philly monday, since none of us will have scary things to do yet. What do you all think?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-01-19 19:51:50 UTC">
+      <body>I'm down probably...I do have things to do but I also want to have a life :P</body>
+    </message>
+  </messages>
+</conversation>

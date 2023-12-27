@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-06 22:38:28 UTC">
+      <body>Heading over now on foot, so we'll be there in like 15!</body>
+    </message>
+    <message id="m0001" participant="131033" time="2012-11-06 22:44:05 UTC">
+      <body>Bah, #### is at  the gym, so you're gonna be stuck w just me! :)</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-11-06 22:46:09 UTC">
+      <body>Oh darn!</body>
+    </message>
+  </messages>
+</conversation>

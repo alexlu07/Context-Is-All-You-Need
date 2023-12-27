@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120706.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135361" time="2012-07-06 17:01:19 UTC">
+      <body>Hey I got a missed call from you </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-06 19:04:10 UTC">
+      <body>Yeah. Sorry it was an accident   But hey what's up</body>
+    </message>
+    <message id="m0002" participant="135361" time="2012-07-06 19:05:26 UTC">
+      <body>Living in Jersey city working a lot, living, doing well. How are you?</body>
+    </message>
+  </messages>
+</conversation>

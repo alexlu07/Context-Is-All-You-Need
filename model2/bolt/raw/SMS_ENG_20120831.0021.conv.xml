@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120831.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-31 19:02:42 UTC" participant="152734">
+      <body>Madison? We're gonna leave around 6</body>
+    </message>
+    <message id="m0001" time="2012-08-31 19:58:56 UTC" participant="153275">
+      <body>I'm tied up out in DelCo. Think I'm gonna take a pass. Sorry.</body>
+    </message>
+    <message id="m0002" time="2012-08-31 20:13:26 UTC" participant="152734">
+      <body>Next time!</body>
+    </message>
+    <message id="m0003" time="2012-08-31 20:13:52 UTC" participant="153275">
+      <body>100%</body>
+    </message>
+  </messages>
+</conversation>
+

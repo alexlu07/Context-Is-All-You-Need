@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150211.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-11 22:46:46 UTC" participant="152574">
+      <body>So, 2:30 tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-02-12 00:58:57 UTC" participant="152417">
+      <body>Can we do 2?</body>
+    </message>
+    <message id="m0002" time="2015-02-12 00:59:12 UTC" participant="152574">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0003" time="2015-02-12 17:46:40 UTC" participant="152574">
+      <body>Hey Bruce and Gabi, I'm canceling today! I apologize, but I am fighting a cold or something worse. I have a serious cough and chest congestion (even with cough medicine) and probably not the best for me or to expose you guys. All that being said, I like this time on thurs. does it work for you guys next week?</body>
+    </message>
+    <message id="m0004" time="2015-02-12 17:50:56 UTC" participant="152574">
+      <body>Ok cool and thanks for understanding you guys. I feel like I'm going to cough up a lung with these coughing fits but fortunately I don't have a fever so hopefully no flu. Bruce, this time on this works for you?</body>
+    </message>
+    <message id="m0005" time="2015-02-12 17:50:56 UTC" participant="152574">
+      <body>Or 5:45 I should say...</body>
+    </message>
+    <message id="m0006" time="2015-02-12 17:54:42 UTC" participant="152574">
+      <body>Ok then!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130727.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-07-27 21:02:58 UTC">
+      <body>What % lean beef?</body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-07-27 21:08:59 UTC">
+      <body>80/20</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-07-27 21:12:39 UTC">
+      <body> They have 3lb 80/20 beef tubes for 5.86. I am buying 4</body>
+    </message>
+  </messages>
+</conversation>

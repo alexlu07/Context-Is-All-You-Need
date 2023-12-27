@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140429.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-29 16:20:15 UTC" participant="153786">
+      <body>The quesadillas are still on the specials list at ######. I just ordered them!</body>
+    </message>
+    <message id="m0001" time="2014-04-29 16:23:35 UTC" participant="152374">
+      <body>Ooh! Let me know how they are </body>
+    </message>
+    <message id="m0002" time="2014-04-29 16:25:14 UTC" participant="153786">
+      <body>It was tough not ordering the Penang curry, but this is research!</body>
+    </message>
+    <message id="m0003" time="2014-04-29 16:25:46 UTC" participant="152374">
+      <body>Critical research! </body>
+    </message>
+  </messages>
+</conversation>
+

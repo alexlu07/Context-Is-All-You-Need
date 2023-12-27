@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120512.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-05-12 03:31:12 UTC">
+      <body>Call me! :)</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-05-12 03:32:13 UTC">
+      <body>I'm in a movie; what's up?</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-05-12 03:33:20 UTC">
+      <body>I'm coming 6/2, will help u move and will drive u to DC.  Sound good?  :)</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-05-12 03:35:25 UTC">
+      <body>Yes!!!</body>
+    </message>
+    <message id="m0004" participant="131824" time="2012-05-12 03:37:36 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-05-12 19:38:04 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0006" participant="131824" time="2012-05-12 19:39:44 UTC">
+      <body>Yay :)</body>
+    </message>
+    <message id="m0007" participant="131821" time="2012-05-13 13:56:20 UTC">
+      <body>Hey Lu I love you?</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-05-13 13:56:23 UTC">
+      <body>*!!!!</body>
+    </message>
+    <message id="m0009" participant="131824" time="2012-05-13 16:23:28 UTC">
+      <body>:(</body>
+    </message>
+    <message id="m0010" participant="131824" time="2012-05-13 16:23:28 UTC">
+      <body>':)</body>
+    </message>
+  </messages>
+</conversation>

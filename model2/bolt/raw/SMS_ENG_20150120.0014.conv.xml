@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 01:40:06 UTC" participant="152128">
+      <body>Did you get back okay?</body>
+    </message>
+    <message id="m0001" time="2015-01-20 03:30:04 UTC" participant="153418">
+      <body>Yeah. Roads were dangerous as hell yesterday.</body>
+    </message>
+    <message id="m0002" time="2015-01-20 03:32:02 UTC" participant="152128">
+      <body>I'm sure. It was all over the news. Pretty crazy. I'm glad you got back safely. Just wanted to check in :$</body>
+    </message>
+    <message id="m0003" time="2015-01-20 03:32:17 UTC" participant="152128">
+      <body>*:)</body>
+    </message>
+    <message id="m0004" time="2015-01-20 03:36:10 UTC" participant="153418">
+      <body>I'm all good~
+Thanks for checking in. We need to get pho next time.</body>
+    </message>
+    <message id="m0005" time="2015-01-20 03:39:47 UTC" participant="152128">
+      <body>Agreed!</body>
+    </message>
+  </messages>
+</conversation>
+

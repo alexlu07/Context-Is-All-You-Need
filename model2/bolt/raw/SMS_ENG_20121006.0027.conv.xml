@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136266" time="2012-10-06 06:26:28 UTC">
+      <body>Nick is way too drunk and I need help, are you awake?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-06 06:26:42 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0002" participant="136266" time="2012-10-06 06:27:17 UTC">
+      <body>Outside of the hospital</body>
+    </message>
+    <message id="m0003" participant="136266" time="2012-10-06 06:28:16 UTC">
+      <body>By the revolving doors, across from the thing with all the bikes</body>
+    </message>
+  </messages>
+</conversation>

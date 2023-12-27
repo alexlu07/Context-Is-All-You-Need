@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141229.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0002" time="2014-12-29 21:31:06 UTC" participant="153804">
+      <body>He might be able to give you some guidance</body>
+    </message>
+    <message id="m0003" time="2014-12-29 21:31:46 UTC" participant="153808">
+      <body>No thanks mom. I don't want to call him. I just wanted to talk to dad. Just call me when he wakes. This isn't that serious.</body>
+    </message>
+    <message id="m0004" time="2014-12-29 21:32:30 UTC" participant="153804">
+      <body>Dancette want to handle all that</body>
+    </message>
+    <message id="m0005" time="2014-12-29 21:32:55 UTC" participant="153804">
+      <body>I'll have dad call you soon as it's up</body>
+    </message>
+    <message id="m0006" time="2014-12-29 21:33:12 UTC" participant="153808">
+      <body>Thanks allot</body>
+    </message>
+  </messages>
+</conversation>
+

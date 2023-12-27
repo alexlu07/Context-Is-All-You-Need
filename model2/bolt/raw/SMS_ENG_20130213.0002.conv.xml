@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-13 17:04:53 UTC">
+      <body>good morning!
+
+any runs today?</body>
+    </message>
+    <message id="m0001" participant="131361" time="2013-02-13 17:05:53 UTC">
+      <body>Discussing schedule now. Will get back to you.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-13 17:18:11 UTC">
+      <body>cool. thanks!</body>
+    </message>
+  </messages>
+</conversation>

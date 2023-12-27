@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140307.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-07 02:51:14 UTC" participant="153491">
+      <body>You up?</body>
+    </message>
+    <message id="m0001" time="2014-03-07 19:06:07 UTC" participant="153491">
+      <body>Um thanks for the response?</body>
+    </message>
+    <message id="m0002" time="2014-03-07 19:07:45 UTC" participant="152116">
+      <body>I was sleeping</body>
+    </message>
+    <message id="m0003" time="2014-03-07 19:08:54 UTC" participant="153491">
+      <body>And did you just get up?</body>
+    </message>
+    <message id="m0004" time="2014-03-07 19:10:26 UTC" participant="152116">
+      <body>No but I forgot and did a lot of running around this morning</body>
+    </message>
+    <message id="m0005" time="2014-03-07 19:15:58 UTC" participant="153491">
+      <body>Okay, I just wanted to know about tonight.</body>
+    </message>
+    <message id="m0006" time="2014-03-07 19:17:09 UTC" participant="152116">
+      <body>I don't think we should do anything</body>
+    </message>
+    <message id="m0007" time="2014-03-07 19:18:54 UTC" participant="153491">
+      <body>I just feel bad because I talked to Jenny earlier this week about it and we said Friday. Now to just cancel and take it all away, feels kind of mean...</body>
+    </message>
+    <message id="m0008" time="2014-03-07 19:19:22 UTC" participant="152116">
+      <body>She's a big girl</body>
+    </message>
+    <message id="m0009" time="2014-03-07 19:19:49 UTC" participant="152116">
+      <body>Also she texted Eden and Eden told her. She said it doesn't matter</body>
+    </message>
+    <message id="m0010" time="2014-03-07 19:19:58 UTC" participant="153491">
+      <body>But she doesn't know and we're not giving her an explanation.</body>
+    </message>
+    <message id="m0011" time="2014-03-07 19:20:16 UTC" participant="153491">
+      <body>Oh...</body>
+    </message>
+    <message id="m0013" time="2014-03-07 22:49:00 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0014" time="2014-03-08 01:59:44 UTC" participant="152116">
+      <body>The viewing is tomorrow at 8:30 AM at Baldi funeral home on Broad street.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130903.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-03 23:50:56 UTC" participant="152116">
+      <body>Do you have tape at home?</body>
+    </message>
+    <message id="m0001" time="2013-09-04 00:03:22 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2013-09-04 00:03:57 UTC" participant="153244">
+      <body>Scotch tape in console table</body>
+    </message>
+  </messages>
+</conversation>
+

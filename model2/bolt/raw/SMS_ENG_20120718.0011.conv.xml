@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120718.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-18 22:37:10 UTC">
+      <body>I am just leaving Brooklyn now. Have fun at dinner!</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-07-18 23:26:01 UTC">
+      <body>Just finishing now amd heading to the beacon. Did u get stuck in the rain?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-19 00:14:30 UTC">
+      <body>Yeah but we still played. It was fun. Need a shower though</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-07-19 16:44:51 UTC">
+      <body>Lenscrafters confirmed for tomorrow at 11:40 and noon</body>
+    </message>
+  </messages>
+</conversation>

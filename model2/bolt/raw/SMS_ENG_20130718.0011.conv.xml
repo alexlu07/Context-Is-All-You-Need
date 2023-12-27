@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130718.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136133" time="2013-07-18 20:00:51 UTC">
+      <body>Hello! How are you today Nevynervine?</body>
+    </message>
+    <message id="m0001" participant="131711" time="2013-07-18 20:33:52 UTC">
+      <body>I'm good ! Yourself?</body>
+    </message>
+    <message id="m0002" participant="136133" time="2013-07-18 20:43:46 UTC">
+      <body>How wonderful to hear! I am well also. </body>
+    </message>
+    <message id="m0003" participant="131711" time="2013-07-18 20:46:31 UTC">
+      <body>Yeah it was way too hot today. I went our to finalize my job paperwork, was dying outside.</body>
+    </message>
+    <message id="m0004" participant="136133" time="2013-07-18 22:17:12 UTC">
+      <body>Ah I see. At least its somewhat cooler than it usually is this time of year.</body>
+    </message>
+    <message id="m0005" participant="136133" time="2013-07-18 22:17:17 UTC">
+      <body>I'm a wimp so try to stay out of the heat as much as possible. Lol</body>
+    </message>
+  </messages>
+</conversation>

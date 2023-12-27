@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130120.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-20 14:59:45 UTC" participant="152374">
+      <body>Tried calling but got your voicemail. I'm at the bowling alley if you want to stop by or meet after or something</body>
+    </message>
+    <message id="m0001" time="2013-01-20 15:42:04 UTC" participant="153467">
+      <body>My phone died over night. will you still be there in a half hour?</body>
+    </message>
+    <message id="m0002" time="2013-01-20 15:48:25 UTC" participant="152374">
+      <body>I'll probably be about to leave by then. Want to meet up for lunch or something?</body>
+    </message>
+    <message id="m0003" time="2013-01-21 00:54:09 UTC" participant="153467">
+      <body>I am a member of the ###########. I don't think my phone can handle this. My map keeps cutting out durning training.</body>
+    </message>
+    <message id="m0004" time="2013-01-21 00:55:04 UTC" participant="152374">
+      <body>Oh no! Actually I think my friend ### had the same problem</body>
+    </message>
+    <message id="m0005" time="2013-01-21 00:58:21 UTC" participant="152374">
+      <body>Oh, it looks like other people have had success with force closing the app and then starting it again!</body>
+    </message>
+    <message id="m0006" time="2013-01-21 01:11:37 UTC" participant="153467">
+      <body>That was what I did but it went black again in the next training mission</body>
+    </message>
+    <message id="m0007" time="2013-01-21 01:13:14 UTC" participant="152374">
+      <body>That could possibly happen with a lousy data connection too</body>
+    </message>
+    <message id="m0008" time="2013-01-21 01:13:49 UTC" participant="153467">
+      <body>Ah well. I'm up for new phone/contact re up so maybe I'll stop at tmobile tomorrow</body>
+    </message>
+    <message id="m0009" time="2013-01-21 01:14:45 UTC" participant="152374">
+      <body>You know,  that's interesting. Everyone I personally know who's had that problem has been on tmobile</body>
+    </message>
+    <message id="m0010" time="2013-01-21 01:15:08 UTC" participant="152374">
+      <body>On the upside, a new phone would also come with a charger! :-)</body>
+    </message>
+    <message id="m0011" time="2013-01-21 01:33:17 UTC" participant="153467">
+      <body>That's not much of an upside</body>
+    </message>
+    <message id="m0012" time="2013-01-21 01:33:34 UTC" participant="153467">
+      <body>I need to look into new cellar plans</body>
+    </message>
+    <message id="m0013" time="2013-01-21 01:34:21 UTC" participant="152374">
+      <body>A new phone would probably also have working buttons!</body>
+    </message>
+  </messages>
+</conversation>
+

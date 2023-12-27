@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131002.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-02 19:30:49 UTC" participant="152417">
+      <body>My friend Jason is gonna be in my room for a few nights</body>
+    </message>
+    <message id="m0001" time="2013-10-03 01:01:51 UTC" participant="152486">
+      <body>Cool. Does he need a key? Are any beers in the frisge yours? Dont know if they r from the party...</body>
+    </message>
+    <message id="m0002" time="2013-10-03 01:02:52 UTC" participant="152417">
+      <body>I gave him my key. The Yards beers in the fridge are mine. </body>
+    </message>
+    <message id="m0003" time="2013-10-03 01:05:06 UTC" participant="152486">
+      <body>Ok cool</body>
+    </message>
+  </messages>
+</conversation>
+

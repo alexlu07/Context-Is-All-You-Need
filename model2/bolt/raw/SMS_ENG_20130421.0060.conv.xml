@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-21 16:47:12 UTC" participant="154352">
+      <body>Are you going to the Wagner institute?</body>
+    </message>
+    <message id="m0001" time="2013-04-21 16:48:17 UTC" participant="154392">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>
+

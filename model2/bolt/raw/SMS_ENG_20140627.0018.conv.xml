@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140627.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-27 20:55:25 UTC" participant="153244">
+      <body>When I get in the car ill call</body>
+    </message>
+    <message id="m0001" time="2014-06-28 03:03:56 UTC" participant="153244">
+      <body>Til what time?</body>
+    </message>
+    <message id="m0002" time="2014-06-28 03:05:20 UTC" participant="153900">
+      <body>Don't know why</body>
+    </message>
+    <message id="m0003" time="2014-06-28 03:10:40 UTC" participant="153244">
+      <body>Bec if I'm still out i was going to drive you home but I might be home first. </body>
+    </message>
+    <message id="m0004" time="2014-06-28 03:20:54 UTC" participant="153900">
+      <body>I have my car</body>
+    </message>
+    <message id="m0005" time="2014-06-28 03:23:01 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>
+

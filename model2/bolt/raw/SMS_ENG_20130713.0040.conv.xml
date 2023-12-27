@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-13 18:14:24 UTC" participant="153305">
+      <body>Tanya is running late </body>
+    </message>
+    <message id="m0001" time="2013-07-13 18:43:45 UTC" participant="152734">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130201.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-01 19:29:40 UTC">
+      <body>Are you going to be around on Sunday? If you are I may need you to drop off my truck at the train station sometime during the day. Would that be okay?</body>
+    </message>
+    <message id="m0001" participant="134287" time="2013-02-02 13:04:47 UTC">
+      <body>Yes, I can do that. Any time Sunday?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-02-02 14:35:38 UTC">
+      <body>We actually dropped it off before we left so I am good. Thanks though </body>
+    </message>
+  </messages>
+</conversation>

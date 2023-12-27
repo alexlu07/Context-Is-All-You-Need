@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140303.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-03 18:36:29 UTC" participant="152417">
+      <body>Im in philly tonight too, im gonna take an amtrak tomorrow at 950.  Do you wanna grab a quick breakfast tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-03-03 18:37:10 UTC" participant="152417">
+      <body>The airlines booted me from todays flight too, and the next three says are sold out!</body>
+    </message>
+    <message id="m0002" time="2014-03-03 18:45:44 UTC" participant="152424">
+      <body>My morning is flexible.  where and when you thinking?</body>
+    </message>
+    <message id="m0003" time="2014-03-03 18:46:58 UTC" participant="152417">
+      <body>8 oclock, is there anything good near 30th street?</body>
+    </message>
+    <message id="m0004" time="2014-03-03 18:59:12 UTC" participant="152424">
+      <body>let me look a bit.  I'm always partial to the honeys $5 breakfast special</body>
+    </message>
+  </messages>
+</conversation>
+

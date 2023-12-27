@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120503.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131822" time="2012-05-03 02:31:28 UTC">
+      <body>Can I eat your fries? :P</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-05-03 02:32:28 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-05-03 02:33:30 UTC">
+      <body>Cool better that they not go to waste</body>
+    </message>
+    <message id="m0003" participant="131822" time="2012-05-03 02:33:36 UTC">
+      <body>Niceeeee</body>
+    </message>
+  </messages>
+</conversation>

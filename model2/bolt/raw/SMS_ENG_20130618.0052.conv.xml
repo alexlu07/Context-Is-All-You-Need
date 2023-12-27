@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136653" time="2013-06-18 00:51:48 UTC">
+      <body>Hey.. What's ur email address ?</body>
+    </message>
+    <message id="m0002" participant="136653" time="2013-06-18 01:11:30 UTC">
+      <body>Thanks :) </body>
+    </message>
+    <message id="m0003" participant="136653" time="2013-06-18 01:11:47 UTC">
+      <body>How have u been? Enjoying summer thus far? </body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-18 20:28:07 UTC">
+      <body>Ive been good. Been pretty busy. How u?</body>
+    </message>
+    <message id="m0005" participant="136653" time="2013-06-18 23:13:52 UTC">
+      <body>Same here busy with work and travel. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-27 11:37:22 UTC" participant="152417">
+      <body>Youve still got that electric keyboard, right?</body>
+    </message>
+    <message id="m0001" time="2013-03-27 11:38:55 UTC" participant="152429">
+      <body>No, I gave it to Ali cuz she didn't have a piano and she wanted to take lessons</body>
+    </message>
+    <message id="m0002" time="2013-03-27 12:49:38 UTC" participant="152417">
+      <body>Darn could I borrow it back?</body>
+    </message>
+    <message id="m0003" time="2013-03-27 13:34:24 UTC" participant="152429">
+      <body>She's in Ohio</body>
+    </message>
+    <message id="m0004" time="2013-03-27 16:27:14 UTC" participant="152429">
+      <body>When are you coming home,</body>
+    </message>
+    <message id="m0005" time="2013-03-27 16:32:59 UTC" participant="152417">
+      <body>Today</body>
+    </message>
+    <message id="m0006" time="2013-03-27 16:44:04 UTC" participant="152429">
+      <body>When tho?</body>
+    </message>
+  </messages>
+</conversation>
+

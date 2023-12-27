@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150328.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-28 15:08:45 UTC" participant="152116">
+      <body>Hey, Happy Birthday</body>
+    </message>
+    <message id="m0001" time="2015-03-28 15:09:18 UTC" participant="153491">
+      <body>Hey, thank you hahah!</body>
+    </message>
+    <message id="m0002" time="2015-03-28 15:09:47 UTC" participant="152116">
+      <body>I wasn't expecting you to be up</body>
+    </message>
+    <message id="m0003" time="2015-03-28 15:27:18 UTC" participant="153491">
+      <body>Yet I am :) more proof that Phuong likes to being the mind-blowing boom!</body>
+    </message>
+    <message id="m0004" time="2015-03-28 15:27:50 UTC" participant="152116">
+      <body>Oh sure</body>
+    </message>
+    <message id="m0005" time="2015-03-28 21:04:10 UTC" participant="152116">
+      <body>Did you have to make reservations?</body>
+    </message>
+    <message id="m0006" time="2015-03-28 21:06:20 UTC" participant="153491">
+      <body>No, not for PYT.</body>
+    </message>
+    <message id="m0007" time="2015-03-28 21:06:39 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

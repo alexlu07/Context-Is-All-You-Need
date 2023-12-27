@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 14:40:13 UTC" participant="152570">
+      <body>Hey Gabbi, could we meet earlier on Wednesday? I am subbing with the philly pops and have to be down the street for a rehearsal at 3. Let me know if at all possible, thanks, man. </body>
+    </message>
+    <message id="m0001" time="2014-09-15 14:41:23 UTC" participant="152417">
+      <body>Could you do 11-12?</body>
+    </message>
+    <message id="m0002" time="2014-09-15 14:42:20 UTC" participant="152570">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" time="2014-09-15 14:42:28 UTC" participant="152570">
+      <body>I can also bring the coffee/tea</body>
+    </message>
+  </messages>
+</conversation>
+

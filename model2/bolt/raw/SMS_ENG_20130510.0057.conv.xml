@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136725" time="2013-05-10 23:23:50 UTC">
+      <body>Asb</body>
+    </message>
+    <message id="m0001" participant="136725" time="2013-05-10 23:24:10 UTC">
+      <body>Come!</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-05-10 23:25:50 UTC">
+      <body>I need a lil time cause I'm trying to fix something but I'm down.  I'll holler when this is all buttoned up.</body>
+    </message>
+    <message id="m0003" participant="136725" time="2013-05-10 23:26:26 UTC">
+      <body>Nooooooo doubt</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-05-11 00:53:53 UTC">
+      <body>Still at ASB?</body>
+    </message>
+    <message id="m0005" participant="136725" time="2013-05-11 00:58:27 UTC">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>

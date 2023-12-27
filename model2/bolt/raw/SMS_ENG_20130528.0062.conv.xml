@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-28 17:54:21 UTC">
+      <body>i'm headed back to mom's if you wanna come get me when you get a chance </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-05-28 17:56:28 UTC">
+      <body>I just got out of the shower. Will you be okay for an hour?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-28 18:04:04 UTC">
+      <body>fo sho </body>
+    </message>
+    <message id="m0003" participant="136163" time="2013-05-28 18:04:57 UTC">
+      <body>K. C u about three then.</body>
+    </message>
+  </messages>
+</conversation>

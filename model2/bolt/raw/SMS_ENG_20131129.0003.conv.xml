@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 21:41:37 UTC" participant="152116">
+      <body>We're out now and will be until midnight.</body>
+    </message>
+    <message id="m0001" time="2013-11-30 01:48:13 UTC" participant="153491">
+      <body>So where are you all?</body>
+    </message>
+    <message id="m0002" time="2013-11-30 01:54:32 UTC" participant="152116">
+      <body>Penn's campus. 37th and chestnut</body>
+    </message>
+    <message id="m0003" time="2013-11-30 01:54:54 UTC" participant="153491">
+      <body>On my way.</body>
+    </message>
+    <message id="m0004" time="2013-11-30 02:04:57 UTC" participant="153491">
+      <body>Are you in a restaurant?</body>
+    </message>
+  </messages>
+</conversation>
+

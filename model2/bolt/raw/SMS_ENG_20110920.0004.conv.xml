@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110920.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135135" time="2011-09-20 13:00:42 UTC">
+      <body>Ok I'm runnin late dis mornin!!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-20 13:01:01 UTC">
+      <body>Uh oh, how late?</body>
+    </message>
+    <message id="m0002" participant="135135" time="2011-09-20 13:01:48 UTC">
+      <body>I'm dwntown I'm on hennipen</body>
+    </message>
+    <message id="m0003" participant="135135" time="2011-09-20 13:02:04 UTC">
+      <body>So like 10mins I should b there</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-20 13:02:09 UTC">
+      <body>Reg is here, do you want me to tell her something?</body>
+    </message>
+    <message id="m0005" participant="135135" time="2011-09-20 13:03:36 UTC">
+      <body>Tell her I'm runnin like 10 mins late</body>
+    </message>
+    <message id="m0006" participant="135135" time="2011-09-20 13:03:46 UTC">
+      <body>Plz</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-09-20 13:17:59 UTC">
+      <body>I let her know :)</body>
+    </message>
+  </messages>
+</conversation>

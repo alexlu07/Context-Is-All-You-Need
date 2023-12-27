@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131982" time="2013-06-04 09:50:56 UTC">
+      <body>Hi Jeremy.Joanne was scheduled as a driver, but her car is unreliable. I have a car but don't like to drive other people.  Would you be able to drive my car? I have a Prius. </body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-04 10:03:37 UTC">
+      <body>I would prefer not to (since I'm not staffed as the driver) but if it's our only option...</body>
+    </message>
+    <message id="m0002" participant="131982" time="2013-06-04 10:22:56 UTC">
+      <body>Joanne was scheduled as a driver and she found out last night By accident. </body>
+    </message>
+  </messages>
+</conversation>

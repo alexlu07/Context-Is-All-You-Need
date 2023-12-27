@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-28 02:39:10 UTC">
+      <body>whatcha doin'?</body>
+    </message>
+    <message id="m0001" participant="131365" time="2013-03-28 02:40:06 UTC">
+      <body>Laying on my couch. Watching tv. </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-28 02:42:01 UTC">
+      <body>want company?</body>
+    </message>
+    <message id="m0003" participant="131365" time="2013-03-28 02:43:20 UTC">
+      <body>I'd love company. I'm running over to the church to take some pictures in about ten minutes. When you thinking?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-03-28 02:44:29 UTC">
+      <body>i dunno.
+30? 45?</body>
+    </message>
+    <message id="m0005" participant="131365" time="2013-03-28 02:45:12 UTC">
+      <body>It's only 14 pieces I have to shoot so that's perfect. </body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-03-28 02:46:28 UTC">
+      <body>gimme directions from 210 east.</body>
+    </message>
+    <message id="m0007" participant="131365" time="2013-03-28 02:50:30 UTC">
+      <body>Exit Hill, go right, then left onto Walnut (there's a 76 on the corner), then immediate right onto Harkness (the building where the art show was is on the corner). Turn left into the third driveway after the church. It slopes down. My truck is all the way</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-03-28 02:51:54 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0009" participant="131365" time="2013-03-28 02:52:48 UTC">
+      <body>I've had an intensely awful day. It will be nice to hang out. Perfect timing. </body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-03-28 02:56:11 UTC">
+      <body>ditto.</body>
+    </message>
+    <message id="m0011" participant="131350" time="2013-03-28 16:39:40 UTC">
+      <body>i know i wasn't the best company, but i really appreciated and enjoyed lastnight.  thank you.</body>
+    </message>
+    <message id="m0012" participant="131365" time="2013-03-28 16:41:32 UTC">
+      <body>I feel like I probably wasn't the best company either. It was just nice to see you! </body>
+    </message>
+    <message id="m0013" participant="131350" time="2013-03-28 16:42:03 UTC">
+      <body>yeah...i feel the same way!</body>
+    </message>
+  </messages>
+</conversation>

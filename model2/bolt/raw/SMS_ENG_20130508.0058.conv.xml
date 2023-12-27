@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136146" time="2013-05-08 02:26:05 UTC">
+      <body>Hii! Can I please use your printer when you get back? I need to print three sheets for tomorrow and I already packed my printer cord in a sealed box!!</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-05-08 02:26:42 UTC">
+      <body>for sure, i'm home now! you can email me the document if you want and i'll go ahead and do it. #######@######### </body>
+    </message>
+    <message id="m0002" participant="136146" time="2013-05-08 02:27:08 UTC">
+      <body>Awesome Thanks!!!</body>
+    </message>
+    <message id="m0003" participant="136146" time="2013-05-08 02:32:01 UTC">
+      <body>Sent it!</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-05-08 02:32:43 UTC">
+      <body>uh oh, you need to log in to see the page! </body>
+    </message>
+    <message id="m0005" participant="136146" time="2013-05-08 02:33:12 UTC">
+      <body>Coming!</body>
+    </message>
+  </messages>
+</conversation>

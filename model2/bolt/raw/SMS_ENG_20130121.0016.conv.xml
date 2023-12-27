@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130121.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131029" time="2013-01-21 18:02:43 UTC">
+      <body>I'm leaving ####'s and heading back to ######!!  Whenever you're ready come on by </body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-01-21 18:03:20 UTC">
+      <body>Great! Taking Lucy for a quick walk and then I'll head out!</body>
+    </message>
+    <message id="m0002" participant="131029" time="2013-01-21 18:06:24 UTC">
+      <body>Ok. Call if you get lost</body>
+    </message>
+  </messages>
+</conversation>

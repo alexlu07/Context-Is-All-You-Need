@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-31 20:32:39 UTC">
+      <body>Hi geegles. Where are you?</body>
+    </message>
+    <message id="m0001" participant="131059" time="2013-05-31 20:46:48 UTC">
+      <body>I'm in California, currently SoCal. You?</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-31 20:53:51 UTC">
+      <body>DC. Heading to bed early. I coach young girls in lacrosse and then heading to NYC for a college roommate's bachelorette party.</body>
+    </message>
+    <message id="m0003" participant="131059" time="2013-05-31 20:56:39 UTC">
+      <body>Ah yeah, I guess you're on a different time zone than I am. I'm just about to head out to dinner in SD. On vacation with a friend.</body>
+    </message>
+  </messages>
+</conversation>

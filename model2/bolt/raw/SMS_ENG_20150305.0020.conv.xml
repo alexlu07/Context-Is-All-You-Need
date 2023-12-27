@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150305.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-05 21:28:32 UTC" participant="153812">
+      <body>They're selling Girl Scout cookies at the law school and I didn't bring my wallet</body>
+    </message>
+    <message id="m0001" time="2015-03-05 22:13:58 UTC" participant="153848">
+      <body>I got mine. Are they still there? </body>
+    </message>
+    <message id="m0002" time="2015-03-05 22:15:28 UTC" participant="153812">
+      <body>I'm not sure</body>
+    </message>
+    <message id="m0003" time="2015-03-05 22:25:10 UTC" participant="153812">
+      <body>Yes they are!</body>
+    </message>
+  </messages>
+</conversation>
+

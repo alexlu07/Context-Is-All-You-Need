@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-10 18:53:45 UTC" participant="152374">
+      <body>Yo! Do you have plans tomorrow night? If no, can I interest you in sushi?  :-D</body>
+    </message>
+    <message id="m0001" time="2012-11-10 19:13:54 UTC" participant="153489">
+      <body>I'm actually going to my parents place tomorrow. How about some time this week?</body>
+    </message>
+    <message id="m0002" time="2012-11-10 19:14:35 UTC" participant="152374">
+      <body>Sounds good. Let me know what nights would work for you!</body>
+    </message>
+    <message id="m0003" time="2012-11-10 19:18:01 UTC" participant="153489">
+      <body>How about Monday?</body>
+    </message>
+    <message id="m0004" time="2012-11-10 22:47:12 UTC" participant="152374">
+      <body>Sounds good! Where and when?</body>
+    </message>
+    <message id="m0005" time="2012-11-10 23:24:03 UTC" participant="153489">
+      <body>I picked the day, you pick the place</body>
+    </message>
+    <message id="m0006" time="2012-11-10 23:29:26 UTC" participant="152374">
+      <body>I would say Doma but I'm pretty sure they're closed on Monday. What's your favorite?</body>
+    </message>
+    <message id="m0007" time="2012-11-11 00:03:51 UTC" participant="153489">
+      <body>I hear theres a really good place near the art museum #### keeps telling me about but I dunno what it's called</body>
+    </message>
+    <message id="m0008" time="2012-11-11 00:04:31 UTC" participant="152374">
+      <body>I don't either. I've tried searching for it on Google but can't find it</body>
+    </message>
+    <message id="m0009" time="2012-11-11 00:10:36 UTC" participant="153489">
+      <body>Otherwise Uzu is awesome. Market between front and 2nd</body>
+    </message>
+    <message id="m0010" time="2012-11-11 00:11:23 UTC" participant="152374">
+      <body>Okay, either is fine with me, so you decide and let me know what time to meet you  :-)</body>
+    </message>
+    <message id="m0011" time="2012-11-11 01:04:33 UTC" participant="153489">
+      <body>The place is called Dasiwa</body>
+    </message>
+    <message id="m0012" time="2012-11-11 16:33:37 UTC" participant="153489">
+      <body>So I think if I go straight from work I should get there around 645</body>
+    </message>
+    <message id="m0013" time="2012-11-11 16:33:41 UTC" participant="153489">
+      <body>Is that cool?</body>
+    </message>
+    <message id="m0014" time="2012-11-11 16:35:28 UTC" participant="152374">
+      <body>At dasiwa?</body>
+    </message>
+    <message id="m0015" time="2012-11-11 16:35:51 UTC" participant="153489">
+      <body>Yep</body>
+    </message>
+    <message id="m0016" time="2012-11-11 16:36:07 UTC" participant="152374">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-06 13:20:12 UTC">
+      <body>hey, i'm not going be in class today, if she tells us anything about the test or whatever could you let me know? </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-03-06 14:25:51 UTC">
+      <body>Okay!</body>
+    </message>
+    <message id="m0002" participant="136129" time="2013-03-06 15:35:48 UTC">
+      <body>Wanna meet up with Emily and I at 7 at the duc to work on the skit?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-06 15:36:53 UTC">
+      <body>could we do 8 instead? i have plans this afternoon. </body>
+    </message>
+    <message id="m0004" participant="136129" time="2013-03-06 18:51:52 UTC">
+      <body>Yeah meet at the usually place?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-06 18:52:03 UTC">
+      <body>kk</body>
+    </message>
+  </messages>
+</conversation>

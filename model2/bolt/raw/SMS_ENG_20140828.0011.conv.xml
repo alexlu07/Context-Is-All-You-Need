@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140828.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-28 22:12:59 UTC" participant="153547">
+      <body>Are u using my car tonight ? I want to drive to class so I can pick up my print</body>
+    </message>
+    <message id="m0001" time="2014-08-28 22:14:12 UTC" participant="153557">
+      <body>No  drunk</body>
+    </message>
+    <message id="m0002" time="2014-08-28 22:15:01 UTC" participant="153547">
+      <body>Ok.</body>
+    </message>
+    <message id="m0003" time="2014-08-29 01:55:12 UTC" participant="153557">
+      <body>Is snow piercer gone?</body>
+    </message>
+    <message id="m0004" time="2014-08-29 19:13:20 UTC" participant="153547">
+      <body>I'm done with the car. I'm sorry u couldn't use it earlier</body>
+    </message>
+    <message id="m0005" time="2014-08-29 20:33:04 UTC" participant="153557">
+      <body>We will be home in like an hour or so. We are gonna go to the store to pick up some stuff to grill.</body>
+    </message>
+    <message id="m0006" time="2014-08-29 20:34:37 UTC" participant="153547">
+      <body>Ok. I will too. Anything u want from Aldi ?</body>
+    </message>
+    <message id="m0007" time="2014-08-29 20:35:12 UTC" participant="153557">
+      <body>Veggies to grill? </body>
+    </message>
+    <message id="m0008" time="2014-08-29 20:36:14 UTC" participant="153547">
+      <body>U want me to just wait</body>
+    </message>
+    <message id="m0009" time="2014-08-29 20:36:31 UTC" participant="153557">
+      <body>Sure!</body>
+    </message>
+    <message id="m0010" time="2014-08-29 20:37:03 UTC" participant="153557">
+      <body>We are walkin up walnut </body>
+    </message>
+  </messages>
+</conversation>
+

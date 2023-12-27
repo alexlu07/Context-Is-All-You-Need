@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130907.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-07 00:29:52 UTC" participant="152489">
+      <body>Hey Gabi, it's PJ, where should I pick you up at 10:15 tomorrow?</body>
+    </message>
+    <message id="m0002" time="2013-09-07 13:51:44 UTC" participant="152489">
+      <body>Gonna be closer to 10:45, sorry, running late</body>
+    </message>
+    <message id="m0003" time="2013-09-07 13:52:07 UTC" participant="152417">
+      <body>All good, see you in a bit</body>
+    </message>
+  </messages>
+</conversation>
+

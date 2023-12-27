@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130315.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-03-15 23:12:23 UTC">
+      <body>Everybody is fashionably late but me!!!!</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-03-15 23:12:57 UTC">
+      <body>Well, the organizer SHOULD show up first!</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-03-15 23:13:04 UTC">
+      <body>True!</body>
+    </message>
+    <message id="m0003" participant="131502" time="2013-03-15 23:15:12 UTC">
+      <body>I'm having a beer. I looked weird just sitting there alone </body>
+    </message>
+    <message id="m0004" participant="131502" time="2013-03-15 23:17:20 UTC">
+      <body>I'm down so they can see me </body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-03-15 23:17:46 UTC">
+      <body>You should have a beer!</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-03-15 23:17:54 UTC">
+      <body>Upstairs or down?</body>
+    </message>
+    <message id="m0007" participant="131502" time="2013-03-15 23:19:28 UTC">
+      <body>Wes missed 3 trains (7:15 being the latest). Geez</body>
+    </message>
+    <message id="m0008" participant="131502" time="2013-03-15 23:19:28 UTC">
+      <body>C'mon Gillian! She knows I'm here all alone :(</body>
+    </message>
+    <message id="m0009" participant="131502" time="2013-03-15 23:19:28 UTC">
+      <body>She just texted . Cool</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-03-16 00:24:09 UTC">
+      <body>Sorry I didn't text back. Hands were covered in biscuit dough and then I got distracted cooking dinner</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-03-16 00:55:54 UTC">
+      <body>Having fun?</body>
+    </message>
+    <message id="m0012" participant="131502" time="2013-03-16 00:57:36 UTC">
+      <body>Yes!!!</body>
+    </message>
+  </messages>
+</conversation>

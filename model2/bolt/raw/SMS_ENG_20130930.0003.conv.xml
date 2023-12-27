@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130930.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-30 00:05:20 UTC" participant="152503">
+      <body>Hey Gabi. Did you make arrangements with pj for tomorrow morning?</body>
+    </message>
+    <message id="m0001" time="2013-09-30 00:27:31 UTC" participant="152417">
+      <body>No...they were too busy as i was on my way out.  Can you put me in touch with him?</body>
+    </message>
+    <message id="m0002" time="2013-09-30 00:27:44 UTC" participant="152503">
+      <body>Just texted him. He or I can be there at 7 and we'll get you a key soon :)</body>
+    </message>
+    <message id="m0003" time="2013-09-30 00:29:33 UTC" participant="152417">
+      <body>Cool, thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0086" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-12 03:34:13 UTC" participant="152417">
+      <body>Im meeting cabaret folks at half lounge, come join call me when youre out, im hoping that youll drive my chariot again.</body>
+    </message>
+    <message id="m0001" time="2013-05-12 03:39:48 UTC" participant="152560">
+      <body>Still busy here. Looks like I'm gonna be a while...</body>
+    </message>
+    <message id="m0002" time="2013-05-12 23:31:50 UTC" participant="152417">
+      <body>Hope you had a good day!</body>
+    </message>
+    <message id="m0003" time="2013-05-13 00:05:30 UTC" participant="152560">
+      <body>It's been lovely! Knock em dead tonight.</body>
+    </message>
+  </messages>
+</conversation>
+

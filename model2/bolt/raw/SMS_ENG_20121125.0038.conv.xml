@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136276" time="2012-11-25 21:10:30 UTC">
+      <body>Hey when do you get in?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-25 21:14:23 UTC">
+      <body>I'm at baggage claim</body>
+    </message>
+    <message id="m0002" participant="136276" time="2012-11-25 21:14:50 UTC">
+      <body>Be there in two seconds</body>
+    </message>
+  </messages>
+</conversation>

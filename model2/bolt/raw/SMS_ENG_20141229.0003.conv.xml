@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141229.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-29 22:16:35 UTC" participant="152771">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-12-29 22:16:52 UTC" participant="152735">
+      <body>Yeah it's mine </body>
+    </message>
+    <message id="m0002" time="2014-12-29 22:17:03 UTC" participant="152735">
+      <body>I'll pick it up at 7:30</body>
+    </message>
+    <message id="m0003" time="2014-12-29 22:17:14 UTC" participant="152735">
+      <body>I realized once I was in train. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

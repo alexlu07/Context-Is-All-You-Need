@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-11 17:37:54 UTC">
+      <body>You in tonight? </body>
+    </message>
+    <message id="m0001" participant="134282" time="2013-06-11 19:52:25 UTC">
+      <body>I'm in</body>
+    </message>
+    <message id="m0002" participant="134282" time="2013-06-11 19:52:39 UTC">
+      <body>I think Frank wants to play too</body>
+    </message>
+    <message id="m0003" participant="134282" time="2013-06-11 22:49:56 UTC">
+      <body>See you at 745</body>
+    </message>
+  </messages>
+</conversation>

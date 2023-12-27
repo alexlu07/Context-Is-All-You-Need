@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140801.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-01 23:34:09 UTC" participant="153635">
+      <body>What you doing tonight?</body>
+    </message>
+    <message id="m0001" time="2014-08-02 14:54:17 UTC" participant="153548">
+      <body>My phone does last night! What are you doin tonight?</body>
+    </message>
+    <message id="m0002" time="2014-08-02 19:37:13 UTC" participant="153635">
+      <body>No plans! What you doing?</body>
+    </message>
+    <message id="m0003" time="2014-08-02 20:22:58 UTC" participant="153548">
+      <body>Come to ma house!</body>
+    </message>
+    <message id="m0004" time="2014-08-02 20:22:58 UTC" participant="153548">
+      <body>We can drink and hang out!</body>
+    </message>
+    <message id="m0005" time="2014-08-02 20:42:31 UTC" participant="153635">
+      <body>Ok! What time?!</body>
+    </message>
+    <message id="m0006" time="2014-08-02 20:46:18 UTC" participant="153548">
+      <body>Whenever! I'm just here</body>
+    </message>
+    <message id="m0007" time="2014-08-02 20:48:16 UTC" participant="153635">
+      <body>I gotta do some stuff and then I come over! What kinda beer you like?</body>
+    </message>
+    <message id="m0008" time="2014-08-02 20:51:42 UTC" participant="153548">
+      <body>Ima drink some vodka sodas! You can have those  too if you want! Okay see ya l8r !!</body>
+    </message>
+  </messages>
+</conversation>
+

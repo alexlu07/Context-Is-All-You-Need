@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140401.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-01 23:38:08 UTC" participant="149374">
+      <body>Hey. I was in Baltimore all weekend. I will be up again soon. When should I visit?</body>
+    </message>
+    <message id="m0001" time="2014-04-01 23:38:44 UTC" participant="153547">
+      <body>I wanna plan to come down soon</body>
+    </message>
+    <message id="m0002" time="2014-04-01 23:40:31 UTC" participant="153547">
+      <body>I photographed that piece and a bunch of other stuff this morning so I am good to go</body>
+    </message>
+  </messages>
+</conversation>
+

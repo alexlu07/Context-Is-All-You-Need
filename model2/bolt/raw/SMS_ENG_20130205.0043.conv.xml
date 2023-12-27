@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-05 19:25:32 UTC">
+      <body>are we still on for tonight? </body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-02-05 19:26:59 UTC">
+      <body>Absolutely. Say seven?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-05 19:27:49 UTC">
+      <body>perfect.</body>
+    </message>
+    <message id="m0003" participant="136150" time="2013-02-06 05:31:03 UTC">
+      <body>Lauren. I sincerely enjoyed being with you tonight. Sleep well and have sweet dreams.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-06 05:36:28 UTC">
+      <body>thank you for this, seriously. i had a great time, too. goodnight. :) </body>
+    </message>
+    <message id="m0005" participant="136150" time="2013-02-06 14:11:46 UTC">
+      <body>Good morning. Did you sleep well beautiful?</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-02-06 14:12:26 UTC">
+      <body>very well. and you? </body>
+    </message>
+    <message id="m0007" participant="136150" time="2013-02-06 14:26:43 UTC">
+      <body>The same.</body>
+    </message>
+  </messages>
+</conversation>

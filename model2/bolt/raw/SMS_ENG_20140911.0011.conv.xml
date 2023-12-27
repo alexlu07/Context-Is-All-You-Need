@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140911.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-11 19:50:24 UTC" participant="153576">
+      <body>Where are you??!!</body>
+    </message>
+    <message id="m0001" time="2014-09-11 19:52:08 UTC" participant="153548">
+      <body>In the office!!!</body>
+    </message>
+    <message id="m0002" time="2014-09-11 19:52:32 UTC" participant="153576">
+      <body>I'm on 14 floor</body>
+    </message>
+    <message id="m0003" time="2014-09-11 19:54:27 UTC" participant="153548">
+      <body>I can meet you up there in like 10?</body>
+    </message>
+    <message id="m0004" time="2014-09-11 19:54:36 UTC" participant="153576">
+      <body>I can go down</body>
+    </message>
+  </messages>
+</conversation>
+

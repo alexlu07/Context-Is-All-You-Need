@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120108.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2012-01-08 18:08:24 UTC">
+      <body>When do u get back on campus?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-08 22:32:38 UTC">
+      <body>Idk I just landed in Newark</body>
+    </message>
+    <message id="m0002" participant="131825" time="2012-01-08 22:34:23 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-01-08 22:34:43 UTC">
+      <body>Lolz are you there yet, eh?</body>
+    </message>
+    <message id="m0004" participant="131825" time="2012-01-08 22:34:58 UTC">
+      <body>Maura is getting in at like 7 30 and we were going to get dinner then If u want to join :)</body>
+    </message>
+    <message id="m0005" participant="131825" time="2012-01-08 22:35:13 UTC">
+      <body>Yep I am haha</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-01-08 22:35:29 UTC">
+      <body>Lolz I hope I'll be there by then. Also I haven't eaten yet today spook hungry</body>
+    </message>
+    <message id="m0007" participant="131825" time="2012-01-08 22:36:08 UTC">
+      <body>Haha spook. U didn't eat at all today?!?! Oh man</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-01-08 22:36:46 UTC">
+      <body>Well the flight was at nine!</body>
+    </message>
+    <message id="m0009" participant="131825" time="2012-01-08 22:37:13 UTC">
+      <body>Ahh that sucks</body>
+    </message>
+    <message id="m0010" participant="131825" time="2012-01-09 00:31:49 UTC">
+      <body>Are u close?</body>
+    </message>
+    <message id="m0011" participant="131821" time="2012-01-09 00:37:11 UTC">
+      <body>Kind of I won't make it though</body>
+    </message>
+    <message id="m0012" participant="131825" time="2012-01-09 00:38:23 UTC">
+      <body>Ok well we eating at forbes but let me know if u want me to being u back food or something</body>
+    </message>
+    <message id="m0013" participant="131821" time="2012-01-09 00:39:07 UTC">
+      <body>Oooh! Could you maybe?</body>
+    </message>
+    <message id="m0014" participant="131825" time="2012-01-09 00:39:31 UTC">
+      <body>I'll see what they have at forbes!!</body>
+    </message>
+    <message id="m0015" participant="131821" time="2012-01-09 00:39:44 UTC">
+      <body>Sweet cool I robe you</body>
+    </message>
+    <message id="m0016" participant="131825" time="2012-01-09 00:40:06 UTC">
+      <body>Haha I robe u too</body>
+    </message>
+    <message id="m0017" participant="131825" time="2012-01-09 00:49:06 UTC">
+      <body>I just got to forbe an there is literally no food</body>
+    </message>
+    <message id="m0018" participant="131821" time="2012-01-09 00:51:32 UTC">
+      <body>Whaaaaa?!</body>
+    </message>
+    <message id="m0019" participant="131825" time="2012-01-09 00:54:24 UTC">
+      <body>Out of food</body>
+    </message>
+    <message id="m0020" participant="131825" time="2012-01-09 01:03:55 UTC">
+      <body>Maybe late meal is open tonight?</body>
+    </message>
+    <message id="m0021" participant="131825" time="2012-01-09 01:12:33 UTC">
+      <body>I'll go with u if it is cause I obvi couldn't eat at forbes</body>
+    </message>
+    <message id="m0022" participant="131821" time="2012-01-09 01:36:45 UTC">
+      <body>When you come can you text me and I'll open the door instead of knocking?</body>
+    </message>
+    <message id="m0023" participant="131825" time="2012-01-09 01:37:03 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0024" participant="131825" time="2012-01-09 01:53:29 UTC">
+      <body>Heading over</body>
+    </message>
+    <message id="m0025" participant="131821" time="2012-01-09 01:54:25 UTC">
+      <body>Lemme know when in elevator</body>
+    </message>
+    <message id="m0026" participant="131821" time="2012-01-09 01:54:29 UTC">
+      <body>:-P</body>
+    </message>
+    <message id="m0027" participant="131825" time="2012-01-09 01:55:46 UTC">
+      <body>On elevator!</body>
+    </message>
+    <message id="m0028" participant="131825" time="2012-01-09 17:35:40 UTC">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0029" participant="131821" time="2012-01-09 17:43:04 UTC">
+      <body>I'm eating with class friends, but I'll find you guys when you come, is that cool? Surry</body>
+    </message>
+    <message id="m0030" participant="131825" time="2012-01-09 17:47:54 UTC">
+      <body>Haha no prob!</body>
+    </message>
+    <message id="m0031" participant="131825" time="2012-01-09 21:42:05 UTC">
+      <body>Walk to chapel choir together?</body>
+    </message>
+    <message id="m0032" participant="131821" time="2012-01-09 21:42:28 UTC">
+      <body>Sure now?</body>
+    </message>
+    <message id="m0033" participant="131825" time="2012-01-09 21:43:14 UTC">
+      <body>Whnever ur ready</body>
+    </message>
+    <message id="m0034" participant="131821" time="2012-01-09 21:43:26 UTC">
+      <body>Now!</body>
+    </message>
+    <message id="m0035" participant="131825" time="2012-01-09 21:43:58 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0036" participant="131825" time="2012-01-09 21:47:19 UTC">
+      <body>I'm outside</body>
+    </message>
+    <message id="m0037" participant="131825" time="2012-01-10 00:36:56 UTC">
+      <body>Apparently not many ppl are going out tonight</body>
+    </message>
+    <message id="m0038" participant="131821" time="2012-01-10 02:05:20 UTC">
+      <body>Red white &amp; true blue is actually Wednesday and so is elements next week</body>
+    </message>
+    <message id="m0039" participant="131825" time="2012-01-10 02:09:24 UTC">
+      <body>Ahh ok</body>
+    </message>
+    <message id="m0040" participant="131825" time="2012-01-10 14:56:30 UTC">
+      <body>Hi sry my roommate is still asleep so I have to be quiet what's up?</body>
+    </message>
+    <message id="m0041" participant="131821" time="2012-01-10 14:57:06 UTC">
+      <body>Have you eaten? I'm going now</body>
+    </message>
+    <message id="m0042" participant="131825" time="2012-01-10 14:57:30 UTC">
+      <body>I'll come with! Give me 5 min</body>
+    </message>
+    <message id="m0043" participant="131821" time="2012-01-10 14:58:00 UTC">
+      <body>I'll get a spot in coming from Chinese class</body>
+    </message>
+    <message id="m0045" participant="131825" time="2012-01-10 15:10:32 UTC">
+      <body>
+Ready</body>
+    </message>
+    <message id="m0046" participant="131825" time="2012-01-10 17:14:13 UTC">
+      <body>I'm going to be a teensy bit late</body>
+    </message>
+    <message id="m0047" participant="131821" time="2012-01-10 17:17:46 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0048" participant="131821" time="2012-01-10 17:17:50 UTC">
+      <body>*NP</body>
+    </message>
+    <message id="m0049" participant="131825" time="2012-01-10 17:18:09 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0050" participant="131825" time="2012-01-10 17:24:30 UTC">
+      <body>I'm walking outside</body>
+    </message>
+    <message id="m0051" participant="131825" time="2012-01-11 17:02:46 UTC">
+      <body>I'm not going to go to the review session today caus I need to write a paper</body>
+    </message>
+    <message id="m0052" participant="131821" time="2012-01-11 22:34:54 UTC">
+      <body>Did you eat dinner yet?</body>
+    </message>
+    <message id="m0053" participant="131825" time="2012-01-11 22:43:35 UTC">
+      <body>Just woke up from a nap I'm in whitman with Nitasha</body>
+    </message>
+    <message id="m0054" participant="131821" time="2012-01-12 02:56:55 UTC">
+      <body>Want to go with Alan and Ryan and me</body>
+    </message>
+    <message id="m0055" participant="131825" time="2012-01-12 02:57:23 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0056" participant="131821" time="2012-01-12 02:58:02 UTC">
+      <body>We're meeting in front of your/Alan's building at 10:57</body>
+    </message>
+    <message id="m0057" participant="131825" time="2012-01-12 02:58:37 UTC">
+      <body>Haha ok!</body>
+    </message>
+    <message id="m0058" participant="131825" time="2012-01-12 03:52:39 UTC">
+      <body>Let me know when ur going outside</body>
+    </message>
+    <message id="m0059" participant="131821" time="2012-01-12 03:53:37 UTC">
+      <body>Now?</body>
+    </message>
+    <message id="m0060" participant="131825" time="2012-01-12 03:53:58 UTC">
+      <body> u r?</body>
+    </message>
+    <message id="m0061" participant="131821" time="2012-01-12 03:55:02 UTC">
+      <body>Going down stairs now</body>
+    </message>
+    <message id="m0062" participant="131825" time="2012-01-12 03:55:31 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0063" participant="131821" time="2012-01-12 03:56:33 UTC">
+      <body>Going back to get umbrella</body>
+    </message>
+    <message id="m0064" participant="131821" time="2012-01-12 03:59:31 UTC">
+      <body>Are you coming?!?</body>
+    </message>
+    <message id="m0065" participant="131825" time="2012-01-12 04:00:09 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0066" participant="131825" time="2012-01-12 15:41:27 UTC">
+      <body>Want to get lunch at 11 50 before the review session?</body>
+    </message>
+    <message id="m0067" participant="131821" time="2012-01-12 15:41:47 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0068" participant="131825" time="2012-01-12 15:42:03 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0069" participant="131825" time="2012-01-12 15:58:45 UTC">
+      <body>Want to do the problem set today at like 3? I have to to to a meeting at 1 30 and then meet u after if that works</body>
+    </message>
+    <message id="m0070" participant="131821" time="2012-01-12 18:59:34 UTC">
+      <body>Wait I'm sorry I just remembered I have rehearsal for Ryan's class 3-4:30</body>
+    </message>
+    <message id="m0071" participant="131825" time="2012-01-12 20:56:53 UTC">
+      <body>Haha no problem we can do it after chapel choir rehearsal</body>
+    </message>
+    <message id="m0072" participant="131825" time="2012-01-13 16:24:21 UTC">
+      <body>Wanna grab a quick lunch at 12?</body>
+    </message>
+    <message id="m0073" participant="131821" time="2012-01-13 16:24:45 UTC">
+      <body>I actually just ate :-(</body>
+    </message>
+    <message id="m0074" participant="131821" time="2012-01-13 16:25:04 UTC">
+      <body>Also, depending in chance I might be late</body>
+    </message>
+    <message id="m0075" participant="131825" time="2012-01-13 16:25:36 UTC">
+      <body>K just let meknow when ur ready to go</body>
+    </message>
+    <message id="m0076" participant="131821" time="2012-01-13 16:34:29 UTC">
+      <body>No you go on time I don't want you to be late itcould be like 15 min</body>
+    </message>
+    <message id="m0077" participant="131825" time="2012-01-13 17:08:59 UTC">
+      <body>No it's ok I actually don't think I'm going to go but I'll go before 5 to drop off the problem seta</body>
+    </message>
+    <message id="m0078" participant="131825" time="2012-01-13 17:46:49 UTC">
+      <body>Who is your TA</body>
+    </message>
+    <message id="m0079" participant="131821" time="2012-01-13 17:49:11 UTC">
+      <body>Jason</body>
+    </message>
+    <message id="m0080" participant="131825" time="2012-01-13 17:49:27 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0081" participant="131821" time="2012-01-13 18:00:36 UTC">
+      <body>Should I come now? Is it worth it?</body>
+    </message>
+    <message id="m0082" participant="131825" time="2012-01-13 18:01:57 UTC">
+      <body>I'm not there</body>
+    </message>
+    <message id="m0083" participant="131825" time="2012-01-14 16:29:54 UTC">
+      <body>Maura and I are getting brunch if y'all  want to join</body>
+    </message>
+    <message id="m0084" participant="131821" time="2012-01-14 16:40:49 UTC">
+      <body>Cool!</body>
+    </message>
+    <message id="m0085" participant="131825" time="2012-01-14 22:26:14 UTC">
+      <body>Dinner?</body>
+    </message>
+    <message id="m0086" participant="131821" time="2012-01-14 22:28:40 UTC">
+      <body>You bet</body>
+    </message>
+    <message id="m0087" participant="131825" time="2012-01-14 22:29:38 UTC">
+      <body>When?</body>
+    </message>
+    <message id="m0088" participant="131821" time="2012-01-14 22:31:45 UTC">
+      <body>In five?</body>
+    </message>
+    <message id="m0089" participant="131825" time="2012-01-14 22:32:23 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0090" participant="131825" time="2012-01-15 14:27:17 UTC">
+      <body>Almost ready?</body>
+    </message>
+    <message id="m0091" participant="131821" time="2012-01-15 14:35:32 UTC">
+      <body>Sorry was in shower</body>
+    </message>
+    <message id="m0092" participant="131825" time="2012-01-15 14:40:24 UTC">
+      <body>Np sorry I left I thought maybe u weren't coming</body>
+    </message>
+    <message id="m0093" participant="131821" time="2012-01-15 14:40:35 UTC">
+      <body>Cool see you soon</body>
+    </message>
+    <message id="m0094" participant="131825" time="2012-01-15 17:55:07 UTC">
+      <body>Ahhh I have your program</body>
+    </message>
+    <message id="m0095" participant="131821" time="2012-01-15 17:55:35 UTC">
+      <body>Lolz whatever I'll get it later</body>
+    </message>
+    <message id="m0096" participant="131825" time="2012-01-16 15:03:53 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0097" participant="131821" time="2012-01-16 15:46:50 UTC">
+      <body>Hahaha sorry taking Advantage of my one sleepin day</body>
+    </message>
+    <message id="m0098" participant="131825" time="2012-01-16 15:47:15 UTC">
+      <body>Haha goof night of sleep?</body>
+    </message>
+    <message id="m0099" participant="131821" time="2012-01-16 15:47:48 UTC">
+      <body>Decent</body>
+    </message>
+    <message id="m0100" participant="131821" time="2012-01-16 16:16:24 UTC">
+      <body>Web are you having lunch</body>
+    </message>
+    <message id="m0101" participant="131825" time="2012-01-16 16:16:50 UTC">
+      <body>Haha dunno we just ate breakfast!</body>
+    </message>
+    <message id="m0102" participant="131825" time="2012-01-17 16:12:11 UTC">
+      <body>Quick lunch at noon? Ahhh deans date!</body>
+    </message>
+    <message id="m0103" participant="131821" time="2012-01-17 16:12:31 UTC">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0104" participant="131825" time="2012-01-17 16:13:35 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0105" participant="131821" time="2012-01-17 16:54:26 UTC">
+      <body>Can we make it 12:30? :-P</body>
+    </message>
+    <message id="m0106" participant="131825" time="2012-01-17 16:57:53 UTC">
+      <body>Haha sure</body>
+    </message>
+    <message id="m0107" participant="131825" time="2012-01-17 17:20:25 UTC">
+      <body>Meet out front when ur ready?</body>
+    </message>
+    <message id="m0108" participant="131821" time="2012-01-17 17:24:04 UTC">
+      <body>Okay be there in five</body>
+    </message>
+    <message id="m0109" participant="131825" time="2012-01-17 17:24:22 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0110" participant="131825" time="2012-01-17 17:30:31 UTC">
+      <body>Readyyy</body>
+    </message>
+    <message id="m0111" participant="131821" time="2012-01-17 21:27:55 UTC">
+      <body>Are you going to get free stuff?</body>
+    </message>
+    <message id="m0112" participant="131825" time="2012-01-17 21:39:35 UTC">
+      <body>Where</body>
+    </message>
+    <message id="m0113" participant="131821" time="2012-01-17 21:40:05 UTC">
+      <body>By re chapel</body>
+    </message>
+    <message id="m0114" participant="131825" time="2012-01-17 21:41:45 UTC">
+      <body>Are u?</body>
+    </message>
+    <message id="m0115" participant="131821" time="2012-01-17 21:42:20 UTC">
+      <body>I want to if someone will o it's at 4:45</body>
+    </message>
+    <message id="m0116" participant="131825" time="2012-01-17 21:43:00 UTC">
+      <body>K let's go now?</body>
+    </message>
+    <message id="m0117" participant="131821" time="2012-01-17 21:43:35 UTC">
+      <body>Yayy</body>
+    </message>
+    <message id="m0118" participant="131825" time="2012-01-17 21:47:14 UTC">
+      <body>Coming</body>
+    </message>
+    <message id="m0119" participant="131825" time="2012-01-17 22:57:54 UTC">
+      <body>Ready?</body>
+    </message>
+    <message id="m0120" participant="131821" time="2012-01-17 22:58:17 UTC">
+      <body>Yeah I'll comedown now</body>
+    </message>
+    <message id="m0121" participant="131825" time="2012-01-17 22:58:54 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0122" participant="131821" time="2012-01-17 23:01:01 UTC">
+      <body>Are you coming?</body>
+    </message>
+    <message id="m0123" participant="131825" time="2012-01-17 23:01:20 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0124" participant="131821" time="2012-01-17 23:01:34 UTC">
+      <body>Same here</body>
+    </message>
+    <message id="m0125" participant="131825" time="2012-01-18 04:29:31 UTC">
+      <body>Ur computer charger is here</body>
+    </message>
+    <message id="m0126" participant="131821" time="2012-01-18 05:04:13 UTC">
+      <body>Can you take it</body>
+    </message>
+    <message id="m0127" participant="131825" time="2012-01-18 05:04:34 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0128" participant="131821" time="2012-01-18 05:04:50 UTC">
+      <body>Yay I heart thee</body>
+    </message>
+    <message id="m0129" participant="131825" time="2012-01-18 06:11:43 UTC">
+      <body>Haha no problem!</body>
+    </message>
+    <message id="m0130" participant="131825" time="2012-01-18 15:25:28 UTC">
+      <body>Maura and I are getting breakfast now if u want to join</body>
+    </message>
+    <message id="m0131" participant="131821" time="2012-01-18 16:27:51 UTC">
+      <body>Teehee</body>
+    </message>
+    <message id="m0132" participant="131825" time="2012-01-18 16:28:15 UTC">
+      <body>Good morning sunshine!</body>
+    </message>
+    <message id="m0133" participant="131825" time="2012-01-18 18:45:51 UTC">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0134" participant="131821" time="2012-01-18 18:46:14 UTC">
+      <body>I'm at practice--Ryan also is going no wish ask</body>
+    </message>
+    <message id="m0135" participant="131825" time="2012-01-18 18:47:04 UTC">
+      <body>What?</body>
+    </message>
+    <message id="m0136" participant="131825" time="2012-01-18 18:47:23 UTC">
+      <body>Ryan is with us...</body>
+    </message>
+    <message id="m0137" participant="131821" time="2012-01-18 18:47:43 UTC">
+      <body>Uh okay</body>
+    </message>
+    <message id="m0138" participant="131825" time="2012-01-18 18:48:20 UTC">
+      <body>I confused</body>
+    </message>
+    <message id="m0139" participant="131821" time="2012-01-18 18:48:35 UTC">
+      <body>So am I</body>
+    </message>
+    <message id="m0140" participant="131825" time="2012-01-18 18:49:03 UTC">
+      <body>Is Ryan supposed to be with u?</body>
+    </message>
+    <message id="m0141" participant="131821" time="2012-01-18 18:50:07 UTC">
+      <body>No. I'm at Mock Trial. Ryan said he was eating lunch so I was tellin you you should eat juntas</body>
+    </message>
+    <message id="m0142" participant="131821" time="2012-01-18 18:50:14 UTC">
+      <body>*juntos</body>
+    </message>
+    <message id="m0143" participant="131825" time="2012-01-18 18:50:27 UTC">
+      <body>Ohhhhh ok</body>
+    </message>
+    <message id="m0144" participant="131821" time="2012-01-18 18:53:05 UTC">
+      <body>&lt;3</body>
+    </message>
+    <message id="m0145" participant="131825" time="2012-01-18 18:53:30 UTC">
+      <body>&lt;3</body>
+    </message>
+    <message id="m0146" participant="131821" time="2012-01-18 20:35:43 UTC">
+      <body>How many practice tests are there</body>
+    </message>
+    <message id="m0147" participant="131825" time="2012-01-19 13:33:00 UTC">
+      <body>Ready?</body>
+    </message>
+    <message id="m0148" participant="131821" time="2012-01-19 13:33:03 UTC">
+      <body>Ready?</body>
+    </message>
+    <message id="m0149" participant="131821" time="2012-01-19 13:33:07 UTC">
+      <body>Jahahaha</body>
+    </message>
+    <message id="m0150" participant="131821" time="2012-01-19 13:38:40 UTC">
+      <body>Are you downstairs?</body>
+    </message>
+    <message id="m0151" participant="131825" time="2012-01-19 13:39:03 UTC">
+      <body>About to walk down</body>
+    </message>
+    <message id="m0152" participant="131821" time="2012-01-19 13:39:24 UTC">
+      <body>Cool lemme know so I don't go out into cold</body>
+    </message>
+    <message id="m0153" participant="131825" time="2012-01-19 13:42:28 UTC">
+      <body>I'm on the stairs</body>
+    </message>
+    <message id="m0154" participant="131825" time="2012-01-19 17:12:27 UTC">
+      <body>Let's eat!</body>
+    </message>
+    <message id="m0155" participant="131825" time="2012-01-19 17:23:27 UTC">
+      <body>I'm outside</body>
+    </message>
+    <message id="m0156" participant="131821" time="2012-01-19 17:24:23 UTC">
+      <body>No you're not</body>
+    </message>
+    <message id="m0157" participant="131825" time="2012-01-19 17:25:08 UTC">
+      <body>Haha what yes I am!</body>
+    </message>
+    <message id="m0158" participant="131821" time="2012-01-20 16:56:42 UTC">
+      <body>Lunch at 12:30?</body>
+    </message>
+    <message id="m0159" participant="131825" time="2012-01-20 16:56:51 UTC">
+      <body>Good luck on your exam today!</body>
+    </message>
+    <message id="m0160" participant="131825" time="2012-01-20 16:57:03 UTC">
+      <body>Haha woah same time!!!</body>
+    </message>
+    <message id="m0161" participant="131825" time="2012-01-20 16:57:16 UTC">
+      <body>But yes 12 30 is good</body>
+    </message>
+    <message id="m0162" participant="131821" time="2012-01-20 16:57:27 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0163" participant="131825" time="2012-01-20 16:57:58 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0164" participant="131825" time="2012-01-20 17:28:56 UTC">
+      <body>Ready?</body>
+    </message>
+    <message id="m0165" participant="131821" time="2012-01-20 17:29:12 UTC">
+      <body>Okay coming down</body>
+    </message>
+    <message id="m0166" participant="131825" time="2012-01-20 17:29:25 UTC">
+      <body>K me too</body>
+    </message>
+    <message id="m0167" participant="131825" time="2012-01-20 22:08:12 UTC">
+      <body>Dinner at 6?</body>
+    </message>
+    <message id="m0168" participant="131821" time="2012-01-20 22:23:52 UTC">
+      <body>Come to tower and have Alex guest you</body>
+    </message>
+    <message id="m0169" participant="131825" time="2012-01-20 22:25:02 UTC">
+      <body>
+Ahhh I already agreed to meet Maura and Alan for dinner</body>
+    </message>
+    <message id="m0170" participant="131821" time="2012-01-20 22:30:02 UTC">
+      <body>Maura? How dare she</body>
+    </message>
+    <message id="m0171" participant="131825" time="2012-01-20 22:30:22 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0172" participant="131821" time="2012-01-20 22:30:47 UTC">
+      <body>She told me she wasn't leaving Forbes tidy ask her about it</body>
+    </message>
+    <message id="m0173" participant="131825" time="2012-01-20 22:31:29 UTC">
+      <body>He hasn't today until I persuaded her to come to dinner and then watch alias after rehearsal at 7 :)</body>
+    </message>
+    <message id="m0174" participant="131825" time="2012-01-21 14:47:43 UTC">
+      <body>SNOW SNOW SNOW!!!!</body>
+    </message>
+    <message id="m0175" participant="131821" time="2012-01-21 14:48:01 UTC">
+      <body>I know, right?</body>
+    </message>
+    <message id="m0176" participant="131825" time="2012-01-21 14:48:30 UTC">
+      <body>Yayyyyyo</body>
+    </message>
+    <message id="m0177" participant="131825" time="2012-01-21 17:16:00 UTC">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0178" participant="131821" time="2012-01-21 17:21:02 UTC">
+      <body> I donnnoooo if I have time</body>
+    </message>
+    <message id="m0179" participant="131825" time="2012-01-21 18:17:59 UTC">
+      <body>Time for what?</body>
+    </message>
+    <message id="m0180" participant="131821" time="2012-01-21 21:20:22 UTC">
+      <body>Uh to wear lunch?</body>
+    </message>
+    <message id="m0181" participant="131821" time="2012-01-21 21:20:25 UTC">
+      <body>*eat</body>
+    </message>
+    <message id="m0182" participant="131825" time="2012-01-21 21:32:33 UTC">
+      <body>Lol sry read that out of context</body>
+    </message>
+    <message id="m0183" participant="131821" time="2012-01-21 22:00:16 UTC">
+      <body>So when are you getting dinner</body>
+    </message>
+    <message id="m0184" participant="131825" time="2012-01-21 22:02:18 UTC">
+      <body>6 30?</body>
+    </message>
+    <message id="m0185" participant="131821" time="2012-01-21 22:02:43 UTC">
+      <body>May I come?</body>
+    </message>
+    <message id="m0186" participant="131825" time="2012-01-21 22:03:07 UTC">
+      <body>But of course!</body>
+    </message>
+    <message id="m0187" participant="131821" time="2012-01-21 22:03:39 UTC">
+      <body>Fabulous</body>
+    </message>
+    <message id="m0188" participant="131825" time="2012-01-21 22:04:05 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0189" participant="131825" time="2012-01-21 23:26:24 UTC">
+      <body>Let me know when ur walking to dinner?</body>
+    </message>
+    <message id="m0190" participant="131821" time="2012-01-21 23:26:54 UTC">
+      <body>I'm already here in Wu</body>
+    </message>
+    <message id="m0191" participant="131825" time="2012-01-21 23:27:16 UTC">
+      <body>For dinner?</body>
+    </message>
+    <message id="m0192" participant="131821" time="2012-01-21 23:30:59 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0193" participant="131821" time="2012-01-21 23:31:04 UTC">
+      <body>Come now</body>
+    </message>
+    <message id="m0194" participant="131825" time="2012-01-21 23:31:20 UTC">
+      <body>K we r walking over</body>
+    </message>
+    <message id="m0195" participant="131821" time="2012-01-21 23:31:47 UTC">
+      <body>Don't walk; run!</body>
+    </message>
+    <message id="m0196" participant="131821" time="2012-01-22 03:31:27 UTC">
+      <body>What's the plan</body>
+    </message>
+    <message id="m0197" participant="131825" time="2012-01-22 03:34:29 UTC">
+      <body>I'm going to tower around 11 30</body>
+    </message>
+    <message id="m0198" participant="131825" time="2012-01-22 04:10:21 UTC">
+      <body>Wait what? I'm in Alex's room</body>
+    </message>
+    <message id="m0199" participant="131821" time="2012-01-22 04:10:31 UTC">
+      <body>What??</body>
+    </message>
+    <message id="m0200" participant="131825" time="2012-01-22 04:10:59 UTC">
+      <body>I haven't been in my room since 9</body>
+    </message>
+    <message id="m0201" participant="131825" time="2012-01-22 04:11:14 UTC">
+      <body>Why were we meeting in my room?</body>
+    </message>
+    <message id="m0202" participant="131825" time="2012-01-22 04:13:05 UTC">
+      <body>I'm so confused</body>
+    </message>
+    <message id="m0203" participant="131821" time="2012-01-22 04:13:15 UTC">
+      <body>Wow</body>
+    </message>
+    <message id="m0204" participant="131825" time="2012-01-22 04:13:36 UTC">
+      <body>I didn't know we were supposed to meet in my room</body>
+    </message>
+    <message id="m0205" participant="131821" time="2012-01-22 04:13:43 UTC">
+      <body>I did</body>
+    </message>
+    <message id="m0206" participant="131825" time="2012-01-22 04:13:53 UTC">
+      <body>U just asked me what I was doing!</body>
+    </message>
+    <message id="m0207" participant="131821" time="2012-01-22 04:14:18 UTC">
+      <body>Lolz no</body>
+    </message>
+    <message id="m0208" participant="131821" time="2012-01-22 04:14:23 UTC">
+      <body>* no</body>
+    </message>
+    <message id="m0209" participant="131821" time="2012-01-22 04:14:27 UTC">
+      <body>*np</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-16 20:48:41 UTC">
+      <body>hey.
+ordered the dvd.
+kickstarter only gives money if the full amount is reached - and the full amount is taxable!</body>
+    </message>
+    <message id="m0001" participant="131364" time="2013-04-16 22:33:04 UTC">
+      <body>So do the people who donate get all the money back if it doesn't get reached or does kick starter keep it </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-16 22:35:54 UTC">
+      <body>yeah - they get it back.</body>
+    </message>
+    <message id="m0003" participant="131364" time="2013-04-16 23:06:37 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

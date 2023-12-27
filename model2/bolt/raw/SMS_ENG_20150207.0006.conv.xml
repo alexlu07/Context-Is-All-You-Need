@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150207.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-07 21:20:00 UTC" participant="152428">
+      <body>When r your spring breaks?  R u booked?</body>
+    </message>
+    <message id="m0001" time="2015-02-07 22:32:32 UTC" participant="152428">
+      <body>I'm looking to go back out west to ski mar 18</body>
+    </message>
+    <message id="m0002" time="2015-02-07 23:55:44 UTC" participant="152428">
+      <body>I have a tax document and a catalog for u at the joust</body>
+    </message>
+    <message id="m0003" time="2015-02-07 23:55:44 UTC" participant="152428">
+      <body>House</body>
+    </message>
+    <message id="m0004" time="2015-02-08 00:00:34 UTC" participant="152417">
+      <body>K, thanks.  Who's the tax doc from?</body>
+    </message>
+    <message id="m0005" time="2015-02-08 00:25:22 UTC" participant="152428">
+      <body>Fidelity.  College account.  Don't know if it has any tax consequences</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130922.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-22 13:17:17 UTC" participant="152419">
+      <body>Hey friend, what's your schedule for the day? Ben still hasn't shown up here and I'm supposed to meet his girlfriend this weekend. I wish he hadn't bailed yesterday! I'm still good to come to providence, though!</body>
+    </message>
+    <message id="m0001" time="2013-09-22 13:19:40 UTC" participant="152417">
+      <body>Im done at the doc's by noonish, &amp; my mom is arriving by train to westerly  at 352 thats all i got</body>
+    </message>
+    <message id="m0002" time="2013-09-22 15:52:44 UTC" participant="152417">
+      <body>Ill be waiting at Pastiche Fine Desserts, 92 spruce st</body>
+    </message>
+    <message id="m0003" time="2013-09-22 15:53:33 UTC" participant="152419">
+      <body>Yay! Ben just walked in, leaving in 5! </body>
+    </message>
+  </messages>
+</conversation>
+

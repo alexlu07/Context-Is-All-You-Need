@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 17:18:11 UTC" participant="153848">
+      <body>You wanna go somewhere for lunch then? Or meet in the Tisch lounge? </body>
+    </message>
+    <message id="m0001" time="2015-02-02 17:18:21 UTC" participant="153871">
+      <body>Just got out </body>
+    </message>
+    <message id="m0002" time="2015-02-02 17:18:56 UTC" participant="153871">
+      <body>I'm heading to the lobby </body>
+    </message>
+    <message id="m0003" time="2015-02-02 17:18:56 UTC" participant="153871">
+      <body>Wear art thou </body>
+    </message>
+    <message id="m0004" time="2015-02-02 17:19:24 UTC" participant="153848">
+      <body>Meet u there!</body>
+    </message>
+  </messages>
+</conversation>
+

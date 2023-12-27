@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121014.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-10-14 01:59:27 UTC">
+      <body>Ok!  Where?</body>
+    </message>
+    <message id="m0001" participant="136725" time="2012-10-14 02:00:34 UTC">
+      <body>Linvilla orchards! </body>
+    </message>
+    <message id="m0002" participant="131015" time="2012-10-14 02:09:38 UTC">
+      <body>Sweet.   I don't know where that is but I'm stoked regardless. </body>
+    </message>
+    <message id="m0003" participant="136725" time="2012-10-14 02:10:44 UTC">
+      <body>Yay! Text you when we wake up. Sunday funday!</body>
+    </message>
+    <message id="m0004" participant="131015" time="2012-10-14 02:11:33 UTC">
+      <body>Sounds good.</body>
+    </message>
+    <message id="m0005" participant="136725" time="2012-10-14 16:16:29 UTC">
+      <body>Ready to go soon?</body>
+    </message>
+    <message id="m0006" participant="136725" time="2012-10-14 20:36:37 UTC">
+      <body>Meet us by the pumpkins!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 22:47:47 UTC" participant="153548">
+      <body>Do you want to get PANCAKES?</body>
+    </message>
+    <message id="m0001" time="2014-04-02 23:00:40 UTC" participant="153669">
+      <body>Hell yeah</body>
+    </message>
+    <message id="m0002" time="2014-04-02 23:01:03 UTC" participant="153548">
+      <body>Sweet! I'm just in the office writing a care report</body>
+    </message>
+    <message id="m0003" time="2014-04-03 00:42:40 UTC" participant="153669">
+      <body>Ha, just walked past pete on my way to the train and he gave A funny look.  Whoops.</body>
+    </message>
+    <message id="m0004" time="2014-04-03 00:43:56 UTC" participant="153548">
+      <body>Oh jeez!!! I bet he saw us tucking it up at IHOP too</body>
+    </message>
+    <message id="m0005" time="2014-04-03 00:44:37 UTC" participant="153548">
+      <body>*yucking</body>
+    </message>
+    <message id="m0006" time="2014-04-03 00:45:03 UTC" participant="153548">
+      <body>What is he doing there so late?! We should invite him for pancakes. </body>
+    </message>
+    <message id="m0007" time="2014-04-03 00:55:28 UTC" participant="153669">
+      <body>Haha.  He was in the office when i came back at 8 and he left, going passed my empty room, then i saw him at the bus stop 45 minutes later.  Doh!</body>
+    </message>
+  </messages>
+</conversation>
+

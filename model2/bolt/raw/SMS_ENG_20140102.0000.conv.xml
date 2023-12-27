@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140102.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-02 17:14:40 UTC" participant="149387">
+      <body>Hi! I didn't get a chance to wish you a Happy New Year. Hope you had fun whatever you got up to:-)</body>
+    </message>
+    <message id="m0001" time="2014-01-02 17:16:02 UTC" participant="149306">
+      <body>Ha! Thanks! You too! I worked till 11 and then went to bed! </body>
+    </message>
+    <message id="m0002" time="2014-01-02 17:16:48 UTC" participant="149387">
+      <body>You're a wild man! Well, at least you're makin some money. I've been working like a dog too. Heading to Woodstock on Monday and then NYC. Looking forward to getting away:-)</body>
+    </message>
+    <message id="m0003" time="2014-01-02 17:18:56 UTC" participant="149387">
+      <body>Hoping for heavy snow. We'll see...</body>
+    </message>
+    <message id="m0004" time="2014-01-02 17:20:07 UTC" participant="149306">
+      <body>Nice</body>
+    </message>
+    <message id="m0005" time="2014-01-02 17:24:07 UTC" participant="149387">
+      <body>I'm working Brunch bar this Sat. You should come visit me for a Bloody Mary and I'll pay you too for the Zoe walks.</body>
+    </message>
+    <message id="m0006" time="2014-01-02 17:26:54 UTC" participant="149306">
+      <body>Thanks but I'm gona be out of town, next week though</body>
+    </message>
+    <message id="m0007" time="2014-01-02 17:28:20 UTC" participant="149387">
+      <body>Ok, I'll be back from NY next Sat, Jan 11th. </body>
+    </message>
+  </messages>
+</conversation>
+

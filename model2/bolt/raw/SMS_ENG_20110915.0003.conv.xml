@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110915.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-09-15 23:44:48 UTC">
+      <body>Dude, you have a cookie sheet?</body>
+    </message>
+    <message id="m0001" participant="131827" time="2011-09-16 00:27:32 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-09-16 00:28:17 UTC">
+      <body>That's great news</body>
+    </message>
+  </messages>
+</conversation>

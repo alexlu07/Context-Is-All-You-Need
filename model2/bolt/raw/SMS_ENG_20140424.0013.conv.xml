@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140424.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-24 22:45:12 UTC" participant="153641">
+      <body>We carpooling tmw? Iffn so, what time u rolling by?</body>
+    </message>
+    <message id="m0001" time="2014-04-25 00:01:51 UTC" participant="153548">
+      <body>Yes!! I'll be by at 7:45! </body>
+    </message>
+    <message id="m0002" time="2014-04-25 00:02:00 UTC" participant="153548">
+      <body>See you then dude!</body>
+    </message>
+    <message id="m0003" time="2014-04-25 00:02:50 UTC" participant="153641">
+      <body>Poifect. Don t forget to charge the camera and bring the cards. See u early</body>
+    </message>
+    <message id="m0004" time="2014-04-25 00:03:19 UTC" participant="153548">
+      <body>Will do!!!</body>
+    </message>
+    <message id="m0005" time="2014-04-25 11:44:28 UTC" participant="153548">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>
+

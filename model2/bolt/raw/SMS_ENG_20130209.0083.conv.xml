@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-09 20:25:52 UTC" participant="153443">
+      <body>Hello! Im in starbucks in upenn. Can we meet here? The place I, you, and your friend hung out a couple weeks ago before we went to eat ramen!</body>
+    </message>
+    <message id="m0001" time="2013-02-09 20:26:32 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+    <message id="m0002" time="2013-02-10 07:38:38 UTC" participant="153418">
+      <body>Hey, no problem. Yes, I got home safetly. Good night :p</body>
+    </message>
+  </messages>
+</conversation>
+

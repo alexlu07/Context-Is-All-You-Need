@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121014.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-14 00:57:30 UTC" participant="152734">
+      <body> At young Augustine, come by if you want! </body>
+    </message>
+    <message id="m0001" time="2012-10-14 15:58:34 UTC" participant="152734">
+      <body>Hey, could we stop by in a minute to say hi to Buddha?</body>
+    </message>
+    <message id="m0002" time="2012-10-14 15:59:01 UTC" participant="153293">
+      <body>Yeah, sure thing!</body>
+    </message>
+  </messages>
+</conversation>
+

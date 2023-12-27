@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121024.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136272" time="2012-10-24 22:01:26 UTC">
+      <body>Hey you want to tiger dinner?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-24 22:24:50 UTC">
+      <body>Sorry I already ate</body>
+    </message>
+  </messages>
+</conversation>

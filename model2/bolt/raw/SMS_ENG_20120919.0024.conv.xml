@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120919.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-19 14:59:27 UTC" participant="152426">
+      <body>Did you get your new phone?</body>
+    </message>
+    <message id="m0001" time="2012-09-19 17:26:24 UTC" participant="152417">
+      <body> Yep, i decided to spend a little bit to get the 4s model cuz its faster n has more memory, love it</body>
+    </message>
+    <message id="m0002" time="2012-09-19 17:58:21 UTC" participant="152426">
+      <body>Great! I'm happy for you</body>
+    </message>
+  </messages>
+</conversation>
+

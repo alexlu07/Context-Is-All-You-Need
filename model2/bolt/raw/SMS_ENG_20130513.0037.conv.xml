@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135436" time="2013-05-13 22:45:20 UTC">
+      <body>Ready?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-13 22:50:13 UTC">
+      <body>Coming </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-14 11:22:13 UTC">
+      <body>Text me the location and time of your crit I'm going to try to come</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-14 11:22:32 UTC">
+      <body>No promises</body>
+    </message>
+    <message id="m0004" participant="135436" time="2013-05-14 12:43:44 UTC">
+      <body>1:00 N181. Hope I see you there!</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-14 12:56:08 UTC">
+      <body>Me too</body>
+    </message>
+  </messages>
+</conversation>

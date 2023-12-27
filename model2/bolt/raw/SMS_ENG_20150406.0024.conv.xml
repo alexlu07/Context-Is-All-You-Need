@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150406.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-06 16:30:12 UTC" participant="153848">
+      <body>Are you free Thursday to record audio? </body>
+    </message>
+    <message id="m0001" time="2015-04-06 16:30:24 UTC" participant="153848">
+      <body>For my studio final? </body>
+    </message>
+    <message id="m0002" time="2015-04-06 16:30:56 UTC" participant="153864">
+      <body>What time? I fly out to Virginia Thursday </body>
+    </message>
+    <message id="m0003" time="2015-04-06 16:31:09 UTC" participant="153848">
+      <body>Oh shit 5-6?</body>
+    </message>
+    <message id="m0004" time="2015-04-06 16:31:24 UTC" participant="153864">
+      <body>Yea that's fine! </body>
+    </message>
+    <message id="m0005" time="2015-04-06 16:31:28 UTC" participant="153864">
+      <body>Lemme ask David </body>
+    </message>
+    <message id="m0006" time="2015-04-06 16:35:41 UTC" participant="153848">
+      <body>Awesome I have sheet music I can send you guys</body>
+    </message>
+    <message id="m0007" time="2015-04-06 16:38:17 UTC" participant="153864">
+      <body>Perf.</body>
+    </message>
+  </messages>
+</conversation>
+

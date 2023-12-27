@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140729.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-29 13:00:14 UTC" participant="152734">
+      <body>Hey, if you're free/feeling arty after work Friday - Richard's in a show in a gallery in old city &amp; the opening is that evening.</body>
+    </message>
+    <message id="m0001" time="2014-07-29 13:00:48 UTC" participant="153286">
+      <body>Neat I'm probably in</body>
+    </message>
+    <message id="m0002" time="2014-07-29 13:02:57 UTC" participant="152734">
+      <body>Cool! I'm fuzzy on the address/time/etc but I'll let you know</body>
+    </message>
+  </messages>
+</conversation>
+

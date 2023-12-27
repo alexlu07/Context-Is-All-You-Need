@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121221.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-12-21 12:44:02 UTC">
+      <body>Good morning. Are you done? I hope so. </body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-12-21 14:09:52 UTC">
+      <body>On my way to my last final!</body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-12-21 14:10:30 UTC">
+      <body/>
+    </message>
+    <message id="m0003" participant="130664" time="2012-12-21 14:12:26 UTC">
+      <body>Thanks! How are u?</body>
+    </message>
+  </messages>
+</conversation>

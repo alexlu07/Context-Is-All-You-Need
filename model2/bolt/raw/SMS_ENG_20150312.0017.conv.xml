@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 21:40:58 UTC" participant="152793">
+      <body>Hey would you want to meet up tonight? I'm not sure how free I am this weekend so tonight would be the best</body>
+    </message>
+    <message id="m0001" time="2015-03-12 22:16:51 UTC" participant="152735">
+      <body>I can't bc I have second Thursday at the crane reception </body>
+    </message>
+    <message id="m0002" time="2015-03-12 22:16:59 UTC" participant="152735">
+      <body>Next week is fine. No rush!</body>
+    </message>
+    <message id="m0003" time="2015-03-12 22:17:36 UTC" participant="152793">
+      <body>Oh cool! Alright np </body>
+    </message>
+  </messages>
+</conversation>
+

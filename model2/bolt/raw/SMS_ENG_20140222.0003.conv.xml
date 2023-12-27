@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140222.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-22 20:59:26 UTC" participant="153557">
+      <body>Heading home. Need anything from the co op?</body>
+    </message>
+    <message id="m0001" time="2014-02-22 20:59:56 UTC" participant="153547">
+      <body>I don't think so </body>
+    </message>
+  </messages>
+</conversation>
+

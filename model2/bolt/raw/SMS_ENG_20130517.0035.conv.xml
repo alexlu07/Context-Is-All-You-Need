@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-17 14:47:12 UTC">
+      <body>Heya, my guitar is in the shop. Mind if I practice on the Tele. guitar that's at the space?</body>
+    </message>
+    <message id="m0001" participant="130907" time="2013-05-17 15:26:39 UTC">
+      <body>The blue one?</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-17 15:28:49 UTC">
+      <body>The natural wood one</body>
+    </message>
+    <message id="m0003" participant="130907" time="2013-05-17 15:56:51 UTC">
+      <body>Nah, that dom's. I'd rather not say yes. Sorry man.</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-05-17 15:57:49 UTC">
+      <body>No worries. Geetars is special. ;)</body>
+    </message>
+  </messages>
+</conversation>

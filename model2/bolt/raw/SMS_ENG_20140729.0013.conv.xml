@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140729.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-29 19:28:23 UTC" participant="153491">
+      <body>Happy Belated Birthday!</body>
+    </message>
+    <message id="m0001" time="2014-07-29 21:11:50 UTC" participant="154993">
+      <body>Thank you!  Uyen says she wants to celebrate when I gey back</body>
+    </message>
+    <message id="m0002" time="2014-07-29 23:26:17 UTC" participant="153491">
+      <body>Yes! We should. Are you not in Philly?</body>
+    </message>
+    <message id="m0003" time="2014-07-29 23:35:30 UTC" participant="154993">
+      <body>In Maryland. Been hanging out with friends since Sunday night</body>
+    </message>
+    <message id="m0004" time="2014-07-30 18:34:52 UTC" participant="153491">
+      <body>Oh cool. Sounds like a good birthday. Have fun and see you when you're back in Philly.</body>
+    </message>
+    <message id="m0005" time="2014-07-30 18:40:25 UTC" participant="154993">
+      <body>Thanks. ill let you know!</body>
+    </message>
+  </messages>
+</conversation>
+

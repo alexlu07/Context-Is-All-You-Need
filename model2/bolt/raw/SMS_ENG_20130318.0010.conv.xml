@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130988" time="2013-03-18 19:37:18 UTC">
+      <body>Michal is in labor and I am flying out tomorrow!  Call me tonight</body>
+    </message>
+    <message id="m0001" participant="130988" time="2013-04-02 19:06:40 UTC">
+      <body>Will call you tonight</body>
+    </message>
+    <message id="m0002" participant="130988" time="2013-04-20 00:35:01 UTC">
+      <body>Call me
+I want to see how Tamara is feeling</body>
+    </message>
+    <message id="m0003" participant="130988" time="2013-04-29 00:41:01 UTC">
+      <body> Call me at home</body>
+    </message>
+    <message id="m0004" participant="130980" time="2013-05-14 02:52:40 UTC">
+      <body>Did you talk to dad about dinner tomorrow night?</body>
+    </message>
+    <message id="m0005" participant="130988" time="2013-05-14 02:56:56 UTC">
+      <body>It will probably be too late 
+Also he still feels bad
+I will text you when I arrive</body>
+    </message>
+    <message id="m0006" participant="130980" time="2013-05-14 02:57:26 UTC">
+      <body>OK. That's what we figured. Let me know but we'll see you Saturday.</body>
+    </message>
+    <message id="m0007" participant="130980" time="2013-05-14 02:57:34 UTC">
+      <body>Have a good flight!</body>
+    </message>
+    <message id="m0008" participant="130980" time="2013-05-14 02:57:43 UTC">
+      <body>Did your card arrive?</body>
+    </message>
+  </messages>
+</conversation>

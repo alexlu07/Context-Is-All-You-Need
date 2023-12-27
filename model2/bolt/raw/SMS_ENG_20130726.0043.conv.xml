@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-26 21:17:52 UTC" participant="153270">
+      <body>We'll plan on getting you around 6:10</body>
+    </message>
+    <message id="m0001" time="2013-07-26 21:17:52 UTC" participant="153270">
+      <body>We'll text before!</body>
+    </message>
+    <message id="m0002" time="2013-07-26 21:38:12 UTC" participant="152734">
+      <body>Perfect, see you then, thanks! </body>
+    </message>
+    <message id="m0003" time="2013-07-26 21:38:33 UTC" participant="152734">
+      <body>Is there a spot in the car for Laura? She's at the holiday inn too.</body>
+    </message>
+    <message id="m0004" time="2013-07-26 21:39:06 UTC" participant="153270">
+      <body>Ok, that works</body>
+    </message>
+    <message id="m0005" time="2013-07-26 22:12:40 UTC" participant="153270">
+      <body>Pulling up!</body>
+    </message>
+  </messages>
+</conversation>
+

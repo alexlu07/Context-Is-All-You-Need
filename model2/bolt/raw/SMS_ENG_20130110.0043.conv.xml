@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-10 11:55:09 UTC" participant="152417">
+      <body>Hey, sorry i forgot to text soon, see you at nunyuns?</body>
+    </message>
+    <message id="m0001" time="2013-01-10 11:57:21 UTC" participant="152555">
+      <body>Hey! I dont need a ride today! I need my car later. Thank you though!</body>
+    </message>
+    <message id="m0002" time="2013-01-10 11:57:57 UTC" participant="152417">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140919.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-19 22:43:29 UTC" participant="152116">
+      <body>I'm outside kindred.</body>
+    </message>
+    <message id="m0001" time="2014-09-19 23:27:56 UTC" participant="152115">
+      <body>What? I'll be out soon running a little late. You've been out there for so long!</body>
+    </message>
+    <message id="m0002" time="2014-09-19 23:28:23 UTC" participant="152116">
+      <body>It's okay.</body>
+    </message>
+    <message id="m0003" time="2014-09-19 23:28:33 UTC" participant="152115">
+      <body>And my dad just got there</body>
+    </message>
+    <message id="m0004" time="2014-09-19 23:29:21 UTC" participant="152116">
+      <body>I didn't know you got picked up</body>
+    </message>
+    <message id="m0005" time="2014-09-19 23:30:03 UTC" participant="152115">
+      <body>Yeah. Wait with him in the car.</body>
+    </message>
+    <message id="m0006" time="2014-09-19 23:47:34 UTC" participant="152115">
+      <body>Getting my stuff now</body>
+    </message>
+  </messages>
+</conversation>
+

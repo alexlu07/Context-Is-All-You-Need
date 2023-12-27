@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120327.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-03-27 15:23:52 UTC">
+      <body>Gym tonight?</body>
+    </message>
+    <message id="m0001" participant="131305" time="2012-03-27 20:44:27 UTC">
+      <body>nah sorry man, we are mixing</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-03-27 20:44:44 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="131305" time="2012-03-28 20:59:42 UTC">
+      <body>I think im just going to run tonight. Not sure when ill be done at work</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-03-28 20:59:56 UTC">
+      <body>Aight</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-03-28 21:00:17 UTC">
+      <body>How far do you run? I'd go with</body>
+    </message>
+    <message id="m0007" participant="131305" time="2012-03-28 21:02:18 UTC">
+      <body>3 or 4x around marconi</body>
+    </message>
+    <message id="m0008" participant="130692" time="2012-03-28 21:02:59 UTC">
+      <body>Cool. Call me up when you go, I'll meet you there</body>
+    </message>
+    <message id="m0009" participant="131305" time="2012-03-28 21:03:25 UTC">
+      <body>Ok cool</body>
+    </message>
+  </messages>
+</conversation>

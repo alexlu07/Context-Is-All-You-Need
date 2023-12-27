@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0026" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130755" time="2013-06-04 18:06:16 UTC">
+      <body>Howdy!</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-06-04 20:03:34 UTC">
+      <body>How goes it? Where are you based? I'm in north FL, where hurricane season is off to a running start!</body>
+    </message>
+    <message id="m0002" participant="130755" time="2013-06-04 21:11:06 UTC">
+      <body>Oh no! Be safe! I'm in Philly</body>
+    </message>
+    <message id="m0003" participant="130978" time="2013-06-05 12:25:35 UTC">
+      <body>Right on. What do you do in Philly? I used to live in west Philly some years ago.</body>
+    </message>
+    <message id="m0004" participant="130755" time="2013-06-05 12:27:11 UTC">
+      <body>Oh cool. I'm an O&amp;M instructor and a standardized patient and a puppeteer. I used to live in west. Why'd ya move to fl?</body>
+    </message>
+    <message id="m0005" participant="130978" time="2013-06-05 15:00:12 UTC">
+      <body>I know what a puppeteer is. The other stuff tho, huh? I'm from FL, came back to be near family again. Didnt really enjoy philly at the time tho, no offense.</body>
+    </message>
+    <message id="m0006" participant="130978" time="2013-06-05 15:00:43 UTC">
+      <body>I do electrical work for money. For joy i do pretty much anything involving water, especially diving &amp; paddlin. I like travel &amp; i'm also pretty civicly engaged.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2013-06-05 15:05:55 UTC">
+      <body>Cool yea I'm not a jig Philly fan either, hopefully moving in a year or two. O&amp;M = I work with people who are blind and teach travel skills</body>
+    </message>
+    <message id="m0008" participant="130755" time="2013-06-05 15:06:22 UTC">
+      <body>Stand. Patient (sp) = I pretend to be sick and grade drs for a national standardized test on how good they dr me.</body>
+    </message>
+    <message id="m0009" participant="130978" time="2013-06-05 15:08:02 UTC">
+      <body>Right on. Where do you want to move to?</body>
+    </message>
+  </messages>
+</conversation>

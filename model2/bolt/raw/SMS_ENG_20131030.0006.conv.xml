@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131030.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-30 01:17:03 UTC" participant="153472">
+      <body>In line for beer. Sure u don't want one?</body>
+    </message>
+    <message id="m0001" time="2013-10-30 01:17:21 UTC" participant="152374">
+      <body>I'm sure. Thanks!</body>
+    </message>
+    <message id="m0002" time="2013-10-30 01:17:56 UTC" participant="153472">
+      <body>Slow moving line!</body>
+    </message>
+    <message id="m0003" time="2013-10-30 14:13:21 UTC" participant="153472">
+      <body>Witness to another bike vs car incident. Car's fault, bicyclist flipped out. Driver of BMW stayed safely within the car.</body>
+    </message>
+    <message id="m0004" time="2013-10-30 14:42:34 UTC" participant="152374">
+      <body>Oh no. No one hurt I hope?</body>
+    </message>
+    <message id="m0005" time="2013-10-30 14:52:09 UTC" participant="153472">
+      <body>Fortunately no one hurt but could have easily gone the other way. The driver completely cut the cyclist off but without a bike lane u don't think about anyone passing u to the right when u are in the right lane. I'm sure it wasn't intentional but still upsetting for both parties.</body>
+    </message>
+  </messages>
+</conversation>
+

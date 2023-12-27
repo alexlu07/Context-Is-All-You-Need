@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120731.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-31 02:14:38 UTC">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-07-31 17:44:06 UTC">
+      <body>Haha yeah man whats up? I'm planning on telling my parents about LI soon, after detroit shock wears off</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-31 19:35:27 UTC">
+      <body>Great! Did you have a good time in Detroit? What were your parents' reactions?</body>
+    </message>
+    <message id="m0003" participant="136210" time="2012-08-01 16:14:05 UTC">
+      <body>Idk if you got my facebook message but plans at my place today are cancelled :( </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-08-01 16:29:13 UTC">
+      <body>Awww mannn. Well I'm leaving for the weekend tomorrow night. Make sure LI is approved by your parents for next week!</body>
+    </message>
+    <message id="m0005" participant="136210" time="2012-08-01 16:32:54 UTC">
+      <body>I'll talk to them about it!</body>
+    </message>
+  </messages>
+</conversation>

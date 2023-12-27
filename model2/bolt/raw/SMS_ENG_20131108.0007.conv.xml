@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131108.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-08 18:18:40 UTC" participant="153649">
+      <body>Can I come to your house when I get to Philly? Should be around 7-730...</body>
+    </message>
+    <message id="m0001" time="2013-11-08 18:19:38 UTC" participant="153548">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" time="2013-11-08 18:20:21 UTC" participant="153649">
+      <body>Sweet! I'm just gonna get a cab there when I land. </body>
+    </message>
+    <message id="m0003" time="2013-11-08 19:11:44 UTC" participant="153548">
+      <body>Okay sounds great. We can get dinner once you arrive.</body>
+    </message>
+    <message id="m0004" time="2013-11-08 23:22:41 UTC" participant="153548">
+      <body>Don't take the trolley, it's running east of 40th.</body>
+    </message>
+    <message id="m0005" time="2013-11-08 23:23:06 UTC" participant="153548">
+      <body>Not running I mean.</body>
+    </message>
+    <message id="m0006" time="2013-11-09 00:05:07 UTC" participant="153649">
+      <body>Landed! On my way to cab</body>
+    </message>
+    <message id="m0007" time="2013-11-09 00:05:22 UTC" participant="153548">
+      <body>Great. See you soon. </body>
+    </message>
+  </messages>
+</conversation>
+

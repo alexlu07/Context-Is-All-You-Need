@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 23:10:29 UTC" participant="152374">
+      <body>Will you be around Monday night and up for a quick beer in the neighborhood? </body>
+    </message>
+    <message id="m0001" time="2014-11-29 23:13:34 UTC" participant="153472">
+      <body>I certainly can be! What time were u thinking? </body>
+    </message>
+    <message id="m0002" time="2014-11-29 23:16:18 UTC" participant="152374">
+      <body>How about 8:30? ####### or ############? </body>
+    </message>
+    <message id="m0003" time="2014-11-29 23:25:30 UTC" participant="153472">
+      <body>Sounds good. </body>
+    </message>
+  </messages>
+</conversation>
+

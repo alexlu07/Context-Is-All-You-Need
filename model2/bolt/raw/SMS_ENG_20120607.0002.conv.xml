@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120607.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-06-07 15:58:54 UTC">
+      <body>Went to return sock and now elevator's not coming...</body>
+    </message>
+    <message id="m0001" participant="131282" time="2012-06-07 16:41:15 UTC">
+      <body>I think your daughter is getting hungry</body>
+    </message>
+  </messages>
+</conversation>

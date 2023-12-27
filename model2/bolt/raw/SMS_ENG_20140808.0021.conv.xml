@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 20:48:13 UTC" participant="153893">
+      <body>We misplaced the calendar,what's up for next week.</body>
+    </message>
+    <message id="m0001" time="2014-08-08 20:50:48 UTC" participant="153244">
+      <body>Good for Sunday 8/10 and Friday 8/15</body>
+    </message>
+    <message id="m0002" time="2014-08-08 21:13:37 UTC" participant="153893">
+      <body>Ok see u then</body>
+    </message>
+  </messages>
+</conversation>
+

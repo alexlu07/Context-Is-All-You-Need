@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137258" time="2013-05-13 01:09:14 UTC">
+      <body>Can you talk?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-13 03:43:47 UTC">
+      <body>Yeah wssd up</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-13 03:43:48 UTC">
+      <body>Wassup</body>
+    </message>
+    <message id="m0003" participant="137258" time="2013-05-13 11:40:43 UTC">
+      <body>Oh sorry I was just upset last night. We just found out my dads mom had cancer and it's really advanced </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-13 16:30:00 UTC">
+      <body>I might be able to talk later? I have a lot of stuff to do but I'll try to call you later tonight </body>
+    </message>
+    <message id="m0005" participant="137258" time="2013-05-13 20:27:57 UTC">
+      <body>I got rejected from macalester . Don't tell alex</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-05-13 21:59:39 UTC">
+      <body>How are you feeling? </body>
+    </message>
+    <message id="m0007" participant="137258" time="2013-05-13 22:00:15 UTC">
+      <body>Better than I was two hours ago</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-05-13 22:01:45 UTC">
+      <body>Good. I'll call you in about 30 minutes? In a family meeting </body>
+    </message>
+    <message id="m0009" participant="137258" time="2013-05-13 22:02:35 UTC">
+      <body>I can't do then but can you do later? I have a dinner with my acappella group and then auditions for new members</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-05-13 22:28:10 UTC">
+      <body>Sure </body>
+    </message>
+    <message id="m0011" participant="137258" time="2013-05-13 22:30:03 UTC">
+      <body>Okay. I'll let you know. </body>
+    </message>
+    <message id="m0012" participant="137258" time="2013-05-13 22:30:20 UTC">
+      <body>I wanna hear about you too!</body>
+    </message>
+    <message id="m0013" participant="137258" time="2013-05-14 03:10:12 UTC">
+      <body>Are you free?</body>
+    </message>
+    <message id="m0014" participant="137255" time="2013-05-14 03:10:36 UTC">
+      <body>Almost done studying ill call you soon. So sorry </body>
+    </message>
+    <message id="m0015" participant="137258" time="2013-05-14 03:11:43 UTC">
+      <body>Don't be. I'll be up a bit longer so no worries</body>
+    </message>
+  </messages>
+</conversation>

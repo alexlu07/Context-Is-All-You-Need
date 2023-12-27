@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120722.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-22 01:17:17 UTC">
+      <body>Do you a Richard brick</body>
+    </message>
+    <message id="m0001" participant="135397" time="2012-07-22 02:18:40 UTC">
+      <body>Yes! But steph and will know him really well</body>
+    </message>
+    <message id="m0002" participant="135397" time="2012-07-22 04:13:52 UTC">
+      <body>Ur bag of clothes is on ur bed. Toothbrush inside. </body>
+    </message>
+    <message id="m0003" participant="135397" time="2012-07-22 06:06:56 UTC">
+      <body>U here?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-22 06:09:04 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" participant="135397" time="2012-07-23 01:16:48 UTC">
+      <body>Traffic to kos bridge</body>
+    </message>
+    <message id="m0006" participant="135397" time="2012-07-23 02:35:44 UTC">
+      <body>Did u get it?9</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-07-23 02:36:49 UTC">
+      <body>Yeah but the bank wouldn't take one of the fifties</body>
+    </message>
+    <message id="m0008" participant="135397" time="2012-07-23 11:46:08 UTC">
+      <body>Go to a teller</body>
+    </message>
+  </messages>
+</conversation>

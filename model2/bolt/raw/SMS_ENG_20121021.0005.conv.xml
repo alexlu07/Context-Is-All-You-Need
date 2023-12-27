@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121021.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131029" time="2012-10-21 16:19:37 UTC">
+      <body>Does ###### eat stuff with gelatin?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-10-21 16:34:12 UTC">
+      <body>Yes he does!</body>
+    </message>
+    <message id="m0002" participant="131029" time="2012-10-21 16:35:15 UTC">
+      <body>Excellent</body>
+    </message>
+    <message id="m0003" participant="131029" time="2012-10-21 16:43:00 UTC">
+      <body>Also... do you have pumpkin pie spice by any chance? </body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-10-21 16:47:16 UTC">
+      <body>I have most of a can of puree...</body>
+    </message>
+    <message id="m0005" participant="131029" time="2012-10-21 16:48:29 UTC">
+      <body>I just need the spices. Cinnamon ginger nutmeg?</body>
+    </message>
+    <message id="m0006" participant="130712" time="2012-10-21 16:51:14 UTC">
+      <body>Cinnamon, ginger check. No nutmeg...we do have cloves, though</body>
+    </message>
+    <message id="m0007" participant="131029" time="2012-10-21 16:52:04 UTC">
+      <body>I can make that work... :-p. I'm on my way </body>
+    </message>
+    <message id="m0008" participant="130712" time="2012-10-21 16:52:43 UTC">
+      <body>Wonderful!</body>
+    </message>
+  </messages>
+</conversation>

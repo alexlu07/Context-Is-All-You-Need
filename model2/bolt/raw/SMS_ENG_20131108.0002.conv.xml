@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131108.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-08 17:38:08 UTC" participant="153305">
+      <body>Would you be able to do late feeding for the ponies on Wednesday and Thursday? </body>
+    </message>
+    <message id="m0001" time="2013-11-08 18:17:44 UTC" participant="152734">
+      <body>Yup! Are you good for mon/tues? I could do Monday if needed too, Tuesday's a no go.</body>
+    </message>
+    <message id="m0002" time="2013-11-08 18:18:21 UTC" participant="153305">
+      <body>I think I am good. Thanks!!!! </body>
+    </message>
+    <message id="m0003" time="2013-11-09 12:39:28 UTC" participant="153305">
+      <body>No horse show it's tomorrow</body>
+    </message>
+    <message id="m0004" time="2013-11-09 12:55:04 UTC" participant="152734">
+      <body>Lol I was just gonna see if you want coffee! I'll head to the barn. ...want coffee?</body>
+    </message>
+    <message id="m0005" time="2013-11-09 12:55:37 UTC" participant="153305">
+      <body>Thanks but I was almost to Pipersville when I realize there was no show so I'm going to take Titan for a Trailride at the horse Park</body>
+    </message>
+    <message id="m0006" time="2013-11-09 12:55:53 UTC" participant="152734">
+      <body>Nice! Catch you later</body>
+    </message>
+  </messages>
+</conversation>
+

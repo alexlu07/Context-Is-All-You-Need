@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130206.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-02-06 16:38:40 UTC">
+      <body>Sorry to leave without you, jused wanted to make sure I caught the bus so I can go to the cpgc thing.</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-02-06 21:16:28 UTC">
+      <body>Dinner at 5:45?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-06 21:16:47 UTC">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>

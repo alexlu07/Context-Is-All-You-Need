@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131121.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-21 00:08:15 UTC" participant="153548">
+      <body>Hey!!' I've been working late all this week are you around 5 tmw?</body>
+    </message>
+    <message id="m0001" time="2013-11-21 00:08:52 UTC" participant="153548">
+      <body>I have a break from 5-7</body>
+    </message>
+    <message id="m0002" time="2013-11-21 00:15:51 UTC" participant="153653">
+      <body>Yep i should be!</body>
+    </message>
+    <message id="m0003" time="2013-11-21 00:17:14 UTC" participant="153653">
+      <body>Ok perfect!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140905.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-05 14:01:42 UTC" participant="153645">
+      <body>Hi! Do you want to meet up on the 20th for some studio time?? </body>
+    </message>
+    <message id="m0001" time="2014-09-05 14:02:27 UTC" participant="153548">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" time="2014-09-05 14:02:33 UTC" participant="153548">
+      <body>Are you back??</body>
+    </message>
+    <message id="m0003" time="2014-09-05 14:04:26 UTC" participant="153645">
+      <body>Coming back tomorrow night </body>
+    </message>
+    <message id="m0004" time="2014-09-05 14:04:38 UTC" participant="153645">
+      <body>10:3o on the 20th?? </body>
+    </message>
+    <message id="m0005" time="2014-09-05 14:05:27 UTC" participant="153548">
+      <body>The photos looks so great. Can't wait to hear about it. The 20th at 10:30 is perfect. </body>
+    </message>
+    <message id="m0006" time="2014-09-05 14:36:15 UTC" participant="153645">
+      <body>See you then! </body>
+    </message>
+  </messages>
+</conversation>
+

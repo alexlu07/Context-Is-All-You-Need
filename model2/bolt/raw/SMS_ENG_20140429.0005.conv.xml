@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140429.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-29 20:16:00 UTC" participant="153645">
+      <body>Should I bring my computer tonight? </body>
+    </message>
+    <message id="m0001" time="2014-04-29 20:17:55 UTC" participant="153548">
+      <body>Not if you don't need it for your stuff. You can read from mine while intake a break!</body>
+    </message>
+    <message id="m0002" time="2014-04-29 20:19:20 UTC" participant="153645">
+      <body>Great! I will see you at 6:30. Have to be home by 9 but that should be fine - Right? </body>
+    </message>
+    <message id="m0003" time="2014-04-29 20:20:54 UTC" participant="153548">
+      <body>Oh yeah you should totally be home by then! Do you want to split a dock street pizza and salad my treat??</body>
+    </message>
+    <message id="m0004" time="2014-04-29 21:12:08 UTC" participant="153645">
+      <body>Sound great! - sorry for the late reply! </body>
+    </message>
+    <message id="m0005" time="2014-04-30 01:23:40 UTC" participant="153548">
+      <body>No word from tess. I'll let you know if I hear from her tmw</body>
+    </message>
+    <message id="m0006" time="2014-04-30 01:23:49 UTC" participant="153548">
+      <body>Thanks again for your help today!</body>
+    </message>
+    <message id="m0007" time="2014-04-30 01:24:09 UTC" participant="153645">
+      <body>Thanks! And I am so excited to you! </body>
+    </message>
+    <message id="m0008" time="2014-04-30 01:51:29 UTC" participant="153548">
+      <body>Tess can do a 7:30 massage! I'll email you her info!</body>
+    </message>
+    <message id="m0010" time="2014-04-30 02:42:08 UTC" participant="153645">
+      <body>Amazing! </body>
+    </message>
+    <message id="m0011" time="2014-04-30 02:44:16 UTC" participant="153645">
+      <body>Thank you so much</body>
+    </message>
+    <message id="m0012" time="2014-04-30 12:19:21 UTC" participant="153645">
+      <body>Good morning! Should I call Tess - or should I wait to get your email with more information? </body>
+    </message>
+    <message id="m0014" time="2014-04-30 13:30:40 UTC" participant="153645">
+      <body>You're awesome - thanks! </body>
+    </message>
+  </messages>
+</conversation>
+

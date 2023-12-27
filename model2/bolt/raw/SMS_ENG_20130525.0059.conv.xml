@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133121" time="2013-05-25 23:45:53 UTC">
+      <body>Did you hear about grandpa?</body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-05-25 23:46:47 UTC">
+      <body>Kara told me that he fell and broke a rib</body>
+    </message>
+    <message id="m0002" participant="133121" time="2013-05-25 23:47:17 UTC">
+      <body>Or 2</body>
+    </message>
+    <message id="m0003" participant="133111" time="2013-05-25 23:47:32 UTC">
+      <body>:(</body>
+    </message>
+    <message id="m0004" participant="133121" time="2013-05-25 23:48:07 UTC">
+      <body>He is home now , doing ok</body>
+    </message>
+    <message id="m0005" participant="133111" time="2013-05-25 23:48:30 UTC">
+      <body>Oh good I'm glad he is back home</body>
+    </message>
+    <message id="m0006" participant="133121" time="2013-05-25 23:49:45 UTC">
+      <body>We're @ J &amp; T's, 4 party</body>
+    </message>
+    <message id="m0007" participant="133111" time="2013-05-25 23:50:36 UTC">
+      <body>Say hi to everyone, wish we were there</body>
+    </message>
+    <message id="m0008" participant="133121" time="2013-05-25 23:51:05 UTC">
+      <body>K, luv ya</body>
+    </message>
+    <message id="m0009" participant="133111" time="2013-05-25 23:51:29 UTC">
+      <body>&lt;3</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121102.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2012-11-02 23:53:36 UTC">
+      <body>Come home and play w me. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-02 23:59:49 UTC">
+      <body>First Friday!!</body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-11-03 00:00:00 UTC">
+      <body>Where?</body>
+    </message>
+    <message id="m0003" participant="135414" time="2012-11-03 18:54:56 UTC">
+      <body>You rang?</body>
+    </message>
+  </messages>
+</conversation>

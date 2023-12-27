@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-10 18:14:45 UTC">
+      <body>GET HERE</body>
+    </message>
+    <message id="m0001" participant="135100" time="2012-06-10 18:16:00 UTC">
+      <body>I'm busy writing the perhaps the most important thing I've ever written and broke.  I'll be at motofosho.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-10 21:21:57 UTC">
+      <body>Yayyyyy :) :)</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-06-10 21:49:11 UTC">
+      <body>Be easy, my friend. No worries. Maybe we can meet up after the show - we'll be in st Paul </body>
+    </message>
+    <message id="m0006" participant="135100" time="2012-06-10 21:49:56 UTC">
+      <body>What show's that?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2012-06-10 21:50:10 UTC">
+      <body>The moving company - a play</body>
+    </message>
+    <message id="m0008" participant="135100" time="2012-06-10 21:51:58 UTC">
+      <body>I work roughly 8-6 tomorrow...what're you doing after that?</body>
+    </message>
+    <message id="m0009" participant="131839" time="2012-06-10 21:52:15 UTC">
+      <body>I'm going to new ulm tomorrow</body>
+    </message>
+    <message id="m0010" participant="135100" time="2012-06-10 21:52:45 UTC">
+      <body>Got ya</body>
+    </message>
+  </messages>
+</conversation>

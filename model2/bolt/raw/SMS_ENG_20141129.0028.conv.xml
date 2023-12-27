@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 17:07:31 UTC" participant="152123">
+      <body>Hey plans tonight?</body>
+    </message>
+    <message id="m0001" time="2014-11-29 18:49:45 UTC" participant="153244">
+      <body>Nothing so far.. I know Steph wants to play video games and I don't feel good so might just stay in tonight. But I still have to stop over mom's after work so ill be around</body>
+    </message>
+    <message id="m0002" time="2014-11-29 18:50:40 UTC" participant="152123">
+      <body>Ah ok. Maybe I'll see you later</body>
+    </message>
+  </messages>
+</conversation>
+

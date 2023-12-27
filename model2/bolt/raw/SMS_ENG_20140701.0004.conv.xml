@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140701.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-01 23:36:06 UTC" participant="153305">
+      <body>You riding tonight? </body>
+    </message>
+    <message id="m0001" time="2014-07-01 23:37:18 UTC" participant="152734">
+      <body>Nah, I just got home &amp; am swimming instead! </body>
+    </message>
+    <message id="m0002" time="2014-07-01 23:37:30 UTC" participant="153305">
+      <body>Okay dokey! </body>
+    </message>
+    <message id="m0003" time="2014-07-01 23:38:40 UTC" participant="153305">
+      <body>If you want to ride magic and or Titan on Friday they are all yours</body>
+    </message>
+    <message id="m0004" time="2014-07-02 12:16:20 UTC" participant="152734">
+      <body>Ok, thanks, I'll see what I can do!</body>
+    </message>
+    <message id="m0005" time="2014-07-02 22:40:21 UTC" participant="153305">
+      <body>I am probably getting there closer to 8pm for that reason but really appreciate the heads up </body>
+    </message>
+    <message id="m0006" time="2014-07-02 22:40:25 UTC" participant="153305">
+      <body>Sorry you missed a ride :(
+Sorry you missed a ride :(</body>
+    </message>
+  </messages>
+</conversation>
+

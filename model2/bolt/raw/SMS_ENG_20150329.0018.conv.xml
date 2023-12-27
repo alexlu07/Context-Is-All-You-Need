@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150329.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-29 00:06:24 UTC" participant="153548">
+      <body>I think I missed this text! What about next weekend?</body>
+    </message>
+    <message id="m0001" time="2015-03-29 19:58:56 UTC" participant="153678">
+      <body>Next weekend could work! Let's keep in touch!</body>
+    </message>
+    <message id="m0002" time="2015-03-29 22:18:32 UTC" participant="153548">
+      <body>Kewl!!</body>
+    </message>
+  </messages>
+</conversation>
+

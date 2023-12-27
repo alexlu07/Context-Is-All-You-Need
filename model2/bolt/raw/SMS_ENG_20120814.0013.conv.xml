@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120814.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-08-14 01:33:13 UTC">
+      <body>You wanna do the 24 hour (or whatever yr into) Sharkweek scavenger hunt with us this weekend??</body>
+    </message>
+    <message id="m0001" participant="136726" time="2012-08-14 01:39:28 UTC">
+      <body>Oooo. I may not be in town. When is it?</body>
+    </message>
+    <message id="m0002" participant="136726" time="2012-08-14 01:39:34 UTC">
+      <body>Friday?</body>
+    </message>
+    <message id="m0003" participant="131015" time="2012-08-14 01:40:16 UTC">
+      <body>Midnight Friday till midnight Saturday.</body>
+    </message>
+  </messages>
+</conversation>

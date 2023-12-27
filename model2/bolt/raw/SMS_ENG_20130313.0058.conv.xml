@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130313.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-13 21:27:42 UTC" participant="152560">
+      <body>Feel like taking a stroll on this fine evening?</body>
+    </message>
+    <message id="m0001" time="2013-03-13 21:28:37 UTC" participant="152417">
+      <body>Absolutely, thats why im holding your dog hostage</body>
+    </message>
+    <message id="m0002" time="2013-03-13 21:34:48 UTC" participant="152560">
+      <body>I'll be right over.</body>
+    </message>
+  </messages>
+</conversation>
+

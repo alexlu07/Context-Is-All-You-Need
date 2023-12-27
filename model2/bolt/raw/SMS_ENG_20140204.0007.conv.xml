@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140204.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-04 23:45:45 UTC" participant="153568">
+      <body>(1/2) Are you guys crazy busy these days?  Is there anytime in your schedule between now and monday to fix a leak in the access panel of the shower/tub at my re</body>
+    </message>
+    <message id="m0001" time="2014-02-04 23:46:45 UTC" participant="153568">
+      <body>(2/2) ntal prop? </body>
+    </message>
+    <message id="m0002" time="2014-02-04 23:47:36 UTC" participant="153547">
+      <body>Yeah how's Thursday ?</body>
+    </message>
+    <message id="m0003" time="2014-02-04 23:51:13 UTC" participant="153568">
+      <body>(1/2) Thursday is a ok. If you can get there at, or before 9a, I can meet you with the keys. Otherwise I can stash them somewhere for you and just let the tenan</body>
+    </message>
+    <message id="m0004" time="2014-02-04 23:52:14 UTC" participant="153568">
+      <body>(2/2) ts know you'll be coming. Let me know what's best. </body>
+    </message>
+    <message id="m0005" time="2014-02-05 00:08:27 UTC" participant="153568">
+      <body>Just try to let me know by some time tomorrow. </body>
+    </message>
+    <message id="m0006" time="2014-02-05 15:44:18 UTC" participant="153547">
+      <body>Early in the morning tomorrow would be best. I have a job in the afternoon </body>
+    </message>
+    <message id="m0007" time="2014-02-05 15:46:12 UTC" participant="153568">
+      <body>Ok. Is it easier if I just drop off keys to you tonight? That way you can get there when you get there... or would you rather me meet you?</body>
+    </message>
+    <message id="m0009" time="2014-02-05 15:57:59 UTC" participant="153568">
+      <body>(1/2) Ok. I won't get home until close to 9 after work, so it'll be after then. I'll leave a note with the details. And I'll text you my work number in case you</body>
+    </message>
+    <message id="m0010" time="2014-02-05 15:58:14 UTC" participant="153568">
+      <body>(2/2)  have questions when your there. THANK YOU</body>
+    </message>
+  </messages>
+</conversation>
+

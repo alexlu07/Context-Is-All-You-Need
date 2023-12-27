@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0048" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130616" time="2013-05-26 13:22:25 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-05-26 15:06:46 UTC">
+      <body>Um, hi. I'm still not exactly sure how this process works.</body>
+    </message>
+    <message id="m0002" participant="130616" time="2013-05-26 15:08:58 UTC">
+      <body>Eh. We just talk from what I've been told. Random conversation and all that.</body>
+    </message>
+    <message id="m0003" participant="130978" time="2013-05-26 16:01:03 UTC">
+      <body>Ok then. So what do you do?</body>
+    </message>
+    <message id="m0004" participant="130616" time="2013-05-26 16:03:12 UTC">
+      <body>I play video games, read, etc. Yourself?</body>
+    </message>
+    <message id="m0005" participant="130978" time="2013-05-26 16:10:12 UTC">
+      <body>I do electrical work &amp; am very civicly-engaged. I like travel, movies, &amp; pretty much anything involving water. i have a pretty wide diversity of interests.</body>
+    </message>
+    <message id="m0006" participant="130978" time="2013-05-26 16:10:44 UTC">
+      <body>What part of the country do you live in?</body>
+    </message>
+  </messages>
+</conversation>

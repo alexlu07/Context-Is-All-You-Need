@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140914.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-14 00:48:58 UTC" participant="153244">
+      <body>Hey, am I scheduled for tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-09-14 00:49:51 UTC" participant="153893">
+      <body>Yes anything else</body>
+    </message>
+    <message id="m0002" time="2014-09-14 00:50:57 UTC" participant="153244">
+      <body>Friday too</body>
+    </message>
+    <message id="m0003" time="2014-09-14 00:52:33 UTC" participant="153893">
+      <body>Yes no prob</body>
+    </message>
+    <message id="m0004" time="2014-09-14 00:53:51 UTC" participant="153244">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

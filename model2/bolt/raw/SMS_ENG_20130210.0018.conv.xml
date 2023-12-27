@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2013-02-10 22:32:37 UTC">
+      <body>Hi Pix, could we skype tomorrow?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-02-10 22:36:52 UTC">
+      <body>Yes ma'am</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-02-10 22:38:26 UTC">
+      <body>Xoxox</body>
+    </message>
+    <message id="m0003" participant="131023" time="2013-02-10 22:39:17 UTC">
+      <body>Thanks Pix!  Xoxoxoo</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-02-11 21:42:57 UTC">
+      <body>Sick again. If you can chat any earlier, that'd be great. Otherwise, can it be a short session tonight?</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-02-11 21:45:37 UTC">
+      <body>4 would be great!</body>
+    </message>
+    <message id="m0006" participant="131023" time="2013-02-11 21:45:52 UTC">
+      <body>How about 4 my time?  We can do it another day too.</body>
+    </message>
+    <message id="m0007" participant="131023" time="2013-02-11 21:47:36 UTC">
+      <body>Ok 4 it is.  See you then.</body>
+    </message>
+    <message id="m0008" participant="130712" time="2013-02-11 23:34:36 UTC">
+      <body>Hey Mom, so sorry--can we reschedule? My ear is killing me.</body>
+    </message>
+    <message id="m0009" participant="130712" time="2013-02-11 23:36:40 UTC">
+      <body>Thanks! xoxox</body>
+    </message>
+    <message id="m0010" participant="131023" time="2013-02-11 23:37:22 UTC">
+      <body>Of course Pix!</body>
+    </message>
+    <message id="m0011" participant="131023" time="2013-02-11 23:40:07 UTC">
+      <body>Get well, we'll talk soon.  Xoxox</body>
+    </message>
+  </messages>
+</conversation>

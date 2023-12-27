@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140502.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-02 19:11:30 UTC" participant="152417">
+      <body>Hey man, do you and molly want to come see a play tonight?</body>
+    </message>
+    <message id="m0001" time="2014-05-02 19:44:00 UTC" participant="152535">
+      <body>Molly cant but id love to. Where and when</body>
+    </message>
+    <message id="m0002" time="2014-05-02 19:46:00 UTC" participant="152417">
+      <body>Flynnspace at 730</body>
+    </message>
+    <message id="m0003" time="2014-05-02 19:46:08 UTC" participant="152535">
+      <body>Cool! See you there. </body>
+    </message>
+    <message id="m0004" time="2014-05-02 22:34:40 UTC" participant="152535">
+      <body>Hey gabi, i cant make it tonight. Im sorry. See you tomorrow with horns. Be well</body>
+    </message>
+    <message id="m0005" time="2014-05-02 23:07:40 UTC" participant="152417">
+      <body>Bummer, see you tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

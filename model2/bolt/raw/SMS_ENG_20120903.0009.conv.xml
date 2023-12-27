@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120903.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-09-03 00:09:47 UTC">
+      <body>Hey! I have a question/favor to ask: could you close lunch tomorrow? I have rehearsal at 5 so it's a little tricky for me to close</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-09-03 03:08:46 UTC">
+      <body>Hey, it's Martha. Any verdict on closing?</body>
+    </message>
+    <message id="m0002" participant="135199" time="2012-09-03 04:09:51 UTC">
+      <body>Hey im the other closer</body>
+    </message>
+  </messages>
+</conversation>

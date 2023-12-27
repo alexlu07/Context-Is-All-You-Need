@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-20 18:12:30 UTC" participant="154352">
+      <body>I'm in 310 and remembered that I havea match today. Which column is Crivella's office at for balls?</body>
+    </message>
+    <message id="m0001" time="2013-06-20 18:15:07 UTC" participant="154392">
+      <body>3-10.3 H6</body>
+    </message>
+    <message id="m0002" time="2013-06-20 18:15:40 UTC" participant="154352">
+      <body>Thanks. Turns out i was at the right column wrong floor.</body>
+    </message>
+  </messages>
+</conversation>
+

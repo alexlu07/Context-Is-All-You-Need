@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131371" time="2013-05-22 03:01:48 UTC">
+      <body>How's the music coming along?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-05-22 04:17:08 UTC">
+      <body>Struggling with pre-production...but, coming.</body>
+    </message>
+    <message id="m0002" participant="131371" time="2013-05-22 08:28:28 UTC">
+      <body>Why struggling? In what way?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-03 02:57:22 UTC">
+      <body>Yo</body>
+    </message>
+    <message id="m0001" participant="136642" time="2013-07-03 02:58:29 UTC">
+      <body>Yo</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-03 02:59:05 UTC">
+      <body>Preference for a party spot on friday? Type of place, crowd, etc?</body>
+    </message>
+    <message id="m0003" participant="136642" time="2013-07-03 10:46:29 UTC">
+      <body>No pref</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-03 22:46:53 UTC">
+      <body>What's your roommates number</body>
+    </message>
+    <message id="m0005" participant="136642" time="2013-07-04 00:33:01 UTC">
+      <body>What y'all doing tomorrow?</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-04 00:34:18 UTC">
+      <body>Work u?</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-07-04 16:00:36 UTC">
+      <body>Can you send the info on bbq Saturday?</body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-07-04 17:40:27 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0009" participant="136642" time="2013-07-04 18:19:38 UTC">
+      <body>Yessir.</body>
+    </message>
+    <message id="m0010" participant="130693" time="2013-07-04 18:20:26 UTC">
+      <body>Times for bbq?</body>
+    </message>
+    <message id="m0011" participant="136642" time="2013-07-04 18:21:00 UTC">
+      <body>Yessir</body>
+    </message>
+    <message id="m0012" participant="136642" time="2013-07-04 18:21:44 UTC">
+      <body>Ill send email out. dinner portion is Starting at 7pm. The mixer portion at 930-10</body>
+    </message>
+    <message id="m0013" participant="130693" time="2013-07-04 19:23:26 UTC">
+      <body>Thx</body>
+    </message>
+  </messages>
+</conversation>

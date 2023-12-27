@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141006.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-06 23:34:24 UTC" participant="153305">
+      <body>Would you do my Sunday this week and I would do your Monday this week?</body>
+    </message>
+    <message id="m0001" time="2014-10-06 23:34:24 UTC" participant="153305">
+      <body>I meant next Monday not today</body>
+    </message>
+    <message id="m0002" time="2014-10-06 23:37:59 UTC" participant="153305">
+      <body>Actually would you just do my Sunday and I don't know that I can take your Monday</body>
+    </message>
+    <message id="m0003" time="2014-10-07 00:28:29 UTC" participant="152734">
+      <body>Sunday the 12th? I can do it. I'll plan on doing the 13th too but if you want to just let me know - I'm off that day so short notice is no problem. Bon voyage! </body>
+    </message>
+    <message id="m0004" time="2014-10-07 00:28:51 UTC" participant="152734">
+      <body>Ps. I was sorry to hear that you got ditched this weekend, woof! </body>
+    </message>
+    <message id="m0005" time="2014-10-07 00:49:04 UTC" participant="153305">
+      <body>Yes Sunday the 12th! I have a wedding in CT and not sure what time I will be home. Thank you! Woof to the big bad ditch! </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141117.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-17 19:00:59 UTC" participant="153547">
+      <body>Will your boiler not light or what is the issue </body>
+    </message>
+    <message id="m0001" time="2014-11-17 19:03:52 UTC" participant="149351">
+      <body>Hey thanks for the msg. I got someone to take a look at the heater but if you are free and want to stop by on your way that would be cool. I have a coupl</body>
+    </message>
+    <message id="m0002" time="2014-11-17 19:04:02 UTC" participant="149351">
+      <body>e other questions I could run by you.</body>
+    </message>
+    <message id="m0003" time="2014-11-17 19:04:42 UTC" participant="153547">
+      <body>What's the issue with it?</body>
+    </message>
+    <message id="m0004" time="2014-11-17 20:08:07 UTC" participant="149351">
+      <body>We had a bad thermocouple. Pilot wouldn't stay lit. Just had it replaced. </body>
+    </message>
+  </messages>
+</conversation>
+

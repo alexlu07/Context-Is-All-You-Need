@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-20 14:33:09 UTC" participant="152417">
+      <body>I borrowed your dog and left you a treasure on your record player.  Happy spring!</body>
+    </message>
+    <message id="m0001" time="2013-03-20 18:21:26 UTC" participant="152560">
+      <body>&lt;3 thanks!</body>
+    </message>
+    <message id="m0002" time="2013-03-20 18:26:49 UTC" participant="152560">
+      <body>Got out of lab early-are you home?</body>
+    </message>
+    <message id="m0003" time="2013-03-20 18:27:52 UTC" participant="152417">
+      <body>Nope, downtown and headed to red cross</body>
+    </message>
+    <message id="m0004" time="2013-03-20 18:28:49 UTC" participant="152560">
+      <body>Will you be ok to drive afterwards?</body>
+    </message>
+    <message id="m0005" time="2013-03-20 18:31:33 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0006" time="2013-03-20 23:03:22 UTC" participant="152417">
+      <body>Be over soon</body>
+    </message>
+    <message id="m0007" time="2013-03-20 23:04:00 UTC" participant="152560">
+      <body>Yay</body>
+    </message>
+  </messages>
+</conversation>
+

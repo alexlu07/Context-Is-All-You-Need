@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130122.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131450" time="2013-01-23 13:13:17 UTC">
+      <body>Hey, heading out, I should be there in about 10</body>
+    </message>
+    <message id="m0002" participant="131463" time="2013-01-23 13:13:53 UTC">
+      <body>Cool. </body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-01-23 22:00:15 UTC">
+      <body>Hey, not sure if you're still here but I'm going to drive home now after all, want a ride?</body>
+    </message>
+    <message id="m0004" participant="131463" time="2013-01-23 22:31:05 UTC">
+      <body>Thanks dude but LeighNn was picking me up after work. Have a good evening!</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-01-23 22:35:15 UTC">
+      <body>Okay perfect. And thanks, you too!</body>
+    </message>
+  </messages>
+</conversation>

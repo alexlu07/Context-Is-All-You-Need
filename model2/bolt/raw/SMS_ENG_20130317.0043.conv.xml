@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-17 22:01:37 UTC" participant="152417">
+      <body>Whats the plan stan?</body>
+    </message>
+    <message id="m0001" time="2013-03-17 22:09:08 UTC" participant="152560">
+      <body>I think dinner is 7ish...let me find out.</body>
+    </message>
+    <message id="m0002" time="2013-03-17 22:25:37 UTC" participant="152560">
+      <body>Want to head down to blue cat by foot?</body>
+    </message>
+    <message id="m0003" time="2013-03-17 22:26:30 UTC" participant="152417">
+      <body>I gotta take simone out, and then we can</body>
+    </message>
+  </messages>
+</conversation>
+

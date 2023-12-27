@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141026.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-26 13:58:24 UTC" participant="152575">
+      <body>Hey I can't find an actual chart for no diggity but I found all the chords theres only four of them. If you can do the concert on the twelfth I was thinking we could meet this week and get a form down </body>
+    </message>
+    <message id="m0001" time="2014-10-26 14:00:55 UTC" participant="152417">
+      <body>Ok, cool</body>
+    </message>
+    <message id="m0002" time="2014-10-26 16:32:00 UTC" participant="152575">
+      <body>How does your Tuesday afternoon look? </body>
+    </message>
+    <message id="m0003" time="2014-10-26 17:08:31 UTC" participant="152417">
+      <body>Free 3-5</body>
+    </message>
+    <message id="m0004" time="2014-10-26 17:12:32 UTC" participant="152575">
+      <body>Same.  Let's do that.   You can pick an exact time.  We'll probably only need like a half hour </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136137" time="2013-03-09 02:15:17 UTC">
+      <body>Can I ask you something?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-09 02:15:25 UTC">
+      <body>sure. </body>
+    </message>
+    <message id="m0002" participant="136137" time="2013-03-09 02:16:54 UTC">
+      <body>Why did we stop talking?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-09 02:21:03 UTC">
+      <body>i don't know. </body>
+    </message>
+    <message id="m0004" participant="136137" time="2013-03-09 02:22:20 UTC">
+      <body>Can we try again?</body>
+    </message>
+  </messages>
+</conversation>

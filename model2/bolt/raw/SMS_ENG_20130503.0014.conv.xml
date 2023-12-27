@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130503.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131403" time="2013-05-03 14:29:46 UTC">
+      <body>Just checking practice 11u this weekend   Sat 11:30 and Sun 12:00?</body>
+    </message>
+    <message id="m0001" participant="131408" time="2013-05-03 14:30:13 UTC">
+      <body>Not sure yet we are watching weather</body>
+    </message>
+    <message id="m0002" participant="131403" time="2013-05-03 14:30:23 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="131408" time="2013-05-03 20:54:17 UTC">
+      <body>11u hi guys this weekend we won't have game going on and as it looks won't be having practice due to weather. So coaches would like to get lessons all caught up Tom has openings Saturday please let me know what times will work</body>
+    </message>
+    <message id="m0004" participant="131403" time="2013-05-03 21:02:53 UTC">
+      <body>Angie, can you schedule Alex around 11 or do? </body>
+    </message>
+    <message id="m0005" participant="131408" time="2013-05-03 21:03:21 UTC">
+      <body>12 noon</body>
+    </message>
+    <message id="m0006" participant="131403" time="2013-05-03 21:04:04 UTC">
+      <body>Perfect. I will let Alex and his Grandpa know so they can be up there at noon. </body>
+    </message>
+    <message id="m0007" participant="131408" time="2013-05-03 21:04:26 UTC">
+      <body>Perfect thank you</body>
+    </message>
+    <message id="m0008" participant="131408" time="2013-05-04 15:12:28 UTC">
+      <body>No practice today or tomorrow due to rain</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137310" time="2013-04-15 05:51:27 UTC">
+      <body>Hey sorayaaa :) this is jessica park.  What time is your class tomorrow? </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-04-15 12:08:45 UTC">
+      <body>It's supposed to be at 10:30 but I have to switch out because it overlaps with the time my shuttle leaves </body>
+    </message>
+    <message id="m0002" participant="137310" time="2013-04-15 12:18:50 UTC">
+      <body>Uh oh :( that stinks. Hope u find a better class to go to </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-04-15 13:18:37 UTC">
+      <body>Yup it worked out I'm taking Arabic! </body>
+    </message>
+    <message id="m0004" participant="137310" time="2013-04-15 14:07:48 UTC">
+      <body>Woot! That's exciting :) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 22:10:09 UTC" participant="152734">
+      <body>So mom - 1 egg, 1/4 c milk, right? How long/what temp? Thanks! </body>
+    </message>
+    <message id="m0001" time="2015-01-02 22:11:12 UTC" participant="153268">
+      <body>Half hour to 40 min at 350</body>
+    </message>
+    <message id="m0002" time="2015-01-02 22:13:08 UTC" participant="152734">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

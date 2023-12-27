@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 17:12:12 UTC" participant="153848">
+      <body>Hey dad... When's the earliest we can leave for New York? </body>
+    </message>
+    <message id="m0001" time="2015-01-09 22:08:19 UTC" participant="153856">
+      <body>Thursday afternoon......At this point...  we need to go to verizon tonight.....</body>
+    </message>
+    <message id="m0002" time="2015-01-09 23:26:01 UTC" participant="153848">
+      <body>Ok. I already took care of the phone with mom. </body>
+    </message>
+    <message id="m0003" time="2015-01-09 23:28:45 UTC" participant="153856">
+      <body>New battery or what?</body>
+    </message>
+    <message id="m0004" time="2015-01-09 23:29:02 UTC" participant="153848">
+      <body>My upgrade...</body>
+    </message>
+  </messages>
+</conversation>
+

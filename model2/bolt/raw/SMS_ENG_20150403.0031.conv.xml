@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150403.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-03 16:17:19 UTC" participant="154390">
+      <body>We have an extra jar of pickles, would you like them?</body>
+    </message>
+    <message id="m0001" time="2015-04-03 18:40:58 UTC" participant="154352">
+      <body>http://slickdeals.net/f/7774581-taxact-ultimate-bundle-deluxe-federal-state-11-99-back-again</body>
+    </message>
+    <message id="m0002" time="2015-04-03 19:30:03 UTC" participant="154390">
+      <body>No</body>
+    </message>
+    <message id="m0003" time="2015-04-04 00:56:04 UTC" participant="154390">
+      <body>Thanks for the link, used it and filed my taxes!</body>
+    </message>
+  </messages>
+</conversation>
+

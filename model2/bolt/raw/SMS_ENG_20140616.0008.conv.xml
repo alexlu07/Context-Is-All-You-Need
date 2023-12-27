@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140616.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-16 15:40:48 UTC" participant="153683">
+      <body>Hi Lindsey, I can meet anytime from 2pm onward. What works for you?</body>
+    </message>
+    <message id="m0001" time="2014-06-16 16:46:56 UTC" participant="153683">
+      <body>Let's revise that to 3pm onward.  What's good?</body>
+    </message>
+    <message id="m0002" time="2014-06-16 16:49:04 UTC" participant="153683">
+      <body>I'm flexible once I get home from errands which shd be like 2:30ish.</body>
+    </message>
+    <message id="m0003" time="2014-06-16 16:53:18 UTC" participant="153548">
+      <body>How about I arrive at your place at 3:15! Does that work?</body>
+    </message>
+    <message id="m0004" time="2014-06-16 16:53:31 UTC" participant="153683">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0005" time="2014-06-16 16:53:37 UTC" participant="153548">
+      <body>Great see you then!</body>
+    </message>
+  </messages>
+</conversation>
+

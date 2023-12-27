@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120410.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-10 00:05:19 UTC">
+      <body>Happy birthday man! You doin anything tonight?</body>
+    </message>
+    <message id="m0001" participant="131307" time="2012-04-10 00:10:42 UTC">
+      <body>I'm at the academy haha</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-10 00:11:14 UTC">
+      <body>Damn, hit me up this weekend if you want to hang</body>
+    </message>
+    <message id="m0003" participant="131307" time="2012-04-10 00:30:03 UTC">
+      <body>Word up</body>
+    </message>
+  </messages>
+</conversation>

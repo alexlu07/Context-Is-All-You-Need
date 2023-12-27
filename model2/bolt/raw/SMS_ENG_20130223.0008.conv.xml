@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130223.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-23 19:30:43 UTC">
+      <body>morning, foxy!
+how's tricks?</body>
+    </message>
+    <message id="m0001" participant="131359" time="2013-02-23 19:33:43 UTC">
+      <body>Out of bed, finally.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-23 19:35:59 UTC">
+      <body>nice!</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-23 19:36:08 UTC">
+      <body>coffeetime!</body>
+    </message>
+    <message id="m0004" participant="131359" time="2013-02-23 19:36:41 UTC">
+      <body>Woo hoo!!</body>
+    </message>
+  </messages>
+</conversation>

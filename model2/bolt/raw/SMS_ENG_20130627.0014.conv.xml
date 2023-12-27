@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135292" time="2013-06-27 19:19:55 UTC">
+      <body>How goes things?</body>
+    </message>
+    <message id="m0001" participant="135292" time="2013-06-27 19:20:44 UTC">
+      <body>In car but checking in! </body>
+    </message>
+    <message id="m0002" participant="135292" time="2013-06-27 19:21:00 UTC">
+      <body>How's working with foa?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-27 19:24:12 UTC">
+      <body>Foa is in Israel...but I will let you know! Apparently she just calls my study "the failing study." We will have to catch up soon! :)</body>
+    </message>
+    <message id="m0004" participant="135292" time="2013-06-27 19:27:19 UTC">
+      <body>Oo geez. I'm dealing with my own monster boss at va</body>
+    </message>
+    <message id="m0005" participant="135292" time="2013-06-27 19:27:55 UTC">
+      <body>Yes lets chat soon</body>
+    </message>
+  </messages>
+</conversation>

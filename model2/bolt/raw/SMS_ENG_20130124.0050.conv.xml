@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130124.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-24 14:48:25 UTC" participant="154352">
+      <body>I sent you a gmail about an event happening this Sunday night that looks cool</body>
+    </message>
+    <message id="m0001" time="2013-01-24 15:37:43 UTC" participant="154392">
+      <body>Sounds pretty cool I'm in</body>
+    </message>
+    <message id="m0002" time="2013-01-24 15:44:17 UTC" participant="154352">
+      <body>Cool. I got my ticket. You should get yours.</body>
+    </message>
+    <message id="m0003" time="2013-01-24 16:59:17 UTC" participant="154392">
+      <body>Ill do that</body>
+    </message>
+  </messages>
+</conversation>
+

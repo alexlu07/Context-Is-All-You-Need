@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120325.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-03-25 18:38:35 UTC">
+      <body>I'm in the city and would love to see you, duh</body>
+    </message>
+    <message id="m0001" participant="135136" time="2012-03-25 19:10:22 UTC">
+      <body>Hey! I work then have rehearsal!  When do you leave?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-25 19:14:49 UTC">
+      <body>Tomorrow lunch, maybe tonight?</body>
+    </message>
+    <message id="m0003" participant="135136" time="2012-03-25 20:09:55 UTC">
+      <body>Lunch tomorrow sounds great!</body>
+    </message>
+    <message id="m0004" participant="135136" time="2012-03-26 14:20:19 UTC">
+      <body>Still thinking about lunch? No worries if you can't but I'd love to see ya. </body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-03-26 14:56:58 UTC">
+      <body>I slept in too long so it's not looking good! Im sorry,  next time?</body>
+    </message>
+    <message id="m0006" participant="135136" time="2012-03-26 14:59:08 UTC">
+      <body>No worries marth! Next time is great. I'm going to see the show later this week. How was it?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2012-03-26 15:06:48 UTC">
+      <body>Youre going to love it. My favorite man and actor in the world plays Dennis. Please please please let me know what you think!</body>
+    </message>
+  </messages>
+</conversation>

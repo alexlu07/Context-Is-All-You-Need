@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 19:52:01 UTC" participant="153548">
+      <body>Hey! How you feeling about yoga tonight? Been so long!</body>
+    </message>
+    <message id="m0001" time="2014-06-02 20:58:40 UTC" participant="153678">
+      <body>I know! I have an online class tonight from 8-10 on functional blood work so I'm going to have to miss. I'm thinking Thursday will work though if you are interested!</body>
+    </message>
+    <message id="m0002" time="2014-06-02 21:00:39 UTC" participant="153548">
+      <body>Okay let's try for Thursday! I am being so bad at self motivating! Just wanna drink beers in the yard! Good luck with online class!</body>
+    </message>
+    <message id="m0003" time="2014-06-02 21:04:55 UTC" participant="153678">
+      <body>Haha yeah! The weather is so beautiful! Thanks for the luck, I'm excited to learn more about reading the blood. </body>
+    </message>
+  </messages>
+</conversation>
+

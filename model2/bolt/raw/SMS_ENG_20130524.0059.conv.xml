@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-05-24 17:43:37 UTC">
+      <body>Yo yo good buddy</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-25 15:38:53 UTC">
+      <body>You in town this weekend?</body>
+    </message>
+    <message id="m0002" participant="131971" time="2013-05-25 19:03:28 UTC">
+      <body>Having some fam time. You around late-ish tonight?</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-05-25 19:06:41 UTC">
+      <body>Nah, workin a wedding. I'll hit ya up after the weekend</body>
+    </message>
+    <message id="m0004" participant="131971" time="2013-05-25 19:07:18 UTC">
+      <body>I'll be available most of the day tomorrow.</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-05-25 19:07:49 UTC">
+      <body>K kewl</body>
+    </message>
+    <message id="m0006" participant="131971" time="2013-05-26 15:45:04 UTC">
+      <body>Basically anytime between 3 and 7 todayS</body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-05-26 15:58:38 UTC">
+      <body>Ah, I'm workin 2 - 11 today</body>
+    </message>
+  </messages>
+</conversation>

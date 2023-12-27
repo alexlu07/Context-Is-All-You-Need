@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130970" time="2013-06-02 13:10:33 UTC">
+      <body>What's up, my new buddy?</body>
+    </message>
+    <message id="m0001" participant="130970" time="2013-06-02 13:10:59 UTC">
+      <body>Anything fun going on this weekend?</body>
+    </message>
+    <message id="m0002" participant="130662" time="2013-06-02 13:53:37 UTC">
+      <body>(1/2)Haha! San Francisco is fun anytime of the year. There's always something going on. Went on a marine wildlife eco tour yesterday. It was like a 2-hr boat</body>
+    </message>
+    <message id="m0003" participant="130662" time="2013-06-02 13:53:37 UTC">
+      <body>(2/2)ride where we saw seals and other sea creatures</body>
+    </message>
+    <message id="m0004" participant="130662" time="2013-06-02 13:54:24 UTC">
+      <body>There's a food and wine festival today. So yeah, fun weekend this. How's yours?</body>
+    </message>
+    <message id="m0005" participant="130970" time="2013-06-02 14:00:59 UTC">
+      <body>The eco tour sounds awesome!! And food and wine make a winning combo.:-)</body>
+    </message>
+    <message id="m0006" participant="130970" time="2013-06-02 14:03:17 UTC">
+      <body>s bbq today.</body>
+    </message>
+    <message id="m0007" participant="130662" time="2013-06-02 14:28:15 UTC">
+      <body>Nice! The weather's perfect for a bbq here too, you know. Say, have you ever been to the Bay Area?</body>
+    </message>
+    <message id="m0008" participant="130970" time="2013-06-02 20:32:42 UTC">
+      <body>Yes, been a number of times. Two years ago I worked a promo in the bay area for 5 weeks. We rented a couple rooms in a house in Hayward.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2013-06-06 10:28:25 UTC">
+      <body>Just heard story about building collapse in Philly, 30th and Market. You ok?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-06 11:59:16 UTC">
+      <body>Yep I don't know anyone who was near it. It was 22nd and Market I think.</body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-06-06 12:01:15 UTC">
+      <body>Thanks. I can stop my parental worrying now. Let me know when you have the FedEx package. </body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-06 13:45:16 UTC">
+      <body>Got it!</body>
+    </message>
+    <message id="m0004" participant="135266" time="2013-06-06 13:52:14 UTC">
+      <body>Good</body>
+    </message>
+  </messages>
+</conversation>

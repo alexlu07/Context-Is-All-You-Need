@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150314.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-14 14:00:13 UTC" participant="153804">
+      <body>Any idea of what time the mail comes on Saturdays?</body>
+    </message>
+    <message id="m0001" time="2015-03-14 14:01:02 UTC" participant="153815">
+      <body>No. I think by 1pm. Not sure</body>
+    </message>
+    <message id="m0002" time="2015-03-14 14:01:39 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

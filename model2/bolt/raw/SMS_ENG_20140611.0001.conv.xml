@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 13:09:37 UTC" participant="152417">
+      <body>Did you get through to your gate okay?</body>
+    </message>
+    <message id="m0001" time="2014-06-11 13:16:29 UTC" participant="152560">
+      <body>Yes. Just waiting to board. The man at the check-in station told me the Atlanta airport is the largest in the country; it's a good thing I have the extra layover time to try to navigate my way around! </body>
+    </message>
+    <message id="m0002" time="2014-06-11 17:20:21 UTC" participant="152560">
+      <body>I'm in Atlanta for a bit of a layover. The flight to Managua takes off at 5:50. </body>
+    </message>
+    <message id="m0003" time="2014-06-11 19:51:41 UTC" participant="152417">
+      <body>Safe travels! Enjoy and take lots of photos.</body>
+    </message>
+    <message id="m0004" time="2014-06-11 20:11:41 UTC" participant="152560">
+      <body>Thanks-I am really excited! :)</body>
+    </message>
+  </messages>
+</conversation>
+

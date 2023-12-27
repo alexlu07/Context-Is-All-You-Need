@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-01-19 15:37:44 UTC">
+      <body>What's your new address?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-01-19 15:38:16 UTC">
+      <body>Thanks.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-19 15:38:43 UTC">
+      <body>You're the emergency contact on my passport renewal app.</body>
+    </message>
+    <message id="m0004" participant="131503" time="2013-01-19 15:40:42 UTC">
+      <body>OK</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140315.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-15 17:37:56 UTC" participant="152119">
+      <body>Hey, what's up? </body>
+    </message>
+    <message id="m0001" time="2014-03-15 19:27:58 UTC" participant="153418">
+      <body>Hey, sorry for not getting back to you. I've been busy.</body>
+    </message>
+    <message id="m0002" time="2014-03-15 19:28:39 UTC" participant="153418">
+      <body>I'm all right. Planning on being in Philadelphia Sunday night, Monday, and Tuesday.</body>
+    </message>
+    <message id="m0003" time="2014-03-15 19:34:10 UTC" participant="152119">
+      <body>Yeah, figured you were busy it's okay. All right, be careful when you come there's supposed to be snow. </body>
+    </message>
+    <message id="m0004" time="2014-03-15 19:37:28 UTC" participant="153418">
+      <body>I don't believe in snow anymore. </body>
+    </message>
+    <message id="m0005" time="2014-03-15 20:02:49 UTC" participant="152119">
+      <body>Hahaha whaaaat? </body>
+    </message>
+  </messages>
+</conversation>
+

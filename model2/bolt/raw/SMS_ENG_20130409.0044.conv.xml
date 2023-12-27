@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130409.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137376" time="2013-04-09 01:38:08 UTC">
+      <body>I'm going on a walk with Rachel </body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-04-09 18:02:52 UTC">
+      <body>Are you on the train?</body>
+    </message>
+    <message id="m0002" participant="137376" time="2013-04-09 18:03:01 UTC">
+      <body>Yup</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-04-09 18:03:16 UTC">
+      <body>Love you</body>
+    </message>
+    <message id="m0004" participant="137376" time="2013-04-09 18:03:24 UTC">
+      <body>Love you too</body>
+    </message>
+  </messages>
+</conversation>

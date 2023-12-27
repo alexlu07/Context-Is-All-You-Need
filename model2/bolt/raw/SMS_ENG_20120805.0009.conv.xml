@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120805.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136220" time="2012-08-05 18:25:02 UTC">
+      <body>You free tonight?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-08-05 18:39:56 UTC">
+      <body>Nahh I'm not in the city</body>
+    </message>
+  </messages>
+</conversation>

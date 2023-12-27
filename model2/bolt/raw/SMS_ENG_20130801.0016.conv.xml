@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-08-01 16:05:52 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-08-01 16:08:32 UTC">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-08-01 16:10:45 UTC">
+      <body>OK ready to get out of work!</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-08-01 16:27:37 UTC">
+      <body>I hear ya</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-08-01 16:27:37 UTC">
+      <body>Where do you live?</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-08-01 16:31:36 UTC">
+      <body>Philly...u?</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-08-01 16:40:42 UTC">
+      <body>Same</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-08-01 17:04:10 UTC">
+      <body>What do u do?</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-08-01 17:37:01 UTC">
+      <body>Sales and marketing. You?</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-08-01 18:34:06 UTC">
+      <body>budget analyst for Philadelphia schools district</body>
+    </message>
+  </messages>
+</conversation>

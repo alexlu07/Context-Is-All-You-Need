@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150404.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-04 15:06:10 UTC" participant="153412">
+      <body>Hey. I still don't know where we're going or when we're going out. Hahah. The plan is forming though, can you still go out or are you hiding?</body>
+    </message>
+    <message id="m0001" time="2015-04-04 15:55:57 UTC" participant="153416">
+      <body>Forget the hiding haha. Though I don't know what's going on. I might have to stay here to get on my parent's good side. </body>
+    </message>
+    <message id="m0002" time="2015-04-04 15:58:04 UTC" participant="153412">
+      <body>Oh no. Okay. No worries. </body>
+    </message>
+    <message id="m0003" time="2015-04-04 15:58:54 UTC" participant="153416">
+      <body>Yeah it's been one hell of a break lol.   How are things with you?</body>
+    </message>
+    <message id="m0004" time="2015-04-04 15:59:15 UTC" participant="153412">
+      <body>Good. We're currently at green eggs cafe getting brunch. </body>
+    </message>
+    <message id="m0005" time="2015-04-04 16:03:05 UTC" participant="153416">
+      <body>Awesome! Hope you enjoy it! Tell Mike I said hi</body>
+    </message>
+    <message id="m0006" time="2015-04-04 16:03:46 UTC" participant="153412">
+      <body>Mike says hello </body>
+    </message>
+    <message id="m0007" time="2015-04-04 16:07:46 UTC" participant="153416">
+      <body>:) </body>
+    </message>
+  </messages>
+</conversation>
+

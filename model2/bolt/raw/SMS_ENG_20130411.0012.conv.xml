@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131286" time="2013-04-11 01:24:58 UTC">
+      <body>Did breezy make it to Maryland?!</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-04-11 01:59:23 UTC">
+      <body>Yes! Last Thursday. I went back Sunday to see him and he seemed happy.</body>
+    </message>
+    <message id="m0002" participant="131286" time="2013-04-11 02:04:16 UTC">
+      <body>Nice!!! How far from where you are living? Wondering if I should take the train from Dulles to shady grove so I can see him too instead of meeting you in sx</body>
+    </message>
+    <message id="m0003" participant="131286" time="2013-04-11 02:04:18 UTC">
+      <body>Er in dc</body>
+    </message>
+    <message id="m0004" participant="131281" time="2013-04-11 02:05:39 UTC">
+      <body>Wait, i thought i was picking you up?? But he's 25min away from our place, away from DC</body>
+    </message>
+    <message id="m0005" participant="131286" time="2013-04-11 02:06:50 UTC">
+      <body>Oh boo :( and I'd love it if you picked me up wasn't sure I you could cause of Leah's class</body>
+    </message>
+    <message id="m0006" participant="131281" time="2013-04-11 02:08:59 UTC">
+      <body>If pick you up saturday, right? Class is Sunday.</body>
+    </message>
+    <message id="m0007" participant="131286" time="2013-04-11 02:09:54 UTC">
+      <body> Yes ! Awesome</body>
+    </message>
+    <message id="m0008" participant="131281" time="2013-04-11 02:17:15 UTC">
+      <body>No problem, should work out fine. Headed to bed, night night.</body>
+    </message>
+    <message id="m0009" participant="131286" time="2013-04-11 02:17:50 UTC">
+      <body>Good night!</body>
+    </message>
+  </messages>
+</conversation>

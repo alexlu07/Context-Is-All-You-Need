@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131585" time="2013-05-19 14:37:13 UTC">
+      <body>Your dent is bigger than mine</body>
+    </message>
+    <message id="m0001" participant="131528" time="2013-05-19 14:39:54 UTC">
+      <body>Good.  It's just the one panel and a little bumper issue.  The trunk works and i think i can drive it.  All in all,  could have been a lot worse. </body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-19 14:48:28 UTC">
+      <body>USAA will handle everything and pay the shop directly. Or i can take it to a place of my choosing and they can pay me or the shop.  The latter, right? </body>
+    </message>
+    <message id="m0003" participant="131585" time="2013-05-19 15:05:08 UTC">
+      <body>Usaa</body>
+    </message>
+  </messages>
+</conversation>

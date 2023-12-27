@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150310.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-10 22:52:51 UTC" participant="153459">
+      <body>Hey.  I have an idea for software that monitors hardware health in real time and reports back to a central server if there are issues so a warranty claim</body>
+    </message>
+    <message id="m0001" time="2015-03-10 22:52:53 UTC" participant="153459">
+      <body> can be made.  Does that seem quasi realistic to be done without vendor involvement?</body>
+    </message>
+    <message id="m0002" time="2015-03-10 23:21:12 UTC" participant="153418">
+      <body>A program that sends data to database on a server is possible. Someone needs to develop the backend logic that manages the database, hosts the server, etc.</body>
+    </message>
+    <message id="m0003" time="2015-03-10 23:21:57 UTC" participant="153418">
+      <body>I don't know enough about what data you're collecting though. What metrics are you using to determine hardware health?</body>
+    </message>
+    <message id="m0004" time="2015-03-10 23:22:40 UTC" participant="153418">
+      <body>By hardware, I assume you mean components inside some workstation and not PCBs or anything like that.</body>
+    </message>
+    <message id="m0005" time="2015-03-10 23:35:00 UTC" participant="153459">
+      <body>Mostly desktop computers</body>
+    </message>
+    <message id="m0006" time="2015-03-10 23:35:46 UTC" participant="153459">
+      <body>My goal is a self healing environment.  In terms of future proofing, adopting it to a vdi setup</body>
+    </message>
+    <message id="m0007" time="2015-03-10 23:47:47 UTC" participant="153418">
+      <body>I'm not familiar with what VDI is. The constraint I see right now is the data that you want to send to the database.</body>
+    </message>
+    <message id="m0008" time="2015-03-10 23:48:33 UTC" participant="153459">
+      <body>Virtual desktop so thin clients talking to a server</body>
+    </message>
+    <message id="m0009" time="2015-03-10 23:49:41 UTC" participant="153418">
+      <body>You'll need to determine the metrics you want (CPU temp? Etc) and some formula that spits out whether it's healthy or not based off of that.</body>
+    </message>
+    <message id="m0010" time="2015-03-10 23:50:26 UTC" participant="153459">
+      <body>Does it seem like the first step in a self healing environment?</body>
+    </message>
+    <message id="m0011" time="2015-03-10 23:51:17 UTC" participant="153418">
+      <body>What's your vision for self healing with regards to faulty hardware? </body>
+    </message>
+    <message id="m0012" time="2015-03-10 23:52:04 UTC" participant="153418">
+      <body>How exactly does self healing occur? </body>
+    </message>
+    <message id="m0013" time="2015-03-10 23:52:49 UTC" participant="153459">
+      <body>Faulty hardware, determining ui flaws, and when added training is needed</body>
+    </message>
+    <message id="m0014" time="2015-03-10 23:52:50 UTC" participant="153459">
+      <body>For faulty hardware migrating to a healthy instance</body>
+    </message>
+    <message id="m0015" time="2015-03-10 23:53:20 UTC" participant="153459">
+      <body>For ui on internally developed systems bug tickets being training</body>
+    </message>
+    <message id="m0016" time="2015-03-10 23:53:51 UTC" participant="153459">
+      <body>And for those that are clueless info on needed training would be the big one I could think of</body>
+    </message>
+    <message id="m0017" time="2015-03-10 23:58:38 UTC" participant="153418">
+      <body>For solely the faulty hardware part, I think the first step would be to investigate automatic detection of faulty hardware.</body>
+    </message>
+    <message id="m0018" time="2015-03-10 23:59:30 UTC" participant="153418">
+      <body>If you can detect it automatically with your own software, then it should be relatively simple to just send it to a database.</body>
+    </message>
+    <message id="m0019" time="2015-03-11 00:01:10 UTC" participant="153418">
+      <body>From that point, how you handle that is limitless. In the most simple scenario, you have a record you can use for warranty claims.</body>
+    </message>
+    <message id="m0020" time="2015-03-11 00:31:49 UTC" participant="153459">
+      <body>I'm meeting with the cfo tomorrow.  I'm reaching for the cio spot.  Im trying to figure out how realistic my long term goals are</body>
+    </message>
+    <message id="m0021" time="2015-03-11 00:32:25 UTC" participant="153459">
+      <body>If I pull through the unlikely odds you obviously have a spot under my reign</body>
+    </message>
+    <message id="m0022" time="2015-03-11 00:34:12 UTC" participant="153459">
+      <body>This is unrelated to my self healing idea, but there will be a lot of I promise and you and Tom deliver type of stuff going on over the next year if I pu</body>
+    </message>
+    <message id="m0023" time="2015-03-11 00:34:28 UTC" participant="153459">
+      <body>ll it off</body>
+    </message>
+    <message id="m0024" time="2015-03-11 00:37:07 UTC" participant="153459">
+      <body>Interested?</body>
+    </message>
+    <message id="m0025" time="2015-03-11 00:38:50 UTC" participant="153418">
+      <body>It'll be insane if you pull off another big career jump in such a short time.</body>
+    </message>
+    <message id="m0026" time="2015-03-11 00:39:29 UTC" participant="153418">
+      <body>I'm afraid I'm not so sure about my short term or long term goals right now.</body>
+    </message>
+    <message id="m0027" time="2015-03-11 00:41:38 UTC" participant="153459">
+      <body>I'm the only person on campus to be qualified and identified as getting it.  It's extremely low odds, but my new and old management are backing me.  I wo</body>
+    </message>
+    <message id="m0028" time="2015-03-11 00:41:48 UTC" participant="153459">
+      <body>uld have at least 4 years and I would put you at a level where you'd be significantly better off.</body>
+    </message>
+    <message id="m0029" time="2015-03-11 00:43:15 UTC" participant="153459">
+      <body>You and Tom will be patching my significant holes in skillset</body>
+    </message>
+    <message id="m0030" time="2015-03-11 00:43:56 UTC" participant="153459">
+      <body>I'm basically saying I can cut 1/3 of all it for a 700k a year investment</body>
+    </message>
+    <message id="m0031" time="2015-03-11 00:46:32 UTC" participant="153418">
+      <body>I appreciate you thinking highly of me, but I'm really not sure how I want to further my career right now. 
+
+If you pull it off, feel free to message me and I'll consider it, but I can't promise anything.</body>
+    </message>
+    <message id="m0032" time="2015-03-11 00:53:08 UTC" participant="153459">
+      <body>It's a long shot, but I don't want to shoot without my support system</body>
+    </message>
+    <message id="m0033" time="2015-03-11 00:53:29 UTC" participant="153459">
+      <body>Hopefully it turns into something</body>
+    </message>
+    <message id="m0034" time="2015-03-11 22:40:12 UTC" participant="153459">
+      <body>Today went well.  I think I can get head of all support and desktop design.  I have a seat at the table at least</body>
+    </message>
+    <message id="m0035" time="2015-03-11 22:40:30 UTC" participant="153459">
+      <body>We'll see in a few months</body>
+    </message>
+  </messages>
+</conversation>
+

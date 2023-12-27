@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120909.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136261" time="2012-09-09 03:23:51 UTC">
+      <body>Do you have a lighter?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-09 03:23:58 UTC">
+      <body>No sorry</body>
+    </message>
+  </messages>
+</conversation>

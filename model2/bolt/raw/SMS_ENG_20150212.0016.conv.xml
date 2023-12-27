@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150212.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-12 02:27:12 UTC" participant="152786">
+      <body>hey does "sils" translate from german?</body>
+    </message>
+    <message id="m0001" time="2015-02-12 02:37:00 UTC" participant="152735">
+      <body>Hmmm I don't think sils means anything?! Where did you see that? </body>
+    </message>
+    <message id="m0002" time="2015-02-12 02:37:22 UTC" participant="152786">
+      <body>there's a village in the Swiss alps called Sils Maria</body>
+    </message>
+  </messages>
+</conversation>
+

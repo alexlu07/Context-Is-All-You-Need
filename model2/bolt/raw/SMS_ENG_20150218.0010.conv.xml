@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150218.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-18 18:24:32 UTC" participant="152583">
+      <body>Hey Gavi, we are all here to play for Latin if you're looking to play. </body>
+    </message>
+    <message id="m0001" time="2015-02-18 18:25:07 UTC" participant="152417">
+      <body> I'm at home with a fever, </body>
+    </message>
+    <message id="m0002" time="2015-02-18 18:25:18 UTC" participant="152417">
+      <body>It told arturo</body>
+    </message>
+    <message id="m0003" time="2015-02-18 18:29:20 UTC" participant="152583">
+      <body>Shit man I hope you feel better!</body>
+    </message>
+    <message id="m0004" time="2015-02-18 18:30:06 UTC" participant="152417">
+      <body>thanks, sorry I can't be there</body>
+    </message>
+    <message id="m0005" time="2015-02-18 18:30:54 UTC" participant="152583">
+      <body>It's cool! Good health is kind of important!</body>
+    </message>
+  </messages>
+</conversation>
+

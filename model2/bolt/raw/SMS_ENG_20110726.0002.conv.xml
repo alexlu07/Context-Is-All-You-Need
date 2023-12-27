@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110726.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135095" time="2011-07-26 22:50:51 UTC">
+      <body>I don't think so. I was trying to think for s while. Hrm. </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-26 22:51:36 UTC">
+      <body>I figured it out! It's the noise he makes after he says it... Just a poorly executed joke my co worker made</body>
+    </message>
+    <message id="m0002" participant="135095" time="2011-07-26 22:52:23 UTC">
+      <body>Ah. Hilarious! </body>
+    </message>
+  </messages>
+</conversation>

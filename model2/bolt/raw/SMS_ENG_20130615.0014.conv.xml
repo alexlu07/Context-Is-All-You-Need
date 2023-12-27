@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-15 18:19:48 UTC">
+      <body>I have to work at 3pm tomorrow, but I'm happy to work a morning shift if you need me. </body>
+    </message>
+    <message id="m0001" participant="131968" time="2013-06-15 20:26:26 UTC">
+      <body>Thanks anyway the shift is Breakfast lunch and dinner</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-15 22:58:05 UTC">
+      <body>Ok, see ya soon!</body>
+    </message>
+  </messages>
+</conversation>

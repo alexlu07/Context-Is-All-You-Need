@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-25 20:17:32 UTC" participant="152374">
+      <body>You're not here yet, are you? Am I walking right past you somewhere?</body>
+    </message>
+    <message id="m0001" time="2013-01-25 20:19:23 UTC" participant="153973">
+      <body>Noo, train late</body>
+    </message>
+    <message id="m0002" time="2013-01-25 20:19:38 UTC" participant="153973">
+      <body>Sorry</body>
+    </message>
+    <message id="m0003" time="2013-01-25 20:28:17 UTC" participant="153973">
+      <body>Here red coat</body>
+    </message>
+  </messages>
+</conversation>
+

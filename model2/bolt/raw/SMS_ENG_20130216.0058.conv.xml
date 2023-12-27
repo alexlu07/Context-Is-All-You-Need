@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-02-16 07:05:33 UTC">
+      <body>Hey beautiful. Are we still on for tomorrow afternoon?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-16 07:05:53 UTC">
+      <body>absolutely! do you have a time in mind? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-02-16 19:14:38 UTC">
+      <body>Say around four?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-16 19:15:03 UTC">
+      <body>sure! did you have plans for us, or... </body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-02-16 19:34:54 UTC">
+      <body>A walk perhaps and then dinner later so you could wear your dress.</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-02-16 19:36:20 UTC">
+      <body>so i should maybe just bring it along and change? sorry to pester you with questions, i'm just trying to mentally map out the evening. :) </body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-02-16 19:47:06 UTC">
+      <body>i don't even have to wear the dress. we could totally save it for a more worthy occasion. </body>
+    </message>
+    <message id="m0007" participant="136150" time="2013-02-16 20:25:33 UTC">
+      <body>Ok save the dress for now. I still have to get ready so let's say half part four, ok?</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-02-16 20:26:08 UTC">
+      <body>perfect, thanks. :) </body>
+    </message>
+  </messages>
+</conversation>

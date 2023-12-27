@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141204.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-04 23:05:26 UTC" participant="152417">
+      <body>Howre finals goin? Are you still sane?</body>
+    </message>
+    <message id="m0001" time="2014-12-05 00:21:20 UTC" participant="152424">
+      <body>pretty buried at this point.  do you have a lot todo?</body>
+    </message>
+    <message id="m0002" time="2014-12-05 01:29:50 UTC" participant="152417">
+      <body>Yerp, just finished a paper and a presentation, 3 finals next week and finally getting to work on spanish stuff</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140306.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-06 21:32:48 UTC" participant="153634">
+      <body>Ariel sent you $ for yr train ticket via paypal, did you get it?</body>
+    </message>
+    <message id="m0001" time="2014-03-06 22:59:58 UTC" participant="153548">
+      <body>I got it! I just sent A a thank you</body>
+    </message>
+    <message id="m0002" time="2014-03-07 00:36:16 UTC" participant="153634">
+      <body>oh good</body>
+    </message>
+  </messages>
+</conversation>
+

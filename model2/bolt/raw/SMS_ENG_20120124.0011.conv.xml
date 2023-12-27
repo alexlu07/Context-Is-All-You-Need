@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120124.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-01-24 00:11:16 UTC" participant="153273">
+      <body>Hey! I have a bod meeting until 6:30pm. I thought I could skip out but can't. Where are you going to be before you head to the airport?</body>
+    </message>
+    <message id="m0001" time="2012-01-24 03:47:20 UTC" participant="152734">
+      <body>Just finished dinner, chillin out a bit before I get on the plane. Could get a quick dessert/beer/whatever, or see you next time! </body>
+    </message>
+    <message id="m0002" time="2012-01-24 03:48:34 UTC" participant="153273">
+      <body>I'm sorry, I'll see you next time! I'm so glad I got to see you for a little bit. You look great and really happy. Come back soon!</body>
+    </message>
+    <message id="m0003" time="2012-01-24 03:51:03 UTC" participant="152734">
+      <body>Definitely. You look great and happy too! Soooooo how was your date last night? </body>
+    </message>
+    <message id="m0004" time="2012-01-24 03:51:39 UTC" participant="153273">
+      <body>Fabulous. I kinda like him but I wanna take it suuuuuuper slow.</body>
+    </message>
+    <message id="m0005" time="2012-01-24 03:52:09 UTC" participant="152734">
+      <body>Awesome, I like it! Keep me posted...</body>
+    </message>
+    <message id="m0006" time="2012-01-24 04:41:32 UTC" participant="153273">
+      <body>Will do. And you do the same! Safe travels!</body>
+    </message>
+  </messages>
+</conversation>
+

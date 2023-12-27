@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131030.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-30 21:55:42 UTC" participant="154352">
+      <body>I'm here at 49th and Warrington</body>
+    </message>
+    <message id="m0001" time="2013-10-31 12:29:09 UTC" participant="154352">
+      <body>I'll see you at your place around 7:45 tonight</body>
+    </message>
+    <message id="m0002" time="2013-10-31 20:11:08 UTC" participant="154406">
+      <body>sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

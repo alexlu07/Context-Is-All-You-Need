@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140909.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-09 21:02:55 UTC" participant="153548">
+      <body>Hey! You going to screening tonight? Sit by me!</body>
+    </message>
+    <message id="m0001" time="2014-09-09 21:10:32 UTC" participant="153633">
+      <body>Yep! I will look for you!</body>
+    </message>
+  </messages>
+</conversation>
+

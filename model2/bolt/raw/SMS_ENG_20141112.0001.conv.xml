@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141112.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-12 22:24:00 UTC" participant="152424">
+      <body>making curry turkey salad.  hungry?</body>
+    </message>
+    <message id="m0001" time="2014-11-12 22:40:12 UTC" participant="152417">
+      <body>I'm accompanying someones recital tonight, so i wont be free for a while.  Thanks tho</body>
+    </message>
+    <message id="m0002" time="2014-11-12 22:40:37 UTC" participant="152424">
+      <body>okie have fun</body>
+    </message>
+    <message id="m0003" time="2014-11-12 23:48:45 UTC" participant="152417">
+      <body>I'm on third! So i can be out by 715ish, will you have any turkey left?</body>
+    </message>
+    <message id="m0004" time="2014-11-12 23:49:20 UTC" participant="152424">
+      <body>certainly.  come on over</body>
+    </message>
+  </messages>
+</conversation>
+

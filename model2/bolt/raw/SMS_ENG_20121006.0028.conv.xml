@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-06 14:59:20 UTC">
+      <body>Awake? Hungry?</body>
+    </message>
+    <message id="m0001" participant="136267" time="2012-10-07 04:54:24 UTC">
+      <body>For what?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-07 04:54:44 UTC">
+      <body>When will you be ready</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-07 04:55:31 UTC">
+      <body>Pots</body>
+    </message>
+    <message id="m0004" participant="136267" time="2012-10-07 04:56:32 UTC">
+      <body>L8r</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-07 05:25:26 UTC">
+      <body>I brought Ovadia back</body>
+    </message>
+    <message id="m0006" participant="136267" time="2012-10-07 05:26:24 UTC">
+      <body>Good. And he's alive?</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-10-07 05:27:18 UTC">
+      <body>Yea he's fine. Amit and I are coming back</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-10-07 05:39:12 UTC">
+      <body>Where did you go</body>
+    </message>
+    <message id="m0009" participant="136267" time="2012-10-07 05:41:20 UTC">
+      <body>I'm in fevans now</body>
+    </message>
+    <message id="m0010" participant="136267" time="2012-10-07 05:46:56 UTC">
+      <body>I'm headed to be now. Night man </body>
+    </message>
+  </messages>
+</conversation>

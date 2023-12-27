@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120330.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2012-03-30 18:53:40 UTC">
+      <body>Hair looks good! I'm excited to see it in person</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-03-30 18:54:45 UTC">
+      <body>Haha thanks! It looks really bad in the picture though</body>
+    </message>
+    <message id="m0002" participant="131063" time="2012-03-30 18:55:38 UTC">
+      <body>Naaah I thought it looked pretty good! Are you liking it?</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-03-30 18:55:53 UTC">
+      <body>Haha I love it (: a lot</body>
+    </message>
+  </messages>
+</conversation>

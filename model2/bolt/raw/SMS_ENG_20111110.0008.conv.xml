@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111110.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131310" time="2011-11-10 14:26:48 UTC">
+      <body>Hi noah!  I got a wig for the film.. And the lettering for the tombstone. Need to connect w u and chris b4 sat</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-11-10 14:28:04 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="131310" time="2011-11-10 14:29:12 UTC">
+      <body>Let me know how it goes and any questions i can help with</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-11-10 14:29:38 UTC">
+      <body>Sounds good, thanks!</body>
+    </message>
+  </messages>
+</conversation>

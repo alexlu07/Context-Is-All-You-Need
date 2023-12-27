@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150326.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-26 20:31:05 UTC" participant="152116">
+      <body>When's the next time you'll be in Philly?</body>
+    </message>
+    <message id="m0001" time="2015-03-26 20:31:54 UTC" participant="153418">
+      <body>I'll be in this weekend, but I might be busy on Sunday.</body>
+    </message>
+    <message id="m0002" time="2015-03-26 20:32:38 UTC" participant="152116">
+      <body>Wait, like you'll be here Saturday?</body>
+    </message>
+    <message id="m0003" time="2015-03-26 20:33:50 UTC" participant="153418">
+      <body>I should be.</body>
+    </message>
+    <message id="m0004" time="2015-03-26 20:40:39 UTC" participant="152116">
+      <body>Okay cause that's Phuong's birthday and we're making plans to go out</body>
+    </message>
+  </messages>
+</conversation>
+

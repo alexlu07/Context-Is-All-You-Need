@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131954" time="2013-05-20 19:39:02 UTC">
+      <body>Hey! Hope all is well. One of the girls who will be living there in August hasn't seen the place and wants to stop by this week. Could I give her your cell and </body>
+    </message>
+    <message id="m0001" participant="131954" time="2013-05-20 19:40:03 UTC">
+      <body>she can coordinate with you?</body>
+    </message>
+    <message id="m0002" participant="131945" time="2013-05-20 19:49:49 UTC">
+      <body>Of course!  It'll be a good excuse to clean the house again.  Give her my info!</body>
+    </message>
+    <message id="m0003" participant="131954" time="2013-05-20 19:50:59 UTC">
+      <body>K, thanks! Do you still need a letter of recommendation?</body>
+    </message>
+    <message id="m0004" participant="131945" time="2013-05-20 20:00:42 UTC">
+      <body>Yes please!   That would be great. </body>
+    </message>
+    <message id="m0005" participant="131954" time="2013-05-20 20:03:41 UTC">
+      <body>how exactly do you want me to write your name? I always ask because some people use full name, etc. also, you said this was for places to live, correct?</body>
+    </message>
+    <message id="m0006" participant="131945" time="2013-05-20 20:06:49 UTC">
+      <body>Just Haley McFeely is fine   Yeah, just a letter of good faith that I can show to potential landlords when I move to San Francisco.  Thank you!</body>
+    </message>
+    <message id="m0007" participant="131954" time="2013-05-20 20:10:06 UTC">
+      <body>Sounds good. I'll take care of that this week.</body>
+    </message>
+  </messages>
+</conversation>

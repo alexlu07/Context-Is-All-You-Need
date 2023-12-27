@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121219.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135289" time="2012-12-19 01:49:05 UTC">
+      <body>Back in needham! When do you get home?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-12-19 05:21:01 UTC">
+      <body>Hey! Sry I just saw this. I'm getting home Saturday! :)</body>
+    </message>
+    <message id="m0002" participant="135289" time="2012-12-19 05:22:16 UTC">
+      <body>Cool, well we should hang out then!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-12-19 05:22:34 UTC">
+      <body>Definitely :D</body>
+    </message>
+  </messages>
+</conversation>

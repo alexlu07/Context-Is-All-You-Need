@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136143" time="2013-02-19 13:49:15 UTC">
+      <body>Hey, I am still planning on visiting with Valerie this morning, want to come?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-19 13:50:02 UTC">
+      <body>something came up with work, i'm sorry! next time for sure, though, and tell her i said hello! </body>
+    </message>
+    <message id="m0002" participant="136143" time="2013-02-19 14:51:10 UTC">
+      <body>I will, no worries!</body>
+    </message>
+  </messages>
+</conversation>

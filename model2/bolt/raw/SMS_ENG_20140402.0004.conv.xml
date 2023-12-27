@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 13:03:27 UTC" participant="152639">
+      <body>so you think you could brew at the gallery before we end tonight? We're only going to 8:30 tonight.</body>
+    </message>
+    <message id="m0001" time="2014-04-02 13:06:57 UTC" participant="152417">
+      <body>Brew what?</body>
+    </message>
+    <message id="m0002" time="2014-04-02 13:10:29 UTC" participant="152639">
+      <body>Oops. Damn dictionary thinks It knows what I want to say. It is supposed to say "be at the gallery..."</body>
+    </message>
+    <message id="m0003" time="2014-04-02 16:33:16 UTC" participant="152417">
+      <body>Yep, ill be there right around 7</body>
+    </message>
+  </messages>
+</conversation>
+

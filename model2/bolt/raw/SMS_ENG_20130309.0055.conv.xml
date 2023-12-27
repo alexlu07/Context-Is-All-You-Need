@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-09 20:11:54 UTC">
+      <body>is there any mail for me at the house that might actually be interesting? </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-03-09 20:12:58 UTC">
+      <body>No. Riding.</body>
+    </message>
+    <message id="m0002" participant="136163" time="2013-03-10 03:05:16 UTC">
+      <body>The FAFSA has been submitted. The confirmation was sent to your bellsouth address.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-10 03:05:28 UTC">
+      <body>thanks!!! </body>
+    </message>
+    <message id="m0004" participant="136163" time="2013-03-10 03:06:20 UTC">
+      <body>So is Lynn already there with you?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-10 03:06:30 UTC">
+      <body>she's coming tomorrow night </body>
+    </message>
+    <message id="m0006" participant="136163" time="2013-03-10 03:09:11 UTC">
+      <body>Do you know when she is leaving here? I was thinking I might send the parts of the IDOC you need to sign with her.</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-03-10 03:10:06 UTC">
+      <body>i don't. she's supposed to get to me after 8. if you texted her now maybe you could give them to her in the morning before she leaves. </body>
+    </message>
+  </messages>
+</conversation>

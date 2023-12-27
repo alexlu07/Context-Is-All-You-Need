@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 13:12:35 UTC" participant="154902">
+      <body>I'll be about 15 min late Michelle. </body>
+    </message>
+    <message id="m0001" time="2014-12-30 13:12:55 UTC" participant="154902">
+      <body>U On time this morning? </body>
+    </message>
+    <message id="m0002" time="2014-12-30 13:13:46 UTC" participant="153244">
+      <body>Close enough lol ill be there shortly</body>
+    </message>
+    <message id="m0003" time="2014-12-30 13:16:37 UTC" participant="154902">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

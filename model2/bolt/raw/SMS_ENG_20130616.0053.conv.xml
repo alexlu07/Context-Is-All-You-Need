@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135624" time="2013-06-16 20:40:36 UTC">
+      <body>Hi! This is Katelyn, the singer who emailed you from craigslist. Sorry it's taken me a few days to get back to you- I was out of the state. I'm back now and am up for meeting and singing whenever you're free! :)</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-16 22:22:24 UTC">
+      <body>hey thanks. what's your availability like?</body>
+    </message>
+    <message id="m0002" participant="135624" time="2013-06-16 22:35:08 UTC">
+      <body>It's pretty flexible, i have an internships and some gigs so not much week to week. i can't do thursday afternoons/evenings or saturday from 6:30 to 8:30, but otherwise it varies!</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-16 22:36:25 UTC">
+      <body>Weekdays or weekends better for you?</body>
+    </message>
+    <message id="m0004" participant="135624" time="2013-06-16 22:37:59 UTC">
+      <body>Either, really!</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-06-16 22:49:26 UTC">
+      <body>Great. Do you live in the city?</body>
+    </message>
+    <message id="m0006" participant="135624" time="2013-06-16 22:50:03 UTC">
+      <body>I'm in havertown, so just outside of the city</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-06-16 23:16:26 UTC">
+      <body>Ohok. I live in Fairmount right next to art museum</body>
+    </message>
+    <message id="m0008" participant="135624" time="2013-06-17 01:02:08 UTC">
+      <body>Awesome, that's not far from me at all! :D</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-06-17 01:04:38 UTC">
+      <body>Awrsome. Let's get together soon</body>
+    </message>
+  </messages>
+</conversation>

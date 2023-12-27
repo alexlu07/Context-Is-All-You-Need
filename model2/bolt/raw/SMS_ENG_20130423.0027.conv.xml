@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135486" time="2013-04-23 13:26:24 UTC">
+      <body>Sophie, And here's a txt! I forgot that I need to reschedule next week.  I can meet later in the week, or if you'd like, we can set up an appointment for this Friday.  What's best for you?  Marjorie</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-23 20:51:26 UTC">
+      <body>Marjorie, can we skip next week then? since ill be going out of town I won't be here on Friday. </body>
+    </message>
+    <message id="m0002" participant="135486" time="2013-04-23 21:41:20 UTC">
+      <body>Sure...see you in a couple of weeks.</body>
+    </message>
+  </messages>
+</conversation>

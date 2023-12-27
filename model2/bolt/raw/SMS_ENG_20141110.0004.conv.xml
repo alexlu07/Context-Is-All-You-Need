@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141110.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-10 22:49:26 UTC" participant="152417">
+      <body>Wanna meet up later for a Vermont libation?</body>
+    </message>
+    <message id="m0001" time="2014-11-10 22:51:50 UTC" participant="152417">
+      <body>And by later i mean 830 or 9</body>
+    </message>
+    <message id="m0002" time="2014-11-10 23:47:12 UTC" participant="152595">
+      <body>Ahh! I have class until 8:30 and still need to eat/make dinner after...</body>
+    </message>
+    <message id="m0003" time="2014-11-11 00:10:40 UTC" participant="152595">
+      <body>I don't know if tonigjt works and if it does would later also work? Like 9:30/10?</body>
+    </message>
+    <message id="m0004" time="2014-11-11 00:14:05 UTC" participant="152417">
+      <body>Sure, that would work</body>
+    </message>
+    <message id="m0005" time="2014-11-11 00:14:56 UTC" participant="152595">
+      <body>Or you could come over for dinner but you would have to not be a vegetarian</body>
+    </message>
+    <message id="m0006" time="2014-11-11 00:19:29 UTC" participant="152417">
+      <body>I just ate but I'd be happy to come by and watch you eat, see you at 845/9?</body>
+    </message>
+    <message id="m0007" time="2014-11-11 00:24:29 UTC" participant="152595">
+      <body> Let's shoot for 9. </body>
+    </message>
+    <message id="m0008" time="2014-11-11 02:01:57 UTC" participant="152417">
+      <body>I'm hurr</body>
+    </message>
+    <message id="m0009" time="2014-11-11 02:03:10 UTC" participant="152595">
+      <body>Last buzzer</body>
+    </message>
+    <message id="m0010" time="2014-11-11 02:03:44 UTC" participant="152595">
+      <body>I'm buzzing</body>
+    </message>
+    <message id="m0011" time="2014-11-11 05:41:29 UTC" participant="152417">
+      <body>Home safe</body>
+    </message>
+    <message id="m0012" time="2014-11-11 05:43:28 UTC" participant="152595">
+      <body>Good, thanks for letting me know. And thanks for coming over tonight. You forgot your beer though!</body>
+    </message>
+  </messages>
+</conversation>
+

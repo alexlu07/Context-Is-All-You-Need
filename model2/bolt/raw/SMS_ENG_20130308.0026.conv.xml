@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134310" time="2013-03-08 12:32:27 UTC">
+      <body>Hey is it snowing up there? It's pretty bad in west Chester. </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-03-08 12:34:22 UTC">
+      <body>It is a bit. Pretty light at this point </body>
+    </message>
+    <message id="m0002" participant="134310" time="2013-03-08 12:35:43 UTC">
+      <body>I texted Paul but no response. I think I'm gonna work from home until it stops later</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-03-08 12:47:51 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

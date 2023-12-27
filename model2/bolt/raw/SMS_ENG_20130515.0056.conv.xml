@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-15 18:36:54 UTC">
+      <body>Mark needs the car by 11:40 tomorrow morning. Did you want to meet a little earlier than 10? Does your dog(s) go for short walks or long walks? Do you have to do something afterwards anyway? I hate sharing the car like this!!! It's a new thing for me and it looks like it's going to be like this for a while...</body>
+    </message>
+    <message id="m0001" participant="137330" time="2013-05-15 18:41:35 UTC">
+      <body>Ah.  Actually i do need to go earlier if at all. I have to be at the office by 945. Can we meet earlier?</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-15 18:46:05 UTC">
+      <body>8:00? 8:30? 8:45?</body>
+    </message>
+    <message id="m0003" participant="137330" time="2013-05-16 02:34:44 UTC">
+      <body>Sorry. I was at dinner with my parents. Call me at like 730 and let's meet! </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-16 02:35:51 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110702.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-02 16:51:20 UTC">
+      <body>Have you taken myers briggs?</body>
+    </message>
+    <message id="m0001" participant="135093" time="2011-07-02 17:35:08 UTC">
+      <body>At one time I did - porque?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-02 17:35:46 UTC">
+      <body>Just wondering what your type is</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140410.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-10 16:15:47 UTC" participant="153244">
+      <body>Come to my house today? </body>
+    </message>
+    <message id="m0001" time="2014-04-10 16:37:14 UTC" participant="154895">
+      <body>Why</body>
+    </message>
+    <message id="m0002" time="2014-04-10 17:07:11 UTC" participant="154895">
+      <body>Why do you want me to come over today?</body>
+    </message>
+    <message id="m0003" time="2014-04-10 17:55:46 UTC" participant="153244">
+      <body>Bec I get some work early and will be bored. You can with shadow</body>
+    </message>
+    <message id="m0004" time="2014-04-10 17:57:04 UTC" participant="154895">
+      <body>Why dont you come over here</body>
+    </message>
+    <message id="m0005" time="2014-04-10 17:57:44 UTC" participant="153244">
+      <body>Bec the dog is at my house lol</body>
+    </message>
+    <message id="m0006" time="2014-04-10 17:58:16 UTC" participant="154895">
+      <body>Ill see, right now im doin math</body>
+    </message>
+    <message id="m0007" time="2014-04-10 18:04:06 UTC" participant="153244">
+      <body>Ok Ill text you when I get done work</body>
+    </message>
+    <message id="m0008" time="2014-04-10 18:04:28 UTC" participant="154895">
+      <body>K</body>
+    </message>
+    <message id="m0009" time="2014-04-10 22:01:35 UTC" participant="153244">
+      <body>Sorry I was suppose to get done work at 3:00 but my boss have me a project to do I didn't leave until 5:45</body>
+    </message>
+    <message id="m0010" time="2014-04-10 22:02:27 UTC" participant="154895">
+      <body>But ive been standing out your door since 1</body>
+    </message>
+    <message id="m0011" time="2014-04-10 22:04:25 UTC" participant="154895">
+      <body>But thats fine, ill just stay home now.</body>
+    </message>
+    <message id="m0012" time="2014-04-10 22:22:42 UTC" participant="153244">
+      <body>Hahaha very funny</body>
+    </message>
+    <message id="m0013" time="2014-04-10 22:23:07 UTC" participant="154895">
+      <body>You home now?</body>
+    </message>
+    <message id="m0014" time="2014-04-10 22:32:11 UTC" participant="153244">
+      <body>No food shopping</body>
+    </message>
+    <message id="m0015" time="2014-04-10 22:32:39 UTC" participant="154895">
+      <body>K</body>
+    </message>
+    <message id="m0016" time="2014-04-10 22:32:57 UTC" participant="153244">
+      <body>I'm picking you up from school tomorrow? </body>
+    </message>
+    <message id="m0017" time="2014-04-10 22:34:14 UTC" participant="154895">
+      <body>If you want</body>
+    </message>
+    <message id="m0018" time="2014-04-10 22:38:25 UTC" participant="153244">
+      <body>I do</body>
+    </message>
+  </messages>
+</conversation>
+

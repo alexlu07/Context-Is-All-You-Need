@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136658" time="2013-07-02 00:50:27 UTC">
+      <body>Yo, why is dinner $81 without drinks? What is this place? </body>
+    </message>
+    <message id="m0001" participant="136658" time="2013-07-02 00:51:00 UTC">
+      <body>And then $35 more for "expenses"?</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-02 00:51:18 UTC">
+      <body>How much would you like it to be?</body>
+    </message>
+    <message id="m0003" participant="136658" time="2013-07-02 00:58:41 UTC">
+      <body>Lol. I'd like to know what I'm paying for. Is it a set menu? An estimation? I don't really care if he gets drinks. He shouldn't be drinking anyway</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-02 01:02:17 UTC">
+      <body>Google the place for menu. Just an estimate. Its like fogo. Its outlined exactly what the 35 goes towards. Only a small amount of that is expected to go to drinks unless we go far over our expected number of guests</body>
+    </message>
+  </messages>
+</conversation>

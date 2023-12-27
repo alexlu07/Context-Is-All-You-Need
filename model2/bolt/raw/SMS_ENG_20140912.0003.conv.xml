@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140912.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-12 19:23:26 UTC" participant="152417">
+      <body>Hey dude, i'm sitting in with uncle Alan's friend at Estia tonight if you wanna stop by</body>
+    </message>
+    <message id="m0001" time="2014-09-12 19:23:53 UTC" participant="152424">
+      <body>what time?</body>
+    </message>
+    <message id="m0002" time="2014-09-12 19:25:13 UTC" participant="152417">
+      <body>7 to 9 or 10.  Aaron just built a fire pit in our back patio too, so perhaps therell be a fire tonight too</body>
+    </message>
+    <message id="m0003" time="2014-09-12 19:26:18 UTC" participant="152424">
+      <body>not sure if I'll make it because I have plans I. fishtown.  I would hang tomorrow night though</body>
+    </message>
+    <message id="m0004" time="2014-09-12 19:26:39 UTC" participant="152417">
+      <body>Cool, let's</body>
+    </message>
+  </messages>
+</conversation>
+

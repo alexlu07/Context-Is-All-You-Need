@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140924.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-24 17:03:23 UTC" participant="153286">
+      <body>Did you still want to meet today? I'm available but slightly tired so I can go either way. </body>
+    </message>
+    <message id="m0001" time="2014-09-24 18:33:27 UTC" participant="152734">
+      <body>I'm up to my ears in race stuff - can we put it off til next week? Thanks/sorry! </body>
+    </message>
+    <message id="m0002" time="2014-09-24 18:33:36 UTC" participant="153286">
+      <body>totally fine</body>
+    </message>
+    <message id="m0003" time="2014-09-24 18:45:28 UTC" participant="152734">
+      <body>Excelente, thanks </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130918" time="2013-06-13 01:18:08 UTC">
+      <body>Hey Jeremy! Will anyone be in the space tmrw? I'd like to come for an hr or so in the afternoon</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-13 01:25:31 UTC">
+      <body>You have access to the g-cal, just go ahead and put your time in</body>
+    </message>
+    <message id="m0002" participant="130918" time="2013-06-13 01:29:36 UTC">
+      <body>Cool, it says upholstery has rehearsal at 6.. Would it be stepping on your toes for me to use the slot between 5 and 6?</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-06-13 01:35:11 UTC">
+      <body>Oh not at all! Honestly, you won't bother us a bit</body>
+    </message>
+    <message id="m0004" participant="130918" time="2013-06-13 01:36:33 UTC">
+      <body>Ok cool! :)</body>
+    </message>
+  </messages>
+</conversation>

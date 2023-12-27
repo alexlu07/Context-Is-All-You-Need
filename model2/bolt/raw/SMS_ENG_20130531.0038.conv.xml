@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-05-31 19:15:12 UTC">
+      <body>You have my flight info correct? </body>
+    </message>
+    <message id="m0001" participant="134281" time="2013-05-31 22:55:40 UTC">
+      <body>US Air 74?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-05-31 23:08:06 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-01 06:58:17 UTC">
+      <body>Pulling up to the gate </body>
+    </message>
+    <message id="m0004" participant="134281" time="2013-06-01 07:16:51 UTC">
+      <body>I'm at cell phone lot </body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-06-01 07:29:28 UTC">
+      <body>Ok. Got em</body>
+    </message>
+    <message id="m0006" participant="134281" time="2013-06-01 07:31:28 UTC">
+      <body>Just come outside </body>
+    </message>
+  </messages>
+</conversation>

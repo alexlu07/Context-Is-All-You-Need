@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131207.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-07 01:17:56 UTC" participant="153548">
+      <body>Drive safe.</body>
+    </message>
+    <message id="m0001" time="2013-12-07 04:41:00 UTC" participant="153649">
+      <body>Made it!!</body>
+    </message>
+    <message id="m0002" time="2013-12-07 05:22:29 UTC" participant="153548">
+      <body>Yay!!!</body>
+    </message>
+    <message id="m0003" time="2013-12-07 05:51:20 UTC" participant="153548">
+      <body>I'm still baby sitting.</body>
+    </message>
+    <message id="m0004" time="2013-12-07 05:51:32 UTC" participant="153548">
+      <body>I guess I'll see y'all in the AM.</body>
+    </message>
+    <message id="m0005" time="2013-12-07 05:52:00 UTC" participant="153649">
+      <body>Ok. Are you staying at H's? I've been playing w ur cat all night. </body>
+    </message>
+    <message id="m0006" time="2013-12-07 06:32:23 UTC" participant="153548">
+      <body>Yes. You guys can have the bed!</body>
+    </message>
+  </messages>
+</conversation>
+

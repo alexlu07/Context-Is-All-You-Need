@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136160" time="2013-02-15 20:39:40 UTC">
+      <body>Will you be at ceramics till 7?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-02-15 20:40:21 UTC">
+      <body>yuppp </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-15 20:56:16 UTC">
+      <body>probably 7:30 today, actually. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141205.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-05 15:17:20 UTC" participant="153632">
+      <body>How did the interview process go??</body>
+    </message>
+    <message id="m0001" time="2014-12-05 15:22:22 UTC" participant="153548">
+      <body>It was good!</body>
+    </message>
+    <message id="m0002" time="2014-12-05 15:22:34 UTC" participant="153548">
+      <body>Long and stressful but
+Good.</body>
+    </message>
+    <message id="m0003" time="2014-12-05 15:28:51 UTC" participant="153632">
+      <body>When will you hear back from them?</body>
+    </message>
+    <message id="m0004" time="2014-12-05 15:29:13 UTC" participant="153548">
+      <body>At the soonest January</body>
+    </message>
+    <message id="m0005" time="2014-12-05 15:29:50 UTC" participant="153632">
+      <body>Dang</body>
+    </message>
+    <message id="m0006" time="2014-12-05 15:50:39 UTC" participant="153548">
+      <body>Yeah then contract negotiation will take a month if I even get an offer</body>
+    </message>
+  </messages>
+</conversation>
+

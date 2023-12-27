@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140727.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-27 01:27:24 UTC" participant="153547">
+      <body>Miss you. Good night</body>
+    </message>
+    <message id="m0001" time="2014-07-27 01:27:28 UTC" participant="153557">
+      <body>Night love.</body>
+    </message>
+    <message id="m0002" time="2014-07-27 16:08:32 UTC" participant="153557">
+      <body>Are you coming home today? Yr kitty misses you. ￼</body>
+    </message>
+    <message id="m0003" time="2014-07-27 16:25:28 UTC" participant="153547">
+      <body>Probably tomorrow morning</body>
+    </message>
+    <message id="m0004" time="2014-07-27 22:47:20 UTC" participant="153547">
+      <body>I'm coming back tomorrow </body>
+    </message>
+    <message id="m0005" time="2014-07-27 22:48:42 UTC" participant="153557">
+      <body>Okay! I'll be at work tmw but I'll see you!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-07-23 02:47:11 UTC">
+      <body>Hey, forgot to ask you: do you want my couch or should I put it on Craigslist? </body>
+    </message>
+    <message id="m0001" participant="137408" time="2013-07-23 02:48:30 UTC">
+      <body>Craigslist. I was thinkin about it but I'm allergic to cats so probably a good idea that I don't take it. </body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-07-23 02:48:55 UTC">
+      <body>Ok :)</body>
+    </message>
+  </messages>
+</conversation>

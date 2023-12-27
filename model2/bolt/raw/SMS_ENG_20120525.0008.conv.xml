@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120525.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-25 01:32:12 UTC">
+      <body>What Econ lesson is due tomorrow? Also was there hw due today?</body>
+    </message>
+    <message id="m0001" participant="136208" time="2012-05-25 01:54:46 UTC">
+      <body>Hw 29 and no hw for today</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-25 01:55:01 UTC">
+      <body>Thanksssss</body>
+    </message>
+  </messages>
+</conversation>

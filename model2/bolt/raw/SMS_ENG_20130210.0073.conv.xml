@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-10 18:27:15 UTC" participant="154393">
+      <body>To, we haven't seen you check into the diabetes walk.
+Did you win?
+Did you get free insulin.</body>
+    </message>
+    <message id="m0001" time="2013-02-10 18:29:41 UTC" participant="154393">
+      <body>Are you still walking?</body>
+    </message>
+    <message id="m0003" time="2013-02-10 18:48:16 UTC" participant="154393">
+      <body>Why are you ignoring me? &lt;sob&gt;</body>
+    </message>
+    <message id="m0004" time="2013-02-10 19:17:22 UTC" participant="154352">
+      <body>Hey, I'm at the thing.</body>
+    </message>
+  </messages>
+</conversation>
+

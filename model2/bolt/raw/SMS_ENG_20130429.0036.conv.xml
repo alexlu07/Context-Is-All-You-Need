@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-04-29 04:17:23 UTC">
+      <body>Hey! i didn't see you all day! hope you're good! breakfast tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-29 04:50:26 UTC">
+      <body>Yeah I am good! :) and yes to breakfast :D</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-04-29 05:04:37 UTC">
+      <body>Wonderful!</body>
+    </message>
+  </messages>
+</conversation>

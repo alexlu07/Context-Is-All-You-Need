@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121122.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131506" time="2012-11-22 19:46:08 UTC">
+      <body>Happy thanksgiving Sam, Kathy and kiddies ;)</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-11-22 20:09:05 UTC">
+      <body>Hey! Happy Thanksgiving!!    What are you up to? You gotta see the new house sometime.</body>
+    </message>
+    <message id="m0002" participant="131506" time="2012-11-22 20:16:00 UTC">
+      <body>I know.  Definitely have to get over sometime.  At my parents today then headed back to the city later on. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134281" time="2013-06-18 04:29:36 UTC">
+      <body>Got a case like yours.. . I think. Can you fit it in your charger with case on? </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-18 12:18:54 UTC">
+      <body>Yeah it fits. I have to take out the little insert that is in the charger.  Did you do that? </body>
+    </message>
+    <message id="m0002" participant="134281" time="2013-06-18 14:08:33 UTC">
+      <body>BINGO!   Thanks, fits good now. </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-18 14:57:34 UTC">
+      <body>Good. Glad it dits</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-06-18 14:57:40 UTC">
+      <body>Fits</body>
+    </message>
+  </messages>
+</conversation>

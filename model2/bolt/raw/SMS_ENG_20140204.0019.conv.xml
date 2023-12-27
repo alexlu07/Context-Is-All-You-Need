@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140204.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-04 03:28:13 UTC" participant="153900">
+      <body>How was the macaroni</body>
+    </message>
+    <message id="m0001" time="2014-02-04 03:46:14 UTC" participant="153244">
+      <body>Delicious. I heated it up and made a salad to go with it</body>
+    </message>
+  </messages>
+</conversation>
+

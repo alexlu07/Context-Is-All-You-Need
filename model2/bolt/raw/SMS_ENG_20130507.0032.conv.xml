@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130507.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-07 23:30:55 UTC">
+      <body>what u doin this Sunday?</body>
+    </message>
+    <message id="m0001" participant="132567" time="2013-05-07 23:55:16 UTC">
+      <body>Celebrating mothers day</body>
+    </message>
+    <message id="m0002" participant="132567" time="2013-05-07 23:55:31 UTC">
+      <body>Whats going on?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-05-07 23:55:56 UTC">
+      <body>Oh shit that's right</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-05-07 23:56:11 UTC">
+      <body>I am tryna shoot</body>
+    </message>
+    <message id="m0005" participant="132567" time="2013-05-07 23:56:48 UTC">
+      <body>Ahh</body>
+    </message>
+  </messages>
+</conversation>

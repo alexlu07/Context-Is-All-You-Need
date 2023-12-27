@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-27 21:53:18 UTC" participant="153472">
+      <body>Running late. Pool open?</body>
+    </message>
+    <message id="m0001" time="2013-06-27 21:53:39 UTC" participant="152374">
+      <body>I'm not there yet, don't know</body>
+    </message>
+    <message id="m0002" time="2013-06-27 21:57:11 UTC" participant="152374">
+      <body>If I had to guess I'd say no :-\  It really doesn't look good out there</body>
+    </message>
+    <message id="m0003" time="2013-06-27 21:59:05 UTC" participant="153472">
+      <body>Was just honking the same.</body>
+    </message>
+    <message id="m0004" time="2013-06-27 22:00:54 UTC" participant="152374">
+      <body>Yeah... Raincheck time :-(</body>
+    </message>
+    <message id="m0005" time="2013-06-27 22:02:25 UTC" participant="153472">
+      <body>Next week then? I prob won't be able to make it Monday but any other day will prob work.0</body>
+    </message>
+    <message id="m0006" time="2013-06-27 22:02:46 UTC" participant="152374">
+      <body>I'm going as often as possible, so definitely!</body>
+    </message>
+  </messages>
+</conversation>
+

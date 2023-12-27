@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150306.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-06 11:32:32 UTC" participant="153619">
+      <body>My flight has been delayed. I might not be in ATL until 10:45, a little after you land.</body>
+    </message>
+    <message id="m0001" time="2015-03-06 12:15:17 UTC" participant="153619">
+      <body>Hunter, it looks like your original flight has been canceled. Did they put you on s different one?</body>
+    </message>
+    <message id="m0003" time="2015-03-06 12:38:17 UTC" participant="153547">
+      <body>Yeah my flight is cancelled. They gave me another flight automatically that I thought was for 830 am but it's for 830 pm. I'm trying to find out if I can get an earlier flight</body>
+    </message>
+    <message id="m0004" time="2015-03-06 12:42:04 UTC" participant="153619">
+      <body>O.K. The funeral is at 4, so if you're not in ATL by 2pm, I'd ask them to just refund the ticket.</body>
+    </message>
+    <message id="m0005" time="2015-03-06 12:43:36 UTC" participant="153619">
+      <body>If at airport, sometimes the phones are faster than the desks.</body>
+    </message>
+    <message id="m0006" time="2015-03-06 12:44:05 UTC" participant="153619">
+      <body>2:30 would probably be the absolute latest</body>
+    </message>
+    <message id="m0007" time="2015-03-06 12:48:12 UTC" participant="153547">
+      <body>Ok trying to get on a 10:15 flight. I'm priority standby. If I can't get it I'm probably gonna get a refund and go home</body>
+    </message>
+    <message id="m0008" time="2015-03-06 12:49:35 UTC" participant="153619">
+      <body>O.K. I should be in the air by then. What's the flight number?</body>
+    </message>
+    <message id="m0009" time="2015-03-06 12:50:04 UTC" participant="153547">
+      <body>1478</body>
+    </message>
+    <message id="m0010" time="2015-03-06 12:51:33 UTC" participant="153619">
+      <body>O.K. If not on, text/call me. Otherwise, I'll assume you're on that flight.</body>
+    </message>
+    <message id="m0011" time="2015-03-06 13:17:14 UTC" participant="153619">
+      <body>We're boarding. Just let me know what happens.</body>
+    </message>
+    <message id="m0012" time="2015-03-06 13:17:46 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0013" time="2015-03-06 14:32:49 UTC" participant="153547">
+      <body>I'm not going to make it </body>
+    </message>
+    <message id="m0014" time="2015-03-06 14:33:07 UTC" participant="153547">
+      <body>I got a refund for you. I'm sorry</body>
+    </message>
+    <message id="m0015" time="2015-03-06 16:00:09 UTC" participant="153619">
+      <body> Not a problem. Sorry you had to spend all morning at the airport.</body>
+    </message>
+  </messages>
+</conversation>
+

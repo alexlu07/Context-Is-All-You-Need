@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130706.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="133076" time="2013-07-06 15:15:31 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130665" time="2013-07-06 15:16:00 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="133076" time="2013-07-06 15:16:50 UTC">
+      <body>Hi how are you</body>
+    </message>
+    <message id="m0003" participant="130665" time="2013-07-06 15:19:45 UTC">
+      <body>Fine thanks hows your weekend</body>
+    </message>
+    <message id="m0004" participant="133076" time="2013-07-06 15:20:58 UTC">
+      <body>It was good! Went to a BBQ. How was yours?</body>
+    </message>
+    <message id="m0005" participant="133076" time="2013-07-06 15:22:15 UTC">
+      <body>Sorry thought you were asking about 4th of July lol. This weekend is going good so far :)</body>
+    </message>
+    <message id="m0006" participant="130665" time="2013-07-06 15:23:11 UTC">
+      <body>Lol no worries both were good for me too I just relaxex</body>
+    </message>
+    <message id="m0007" participant="133076" time="2013-07-06 15:24:49 UTC">
+      <body>Have anything fun planned for this weekend?</body>
+    </message>
+    <message id="m0008" participant="130665" time="2013-07-06 15:26:32 UTC">
+      <body>Might go to a seafood fest later today, you?</body>
+    </message>
+    <message id="m0009" participant="133076" time="2013-07-06 15:28:15 UTC">
+      <body>Sounds fun!!! I'm just gonna go out with some friends. Maybe go to the city to get dinner and drinks</body>
+    </message>
+    <message id="m0010" participant="133076" time="2013-07-06 15:28:41 UTC">
+      <body>Always last minute plans for me lol</body>
+    </message>
+    <message id="m0011" participant="130665" time="2013-07-06 15:40:03 UTC">
+      <body>Lol yea Im pretty last minute too</body>
+    </message>
+    <message id="m0013" participant="133076" time="2013-07-06 15:41:42 UTC">
+      <body>Where are you from?</body>
+    </message>
+    <message id="m0014" participant="130665" time="2013-07-06 15:43:43 UTC">
+      <body>Arlington va, you</body>
+    </message>
+    <message id="m0015" participant="133076" time="2013-07-06 15:44:32 UTC">
+      <body>Brooklyn by</body>
+    </message>
+    <message id="m0016" participant="133076" time="2013-07-06 15:44:32 UTC">
+      <body>NY</body>
+    </message>
+  </messages>
+</conversation>

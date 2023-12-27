@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-12 15:42:29 UTC" participant="149306">
+      <body>Hey Kyle did you evere hear anything about the free union tickets from winning the game we went to?</body>
+    </message>
+    <message id="m0001" time="2013-06-12 15:45:06 UTC" participant="149369">
+      <body>(1/2) No i didn't, i remember the guy said to email him. I didn't do it yet; i was hoping he would get in touch with people first but i might email him today or</body>
+    </message>
+    <message id="m0002" time="2013-06-12 15:45:08 UTC" participant="149369">
+      <body>(2/2)  tomorrow</body>
+    </message>
+    <message id="m0003" time="2013-06-12 15:55:32 UTC" participant="149306">
+      <body>Ok I will email him today thanks</body>
+    </message>
+    <message id="m0004" time="2013-06-12 15:56:32 UTC" participant="149369">
+      <body>Good deal, can you let me know what he says?</body>
+    </message>
+    <message id="m0005" time="2013-06-12 16:00:26 UTC" participant="149306">
+      <body>Yess</body>
+    </message>
+    <message id="m0006" time="2013-06-12 23:10:14 UTC" participant="149306">
+      <body>Doug said he would email us probably in August about the free tickets </body>
+    </message>
+  </messages>
+</conversation>
+

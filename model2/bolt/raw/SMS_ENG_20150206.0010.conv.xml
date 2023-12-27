@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150206.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-06 17:18:13 UTC" participant="152417">
+      <body>Do you have joe nero's #?</body>
+    </message>
+    <message id="m0001" time="2015-02-06 21:05:36 UTC" participant="152569">
+      <body>Hey! Sorry for the delay... Still trying to track down his cell...</body>
+    </message>
+    <message id="m0002" time="2015-02-06 21:06:13 UTC" participant="152417">
+      <body>It's alright, I got it. Thanks</body>
+    </message>
+    <message id="m0003" time="2015-02-06 21:06:46 UTC" participant="152569">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

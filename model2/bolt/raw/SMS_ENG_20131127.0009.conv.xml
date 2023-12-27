@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131127.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-27 00:13:46 UTC" participant="153548">
+      <body>Love letter got into SLAMDANCE!</body>
+    </message>
+    <message id="m0001" time="2013-11-27 00:25:25 UTC" participant="153631">
+      <body>What is that???</body>
+    </message>
+    <message id="m0002" time="2013-11-27 00:25:59 UTC" participant="153548">
+      <body>It's a cool festival! </body>
+    </message>
+    <message id="m0003" time="2013-11-27 00:29:52 UTC" participant="153631">
+      <body>Congratulations!!!!!!</body>
+    </message>
+    <message id="m0004" time="2013-11-27 00:29:52 UTC" participant="153631">
+      <body>That's awesome!</body>
+    </message>
+    <message id="m0005" time="2013-11-27 18:00:42 UTC" participant="153631">
+      <body>Are you teaching on December 18? I want you to be able to come to my work goodbye party!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-03 03:48:01 UTC" participant="152116">
+      <body>I'm staying at Edens</body>
+    </message>
+    <message id="m0001" time="2013-07-03 03:48:30 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2013-07-03 03:50:07 UTC" participant="153244">
+      <body>Perfect timing. I was just going up the steps so I turned and shut the lil lamp I keep on for you</body>
+    </message>
+    <message id="m0003" time="2013-07-03 03:53:30 UTC" participant="152116">
+      <body>Okay good haha</body>
+    </message>
+    <message id="m0004" time="2013-07-03 03:53:37 UTC" participant="152116">
+      <body>goodnight.</body>
+    </message>
+    <message id="m0005" time="2013-07-03 03:53:55 UTC" participant="153244">
+      <body>Night</body>
+    </message>
+  </messages>
+</conversation>
+

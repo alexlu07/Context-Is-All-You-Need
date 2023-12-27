@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-03 01:37:13 UTC" participant="153244">
+      <body>Mom isn't even home</body>
+    </message>
+    <message id="m0001" time="2013-06-03 01:41:41 UTC" participant="152116">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0002" time="2013-06-03 01:42:31 UTC" participant="153244">
+      <body>Home.  Mom and dad were at casino</body>
+    </message>
+    <message id="m0003" time="2013-06-03 02:08:42 UTC" participant="152116">
+      <body>Is victor with you!</body>
+    </message>
+    <message id="m0004" time="2013-06-03 02:08:46 UTC" participant="152116">
+      <body>*?</body>
+    </message>
+    <message id="m0005" time="2013-06-03 02:09:47 UTC" participant="153244">
+      <body>Yea... you coming home soon?</body>
+    </message>
+    <message id="m0006" time="2013-06-03 02:22:53 UTC" participant="153244">
+      <body>:( no ice cream float. .. maybe was broke</body>
+    </message>
+    <message id="m0007" time="2013-06-03 02:22:57 UTC" participant="153244">
+      <body>Machine</body>
+    </message>
+  </messages>
+</conversation>
+

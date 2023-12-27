@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-06-05 21:34:49 UTC">
+      <body>Trying to park :?</body>
+    </message>
+    <message id="m0001" participant="131838" time="2013-06-05 21:34:55 UTC">
+      <body>:/</body>
+    </message>
+    <message id="m0002" participant="137430" time="2013-06-05 21:44:30 UTC">
+      <body>We're at Scoop de Ville</body>
+    </message>
+    <message id="m0003" participant="131838" time="2013-06-05 21:50:49 UTC">
+      <body>Where is that </body>
+    </message>
+  </messages>
+</conversation>

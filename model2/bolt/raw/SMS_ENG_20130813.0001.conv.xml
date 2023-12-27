@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130813.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-13 22:19:44 UTC" participant="153410">
+      <body>hey, it's Linda! coming to the meeting?</body>
+    </message>
+    <message id="m0001" time="2013-08-13 22:24:00 UTC" participant="153410">
+      <body>will do!</body>
+    </message>
+    <message id="m0002" time="2013-08-13 22:24:23 UTC" participant="152734">
+      <body>Hi, sorry! Had a software meltdown at work &amp; I'm stuck here. Please keep me posted!</body>
+    </message>
+  </messages>
+</conversation>
+

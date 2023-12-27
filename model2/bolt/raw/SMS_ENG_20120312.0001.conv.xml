@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120312.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2012-03-12 14:17:36 UTC" participant="131326">
+      <body>Great please hold those dates. I'll send more info as I get it</body>
+    </message>
+    <message id="m0003" time="2012-03-12 14:19:04 UTC" participant="130692">
+      <body>Sounds good, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

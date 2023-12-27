@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131001.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-01 17:02:49 UTC" participant="152560">
+      <body>I wiped out really badly on my way to class. My knee feels weird. I think my breaks are screwed up now too. Uh oh.</body>
+    </message>
+    <message id="m0001" time="2013-10-02 14:22:19 UTC" participant="152560">
+      <body>Jocelyn can work for me next weekend. Can I still hitch a ride with you?</body>
+    </message>
+    <message id="m0002" time="2013-10-02 14:24:59 UTC" participant="152417">
+      <body>Absolutelyo</body>
+    </message>
+    <message id="m0003" time="2013-10-02 14:26:31 UTC" participant="152560">
+      <body>Yay! Let me get the gas since you are putting the miles on your car. It's the least I could do.</body>
+    </message>
+  </messages>
+</conversation>
+

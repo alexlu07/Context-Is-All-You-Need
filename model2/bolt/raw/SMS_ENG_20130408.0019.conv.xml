@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130408.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-08 20:54:43 UTC">
+      <body>will probably drive thru vegas at the end of june...</body>
+    </message>
+    <message id="m0001" participant="131374" time="2013-04-08 22:18:28 UTC">
+      <body>That sounds great. If you can please give me a couple days notice.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-08 22:21:32 UTC">
+      <body>yep!</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-08 22:22:01 UTC">
+      <body>would love to see you!</body>
+    </message>
+    <message id="m0005" participant="131374" time="2013-04-08 22:34:16 UTC">
+      <body>Would love to see you too!! :-)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121202.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2012-12-02 14:51:44 UTC">
+      <body>Hope you're at studio today. I forgot my badge and want to do work at 7 after work</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-02 15:44:15 UTC">
+      <body>Yes will be there</body>
+    </message>
+    <message id="m0002" participant="135386" time="2012-12-02 17:01:52 UTC">
+      <body>Yay phew</body>
+    </message>
+    <message id="m0003" participant="135386" time="2012-12-03 00:27:44 UTC">
+      <body>Stoppin at Boloco</body>
+    </message>
+    <message id="m0004" participant="135386" time="2012-12-03 00:27:44 UTC">
+      <body>Want anything?</body>
+    </message>
+    <message id="m0005" participant="135386" time="2012-12-03 00:40:32 UTC">
+      <body>Wat up </body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-12-03 01:05:34 UTC">
+      <body>Wat up</body>
+    </message>
+  </messages>
+</conversation>

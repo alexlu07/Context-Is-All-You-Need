@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140509.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-09 23:40:19 UTC" participant="153491">
+      <body>Hey, so Michael is not responding to my question about what time you're all planning to meet up. Do you know?</body>
+    </message>
+    <message id="m0001" time="2014-05-10 22:17:01 UTC" participant="153491">
+      <body>Hey, are you getting my texts?</body>
+    </message>
+    <message id="m0002" time="2014-05-10 22:25:02 UTC" participant="152118">
+      <body>Um I don't know. The last text I got was yesterday about the meet up time. I actually got that text an hour after you sent it, and Michael said he answered you. I never got a chance to answer you back.</body>
+    </message>
+    <message id="m0003" time="2014-05-10 22:31:06 UTC" participant="153491">
+      <body>Oh okay. Just making sure. </body>
+    </message>
+    <message id="m0004" time="2014-05-10 22:31:29 UTC" participant="153491">
+      <body>Thanks.</body>
+    </message>
+    <message id="m0005" time="2014-05-10 22:33:37 UTC" participant="152118">
+      <body>No worries. I wasn't sure if you got mine since I never got an answer either. But at least we know it works!</body>
+    </message>
+    <message id="m0006" time="2014-05-10 22:34:28 UTC" participant="153491">
+      <body>Cool cool.</body>
+    </message>
+  </messages>
+</conversation>
+

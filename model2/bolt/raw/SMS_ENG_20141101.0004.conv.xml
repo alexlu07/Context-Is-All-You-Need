@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 17:53:04 UTC" participant="152644">
+      <body>Hey! I think I left white finger less gloves at you house last night. </body>
+    </message>
+    <message id="m0001" time="2014-11-01 17:53:04 UTC" participant="152644">
+      <body>Any chance they're around?</body>
+    </message>
+    <message id="m0002" time="2014-11-01 17:57:20 UTC" participant="152644">
+      <body>And by white I mean wooly colored, by the fireplace </body>
+    </message>
+    <message id="m0003" time="2014-11-01 18:53:12 UTC" participant="152417">
+      <body>Cool, found em</body>
+    </message>
+    <message id="m0004" time="2014-11-01 19:03:28 UTC" participant="152644">
+      <body>Woot woot!!</body>
+    </message>
+    <message id="m0005" time="2014-11-01 19:03:28 UTC" participant="152644">
+      <body>Mind bringing them to the concert?</body>
+    </message>
+    <message id="m0006" time="2014-11-01 19:55:04 UTC" participant="152417">
+      <body>No prob</body>
+    </message>
+    <message id="m0007" time="2014-11-02 14:56:00 UTC" participant="152644">
+      <body>oh no worries</body>
+    </message>
+    <message id="m0008" time="2014-11-02 14:56:00 UTC" participant="152644">
+      <body>as long as they aren’t in the gutter, I’m happy</body>
+    </message>
+    <message id="m0009" time="2014-11-02 14:57:15 UTC" participant="152417">
+      <body>Eek, i forgot the gloves. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135305" time="2013-02-13 22:59:32 UTC">
+      <body>Hey! Can you and Hannah meet me and Emma outside Lloyd in 15?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-13 23:00:02 UTC">
+      <body>Yep! Bus stop or at an entrance?</body>
+    </message>
+    <message id="m0002" participant="135305" time="2013-02-13 23:00:16 UTC">
+      <body>Outside 70s?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-13 23:00:31 UTC">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>

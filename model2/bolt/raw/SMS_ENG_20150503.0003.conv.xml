@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150503.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-05-03 02:28:51 UTC" participant="153807">
+      <body>Are you up? How were the wings?</body>
+    </message>
+    <message id="m0001" time="2015-05-03 02:46:32 UTC" participant="153804">
+      <body>Excellent!!thanks for letting me know you're home</body>
+    </message>
+    <message id="m0002" time="2015-05-03 16:35:29 UTC" participant="153804">
+      <body>R U going to liquor store,today?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120720.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136229" time="2012-07-20 04:43:47 UTC">
+      <body>How many cards do you need in the deck for that magic trick?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-20 04:44:21 UTC">
+      <body>21</body>
+    </message>
+    <message id="m0002" participant="136229" time="2012-07-20 04:50:01 UTC">
+      <body>So how do you do the trick trying to impress college ppl...</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-07-20 04:51:41 UTC">
+      <body>Lol I figured. Make three piles. Put the pile with their card in it in the middle. Do that three times. Their card should be the 11th card in the deck</body>
+    </message>
+    <message id="m0004" participant="136229" time="2012-07-20 04:52:19 UTC">
+      <body>How big is each pile?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-20 04:52:38 UTC">
+      <body>Seven cards each</body>
+    </message>
+  </messages>
+</conversation>

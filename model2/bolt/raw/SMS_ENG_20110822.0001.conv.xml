@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110822.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-08-22 16:05:17 UTC">
+      <body>Hey dan, this is Noah from stake land. I got an email from Susan leber about day playing on your art dept tomm. I emailed her that I could work, but just wanted to send you a text as well. Talk to you soon!</body>
+    </message>
+    <message id="m0001" participant="131301" time="2011-08-22 16:12:25 UTC">
+      <body>I just heard!  Awesome dude!  It's funny they wouldn't let us hire anyone and now they're trying to find dayplayers to wrap a location because we're swamped haha.  See you soon buddy!</body>
+    </message>
+    <message id="m0002" participant="130692" time="2011-08-22 16:16:31 UTC">
+      <body>Haha seems to always work like that. Will Susan give me info (time, location, etc.) about tomm or someone from art dept?</body>
+    </message>
+    <message id="m0003" participant="131301" time="2011-08-22 16:18:08 UTC">
+      <body>She should let you know, it'll probably be something like 8am.  It's in Westport on the Sound</body>
+    </message>
+    <message id="m0004" participant="130692" time="2011-08-22 16:18:24 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

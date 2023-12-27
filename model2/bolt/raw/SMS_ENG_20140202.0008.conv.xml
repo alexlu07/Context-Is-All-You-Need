@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140202.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-02 20:00:58 UTC" participant="153671">
+      <body>Do you have super bowl plans?</body>
+    </message>
+    <message id="m0001" time="2014-02-02 20:42:34 UTC" participant="153548">
+      <body>Matan!!! I am going to half watch and half get ready for class tomorrow. Are you guys having a shin dig?</body>
+    </message>
+    <message id="m0002" time="2014-02-02 20:46:26 UTC" participant="153671">
+      <body>Tess and Julian are coming over. You can too.</body>
+    </message>
+  </messages>
+</conversation>
+

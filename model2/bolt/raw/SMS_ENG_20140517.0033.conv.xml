@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 16:21:13 UTC" participant="153893">
+      <body>R u available tomm nite</body>
+    </message>
+    <message id="m0001" time="2014-05-17 16:31:37 UTC" participant="153244">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" time="2014-05-17 18:10:52 UTC" participant="153893">
+      <body>Ok 4 to close tomm</body>
+    </message>
+    <message id="m0003" time="2014-05-17 18:18:13 UTC" participant="153244">
+      <body> Got it</body>
+    </message>
+    <message id="m0004" time="2014-05-17 21:36:31 UTC" participant="153893">
+      <body>How bout tomm,Tues,Fri?</body>
+    </message>
+    <message id="m0005" time="2014-05-17 21:38:25 UTC" participant="153244">
+      <body>Can't do tuesdays bec I work til 7:00... but I'm available fri</body>
+    </message>
+  </messages>
+</conversation>
+

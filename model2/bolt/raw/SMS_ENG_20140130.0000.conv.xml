@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140130.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-30 21:11:28 UTC" participant="152526">
+      <body>Hey Gabi! I sent an email out on January 23rd with all of the things that you asked for. It just now bounced back. Probably the playbill file was too big. 
+I just resent them in separate emails. Can you please let me know if you DONT get the email with the playbill? It's just the playbill on its own. 
+</body>
+    </message>
+    <message id="m0001" time="2014-01-30 22:48:07 UTC" participant="152417">
+      <body>I didnt get it, you may need to send it via dropbox</body>
+    </message>
+  </messages>
+</conversation>
+

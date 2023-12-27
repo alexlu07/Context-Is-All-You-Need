@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135303" time="2013-02-04 16:11:16 UTC">
+      <body>Discover.com: You previously requested accnt alerts. Reply "YES" to start receiving alerts. Text STOP to quit, HELP for more info. Msg and Data Rates May Apply</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-04 16:34:13 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" participant="135303" time="2013-02-04 16:34:15 UTC">
+      <body>Discover Card:  Thanks! Text HELP for more info. Msg and Data Rates May Apply. Access your account anytime on the free mobile app: http://discvr.co/nWE1UO</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131220.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-20 20:45:52 UTC" participant="152548">
+      <body>Hi Gabi you free Monday night?</body>
+    </message>
+    <message id="m0001" time="2013-12-20 20:45:52 UTC" participant="152548">
+      <body>To meet?</body>
+    </message>
+    <message id="m0002" time="2013-12-20 20:48:00 UTC" participant="152417">
+      <body>I can do after 9</body>
+    </message>
+    <message id="m0003" time="2013-12-20 20:52:16 UTC" participant="152548">
+      <body>Sweet ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111124.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131314" time="2011-11-24 18:07:43 UTC">
+      <body>Yo if I take a bus that gets into philly at 830 is that too late?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-11-24 18:09:31 UTC">
+      <body>Nah that's plenty early. We'll get down there by 10:30 and call time isn't until noon</body>
+    </message>
+    <message id="m0002" participant="131314" time="2011-11-24 18:11:47 UTC">
+      <body>Ok so ill take that one thanks alot for the ride dude</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-11-24 18:13:43 UTC">
+      <body>No prob. I have to get down there a bit early anyway cus I have some work to do. Where does the bus drop you off?</body>
+    </message>
+    <message id="m0004" participant="131314" time="2011-11-24 18:16:03 UTC">
+      <body>Ill find out now </body>
+    </message>
+    <message id="m0005" participant="131314" time="2011-11-24 23:29:20 UTC">
+      <body>Sorry I forgot to text u back.the station is at 30th st station</body>
+    </message>
+    <message id="m0006" participant="130692" time="2011-11-24 23:38:57 UTC">
+      <body>Cool. Hit me up when your nearby tomm. Happy thanksgiving</body>
+    </message>
+    <message id="m0007" participant="131314" time="2011-11-24 23:44:06 UTC">
+      <body>Thanks man happy thanksgiving see you tomorrow </body>
+    </message>
+    <message id="m0008" participant="131314" time="2011-11-25 12:54:15 UTC">
+      <body>20 mins.away</body>
+    </message>
+    <message id="m0009" participant="130692" time="2011-11-25 12:54:44 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

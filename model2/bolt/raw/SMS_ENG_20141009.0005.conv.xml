@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141009.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-09 12:32:57 UTC" participant="152587">
+      <body>I'm here to check out the car...I think the right block</body>
+    </message>
+    <message id="m0001" time="2014-10-09 12:35:10 UTC" participant="152417">
+      <body>Sorry, i thought we were talking pm, i'm about to start class.  You can see the car though, it has vermont plates, parked just a little ways down from moore and bancroft on bancroft, let me check with my roommate if he can show you it</body>
+    </message>
+    <message id="m0002" time="2014-10-09 14:16:27 UTC" participant="152587">
+      <body>Hey thanks for letting me go through with the test drive. I'm interested and would like to ask a few more questions about it. Call when you have some time</body>
+    </message>
+  </messages>
+</conversation>
+

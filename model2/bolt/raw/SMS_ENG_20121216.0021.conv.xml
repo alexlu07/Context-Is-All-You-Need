@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121216.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-16 23:45:51 UTC" participant="152389">
+      <body>What's you address?</body>
+    </message>
+    <message id="m0001" time="2012-12-16 23:46:59 UTC" participant="152374">
+      <body>I'm staying with ###### at the moment, so ######################</body>
+    </message>
+    <message id="m0002" time="2012-12-16 23:53:47 UTC" participant="152389">
+      <body>Thanks how was the move back?</body>
+    </message>
+    <message id="m0003" time="2012-12-17 00:40:26 UTC" participant="152374">
+      <body>Uneventful, fortunately!</body>
+    </message>
+    <message id="m0004" time="2012-12-17 00:41:12 UTC" participant="152389">
+      <body>The best kind!</body>
+    </message>
+    <message id="m0005" time="2012-12-17 00:42:55 UTC" participant="152374">
+      <body>Exactly. No broken bones and no broken items. Actually I think one thing got broken, but nothing important.</body>
+    </message>
+  </messages>
+</conversation>
+

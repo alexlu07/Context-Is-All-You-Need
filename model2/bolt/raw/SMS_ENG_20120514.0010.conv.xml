@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120514.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-14 23:54:31 UTC">
+      <body>I'm leaving now. Meet at subway?</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-05-14 23:55:33 UTC">
+      <body>Or maybe the Chicken place call me</body>
+    </message>
+  </messages>
+</conversation>

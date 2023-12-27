@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135436" time="2013-03-29 20:22:42 UTC">
+      <body>Hey! Still planning to come for dinner?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-29 20:35:00 UTC">
+      <body>Lilly I think I gotta work. I just started a new job today, and I think I should figure this stuff out tonight. </body>
+    </message>
+    <message id="m0002" participant="135436" time="2013-03-29 23:42:56 UTC">
+      <body>Ok. You missed some badass charoset though! See you Monday.</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-30 00:00:27 UTC">
+      <body>I'm free now!</body>
+    </message>
+    <message id="m0004" participant="135436" time="2013-03-30 00:53:20 UTC">
+      <body>I have to be in Arlington at 7:30 tomorrow morning (gross) so I am going to bed soon</body>
+    </message>
+    <message id="m0005" participant="135436" time="2013-03-30 00:57:36 UTC">
+      <body>Damn girl! Awesome!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-30 00:58:43 UTC">
+      <body>Ok well I'm really sorry I got a opportunity to work with this designer today. I had to take it.  Thirty am hour!</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-03-30 01:00:51 UTC">
+      <body>Yes!!!</body>
+    </message>
+  </messages>
+</conversation>

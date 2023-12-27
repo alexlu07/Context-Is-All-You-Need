@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140607.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-07 16:34:08 UTC" participant="152535">
+      <body>Yo you shoold come over tonight and we could play some blues on the porch. Be well!</body>
+    </message>
+    <message id="m0001" time="2014-06-07 18:12:29 UTC" participant="152417">
+      <body>Sweet! Sounds good, what time?</body>
+    </message>
+    <message id="m0002" time="2014-06-07 18:42:08 UTC" participant="152535">
+      <body>Nice! 7 would be good. See you then. </body>
+    </message>
+    <message id="m0003" time="2014-06-07 20:32:17 UTC" participant="152417">
+      <body>At 9 at flatbread theres an all female rock-steady band playing that we should go see</body>
+    </message>
+    <message id="m0004" time="2014-06-07 21:37:04 UTC" participant="152535">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

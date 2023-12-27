@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131007.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-07 21:24:39 UTC" participant="152629">
+      <body>Play ing @y now</body>
+    </message>
+    <message id="m0001" time="2013-10-07 21:25:02 UTC" participant="152629">
+      <body>6 pm that is</body>
+    </message>
+    <message id="m0002" time="2013-10-07 21:28:34 UTC" participant="152417">
+      <body>At the ymca?</body>
+    </message>
+    <message id="m0003" time="2013-10-07 21:29:19 UTC" participant="152417">
+      <body>O wait, 6 i get it, still in front of city hall?</body>
+    </message>
+    <message id="m0004" time="2013-10-07 21:29:57 UTC" participant="152629">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" time="2013-10-08 17:20:24 UTC" participant="152629">
+      <body>(1/2) Welcome to balagan text message broad casting system.   This is only a test.  Had this not been a test, please report to the nearest political cause with </body>
+    </message>
+    <message id="m0006" time="2013-10-08 17:20:25 UTC" participant="152629">
+      <body>(2/2) red jumpsuit and instrument in hand.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130430.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135429" time="2013-04-30 01:55:41 UTC">
+      <body>Hi Sophie, are you in the grad studios by any chance? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-30 02:38:35 UTC">
+      <body>Yeah I'm just about to head out. What's up</body>
+    </message>
+    <message id="m0002" participant="135429" time="2013-04-30 02:39:38 UTC">
+      <body>I forgot my card and needed to come in, but never mind... Just wet to grad lab instead.  Thanks though!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-30 03:29:13 UTC">
+      <body>Mwah</body>
+    </message>
+  </messages>
+</conversation>

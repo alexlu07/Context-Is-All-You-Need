@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150316.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-16 21:24:10 UTC" participant="153424">
+      <body>How did today go? I'm sure you did amazing</body>
+    </message>
+    <message id="m0001" time="2015-03-16 21:29:10 UTC" participant="153417">
+      <body>It went well I think lol I'll hear whether I got accepted by Friday</body>
+    </message>
+    <message id="m0002" time="2015-03-16 21:30:40 UTC" participant="153424">
+      <body>Yay! I knew it :) Oh wow that's such a great quick turn around! </body>
+    </message>
+    <message id="m0003" time="2015-03-16 21:31:46 UTC" participant="153417">
+      <body>I know! Hopefully I get good news</body>
+    </message>
+    <message id="m0004" time="2015-03-16 21:32:28 UTC" participant="153424">
+      <body>I know you will! We will Definitely have to celebrate :) </body>
+    </message>
+  </messages>
+</conversation>
+

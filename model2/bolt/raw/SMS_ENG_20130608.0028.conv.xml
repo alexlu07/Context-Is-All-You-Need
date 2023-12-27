@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130608.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2013-06-08 00:36:16 UTC">
+      <body>Dinner time! Come home!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-08 00:36:39 UTC">
+      <body>Almost on my way!!!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-08 18:35:30 UTC">
+      <body>Where are your goggles ;)</body>
+    </message>
+    <message id="m0003" participant="135414" time="2013-06-08 19:22:40 UTC">
+      <body>Oh no! Am I too late?? They're hanging on my closet door!! Or in a bag on my closet door</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-06-08 20:08:02 UTC">
+      <body>Oh it's ok. Our swimming mission was sort of a failure. But fun anyway.  What are you guys up to?</body>
+    </message>
+    <message id="m0005" participant="135414" time="2013-06-08 20:30:47 UTC">
+      <body>Just got back to the apt. Went to deep ellum patio for lunch, craft fair in Coolidge corner on the way back. Where are you?</body>
+    </message>
+    <message id="m0006" participant="135414" time="2013-06-08 20:30:51 UTC">
+      <body>Why failure?</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-06-08 21:09:09 UTC">
+      <body>En route home!!!</body>
+    </message>
+    <message id="m0008" participant="135414" time="2013-06-09 18:03:44 UTC">
+      <body>Headed to the dock w snacks. Come play! </body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-06-09 19:29:44 UTC">
+      <body>I have a medical question for you </body>
+    </message>
+    <message id="m0010" participant="135414" time="2013-06-09 19:33:20 UTC">
+      <body>My nicu </body>
+    </message>
+  </messages>
+</conversation>

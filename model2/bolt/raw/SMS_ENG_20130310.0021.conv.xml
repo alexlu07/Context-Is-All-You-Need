@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-10 05:20:00 UTC">
+      <body>when do i see you next?</body>
+    </message>
+    <message id="m0001" participant="131373" time="2013-03-10 19:00:57 UTC">
+      <body>I'll have to let you know what my schedule is next week...once I know. K?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-10 19:02:00 UTC">
+      <body>cool.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131889" time="2013-06-10 19:36:50 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130707" time="2013-06-10 21:47:30 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="131889" time="2013-06-10 21:48:44 UTC">
+      <body>How was your day</body>
+    </message>
+    <message id="m0003" participant="130707" time="2013-06-10 21:49:33 UTC">
+      <body>It was ok</body>
+    </message>
+    <message id="m0004" participant="130707" time="2013-06-10 21:49:38 UTC">
+      <body>I'm tired</body>
+    </message>
+    <message id="m0005" participant="130707" time="2013-06-10 21:50:08 UTC">
+      <body>How was yours?</body>
+    </message>
+    <message id="m0006" participant="131889" time="2013-06-10 21:51:48 UTC">
+      <body>Busy. I'm taking two summer classes at my university</body>
+    </message>
+    <message id="m0007" participant="130707" time="2013-06-10 21:52:39 UTC">
+      <body>Where do you go?</body>
+    </message>
+    <message id="m0008" participant="130707" time="2013-06-10 22:01:34 UTC">
+      <body>Going to sleep</body>
+    </message>
+    <message id="m0009" participant="131889" time="2013-06-10 22:01:34 UTC">
+      <body>Northern Arizona University in Flagstaff</body>
+    </message>
+  </messages>
+</conversation>

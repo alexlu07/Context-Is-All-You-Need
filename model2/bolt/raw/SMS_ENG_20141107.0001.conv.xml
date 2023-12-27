@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 23:29:15 UTC" participant="152115">
+      <body>Michael's picking me up.</body>
+    </message>
+    <message id="m0001" time="2014-11-07 23:35:37 UTC" participant="152117">
+      <body>Ok. I'll let dad know. Love you!</body>
+    </message>
+    <message id="m0002" time="2014-11-08 16:00:52 UTC" participant="152115">
+      <body>Forgot to leave a note. Went to king of Prussia mall with Victor and Cassy.</body>
+    </message>
+    <message id="m0004" time="2014-11-08 17:41:09 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-11-08 18:06:02 UTC" participant="152117">
+      <body>Are you guys eating out or coming home for dinner?</body>
+    </message>
+    <message id="m0006" time="2014-11-08 19:17:21 UTC" participant="152115">
+      <body>We should be going out for Michelle's birthday.</body>
+    </message>
+    <message id="m0007" time="2014-11-08 20:09:16 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" time="2014-11-08 21:44:33 UTC" participant="152117">
+      <body>Did you ever text pop pop?</body>
+    </message>
+  </messages>
+</conversation>
+

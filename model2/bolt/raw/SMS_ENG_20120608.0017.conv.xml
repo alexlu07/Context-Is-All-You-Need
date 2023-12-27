@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120608.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-08 14:45:39 UTC" participant="153439">
+      <body>I'm sorry but I will get to i-house at 11:15...</body>
+    </message>
+    <message id="m0001" time="2012-06-08 14:46:28 UTC" participant="153418">
+      <body>That's okay, I might run a few minutes late as well.</body>
+    </message>
+    <message id="m0002" time="2012-06-08 14:47:42 UTC" participant="153439">
+      <body>Okay :)</body>
+    </message>
+    <message id="m0003" time="2012-06-08 15:14:50 UTC" participant="153418">
+      <body>I'm outside the i-house. Are you still on your way?</body>
+    </message>
+    <message id="m0004" time="2012-06-08 15:17:34 UTC" participant="153439">
+      <body>I am in front of ihouse!!</body>
+    </message>
+  </messages>
+</conversation>
+

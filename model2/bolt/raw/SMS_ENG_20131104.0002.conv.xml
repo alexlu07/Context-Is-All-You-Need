@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131104.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-04 23:00:13 UTC" participant="152535">
+      <body>Whens a good day to practice this week?</body>
+    </message>
+    <message id="m0001" time="2013-11-04 23:01:17 UTC" participant="152417">
+      <body>Wednesday and friday are good, that work for you?</body>
+    </message>
+    <message id="m0002" time="2013-11-05 19:05:36 UTC" participant="152535">
+      <body>Can u bring a coffee for me? Lil soy milk n dark</body>
+    </message>
+    <message id="m0003" time="2013-11-05 19:09:32 UTC" participant="152417">
+      <body>Word</body>
+    </message>
+    <message id="m0004" time="2013-11-05 19:09:52 UTC" participant="152535">
+      <body>U save me!</body>
+    </message>
+    <message id="m0005" time="2013-11-05 19:52:56 UTC" participant="152417">
+      <body>Im downstairs</body>
+    </message>
+  </messages>
+</conversation>
+

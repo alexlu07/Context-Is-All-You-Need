@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130638" time="2013-05-18 17:41:16 UTC">
+      <body>Hello Fawkes17!</body>
+    </message>
+    <message id="m0001" participant="130638" time="2013-05-18 17:46:31 UTC">
+      <body>Fawkes17 how are you?</body>
+    </message>
+    <message id="m0002" participant="130662" time="2013-05-18 19:00:09 UTC">
+      <body>I'm doing good. How about yourself?</body>
+    </message>
+    <message id="m0003" participant="130638" time="2013-05-18 19:09:04 UTC">
+      <body>Great! How did you choose your username?</body>
+    </message>
+    <message id="m0004" participant="130638" time="2013-05-18 19:47:25 UTC">
+      <body>I was wondering whether "Fawkes" was anon-related</body>
+    </message>
+    <message id="m0005" participant="130662" time="2013-05-18 19:57:11 UTC">
+      <body>Yeah, it's anon. It used to be my username when I was a kid :P I figured let's bring Fawkes back to life again. Are you a Penn student/alumnus?</body>
+    </message>
+    <message id="m0006" participant="130638" time="2013-05-18 19:58:36 UTC">
+      <body>No, went to schools around here but not Penn. You?</body>
+    </message>
+    <message id="m0007" participant="130662" time="2013-05-18 20:13:15 UTC">
+      <body>I graduated from Penn last year. What was your major in school?</body>
+    </message>
+    <message id="m0008" participant="130638" time="2013-05-18 20:23:02 UTC">
+      <body>Short version: English, 1 yr psych grad school, then med school. You?</body>
+    </message>
+    <message id="m0009" participant="130662" time="2013-05-18 20:35:14 UTC">
+      <body>Interesting. I did my Master's in Chemical Engineering. Currently working in a startup in the SF Bay area. You still in school, or did you graduate?</body>
+    </message>
+    <message id="m0010" participant="130638" time="2013-05-18 20:37:21 UTC">
+      <body>I graduated but I'm still applying to residencies. Studying for boards now. Startup sounds fun!</body>
+    </message>
+    <message id="m0011" participant="130662" time="2013-05-18 23:16:06 UTC">
+      <body>Well, it is a lot of fun! But it's a lot of work too. Not complaining, though. I like it! Do you stay in the Philadelphia area?</body>
+    </message>
+    <message id="m0012" participant="130638" time="2013-05-18 23:19:32 UTC">
+      <body>Yes, I'm in the western 'burbs. So many resources + things to do here, I feel blessed.</body>
+    </message>
+    <message id="m0013" participant="130662" time="2013-05-19 13:10:13 UTC">
+      <body>(1/2)I mostly stayed in University City when I was there. Hung out in Center City often, but I have no idea what the western part of Philly looks like. Apart</body>
+    </message>
+    <message id="m0014" participant="130662" time="2013-05-19 13:10:13 UTC">
+      <body>(2/2)from what's west of 45th St, that is, which isn't exactly great. Have you ever lived outside of Philly?</body>
+    </message>
+    <message id="m0015" participant="130638" time="2013-05-19 13:42:31 UTC">
+      <body>Born in Chicago</body>
+    </message>
+    <message id="m0016" participant="130638" time="2013-05-19 13:45:59 UTC">
+      <body>Grew up in central PA</body>
+    </message>
+    <message id="m0017" participant="130638" time="2013-05-19 13:46:24 UTC">
+      <body>Went to school in Pittsburgh for a few yrs</body>
+    </message>
+    <message id="m0018" participant="130638" time="2013-05-19 13:46:54 UTC">
+      <body>But mostly have lived in PA</body>
+    </message>
+    <message id="m0019" participant="130638" time="2013-05-19 13:47:54 UTC">
+      <body>Where r u from originally?</body>
+    </message>
+  </messages>
+</conversation>

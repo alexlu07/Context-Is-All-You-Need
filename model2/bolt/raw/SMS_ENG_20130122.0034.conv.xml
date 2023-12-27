@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130122.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-01-22 18:18:40 UTC">
+      <body>Are u on campus. I'm coming to fill out a drop class form after my haircut. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-22 18:20:01 UTC">
+      <body>No I'm home all day but if u decide to walk home you should stop by</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-01-22 18:54:56 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-01-22 18:57:04 UTC">
+      <body>Prob not walkin from school. Sooo cold</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-22 18:57:10 UTC">
+      <body>Cool beans</body>
+    </message>
+  </messages>
+</conversation>

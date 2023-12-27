@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150131.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-31 23:39:41 UTC" participant="149374">
+      <body>I am at Heinza's. Come over!</body>
+    </message>
+    <message id="m0001" time="2015-02-01 01:53:26 UTC" participant="149306">
+      <body>Hey man, I not feeling so great lately and not drinking much. Is there any chance we could meet up for brunch tomorrow or something before you head back?</body>
+    </message>
+    <message id="m0002" time="2015-02-01 01:54:51 UTC" participant="149374">
+      <body>I will call you up, baby. I hope you feel better.</body>
+    </message>
+    <message id="m0003" time="2015-02-01 02:32:50 UTC" participant="149306">
+      <body>Thanks buddy. </body>
+    </message>
+    <message id="m0004" time="2015-02-01 02:33:48 UTC" participant="149374">
+      <body>Royal Tavern tomorrow?</body>
+    </message>
+    <message id="m0005" time="2015-02-01 02:34:32 UTC" participant="149306">
+      <body>Sure. Let me know when you are going over there.</body>
+    </message>
+    <message id="m0006" time="2015-02-01 15:27:43 UTC" participant="149306">
+      <body>Hi, hunter said he is interested in brunch too </body>
+    </message>
+  </messages>
+</conversation>
+

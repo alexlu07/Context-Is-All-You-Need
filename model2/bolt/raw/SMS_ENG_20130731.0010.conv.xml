@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130978" time="2013-07-31 11:37:51 UTC">
+      <body>Sorry to be mia the past couple. Been doing some ditch work for my aunt &amp; this sun has been kicking my ass! Just finished though, now back to... How are you?</body>
+    </message>
+    <message id="m0001" participant="134066" time="2013-07-31 16:05:34 UTC">
+      <body>Good. I had yesterday off to do so stuff I needed, working today</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-31 16:08:31 UTC">
+      <body>Right on. Looks like things are picking up for me a little. Got some solar work lined up next week. Finally!</body>
+    </message>
+    <message id="m0003" participant="134066" time="2013-07-31 16:09:20 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

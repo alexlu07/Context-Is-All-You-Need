@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140130.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-30 19:54:40 UTC" participant="153645">
+      <body>Next</body>
+    </message>
+    <message id="m0001" time="2014-01-30 19:55:51 UTC" participant="153548">
+      <body>Hey! Is your screening this Saturday or next??</body>
+    </message>
+    <message id="m0002" time="2014-01-30 19:56:48 UTC" participant="153645">
+      <body>Yay! </body>
+    </message>
+    <message id="m0003" time="2014-01-30 19:56:51 UTC" participant="153548">
+      <body>Great. Can't wait for it/studio time.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141108.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-08 04:26:40 UTC" participant="152419">
+      <body>Feel free to sleep in my new bed! </body>
+    </message>
+    <message id="m0001" time="2014-11-08 05:03:22 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+    <message id="m0002" time="2014-11-08 15:45:04 UTC" participant="152419">
+      <body>Bean wants to take Simone for a long walk, is that okay?</body>
+    </message>
+    <message id="m0004" time="2014-11-08 15:54:52 UTC" participant="152417">
+      <body> Thats fine.  I called her but no answer</body>
+    </message>
+    <message id="m0005" time="2014-11-08 15:55:44 UTC" participant="152419">
+      <body>Ok! They are going to head toward the radio bean I think.</body>
+    </message>
+  </messages>
+</conversation>
+

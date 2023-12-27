@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140703.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-03 00:47:08 UTC" participant="154352">
+      <body>https://play.google.com/store/apps/details?id=com.google.android.apps.googlevoice</body>
+    </message>
+    <message id="m0001" time="2014-07-03 00:47:17 UTC" participant="154352">
+      <body>Download this</body>
+    </message>
+    <message id="m0002" time="2014-07-03 00:56:01 UTC" participant="154390">
+      <body>Thanks, got it! Have fun :-)</body>
+    </message>
+  </messages>
+</conversation>
+

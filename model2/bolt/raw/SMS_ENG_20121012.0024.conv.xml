@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-12 19:16:39 UTC" participant="152417">
+      <body>Im in!</body>
+    </message>
+    <message id="m0001" time="2012-10-12 19:26:56 UTC" participant="152422">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0002" time="2012-10-13 00:44:00 UTC" participant="152417">
+      <body>Could you send me the address in case i dont see you in the norning?</body>
+    </message>
+    <message id="m0004" time="2012-10-13 00:51:23 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+    <message id="m0005" time="2012-10-13 00:51:33 UTC" participant="152422">
+      <body>Our finance guys were not able to process the check request today FYI- so I will bring the check home to you on Monday if that's cool.</body>
+    </message>
+    <message id="m0006" time="2012-10-13 01:04:23 UTC" participant="152422">
+      <body>I have just been assigned to canvass Northfield tomorrow- so I won't be there... bummin!! But my coworker Harper knows to expect you. Thank you so much Gabi!!</body>
+    </message>
+  </messages>
+</conversation>
+

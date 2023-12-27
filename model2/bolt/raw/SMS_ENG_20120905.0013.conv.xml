@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120905.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-05 15:40:41 UTC">
+      <body>Pace at 1?</body>
+    </message>
+    <message id="m0001" participant="136263" time="2012-09-05 16:32:00 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-05 16:36:45 UTC">
+      <body>Swaaaggggg</body>
+    </message>
+    <message id="m0003" participant="136263" time="2012-09-05 16:38:24 UTC">
+      <body>Come to the parlour </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-05 16:39:39 UTC">
+      <body>I'm already at white hall</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-05 16:42:00 UTC">
+      <body>Meet me at the chapel</body>
+    </message>
+    <message id="m0006" participant="136263" time="2012-09-05 16:42:40 UTC">
+      <body>Okay will do</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-05 16:55:19 UTC">
+      <body>Wherr r uuu</body>
+    </message>
+    <message id="m0009" participant="136263" time="2012-09-05 16:55:28 UTC">
+      <body>3rd row!</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-09-06 14:42:22 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0011" participant="136263" time="2012-09-06 14:43:12 UTC">
+      <body>Come to our room</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120420.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-20 02:43:39 UTC">
+      <body>Dysphoria on Saturday, pumped man</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-20 20:19:12 UTC">
+      <body>Sup</body>
+    </message>
+    <message id="m0002" participant="131305" time="2012-04-21 18:50:24 UTC">
+      <body>yo no gym today. Tryin to chill</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-21 18:50:45 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

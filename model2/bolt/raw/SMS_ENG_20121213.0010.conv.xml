@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-13 17:52:26 UTC">
+      <body>Just to double check (no rush) you haven't paid me back yet for fairleighs party, right?</body>
+    </message>
+    <message id="m0001" participant="135269" time="2012-12-13 19:35:32 UTC">
+      <body>I haven't at atm now.</body>
+    </message>
+  </messages>
+</conversation>

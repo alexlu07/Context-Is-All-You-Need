@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111120.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2011-11-20 06:17:04 UTC">
+      <body>Can you hurry this is awk</body>
+    </message>
+    <message id="m0001" participant="131065" time="2011-11-20 06:17:36 UTC">
+      <body>Be out in a minute</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111123.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-11-23 17:04:34 UTC">
+      <body>I read you like a book</body>
+    </message>
+    <message id="m0001" participant="135107" time="2011-11-23 17:27:36 UTC">
+      <body>You kinda did.  </body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-11-23 17:28:12 UTC">
+      <body>Kinda?</body>
+    </message>
+    <message id="m0003" participant="135107" time="2011-11-23 17:30:05 UTC">
+      <body>You did. </body>
+    </message>
+  </messages>
+</conversation>

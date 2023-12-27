@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120514.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-14 17:08:16 UTC">
+      <body>Hey where are ya</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-05-14 17:29:21 UTC">
+      <body>All of LAS is absent lol for tomorrows AP</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-14 17:30:45 UTC">
+      <body>Oh yeah lol. Good luck!</body>
+    </message>
+    <message id="m0003" participant="136210" time="2012-05-14 17:38:18 UTC">
+      <body>Thank you! How was english</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-14 18:24:03 UTC">
+      <body>Rowley was not happy today. We didn't do much in class. She won't be here tomorrow. There's some work I'll tell you about tonight</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-05-14 19:10:38 UTC">
+      <body>Also what are you doing on Saturday</body>
+    </message>
+  </messages>
+</conversation>

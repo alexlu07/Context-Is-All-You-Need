@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140128.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-28 15:51:28 UTC" participant="153632">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-01-28 15:51:28 UTC" participant="153632">
+      <body>She got cast for Jungle Book!</body>
+    </message>
+    <message id="m0002" time="2014-01-28 15:53:49 UTC" participant="153548">
+      <body>BABY ELEPHANT!!!</body>
+    </message>
+    <message id="m0003" time="2014-01-28 15:54:04 UTC" participant="153548">
+      <body>This made my day!!</body>
+    </message>
+    <message id="m0004" time="2014-01-28 15:54:40 UTC" participant="153632">
+      <body>Lol</body>
+    </message>
+    <message id="m0005" time="2014-01-28 15:55:13 UTC" participant="153548">
+      <body>Have you told her yet?</body>
+    </message>
+    <message id="m0006" time="2014-01-28 15:55:44 UTC" participant="153632">
+      <body>Nope. I just found out</body>
+    </message>
+  </messages>
+</conversation>
+

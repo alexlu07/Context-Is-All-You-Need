@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 23:30:02 UTC" participant="153591">
+      <body>dude we're just going to be hanging out and watching movies, come over</body>
+    </message>
+    <message id="m0001" time="2014-12-14 01:14:03 UTC" participant="153547">
+      <body>What's the address?</body>
+    </message>
+    <message id="m0003" time="2014-12-14 01:41:36 UTC" participant="153547">
+      <body>I'm outside</body>
+    </message>
+    <message id="m0004" time="2014-12-14 14:57:00 UTC" participant="153591">
+      <body>so shall I meet you guys at royal Taj at 12?</body>
+    </message>
+    <message id="m0005" time="2014-12-14 15:01:23 UTC" participant="153547">
+      <body> Yeah!</body>
+    </message>
+    <message id="m0006" time="2014-12-14 15:02:08 UTC" participant="153591">
+      <body>awesome</body>
+    </message>
+    <message id="m0007" time="2014-12-14 16:47:05 UTC" participant="153591">
+      <body>just rolled.up, got here sooner than  I thought I would </body>
+    </message>
+    <message id="m0008" time="2014-12-14 16:47:35 UTC" participant="153547">
+      <body> Be there in 10min</body>
+    </message>
+    <message id="m0009" time="2014-12-14 16:47:51 UTC" participant="153591">
+      <body>ok</body>
+    </message>
+  </messages>
+</conversation>
+

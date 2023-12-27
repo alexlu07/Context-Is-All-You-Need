@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110801.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-01 03:22:43 UTC">
+      <body>Truth or fact: you're buds with James Franco.</body>
+    </message>
+    <message id="m0001" participant="135136" time="2011-08-01 03:57:53 UTC">
+      <body> Well I've gone to the bar with the man. And been in a movie of his</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-01 04:01:25 UTC">
+      <body>And you've hid this from me... Ouch Dave. Ouch.</body>
+    </message>
+    <message id="m0003" participant="135136" time="2011-08-01 04:06:15 UTC">
+      <body>Just another actor marth:-) </body>
+    </message>
+    <message id="m0004" participant="135136" time="2011-08-01 05:30:39 UTC">
+      <body>Also, are you coming out here? Rumors are a flying! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135389" time="2013-02-16 19:58:47 UTC">
+      <body>You hereeee?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-16 21:03:28 UTC">
+      <body>On 4</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-16 21:03:31 UTC">
+      <body>U hungry?</body>
+    </message>
+    <message id="m0003" participant="135389" time="2013-02-16 21:07:12 UTC">
+      <body>I'm on 3! I'll come visit. </body>
+    </message>
+  </messages>
+</conversation>

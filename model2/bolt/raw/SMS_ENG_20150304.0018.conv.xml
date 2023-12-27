@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150304.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-04 00:21:31 UTC" participant="153581">
+      <body>We're drivin over neighbor!!</body>
+    </message>
+    <message id="m0001" time="2015-03-04 00:22:50 UTC" participant="153581">
+      <body>We've arrived!</body>
+    </message>
+    <message id="m0002" time="2015-03-04 00:23:06 UTC" participant="153581">
+      <body>Quite a trip</body>
+    </message>
+    <message id="m0003" time="2015-03-04 00:23:17 UTC" participant="153548">
+      <body>Be out in 1 sec!</body>
+    </message>
+    <message id="m0004" time="2015-03-04 00:23:28 UTC" participant="153581">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

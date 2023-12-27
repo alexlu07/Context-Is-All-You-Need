@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136375" time="2013-04-12 15:31:00 UTC">
+      <body>Hey are you going to intown this sunday?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-12 15:45:15 UTC">
+      <body>absolutely! we'll be leaving from w####### res hall at 9:20. does that work? </body>
+    </message>
+    <message id="m0002" participant="136375" time="2013-04-12 15:47:00 UTC">
+      <body>That works for me. Where at Woodruff do you meet?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-12 15:48:16 UTC">
+      <body>just, like, out front by that roundabout. </body>
+    </message>
+    <message id="m0004" participant="136375" time="2013-04-12 15:49:11 UTC">
+      <body>Ok. Sounds good. See you then!</body>
+    </message>
+  </messages>
+</conversation>

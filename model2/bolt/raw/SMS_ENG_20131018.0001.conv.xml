@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131018.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-18 11:22:40 UTC" participant="152490">
+      <body>Hi - checking in. Let me know when you if you are on schedule</body>
+    </message>
+    <message id="m0001" time="2013-10-18 14:35:11 UTC" participant="152417">
+      <body>Im runnng late, ive gt a little bit more to do at my restaurant and then ill hit the road, is 530 ok?</body>
+    </message>
+    <message id="m0002" time="2013-10-18 17:01:26 UTC" participant="152417">
+      <body>Eta 6</body>
+    </message>
+    <message id="m0003" time="2013-10-18 17:40:16 UTC" participant="152490">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

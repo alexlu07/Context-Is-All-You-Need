@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 02:04:36 UTC" participant="153804">
+      <body> Did you go up to Canada? over the weekend on how was it?</body>
+    </message>
+    <message id="m0001" time="2015-02-25 02:05:36 UTC" participant="153813">
+      <body>Gary is going this weekend. Couldn't get in last weekend.</body>
+    </message>
+    <message id="m0002" time="2015-02-25 02:06:10 UTC" participant="153804">
+      <body> Should be much warmer!</body>
+    </message>
+  </messages>
+</conversation>
+

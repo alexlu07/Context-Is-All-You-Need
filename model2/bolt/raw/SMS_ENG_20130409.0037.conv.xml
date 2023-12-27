@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130409.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135469" time="2013-04-09 16:04:16 UTC">
+      <body>Let's talk about your work schedule</body>
+    </message>
+    <message id="m0001" participant="135469" time="2013-04-09 16:08:32 UTC">
+      <body>Me office going to  Kennedy soon
+Yes life is good</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-09 16:08:36 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-09 16:08:57 UTC">
+      <body>Is everything ok?  Thursdays don't work?</body>
+    </message>
+    <message id="m0004" participant="135469" time="2013-04-09 16:10:40 UTC">
+      <body>Where are you right now</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-09 16:10:41 UTC">
+      <body>Hahahhaa ok well this is my availability: Wednesday from one thirty to five   Thursdays nine to one.  Fridays nine to one. </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-04-09 16:11:26 UTC">
+      <body>Four.  Standing texting you</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-04-09 16:12:35 UTC">
+      <body>If you need other times I could do Tuesday ten fifteen to one thirty </body>
+    </message>
+  </messages>
+</conversation>

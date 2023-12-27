@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120218.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-02-18 04:53:22 UTC">
+      <body>How did the callbacks go?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-02-18 04:53:49 UTC">
+      <body>We bid someone but he chose another group</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-02-18 04:54:44 UTC">
+      <body>Silly guy!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-02-18 04:54:58 UTC">
+      <body>I bet</body>
+    </message>
+  </messages>
+</conversation>

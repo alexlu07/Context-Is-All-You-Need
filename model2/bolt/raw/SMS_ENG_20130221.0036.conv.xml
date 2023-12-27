@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-02-21 22:54:11 UTC">
+      <body>Hey margo its dan wassup?</body>
+    </message>
+    <message id="m0001" participant="132545" time="2013-02-22 00:19:20 UTC">
+      <body>Hey man. Whats up</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-02-22 00:20:52 UTC">
+      <body>Just chillin watching king of the hill. How r u?</body>
+    </message>
+    <message id="m0003" participant="132545" time="2013-02-22 01:08:38 UTC">
+      <body>At a flyers game n they suck</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-02-22 01:11:06 UTC">
+      <body>Oh i wouldn't know bout that hockey stuff.  Im looking forward to seeing u soon!  But i actually got invited to nyc this weekend.  Can we reschedule our lunch?</body>
+    </message>
+    <message id="m0005" participant="132545" time="2013-02-22 01:12:14 UTC">
+      <body>No worries. When r u free</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-02-22 01:23:11 UTC">
+      <body>Mar 16 i believe would be a good day for me. Sat afternoon </body>
+    </message>
+  </messages>
+</conversation>

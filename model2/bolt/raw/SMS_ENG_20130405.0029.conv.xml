@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134302" time="2013-04-05 19:32:01 UTC">
+      <body>Golf tomorrow morning?</body>
+    </message>
+    <message id="m0001" participant="134302" time="2013-04-05 20:32:50 UTC">
+      <body>Dom Brown just CRUSHED one </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-04-06 00:20:33 UTC">
+      <body>Gonna be cold tomorrow morning bunk</body>
+    </message>
+    <message id="m0003" participant="134302" time="2013-04-06 01:45:10 UTC">
+      <body>Above freezing. Will be BALMY</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-04-06 01:46:05 UTC">
+      <body>Shorts it is then</body>
+    </message>
+    <message id="m0005" participant="134302" time="2013-04-06 01:46:43 UTC">
+      <body>I'm wearing a cutoff tee too</body>
+    </message>
+  </messages>
+</conversation>

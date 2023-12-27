@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-03-03 15:09:05 UTC">
+      <body>Hey Eileen it's Casey, sorry to bother you but we will be near Costco today and wanted to know if we are able to just pick up our membership there? Not sure if we are added yet but figured I would ask since we are near.  Thanks.  </body>
+    </message>
+    <message id="m0001" participant="134288" time="2013-03-03 16:04:34 UTC">
+      <body>Casey. You can ask.  They may have your name in the system already.  Irene sent it early this week.  </body>
+    </message>
+  </messages>
+</conversation>

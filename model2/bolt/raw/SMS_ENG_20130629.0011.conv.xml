@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130840" time="2013-06-29 19:16:16 UTC">
+      <body>Kate wants to know if she can sleep at your house tomorrow morning she has an overnight shift</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-29 19:28:22 UTC">
+      <body>We will have a couch surfer arriving at 7am, but that's fine with us</body>
+    </message>
+    <message id="m0002" participant="130840" time="2013-06-29 20:22:24 UTC">
+      <body>Cool- she says thanks!</body>
+    </message>
+  </messages>
+</conversation>

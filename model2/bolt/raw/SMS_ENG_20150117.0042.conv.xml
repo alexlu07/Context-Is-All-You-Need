@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150117.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-17 21:58:27 UTC" participant="152123">
+      <body>Hey, has mom communicated with you yet?</body>
+    </message>
+    <message id="m0001" time="2015-01-17 22:17:22 UTC" participant="153244">
+      <body>Yea told her ill be late</body>
+    </message>
+    <message id="m0002" time="2015-01-17 22:17:29 UTC" participant="152123">
+      <body>Cool</body>
+    </message>
+    <message id="m0003" time="2015-01-17 22:25:05 UTC" participant="153244">
+      <body>Omw.. its the place near Columbus and Washington? </body>
+    </message>
+    <message id="m0004" time="2015-01-17 22:25:17 UTC" participant="152123">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" time="2015-01-17 22:26:21 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

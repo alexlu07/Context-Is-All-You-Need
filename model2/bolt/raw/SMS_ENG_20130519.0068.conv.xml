@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0068" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-19 13:19:27 UTC">
+      <body>I'm coming this week to Philly!!!! I'm psyched to see you!!</body>
+    </message>
+    <message id="m0001" participant="135364" time="2013-05-19 20:03:53 UTC">
+      <body>Yay!!!!! I can't wait! I'm off Saturday, Sunday and Monday. When are you coming?</body>
+    </message>
+    <message id="m0002" participant="135364" time="2013-05-19 20:03:56 UTC">
+      <body>You're totally welcome to stay with us if you like. I forgot to tell you that Andrew Potts is our new roommate.</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-19 20:05:00 UTC">
+      <body>Oh my god Andrew potts! That's cray cray. </body>
+    </message>
+  </messages>
+</conversation>

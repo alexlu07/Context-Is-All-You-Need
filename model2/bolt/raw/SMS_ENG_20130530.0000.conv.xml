@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130978" time="2013-05-30 06:59:48 UTC">
+      <body>Is this turner the philly bike messenger?</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-05-30 12:58:48 UTC">
+      <body>Hey, sorry its taken a while. I'm usually not available these hours. Working, but I have a lil free time at the moment between deliveries.</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-05-30 13:00:02 UTC">
+      <body>(1/2) You must have talked to the last guy. I never got to finish that conversation because I got super busy at work. Not sure why they ask for hours of</body>
+    </message>
+    <message id="m0003" participant="131015" time="2013-05-30 13:00:32 UTC">
+      <body>(2/2) availability if these things last an entire day.</body>
+    </message>
+  </messages>
+</conversation>

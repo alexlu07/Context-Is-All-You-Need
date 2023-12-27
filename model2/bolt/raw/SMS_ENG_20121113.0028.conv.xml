@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121113.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-13 23:57:06 UTC">
+      <body>I'm actually going to dinner right now with Ben</body>
+    </message>
+    <message id="m0001" participant="136276" time="2012-11-13 23:57:26 UTC">
+      <body>Wait wait in going. In hungry. </body>
+    </message>
+    <message id="m0002" participant="136276" time="2012-11-13 23:57:52 UTC">
+      <body>Wait for me? </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-13 23:58:11 UTC">
+      <body>Ok! We are right out front</body>
+    </message>
+  </messages>
+</conversation>

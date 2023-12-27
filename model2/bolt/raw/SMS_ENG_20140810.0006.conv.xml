@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 16:51:05 UTC" participant="153418">
+      <body>Hey, you busy this afternoon? </body>
+    </message>
+    <message id="m0001" time="2014-08-10 18:56:20 UTC" participant="152119">
+      <body>Sorry my friend, I'm at work :( </body>
+    </message>
+  </messages>
+</conversation>
+

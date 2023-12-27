@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="133038" time="2013-07-02 15:03:38 UTC">
+      <body>I forgot how good 30 rock is!</body>
+    </message>
+    <message id="m0001" participant="133040" time="2013-07-02 15:04:57 UTC">
+      <body>How could you?!</body>
+    </message>
+    <message id="m0002" participant="133040" time="2013-07-02 15:04:57 UTC">
+      <body>You are no friend of mine!</body>
+    </message>
+    <message id="m0003" participant="133038" time="2013-07-02 21:32:22 UTC">
+      <body>I just hadn't watched it in a while!</body>
+    </message>
+  </messages>
+</conversation>

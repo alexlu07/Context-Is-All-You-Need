@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131026" time="2013-03-29 22:36:30 UTC">
+      <body>Wanna go to farmers market tmrw?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-03-29 22:37:05 UTC">
+      <body>Yes, but we're in PA!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-03-29 22:37:19 UTC">
+      <body>How was Mom's visit?</body>
+    </message>
+    <message id="m0003" participant="131026" time="2013-03-29 23:18:28 UTC">
+      <body>Rats! Moms visit was good. Looonng, but good. When do you get back?</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-03-30 00:10:23 UTC">
+      <body>Sunday afternoon</body>
+    </message>
+  </messages>
+</conversation>

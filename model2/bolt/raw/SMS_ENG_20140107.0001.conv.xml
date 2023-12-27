@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140107.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-07 23:02:30 UTC" participant="152417">
+      <body>Your drum arrived</body>
+    </message>
+    <message id="m0001" time="2014-01-07 23:12:16 UTC" participant="152535">
+      <body>Woo woo! Can you bring it tomorrow? How much? Make sure you bring that tenor too so that we can figure out whats up. Be well!</body>
+    </message>
+    <message id="m0002" time="2014-01-08 15:34:24 UTC" participant="152535">
+      <body>Hey i forgot my check book. So i will pay you at balagan.  If im not in my room just leave the instruments by my podium. Peace!</body>
+    </message>
+    <message id="m0003" time="2014-01-08 15:41:02 UTC" participant="152417">
+      <body>Ok, thanks and no problem</body>
+    </message>
+  </messages>
+</conversation>
+

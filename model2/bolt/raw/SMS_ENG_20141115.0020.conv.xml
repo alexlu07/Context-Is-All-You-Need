@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141115.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-15 01:36:00 UTC" participant="153553">
+      <body>Hey! What you doing?</body>
+    </message>
+    <message id="m0001" time="2014-11-15 01:36:00 UTC" participant="153553">
+      <body>Jordan and Thomas are here</body>
+    </message>
+    <message id="m0002" time="2014-11-15 02:08:01 UTC" participant="153548">
+      <body>Hey! Hunter and I are having a date night! </body>
+    </message>
+    <message id="m0003" time="2014-11-15 02:12:16 UTC" participant="153553">
+      <body>Oh nice!</body>
+    </message>
+    <message id="m0004" time="2014-11-15 02:14:44 UTC" participant="153553">
+      <body>Jordan asked what you were up to! </body>
+    </message>
+    <message id="m0005" time="2014-11-15 02:22:15 UTC" participant="153548">
+      <body>Aw!!! Will they be here tmw? What you guys up to?</body>
+    </message>
+    <message id="m0006" time="2014-11-15 02:22:56 UTC" participant="153553">
+      <body>No, but we going to dahlak now</body>
+    </message>
+    <message id="m0007" time="2014-11-15 02:31:54 UTC" participant="153548">
+      <body>Aw dangs I'm gunna miss them this visit! Have fun!! Put on your long johns. </body>
+    </message>
+    <message id="m0008" time="2014-11-15 15:52:58 UTC" participant="153553">
+      <body>Hey!! Are you around tomorrow afternoon? Wanna go see a movie maybe?</body>
+    </message>
+    <message id="m0009" time="2014-11-15 15:53:27 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0010" time="2014-11-15 15:53:36 UTC" participant="153548">
+      <body>i wish i could! I have to grade papers tomorrow ughhh</body>
+    </message>
+    <message id="m0011" time="2014-11-15 15:53:36 UTC" participant="153553">
+      <body>Noooooo</body>
+    </message>
+    <message id="m0012" time="2014-11-15 15:53:36 UTC" participant="153548">
+      <body>hunter is having a fish fry tonight if you guys wanna come over</body>
+    </message>
+    <message id="m0013" time="2014-11-15 15:53:36 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0014" time="2014-11-15 15:54:50 UTC" participant="153548">
+      <body>I’m texting from my computer i don</body>
+    </message>
+    <message id="m0015" time="2014-11-15 15:54:55 UTC" participant="153548">
+      <body>don’t have emoticons!</body>
+    </message>
+    <message id="m0016" time="2014-11-15 15:55:01 UTC" participant="153553">
+      <body>We might come!</body>
+    </message>
+    <message id="m0017" time="2014-11-15 15:55:35 UTC" participant="153553">
+      <body>I don't think there is an emoticon for fish fry anyway</body>
+    </message>
+    <message id="m0018" time="2014-11-15 15:55:38 UTC" participant="153548">
+      <body>hahahaha</body>
+    </message>
+    <message id="m0019" time="2014-11-15 15:55:44 UTC" participant="153548">
+      <body>how was Dahlak last night I haven’t been there in forever</body>
+    </message>
+    <message id="m0020" time="2014-11-15 15:55:44 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0021" time="2014-11-15 15:55:44 UTC" participant="153548">
+      <body>hey that’s pretty good</body>
+    </message>
+    <message id="m0022" time="2014-11-15 15:55:44 UTC" participant="153553">
+      <body>Dahlak was ok</body>
+    </message>
+    <message id="m0023" time="2014-11-15 15:55:44 UTC" participant="153553">
+      <body>The same</body>
+    </message>
+    <message id="m0024" time="2014-11-15 15:55:44 UTC" participant="153553">
+      <body>It was good hanging with Jordan and Thomas </body>
+    </message>
+    <message id="m0025" time="2014-11-15 15:56:48 UTC" participant="153553">
+      <body>They are downstairs right now</body>
+    </message>
+    <message id="m0026" time="2014-11-15 15:56:54 UTC" participant="153553">
+      <body>I'm laying in bed</body>
+    </message>
+    <message id="m0027" time="2014-11-15 15:57:11 UTC" participant="153553">
+      <body>Not going down there</body>
+    </message>
+    <message id="m0028" time="2014-11-15 15:57:39 UTC" participant="153548">
+      <body>hahaha. I’m in my robe on the couch doing work. </body>
+    </message>
+    <message id="m0029" time="2014-11-15 15:57:52 UTC" participant="153553">
+      <body>I'm in my robe in bed drinking coffee</body>
+    </message>
+    <message id="m0030" time="2014-11-15 15:57:52 UTC" participant="153553">
+      <body>So cold </body>
+    </message>
+    <message id="m0031" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>Yummmm</body>
+    </message>
+    <message id="m0032" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>our boiler isn’t working </body>
+    </message>
+    <message id="m0033" time="2014-11-15 15:57:52 UTC" participant="153553">
+      <body>Oh no!!!!</body>
+    </message>
+    <message id="m0034" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>i know..</body>
+    </message>
+    <message id="m0035" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>the pilot light is out</body>
+    </message>
+    <message id="m0036" time="2014-11-15 15:57:52 UTC" participant="153553">
+      <body>Hunter can fix that</body>
+    </message>
+    <message id="m0037" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>its’ from the 80’s so we have been researching how to fix it but if we don’t it’s like 8000!!!!</body>
+    </message>
+    <message id="m0038" time="2014-11-15 15:57:52 UTC" participant="153548">
+      <body>WTF</body>
+    </message>
+    <message id="m0039" time="2014-11-15 15:57:52 UTC" participant="153553">
+      <body>Ours did that last year</body>
+    </message>
+    <message id="m0040" time="2014-11-15 15:59:08 UTC" participant="153553">
+      <body>We needed some new little wire</body>
+    </message>
+    <message id="m0041" time="2014-11-15 15:59:25 UTC" participant="153548">
+      <body>yeah hoping it’s something like that</body>
+    </message>
+    <message id="m0043" time="2014-11-15 16:00:00 UTC" participant="153553">
+      <body>I was freaking out when it happened</body>
+    </message>
+    <message id="m0044" time="2014-11-15 16:00:00 UTC" participant="153553">
+      <body>Did you guys have a good time last night?</body>
+    </message>
+    <message id="m0045" time="2014-11-15 16:00:00 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0047" time="2014-11-15 16:01:48 UTC" participant="153548">
+      <body>yeah we went to chinatown and hung out it was fun</body>
+    </message>
+    <message id="m0048" time="2014-11-15 16:01:51 UTC" participant="153548">
+      <body>AHAHAHAHAHA</body>
+    </message>
+    <message id="m0049" time="2014-11-15 16:01:59 UTC" participant="153548">
+      <body>it’s the best thing ever</body>
+    </message>
+    <message id="m0050" time="2014-11-15 16:02:06 UTC" participant="153553">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0051" time="2014-11-15 16:02:08 UTC" participant="153553">
+      <body>They loved it</body>
+    </message>
+    <message id="m0052" time="2014-11-15 16:02:08 UTC" participant="153553">
+      <body>They said Joseph had his heart broken by Pete</body>
+    </message>
+    <message id="m0053" time="2014-11-15 16:02:08 UTC" participant="153553">
+      <body>She cheated on him with some guy from her work and now is living with the guy</body>
+    </message>
+    <message id="m0054" time="2014-11-15 16:02:08 UTC" participant="153548">
+      <body>omg what?!</body>
+    </message>
+    <message id="m0055" time="2014-11-15 16:02:08 UTC" participant="153548">
+      <body>that’s so insane</body>
+    </message>
+    <message id="m0056" time="2014-11-15 16:02:08 UTC" participant="153553">
+      <body>Yeah totally</body>
+    </message>
+    <message id="m0058" time="2014-11-15 16:04:07 UTC" participant="153548">
+      <body>yeah it happens eventually</body>
+    </message>
+    <message id="m0059" time="2014-11-15 16:04:16 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0060" time="2014-11-15 16:04:16 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0061" time="2014-11-15 16:04:16 UTC" participant="153548">
+      <body>we all snap out of it</body>
+    </message>
+    <message id="m0062" time="2014-11-15 16:04:16 UTC" participant="153548">
+      <body>hahahah</body>
+    </message>
+    <message id="m0063" time="2014-11-15 16:04:16 UTC" participant="153548">
+      <body>oh  man that sucks though. i bet he did something creepy though</body>
+    </message>
+    <message id="m0064" time="2014-11-15 16:04:16 UTC" participant="153548">
+      <body>i just have a feeling haha</body>
+    </message>
+    <message id="m0065" time="2014-11-15 16:04:16 UTC" participant="153548">
+      <body>isn’t that terrible</body>
+    </message>
+    <message id="m0066" time="2014-11-15 16:04:16 UTC" participant="153553">
+      <body>Haha</body>
+    </message>
+    <message id="m0067" time="2014-11-15 16:04:16 UTC" participant="153553">
+      <body>I was thinking that when they told me about it</body>
+    </message>
+    <message id="m0068" time="2014-11-15 16:04:16 UTC" participant="153553">
+      <body>Oh and he isn't dating that girl from Facebook that you and Ben were wondering about</body>
+    </message>
+    <message id="m0069" time="2014-11-15 16:06:14 UTC" participant="153548">
+      <body>ah man my rumor is squashed!</body>
+    </message>
+    <message id="m0070" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>He's single and ready to mingle </body>
+    </message>
+    <message id="m0072" time="2014-11-15 16:06:24 UTC" participant="153548">
+      <body>omg</body>
+    </message>
+    <message id="m0073" time="2014-11-15 16:06:24 UTC" participant="153548">
+      <body>hunter is sitting next to me i lee ohaving to shut the laptop</body>
+    </message>
+    <message id="m0074" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>Hahahaha</body>
+    </message>
+    <message id="m0075" time="2014-11-15 16:06:24 UTC" participant="153548">
+      <body>AHAHAHAHA</body>
+    </message>
+    <message id="m0076" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>Oh no!</body>
+    </message>
+    <message id="m0077" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>NSFH</body>
+    </message>
+    <message id="m0078" time="2014-11-15 16:06:24 UTC" participant="153548">
+      <body>i dont’ know what that means</body>
+    </message>
+    <message id="m0079" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>Not safe for hunter </body>
+    </message>
+    <message id="m0080" time="2014-11-15 16:06:24 UTC" participant="153553">
+      <body>Like how people post things on Facebook and then write NSFW</body>
+    </message>
+    <message id="m0081" time="2014-11-15 16:08:21 UTC" participant="153553">
+      <body>Not safe for work</body>
+    </message>
+    <message id="m0082" time="2014-11-15 16:08:21 UTC" participant="153548">
+      <body>lol</body>
+    </message>
+    <message id="m0083" time="2014-11-15 16:08:23 UTC" participant="153548">
+      <body>hahahah</body>
+    </message>
+    <message id="m0084" time="2014-11-15 16:08:32 UTC" participant="153553">
+      <body>Lol</body>
+    </message>
+    <message id="m0085" time="2014-11-15 16:08:32 UTC" participant="153548">
+      <body>imma come back in a sec we are going to look at the boiler</body>
+    </message>
+    <message id="m0086" time="2014-11-15 16:08:32 UTC" participant="153553">
+      <body>Ok!</body>
+    </message>
+    <message id="m0087" time="2014-11-15 16:08:32 UTC" participant="153553">
+      <body>I'll be around!</body>
+    </message>
+    <message id="m0088" time="2014-11-15 16:08:32 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0089" time="2014-11-15 16:32:00 UTC" participant="153548">
+      <body>Hunter fixed it!</body>
+    </message>
+    <message id="m0090" time="2014-11-15 16:50:29 UTC" participant="153548">
+      <body>I’m gonna sew our curtains today!</body>
+    </message>
+    <message id="m0091" time="2014-11-15 16:54:23 UTC" participant="153553">
+      <body>Oh thank god!!</body>
+    </message>
+    <message id="m0092" time="2014-11-15 16:54:32 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0093" time="2014-11-15 16:54:42 UTC" participant="153553">
+      <body>Too cold for that shit</body>
+    </message>
+    <message id="m0094" time="2014-11-15 16:54:50 UTC" participant="153548">
+      <body>i know i was getting so cranky</body>
+    </message>
+    <message id="m0095" time="2014-11-15 16:55:10 UTC" participant="153553">
+      <body>What was wrong with it?</body>
+    </message>
+    <message id="m0096" time="2014-11-15 16:55:28 UTC" participant="153548">
+      <body>something with the pilot. </body>
+    </message>
+    <message id="m0097" time="2014-11-15 16:55:28 UTC" participant="153548">
+      <body>and gas was leaking</body>
+    </message>
+    <message id="m0098" time="2014-11-15 16:55:28 UTC" participant="153548">
+      <body>and now we have to bleed all the radiators</body>
+    </message>
+    <message id="m0099" time="2014-11-15 16:55:28 UTC" participant="153553">
+      <body>Oh yeah</body>
+    </message>
+    <message id="m0100" time="2014-11-15 16:55:28 UTC" participant="153553">
+      <body>That shit is tricky</body>
+    </message>
+    <message id="m0101" time="2014-11-15 16:55:28 UTC" participant="153548">
+      <body>i know so many steps</body>
+    </message>
+    <message id="m0102" time="2014-11-15 16:56:34 UTC" participant="153553">
+      <body>But atleast you guys will be warm soon</body>
+    </message>
+    <message id="m0103" time="2014-11-15 16:56:35 UTC" participant="153553">
+      <body>!!</body>
+    </message>
+    <message id="m0104" time="2014-11-15 16:56:39 UTC" participant="153548">
+      <body>yeah!</body>
+    </message>
+    <message id="m0105" time="2014-11-15 16:56:41 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0106" time="2014-11-15 16:56:47 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0107" time="2014-11-15 16:56:53 UTC" participant="153548">
+      <body>hahahahahaha i can’t stop laughing at the emoticons</body>
+    </message>
+    <message id="m0108" time="2014-11-15 16:57:10 UTC" participant="153553">
+      <body>There are so many good ones</body>
+    </message>
+    <message id="m0109" time="2014-11-15 16:57:31 UTC" participant="153548">
+      <body>what are you guys doing today</body>
+    </message>
+    <message id="m0111" time="2014-11-15 16:57:36 UTC" participant="153548">
+      <body>god me too</body>
+    </message>
+    <message id="m0112" time="2014-11-15 16:57:36 UTC" participant="153548">
+      <body>although it does make us more creative with fruit</body>
+    </message>
+    <message id="m0113" time="2014-11-15 16:57:36 UTC" participant="153553">
+      <body>That's true</body>
+    </message>
+    <message id="m0114" time="2014-11-15 16:57:36 UTC" participant="153553">
+      <body>We are gonna do some shit at the house </body>
+    </message>
+    <message id="m0115" time="2014-11-15 16:57:36 UTC" participant="153553">
+      <body>Maybe run out to ikea again</body>
+    </message>
+    <message id="m0116" time="2014-11-15 16:58:41 UTC" participant="153553">
+      <body>I wanna go by moon and arrow too</body>
+    </message>
+    <message id="m0117" time="2014-11-15 16:58:50 UTC" participant="153553">
+      <body>You guys?</body>
+    </message>
+    <message id="m0118" time="2014-11-15 16:59:24 UTC" participant="153548">
+      <body>yeah i might have to go back to Ikea too. Hunter is getting out curtain rod now but I have a feeling he’s not going to get the right parts. (he wants to make one with pipe ugh)</body>
+    </message>
+    <message id="m0119" time="2014-11-15 16:59:44 UTC" participant="153553">
+      <body>Oh no</body>
+    </message>
+    <message id="m0120" time="2014-11-15 16:59:44 UTC" participant="153553">
+      <body>So industrial</body>
+    </message>
+    <message id="m0121" time="2014-11-15 16:59:44 UTC" participant="153548">
+      <body>ugh I’m just trying to get some damn curtains up</body>
+    </message>
+    <message id="m0122" time="2014-11-15 16:59:44 UTC" participant="153553">
+      <body>Could be cool</body>
+    </message>
+    <message id="m0123" time="2014-11-15 16:59:44 UTC" participant="153548">
+      <body>he has good taste so i’m hoping it won’t be as bad as I think</body>
+    </message>
+    <message id="m0124" time="2014-11-15 16:59:44 UTC" participant="153548">
+      <body>trying really hard to compromise </body>
+    </message>
+    <message id="m0125" time="2014-11-15 16:59:44 UTC" participant="153553">
+      <body>Hunter is so zany !!</body>
+    </message>
+    <message id="m0126" time="2014-11-15 17:01:02 UTC" participant="153548">
+      <body>hahahahahahaha he picked the curtain fabric i like it a lot</body>
+    </message>
+    <message id="m0127" time="2014-11-15 17:01:08 UTC" participant="153553">
+      <body>I bet it'll be cool</body>
+    </message>
+    <message id="m0128" time="2014-11-15 17:01:19 UTC" participant="153553">
+      <body>He does have good taste</body>
+    </message>
+    <message id="m0129" time="2014-11-15 17:01:39 UTC" participant="153553">
+      <body>When you guys compromise magic happens</body>
+    </message>
+    <message id="m0130" time="2014-11-15 17:01:47 UTC" participant="153548">
+      <body>that’s gonna be my new mantra</body>
+    </message>
+    <message id="m0131" time="2014-11-15 17:01:52 UTC" participant="153553">
+      <body>Your bedroom is my favorite</body>
+    </message>
+    <message id="m0132" time="2014-11-15 17:01:52 UTC" participant="153548">
+      <body>well, thats because I was in charge of that room</body>
+    </message>
+    <message id="m0133" time="2014-11-15 17:01:52 UTC" participant="153548">
+      <body>so</body>
+    </message>
+    <message id="m0134" time="2014-11-15 17:01:52 UTC" participant="153553">
+      <body>Hahahaha</body>
+    </message>
+    <message id="m0135" time="2014-11-15 17:01:52 UTC" participant="153553">
+      <body>True</body>
+    </message>
+    <message id="m0136" time="2014-11-15 17:01:52 UTC" participant="153548">
+      <body>hey any news on you guys moving to a condo</body>
+    </message>
+    <message id="m0137" time="2014-11-15 17:01:52 UTC" participant="153548">
+      <body>?!?!</body>
+    </message>
+    <message id="m0138" time="2014-11-15 17:01:52 UTC" participant="153553">
+      <body>Haha not yet</body>
+    </message>
+    <message id="m0139" time="2014-11-15 17:01:52 UTC" participant="153553">
+      <body>They just started reviewing applications</body>
+    </message>
+    <message id="m0140" time="2014-11-15 17:03:18 UTC" participant="153548">
+      <body>oh  man it’s such a long process</body>
+    </message>
+    <message id="m0141" time="2014-11-15 17:03:25 UTC" participant="153553">
+      <body>Probably gonna take awhile</body>
+    </message>
+    <message id="m0142" time="2014-11-15 17:03:29 UTC" participant="153553">
+      <body>Yeah penn</body>
+    </message>
+    <message id="m0143" time="2014-11-15 17:03:36 UTC" participant="153553">
+      <body>Takes forever</body>
+    </message>
+    <message id="m0144" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>I'll definitely keep you posted!!</body>
+    </message>
+    <message id="m0145" time="2014-11-15 17:04:00 UTC" participant="153548">
+      <body>yeah! I was thinking about it last night. having cocktails in a high rise</body>
+    </message>
+    <message id="m0146" time="2014-11-15 17:04:00 UTC" participant="153548">
+      <body>so sexy in the city</body>
+    </message>
+    <message id="m0147" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>I know!!!</body>
+    </message>
+    <message id="m0148" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>OMG</body>
+    </message>
+    <message id="m0149" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>I am so Cary these days</body>
+    </message>
+    <message id="m0150" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>You are kinda Samantha </body>
+    </message>
+    <message id="m0151" time="2014-11-15 17:04:00 UTC" participant="153553">
+      <body>Right?</body>
+    </message>
+    <message id="m0152" time="2014-11-15 17:05:31 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0153" time="2014-11-15 17:05:57 UTC" participant="153548">
+      <body>which one is that?!</body>
+    </message>
+    <message id="m0154" time="2014-11-15 17:06:01 UTC" participant="153548">
+      <body>to the red head</body>
+    </message>
+    <message id="m0156" time="2014-11-15 17:06:08 UTC" participant="153548">
+      <body>i seriously hope not the red head</body>
+    </message>
+    <message id="m0157" time="2014-11-15 17:06:08 UTC" participant="153548">
+      <body>hahahahahahaha yeah that’s more like it</body>
+    </message>
+    <message id="m0158" time="2014-11-15 17:06:08 UTC" participant="153553">
+      <body>No way</body>
+    </message>
+    <message id="m0160" time="2014-11-15 17:06:08 UTC" participant="153553">
+      <body>So you</body>
+    </message>
+    <message id="m0161" time="2014-11-15 17:06:08 UTC" participant="153553">
+      <body>Not Miranda ever</body>
+    </message>
+    <message id="m0162" time="2014-11-15 17:06:08 UTC" participant="153548">
+      <body>haha she’s so ug</body>
+    </message>
+    <message id="m0163" time="2014-11-15 17:06:08 UTC" participant="153553">
+      <body>And definitely not ever Charlotte </body>
+    </message>
+    <message id="m0164" time="2014-11-15 17:06:08 UTC" participant="153553">
+      <body>She is so square</body>
+    </message>
+    <message id="m0165" time="2014-11-15 17:07:51 UTC" participant="153548">
+      <body>noway. someone needs to get Charlotte high</body>
+    </message>
+    <message id="m0166" time="2014-11-15 17:08:01 UTC" participant="153553">
+      <body>Oh Jesus</body>
+    </message>
+    <message id="m0167" time="2014-11-15 17:08:04 UTC" participant="153553">
+      <body>Exactly</body>
+    </message>
+    <message id="m0168" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>Now I wanna watch sex and the city</body>
+    </message>
+    <message id="m0169" time="2014-11-15 17:08:16 UTC" participant="153548">
+      <body>My netflix is real spotty today</body>
+    </message>
+    <message id="m0170" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>Oh no</body>
+    </message>
+    <message id="m0171" time="2014-11-15 17:08:16 UTC" participant="153548">
+      <body>really messing up my gilmore game</body>
+    </message>
+    <message id="m0172" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>Oh my god I have been watching so many</body>
+    </message>
+    <message id="m0173" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>I'm on season 2</body>
+    </message>
+    <message id="m0174" time="2014-11-15 17:08:16 UTC" participant="153548">
+      <body>I don’t know where I am i keep skipping eppies</body>
+    </message>
+    <message id="m0175" time="2014-11-15 17:08:16 UTC" participant="153548">
+      <body>Rori just got into school</body>
+    </message>
+    <message id="m0176" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>That's season 1</body>
+    </message>
+    <message id="m0177" time="2014-11-15 17:08:16 UTC" participant="153553">
+      <body>There are like 22 eps in season 1</body>
+    </message>
+    <message id="m0178" time="2014-11-15 17:10:15 UTC" participant="153553">
+      <body>Dean is such a douche</body>
+    </message>
+    <message id="m0179" time="2014-11-15 17:10:22 UTC" participant="153553">
+      <body>The worst</body>
+    </message>
+    <message id="m0180" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>I HATE DEAN</body>
+    </message>
+    <message id="m0181" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>he is abusive</body>
+    </message>
+    <message id="m0182" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>and the other guy is so hot</body>
+    </message>
+    <message id="m0183" time="2014-11-15 17:10:24 UTC" participant="153553">
+      <body>I don't really understand why she doesn't give Tristan a chance</body>
+    </message>
+    <message id="m0184" time="2014-11-15 17:10:24 UTC" participant="153553">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0185" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>oh yeah tristan!</body>
+    </message>
+    <message id="m0186" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>i forgot about that jerk</body>
+    </message>
+    <message id="m0187" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>didn’t he get her cat poet tickets</body>
+    </message>
+    <message id="m0188" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>cat power</body>
+    </message>
+    <message id="m0189" time="2014-11-15 17:10:24 UTC" participant="153553">
+      <body>Pj Harvey!</body>
+    </message>
+    <message id="m0190" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>oh right!</body>
+    </message>
+    <message id="m0193" time="2014-11-15 17:10:24 UTC" participant="153553">
+      <body>I love pj Harvey</body>
+    </message>
+    <message id="m0194" time="2014-11-15 17:10:24 UTC" participant="153553">
+      <body>Oh yeah</body>
+    </message>
+    <message id="m0195" time="2014-11-15 17:10:24 UTC" participant="153548">
+      <body>tori ust got into college i mean</body>
+    </message>
+    <message id="m0197" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>Oh shit you are far</body>
+    </message>
+    <message id="m0198" time="2014-11-15 17:12:32 UTC" participant="153548">
+      <body>yeah but i couldn’t tell you whats been happening. every time i turn around moms kissing that teacher</body>
+    </message>
+    <message id="m0199" time="2014-11-15 17:12:32 UTC" participant="153548">
+      <body>I”m so confused</body>
+    </message>
+    <message id="m0200" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>Oh god max</body>
+    </message>
+    <message id="m0201" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>What a loser</body>
+    </message>
+    <message id="m0202" time="2014-11-15 17:12:32 UTC" participant="153548">
+      <body>yeah max. they almost got married once!</body>
+    </message>
+    <message id="m0203" time="2014-11-15 17:12:32 UTC" participant="153548">
+      <body>now they are like flirting again. noway</body>
+    </message>
+    <message id="m0204" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>Gross</body>
+    </message>
+    <message id="m0205" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>I just like Luke</body>
+    </message>
+    <message id="m0207" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>Totally</body>
+    </message>
+    <message id="m0208" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>I think he is too good for Lorelei though</body>
+    </message>
+    <message id="m0209" time="2014-11-15 17:12:32 UTC" participant="153548">
+      <body>yeah she’s such a flake</body>
+    </message>
+    <message id="m0210" time="2014-11-15 17:12:32 UTC" participant="153553">
+      <body>Ugh totally</body>
+    </message>
+    <message id="m0211" time="2014-11-15 17:14:47 UTC" participant="153553">
+      <body>And so self centered</body>
+    </message>
+    <message id="m0212" time="2014-11-15 17:15:01 UTC" participant="153548">
+      <body>i know. and she always gets piles of money handed to her</body>
+    </message>
+    <message id="m0213" time="2014-11-15 17:15:07 UTC" participant="153553">
+      <body>I know</body>
+    </message>
+    <message id="m0214" time="2014-11-15 17:15:11 UTC" participant="153553">
+      <body>Very spoiled</body>
+    </message>
+    <message id="m0215" time="2014-11-15 17:15:12 UTC" participant="153548">
+      <body>she’s got a dope ass house</body>
+    </message>
+    <message id="m0216" time="2014-11-15 17:15:50 UTC" participant="153553">
+      <body>I know </body>
+    </message>
+    <message id="m0217" time="2014-11-15 17:15:57 UTC" participant="153553">
+      <body>I love that house</body>
+    </message>
+    <message id="m0218" time="2014-11-15 17:21:34 UTC" participant="153553">
+      <body>What time people coming over tonite?</body>
+    </message>
+    <message id="m0219" time="2014-11-15 17:21:51 UTC" participant="153548">
+      <body>I don’t know yet in fact I didn’t even know people were coming over til like an hour ago</body>
+    </message>
+    <message id="m0220" time="2014-11-15 17:21:54 UTC" participant="153548">
+      <body>I was like “what?!”</body>
+    </message>
+    <message id="m0221" time="2014-11-15 17:21:56 UTC" participant="153548">
+      <body>haha</body>
+    </message>
+    <message id="m0222" time="2014-11-15 17:22:02 UTC" participant="153553">
+      <body>Haha</body>
+    </message>
+    <message id="m0223" time="2014-11-15 17:22:23 UTC" participant="153553">
+      <body>Is it an exclusive fish fry?</body>
+    </message>
+    <message id="m0224" time="2014-11-15 17:22:37 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0225" time="2014-11-15 17:22:50 UTC" participant="153548">
+      <body>I imagine Hunter will cook around 7. There are a few kinds of fish, hushpuppies and I’m going to make a sale.</body>
+    </message>
+    <message id="m0226" time="2014-11-15 17:23:06 UTC" participant="153548">
+      <body>salad. yeah I don’t know who’s coming probably Liz and Michael and Brian</body>
+    </message>
+    <message id="m0227" time="2014-11-15 17:23:07 UTC" participant="153553">
+      <body>A sale?</body>
+    </message>
+    <message id="m0228" time="2014-11-15 17:23:08 UTC" participant="153548">
+      <body>your fav</body>
+    </message>
+    <message id="m0229" time="2014-11-15 17:23:12 UTC" participant="153553">
+      <body>Oh yeah</body>
+    </message>
+    <message id="m0230" time="2014-11-15 17:23:12 UTC" participant="153553">
+      <body>Haha</body>
+    </message>
+    <message id="m0231" time="2014-11-15 17:23:12 UTC" participant="153553">
+      <body>Sounds fun</body>
+    </message>
+    <message id="m0232" time="2014-11-15 17:23:12 UTC" participant="153553">
+      <body>I'm gonna see if I feel social later on</body>
+    </message>
+    <message id="m0233" time="2014-11-15 17:24:01 UTC" participant="153553">
+      <body>And I'll text you!</body>
+    </message>
+    <message id="m0234" time="2014-11-15 17:24:02 UTC" participant="153548">
+      <body>yeah stop by if you wanna! no pressure tho we’ll just be here drinking ciders</body>
+    </message>
+    <message id="m0235" time="2014-11-15 17:24:09 UTC" participant="153548">
+      <body>eating food</body>
+    </message>
+    <message id="m0236" time="2014-11-15 17:24:18 UTC" participant="153553">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0237" time="2014-11-15 17:24:21 UTC" participant="153553">
+      <body>Thanx</body>
+    </message>
+    <message id="m0238" time="2014-11-15 17:24:35 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0239" time="2014-11-15 17:25:09 UTC" participant="153548">
+      <body>that’s about how the night will go.</body>
+    </message>
+    <message id="m0240" time="2014-11-15 17:25:13 UTC" participant="153548">
+      <body>haha</body>
+    </message>
+    <message id="m0241" time="2014-11-15 17:25:20 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0242" time="2014-11-15 17:25:20 UTC" participant="153553">
+      <body>That's gonna be me</body>
+    </message>
+    <message id="m0243" time="2014-11-15 17:25:20 UTC" participant="153548">
+      <body>dancing in the shower</body>
+    </message>
+    <message id="m0244" time="2014-11-15 17:25:20 UTC" participant="153553">
+      <body>Yes</body>
+    </message>
+    <message id="m0245" time="2014-11-15 17:25:20 UTC" participant="153548">
+      <body>yeah. got to</body>
+    </message>
+    <message id="m0246" time="2014-11-15 17:25:20 UTC" participant="153553">
+      <body>Get ready</body>
+    </message>
+    <message id="m0247" time="2014-11-15 17:26:10 UTC" participant="153548">
+      <body>hahahaha</body>
+    </message>
+    <message id="m0248" time="2014-11-15 17:26:12 UTC" participant="153548">
+      <body> oh our shower</body>
+    </message>
+    <message id="m0249" time="2014-11-15 17:26:13 UTC" participant="153548">
+      <body>lol</body>
+    </message>
+    <message id="m0250" time="2014-11-15 17:27:03 UTC" participant="153553">
+      <body>Have a good day! I'll KIT later!</body>
+    </message>
+    <message id="m0251" time="2014-11-15 17:27:13 UTC" participant="153548">
+      <body>you too! take it easy!</body>
+    </message>
+    <message id="m0252" time="2014-11-15 17:27:28 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0253" time="2014-11-15 17:27:28 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0254" time="2014-11-15 17:27:28 UTC" participant="153548">
+      <body>what the</body>
+    </message>
+    <message id="m0255" time="2014-11-15 17:27:28 UTC" participant="153553">
+      <body>Haha</body>
+    </message>
+    <message id="m0256" time="2014-11-15 17:27:28 UTC" participant="153553">
+      <body>Only eyes</body>
+    </message>
+    <message id="m0257" time="2014-11-15 17:27:28 UTC" participant="153553">
+      <body>Love it</body>
+    </message>
+  </messages>
+</conversation>
+

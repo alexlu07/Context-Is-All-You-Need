@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-01 21:22:22 UTC" participant="152417">
+      <body>Im gonna get to do some freelance translating/interpreting for BSD!</body>
+    </message>
+    <message id="m0001" time="2013-05-01 21:23:01 UTC" participant="152426">
+      <body>What's bsd</body>
+    </message>
+    <message id="m0002" time="2013-05-01 21:23:35 UTC" participant="152417">
+      <body>Burlington school district</body>
+    </message>
+    <message id="m0003" time="2013-05-01 21:28:43 UTC" participant="152426">
+      <body>That's awesome!!</body>
+    </message>
+  </messages>
+</conversation>
+

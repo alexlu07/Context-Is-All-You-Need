@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135324" time="2013-05-18 15:55:00 UTC">
+      <body>hey, this is julianne. when would be a good time for me to pick up the fridge? im leaving around 2 so hopefully before then is good</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-18 16:03:02 UTC">
+      <body>Anytime as long as you don't need my help. It is in the Lloyd 41 common room ready to go. Enter Lloyd through the 40s entrance (I think it is called smith). It is first floor and the common room is to the right when you walk in. </body>
+    </message>
+    <message id="m0002" participant="135324" time="2013-05-18 16:04:07 UTC">
+      <body>ok thank you :)</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-18 16:04:39 UTC">
+      <body>If there are things sitting on top of it just put them wherever :)</body>
+    </message>
+    <message id="m0004" participant="135324" time="2013-05-18 16:16:30 UTC">
+      <body>ok</body>
+    </message>
+  </messages>
+</conversation>

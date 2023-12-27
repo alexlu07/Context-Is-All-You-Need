@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111119.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130877" time="2011-11-19 02:24:39 UTC">
+      <body>hey it's emily! what time is your circus thing? did it already start?</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-11-19 02:31:42 UTC">
+      <body>Yea, I went to the one at 7, there's one at ten as well if you really wanted to go, but I just got home</body>
+    </message>
+    <message id="m0002" participant="130877" time="2011-11-19 02:41:22 UTC">
+      <body>oh okay! we're just eating in chinatown, we'll be back in a bit</body>
+    </message>
+    <message id="m0003" participant="130877" time="2011-11-20 02:31:16 UTC">
+      <body>we left a chinese takeout container of brown rice and ginger tofu in your fridge by accident! you should eat it or throw it out or give it to a homeless person!</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-11-20 05:20:07 UTC">
+      <body>Haha, will do, thx!</body>
+    </message>
+  </messages>
+</conversation>

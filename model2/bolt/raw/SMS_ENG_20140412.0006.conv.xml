@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 17:45:36 UTC" participant="153491">
+      <body>Hey, so there are no reservations left for next Saturday. They said we could walk in and they'll quote us a wait time. </body>
+    </message>
+    <message id="m0001" time="2014-04-12 17:46:23 UTC" participant="153491">
+      <body>So maybe we may want to get there before 8:30 if we are still planning to go to El Vez.</body>
+    </message>
+    <message id="m0002" time="2014-04-12 19:34:03 UTC" participant="152116">
+      <body>Okay.</body>
+    </message>
+  </messages>
+</conversation>
+

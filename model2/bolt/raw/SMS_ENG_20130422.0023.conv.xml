@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130422.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-04-22 21:10:39 UTC">
+      <body>Did you get the Comcast bill?</body>
+    </message>
+    <message id="m0001" participant="131585" time="2013-04-22 21:53:08 UTC">
+      <body>Yup, why?</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-04-22 22:53:12 UTC">
+      <body>OK, just wanted to make sure. Did you set up auto payment? Because I disabled it thinking it was mine</body>
+    </message>
+    <message id="m0003" participant="131585" time="2013-04-23 00:52:01 UTC">
+      <body>Not yet</body>
+    </message>
+    <message id="m0004" participant="131528" time="2013-04-23 01:26:45 UTC">
+      <body>OK good. It's due on the 26th</body>
+    </message>
+    <message id="m0005" participant="131585" time="2013-04-23 01:29:12 UTC">
+      <body>I'll do it now. Just sat down</body>
+    </message>
+    <message id="m0006" participant="131585" time="2013-04-24 00:25:45 UTC">
+      <body>Or i could fall asleep</body>
+    </message>
+    <message id="m0007" participant="131585" time="2013-04-24 00:25:49 UTC">
+      <body>Do you know the log in for moms account</body>
+    </message>
+    <message id="m0009" participant="131585" time="2013-04-24 00:33:32 UTC">
+      <body>Ah, forgot the 19</body>
+    </message>
+    <message id="m0010" participant="131528" time="2013-04-24 13:57:05 UTC">
+      <body>The guy I was hired with got three offers this week. It looks like agencies are trying to hire before the sequester kicks in. You should throw out some usajob apps, just to see...</body>
+    </message>
+  </messages>
+</conversation>

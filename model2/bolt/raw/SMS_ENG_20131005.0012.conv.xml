@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131005.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-05 19:39:49 UTC" participant="154405">
+      <body>U still doing bbq today?</body>
+    </message>
+    <message id="m0001" time="2013-10-05 19:40:41 UTC" participant="154352">
+      <body>Yeah. Just finished setup.</body>
+    </message>
+    <message id="m0002" time="2013-10-05 19:48:49 UTC" participant="154405">
+      <body>Wats good time to head over</body>
+    </message>
+    <message id="m0003" time="2013-10-05 19:49:02 UTC" participant="154405">
+      <body>I won't be home for 30 mins</body>
+    </message>
+    <message id="m0004" time="2013-10-05 19:51:21 UTC" participant="154352">
+      <body>Whenever you can. It's cool.</body>
+    </message>
+    <message id="m0005" time="2013-10-05 21:19:30 UTC" participant="154352">
+      <body>You coming over?</body>
+    </message>
+    <message id="m0006" time="2013-10-05 21:21:18 UTC" participant="154405">
+      <body>Yes leaving in 5 mins</body>
+    </message>
+    <message id="m0007" time="2013-10-05 22:06:09 UTC" participant="154405">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

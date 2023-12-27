@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121122.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131053" time="2012-11-22 16:45:09 UTC">
+      <body>Lancaster?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-11-22 16:51:20 UTC">
+      <body>Nope, I'm skipping tgiving this year</body>
+    </message>
+    <message id="m0002" participant="131053" time="2012-11-22 16:53:28 UTC">
+      <body>Damn!</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-11-22 17:01:52 UTC">
+      <body>Have fun tho! I have a paper due today : /</body>
+    </message>
+    <message id="m0004" participant="131053" time="2012-11-22 17:07:12 UTC">
+      <body>Lame!</body>
+    </message>
+    <message id="m0005" participant="131053" time="2012-11-22 17:52:09 UTC">
+      <body>Can t tewt me bens # plz?</body>
+    </message>
+    <message id="m0007" participant="131053" time="2012-11-22 18:13:39 UTC">
+      <body>Dude lanc is so beat</body>
+    </message>
+    <message id="m0008" participant="130664" time="2012-11-22 19:20:53 UTC">
+      <body>Yeah, it's the worst, I hate it</body>
+    </message>
+  </messages>
+</conversation>

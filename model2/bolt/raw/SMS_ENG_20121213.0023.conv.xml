@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-13 00:14:50 UTC" participant="153549">
+      <body>Hey, did I leave my ipad at your house? If i did it would probably be in the kitchen on the windowsill.</body>
+    </message>
+    <message id="m0001" time="2012-12-13 00:16:35 UTC" participant="152374">
+      <body>I don't see anything :-(</body>
+    </message>
+    <message id="m0002" time="2012-12-13 00:17:45 UTC" participant="153549">
+      <body>Thanks :(</body>
+    </message>
+    <message id="m0003" time="2012-12-13 00:35:49 UTC" participant="153549">
+      <body>Hi again. Can you check on the stools at the kitchen table? Simone says she remembers seeing it on one of those. Thanks! :)</body>
+    </message>
+    <message id="m0004" time="2012-12-13 00:38:42 UTC" participant="152374">
+      <body>Ha! It was on the only one I didn't look at (because I was standing next to it). It's here :-)</body>
+    </message>
+    <message id="m0005" time="2012-12-13 00:39:31 UTC" participant="153549">
+      <body>Yay thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

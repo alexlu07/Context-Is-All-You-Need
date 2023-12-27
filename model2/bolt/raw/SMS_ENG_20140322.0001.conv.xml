@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140322.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-22 20:05:21 UTC" participant="152417">
+      <body>If you have a card associated with the education fund can i have you send in the deposit online?</body>
+    </message>
+    <message id="m0001" time="2014-03-22 22:17:36 UTC" participant="152428">
+      <body>No card</body>
+    </message>
+    <message id="m0002" time="2014-03-22 22:25:38 UTC" participant="152417">
+      <body>Ok, form is on its way via post</body>
+    </message>
+  </messages>
+</conversation>
+

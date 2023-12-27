@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140214.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-14 23:19:57 UTC" participant="153562">
+      <body>Hey man do you have a sledgehammer over there that I  could borrow for an hour?</body>
+    </message>
+    <message id="m0001" time="2014-02-14 23:24:35 UTC" participant="153547">
+      <body>I'm sure mine has been stolen from michaels yard by now. It was in the van but I haven't seen it in a while . It's not at my house</body>
+    </message>
+    <message id="m0002" time="2014-02-14 23:28:19 UTC" participant="153562">
+      <body>Haha. Well shit. </body>
+    </message>
+    <message id="m0003" time="2014-02-14 23:34:09 UTC" participant="153547">
+      <body>There's a small chance that it is in the yard or in the van</body>
+    </message>
+    <message id="m0004" time="2014-02-14 23:36:45 UTC" participant="153562">
+      <body>Yeah I checked the yard and michael said maybe you had it or it was in the van. Im asking milan if he has one...</body>
+    </message>
+  </messages>
+</conversation>
+

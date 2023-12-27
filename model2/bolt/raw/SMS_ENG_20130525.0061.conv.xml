@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135289" time="2013-05-25 16:13:37 UTC">
+      <body>Hanging out tonight? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-25 16:16:21 UTC">
+      <body>Apparently this is the only night I can see my cousins. Once I know the timing of that I will let you know. </body>
+    </message>
+    <message id="m0002" participant="135289" time="2013-05-25 16:27:14 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135289" time="2013-05-25 19:27:02 UTC">
+      <body>K well Leah's coming over for dinner at 5:30 - if you can't make it then you should still come over later if you have time! </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-25 19:27:52 UTC">
+      <body>We are doing 7 dinner. It might be like after that...is that okay?</body>
+    </message>
+    <message id="m0005" participant="135289" time="2013-05-25 19:44:11 UTC">
+      <body>Yeah come whenever you can!</body>
+    </message>
+  </messages>
+</conversation>

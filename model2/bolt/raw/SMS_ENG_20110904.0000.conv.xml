@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110904.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135130" time="2011-09-04 03:00:22 UTC">
+      <body>You coming tomorrow? Driving separate or need a ride? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-04 03:03:23 UTC">
+      <body>Just getting off highway flat tire get back to you in sec</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-04 03:35:02 UTC">
+      <body>2nd flat tire in a week. Bad karma or something?? Anyway I can't get it fixed until Tuesday probably but I'm probably going to hang around here. Just need a simple weekend I think. Sorry dude. I'm going to sleep this funk off. Have a good night.</body>
+    </message>
+    <message id="m0003" participant="135130" time="2011-09-04 03:50:22 UTC">
+      <body>You sure? You could ride with us :( </body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-04 03:50:43 UTC">
+      <body>I'm sure. Thanks though</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-09-04 21:35:47 UTC">
+      <body>What's at the state fair?</body>
+    </message>
+  </messages>
+</conversation>

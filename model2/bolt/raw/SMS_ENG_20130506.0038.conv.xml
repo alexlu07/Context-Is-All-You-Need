@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135291" time="2013-05-06 13:58:24 UTC">
+      <body>Hey. I can switch writing center shifts if you want: I can take may 15th if you can take may 14th? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-06 13:59:42 UTC">
+      <body>That's during quizzo :P really I'm trying to get out of working at all that week</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-06 13:59:51 UTC">
+      <body>Thanks though! :)</body>
+    </message>
+    <message id="m0003" participant="135291" time="2013-05-06 14:00:32 UTC">
+      <body>Haha ok :) hope you can find someone who will take your shift!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-06 14:04:49 UTC">
+      <body>Thanks :)</body>
+    </message>
+  </messages>
+</conversation>

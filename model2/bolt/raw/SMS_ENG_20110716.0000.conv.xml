@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110716.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-16 20:17:05 UTC">
+      <body>Tomorrow? When are you rolling in?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-17 03:18:53 UTC">
+      <body>Do you want to go or not?</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-07-17 03:49:00 UTC">
+      <body>Yes! </body>
+    </message>
+    <message id="m0003" participant="135092" time="2011-07-17 03:49:11 UTC">
+      <body>Ill be there wheneva</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-17 21:52:17 UTC">
+      <body>Is it ok if tim comes to dinner? He's giving us rides</body>
+    </message>
+  </messages>
+</conversation>

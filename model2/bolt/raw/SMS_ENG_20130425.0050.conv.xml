@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-04-25 00:01:07 UTC">
+      <body>Hey, is it Gabe's birthday?</body>
+    </message>
+    <message id="m0001" participant="136730" time="2013-04-25 00:21:37 UTC">
+      <body>Yes it is</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-04-25 00:23:04 UTC">
+      <body>Cool.  I'll call the house in a lil bit if he's home.</body>
+    </message>
+    <message id="m0004" participant="136730" time="2013-04-25 01:29:59 UTC">
+      <body>Hey call my cell he's about to go to sleep</body>
+    </message>
+  </messages>
+</conversation>

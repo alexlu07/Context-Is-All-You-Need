@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-29 16:57:36 UTC" participant="152429">
+      <body>Ok but what does that require?</body>
+    </message>
+    <message id="m0001" time="2013-03-29 16:58:16 UTC" participant="152417">
+      <body>Hey jess, if youre free later ill hire you to help me advertise for spielpalast</body>
+    </message>
+    <message id="m0002" time="2013-03-29 16:59:21 UTC" participant="152417">
+      <body>I need to collect email addresses</body>
+    </message>
+    <message id="m0003" time="2013-03-29 16:59:33 UTC" participant="152429">
+      <body>Ok but what would I do?</body>
+    </message>
+    <message id="m0004" time="2013-03-29 16:59:44 UTC" participant="152429">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2013-03-29 17:00:14 UTC" participant="152417">
+      <body>Help me look up emails of businesses downtown</body>
+    </message>
+  </messages>
+</conversation>
+

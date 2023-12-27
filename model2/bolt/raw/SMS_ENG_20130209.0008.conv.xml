@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130209.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-09 00:51:43 UTC">
+      <body>shawna at 930 tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131358" time="2013-02-09 01:15:24 UTC">
+      <body>Hawnas @ gregs this sat</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-09 01:37:30 UTC">
+      <body>k.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150417.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-17 18:49:52 UTC" participant="153412">
+      <body>I'm at the bus stop. I'll text you when we leave. </body>
+    </message>
+    <message id="m0001" time="2015-04-17 19:10:59 UTC" participant="153412">
+      <body>I'm on the bus. </body>
+    </message>
+    <message id="m0002" time="2015-04-17 19:13:28 UTC" participant="153421">
+      <body>Okay </body>
+    </message>
+    <message id="m0003" time="2015-04-17 23:16:25 UTC" participant="153412">
+      <body>I'm here. </body>
+    </message>
+  </messages>
+</conversation>
+

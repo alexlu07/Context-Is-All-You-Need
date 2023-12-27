@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140722.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-22 01:41:30 UTC" participant="153900">
+      <body>You back from the shore</body>
+    </message>
+    <message id="m0001" time="2014-07-22 01:42:51 UTC" participant="153244">
+      <body>No just packed car leaving in a minute</body>
+    </message>
+    <message id="m0002" time="2014-07-22 01:44:31 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-07-22 01:45:31 UTC" participant="153900">
+      <body>Did you buy any fudge</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 20:38:59 UTC" participant="153804">
+      <body>Is Coco home,yet?</body>
+    </message>
+    <message id="m0001" time="2015-03-12 20:40:42 UTC" participant="153807">
+      <body>We just walked in the door!</body>
+    </message>
+    <message id="m0002" time="2015-03-12 20:41:41 UTC" participant="153804">
+      <body>Yeah!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130755" time="2012-10-06 17:53:38 UTC">
+      <body>Ya, someone passed on a gig to me and I thought of you, but it's full now, sorry!</body>
+    </message>
+    <message id="m0002" participant="130930" time="2012-10-06 17:55:12 UTC">
+      <body>Ah, ok. Have a fun day!</body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-04-07 19:54:22 UTC">
+      <body>Yo lady. Want some game o thrones company this eve?</body>
+    </message>
+    <message id="m0004" participant="130930" time="2013-04-07 19:54:40 UTC">
+      <body>I'm not watching tonight. I have tech until 10ish and then I'm going out w/ some cast kids.</body>
+    </message>
+    <message id="m0005" participant="130755" time="2013-04-07 19:59:53 UTC">
+      <body>Ok, next time! have a good tech!</body>
+    </message>
+  </messages>
+</conversation>

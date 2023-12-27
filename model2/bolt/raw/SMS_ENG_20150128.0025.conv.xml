@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 00:16:43 UTC" participant="153804">
+      <body>Would you like to work on Thursday at rite aid in Baldwinsville?</body>
+    </message>
+    <message id="m0001" time="2015-01-28 00:18:00 UTC" participant="153815">
+      <body>Sure. Sounds good</body>
+    </message>
+    <message id="m0002" time="2015-01-28 00:19:43 UTC" participant="153804">
+      <body>I'll pick you up @7:45,thanks</body>
+    </message>
+    <message id="m0003" time="2015-01-28 00:20:26 UTC" participant="153815">
+      <body>See you then</body>
+    </message>
+    <message id="m0005" time="2015-01-28 23:00:57 UTC" participant="153804">
+      <body>you can follow me if you want</body>
+    </message>
+    <message id="m0006" time="2015-01-28 23:23:02 UTC" participant="153815">
+      <body>I can drive tomorrow. I will meet you there. 8-30am</body>
+    </message>
+    <message id="m0007" time="2015-01-28 23:23:49 UTC" participant="153804">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

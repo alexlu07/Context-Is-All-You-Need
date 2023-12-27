@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120321.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131322" time="2012-03-21 21:15:44 UTC">
+      <body>Big game tonight</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-03-21 21:18:56 UTC">
+      <body>Knicks on a 4 win streak. I can't watch it tonight, I'm working late on an informercial</body>
+    </message>
+    <message id="m0002" participant="131322" time="2012-03-21 21:20:00 UTC">
+      <body>Bummer I'm headed that way now</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-03-21 21:22:05 UTC">
+      <body>I'm watching ladies rub a wrinkle-reducing gadget that shoots red lasers at their face instead haha</body>
+    </message>
+    <message id="m0004" participant="131322" time="2012-03-22 00:53:20 UTC">
+      <body>Will smith and spike lee are hanging out and play fighting courtside, this game rules. </body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-03-22 01:01:12 UTC">
+      <body>Haha wow</body>
+    </message>
+  </messages>
+</conversation>

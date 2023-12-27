@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121031.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-31 15:52:52 UTC">
+      <body>U guys make it thru the storm ok?</body>
+    </message>
+    <message id="m0001" participant="135450" time="2012-10-31 20:28:48 UTC">
+      <body>We did. Thanks. How'd you and your family fare?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-31 20:30:07 UTC">
+      <body>Everybody and everything fine. You guys have power over there</body>
+    </message>
+    <message id="m0003" participant="135450" time="2012-10-31 20:31:06 UTC">
+      <body>No power but a small generator to run space heater and phone chargers</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-31 20:33:30 UTC">
+      <body>Ohh great.  Smart. How's your building?</body>
+    </message>
+    <message id="m0005" participant="135450" time="2012-10-31 20:35:07 UTC">
+      <body>My building is totally fine but I was up at my parents' because matt was stuck in new orleans</body>
+    </message>
+    <message id="m0006" participant="135450" time="2012-10-31 20:35:17 UTC">
+      <body>Now I just have to figure out how to get home</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-10-31 20:35:28 UTC">
+      <body>Oh ur in chapped</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-10-31 20:35:39 UTC">
+      <body>Chapps?</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-10-31 20:36:02 UTC">
+      <body>Maybe you should stay there until mat can get back</body>
+    </message>
+    <message id="m0010" participant="135450" time="2012-10-31 20:44:40 UTC">
+      <body>Chapps. Matt got home about an hour ago so I'm heading back there. Where are you?</body>
+    </message>
+    <message id="m0011" participant="130622" time="2012-10-31 21:09:30 UTC">
+      <body>I'm in boston</body>
+    </message>
+    <message id="m0012" participant="135450" time="2012-10-31 21:21:48 UTC">
+      <body>Good. Did you guys get hit hard up there?</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-10-31 21:33:59 UTC">
+      <body>No not all</body>
+    </message>
+  </messages>
+</conversation>

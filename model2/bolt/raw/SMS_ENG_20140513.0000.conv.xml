@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140513.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-13 22:44:59 UTC" participant="152427">
+      <body>See you tonight?</body>
+    </message>
+    <message id="m0001" time="2014-05-13 22:45:55 UTC" participant="152417">
+      <body>No, unfortunately not, my 6th grade band has a concert</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120610.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135114" time="2012-06-10 21:32:42 UTC">
+      <body>Are you home  today? When are you around until? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-10 21:33:24 UTC">
+      <body>I'm in MN For two weeks but I'll be in new ulm for most of it, starting tomorrow </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-06-11 02:08:24 UTC">
+      <body>We're heading to Meg's  house bc of the storm... You're welcome to come!!</body>
+    </message>
+    <message id="m0003" participant="135114" time="2012-06-11 02:11:03 UTC">
+      <body>Yeah! What's the address?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-06-11 02:18:25 UTC">
+      <body>The driveway says Bennington woods btw, and Meg's apt is basically straight ahead on the right, her car is a blue Taurus and the garage says Hadley</body>
+    </message>
+    <message id="m0006" participant="135114" time="2012-06-11 02:19:24 UTC">
+      <body>Awesome!! On my way</body>
+    </message>
+  </messages>
+</conversation>

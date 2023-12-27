@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121115.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135439" time="2012-11-15 23:33:23 UTC">
+      <body>How was the lecture?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-16 00:30:07 UTC">
+      <body>Still happening interesting. It's about being a designer.  This guy is an amazing business man</body>
+    </message>
+    <message id="m0002" participant="135439" time="2012-11-16 00:44:07 UTC">
+      <body>Is everybody there?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-16 01:25:06 UTC">
+      <body>No not all but very interesting</body>
+    </message>
+    <message id="m0004" participant="135439" time="2012-11-16 01:26:01 UTC">
+      <body>Take notes : )</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140105.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-05 15:21:43 UTC" participant="152560">
+      <body>I'm leaving in a minute. Do you want to say goodbye?</body>
+    </message>
+    <message id="m0001" time="2014-01-06 00:59:09 UTC" participant="152417">
+      <body>￼Ivan came to draw Balagan today! Hope your drive is going well</body>
+    </message>
+    <message id="m0002" time="2014-01-06 14:09:56 UTC" participant="152560">
+      <body>Is it ok if I call to switch over the electric and Internet?</body>
+    </message>
+    <message id="m0003" time="2014-01-06 14:10:31 UTC" participant="152417">
+      <body>Yea, please do</body>
+    </message>
+    <message id="m0004" time="2014-01-06 14:16:45 UTC" participant="152417">
+      <body>Im at work, call you round 1</body>
+    </message>
+    <message id="m0005" time="2014-01-06 14:17:30 UTC" participant="152560">
+      <body>I just have a question about what Internet speed we should get...</body>
+    </message>
+    <message id="m0006" time="2014-01-06 14:18:55 UTC" participant="152560">
+      <body>Looks like 10 Mb is 55/mo, and 25 Mb is normally 72/mo, but with a year commitment it is 49/mo....</body>
+    </message>
+    <message id="m0007" time="2014-01-06 14:22:25 UTC" participant="152417">
+      <body>Is it 10 mb per second?</body>
+    </message>
+    <message id="m0008" time="2014-01-06 14:22:32 UTC" participant="152417">
+      <body>Per minute?</body>
+    </message>
+    <message id="m0009" time="2014-01-06 14:24:31 UTC" participant="152560">
+      <body>I talked to Jo and it sounda like it's the amount of data per month...(she says her plan is 6 Mb/mo)</body>
+    </message>
+    <message id="m0010" time="2014-01-06 14:27:03 UTC" participant="152417">
+      <body>6 mb is about two songs worth of data, it should be a speed</body>
+    </message>
+    <message id="m0011" time="2014-01-06 14:28:43 UTC" participant="152560">
+      <body>Should I just call and ask the average speed, or should we ask what speed Natalia had?</body>
+    </message>
+    <message id="m0012" time="2014-01-06 14:32:40 UTC" participant="152417">
+      <body>Call and ask, 10 mb is probably good</body>
+    </message>
+    <message id="m0013" time="2014-01-06 14:34:07 UTC" participant="152560">
+      <body>Cool, talk to you soon.</body>
+    </message>
+  </messages>
+</conversation>
+

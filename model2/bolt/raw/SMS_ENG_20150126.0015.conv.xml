@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 13:13:06 UTC" participant="153458">
+      <body>Don't need a ride there but could use a ride back. Let's go eat </body>
+    </message>
+    <message id="m0001" time="2015-01-26 17:17:24 UTC" participant="153458">
+      <body>Are you not coming in?  </body>
+    </message>
+    <message id="m0002" time="2015-01-26 17:18:13 UTC" participant="153418">
+      <body>I'll be in around 2. 
+I told Krista around 9:30 today.</body>
+    </message>
+    <message id="m0003" time="2015-01-26 17:19:01 UTC" participant="153458">
+      <body>Ah ok.  See ya soon </body>
+    </message>
+  </messages>
+</conversation>
+

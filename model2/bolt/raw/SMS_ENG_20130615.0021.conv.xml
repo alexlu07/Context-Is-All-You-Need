@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-15 18:31:52 UTC">
+      <body>Graham said to invite whoever at this point. Let me know if it works with brother in law. If not I can try someone too</body>
+    </message>
+    <message id="m0001" participant="134283" time="2013-06-15 18:38:41 UTC">
+      <body>Ok. I'll get back to you</body>
+    </message>
+    <message id="m0002" participant="134283" time="2013-06-15 18:38:52 UTC">
+      <body>Shortly</body>
+    </message>
+    <message id="m0003" participant="134283" time="2013-06-15 23:51:39 UTC">
+      <body>He can't make it. To short of notice to get out of work</body>
+    </message>
+  </messages>
+</conversation>

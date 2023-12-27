@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134323" time="2013-06-03 23:05:03 UTC">
+      <body>Fwd:Is Casey home. I want to send a picture to his phone for you both to see </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-03 23:05:33 UTC">
+      <body>We are both in Seattle </body>
+    </message>
+    <message id="m0002" participant="134323" time="2013-06-03 23:07:04 UTC">
+      <body>I'll send you a pic then.. Hang on </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-06-03 23:13:23 UTC">
+      <body>Awesome! Congrats Gwen! </body>
+    </message>
+  </messages>
+</conversation>

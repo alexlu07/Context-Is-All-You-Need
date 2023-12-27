@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 22:59:25 UTC" participant="154093">
+      <body>You going tonight</body>
+    </message>
+    <message id="m0001" time="2014-06-02 23:10:03 UTC" participant="152374">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-06-02 23:14:06 UTC" participant="154093">
+      <body>I'm picking up ###############, do you want me to pick you up as well</body>
+    </message>
+    <message id="m0003" time="2014-06-02 23:14:32 UTC" participant="152374">
+      <body>Sure, that would be great. Thanks! </body>
+    </message>
+    <message id="m0004" time="2014-06-02 23:14:53 UTC" participant="154093">
+      <body>K, np</body>
+    </message>
+  </messages>
+</conversation>
+

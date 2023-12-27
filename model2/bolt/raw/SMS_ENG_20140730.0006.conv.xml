@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 15:50:18 UTC" participant="153418">
+      <body>Hi Jim. I'll be moving out tomorrow and wanted to know if there's any new information on the furniture I wanted to leave. I'd prefer not to, but I'll take them with me tomorrow if you still have no use for them.</body>
+    </message>
+    <message id="m0001" time="2014-07-31 12:23:15 UTC" participant="153448">
+      <body>We have no use for the furniture. Thank you.</body>
+    </message>
+  </messages>
+</conversation>
+

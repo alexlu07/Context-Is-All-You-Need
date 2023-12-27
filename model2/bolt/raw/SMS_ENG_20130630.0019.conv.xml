@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130630.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-06-30 20:07:12 UTC">
+      <body> (scrub cream for stove) and dish powder</body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-06-30 20:07:28 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-07-01 03:38:50 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-07-01 03:39:35 UTC">
+      <body>Where are u now</body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-07-01 03:40:57 UTC">
+      <body>Why do u need the car</body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-07-01 04:10:01 UTC">
+      <body>Do you need the car tomorrow morning 10-12 ish</body>
+    </message>
+    <message id="m0006" participant="137257" time="2013-07-01 04:11:44 UTC">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>

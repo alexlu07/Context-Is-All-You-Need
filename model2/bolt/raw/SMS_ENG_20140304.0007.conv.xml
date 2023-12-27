@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140304.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-04 00:40:32 UTC" participant="153561">
+      <body>Can I catch a ride with you tmrw? I can be at your place at 7am or as early as need be. </body>
+    </message>
+    <message id="m0001" time="2014-03-04 01:00:20 UTC" participant="153561">
+      <body>I talked to michael. I'll be at your house at 715. Thanks. </body>
+    </message>
+    <message id="m0002" time="2014-03-04 16:51:02 UTC" participant="153547">
+      <body>Do you want coke or ginger ale</body>
+    </message>
+    <message id="m0003" time="2014-03-04 16:51:12 UTC" participant="153561">
+      <body>Ginger is fine thanks</body>
+    </message>
+  </messages>
+</conversation>
+

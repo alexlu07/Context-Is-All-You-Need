@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140211.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-11 22:59:30 UTC" participant="153547">
+      <body>I'm meeting with Michael tomorrow about work.  I may call you in the morning about that job you got if you need help. I'm ordering a respirator and filters tonight. It'll be around $30 for a set of filters and a 3m mask that accepts all kinds of readily available filters. Do you want me to order you one?</body>
+    </message>
+    <message id="m0001" time="2014-02-11 23:19:28 UTC" participant="153561">
+      <body>Yeah I'd love one! I can give you cash tmrw or next time I see you. Michael and I are going to check out that spot tmrw on 51st to do an estimate. He wanted to scoop it out before I made any final offers. </body>
+    </message>
+    <message id="m0002" time="2014-02-11 23:40:48 UTC" participant="153561">
+      <body>Medium sounds good. </body>
+    </message>
+    <message id="m0003" time="2014-02-11 23:40:51 UTC" participant="153547">
+      <body>You want small, medium or large? I'm getting medium but I have no clue </body>
+    </message>
+  </messages>
+</conversation>
+

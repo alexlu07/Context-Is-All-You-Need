@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-27 21:02:32 UTC">
+      <body>would you be available to pick up candace tomorrow morning? </body>
+    </message>
+    <message id="m0001" participant="136143" time="2013-04-27 21:03:20 UTC">
+      <body>Yes, 9:10 too early?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-27 21:05:55 UTC">
+      <body>i don't think so! i'll let her know. </body>
+    </message>
+  </messages>
+</conversation>

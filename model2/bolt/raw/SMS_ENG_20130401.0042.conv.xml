@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-04-01 22:48:54 UTC">
+      <body>Are you still with the group? Did they leave you behind? Why aren't you in the last two photos with stefania and the driver/bus? Hello. Are you OK?</body>
+    </message>
+    <message id="m0001" participant="137376" time="2013-04-02 05:18:48 UTC">
+      <body>Yes yes yes I'm fine</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-04-02 05:20:12 UTC">
+      <body>See you soon</body>
+    </message>
+  </messages>
+</conversation>

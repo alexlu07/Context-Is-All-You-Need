@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-17 17:53:19 UTC">
+      <body>Are you at school? Smokey treat?</body>
+    </message>
+    <message id="m0001" participant="135480" time="2013-06-17 18:08:00 UTC">
+      <body>No. I'm at work. Tmrw meet?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-17 18:08:54 UTC">
+      <body>Yes and I come to your class!!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-17 18:09:09 UTC">
+      <body>What time should we meet ?</body>
+    </message>
+    <message id="m0004" participant="135480" time="2013-06-17 20:13:52 UTC">
+      <body>4:30? 5? What works for you?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-17 20:24:38 UTC">
+      <body>Perfect see u in 24. </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-06-18 17:56:53 UTC">
+      <body>Do you want to meet in my  studio?  I can pin up everything for you to see easily there?  I also have the images of my sketches in my proposal, just some of images didn't reproduce so well... </body>
+    </message>
+    <message id="m0007" participant="135480" time="2013-06-18 17:59:07 UTC">
+      <body>We can start there, yes. I'm technically having office hours at 5 so I should be there for that. I'll let you know if I get there early. </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-06-18 18:04:00 UTC">
+      <body>Ok great </body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-06-19 16:21:54 UTC">
+      <body>I don't like game of thrones either.  </body>
+    </message>
+    <message id="m0010" participant="135480" time="2013-06-19 18:23:58 UTC">
+      <body>I don't either.</body>
+    </message>
+  </messages>
+</conversation>

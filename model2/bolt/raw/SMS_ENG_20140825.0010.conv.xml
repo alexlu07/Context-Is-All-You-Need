@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140825.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-25 14:29:13 UTC" participant="153548">
+      <body>Hey! I can drop yr camera off tomorrow if you are around. It was awesome</body>
+    </message>
+    <message id="m0001" time="2014-08-25 14:55:36 UTC" participant="153641">
+      <body>You can just hang on to it till the shoot, I don't need it before then.</body>
+    </message>
+    <message id="m0002" time="2014-08-25 16:14:13 UTC" participant="153548">
+      <body>Sounds good! I'll have it all charged up for us.</body>
+    </message>
+  </messages>
+</conversation>
+

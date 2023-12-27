@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120127.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-01-27 18:47:34 UTC">
+      <body>Having issues finding parking. I think we'll be fine though.</body>
+    </message>
+    <message id="m0001" participant="135140" time="2012-01-27 18:57:34 UTC">
+      <body>Yall find pkmg?</body>
+    </message>
+    <message id="m0002" participant="135140" time="2012-01-27 21:55:50 UTC">
+      <body>Do you know the Internet password at school??</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-01-27 22:08:35 UTC">
+      <body>CAB14?? Something like that. Lauren has it memorized</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-01-28 01:07:28 UTC">
+      <body>Are you feeling ok? Are you here?</body>
+    </message>
+  </messages>
+</conversation>

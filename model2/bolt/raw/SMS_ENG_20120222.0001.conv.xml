@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120222.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-02-22 22:32:33 UTC">
+      <body>Dad can yiu please send me money because the tickets cost more than you have me but the money hant been taken out of my account and I'm afraid to overdraft </body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-02-22 22:33:49 UTC">
+      <body>Thanks, idk why the money hasn't been taken out :/ </body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-02-22 22:34:40 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-02-22 22:38:56 UTC">
+      <body>Done. </body>
+    </message>
+  </messages>
+</conversation>

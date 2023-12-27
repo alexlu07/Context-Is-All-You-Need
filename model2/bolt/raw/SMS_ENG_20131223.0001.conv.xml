@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131223.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-23 01:27:04 UTC" participant="149387">
+      <body>Hey. Been running around and on the phone with my folks. You still cooking? Wanna meet for a drink?</body>
+    </message>
+    <message id="m0001" time="2013-12-23 01:28:22 UTC" participant="149306">
+      <body>Yeah if you want some of this it will be ready in 15 20 min</body>
+    </message>
+    <message id="m0002" time="2013-12-23 01:29:36 UTC" participant="149387">
+      <body>Sure, that would be nice. I don't have a key so I'll text when I get there.</body>
+    </message>
+    <message id="m0003" time="2013-12-23 01:30:06 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2013-12-23 01:52:00 UTC" participant="149387">
+      <body>Outside</body>
+    </message>
+    <message id="m0005" time="2013-12-23 01:52:22 UTC" participant="149306">
+      <body>It's open</body>
+    </message>
+    <message id="m0006" time="2013-12-23 15:21:36 UTC" participant="149387">
+      <body>Hey ##### I'm thinking I might have to shadow you for AJ's dinner walk tonight. Tomorrow's too busy for me and I need to meet him before Wed. Hopefully the rain will subside...</body>
+    </message>
+    <message id="m0007" time="2013-12-23 15:21:36 UTC" participant="149387">
+      <body>Thanks for the bisque, by the way!</body>
+    </message>
+    <message id="m0008" time="2013-12-23 15:23:31 UTC" participant="149306">
+      <body>
+Ok I'll probably leave here around 6 if you want to walk over together </body>
+    </message>
+    <message id="m0009" time="2013-12-23 15:25:04 UTC" participant="149387">
+      <body>Sounds good. I'm on 10th, so just text me when you're leaving Daniel's and I'll meet you.</body>
+    </message>
+    <message id="m0010" time="2013-12-23 15:25:18 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+    <message id="m0011" time="2013-12-23 22:49:36 UTC" participant="149387">
+      <body>Ok. Feels like it might rain all night...</body>
+    </message>
+    <message id="m0012" time="2013-12-23 22:49:43 UTC" participant="149306">
+      <body>I'm gona wait until 630 or 7 to serif the rain stops</body>
+    </message>
+    <message id="m0013" time="2013-12-23 23:20:33 UTC" participant="149306">
+      <body>Meet me at 10 n bainbridge at 630</body>
+    </message>
+  </messages>
+</conversation>
+

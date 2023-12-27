@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0023" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130665" time="2013-05-21 10:06:59 UTC">
+      <body>Hi is the conversation restarting?</body>
+    </message>
+    <message id="m0001" participant="130623" time="2013-05-21 13:23:00 UTC">
+      <body>I guess so. That's ok by me. &lt;;)&gt;</body>
+    </message>
+    <message id="m0002" participant="130665" time="2013-05-21 13:23:56 UTC">
+      <body>Me too!</body>
+    </message>
+    <message id="m0003" participant="130665" time="2013-05-21 17:00:38 UTC">
+      <body>You mentioned you had a special needs child could you tell me more about your son or daughter?</body>
+    </message>
+  </messages>
+</conversation>

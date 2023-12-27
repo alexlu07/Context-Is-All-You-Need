@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131123.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-23 23:51:37 UTC" participant="153491">
+      <body>How was last night?</body>
+    </message>
+    <message id="m0001" time="2013-11-23 23:57:27 UTC" participant="152116">
+      <body>It was cool</body>
+    </message>
+    <message id="m0002" time="2013-11-24 00:33:53 UTC" participant="153491">
+      <body>What'd you all end up doing?</body>
+    </message>
+    <message id="m0003" time="2013-11-24 01:33:32 UTC" participant="152116">
+      <body>We met Uyen and just chilled with her in chinatown</body>
+    </message>
+    <message id="m0004" time="2013-11-24 01:56:48 UTC" participant="153491">
+      <body>Oh wow, random! Hahah.</body>
+    </message>
+  </messages>
+</conversation>
+

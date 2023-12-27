@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121107.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135437" time="2012-11-07 16:27:38 UTC">
+      <body>What time, sof</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-07 16:36:52 UTC">
+      <body>I'll be going up there soon</body>
+    </message>
+    <message id="m0002" participant="135437" time="2012-11-07 16:37:21 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-07 16:38:21 UTC">
+      <body>Maybe like twenty. Just having a coffee and dealing with my laptop</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-07 16:38:34 UTC">
+      <body>It won't connect to Internet again</body>
+    </message>
+    <message id="m0005" participant="135437" time="2012-11-07 16:39:31 UTC">
+      <body>U r here at massart. Disable and enable wifi</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-07 16:39:48 UTC">
+      <body>I did I restarted my laptop. Maybe that will work</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-11-07 18:13:36 UTC">
+      <body>I'm in the library </body>
+    </message>
+    <message id="m0008" participant="135437" time="2012-11-07 18:14:03 UTC">
+      <body>U at the library?</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-11-07 18:14:08 UTC">
+      <body>I'm in the desk cubicles</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-11-07 18:14:18 UTC">
+      <body>If u walk in go to the left</body>
+    </message>
+    <message id="m0011" participant="135437" time="2012-11-07 18:14:49 UTC">
+      <body>Come to main entrance</body>
+    </message>
+    <message id="m0012" participant="135437" time="2012-11-07 19:17:18 UTC">
+      <body>U left?</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-11-07 19:24:15 UTC">
+      <body>Getting coffee</body>
+    </message>
+    <message id="m0014" participant="135437" time="2012-11-07 19:26:25 UTC">
+      <body>I am here at grad studio</body>
+    </message>
+    <message id="m0015" participant="130622" time="2012-11-08 15:04:56 UTC">
+      <body>Hey hey class time </body>
+    </message>
+    <message id="m0016" participant="135437" time="2012-11-08 15:06:24 UTC">
+      <body>Sorry, overslept....the snow distracted me</body>
+    </message>
+  </messages>
+</conversation>

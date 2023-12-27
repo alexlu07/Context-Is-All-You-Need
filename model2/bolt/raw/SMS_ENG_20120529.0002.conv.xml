@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120529.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2012-05-29 22:38:56 UTC">
+      <body>Let me know if you want to go in on Alice's birthday dessert. I'm making her pudding and am bringing it to school.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-05-30 03:18:24 UTC">
+      <body>Sounds great! Let me know how much I owe :)</body>
+    </message>
+    <message id="m0002" participant="135140" time="2012-05-30 03:26:56 UTC">
+      <body>Awesome will do</body>
+    </message>
+  </messages>
+</conversation>

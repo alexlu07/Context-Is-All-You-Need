@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131945" time="2013-05-28 18:23:05 UTC">
+      <body>Text me if you get done and want to do something before you leave!</body>
+    </message>
+    <message id="m0001" participant="131951" time="2013-05-28 18:50:23 UTC">
+      <body>Cool, I'll let you know. I need to leave Tucson around 5pm but we could get coffee or something before that. </body>
+    </message>
+    <message id="m0002" participant="131945" time="2013-05-28 19:00:04 UTC">
+      <body>Sounds good.</body>
+    </message>
+    <message id="m0003" participant="131951" time="2013-05-29 00:10:22 UTC">
+      <body>I guess I can't hang out. I drove down with my dad and we'll drive back up to Phoenix soon. </body>
+    </message>
+    <message id="m0004" participant="131945" time="2013-05-29 00:15:30 UTC">
+      <body>Oh, I didn't know you were with your dad.  That's okay!  It was nice to see you at all before you left.</body>
+    </message>
+    <message id="m0005" participant="131951" time="2013-05-29 09:23:27 UTC">
+      <body>Yeah I'm glad we got to hang out. My phone will work in Germany, so you can always text. I could FaceTime you in your iPad from the streets of Germany. =)</body>
+    </message>
+  </messages>
+</conversation>

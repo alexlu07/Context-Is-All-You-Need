@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131102.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-02 21:31:45 UTC" participant="154406">
+      <body>are you toga going and if so when and how you getting there? Just had the worst falling out with the group I an with.</body>
+    </message>
+    <message id="m0001" time="2013-11-02 22:13:25 UTC" participant="154352">
+      <body>I'll be there. Coming from the other direction though.</body>
+    </message>
+    <message id="m0002" time="2013-11-02 22:27:09 UTC" participant="154406">
+      <body> no worries</body>
+    </message>
+  </messages>
+</conversation>
+

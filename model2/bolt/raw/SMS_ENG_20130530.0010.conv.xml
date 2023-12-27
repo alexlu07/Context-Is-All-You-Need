@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130529" time="2013-05-30 16:21:18 UTC">
+      <body>Hey sarcher, what's going on?</body>
+    </message>
+    <message id="m0001" participant="130976" time="2013-05-30 16:45:50 UTC">
+      <body>Just wrkng.u?</body>
+    </message>
+    <message id="m0002" participant="130529" time="2013-05-31 09:38:37 UTC">
+      <body>hey, sorry i didn't get back, was running around. Now back at work.</body>
+    </message>
+    <message id="m0003" participant="130976" time="2013-05-31 09:41:08 UTC">
+      <body>All good.bout to head to wrk now</body>
+    </message>
+    <message id="m0004" participant="130529" time="2013-05-31 10:24:11 UTC">
+      <body>Nice. What do you do for said work?</body>
+    </message>
+    <message id="m0005" participant="130976" time="2013-05-31 10:29:50 UTC">
+      <body>Cook.and ride a bike.u?</body>
+    </message>
+    <message id="m0006" participant="130529" time="2013-05-31 10:48:13 UTC">
+      <body>You ride a bike for work? As in city mail carrier or something? I work in research.</body>
+    </message>
+    <message id="m0007" participant="130976" time="2013-05-31 10:50:00 UTC">
+      <body>Deliver thai food.researchng what?</body>
+    </message>
+    <message id="m0008" participant="130529" time="2013-05-31 10:57:37 UTC">
+      <body>Language. Same field as this study, hence our office was contacted. What area are you in?</body>
+    </message>
+    <message id="m0009" participant="130976" time="2013-05-31 12:35:08 UTC">
+      <body>All over the city</body>
+    </message>
+    <message id="m0010" participant="130529" time="2013-05-31 12:49:42 UTC">
+      <body>Which city?</body>
+    </message>
+    <message id="m0011" participant="130976" time="2013-05-31 13:24:28 UTC">
+      <body>Phila</body>
+    </message>
+    <message id="m0012" participant="130529" time="2013-05-31 13:27:28 UTC">
+      <body>Gotcha. Yeah I'm in Philly too. Been here long?</body>
+    </message>
+  </messages>
+</conversation>

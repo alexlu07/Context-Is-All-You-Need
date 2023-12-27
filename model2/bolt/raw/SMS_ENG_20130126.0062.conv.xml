@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-26 02:59:02 UTC" participant="154393">
+      <body>What is your Skype name?</body>
+    </message>
+    <message id="m0001" time="2013-01-27 01:34:10 UTC" participant="154352">
+      <body>Did you get your ticket for tomorrow?</body>
+    </message>
+    <message id="m0002" time="2013-01-27 01:35:43 UTC" participant="154393">
+      <body>Nope</body>
+    </message>
+    <message id="m0003" time="2013-01-27 01:36:23 UTC" participant="154352">
+      <body>Are you going?</body>
+    </message>
+    <message id="m0004" time="2013-01-27 01:38:21 UTC" participant="154393">
+      <body>Idk</body>
+    </message>
+  </messages>
+</conversation>
+

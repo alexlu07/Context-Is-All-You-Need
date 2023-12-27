@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135266" time="2013-05-12 21:43:36 UTC">
+      <body>Mom is home. She thanks you for your Mother's Day text. What times are good for us to talk?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-12 21:44:14 UTC">
+      <body>We are gonna be on a 6:40 train back. I will text when I'm home</body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-05-12 21:44:44 UTC">
+      <body>Good</body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-05-12 23:35:52 UTC">
+      <body>Are you back yet?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-12 23:36:42 UTC">
+      <body>Yeah just got back. I am exhausted and lying down for 10 minutes so I am functional oh the phone. Is that ok?</body>
+    </message>
+    <message id="m0005" participant="135266" time="2013-05-12 23:37:45 UTC">
+      <body>Yes. Call then. It will be a short call. </body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-12 23:37:58 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" participant="135266" time="2013-05-13 11:42:09 UTC">
+      <body>Should I be suggesting that we take a smaller room at Alpenhof?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-05-13 14:41:32 UTC">
+      <body>I don't think I am staying there at all. It is up to you. </body>
+    </message>
+    <message id="m0009" participant="135266" time="2013-05-13 14:46:00 UTC">
+      <body>Ok, we are planning on your not staying with us. </body>
+    </message>
+  </messages>
+</conversation>

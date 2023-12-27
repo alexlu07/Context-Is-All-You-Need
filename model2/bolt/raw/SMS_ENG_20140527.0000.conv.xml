@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140527.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-27 00:43:27 UTC" participant="149306">
+      <body>Hi Stephen, I just wanted to let you know that everything went fine with AJ and he had his dinner. I hope you had a good Holliday weekend. 
+#####</body>
+    </message>
+    <message id="m0001" time="2014-05-27 03:15:26 UTC" participant="149443">
+      <body>Thanks so much######for looking after ###</body>
+    </message>
+    <message id="m0002" time="2014-05-27 03:16:17 UTC" participant="149306">
+      <body>You are welcome!</body>
+    </message>
+  </messages>
+</conversation>
+

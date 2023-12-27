@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 17:46:10 UTC" participant="153557">
+      <body>Your car is on the side street. Putting key on the ledge by the front door now. I took a bunch of stuff to second mile.</body>
+    </message>
+    <message id="m0001" time="2013-11-22 17:55:12 UTC" participant="153557">
+      <body>I'll have to pick up my bike later tonight around 6 because I have to take the bus to old city right now.</body>
+    </message>
+    <message id="m0002" time="2013-11-22 23:04:32 UTC" participant="153557">
+      <body>You home?</body>
+    </message>
+    <message id="m0003" time="2013-11-22 23:05:54 UTC" participant="153547">
+      <body>Not yet</body>
+    </message>
+    <message id="m0004" time="2013-11-22 23:06:09 UTC" participant="153557">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" time="2013-11-22 23:15:12 UTC" participant="153557">
+      <body>
+Almost to your house</body>
+    </message>
+    <message id="m0006" time="2013-11-23 14:19:44 UTC" participant="153557">
+      <body>How was johns?</body>
+    </message>
+    <message id="m0007" time="2013-11-23 14:19:44 UTC" participant="153557">
+      <body>Omg.</body>
+    </message>
+    <message id="m0008" time="2013-11-23 14:19:44 UTC" participant="153557">
+      <body>I don't even remember what that's like.</body>
+    </message>
+    <message id="m0009" time="2013-11-23 14:21:05 UTC" participant="153547">
+      <body>I stayed up til 2</body>
+    </message>
+  </messages>
+</conversation>
+

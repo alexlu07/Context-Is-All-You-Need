@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120527.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-05-27 00:40:32 UTC" participant="153278">
+      <body>Hey Julia, you still BBQing tomorrow? </body>
+    </message>
+    <message id="m0001" time="2012-05-27 03:44:45 UTC" participant="152734">
+      <body>Totally! I think people are coming around 6ish? </body>
+    </message>
+    <message id="m0002" time="2012-05-27 22:49:36 UTC" participant="153278">
+      <body>Hey where do you live again?</body>
+    </message>
+    <message id="m0003" time="2012-05-27 22:51:44 UTC" participant="153278">
+      <body>Awesome thank you. </body>
+    </message>
+  </messages>
+</conversation>
+

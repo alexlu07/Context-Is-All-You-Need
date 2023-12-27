@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140828.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-28 03:08:45 UTC" participant="153472">
+      <body>Quick question- I think the A/C in the ##### is busted. Any idea where I should take this to get fixed? Is it a "dealer" issue?</body>
+    </message>
+    <message id="m0001" time="2014-08-28 03:09:17 UTC" participant="152374">
+      <body>Worth having a local shop check first in case it's just a fuse or something stupid! </body>
+    </message>
+    <message id="m0002" time="2014-08-28 03:10:44 UTC" participant="153472">
+      <body>Do u think the ######## guys could take a look?</body>
+    </message>
+    <message id="m0003" time="2014-08-28 03:11:48 UTC" participant="152374">
+      <body>They could rule out simple stuff probably, and at least advise you as to whether it's a dealer issue! </body>
+    </message>
+    <message id="m0004" time="2014-08-28 03:13:20 UTC" participant="153472">
+      <body>OK. Thanks. I need to take it in for an inspection anyway so I'll ask them about the AC too.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111228.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135112" time="2011-12-28 18:17:57 UTC">
+      <body>You going to be around new years?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-28 18:21:15 UTC">
+      <body>I have no real plans yet, but there's a possibility I'll be in the cities. What are your plans?!</body>
+    </message>
+    <message id="m0002" participant="135112" time="2011-12-28 18:22:19 UTC">
+      <body>Ill send some ideas via email :) I'd like to see you</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-12-28 18:23:01 UTC">
+      <body>Likewise, sweets! I'm excited to hear these ideas :)</body>
+    </message>
+  </messages>
+</conversation>

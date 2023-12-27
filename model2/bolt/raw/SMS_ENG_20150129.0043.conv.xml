@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150129.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-29 22:35:57 UTC" participant="153848">
+      <body>When are you done and do you wanna get dinner? </body>
+    </message>
+    <message id="m0001" time="2015-01-29 22:43:12 UTC" participant="153812">
+      <body>6:30 and I'm just gonna grab something on the way back because biggest loser at 7</body>
+    </message>
+    <message id="m0002" time="2015-01-29 22:44:13 UTC" participant="153848">
+      <body>Word</body>
+    </message>
+  </messages>
+</conversation>
+

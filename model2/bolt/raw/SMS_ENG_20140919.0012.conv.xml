@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140919.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-19 15:13:39 UTC" participant="153458">
+      <body>Coming</body>
+    </message>
+    <message id="m0001" time="2014-09-19 16:41:34 UTC" participant="153458">
+      <body>Hey, when are you coming in to work?</body>
+    </message>
+    <message id="m0002" time="2014-09-19 16:53:02 UTC" participant="153418">
+      <body>I'll be in around 2.</body>
+    </message>
+    <message id="m0003" time="2014-09-19 17:04:09 UTC" participant="153458">
+      <body>Sorry I forgot to call</body>
+    </message>
+  </messages>
+</conversation>
+

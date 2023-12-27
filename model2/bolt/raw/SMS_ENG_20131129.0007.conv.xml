@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 18:40:01 UTC" participant="153548">
+      <body>What you doin?</body>
+    </message>
+    <message id="m0001" time="2013-11-29 18:40:47 UTC" participant="153632">
+      <body>Just got out of the shower.  Wyd</body>
+    </message>
+    <message id="m0002" time="2013-11-29 18:41:17 UTC" participant="153548">
+      <body>Just sitting here with dad. He wants to go get dinner at Mexican but I might say lunch.</body>
+    </message>
+    <message id="m0003" time="2013-11-29 18:41:51 UTC" participant="153632">
+      <body>Yeah do lunch cause i wanna go see the lights tonight</body>
+    </message>
+    <message id="m0004" time="2013-11-29 18:42:08 UTC" participant="153632">
+      <body>We can meet you over there if you want</body>
+    </message>
+    <message id="m0005" time="2013-11-29 18:44:00 UTC" participant="153548">
+      <body>Okay. Sounds good! Yeah meet us over there!</body>
+    </message>
+    <message id="m0006" time="2013-11-29 18:45:21 UTC" participant="153548">
+      <body>Then you and I I can go from there!</body>
+    </message>
+    <message id="m0007" time="2013-11-29 18:46:24 UTC" participant="153632">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0008" time="2013-11-29 18:46:24 UTC" participant="153632">
+      <body>K</body>
+    </message>
+    <message id="m0009" time="2013-11-29 18:47:25 UTC" participant="153548">
+      <body>Sounds like a plan Stan. We are gonna leave in like 20.</body>
+    </message>
+    <message id="m0010" time="2013-11-29 22:56:00 UTC" participant="153632">
+      <body>We r too</body>
+    </message>
+    <message id="m0011" time="2013-11-29 22:56:59 UTC" participant="153548">
+      <body>Heading to the rack!</body>
+    </message>
+    <message id="m0012" time="2013-11-29 23:00:08 UTC" participant="153548">
+      <body>See you there</body>
+    </message>
+    <message id="m0013" time="2013-11-29 23:10:07 UTC" participant="153548">
+      <body>You here?</body>
+    </message>
+    <message id="m0014" time="2013-11-29 23:19:05 UTC" participant="153632">
+      <body> Checkout line</body>
+    </message>
+  </messages>
+</conversation>
+

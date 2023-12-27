@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 21:48:47 UTC" participant="152121">
+      <body>Dropping off soon</body>
+    </message>
+    <message id="m0001" time="2015-02-09 21:49:25 UTC" participant="152115">
+      <body>Oh wow. I didn't know you'd be coming today. But ok. Thanks!</body>
+    </message>
+    <message id="m0002" time="2015-02-09 21:49:35 UTC" participant="152121">
+      <body>Yup</body>
+    </message>
+    <message id="m0003" time="2015-02-10 00:07:59 UTC" participant="152121">
+      <body>Is it working</body>
+    </message>
+    <message id="m0004" time="2015-02-10 00:14:57 UTC" participant="152115">
+      <body>Yeah. Thanks again.</body>
+    </message>
+    <message id="m0005" time="2015-02-10 00:15:17 UTC" participant="152121">
+      <body>Good</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140126.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-26 19:13:01 UTC" participant="152374">
+      <body>What's the verdict?</body>
+    </message>
+    <message id="m0001" time="2014-01-26 19:13:13 UTC" participant="153786">
+      <body>Verdict: tasty but expensive. This sete back nearly $15.</body>
+    </message>
+    <message id="m0002" time="2014-01-26 19:13:40 UTC" participant="152374">
+      <body>That's not bad. Average is closer to $20</body>
+    </message>
+    <message id="m0003" time="2014-01-26 19:14:31 UTC" participant="153786">
+      <body>It's what I think you'd consider a proper lobster roll. Buttery with maybe the slightest hint of mayo.</body>
+    </message>
+    <message id="m0004" time="2014-01-26 19:14:50 UTC" participant="152374">
+      <body>Ew! No mayo. :)</body>
+    </message>
+    <message id="m0005" time="2014-01-26 19:15:32 UTC" participant="153786">
+      <body>I'm just going by their menu. They're definitely going for the butter angle.</body>
+    </message>
+    <message id="m0006" time="2014-01-26 19:15:44 UTC" participant="152374">
+      <body>Cool :)</body>
+    </message>
+    <message id="m0007" time="2014-01-26 19:16:41 UTC" participant="153786">
+      <body>They seem to have their radio tuned to XM's Jimmy Buffet channel. Not sure if that's a plus or a minus. :)</body>
+    </message>
+    <message id="m0008" time="2014-01-26 19:18:18 UTC" participant="153786">
+      <body>These were the style that Spot had that one time. I think you'd approve.</body>
+    </message>
+  </messages>
+</conversation>
+

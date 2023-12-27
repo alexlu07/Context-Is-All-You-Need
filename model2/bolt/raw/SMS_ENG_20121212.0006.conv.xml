@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131286" time="2012-12-12 19:53:30 UTC">
+      <body>Does ##### like chocolate? I want to send him something with the things I made for you and ####. Or I could just send you or ##### $ to get him a six pac</body>
+    </message>
+    <message id="m0001" participant="131286" time="2012-12-12 19:53:46 UTC">
+      <body>k of Ithaca beer. Clearly he can't handle a twelve pack :)-</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-12-12 20:07:09 UTC">
+      <body>No chocolate, but he likes starburst jelly beans, spearmint leaves, skittles </body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-12-12 21:04:18 UTC">
+      <body>Dark :)</body>
+    </message>
+    <message id="m0004" participant="131281" time="2012-12-12 21:04:58 UTC">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>

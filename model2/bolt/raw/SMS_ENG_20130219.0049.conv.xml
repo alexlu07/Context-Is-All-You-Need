@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-19 21:57:56 UTC" participant="152374">
+      <body>Hey, quick question - do you know where we're at with ######## tickets?</body>
+    </message>
+    <message id="m0001" time="2013-02-19 22:02:03 UTC" participant="153973">
+      <body>120 earlier this afternoon</body>
+    </message>
+    <message id="m0002" time="2013-02-19 22:02:39 UTC" participant="152374">
+      <body>Sigh. Okay, thanks</body>
+    </message>
+    <message id="m0003" time="2013-02-19 22:03:29 UTC" participant="153973">
+      <body>:/ it should pick up. No blog posts yet</body>
+    </message>
+    <message id="m0004" time="2013-02-19 22:03:40 UTC" participant="153973">
+      <body>(Being optimistic)</body>
+    </message>
+    <message id="m0005" time="2013-02-19 22:04:06 UTC" participant="152374">
+      <body>Okay, I will try not to be bummed out</body>
+    </message>
+    <message id="m0006" time="2013-02-19 22:04:36 UTC" participant="152374">
+      <body>Do you know for sure blog posts are going up for this one?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-06-03 15:06:04 UTC">
+      <body>My bus gets into greyhound at 3. Can u pick me up?</body>
+    </message>
+    <message id="m0001" participant="131874" time="2013-06-03 15:30:08 UTC">
+      <body>Ya</body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-06-03 15:31:16 UTC">
+      <body>Ok thank you</body>
+    </message>
+    <message id="m0003" participant="131837" time="2013-06-03 18:37:30 UTC">
+      <body>It's more like 3:20 because of traffic. Can you still come?</body>
+    </message>
+    <message id="m0004" participant="131874" time="2013-06-03 18:46:24 UTC">
+      <body>Evan is doing it now. </body>
+    </message>
+    <message id="m0005" participant="131837" time="2013-06-03 19:09:09 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="131837" time="2013-06-03 19:17:10 UTC">
+      <body>Dad wants to know the name of the place downtown that you think is real good.</body>
+    </message>
+    <message id="m0007" participant="131837" time="2013-06-03 19:25:31 UTC">
+      <body>The Greek place. We can't find it</body>
+    </message>
+    <message id="m0008" participant="131874" time="2013-06-03 19:29:04 UTC">
+      <body>Despina's. they close at 4 tho. </body>
+    </message>
+  </messages>
+</conversation>

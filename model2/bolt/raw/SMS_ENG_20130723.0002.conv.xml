@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135082" time="2013-07-23 10:18:58 UTC">
+      <body>Good morning americanprincess :) how are you?</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-07-23 17:07:19 UTC">
+      <body>Sorry it took a while to reply. I just got off work. I'm fine. How are you?</body>
+    </message>
+    <message id="m0002" participant="135082" time="2013-07-23 19:16:36 UTC">
+      <body>I am well :) on my way into work!</body>
+    </message>
+  </messages>
+</conversation>

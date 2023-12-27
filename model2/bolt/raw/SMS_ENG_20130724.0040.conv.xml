@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130724.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-24 23:08:00 UTC" participant="153472">
+      <body>Hey! Just got out of the pool. How are u feeling?</body>
+    </message>
+    <message id="m0001" time="2013-07-24 23:09:09 UTC" participant="152374">
+      <body>Much better, thank you :-)  Wounds not quite there yet, but healing finally. Something is still off with my wrist, but at least it's better than before</body>
+    </message>
+    <message id="m0003" time="2013-07-24 23:17:23 UTC" participant="152374">
+      <body>Might be in for tomorrow night! Text me when you'd like to go :-)</body>
+    </message>
+    <message id="m0004" time="2013-07-24 23:24:16 UTC" participant="153472">
+      <body>Sounds like a plan! Prob sometime around 8-8:30 would work, if this is not too late.</body>
+    </message>
+    <message id="m0005" time="2013-07-24 23:24:40 UTC" participant="152374">
+      <body>Should work for me!</body>
+    </message>
+  </messages>
+</conversation>
+

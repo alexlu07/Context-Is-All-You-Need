@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150215.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-15 22:05:24 UTC" participant="153869">
+      <body>Jenna!!</body>
+    </message>
+    <message id="m0001" time="2015-02-16 01:21:15 UTC" participant="153848">
+      <body>Wassup yo </body>
+    </message>
+    <message id="m0002" time="2015-02-16 01:25:20 UTC" participant="153869">
+      <body>Oh ya know. Just learning guitar and shit. </body>
+    </message>
+    <message id="m0003" time="2015-02-16 01:26:22 UTC" participant="153848">
+      <body>Swag dude. </body>
+    </message>
+    <message id="m0004" time="2015-02-16 01:27:06 UTC" participant="153869">
+      <body>I'm soooo bored Jenna </body>
+    </message>
+    <message id="m0005" time="2015-02-16 01:42:53 UTC" participant="153848">
+      <body>Well... Can't help ya bruh </body>
+    </message>
+    <message id="m0006" time="2015-02-16 01:43:09 UTC" participant="153869">
+      <body>How's school goin?</body>
+    </message>
+    <message id="m0007" time="2015-02-16 01:52:44 UTC" participant="153848">
+      <body>Great. Really busy all of the time though.</body>
+    </message>
+    <message id="m0008" time="2015-02-16 01:55:12 UTC" participant="153869">
+      <body>Yeah I bet. Not regretting it yet? Haha</body>
+    </message>
+  </messages>
+</conversation>
+

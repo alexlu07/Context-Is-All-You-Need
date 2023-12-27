@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120804.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131019" time="2012-08-04 00:28:16 UTC">
+      <body>Dont forget to get me at 6(:</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-08-04 03:38:54 UTC">
+      <body>Do you need us to come get you?</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-08-04 20:25:28 UTC">
+      <body>I think I'm just gonna walk home (:</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-08-04 20:36:42 UTC">
+      <body>Can I have the car at 430? Going rock climbing</body>
+    </message>
+    <message id="m0004" participant="131064" time="2012-08-04 20:37:20 UTC">
+      <body>Absolutely</body>
+    </message>
+    <message id="m0005" participant="131019" time="2012-08-04 20:39:06 UTC">
+      <body>Thank yiu(:</body>
+    </message>
+    <message id="m0006" participant="131019" time="2012-08-05 17:55:15 UTC">
+      <body>At la jolla, be back before work at 2</body>
+    </message>
+    <message id="m0007" participant="131064" time="2012-08-05 18:40:00 UTC">
+      <body>:) </body>
+    </message>
+    <message id="m0008" participant="131064" time="2012-08-05 18:40:00 UTC">
+      <body>Have fun. </body>
+    </message>
+  </messages>
+</conversation>

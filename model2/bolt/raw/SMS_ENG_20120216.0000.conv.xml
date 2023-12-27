@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120216.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2012-02-16 03:20:32 UTC">
+      <body>Comin out tonight?</body>
+    </message>
+    <message id="m0001" participant="131823" time="2012-02-16 03:22:40 UTC">
+      <body>Yeah?? Awesome!!! First members night :P</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-02-16 03:22:51 UTC">
+      <body>Actually yes</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-02-16 03:24:20 UTC">
+      <body>Wait no non-members?</body>
+    </message>
+    <message id="m0004" participant="131823" time="2012-02-16 03:24:48 UTC">
+      <body>Well +1 but nonetheless </body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-02-17 00:09:51 UTC">
+      <body>Sure thing!</body>
+    </message>
+    <message id="m0006" participant="131823" time="2012-02-17 00:10:40 UTC">
+      <body>Hey Quinton! Do you happen to have an extra belt I could borrow for the evening?</body>
+    </message>
+    <message id="m0007" participant="131823" time="2012-02-17 00:10:40 UTC">
+      <body>Ahhh thanks! I have lab so I'll be there somewhere between 10 and 1030 so would you mind bringing it to the room?</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-02-17 00:11:01 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0009" participant="131823" time="2012-02-17 00:12:48 UTC">
+      <body>You da bestttt</body>
+    </message>
+  </messages>
+</conversation>

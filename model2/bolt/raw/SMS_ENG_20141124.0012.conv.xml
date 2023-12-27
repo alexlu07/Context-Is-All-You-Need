@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141124.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-24 18:13:19 UTC" participant="153548">
+      <body>Hey girl! I'm in my office at Uarts come whenever!</body>
+    </message>
+    <message id="m0001" time="2014-11-24 18:24:34 UTC" participant="153633">
+      <body>Awesome! We are eating lunch at Bare Burger and will be there around 2. I will text you when we are walking over.</body>
+    </message>
+    <message id="m0002" time="2014-11-24 18:26:20 UTC" participant="153548">
+      <body>Great! I can meet you guys out front of terra and we can explore!</body>
+    </message>
+    <message id="m0003" time="2014-11-24 18:59:12 UTC" participant="153633">
+      <body>On our way. Be there in 5-10 minutes.</body>
+    </message>
+    <message id="m0004" time="2014-11-24 19:00:24 UTC" participant="153548">
+      <body>Great, I'll head downstairs in a few.</body>
+    </message>
+    <message id="m0005" time="2014-11-24 20:13:52 UTC" participant="153633">
+      <body>Thanks sooooo much for the tour!!! I really appreciate it!</body>
+    </message>
+    <message id="m0006" time="2014-11-24 20:17:54 UTC" participant="153548">
+      <body>I feel like I missed a bunch of stuff but if Maggie has more questions give her my email! I'm happy to give her the low down.</body>
+    </message>
+    <message id="m0007" time="2014-11-24 20:18:07 UTC" participant="153548">
+      <body>You guys have fun at Penn!</body>
+    </message>
+  </messages>
+</conversation>
+

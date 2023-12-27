@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120217.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-02-17 16:23:20 UTC">
+      <body>You want to meet at south Philly tap room at 5 for happy hour?</body>
+    </message>
+    <message id="m0001" participant="131322" time="2012-02-17 16:23:28 UTC">
+      <body>I can do 6</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-02-17 16:25:59 UTC">
+      <body>Ok I'll see you there</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-02-17 22:49:13 UTC">
+      <body>We are on the second level in the back</body>
+    </message>
+    <message id="m0004" participant="131322" time="2012-02-17 22:49:36 UTC">
+      <body>Ok cool almost home</body>
+    </message>
+    <message id="m0005" participant="131322" time="2012-02-17 23:10:56 UTC">
+      <body>On my way</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-02-17 23:12:41 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0007" participant="131322" time="2012-02-18 01:16:48 UTC">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>

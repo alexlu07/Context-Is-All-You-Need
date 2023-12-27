@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-02-04 12:43:46 UTC">
+      <body>Sounds good! </body>
+    </message>
+    <message id="m0001" participant="131456" time="2013-02-04 13:02:28 UTC">
+      <body>Turns out its just you and me... Aiming for leaving at 8:10</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-04 13:03:08 UTC">
+      <body>Okay, works for me!</body>
+    </message>
+    <message id="m0003" participant="131456" time="2013-02-04 13:11:14 UTC">
+      <body>Ok, on the way</body>
+    </message>
+  </messages>
+</conversation>

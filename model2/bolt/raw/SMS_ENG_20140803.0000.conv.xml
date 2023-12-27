@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140803.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-03 02:03:44 UTC" participant="152560">
+      <body>Come to the Blue Cat!</body>
+    </message>
+    <message id="m0001" time="2014-08-04 01:05:10 UTC" participant="152417">
+      <body>Youve gotta come to lobby in middlebury ￼</body>
+    </message>
+    <message id="m0002" time="2014-08-04 01:05:16 UTC" participant="152417">
+      <body>Super good dinner</body>
+    </message>
+    <message id="m0003" time="2014-08-04 01:10:11 UTC" participant="152560">
+      <body>Nice. Let's go some time. Happy birthday to Graham if you're still hanging out. </body>
+    </message>
+  </messages>
+</conversation>
+

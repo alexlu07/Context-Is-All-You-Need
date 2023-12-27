@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140523.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-23 20:10:54 UTC" participant="152116">
+      <body>Hey. Sam's only free tomorrow early afternoon. She works the rest of the weekend. We might be doing something with her. </body>
+    </message>
+    <message id="m0001" time="2014-05-23 21:19:12 UTC" participant="152116">
+      <body>Scratch that. Sam just got back to me saying she made a mistake. The game's earlier in the day. So she can go out around 8. Though she doesn't wanna stay out too late because she has work early on Sunday.</body>
+    </message>
+    <message id="m0002" time="2014-05-23 21:33:59 UTC" participant="153491">
+      <body>I have work tomorrow. Thanks for the info. Have fun.</body>
+    </message>
+    <message id="m0003" time="2014-05-23 21:44:46 UTC" participant="152116">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

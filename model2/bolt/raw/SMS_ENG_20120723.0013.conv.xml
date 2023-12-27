@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120723.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-07-23 00:34:08 UTC">
+      <body>We are confirmed Friday night with the cambors!!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-23 00:35:02 UTC">
+      <body>YAY</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-07-23 17:54:08 UTC">
+      <body>Coming home</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-07-23 18:01:41 UTC">
+      <body>Ok were here</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-07-23 18:07:23 UTC">
+      <body>Can u meet me at trader joes to help shop and carry home the groceries?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-23 18:07:31 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-07-23 18:19:32 UTC">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>

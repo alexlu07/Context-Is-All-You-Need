@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130302.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131430" time="2013-03-02 03:41:52 UTC">
+      <body>￼Feeling a little better?
+We hope so--have to go now...I need to chase the
+Cats!</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-03-02 22:17:32 UTC">
+      <body>Yes! Very much on the mend I would appear! Lets try to FaceTime tomorrow maybe!</body>
+    </message>
+    <message id="m0002" participant="131430" time="2013-03-03 02:27:07 UTC">
+      <body>Looks Great! 
+Save a slice for us </body>
+    </message>
+  </messages>
+</conversation>

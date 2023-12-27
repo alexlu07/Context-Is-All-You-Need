@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-25 21:46:13 UTC" participant="131450">
+      <body>Hi dear! Hope you had a great thanksgiving! Quick question: what's your pa mailing address? Also, so excited to see you next weekend!!!</body>
+    </message>
+    <message id="m0002" time="2012-11-25 21:51:36 UTC" participant="131464">
+      <body>I am excited to see you too </body>
+    </message>
+    <message id="m0003" time="2012-11-25 22:02:34 UTC" participant="131450">
+      <body>Excellent, thank you!</body>
+    </message>
+  </messages>
+</conversation>
+

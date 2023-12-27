@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-10 19:27:42 UTC">
+      <body>Heya heya. You free tomorrow eve?</body>
+    </message>
+    <message id="m0001" participant="130891" time="2013-06-10 19:29:04 UTC">
+      <body>Yes! Whas happenin, yo?</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-10 19:30:13 UTC">
+      <body>Havin a jug-baby session with the musicians at tranny</body>
+    </message>
+    <message id="m0003" participant="130891" time="2013-06-10 19:30:40 UTC">
+      <body>Sweet. I'm down. </body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-10 19:32:04 UTC">
+      <body>Kewl! Meetin around 7</body>
+    </message>
+    <message id="m0005" participant="130891" time="2013-06-10 19:33:20 UTC">
+      <body>I'll be there a lil after that:)</body>
+    </message>
+  </messages>
+</conversation>

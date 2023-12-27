@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130409.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-04-09 01:50:46 UTC">
+      <body>hi - i know you called. wanna talk in the am tomorrow? </body>
+    </message>
+    <message id="m0001" participant="135397" time="2013-04-09 01:50:56 UTC">
+      <body>k. love you!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-09 01:51:06 UTC">
+      <body>Nine thirty </body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-04-09 01:51:37 UTC">
+      <body>i'll be in the car going to teach, so i'll call you.</body>
+    </message>
+    <message id="m0004" participant="135397" time="2013-04-09 13:30:40 UTC">
+      <body>calling you in a few</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-09 13:33:15 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-04-09 13:36:08 UTC">
+      <body>I have an idea quick</body>
+    </message>
+    <message id="m0007" participant="135397" time="2013-04-09 13:39:31 UTC">
+      <body>Call</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-04-09 13:43:49 UTC">
+      <body>I took a Zoloft and an Adavan</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-04-09 13:44:14 UTC">
+      <body>I would prefer not to talk about that outloyd in an empty store</body>
+    </message>
+    <message id="m0010" participant="135397" time="2013-04-09 13:58:24 UTC">
+      <body>I understand. But yikes!  Talk later. </body>
+    </message>
+    <message id="m0011" participant="130622" time="2013-04-09 14:01:17 UTC">
+      <body>Yeah I had to take a nap</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-19 20:00:58 UTC" participant="153418">
+      <body>Hai~ We're suppose to meet at 4, right? &gt;_&gt;</body>
+    </message>
+    <message id="m0001" time="2013-01-19 20:03:21 UTC" participant="153443">
+      <body>Yeah! I just got here earlier, and I thought I should tell that to you. </body>
+    </message>
+    <message id="m0002" time="2013-01-19 20:03:38 UTC" participant="153418">
+      <body>Okay. lol</body>
+    </message>
+    <message id="m0003" time="2013-01-19 20:09:50 UTC" participant="153443">
+      <body>Btw, do you know the wifi password here?</body>
+    </message>
+    <message id="m0004" time="2013-01-19 20:11:22 UTC" participant="153418">
+      <body>Nope, you'll have to ask a worker there. Should be free though.</body>
+    </message>
+    <message id="m0005" time="2013-01-19 20:46:41 UTC" participant="153418">
+      <body>Might run a few minutes late. Stuck in traffic.</body>
+    </message>
+    <message id="m0006" time="2013-01-19 20:47:43 UTC" participant="153443">
+      <body>Okay! And I got Wifi password, thanks:)</body>
+    </message>
+  </messages>
+</conversation>
+

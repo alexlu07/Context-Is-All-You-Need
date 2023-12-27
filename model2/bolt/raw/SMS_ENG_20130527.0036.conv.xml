@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-27 20:56:32 UTC">
+      <body>Hi! Questions: are you free Saturday afternoon and evening? If so, would you be interested in helping me move into my apartment for $8/hr? My dad says he is "getting old" and told me to ask my friends for help :) also how is your summer going so far? :)</body>
+    </message>
+    <message id="m0001" participant="135268" time="2013-05-27 21:00:38 UTC">
+      <body>Hey! I'm going to be on vacation on Saturday. Sorry :( summer is going well. Work hasn't started so it's been relaxing. How are you?</body>
+    </message>
+  </messages>
+</conversation>

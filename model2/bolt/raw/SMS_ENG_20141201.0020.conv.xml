@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141201.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-01 22:55:23 UTC" participant="153804">
+      <body>Aunt Ruthie's service is Saturday at 10 AM Kathy is coming in tomorrow</body>
+    </message>
+    <message id="m0001" time="2014-12-01 22:55:50 UTC" participant="153804">
+      <body>also Eileen's ex-husband Bob died on Friday</body>
+    </message>
+    <message id="m0002" time="2014-12-01 23:47:12 UTC" participant="153558">
+      <body>That's sad, he was still so young. I doubt I will be able to make it to the service this weekend. I have work scheduled. </body>
+    </message>
+    <message id="m0003" time="2014-12-01 23:48:01 UTC" participant="153804">
+      <body>He was 60</body>
+    </message>
+  </messages>
+</conversation>
+

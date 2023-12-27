@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150122.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-22 02:32:45 UTC" participant="153632">
+      <body>You okay?</body>
+    </message>
+    <message id="m0001" time="2015-01-22 02:46:44 UTC" participant="153548">
+      <body>Yeah just finished class</body>
+    </message>
+    <message id="m0002" time="2015-01-22 02:46:56 UTC" participant="153548">
+      <body>I have my late one tonight</body>
+    </message>
+    <message id="m0003" time="2015-01-22 02:48:12 UTC" participant="153632">
+      <body>Okay. Just checking. Is hunter picking you up?</body>
+    </message>
+    <message id="m0004" time="2015-01-22 02:49:27 UTC" participant="153548">
+      <body>No taking the bus :( it's not so bad. Did something happen?</body>
+    </message>
+    <message id="m0005" time="2015-01-22 02:50:35 UTC" participant="153632">
+      <body>Nope, just wondering. </body>
+    </message>
+    <message id="m0006" time="2015-01-22 02:50:37 UTC" participant="153548">
+      <body>Did I butt dial??</body>
+    </message>
+    <message id="m0007" time="2015-01-22 02:50:51 UTC" participant="153632">
+      <body>Lol didnt butt dial me</body>
+    </message>
+    <message id="m0008" time="2015-01-22 02:51:24 UTC" participant="153548">
+      <body>Haha. I'll text you when I'm home tho. </body>
+    </message>
+    <message id="m0009" time="2015-01-22 02:51:36 UTC" participant="153632">
+      <body>Ok </body>
+    </message>
+    <message id="m0010" time="2015-01-22 02:51:38 UTC" participant="153548">
+      <body>Takes about 45 minutes</body>
+    </message>
+    <message id="m0011" time="2015-01-22 03:53:16 UTC" participant="153548">
+      <body>Home</body>
+    </message>
+    <message id="m0012" time="2015-01-22 03:53:36 UTC" participant="153632">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

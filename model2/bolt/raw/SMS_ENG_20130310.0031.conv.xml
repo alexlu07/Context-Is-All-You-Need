@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2013-03-10 05:16:09 UTC">
+      <body>HAPPY BIRTHDAY!!!! Are you coming to tower?!?!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2013-03-10 06:31:45 UTC">
+      <body>Studying for midterms</body>
+    </message>
+    <message id="m0002" participant="131825" time="2013-03-10 06:31:57 UTC">
+      <body>Awwwww :(</body>
+    </message>
+    <message id="m0003" participant="131821" time="2013-03-10 06:31:58 UTC">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2013-02-22 19:37:23 UTC">
+      <body>Looks like your computers have been delivered...do you guys have the power cords???</body>
+    </message>
+    <message id="m0001" participant="131473" time="2013-02-22 19:49:20 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-22 19:49:33 UTC">
+      <body>Yep, we have a ton of them. Thank you!!!</body>
+    </message>
+  </messages>
+</conversation>

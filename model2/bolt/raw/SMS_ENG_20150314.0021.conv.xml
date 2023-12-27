@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150314.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-14 07:01:05 UTC" participant="153418">
+      <body>You up? </body>
+    </message>
+    <message id="m0001" time="2015-03-14 07:44:37 UTC" participant="152128">
+      <body>Hey John, what's up!</body>
+    </message>
+    <message id="m0002" time="2015-03-14 07:45:02 UTC" participant="152128">
+      <body>*?</body>
+    </message>
+    <message id="m0003" time="2015-03-14 07:46:05 UTC" participant="153418">
+      <body>What time should I drop into Philadelphia on Sunday? </body>
+    </message>
+    <message id="m0004" time="2015-03-14 07:46:25 UTC" participant="153418">
+      <body>Around 12?</body>
+    </message>
+    <message id="m0005" time="2015-03-14 07:46:55 UTC" participant="152128">
+      <body>Sure, whenever you want :)</body>
+    </message>
+    <message id="m0006" time="2015-03-14 07:47:21 UTC" participant="152128">
+      <body>Actually, good timing. How many days are you staying for?</body>
+    </message>
+    <message id="m0007" time="2015-03-14 07:47:51 UTC" participant="153418">
+      <body>We're planning on leaving on Monday.</body>
+    </message>
+    <message id="m0008" time="2015-03-14 07:49:13 UTC" participant="152128">
+      <body>Oh okay. I was going to ask if Akiha wanted to go to the movies with me on Tuesday, but no problemo.</body>
+    </message>
+    <message id="m0009" time="2015-03-14 07:53:57 UTC" participant="153418">
+      <body>Yeah, sorry. She has to be in Towson on Tuesday.</body>
+    </message>
+    <message id="m0010" time="2015-03-14 07:55:43 UTC" participant="152128">
+      <body>Hey, as long as we get to hang out while you're here!</body>
+    </message>
+  </messages>
+</conversation>
+

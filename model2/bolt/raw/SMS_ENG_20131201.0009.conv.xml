@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131201.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-01 00:04:08 UTC" participant="153637">
+      <body>Come to New York tomorrow</body>
+    </message>
+    <message id="m0001" time="2013-12-01 00:15:03 UTC" participant="153548">
+      <body>Birthday boy!!!! I'm in VA:(</body>
+    </message>
+    <message id="m0002" time="2013-12-01 00:19:12 UTC" participant="153637">
+      <body>I know. Wishful thinking! I'm jealous of VA</body>
+    </message>
+    <message id="m0003" time="2013-12-01 16:09:28 UTC" participant="153548">
+      <body>Happy birthday!!! Are you having the greatest day so far?!</body>
+    </message>
+    <message id="m0004" time="2013-12-01 18:14:05 UTC" participant="153637">
+      <body>Broke up with Ryan last night. Best bday ever</body>
+    </message>
+    <message id="m0005" time="2013-12-01 20:05:03 UTC" participant="153548">
+      <body>Oh no. What happened?!</body>
+    </message>
+    <message id="m0006" time="2013-12-01 20:09:22 UTC" participant="153548">
+      <body>I'm so sorry dev. If you need to get away you come here.</body>
+    </message>
+  </messages>
+</conversation>
+

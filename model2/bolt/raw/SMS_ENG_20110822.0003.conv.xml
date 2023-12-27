@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110822.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-22 16:19:48 UTC">
+      <body>Hi pretty :) what are you up to this week?</body>
+    </message>
+    <message id="m0001" participant="135114" time="2011-08-22 16:47:15 UTC">
+      <body>Lots of teacher meetings. What does your week look like?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-22 16:48:16 UTC">
+      <body>Well I work like a drone during the day you know you know..... But nights are totally free since my boy left for tejas... :(</body>
+    </message>
+  </messages>
+</conversation>

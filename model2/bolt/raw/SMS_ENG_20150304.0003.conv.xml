@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150304.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-04 22:21:22 UTC" participant="152212">
+      <body>This reading about rhetoric and ideology is boring</body>
+    </message>
+    <message id="m0001" time="2015-03-04 22:27:12 UTC" participant="152313">
+      <body>Yup</body>
+    </message>
+    <message id="m0002" time="2015-03-04 22:27:26 UTC" participant="152212">
+      <body>Haha</body>
+    </message>
+  </messages>
+</conversation>
+

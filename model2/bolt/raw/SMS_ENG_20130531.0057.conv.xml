@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-05-31 14:38:44 UTC">
+      <body>Hey, when youz guyz gittin into town?</body>
+    </message>
+    <message id="m0001" participant="136732" time="2013-05-31 14:39:55 UTC">
+      <body>Tomorrow afternoon</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-05-31 14:45:45 UTC">
+      <body>Gotcha.  Ok. </body>
+    </message>
+  </messages>
+</conversation>

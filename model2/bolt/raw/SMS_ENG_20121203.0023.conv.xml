@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121203.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-12-03 23:10:17 UTC">
+      <body>Hey Lizzie! Do you have the email addresses of people I can ask about gluten-free stuff?</body>
+    </message>
+    <message id="m0001" participant="135291" time="2012-12-03 23:14:03 UTC">
+      <body>Yes sorry! I will send it to you as soon as I get back to my computer</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-03 23:16:23 UTC">
+      <body>Thank you </body>
+    </message>
+  </messages>
+</conversation>

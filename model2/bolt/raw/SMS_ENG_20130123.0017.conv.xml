@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130123.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136149" time="2013-01-23 15:33:47 UTC">
+      <body>Hey, can you send me Candace s number?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-23 15:35:03 UTC">
+      <body>###-###-####
+</body>
+    </message>
+    <message id="m0002" participant="136149" time="2013-01-23 16:23:34 UTC">
+      <body>So do you have a way of getting to intown? Or do we need to work that out? Cause we can!</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-23 17:39:43 UTC">
+      <body>at least for the cold weather season, i will need a ride or something. sorry about that! </body>
+    </message>
+    <message id="m0004" participant="136149" time="2013-01-23 18:03:20 UTC">
+      <body>No worries I forgot to think about tht part. I'll figure something out :)</body>
+    </message>
+  </messages>
+</conversation>

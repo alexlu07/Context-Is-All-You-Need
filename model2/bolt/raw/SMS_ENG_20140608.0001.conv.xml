@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140608.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-08 18:44:16 UTC" participant="152535">
+      <body>￼Eb tuba mouthpiece</body>
+    </message>
+    <message id="m0001" time="2014-06-08 18:45:39 UTC" participant="152417">
+      <body>Sweet</body>
+    </message>
+    <message id="m0002" time="2014-06-08 20:56:32 UTC" participant="152535">
+      <body>Is that what you have?</body>
+    </message>
+    <message id="m0003" time="2014-06-08 21:04:32 UTC" participant="152417">
+      <body>Seems about the same size but i cant quite tell</body>
+    </message>
+    <message id="m0004" time="2014-06-08 21:04:45 UTC" participant="152417">
+      <body>Youll have to come try it out</body>
+    </message>
+  </messages>
+</conversation>
+

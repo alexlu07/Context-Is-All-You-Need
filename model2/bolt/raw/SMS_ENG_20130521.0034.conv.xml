@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131456" time="2013-05-21 21:54:33 UTC">
+      <body>Need a ride to the office tomorrow? I may not stay all day so I can't promise a ride home, but I can definitely take you there</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-05-21 21:55:26 UTC">
+      <body>Ooh, that would be excellent! No bias/content?</body>
+    </message>
+    <message id="m0002" participant="131456" time="2013-05-21 21:56:37 UTC">
+      <body>Meg is going to go in my place, so I can kind of ease back into things</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-05-21 21:57:39 UTC">
+      <body>Ahh sounds good. In that case I will gladly take a ride :-)</body>
+    </message>
+    <message id="m0004" participant="131456" time="2013-05-21 21:58:16 UTC">
+      <body>Excellent. I'll text when I'm on my way as usual</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-05-21 21:58:55 UTC">
+      <body>Sounds good. Hope the recovery's going well!</body>
+    </message>
+    <message id="m0006" participant="131456" time="2013-05-21 22:00:28 UTC">
+      <body>It is--I'm much better today</body>
+    </message>
+    <message id="m0007" participant="131456" time="2013-05-22 12:08:39 UTC">
+      <body>On my way to you!</body>
+    </message>
+  </messages>
+</conversation>

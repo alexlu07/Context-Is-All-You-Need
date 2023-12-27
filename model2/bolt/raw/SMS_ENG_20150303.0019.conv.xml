@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 01:14:32 UTC" participant="153417">
+      <body>Hi Tina, I don't think I'll be able to come in tomorrow either. I haven't been able to keep anything down. I'm sorry.</body>
+    </message>
+    <message id="m0001" time="2015-03-03 14:29:15 UTC" participant="153430">
+      <body>I just saw this I covered u today. Get better </body>
+    </message>
+    <message id="m0002" time="2015-03-03 18:46:24 UTC" participant="153430">
+      <body>Hi let me know about tomorrow as soon as you can. Hope u r feeling better </body>
+    </message>
+    <message id="m0003" time="2015-03-03 19:15:25 UTC" participant="153417">
+      <body>Hi Tina, I should be in tomorrow.</body>
+    </message>
+  </messages>
+</conversation>
+

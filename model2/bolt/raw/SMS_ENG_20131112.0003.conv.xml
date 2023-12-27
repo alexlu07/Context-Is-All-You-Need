@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131112.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-12 23:27:30 UTC" participant="153491">
+      <body>Hey, are you working today?</body>
+    </message>
+    <message id="m0001" time="2013-11-12 23:28:08 UTC" participant="152116">
+      <body>yeah</body>
+    </message>
+    <message id="m0002" time="2013-11-12 23:38:40 UTC" participant="153491">
+      <body>What time do you get out?</body>
+    </message>
+    <message id="m0003" time="2013-11-12 23:40:04 UTC" participant="152116">
+      <body>11</body>
+    </message>
+  </messages>
+</conversation>
+

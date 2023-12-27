@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140815.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-15 00:00:00 UTC" participant="152535">
+      <body>Where you at? Are you chillin?</body>
+    </message>
+    <message id="m0001" time="2014-08-15 00:02:08 UTC" participant="152535">
+      <body>YES! Be there soonish</body>
+    </message>
+    <message id="m0002" time="2014-08-15 00:02:25 UTC" participant="152417">
+      <body>At my place, wanna stop by for a beer before the show?</body>
+    </message>
+    <message id="m0003" time="2014-08-15 00:34:08 UTC" participant="152535">
+      <body>Outside:)
+</body>
+    </message>
+    <message id="m0004" time="2014-08-15 00:34:08 UTC" participant="152535">
+      <body>Nm</body>
+    </message>
+  </messages>
+</conversation>
+

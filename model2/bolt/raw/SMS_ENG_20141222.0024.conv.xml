@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141222.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-22 17:54:16 UTC" participant="153804">
+      <body>Are y back?</body>
+    </message>
+    <message id="m0001" time="2014-12-22 17:54:28 UTC" participant="153809">
+      <body>No</body>
+    </message>
+  </messages>
+</conversation>
+

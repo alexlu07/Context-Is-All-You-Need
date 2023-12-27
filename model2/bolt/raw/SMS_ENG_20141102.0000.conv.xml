@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141102.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-02 23:23:43 UTC" participant="152417">
+      <body>Will you still be up around 10ish? Can i stop by with some soupa?</body>
+    </message>
+    <message id="m0001" time="2014-11-02 23:25:52 UTC" participant="152424">
+      <body>sure I'll be here!</body>
+    </message>
+    <message id="m0002" time="2014-11-03 03:14:08 UTC" participant="152424">
+      <body>okie</body>
+    </message>
+    <message id="m0003" time="2014-11-03 03:15:15 UTC" participant="152417">
+      <body>On my way up</body>
+    </message>
+    <message id="m0004" time="2014-11-03 04:18:08 UTC" participant="152424">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2014-11-03 20:09:36 UTC" participant="152424">
+      <body>got loads of food tonight.  want to eat at 7?</body>
+    </message>
+    <message id="m0006" time="2014-11-03 20:12:29 UTC" participant="152417">
+      <body>Wish i could, i'm gonna be doin a few deliveries this evening and then hearing Etgar Keret speak at the jewish film fest at 7</body>
+    </message>
+    <message id="m0007" time="2014-11-03 20:16:00 UTC" participant="152424">
+      <body>ah enjoy</body>
+    </message>
+    <message id="m0008" time="2014-11-03 20:26:25 UTC" participant="152417">
+      <body>I dont have school tomorrow if you want me to come in with you for your treatment</body>
+    </message>
+    <message id="m0010" time="2014-11-03 20:35:12 UTC" participant="152424">
+      <body>thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121222.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-22 17:48:47 UTC" participant="154390">
+      <body>I heard last night there was a chance of snow for the Pocono area in a few days. Maybe it wouldn't be a bad idea if I bring my skis. I wouldn</body>
+    </message>
+    <message id="m0001" time="2012-12-22 17:49:00 UTC" participant="154390">
+      <body>'t mind bringing them if there's a chance of actual snow</body>
+    </message>
+    <message id="m0002" time="2012-12-22 17:49:27 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2012-12-22 17:50:59 UTC" participant="154390">
+      <body>Did you hear about storm draco?</body>
+    </message>
+    <message id="m0004" time="2012-12-22 17:51:22 UTC" participant="154352">
+      <body>You should have plenty of room in your car since you are driving separately.</body>
+    </message>
+    <message id="m0005" time="2012-12-22 17:51:44 UTC" participant="154352">
+      <body>I heard the name but not any details.</body>
+    </message>
+    <message id="m0006" time="2012-12-22 17:53:28 UTC" participant="154390">
+      <body>Yeah i wanted to read more on it today</body>
+    </message>
+    <message id="m0007" time="2012-12-23 00:09:32 UTC" participant="154390">
+      <body>Traffic sucks.. now my eta is 7:40</body>
+    </message>
+    <message id="m0008" time="2012-12-23 00:14:53 UTC" participant="154352">
+      <body>Somehow I lost that glimpse. If you get a chance please resend.</body>
+    </message>
+  </messages>
+</conversation>
+

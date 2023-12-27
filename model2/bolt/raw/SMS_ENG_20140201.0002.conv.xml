@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140201.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-01 22:23:56 UTC" participant="149306">
+      <body>Hi nick, do you know if phill will be in Philly tonight? Is there a show or something? 
+#####</body>
+    </message>
+    <message id="m0001" time="2014-02-01 22:25:02 UTC" participant="149396">
+      <body>Hey dude, yeah zack is playing at the record exchange. Lindsey was going to text me when they get to town</body>
+    </message>
+    <message id="m0002" time="2014-02-01 22:26:00 UTC" participant="149306">
+      <body>Where is the record exchange?</body>
+    </message>
+    <message id="m0003" time="2014-02-01 22:27:45 UTC" participant="149396">
+      <body>I'm not sure but I think it's the record shop on Frankford ave in fishtown</body>
+    </message>
+    <message id="m0004" time="2014-02-01 22:28:33 UTC" participant="149306">
+      <body>Ahh it moved there right? Thanks!</body>
+    </message>
+    <message id="m0005" time="2014-02-01 22:29:05 UTC" participant="149306">
+      <body>Let know what ur up to cuz phill is bad at returning txts</body>
+    </message>
+    <message id="m0006" time="2014-02-01 22:29:31 UTC" participant="149396">
+      <body>Sure thing</body>
+    </message>
+    <message id="m0007" time="2014-02-01 22:30:09 UTC" participant="149306">
+      <body>Great, see u tonight</body>
+    </message>
+    <message id="m0008" time="2014-02-02 00:24:22 UTC" participant="149396">
+      <body>Lindsey tells me they are getting there around 8</body>
+    </message>
+    <message id="m0009" time="2014-02-02 00:32:59 UTC" participant="149306">
+      <body>Thanks nick, I'll leave my place shortly</body>
+    </message>
+    <message id="m0010" time="2014-02-02 17:58:11 UTC" participant="149396">
+      <body>Changed it to royal tavern. We are jut getting there</body>
+    </message>
+  </messages>
+</conversation>
+

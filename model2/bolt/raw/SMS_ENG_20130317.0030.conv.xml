@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135482" time="2013-03-17 16:01:53 UTC">
+      <body>Hey Sofie, it's Zach. Just wanted to let you know I'm running a couple minutes late. See you soon!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-17 16:02:07 UTC">
+      <body>It's cool </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-17 16:05:59 UTC">
+      <body>So are all of us</body>
+    </message>
+  </messages>
+</conversation>

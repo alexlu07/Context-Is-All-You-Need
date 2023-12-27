@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135467" time="2013-03-06 22:07:32 UTC">
+      <body>Is your show opening on 20 March at 6:00PM at Mass Art?
+And is Wendy attending because I may want to stay at her place? </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-07 13:07:18 UTC">
+      <body>Grandpa!!! This is great that you want to come. Wendy is not coming she will be at her residency. But you are probably welcome to stay at get place.   And you can also stay at my place. You can have my bed its very comfortable. And I promise to change the sheets!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-07 13:07:38 UTC">
+      <body>Welcome to stay at her place (not get place)</body>
+    </message>
+    <message id="m0003" participant="135467" time="2013-03-07 13:13:36 UTC">
+      <body>Will there be someone at her apartment to let me in?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-07 13:14:09 UTC">
+      <body>You will get a key.  Ill call Wendy today</body>
+    </message>
+  </messages>
+</conversation>

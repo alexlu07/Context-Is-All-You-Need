@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150402.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-02 20:09:36 UTC" participant="153421">
+      <body>Crystal what do you want for dinner or do you want beef pattie </body>
+    </message>
+    <message id="m0001" time="2015-04-02 20:13:33 UTC" participant="153417">
+      <body>That's fine with me. Jenny said okay</body>
+    </message>
+    <message id="m0002" time="2015-04-02 20:14:01 UTC" participant="153421">
+      <body>Okayv</body>
+    </message>
+    <message id="m0003" time="2015-04-03 19:09:52 UTC" participant="153421">
+      <body>Crystal can you ask Charles to buy a box ramen </body>
+    </message>
+    <message id="m0004" time="2015-04-03 19:10:20 UTC" participant="153417">
+      <body>The regular one?</body>
+    </message>
+    <message id="m0005" time="2015-04-03 19:11:06 UTC" participant="153421">
+      <body>Yes </body>
+    </message>
+  </messages>
+</conversation>
+

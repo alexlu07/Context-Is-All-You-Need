@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130503.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-03 15:17:20 UTC" participant="152526">
+      <body>Is the music for Erin's piece a traditional that you arranged for the band?</body>
+    </message>
+    <message id="m0001" time="2013-05-03 16:08:02 UTC" participant="152417">
+      <body>Its erins arrangement, i never got around to arranging it for the band, so its just drums</body>
+    </message>
+    <message id="m0002" time="2013-05-03 22:28:42 UTC" participant="152526">
+      <body>Where are we meeting?</body>
+    </message>
+  </messages>
+</conversation>
+

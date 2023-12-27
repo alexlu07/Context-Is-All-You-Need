@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120515.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-15 21:13:01 UTC">
+      <body>How was the test</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-05-15 21:14:43 UTC">
+      <body>Aced it!... I think. Everyone else drew dicks </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-15 21:20:18 UTC">
+      <body>Lmao nice! That's pretty much what happened with ap psych</body>
+    </message>
+    <message id="m0003" participant="136210" time="2012-05-15 21:22:08 UTC">
+      <body>At least the dicks were part of psych </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-15 21:22:41 UTC">
+      <body>Lol yeah we used them to explain freuds theories</body>
+    </message>
+    <message id="m0005" participant="136210" time="2012-05-15 21:24:00 UTC">
+      <body>Family freud</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2012-09-18 22:09:52 UTC">
+      <body>Hey Maria, it's Kennedy. Our show is an hour forty minutes, starts at 8pm wed, thur &amp; fri!</body>
+    </message>
+    <message id="m0001" participant="130926" time="2012-09-18 22:10:21 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

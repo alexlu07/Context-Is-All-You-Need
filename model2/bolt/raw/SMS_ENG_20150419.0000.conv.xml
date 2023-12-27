@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150419.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-19 16:07:45 UTC" participant="153412">
+      <body>Just so you know, I should be getting to 30th around 7:45-8ish. </body>
+    </message>
+    <message id="m0001" time="2015-04-19 16:08:30 UTC" participant="153421">
+      <body>Okay </body>
+    </message>
+    <message id="m0002" time="2015-04-19 20:45:25 UTC" participant="153412">
+      <body>The bus isn't here yet. 15 mins late so far. I'll have to text you when we're close. Are you or opa picking me up?</body>
+    </message>
+    <message id="m0003" time="2015-04-19 20:46:16 UTC" participant="153421">
+      <body>Opa </body>
+    </message>
+    <message id="m0004" time="2015-04-19 20:46:36 UTC" participant="153412">
+      <body>Okay. Who should I call?</body>
+    </message>
+    <message id="m0005" time="2015-04-19 20:47:24 UTC" participant="153421">
+      <body>You can call me </body>
+    </message>
+    <message id="m0006" time="2015-04-19 20:49:35 UTC" participant="153412">
+      <body>Okay!</body>
+    </message>
+    <message id="m0007" time="2015-04-19 23:02:22 UTC" participant="153412">
+      <body>FYI, it'll probably be closer to 8:45</body>
+    </message>
+    <message id="m0008" time="2015-04-19 23:03:46 UTC" participant="153421">
+      <body>Okay</body>
+    </message>
+    <message id="m0009" time="2015-04-20 00:27:55 UTC" participant="153412">
+      <body>Passing the airport now. </body>
+    </message>
+    <message id="m0010" time="2015-04-20 00:29:09 UTC" participant="153421">
+      <body>Opa left the house about 5 mins ago </body>
+    </message>
+    <message id="m0011" time="2015-04-20 00:29:18 UTC" participant="153412">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

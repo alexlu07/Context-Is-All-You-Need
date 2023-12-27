@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130312.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-03-12 23:51:52 UTC">
+      <body>Do you have a show next Saturday? </body>
+    </message>
+    <message id="m0001" participant="132550" time="2013-03-12 23:53:44 UTC">
+      <body>No. Not until the 29th. </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-03-12 23:54:47 UTC">
+      <body>Gotcha. Well ill have to make one soon. Hopefully youll have one on a weekend agata is here</body>
+    </message>
+    <message id="m0003" participant="132550" time="2013-03-12 23:54:50 UTC">
+      <body>Devon and I will be in the city for headshots on sat the 23rd. </body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-03-12 23:56:03 UTC">
+      <body>Next Saturday?  Agata will be here then.  Maybe we can get lunch or something? </body>
+    </message>
+    <message id="m0005" participant="132550" time="2013-03-12 23:58:40 UTC">
+      <body>Ok. Maybe after Devon's coaching on Saturday. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120621.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-06-21 01:48:38 UTC">
+      <body>When r u coming home?</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-06-21 21:37:30 UTC">
+      <body>What time will u b home?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-21 21:38:33 UTC">
+      <body>I'm heading to the train now!</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-06-21 21:42:30 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-06-22 19:10:22 UTC">
+      <body>Temperature dropped. Rain over hopefully for good</body>
+    </message>
+    <message id="m0005" participant="136202" time="2012-06-23 00:37:02 UTC">
+      <body>Sunset us beautiful. Sky is purple. Have fun!!</body>
+    </message>
+    <message id="m0006" participant="136202" time="2012-06-23 10:57:56 UTC">
+      <body>All good?</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-06-23 11:00:36 UTC">
+      <body>Yes! On our way to the bus</body>
+    </message>
+    <message id="m0008" participant="136202" time="2012-06-23 11:02:05 UTC">
+      <body>Ok. Will u wake the girls? Not sure when/ if I should get them up!</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-06-23 11:02:15 UTC">
+      <body>Haha I will!</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-06-23 11:08:03 UTC">
+      <body>Are they awake now? I just called</body>
+    </message>
+    <message id="m0011" participant="136202" time="2012-06-23 11:09:11 UTC">
+      <body>I don't hear anything. Should I knock on their doors?</body>
+    </message>
+    <message id="m0012" participant="136164" time="2012-06-23 11:09:45 UTC">
+      <body>Yeah I think so...it sounded like they went right back to sleep after I hung up</body>
+    </message>
+    <message id="m0013" participant="136202" time="2012-06-23 11:12:31 UTC">
+      <body>Were they planning subway or cab to east side? I'll wake them in a few minutes</body>
+    </message>
+    <message id="m0014" participant="136164" time="2012-06-23 11:13:06 UTC">
+      <body>I think subway but I'm not sure</body>
+    </message>
+    <message id="m0015" participant="136202" time="2012-06-23 11:17:08 UTC">
+      <body>I knocked and they said they were awake. You may want to call or text in another 15 minutes just to be sure. They're both I'm your room.</body>
+    </message>
+    <message id="m0016" participant="136164" time="2012-06-23 11:18:29 UTC">
+      <body>Ok. Im about to get on the subway though</body>
+    </message>
+    <message id="m0017" participant="136202" time="2012-06-23 12:12:39 UTC">
+      <body>Ok I went in and woke and spoke to them.....</body>
+    </message>
+    <message id="m0018" participant="136164" time="2012-06-23 12:14:17 UTC">
+      <body>What's going on? At grand central</body>
+    </message>
+    <message id="m0019" participant="136202" time="2012-06-23 12:16:04 UTC">
+      <body>They're on their way via cab</body>
+    </message>
+    <message id="m0020" participant="136202" time="2012-06-23 16:05:08 UTC">
+      <body>Heading to return tux. Did u make it there yet?</body>
+    </message>
+    <message id="m0021" participant="136164" time="2012-06-23 16:11:45 UTC">
+      <body>Yeah we are here!</body>
+    </message>
+  </messages>
+</conversation>

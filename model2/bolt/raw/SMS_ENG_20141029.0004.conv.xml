@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141029.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-29 15:38:40 UTC" participant="152574">
+      <body>Hey point man do you have a room for us yet?</body>
+    </message>
+    <message id="m0001" time="2014-10-29 16:03:39 UTC" participant="152417">
+      <body>Im in 718</body>
+    </message>
+    <message id="m0002" time="2014-10-29 16:04:16 UTC" participant="152574">
+      <body>Ok see you in a minute</body>
+    </message>
+  </messages>
+</conversation>
+

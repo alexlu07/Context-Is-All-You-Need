@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150318.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-18 14:42:30 UTC" participant="153547">
+      <body>I'm leaving in a minute</body>
+    </message>
+    <message id="m0001" time="2015-03-18 14:42:55 UTC" participant="153557">
+      <body>See you at home!</body>
+    </message>
+  </messages>
+</conversation>
+

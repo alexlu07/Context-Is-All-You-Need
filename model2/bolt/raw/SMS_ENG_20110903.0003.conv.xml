@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110903.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-03 00:59:43 UTC">
+      <body>Psycho suzi's dude... Upstairs too!</body>
+    </message>
+    <message id="m0001" participant="135130" time="2011-09-03 01:00:30 UTC">
+      <body>Haha who you wit? </body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-03 01:02:47 UTC">
+      <body>Some friends I went to wartburg with and more. Where you at?</body>
+    </message>
+    <message id="m0003" participant="135130" time="2011-09-03 01:10:22 UTC">
+      <body>I'm at a lil shindig at the u for now. You gonna be there for a min? </body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-03 01:29:09 UTC">
+      <body>Yea we just furtively ordered pizza...</body>
+    </message>
+    <message id="m0005" participant="135130" time="2011-09-03 01:53:33 UTC">
+      <body>I dunno, i'm kinda shy :) </body>
+    </message>
+  </messages>
+</conversation>

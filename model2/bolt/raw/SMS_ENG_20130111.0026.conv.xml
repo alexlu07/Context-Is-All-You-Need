@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130111.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-11 22:07:32 UTC" participant="153298">
+      <body>Julia, lesson at 3 tomorrow work for you? :)</body>
+    </message>
+    <message id="m0001" time="2013-01-11 22:09:16 UTC" participant="152734">
+      <body>Yes! Sorry, I snuck off to get out of the rain :) do you think I'll ride dollar or should I come ride him beforehand?</body>
+    </message>
+    <message id="m0002" time="2013-01-11 22:11:58 UTC" participant="153298">
+      <body>Yes, dollar, Caitlin is riding Louie tomorrow</body>
+    </message>
+    <message id="m0003" time="2013-01-11 22:20:25 UTC" participant="152734">
+      <body>Cool, see you tomorrow!</body>
+    </message>
+    <message id="m0004" time="2013-01-11 22:32:14 UTC" participant="153298">
+      <body>K! :)</body>
+    </message>
+    <message id="m0005" time="2013-01-12 17:24:37 UTC" participant="152734">
+      <body>Hey, Caitlin said I can ride Louie today (but maybe not jump bc of that cut on his leg). Who should I ride for the lesson? I'll probably ride the other one beforehand. </body>
+    </message>
+    <message id="m0006" time="2013-01-12 17:26:55 UTC" participant="153298">
+      <body>Either one is fine with me :)</body>
+    </message>
+    <message id="m0007" time="2013-01-12 17:27:22 UTC" participant="152734">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

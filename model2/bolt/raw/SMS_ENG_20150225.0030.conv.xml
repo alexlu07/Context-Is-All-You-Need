@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 13:07:26 UTC" participant="153804">
+      <body> I got Kathy's birth day wrong it's today the 25th three days after Tony's.thought you'd like to know.</body>
+    </message>
+    <message id="m0001" time="2015-02-25 18:33:11 UTC" participant="153804">
+      <body>I know your appointment is Friday you might want to call them and ask if they can email you the new patient forms so you can start filling them out before the visit.</body>
+    </message>
+    <message id="m0002" time="2015-02-25 18:34:44 UTC" participant="153804">
+      <body> It can make it a little less stressful then trying to do it at the office</body>
+    </message>
+    <message id="m0003" time="2015-02-25 20:32:46 UTC" participant="153558">
+      <body>I asked they said I have to do it there</body>
+    </message>
+    <message id="m0004" time="2015-02-25 20:34:12 UTC" participant="153804">
+      <body> 
+That's okay it was worth asking</body>
+    </message>
+  </messages>
+</conversation>
+

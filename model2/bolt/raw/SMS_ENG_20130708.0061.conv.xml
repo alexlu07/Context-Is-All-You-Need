@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137259" time="2013-07-08 00:02:04 UTC">
+      <body>Ahhhhhh service! Ahhhhh happy birthday!!!!!!</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-08 00:02:41 UTC">
+      <body>COME </body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-07-08 00:03:00 UTC">
+      <body>To what?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-07-08 00:03:13 UTC">
+      <body>My party....</body>
+    </message>
+    <message id="m0004" participant="137259" time="2013-07-08 00:03:43 UTC">
+      <body>There's a party!!! Why didn't I know...?</body>
+    </message>
+    <message id="m0005" participant="137259" time="2013-07-08 00:07:22 UTC">
+      <body>Tell me more!</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-07-08 19:09:03 UTC">
+      <body>Have you left the city yet? </body>
+    </message>
+    <message id="m0007" participant="137259" time="2013-07-08 19:09:33 UTC">
+      <body>Ha...no. Why what's up?</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-07-08 19:09:55 UTC">
+      <body>I'm wondering which train you're taking </body>
+    </message>
+    <message id="m0009" participant="137259" time="2013-07-08 19:11:19 UTC">
+      <body>I'd like to catch the 6:01...but might have to wait for the 6:27...which means after you no matter what I'd guess...</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-07-08 19:11:35 UTC">
+      <body>Yup. Damn you </body>
+    </message>
+    <message id="m0011" participant="137259" time="2013-07-08 19:12:20 UTC">
+      <body>I concur...I was at work at 7:45 and I can't leave until 6...fuck that</body>
+    </message>
+  </messages>
+</conversation>

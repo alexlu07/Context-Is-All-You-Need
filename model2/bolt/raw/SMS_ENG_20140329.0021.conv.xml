@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140329.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-29 11:39:37 UTC" participant="153244">
+      <body>Hey do you have the delivery address for next weekend? And date/time of delivery?</body>
+    </message>
+    <message id="m0001" time="2014-03-29 11:57:52 UTC" participant="153895">
+      <body>Bridal shower is @ ############ cherry hill, nj. Next Sunday. April 6th    starts at 12 so I guess delivery around 11</body>
+    </message>
+    <message id="m0002" time="2014-03-29 12:02:22 UTC" participant="153244">
+      <body>K got it..  and reminder other $50 is due</body>
+    </message>
+    <message id="m0003" time="2014-03-29 12:03:06 UTC" participant="153895">
+      <body>Yup. I can give it to you that day? </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140608.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-08 01:26:37 UTC" participant="149306">
+      <body>Hi Amanda, just wanted to check in and see what time you were going to be returning home tomorrow so I would know when to take biggie on his last walk for the sit. Thanks! ####</body>
+    </message>
+    <message id="m0001" time="2014-06-08 03:14:08 UTC" participant="149352">
+      <body>We will be home around 3. Thanks for checking :)</body>
+    </message>
+    <message id="m0002" time="2014-06-08 03:17:52 UTC" participant="149306">
+      <body>Great! I'll take biggie for his morning walk and get him breakfast. Then he will be eagerly awaiting your return. </body>
+    </message>
+    <message id="m0003" time="2014-06-08 03:20:32 UTC" participant="149352">
+      <body>That's perfect, thanks!</body>
+    </message>
+    <message id="m0004" time="2014-06-08 03:21:02 UTC" participant="149306">
+      <body>You're very welcome</body>
+    </message>
+  </messages>
+</conversation>
+

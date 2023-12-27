@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110920.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135114" time="2011-09-20 17:07:39 UTC">
+      <body>Hey love no pizza and beer tonight. I Have a sinus infection and i know that wouldnt go over well with my body. When do you leav to visit tim?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-20 17:08:39 UTC">
+      <body>No worries, I'm feeling gross too. I leave on Friday.</body>
+    </message>
+    <message id="m0002" participant="135114" time="2011-09-20 17:10:18 UTC">
+      <body>Ok well if i dont see you before then i want to see you before you go for good:)</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-20 17:10:41 UTC">
+      <body>I'll be in touch :)</body>
+    </message>
+  </messages>
+</conversation>

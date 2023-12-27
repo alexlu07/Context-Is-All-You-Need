@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120817.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-08-17 15:17:20 UTC">
+      <body>FYI your Dr appt is today at 11:30</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-08-17 15:17:20 UTC">
+      <body>I will pick u up in an hour</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-08-17 16:17:04 UTC">
+      <body>I'm here</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-08-17 16:17:04 UTC">
+      <body>In back</body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-08-17 17:01:11 UTC">
+      <body>I'm dying for a Jamba right now</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-08-17 17:01:48 UTC">
+      <body>:-P</body>
+    </message>
+    <message id="m0006" participant="131824" time="2012-08-17 17:01:52 UTC">
+      <body>Soon!</body>
+    </message>
+    <message id="m0007" participant="131824" time="2012-08-17 23:45:04 UTC">
+      <body>Playing in the toilet.</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-08-17 23:47:21 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0009" participant="131824" time="2012-08-17 23:51:28 UTC">
+      <body>Now in bathtub for obvious reasons.</body>
+    </message>
+    <message id="m0010" participant="131824" time="2012-08-17 23:51:28 UTC">
+      <body>Really?  Ok :). I'll use the other...</body>
+    </message>
+    <message id="m0011" participant="131821" time="2012-08-17 23:52:23 UTC">
+      <body>Your computer is much better than the other one</body>
+    </message>
+    <message id="m0012" participant="131824" time="2012-08-18 00:42:40 UTC">
+      <body>Whenever you are hungry come relieve me and I ell cook :)</body>
+    </message>
+  </messages>
+</conversation>

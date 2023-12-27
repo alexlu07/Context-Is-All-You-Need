@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140125.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-25 16:31:43 UTC" participant="153633">
+      <body>Almost there. Aware you 116</body>
+    </message>
+    <message id="m0001" time="2014-01-25 16:32:11 UTC" participant="153548">
+      <body>119. There's a bunch if junk on the porch </body>
+    </message>
+    <message id="m0002" time="2014-01-25 16:32:47 UTC" participant="153548">
+      <body>White van parked in front</body>
+    </message>
+    <message id="m0003" time="2014-01-25 16:32:52 UTC" participant="153548">
+      <body>With graffiti</body>
+    </message>
+    <message id="m0004" time="2014-01-25 16:34:08 UTC" participant="153633">
+      <body>K I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

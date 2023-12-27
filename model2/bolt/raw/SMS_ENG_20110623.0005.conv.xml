@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110623.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-23 18:11:32 UTC">
+      <body>When are you around this weekend? Saturday night?</body>
+    </message>
+    <message id="m0001" participant="135105" time="2011-06-24 00:08:11 UTC">
+      <body>Dang! I'm in Chicago this weekend! :(</body>
+    </message>
+  </messages>
+</conversation>

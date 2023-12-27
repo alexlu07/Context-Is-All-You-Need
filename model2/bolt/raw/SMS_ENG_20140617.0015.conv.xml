@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140617.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-17 17:25:31 UTC" participant="153244">
+      <body>Had my dentist appt today. Perfect teeth, perfect gums</body>
+    </message>
+    <message id="m0001" time="2014-06-17 18:38:30 UTC" participant="153900">
+      <body>Dad won 18 dollars with your tickets</body>
+    </message>
+    <message id="m0002" time="2014-06-17 18:55:55 UTC" participant="153244">
+      <body>Ok good. </body>
+    </message>
+    <message id="m0003" time="2014-06-18 12:02:10 UTC" participant="153900">
+      <body>Michelle do you want to go Saturday instead of Friday because people said the traffic is better</body>
+    </message>
+    <message id="m0004" time="2014-06-18 12:03:01 UTC" participant="153244">
+      <body>I can't I already took off work friday</body>
+    </message>
+    <message id="m0005" time="2014-06-18 12:03:25 UTC" participant="153244">
+      <body>And its too late to take off saturday</body>
+    </message>
+  </messages>
+</conversation>
+

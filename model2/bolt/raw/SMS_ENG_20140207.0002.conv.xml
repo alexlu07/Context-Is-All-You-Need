@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 17:01:08 UTC" participant="152420">
+      <body>Can u firm up Saturday with Anwar re time and place?</body>
+    </message>
+    <message id="m0001" time="2014-02-07 17:02:19 UTC" participant="152417">
+      <body>I called him last night, i agreed to pick him up at 8.  Was he still unsure today?</body>
+    </message>
+    <message id="m0002" time="2014-02-07 17:02:30 UTC" participant="152420">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

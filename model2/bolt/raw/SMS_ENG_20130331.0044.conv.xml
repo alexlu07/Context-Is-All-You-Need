@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130331.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2013-03-31 23:09:43 UTC">
+      <body>Miss you</body>
+    </message>
+    <message id="m0001" participant="135414" time="2013-03-31 23:20:43 UTC">
+      <body>When do you come home??</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-01 00:27:07 UTC">
+      <body>Miss you too ill be home in a few hours</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-01 00:27:09 UTC">
+      <body>!!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-01 00:27:19 UTC">
+      <body>Is josh still here?</body>
+    </message>
+    <message id="m0005" participant="135414" time="2013-04-01 00:27:44 UTC">
+      <body>No he left </body>
+    </message>
+    <message id="m0006" participant="135414" time="2013-04-01 00:29:36 UTC">
+      <body>Womp womp</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-04-01 00:29:49 UTC">
+      <body>Awww </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-04-01 00:30:06 UTC">
+      <body>It was a really nice weekend?</body>
+    </message>
+    <message id="m0009" participant="135414" time="2013-04-01 00:40:32 UTC">
+      <body>Yeah :) </body>
+    </message>
+    <message id="m0010" participant="135414" time="2013-04-01 00:41:01 UTC">
+      <body>I missed you though! Come home :)</body>
+    </message>
+    <message id="m0011" participant="135414" time="2013-04-01 18:14:10 UTC">
+      <body>Check your email </body>
+    </message>
+  </messages>
+</conversation>

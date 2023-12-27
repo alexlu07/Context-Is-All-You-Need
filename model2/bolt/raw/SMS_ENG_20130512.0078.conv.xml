@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-12 00:20:11 UTC">
+      <body>hey lisa, it's lauren! my mom mentioned that you were interested in having me work for you again this summer. i'll be traveling for a couple weeks but other than that i'm more than willing! hopefully we can work something out. :) </body>
+    </message>
+    <message id="m0001" participant="136382" time="2013-05-12 17:44:58 UTC">
+      <body>Sure. Lets talk this week sometime and make a plan.</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-12 17:45:46 UTC">
+      <body>Absolutely! I have literally no plans after today, so whenever is most convenient for you is fine with me! </body>
+    </message>
+  </messages>
+</conversation>

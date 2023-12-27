@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120910.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131054" time="2012-09-10 15:17:22 UTC">
+      <body>I have 430 in west philly open if you want let me know asap! Thanks</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-09-10 16:23:42 UTC">
+      <body>Yes that would be great!</body>
+    </message>
+    <message id="m0002" participant="131054" time="2012-09-10 17:27:55 UTC">
+      <body>See you at 430 in west philly!</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-09-10 20:30:14 UTC">
+      <body>I'm sorry, I have a new phone, what is the pass code?</body>
+    </message>
+  </messages>
+</conversation>

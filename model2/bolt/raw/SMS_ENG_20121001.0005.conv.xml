@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121001.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-01 16:08:36 UTC">
+      <body>Meeting today?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-01 16:10:06 UTC">
+      <body>Now</body>
+    </message>
+    <message id="m0002" participant="135378" time="2012-10-01 16:10:40 UTC">
+      <body>Idk  Forgot what time. </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-01 16:12:02 UTC">
+      <body>3rd floor</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-01 16:12:10 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0005" participant="135378" time="2012-10-01 16:12:48 UTC">
+      <body>Shoot. Give me 20 mins. I just took shower. Sorry.  Classroom?</body>
+    </message>
+    <message id="m0006" participant="135378" time="2012-10-01 16:12:48 UTC">
+      <body>I thought its one thirty like last time</body>
+    </message>
+    <message id="m0007" participant="135378" time="2012-10-01 16:12:48 UTC">
+      <body>Will be there ASAP </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-04-20 11:24:01 UTC">
+      <body>Just leaving home now, should be there in 35min</body>
+    </message>
+    <message id="m0001" participant="131286" time="2013-04-20 11:27:09 UTC">
+      <body>Perfect about to get off the plane</body>
+    </message>
+    <message id="m0002" participant="131286" time="2013-04-20 11:52:09 UTC">
+      <body>Im by door four when you get here</body>
+    </message>
+  </messages>
+</conversation>

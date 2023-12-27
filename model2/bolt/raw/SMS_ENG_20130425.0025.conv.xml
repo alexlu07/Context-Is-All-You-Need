@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130425.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131585" time="2013-04-25 17:02:35 UTC">
+      <body>Do you have the link for that statistician job</body>
+    </message>
+    <message id="m0001" participant="131585" time="2013-04-25 23:55:12 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="131585" time="2013-04-25 23:55:28 UTC">
+      <body>Kinda important</body>
+    </message>
+    <message id="m0003" participant="131585" time="2013-04-26 00:41:32 UTC">
+      <body>Call me or mom when you get this</body>
+    </message>
+    <message id="m0004" participant="131585" time="2013-04-26 18:20:52 UTC">
+      <body>Did you get this yet</body>
+    </message>
+    <message id="m0005" participant="131528" time="2013-04-26 18:21:23 UTC">
+      <body>Yeah, I talked to mom last night</body>
+    </message>
+    <message id="m0006" participant="131585" time="2013-04-26 18:23:24 UTC">
+      <body>I researched everything for her. I've seen those letters before with similar language. She's not in the Philly collections database. Her docket says guilty and how much her ticket was, but her payment plan says n/a and 0 owed. Told her to talk to the lawy</body>
+    </message>
+    <message id="m0007" participant="131528" time="2013-04-26 18:24:12 UTC">
+      <body>Yeah, I just got her the lawyer's info</body>
+    </message>
+    <message id="m0008" participant="131585" time="2013-04-26 18:35:16 UTC">
+      <body>I'm not quite sure its legal for them to threaten incarceration, impoundment and credit ... reporting</body>
+    </message>
+    <message id="m0009" participant="131528" time="2013-04-26 18:37:03 UTC">
+      <body>Turds</body>
+    </message>
+  </messages>
+</conversation>

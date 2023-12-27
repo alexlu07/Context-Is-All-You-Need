@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141204.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-04 01:20:00 UTC" participant="152579">
+      <body>How's it going Gabi?!</body>
+    </message>
+    <message id="m0001" time="2014-12-04 01:43:28 UTC" participant="152417">
+      <body>Great!  Trying to pump out a paper on Edwin Gordon's music learning theory.  Hows it going with you?</body>
+    </message>
+    <message id="m0002" time="2014-12-04 02:01:36 UTC" participant="152579">
+      <body>Sounds interesting! How is it going so far?
+I'm good! Really busy at school and finishing apps for grad school and festivals. Also have a lot of papers but over all really good! Going to see La Boheme on Friday! You should come visit! </body>
+    </message>
+    <message id="m0003" time="2014-12-04 02:19:48 UTC" participant="152417">
+      <body>Sweet.  I'll be up in NY at the end of the month before i fly out to Israel</body>
+    </message>
+    <message id="m0004" time="2014-12-04 04:02:28 UTC" participant="152579">
+      <body>Israel? Did you tell me about this before?</body>
+    </message>
+    <message id="m0005" time="2014-12-04 04:03:12 UTC" participant="152579">
+      <body>You did</body>
+    </message>
+  </messages>
+</conversation>
+

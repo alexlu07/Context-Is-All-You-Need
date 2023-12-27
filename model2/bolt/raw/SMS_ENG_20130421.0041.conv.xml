@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-21 13:25:08 UTC">
+      <body>is today that breakfast thing? are we having group this morning? </body>
+    </message>
+    <message id="m0001" participant="136142" time="2013-04-21 13:25:55 UTC">
+      <body>Group. Jim #### is teaching on a parable..</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-21 13:26:03 UTC">
+      <body>oh, cool! that's exciting. </body>
+    </message>
+  </messages>
+</conversation>

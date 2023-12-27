@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-21 00:04:05 UTC" participant="152417">
+      <body>The backdoor is often unloked, if its not im at panadero</body>
+    </message>
+    <message id="m0001" time="2013-06-21 19:15:18 UTC" participant="152481">
+      <body>Hey i didnt end up coming up. Do you think ill be able to move in by the 26th or 27th?</body>
+    </message>
+    <message id="m0002" time="2013-06-21 19:15:54 UTC" participant="152417">
+      <body>Yea, Room is ready for you</body>
+    </message>
+  </messages>
+</conversation>
+

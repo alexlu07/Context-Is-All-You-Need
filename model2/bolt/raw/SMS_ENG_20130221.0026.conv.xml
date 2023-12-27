@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130221.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131373" time="2013-02-21 02:15:15 UTC">
+      <body>Do you want your guitar back? I've been playing it but I feel weird having it.</body>
+    </message>
+    <message id="m0001" participant="131373" time="2013-02-21 02:15:22 UTC">
+      <body>And the boss pedal</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-21 03:54:49 UTC">
+      <body>we'll talk when i see you.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-22 01:27:01 UTC">
+      <body>what are you doing tomorrow?</body>
+    </message>
+    <message id="m0004" participant="131373" time="2013-02-22 16:10:16 UTC">
+      <body>Hey sorry I didn't answer I'm working all day as playing at night.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-02-22 16:19:04 UTC">
+      <body>no problem. going to SF for dinner, was gonna take you.  next time.  ;-)</body>
+    </message>
+    <message id="m0006" participant="131373" time="2013-02-22 16:20:04 UTC">
+      <body>You're driving 600 miles to have dinner?</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-02-22 16:23:14 UTC">
+      <body>and to deliver a robot suit for the fx company. choosing to focus on dinner.  ;-p</body>
+    </message>
+    <message id="m0008" participant="131373" time="2013-02-22 16:25:05 UTC">
+      <body>Robot suit!</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-02-22 16:27:08 UTC">
+      <body>i know...</body>
+    </message>
+    <message id="m0010" participant="131373" time="2013-02-22 16:32:50 UTC">
+      <body>Heehee</body>
+    </message>
+    <message id="m0011" participant="131373" time="2013-02-22 16:33:07 UTC">
+      <body>Have a safe music filled voyage</body>
+    </message>
+    <message id="m0014" participant="131350" time="2013-02-22 16:35:02 UTC">
+      <body>thanks! have a great day! talk to you soon.</body>
+    </message>
+    <message id="m0015" participant="131350" time="2013-02-23 02:30:55 UTC">
+      <body>;-)</body>
+    </message>
+  </messages>
+</conversation>

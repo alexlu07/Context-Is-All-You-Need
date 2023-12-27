@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120710.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-07-10 13:26:38 UTC">
+      <body>Haven't heard from you in a while! You must enjoying San Fran :) I'm missing mpls today.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-07-11 12:49:34 UTC">
+      <body>Can you just let me know that you're ok?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-07-11 15:00:50 UTC">
+      <body>Tim, I had a bad dream that's haunting me - please just let me know </body>
+    </message>
+    <message id="m0003" participant="135117" time="2012-07-11 16:37:07 UTC">
+      <body>Yeah totally fine! Hope it's not an omen...</body>
+    </message>
+  </messages>
+</conversation>

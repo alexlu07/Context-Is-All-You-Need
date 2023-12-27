@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120827.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136727" time="2012-08-27 15:39:33 UTC">
+      <body>Hey we have the correct address so I'll just send you guys another one! Don't know why you didn't get it</body>
+    </message>
+    <message id="m0001" participant="131015" time="2012-08-27 15:40:24 UTC">
+      <body>Maybe it's still on the way...?</body>
+    </message>
+    <message id="m0002" participant="136727" time="2012-08-27 15:40:53 UTC">
+      <body>Well just send another one no big deal!</body>
+    </message>
+    <message id="m0004" participant="131015" time="2012-08-27 15:43:00 UTC">
+      <body>Yes ma'am.</body>
+    </message>
+  </messages>
+</conversation>

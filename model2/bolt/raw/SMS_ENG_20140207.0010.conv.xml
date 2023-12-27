@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 15:47:12 UTC" participant="153559">
+      <body>I finished the other 6 skulls do you want to pick them up at PENN tomorrow morning? </body>
+    </message>
+    <message id="m0001" time="2014-02-07 15:58:54 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2014-02-08 13:00:48 UTC" participant="153559">
+      <body>Around 10 does that work for you? </body>
+    </message>
+    <message id="m0003" time="2014-02-08 13:01:35 UTC" participant="153547">
+      <body>What time do you want me to come to upenn</body>
+    </message>
+    <message id="m0004" time="2014-02-08 13:02:24 UTC" participant="153547">
+      <body>Yeah </body>
+    </message>
+    <message id="m0005" time="2014-02-08 13:02:38 UTC" participant="153559">
+      <body>Cool see you then </body>
+    </message>
+    <message id="m0006" time="2014-02-08 14:54:19 UTC" participant="153547">
+      <body>Hey I'm in the parking lot behind meyerson</body>
+    </message>
+    <message id="m0007" time="2014-02-08 14:56:00 UTC" participant="153559">
+      <body>Yeah I'm up here </body>
+    </message>
+    <message id="m0008" time="2014-02-08 14:56:02 UTC" participant="153547">
+      <body>I'm actually in my car on walnut , but if you're there I'll walk over</body>
+    </message>
+  </messages>
+</conversation>
+

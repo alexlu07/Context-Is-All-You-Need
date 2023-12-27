@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131014.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-14 19:33:07 UTC" participant="153641">
+      <body>Is the LMP thing today? Are u going? What time? Need a ride?</body>
+    </message>
+    <message id="m0001" time="2013-10-14 19:48:16 UTC" participant="153548">
+      <body>Yes! Going to be super fun. Heading out with Fiona at 5:45. Surprise is at 7:30z hayride at 8. </body>
+    </message>
+    <message id="m0002" time="2013-10-14 22:59:36 UTC" participant="153641">
+      <body>I'm nearby but dont want to ruin the surprise. Should I wait or come now. And where do we park?</body>
+    </message>
+  </messages>
+</conversation>
+

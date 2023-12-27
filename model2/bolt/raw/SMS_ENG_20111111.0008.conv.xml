@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111111.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-11-11 18:26:32 UTC">
+      <body>TF practice. Poe. 3:00. Be there.</body>
+    </message>
+    <message id="m0001" participant="131830" time="2011-11-12 16:18:01 UTC">
+      <body>See you at the main entrance to the football stadium at noon!</body>
+    </message>
+    <message id="m0002" participant="131830" time="2011-11-12 16:46:56 UTC">
+      <body>Come down to the stadium!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-11-12 17:37:37 UTC">
+      <body>What's up</body>
+    </message>
+    <message id="m0004" participant="131830" time="2011-11-12 19:07:26 UTC">
+      <body>Reminder - meet in Woolworth at 3:15 to rehearse for the arch sing.</body>
+    </message>
+    <message id="m0005" participant="131830" time="2011-11-13 08:58:06 UTC">
+      <body>Hey Nassoons - meet at Poe at 9:45 for some intense TF! Get ready</body>
+    </message>
+    <message id="m0006" participant="131830" time="2011-11-13 14:54:29 UTC">
+      <body>Come to Poe now for some TF!</body>
+    </message>
+  </messages>
+</conversation>

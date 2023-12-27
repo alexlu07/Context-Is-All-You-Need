@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2012-11-06 16:06:24 UTC">
+      <body>Is the reading Tropical Synagogues and Hotel Bolivia?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-06 16:08:05 UTC">
+      <body>Just hotel Bolivia I think</body>
+    </message>
+    <message id="m0002" participant="135267" time="2012-11-06 16:08:32 UTC">
+      <body>Oh cool. The other thing is legit 2 pages.</body>
+    </message>
+    <message id="m0003" participant="135267" time="2012-11-06 16:08:32 UTC">
+      <body>Oh cool. So just Hotel Bolivia? Sweet!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-06 16:09:30 UTC">
+      <body>Yeah that was for the day she had us not do the hw for. She just thought it would be valuable to read or something</body>
+    </message>
+  </messages>
+</conversation>

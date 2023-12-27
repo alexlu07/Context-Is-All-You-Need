@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-04-04 01:36:31 UTC">
+      <body>You want me to save you a seat?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-04 01:37:34 UTC">
+      <body>If you want...I might show up with other ppl so not if someone needs it. Tho if you want me to sit w you then totally</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-04-04 01:38:47 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

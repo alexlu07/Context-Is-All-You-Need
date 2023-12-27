@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120318.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-03-18 17:22:18 UTC">
+      <body>Make sure you set the town as Collina d'Oro as well as the road</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-03-18 17:22:35 UTC">
+      <body>Just kidding</body>
+    </message>
+    <message id="m0002" participant="131823" time="2012-03-18 18:56:46 UTC">
+      <body>Can skmebody call me please. Well be there soon</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-03-19 07:00:16 UTC">
+      <body>How go things</body>
+    </message>
+    <message id="m0004" participant="131823" time="2012-03-19 07:23:15 UTC">
+      <body>Close but lost.</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-03-19 07:24:00 UTC">
+      <body>Matt says "shit" and no more</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-03-19 09:48:58 UTC">
+      <body>How goes it</body>
+    </message>
+    <message id="m0007" participant="131823" time="2012-03-19 09:49:47 UTC">
+      <body>Getting the gps. Should be leavin in a few min</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-03-19 09:50:03 UTC">
+      <body>Cool Adam is with us</body>
+    </message>
+    <message id="m0009" participant="131823" time="2012-03-19 10:03:43 UTC">
+      <body>Ricky says our eta in konstanz is 1145, jw</body>
+    </message>
+    <message id="m0010" participant="131821" time="2012-03-19 10:04:05 UTC">
+      <body>So is ours, are you James or John</body>
+    </message>
+    <message id="m0011" participant="131823" time="2012-03-19 10:04:55 UTC">
+      <body>James hunny</body>
+    </message>
+    <message id="m0012" participant="131823" time="2012-03-19 10:54:56 UTC">
+      <body>Here first!</body>
+    </message>
+  </messages>
+</conversation>

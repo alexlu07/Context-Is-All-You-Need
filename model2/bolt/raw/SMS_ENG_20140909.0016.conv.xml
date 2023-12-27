@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140909.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-09 18:19:28 UTC" participant="153649">
+      <body>What happened with that house?</body>
+    </message>
+    <message id="m0001" time="2014-09-09 18:41:38 UTC" participant="153548">
+      <body>We are gonna call him this week</body>
+    </message>
+    <message id="m0002" time="2014-09-09 18:42:00 UTC" participant="153649">
+      <body>Gonna make an offer?</body>
+    </message>
+    <message id="m0003" time="2014-09-09 18:42:08 UTC" participant="153649">
+      <body>Uh oh. Competition? I started applying for faculty jobs. Pretty overwhelming. </body>
+    </message>
+    <message id="m0004" time="2014-09-09 18:42:23 UTC" participant="153548">
+      <body>Yeah if this other person doesn't buy it. </body>
+    </message>
+    <message id="m0005" time="2014-09-09 20:21:02 UTC" participant="153548">
+      <body>Yeah seems so. I just got interviewed for an alumni magazine at VCU. I was so nervous and talked too much.</body>
+    </message>
+    <message id="m0006" time="2014-09-09 20:21:09 UTC" participant="153548">
+      <body>Faculty apps suck I hate it</body>
+    </message>
+  </messages>
+</conversation>
+

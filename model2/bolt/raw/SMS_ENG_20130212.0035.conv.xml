@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135441" time="2013-02-12 19:07:44 UTC">
+      <body>Hi! Are you around? I'm in the studios</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-12 19:35:08 UTC">
+      <body>Yeah I'm here!!!</body>
+    </message>
+    <message id="m0002" participant="135441" time="2013-02-12 19:35:23 UTC">
+      <body>Where?</body>
+    </message>
+  </messages>
+</conversation>

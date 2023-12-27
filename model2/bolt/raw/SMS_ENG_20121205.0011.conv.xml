@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121205.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2012-12-05 19:03:28 UTC">
+      <body>How about 230?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-05 19:04:55 UTC">
+      <body>What about nine pm</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-05 19:05:32 UTC">
+      <body>Or 4</body>
+    </message>
+    <message id="m0003" participant="135397" time="2012-12-05 19:05:36 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" participant="135397" time="2012-12-05 19:05:36 UTC">
+      <body>Ok 4</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-12-05 19:05:41 UTC">
+      <body>Four is good</body>
+    </message>
+    <message id="m0006" participant="135397" time="2012-12-06 14:58:08 UTC">
+      <body>Hope your challenges go well today. Let me know. Love u. </body>
+    </message>
+    <message id="m0007" participant="135397" time="2012-12-06 18:52:48 UTC">
+      <body>Call if u wanna talk</body>
+    </message>
+  </messages>
+</conversation>

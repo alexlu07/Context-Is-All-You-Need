@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131348" time="2013-07-07 11:10:04 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="134736" time="2013-07-07 12:33:41 UTC">
+      <body>Hey there</body>
+    </message>
+    <message id="m0002" participant="134736" time="2013-07-07 12:33:55 UTC">
+      <body>How are you? It's scorchingly hot ugh</body>
+    </message>
+    <message id="m0003" participant="131348" time="2013-07-07 12:36:12 UTC">
+      <body>I'm well thanks! I know but it could be worse</body>
+    </message>
+    <message id="m0004" participant="134736" time="2013-07-07 12:37:32 UTC">
+      <body>True haha</body>
+    </message>
+    <message id="m0005" participant="134736" time="2013-07-07 12:38:23 UTC">
+      <body>It just increases my laziness to not do anything</body>
+    </message>
+    <message id="m0006" participant="131348" time="2013-07-07 12:38:55 UTC">
+      <body>The air has me spoiled</body>
+    </message>
+    <message id="m0007" participant="134736" time="2013-07-07 12:40:10 UTC">
+      <body>Hahaha what does that mean</body>
+    </message>
+    <message id="m0008" participant="131348" time="2013-07-07 12:42:17 UTC">
+      <body>Air conditioning</body>
+    </message>
+    <message id="m0009" participant="134736" time="2013-07-07 12:46:08 UTC">
+      <body>Ac is def one of the best things ever</body>
+    </message>
+    <message id="m0010" participant="131348" time="2013-07-07 12:48:02 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0011" participant="131348" time="2013-07-07 13:15:33 UTC">
+      <body>What do you do for a living</body>
+    </message>
+    <message id="m0012" participant="134736" time="2013-07-07 13:18:16 UTC">
+      <body>Still an undergrad</body>
+    </message>
+    <message id="m0013" participant="134736" time="2013-07-07 13:18:52 UTC">
+      <body>How about you</body>
+    </message>
+    <message id="m0014" participant="134736" time="2013-07-07 13:18:52 UTC">
+      <body>I'm unemployed</body>
+    </message>
+    <message id="m0015" participant="131348" time="2013-07-07 13:19:13 UTC">
+      <body>Oh ok, what are you studying</body>
+    </message>
+    <message id="m0016" participant="131348" time="2013-07-07 13:20:34 UTC">
+      <body>I'm a parole officer but I'm about to quit and become a teacher</body>
+    </message>
+    <message id="m0017" participant="134736" time="2013-07-07 13:51:23 UTC">
+      <body>That's great! I'm also thinking of teaching</body>
+    </message>
+    <message id="m0018" participant="134736" time="2013-07-07 13:51:28 UTC">
+      <body>Sociology major</body>
+    </message>
+    <message id="m0019" participant="131348" time="2013-07-07 13:52:32 UTC">
+      <body>Great</body>
+    </message>
+  </messages>
+</conversation>

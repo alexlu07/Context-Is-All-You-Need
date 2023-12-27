@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131115.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-15 14:33:23 UTC" participant="152374">
+      <body>Do you want a lift out to #####'s tomorrow? You've been giving me rides forever, I definitely owe you one by now</body>
+    </message>
+    <message id="m0001" time="2013-11-15 14:34:01 UTC" participant="154093">
+      <body>Sounds good, sure</body>
+    </message>
+    <message id="m0002" time="2013-11-15 14:35:41 UTC" participant="152374">
+      <body>You okay with leaving a boy after 5 to be safe with traffic and parking? Maybe 5:10? There may be some detours in place for the marathon</body>
+    </message>
+    <message id="m0003" time="2013-11-15 14:36:18 UTC" participant="154093">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" time="2013-11-15 14:36:33 UTC" participant="152374">
+      <body>Cool. See you tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

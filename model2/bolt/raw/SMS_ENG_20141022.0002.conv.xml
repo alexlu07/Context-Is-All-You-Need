@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141022.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-22 15:44:47 UTC" participant="152417">
+      <body>I'm in 505, nothing else was open</body>
+    </message>
+    <message id="m0001" time="2014-10-22 15:44:53 UTC" participant="152574">
+      <body>Hey Gabi are we meeting on the seventh floor</body>
+    </message>
+    <message id="m0002" time="2014-10-22 15:45:04 UTC" participant="152574">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-10-22 15:45:04 UTC" participant="152574">
+      <body>See you soon!</body>
+    </message>
+    <message id="m0004" time="2014-10-22 15:55:44 UTC" participant="152574">
+      <body>Traffic sucks running a few minutes late</body>
+    </message>
+  </messages>
+</conversation>
+

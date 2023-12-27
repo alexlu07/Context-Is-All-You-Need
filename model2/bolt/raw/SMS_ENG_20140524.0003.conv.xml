@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140524.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-24 16:10:40 UTC" participant="152419">
+      <body>Gabi! What are you up to this fine day?</body>
+    </message>
+    <message id="m0001" time="2014-05-24 23:35:53 UTC" participant="152417">
+      <body>Grillin?</body>
+    </message>
+    <message id="m0002" time="2014-05-24 23:40:44 UTC" participant="152419">
+      <body>Got a migraine :[ Jill and Max and folks are grilling at Jill's though!</body>
+    </message>
+  </messages>
+</conversation>
+

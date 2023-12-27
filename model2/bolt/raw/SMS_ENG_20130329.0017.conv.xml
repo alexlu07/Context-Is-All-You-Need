@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130329.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131381" time="2013-03-29 04:06:30 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-29 04:16:59 UTC">
+      <body>hello. what's going on?</body>
+    </message>
+    <message id="m0002" participant="131381" time="2013-03-29 04:17:41 UTC">
+      <body>All kindsa crap.  As usual.   How are you?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-29 04:19:46 UTC">
+      <body>what kinda crap?
+
+i just got back to LA lastnight. on the way, i got the call that i'm kicked out of where i'm staying.
+
+that's the brief version.</body>
+    </message>
+    <message id="m0004" participant="131381" time="2013-03-29 04:30:14 UTC">
+      <body>Ooh ouch</body>
+    </message>
+    <message id="m0005" participant="131381" time="2013-03-29 05:54:05 UTC">
+      <body>Hopefully it was an amiable situation?  </body>
+    </message>
+  </messages>
+</conversation>

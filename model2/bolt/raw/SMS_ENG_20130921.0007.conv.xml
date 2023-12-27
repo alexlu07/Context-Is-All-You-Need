@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130921.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-21 12:55:03 UTC" participant="154352">
+      <body>call me when you wake up</body>
+    </message>
+    <message id="m0001" time="2013-09-21 14:12:46 UTC" participant="154352">
+      <body>Tallulah's inn, 5750 N Main St, Rock Hall, MD</body>
+    </message>
+    <message id="m0002" time="2013-09-21 14:26:50 UTC" participant="154390">
+      <body>Thanks, see you there!</body>
+    </message>
+    <message id="m0003" time="2013-09-21 17:37:18 UTC" participant="154390">
+      <body>What did u get for lunch?</body>
+    </message>
+  </messages>
+</conversation>
+

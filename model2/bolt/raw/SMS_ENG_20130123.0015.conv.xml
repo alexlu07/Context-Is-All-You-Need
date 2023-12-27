@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130123.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136137" time="2013-01-23 16:11:42 UTC">
+      <body>Hey you :)</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-23 16:12:39 UTC">
+      <body>hey. :) how've you been? </body>
+    </message>
+    <message id="m0002" participant="136137" time="2013-01-23 16:14:00 UTC">
+      <body>A bit under the weather, actually, but not bad. How about you?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-23 16:23:26 UTC">
+      <body>uh oh, got a cold? i'm doing well, i guess. </body>
+    </message>
+    <message id="m0004" participant="136137" time="2013-01-23 16:27:47 UTC">
+      <body>Not sure, really. Just been wicked tired. You guess?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-01-23 16:50:18 UTC">
+      <body>maybe i should've just said "i'm okay." </body>
+    </message>
+    <message id="m0006" participant="136137" time="2013-01-23 16:56:04 UTC">
+      <body>That does sound less sad.</body>
+    </message>
+  </messages>
+</conversation>

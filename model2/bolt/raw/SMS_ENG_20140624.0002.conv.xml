@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140624.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-24 12:56:32 UTC" participant="152480">
+      <body>How much was the 20 visit card for woolen mill?</body>
+    </message>
+    <message id="m0001" time="2014-06-24 19:39:47 UTC" participant="152417">
+      <body>We got a new years special, im not sure how much it would be now</body>
+    </message>
+    <message id="m0002" time="2014-06-25 02:18:14 UTC" participant="152417">
+      <body>Can you come to honky tonk?  Wrong numbers are filling in!</body>
+    </message>
+    <message id="m0003" time="2014-06-25 02:44:16 UTC" participant="152480">
+      <body>I can't- I have to work 8AM in Hinesburg tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

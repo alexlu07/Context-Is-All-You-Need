@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140314.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-14 11:17:56 UTC" participant="153547">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0001" time="2014-03-14 11:18:11 UTC" participant="153584">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-03-14 11:18:50 UTC" participant="153547">
+      <body>B there in 10 minutes</body>
+    </message>
+    <message id="m0003" time="2014-03-14 21:47:44 UTC" participant="153584">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2014-03-14 22:02:40 UTC" participant="153584">
+      <body>Lol</body>
+    </message>
+  </messages>
+</conversation>
+

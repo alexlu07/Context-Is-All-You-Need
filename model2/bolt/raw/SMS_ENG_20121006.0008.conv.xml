@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121006.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-10-06 04:58:40 UTC">
+      <body>I just saw you are going to LA in a few weeks!  Do you want me to see if Heather can get you all into Universal Studios?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-10-06 19:07:23 UTC">
+      <body>Why not? :-P</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-10-06 23:02:24 UTC">
+      <body>Are all 19 of you traveling to LA?</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-10-07 17:25:10 UTC">
+      <body>Did</body>
+    </message>
+  </messages>
+</conversation>

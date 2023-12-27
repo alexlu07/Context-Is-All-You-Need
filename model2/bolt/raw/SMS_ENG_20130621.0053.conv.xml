@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-21 02:33:33 UTC">
+      <body>Happy Birthday</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-21 03:02:04 UTC">
+      <body>Kathy called you an old fogey</body>
+    </message>
+    <message id="m0002" participant="131506" time="2013-06-21 12:18:08 UTC">
+      <body>Lol tis true, thank you both.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-06-21 15:14:05 UTC">
+      <body>We're handing to Long Island on Saturday morning to pick up a kitten. We'll be back probably around 3 or 4. Feel like stopping by? You can show off your new kickboxing skills.</body>
+    </message>
+  </messages>
+</conversation>

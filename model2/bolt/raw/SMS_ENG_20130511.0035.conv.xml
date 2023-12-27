@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130511.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135353" time="2013-05-11 21:04:07 UTC">
+      <body>Come visit some time</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-12 00:04:16 UTC">
+      <body>I wanna</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-12 00:13:39 UTC">
+      <body>Ill be in ny maybe the 22</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-12 00:14:10 UTC">
+      <body>Should we plan a big slumber party</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-12 00:14:19 UTC">
+      <body>With Remy</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-12 00:14:23 UTC">
+      <body>Then I'm going to Philly that weekend if u wanna join</body>
+    </message>
+    <message id="m0006" participant="135353" time="2013-05-12 00:16:48 UTC">
+      <body>Yeah lets party. Im going upstate that wknd but hang in ny for sure</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-05-12 00:18:53 UTC">
+      <body>Ok great.  I'm pysched. Wish Ricky could be there too. </body>
+    </message>
+    <message id="m0008" participant="135353" time="2013-05-12 00:32:40 UTC">
+      <body>He'll be here next weekend</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-05-12 00:33:27 UTC">
+      <body>Ahhhh that's so cool. I won't </body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-05-12 00:33:31 UTC">
+      <body>Be there though</body>
+    </message>
+  </messages>
+</conversation>

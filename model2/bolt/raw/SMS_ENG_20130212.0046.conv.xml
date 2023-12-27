@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130212.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137257" time="2013-02-12 04:41:36 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-02-12 04:42:22 UTC">
+      <body>I need a new brush for my electric toothbrush </body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-02-13 04:16:56 UTC">
+      <body>Just found out we have to pay for more college stuff</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-02-13 04:17:46 UTC">
+      <body>We  will talk about it</body>
+    </message>
+  </messages>
+</conversation>

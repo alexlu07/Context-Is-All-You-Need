@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0068" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-18 22:44:02 UTC">
+      <body>Who are you going to prom with? </body>
+    </message>
+    <message id="m0001" participant="137312" time="2013-04-18 22:54:40 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-19 02:22:47 UTC">
+      <body>You asked me to my first high school dance and my last high school dance! </body>
+    </message>
+    <message id="m0003" participant="137312" time="2013-04-19 02:30:54 UTC">
+      <body>Ah! That's crazy! Full circle...</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-04-20 01:29:23 UTC">
+      <body>You wanna have a party</body>
+    </message>
+    <message id="m0005" participant="137312" time="2013-04-20 01:30:14 UTC">
+      <body>Yes....tomorrow night...? Im in new jersey tonight</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-04-20 01:31:34 UTC">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>

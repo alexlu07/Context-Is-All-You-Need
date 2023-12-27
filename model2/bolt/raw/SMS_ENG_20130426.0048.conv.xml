@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135291" time="2013-04-26 23:00:16 UTC">
+      <body>Hey you in your suite?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-26 23:00:57 UTC">
+      <body>Nope sorry</body>
+    </message>
+    <message id="m0002" participant="135291" time="2013-04-26 23:01:31 UTC">
+      <body>Do you know any one who is? (We're supposed to be meeting Emily for dinner, but I think she may have fallen asleep)</body>
+    </message>
+    <message id="m0003" participant="135291" time="2013-04-26 23:08:48 UTC">
+      <body>Tried her but she didn't text back. Oh well, I'm sure Emily needs the sleep</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-26 23:09:03 UTC">
+      <body>Christy?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131220.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-20 17:28:12 UTC" participant="153548">
+      <body>Hi Nellie! It's Lindsey. I was wondering if you would be interested in having my small couch. Otherwise I am going to donate it. Let me know!</body>
+    </message>
+    <message id="m0001" time="2013-12-20 17:33:52 UTC" participant="153646">
+      <body>I would love to see it. Whenever you're around. I glanced at it that morning I was at your place......thank you so much for the consideration.</body>
+    </message>
+    <message id="m0002" time="2013-12-20 17:35:28 UTC" participant="153548">
+      <body>Sure! I will be in and out of the apartment cleaning tomorrow and Sunday. I'll leave the door open and you can come up and take a look!</body>
+    </message>
+    <message id="m0003" time="2013-12-20 17:43:07 UTC" participant="153646">
+      <body>Awesome !</body>
+    </message>
+  </messages>
+</conversation>
+

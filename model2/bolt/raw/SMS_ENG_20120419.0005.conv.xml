@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120419.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131341" time="2012-04-19 16:25:36 UTC">
+      <body>Hi Noah. Are you good to talk at 3 today?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-19 16:26:34 UTC">
+      <body>3 sounds good</body>
+    </message>
+    <message id="m0002" participant="131341" time="2012-04-19 16:29:52 UTC">
+      <body>I'll call you then</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-19 16:31:48 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

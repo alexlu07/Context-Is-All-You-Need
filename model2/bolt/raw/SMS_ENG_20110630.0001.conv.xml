@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110630.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-30 21:30:35 UTC">
+      <body>What are you and the mister doing tonight?</body>
+    </message>
+    <message id="m0001" participant="135114" time="2011-06-30 22:05:01 UTC">
+      <body>I have a bacholerette party tonight. Boo</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-30 23:27:47 UTC">
+      <body> Ah man too bad. What are you doing on the fourth?</body>
+    </message>
+    <message id="m0003" participant="135114" time="2011-06-30 23:43:00 UTC">
+      <body>Not sure yet what are you up to?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-30 23:43:30 UTC">
+      <body>Me neither... I want to see some fireworks though!</body>
+    </message>
+    <message id="m0005" participant="135114" time="2011-06-30 23:44:58 UTC">
+      <body>Us too!! You should come with us somewhere!! I will check it out on the interweb</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-06-30 23:45:28 UTC">
+      <body>Yea! :)</body>
+    </message>
+  </messages>
+</conversation>

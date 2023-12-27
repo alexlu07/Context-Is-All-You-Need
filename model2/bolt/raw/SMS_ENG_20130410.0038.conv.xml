@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-10 16:03:15 UTC">
+      <body>are you still thinking you're not gonna take that 8:30 yoga? </body>
+    </message>
+    <message id="m0001" participant="136196" time="2013-04-10 16:04:00 UTC">
+      <body>Definitely not</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-10 16:04:26 UTC">
+      <body>kk. it's full, but will you save it for me for add drop swap? </body>
+    </message>
+    <message id="m0003" participant="136196" time="2013-04-10 16:09:59 UTC">
+      <body>For sure!</body>
+    </message>
+  </messages>
+</conversation>

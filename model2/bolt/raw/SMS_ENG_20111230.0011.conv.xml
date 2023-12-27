@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111230.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131539" time="2011-12-30 17:50:04 UTC">
+      <body>Last chance to throw your name in the hat for dinner with President Obama and the First Lady: http://txt.bo/1g/he361 To unsubscribe, reply STOP</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-30 18:43:53 UTC">
+      <body>STOP</body>
+    </message>
+    <message id="m0002" participant="131539" time="2011-12-30 18:44:11 UTC">
+      <body>Sorry to see you go. You will no longer receive texts from Obama for America. If you change your mind, text back JOIN. Learn more at www.barackobama.com.</body>
+    </message>
+  </messages>
+</conversation>

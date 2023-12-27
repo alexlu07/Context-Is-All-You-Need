@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-06-05 18:04:03 UTC">
+      <body>Hey! How are you?</body>
+    </message>
+    <message id="m0001" participant="130688" time="2013-06-05 18:09:22 UTC">
+      <body>Super sleepy. Had to work at 7am. How about you?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-06-05 21:14:45 UTC">
+      <body>Just leaving the studio now. Tired. Not feeling great. Now, I have to drive across town for a family dinner. Blech.</body>
+    </message>
+  </messages>
+</conversation>

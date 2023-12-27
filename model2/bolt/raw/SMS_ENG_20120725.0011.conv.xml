@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120725.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-25 16:01:58 UTC">
+      <body>Nothin</body>
+    </message>
+    <message id="m0001" participant="136213" time="2012-07-25 16:02:08 UTC">
+      <body>Sup today</body>
+    </message>
+    <message id="m0002" participant="136213" time="2012-07-25 16:02:08 UTC">
+      <body>???</body>
+    </message>
+    <message id="m0003" participant="136213" time="2012-07-25 16:02:08 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0004" participant="136213" time="2012-07-26 03:26:56 UTC">
+      <body>Where you at now?!</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-26 03:30:14 UTC">
+      <body>Still in the Bronx</body>
+    </message>
+    <message id="m0006" participant="136213" time="2012-07-26 03:31:12 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0007" participant="136213" time="2012-07-26 03:31:12 UTC">
+      <body>John and I aren't sure where we're going yet or which house we're sleeping at</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-07-26 03:32:55 UTC">
+      <body>Kk~</body>
+    </message>
+  </messages>
+</conversation>

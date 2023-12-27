@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-10 22:40:47 UTC">
+      <body>Hey! Question for you: do penn employees get any of the penn breaks off from work?</body>
+    </message>
+    <message id="m0001" participant="135290" time="2013-04-11 00:08:34 UTC">
+      <body>Like spring and fall break? No, but there is a good winter holiday break (christmas through new years). There is a list of holidays somewhere on the website.</body>
+    </message>
+    <message id="m0002" participant="135290" time="2013-04-11 00:09:23 UTC">
+      <body>"Good" as compared to normal employees at other places, not students haha</body>
+    </message>
+  </messages>
+</conversation>

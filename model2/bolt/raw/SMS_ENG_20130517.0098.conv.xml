@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0098" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-17 20:46:39 UTC" participant="152116">
+      <body>Did you move anything out yet ?</body>
+    </message>
+    <message id="m0001" time="2013-05-17 20:48:22 UTC" participant="153244">
+      <body>No why?</body>
+    </message>
+    <message id="m0002" time="2013-05-17 20:48:40 UTC" participant="153244">
+      <body>Didn't go home after work yet. Getting my perm right now</body>
+    </message>
+    <message id="m0003" time="2013-05-17 20:48:52 UTC" participant="153244">
+      <body>Steph still at work</body>
+    </message>
+    <message id="m0004" time="2013-05-17 20:49:44 UTC" participant="152116">
+      <body>Just trying to see if I could drop stuff off today before going out but it's okay</body>
+    </message>
+    <message id="m0005" time="2013-05-17 20:59:01 UTC" participant="153244">
+      <body>Ohh I can call you when done salon. You can put in our living room until we move things. Moving everything tonight</body>
+    </message>
+    <message id="m0006" time="2013-05-17 21:27:37 UTC" participant="152116">
+      <body>Nah that's okay. I'll just do it tomrrow when the rooms clear</body>
+    </message>
+    <message id="m0007" time="2013-05-17 21:43:28 UTC" participant="153244">
+      <body>Done at salon</body>
+    </message>
+  </messages>
+</conversation>
+

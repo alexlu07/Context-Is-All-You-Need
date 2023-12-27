@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120806.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-08-06 01:18:41 UTC">
+      <body>It's so cute!!!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-08-06 04:28:56 UTC">
+      <body>I can't find a NY Times here at all, f ing ######!  Could you get me one so I can pick it up when I'm there?</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-08-06 14:10:57 UTC">
+      <body>Found the times!  Have my own copy now :-)  love you!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-08-06 14:20:19 UTC">
+      <body>Oh, good! I was just crowdsourcing some copies from the neighborhood.</body>
+    </message>
+    <message id="m0004" participant="131023" time="2012-08-06 14:36:44 UTC">
+      <body>No prob, showing it off around here!</body>
+    </message>
+  </messages>
+</conversation>

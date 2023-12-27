@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135467" time="2013-02-16 18:36:46 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-16 18:59:00 UTC">
+      <body>Hi.  Love u!!!</body>
+    </message>
+    <message id="m0002" participant="135467" time="2013-02-16 19:04:35 UTC">
+      <body>What's doing today? any news about the media lab?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-16 19:06:56 UTC">
+      <body>Oh no I decided not to go over there.  Ha.  Maybe Next semester </body>
+    </message>
+    <message id="m0004" participant="135467" time="2013-02-16 19:07:44 UTC">
+      <body>Why?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-16 19:32:44 UTC">
+      <body>In meeting</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-02-16 19:33:27 UTC">
+      <body>Sorry I might have some time to talk on Monday</body>
+    </message>
+    <message id="m0007" participant="135467" time="2013-02-16 19:34:01 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-01-26 21:04:19 UTC">
+      <body>$43.69 IPA variety pack?</body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-01-26 21:04:38 UTC">
+      <body>No!!!</body>
+    </message>
+    <message id="m0002" participant="131502" time="2013-01-26 21:05:04 UTC">
+      <body>I was thinking more in the $25-30 range. Maybe that's too cheap for ipa?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-26 21:05:30 UTC">
+      <body>Oh! That other brand of IPA we liked was Founders. But it was expensive.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-01-26 21:05:42 UTC">
+      <body>That's kind of Cheap.</body>
+    </message>
+    <message id="m0005" participant="131502" time="2013-01-26 21:05:59 UTC">
+      <body>Ok. Well sure then.</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-01-26 21:08:14 UTC">
+      <body>Flying Dog snake dog in cans runs $36</body>
+    </message>
+    <message id="m0007" participant="131502" time="2013-01-26 21:08:28 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" participant="131502" time="2013-01-26 21:08:31 UTC">
+      <body>Get that</body>
+    </message>
+    <message id="m0009" participant="131502" time="2013-01-26 21:08:49 UTC">
+      <body>I'm hungry and need to go home.</body>
+    </message>
+    <message id="m0010" participant="131502" time="2013-01-26 21:13:08 UTC">
+      <body>Hurry up</body>
+    </message>
+  </messages>
+</conversation>

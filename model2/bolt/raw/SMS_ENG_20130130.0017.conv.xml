@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130130.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-30 06:14:10 UTC">
+      <body>I'm eating at 9:20 if you feel like waking up early! If not no worries</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-01-30 06:15:06 UTC">
+      <body>K, i probably will.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-01-30 06:16:21 UTC">
+      <body>Awesome :)</body>
+    </message>
+  </messages>
+</conversation>

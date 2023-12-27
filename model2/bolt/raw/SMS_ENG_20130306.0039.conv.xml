@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2013-03-06 13:27:45 UTC">
+      <body>Heyy</body>
+    </message>
+    <message id="m0001" participant="135395" time="2013-03-06 13:27:45 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-06 13:34:22 UTC">
+      <body>Goood good what's up</body>
+    </message>
+    <message id="m0003" participant="135395" time="2013-03-06 13:44:40 UTC">
+      <body>Not too much</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-06 14:44:39 UTC">
+      <body>I'm almost on spring break!</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-06 14:45:19 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-06 14:45:29 UTC">
+      <body>How was dinner?</body>
+    </message>
+    <message id="m0007" participant="135395" time="2013-03-06 14:47:42 UTC">
+      <body>Yay!! It was good, we missed you. How long is spring break? Mine is on the 18th</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-06 14:48:09 UTC">
+      <body>Just a week</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-03-06 14:48:24 UTC">
+      <body>But  I'm going to try to work</body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-03-06 14:50:05 UTC">
+      <body>Eeeeks. </body>
+    </message>
+    <message id="m0011" participant="135395" time="2013-03-06 14:50:26 UTC">
+      <body>What</body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-03-06 14:50:27 UTC">
+      <body>Gotta figure it out. It was so nice to see Gina!</body>
+    </message>
+    <message id="m0013" participant="135395" time="2013-03-06 14:51:20 UTC">
+      <body>Yeah!!</body>
+    </message>
+    <message id="m0014" participant="135395" time="2013-03-06 14:51:23 UTC">
+      <body>Me too</body>
+    </message>
+    <message id="m0015" participant="130622" time="2013-03-06 18:16:11 UTC">
+      <body>What you doing tonight</body>
+    </message>
+    <message id="m0016" participant="135395" time="2013-03-06 22:45:20 UTC">
+      <body>Homework</body>
+    </message>
+  </messages>
+</conversation>

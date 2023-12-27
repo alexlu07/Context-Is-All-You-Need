@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130805.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-05 19:25:12 UTC" participant="152118">
+      <body>Hey john! How are ya feeling?</body>
+    </message>
+    <message id="m0001" time="2013-08-05 21:26:08 UTC" participant="153418">
+      <body>I was kinda hungover in the morning, but was fine after dealing with annoying things at work. How are you feeling?</body>
+    </message>
+    <message id="m0002" time="2013-08-05 22:34:53 UTC" participant="152118">
+      <body>I'm good. Just tired. It was fun watching you, my friend. Haha. We must do it again one day.</body>
+    </message>
+  </messages>
+</conversation>
+

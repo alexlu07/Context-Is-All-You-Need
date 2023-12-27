@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-02-28 18:10:03 UTC">
+      <body>hey, ken...
+any runs today?</body>
+    </message>
+    <message id="m0001" participant="131361" time="2013-02-28 21:21:59 UTC">
+      <body>Sorry, missed this text. I will need some runs tomorrow but call me before coming in.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-02-28 21:53:12 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0003" participant="131361" time="2013-03-01 21:48:49 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-03-01 21:50:11 UTC">
+      <body>on my way to lees.</body>
+    </message>
+    <message id="m0005" participant="131361" time="2013-03-01 21:51:09 UTC">
+      <body>Duh!  Sorry, I forgot about that.</body>
+    </message>
+  </messages>
+</conversation>

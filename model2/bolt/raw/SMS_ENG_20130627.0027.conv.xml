@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136139" time="2013-06-27 18:16:16 UTC">
+      <body>Hey yo. Where am I picking you up at tonight?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-27 18:36:57 UTC">
+      <body>the greyhound station, i'll google it and fb it to you </body>
+    </message>
+    <message id="m0002" participant="136139" time="2013-06-27 18:59:31 UTC">
+      <body>Thank you chica. </body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-27 18:59:52 UTC">
+      <body>no, thank you! haha </body>
+    </message>
+  </messages>
+</conversation>

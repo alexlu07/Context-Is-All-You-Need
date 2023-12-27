@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140417.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-17 22:05:30 UTC" participant="153547">
+      <body>I'm grilling a whole chicken and drinking a case of beer if you don't have plans</body>
+    </message>
+    <message id="m0001" time="2014-04-17 22:09:49 UTC" participant="153562">
+      <body>Whooaaa. Haha. I have a party at the new bike shop in brewerytown to go to... :(</body>
+    </message>
+    <message id="m0002" time="2014-04-17 22:19:10 UTC" participant="153547">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

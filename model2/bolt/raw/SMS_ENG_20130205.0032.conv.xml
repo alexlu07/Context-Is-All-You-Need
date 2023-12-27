@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-05 01:42:48 UTC">
+      <body>U watching cuse? </body>
+    </message>
+    <message id="m0001" participant="134300" time="2013-02-05 01:43:53 UTC">
+      <body>No still at work. Recording at home. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-02-05 01:44:12 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" participant="134300" time="2013-02-05 01:45:00 UTC">
+      <body>Thanks reminding me though. </body>
+    </message>
+    <message id="m0004" participant="134300" time="2013-02-05 02:42:30 UTC">
+      <body>Advanced</body>
+    </message>
+  </messages>
+</conversation>

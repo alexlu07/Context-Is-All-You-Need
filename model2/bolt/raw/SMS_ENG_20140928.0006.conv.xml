@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140928.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-28 18:42:08 UTC" participant="152768">
+      <body>Hey what's up, I'm back :) </body>
+    </message>
+    <message id="m0001" time="2014-09-28 18:59:43 UTC" participant="152735">
+      <body>Hiiii !</body>
+    </message>
+    <message id="m0002" time="2014-09-28 18:59:56 UTC" participant="152735">
+      <body>How was your trip </body>
+    </message>
+    <message id="m0003" time="2014-09-28 19:12:00 UTC" participant="152768">
+      <body>It was great how was your weekend </body>
+    </message>
+    <message id="m0004" time="2014-09-28 19:37:31 UTC" participant="152768">
+      <body>Create any master pieces while I was away </body>
+    </message>
+    <message id="m0005" time="2014-09-28 20:23:55 UTC" participant="152735">
+      <body>Eh I'm working on a collaborative video for the ICA open call and it's due on the 30th so I've just been 100% focused on that. Can we shoot to hang out Tuesday night maybe? I'll text to confirm when it's closer to that time I guess ?</body>
+    </message>
+    <message id="m0006" time="2014-09-28 20:24:03 UTC" participant="152735">
+      <body>Where do you live again?</body>
+    </message>
+  </messages>
+</conversation>
+

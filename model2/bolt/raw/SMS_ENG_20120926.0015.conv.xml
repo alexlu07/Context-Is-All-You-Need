@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120926.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136270" time="2012-09-26 02:50:40 UTC">
+      <body>I'm gonna eat mine in like an hour</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-26 02:50:47 UTC">
+      <body>Sushi party?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-26 02:52:08 UTC">
+      <body>Ok I'll wait</body>
+    </message>
+  </messages>
+</conversation>

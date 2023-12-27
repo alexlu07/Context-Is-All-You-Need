@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121024.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-10-24 22:59:06 UTC">
+      <body>Thinking of getting a tattoo. Do you have any advice?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-10-24 23:55:10 UTC">
+      <body>Oh wow, what are you thinking of? It's a good time of year to get one, no more swimming </body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-10-25 00:06:19 UTC">
+      <body>I can decide. I want Liam sparked to do it and he'llbe in town soon.  Liamsparkes.com</body>
+    </message>
+    <message id="m0003" participant="131055" time="2012-10-25 00:08:03 UTC">
+      <body>I mean can't.</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-10-25 02:24:05 UTC">
+      <body>Those are great. I like the fox.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-06 19:51:02 UTC" participant="153786">
+      <body>If you're still looking for ######, he's at the poster session in the 3rd floor ####### atrium right now :)</body>
+    </message>
+    <message id="m0001" time="2013-03-06 19:51:48 UTC" participant="152374">
+      <body>Dammit! I can't leave right now. Tell him I said hi, would you?</body>
+    </message>
+    <message id="m0002" time="2013-03-06 20:06:28 UTC" participant="153786">
+      <body>I'm not sure he even knows me …</body>
+    </message>
+  </messages>
+</conversation>
+

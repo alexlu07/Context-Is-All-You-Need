@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110815.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-15 15:21:15 UTC">
+      <body>Can you check your email soon?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-08-16 12:06:25 UTC">
+      <body>I need your zip code</body>
+    </message>
+    <message id="m0003" participant="135103" time="2011-08-16 12:07:47 UTC">
+      <body>To send you pat's card</body>
+    </message>
+  </messages>
+</conversation>

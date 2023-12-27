@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140712.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-12 00:55:38 UTC" participant="153547">
+      <body>Send me Tristan's # please</body>
+    </message>
+    <message id="m0001" time="2014-07-12 00:57:36 UTC" participant="153557">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2014-07-12 03:07:44 UTC" participant="153557">
+      <body>Don't forget olivia is in our room tonight! Don't want drunkypoo to accidentally get in bed with her! Night love.</body>
+    </message>
+    <message id="m0003" time="2014-07-12 16:04:16 UTC" participant="153557">
+      <body>You gonna be awhile?</body>
+    </message>
+    <message id="m0004" time="2014-07-12 16:08:06 UTC" participant="153547">
+      <body>5 mn</body>
+    </message>
+    <message id="m0005" time="2014-07-12 16:08:27 UTC" participant="153557">
+      <body>Okay!</body>
+    </message>
+    <message id="m0006" time="2014-07-12 23:15:12 UTC" participant="153557">
+      <body>It's the lamp</body>
+    </message>
+    <message id="m0007" time="2014-07-12 23:16:51 UTC" participant="153547">
+      <body>What?</body>
+    </message>
+    <message id="m0008" time="2014-07-12 23:17:04 UTC" participant="153557">
+      <body>It's the projector lamp</body>
+    </message>
+  </messages>
+</conversation>
+

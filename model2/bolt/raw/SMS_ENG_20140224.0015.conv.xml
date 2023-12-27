@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140224.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-24 18:35:33 UTC" participant="153244">
+      <body>Hey you called me earlier?</body>
+    </message>
+    <message id="m0001" time="2014-02-24 18:36:12 UTC" participant="153894">
+      <body>Yes I did congrats on the car!! I'm leaving Philly next Monday</body>
+    </message>
+    <message id="m0002" time="2014-02-24 18:37:03 UTC" participant="153244">
+      <body>Thanks... maybe we can grab a coffee or lunch sometime this week/weekend before you leave</body>
+    </message>
+    <message id="m0003" time="2014-02-24 18:41:39 UTC" participant="153894">
+      <body>I love it  ######## congratulations</body>
+    </message>
+    <message id="m0004" time="2014-02-24 18:42:35 UTC" participant="153894">
+      <body>Let me know when it's a good time for you that we could grab coffee anytime after 4 is good for me</body>
+    </message>
+    <message id="m0005" time="2014-02-24 18:43:43 UTC" participant="153244">
+      <body>Ok.. mon and wed I work til 6.. tues til 730... but thurs and fri til 4</body>
+    </message>
+    <message id="m0006" time="2014-02-24 18:44:26 UTC" participant="153894">
+      <body>Okay you can pick me up!</body>
+    </message>
+    <message id="m0007" time="2014-02-24 18:44:45 UTC" participant="153244">
+      <body>How about thurs? </body>
+    </message>
+    <message id="m0008" time="2014-02-24 18:45:35 UTC" participant="153244">
+      <body>Cool.. tty then</body>
+    </message>
+  </messages>
+</conversation>
+

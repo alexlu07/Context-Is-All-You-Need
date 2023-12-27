@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121020.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-20 16:54:40 UTC">
+      <body>Jon! I have a silly question.  I am writing a paper on aspirations of current dynamic media technology and I want to reference time hop!!! Could I interview you maybe?  It would take ten minutes, perhaps Sunday after four?  No Pressure. I just want to say really good things about the aspirations of timehop.</body>
+    </message>
+    <message id="m0001" participant="135434" time="2012-10-20 17:46:40 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-20 17:53:37 UTC">
+      <body>Cooool so I'll give you a call tomorrow afternoon</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-20 17:53:58 UTC">
+      <body>I must say I am excited about this!</body>
+    </message>
+    <message id="m0004" participant="135434" time="2012-10-20 17:55:12 UTC">
+      <body>Okay!</body>
+    </message>
+  </messages>
+</conversation>

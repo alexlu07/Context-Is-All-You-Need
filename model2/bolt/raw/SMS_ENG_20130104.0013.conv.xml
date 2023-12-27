@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135396" time="2013-01-04 23:25:46 UTC">
+      <body>What time you guyz going to adamz</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-04 23:28:10 UTC">
+      <body>830 around them</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-04 23:28:14 UTC">
+      <body>I'm hi</body>
+    </message>
+    <message id="m0003" participant="135396" time="2013-01-04 23:29:22 UTC">
+      <body>Rite on</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-04 23:30:15 UTC">
+      <body>U b back by then maybe?</body>
+    </message>
+    <message id="m0005" participant="135396" time="2013-01-04 23:32:26 UTC">
+      <body>Yeah maby 9 9:30</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-05 03:24:59 UTC">
+      <body>Come in the front</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-01-05 03:25:04 UTC">
+      <body>The back is locked</body>
+    </message>
+  </messages>
+</conversation>

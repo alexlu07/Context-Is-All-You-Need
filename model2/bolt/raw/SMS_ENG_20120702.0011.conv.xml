@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120702.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-02 01:24:28 UTC">
+      <body>Hey drew  how are you? I wanted to invite you and Jenna to the shop on Friday for first Friday i  would really love to see you both!! love you</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-02 01:25:05 UTC">
+      <body>Also Dan doesn't have a phone so if you want to see him go to the house or the shop.  </body>
+    </message>
+    <message id="m0002" participant="135399" time="2012-07-02 17:01:21 UTC">
+      <body>Ill be there</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-02 17:02:52 UTC">
+      <body>Yay. I got an iPhone too</body>
+    </message>
+    <message id="m0004" participant="135399" time="2012-07-02 17:04:15 UTC">
+      <body>Gross. But fun.</body>
+    </message>
+  </messages>
+</conversation>

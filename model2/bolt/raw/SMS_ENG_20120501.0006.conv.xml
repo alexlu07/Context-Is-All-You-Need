@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120501.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2012-05-01 00:57:38 UTC">
+      <body>Hope you and Johnny are having an amazing time! I'm considering doing summer sessions starting late June so I may move into the apartment for the summer,</body>
+    </message>
+    <message id="m0001" participant="131063" time="2012-05-01 00:58:45 UTC">
+      <body> I'll know in the next few wks and keep you guys posted</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-05-01 00:59:29 UTC">
+      <body>Yeah definitely, that'd be tight. It doesn't look too good for us to find sublets anyway</body>
+    </message>
+  </messages>
+</conversation>

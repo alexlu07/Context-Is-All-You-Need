@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-01-02 00:48:12 UTC">
+      <body>Hey, do you think you guys might want to meet up and get dinner together or something friday?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-02 03:23:57 UTC">
+      <body>Sure! :D I can't wait to see you!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-01-02 03:36:39 UTC">
+      <body>Yay! me too!  i'll call you closer to friday to figure out time\place. cool?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-02 03:36:59 UTC">
+      <body>Ok :)</body>
+    </message>
+  </messages>
+</conversation>

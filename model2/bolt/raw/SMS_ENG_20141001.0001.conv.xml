@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141001.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-01 16:01:07 UTC" participant="152117">
+      <body>Eden, ernie sent u a funny video about a spider for me. My phone won't accept it. Don't delete it. Show it to dad and michael tonight. Love u!</body>
+    </message>
+    <message id="m0001" time="2014-10-01 16:15:13 UTC" participant="152115">
+      <body>Ok. I saw it but didn't open it because I didn't know what it was.</body>
+    </message>
+    <message id="m0002" time="2014-10-01 16:15:51 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

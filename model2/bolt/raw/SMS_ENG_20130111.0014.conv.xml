@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130111.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2013-01-11 23:00:15 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0001" participant="135354" time="2013-01-11 23:03:37 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-12 01:05:09 UTC">
+      <body>Duh</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-12 01:05:19 UTC">
+      <body>So good</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-12 01:05:23 UTC">
+      <body>Inside outside</body>
+    </message>
+    <message id="m0005" participant="135354" time="2013-01-12 01:06:54 UTC">
+      <body>Can't wait to work w you on all this !!!!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-12 01:07:20 UTC">
+      <body>Me too!!!! I'm so excited to be better</body>
+    </message>
+    <message id="m0007" participant="135354" time="2013-01-12 01:08:21 UTC">
+      <body>Yes but still take it slow for now. No relapses!!!</body>
+    </message>
+  </messages>
+</conversation>

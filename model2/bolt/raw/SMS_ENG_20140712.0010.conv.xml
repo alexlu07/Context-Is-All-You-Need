@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140712.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-12 01:02:59 UTC" participant="153547">
+      <body>Wanna play some ping pong?</body>
+    </message>
+    <message id="m0001" time="2014-07-12 02:57:04 UTC" participant="153579">
+      <body>Hey im at work ! Sorry </body>
+    </message>
+  </messages>
+</conversation>
+

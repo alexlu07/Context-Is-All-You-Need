@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-10 23:09:08 UTC" participant="152417">
+      <body>Hey bob, can i drop off the congas now?</body>
+    </message>
+    <message id="m0001" time="2013-06-10 23:10:19 UTC" participant="152521">
+      <body>I'm home right now but that would be fine</body>
+    </message>
+  </messages>
+</conversation>
+

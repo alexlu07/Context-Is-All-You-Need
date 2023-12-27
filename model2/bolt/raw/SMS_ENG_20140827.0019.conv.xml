@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140827.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-27 17:39:42 UTC" participant="153244">
+      <body>Picture?</body>
+    </message>
+    <message id="m0001" time="2014-08-27 17:40:15 UTC" participant="153900">
+      <body>What</body>
+    </message>
+    <message id="m0002" time="2014-08-27 17:42:20 UTC" participant="153244">
+      <body>Take picture of jersey</body>
+    </message>
+    <message id="m0003" time="2014-08-27 17:43:28 UTC" participant="153900">
+      <body>I am not at work but they are all the jersey look on line</body>
+    </message>
+    <message id="m0004" time="2014-08-27 21:32:20 UTC" participant="153244">
+      <body>Oh.. that's ok I dint want one anyway</body>
+    </message>
+    <message id="m0005" time="2014-08-27 21:32:54 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2014-08-28 01:30:31 UTC" participant="153244">
+      <body>Unlock the door in about 10 minutes.  Im stopping by</body>
+    </message>
+    <message id="m0007" time="2014-08-28 12:47:58 UTC" participant="153900">
+      <body>Hey do you want to take a little cooler with you</body>
+    </message>
+    <message id="m0008" time="2014-08-28 16:58:51 UTC" participant="153244">
+      <body>Maybe</body>
+    </message>
+    <message id="m0009" time="2014-08-28 16:59:47 UTC" participant="153900">
+      <body>Ok let of know and are you doing anything after work</body>
+    </message>
+    <message id="m0010" time="2014-08-28 17:00:38 UTC" participant="153244">
+      <body>Working til 8 then cleaning the house, washing clothes and packing</body>
+    </message>
+    <message id="m0011" time="2014-08-28 17:01:03 UTC" participant="153900">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>
+

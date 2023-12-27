@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150201.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2015-02-01 01:02:22 UTC" participant="152735">
+      <body>What is your address again?</body>
+    </message>
+    <message id="m0002" time="2015-02-01 01:40:06 UTC" participant="152735">
+      <body>I'll be there 9:20- does that work?</body>
+    </message>
+    <message id="m0003" time="2015-02-01 01:40:16 UTC" participant="152793">
+      <body>Yeah no problem </body>
+    </message>
+    <message id="m0004" time="2015-02-01 02:08:59 UTC" participant="152735">
+      <body>Here :) bring your iPhone charger if you have it bc my phones dying ! </body>
+    </message>
+    <message id="m0005" time="2015-02-01 02:09:09 UTC" participant="152735">
+      <body>I have a 5 hopefully you do too or maybe someone at the bar will </body>
+    </message>
+    <message id="m0006" time="2015-02-01 02:10:08 UTC" participant="152793">
+      <body>I have a 6 but I think it's the same charger </body>
+    </message>
+    <message id="m0007" time="2015-02-01 02:10:08 UTC" participant="152793">
+      <body>Be right down! </body>
+    </message>
+    <message id="m0008" time="2015-02-01 02:10:47 UTC" participant="152735">
+      <body>Yayayayay </body>
+    </message>
+    <message id="m0009" time="2015-02-01 02:10:49 UTC" participant="152735">
+      <body>Take your time </body>
+    </message>
+    <message id="m0010" time="2015-02-01 20:34:12 UTC" participant="152735">
+      <body>!! I have your charger! </body>
+    </message>
+    <message id="m0011" time="2015-02-01 20:35:12 UTC" participant="152793">
+      <body>Oh it's with you I totally forgot! How can I get it from you? </body>
+    </message>
+    <message id="m0012" time="2015-02-01 20:37:22 UTC" participant="152735">
+      <body>I'd bring it to you of course! Thank you for letting me borrow it </body>
+    </message>
+    <message id="m0013" time="2015-02-01 20:37:42 UTC" participant="152735">
+      <body>Can you hold off til tomorrow and I'll drop it at the crane? Or do you need it tonight? </body>
+    </message>
+    <message id="m0014" time="2015-02-01 20:38:26 UTC" participant="152793">
+      <body>Yeah that's perfect. I'll see you tomorrow </body>
+    </message>
+  </messages>
+</conversation>
+

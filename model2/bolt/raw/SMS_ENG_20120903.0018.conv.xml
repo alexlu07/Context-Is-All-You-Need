@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120903.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-03 17:34:03 UTC">
+      <body>Did you do any reading for the sacred texts class yet</body>
+    </message>
+    <message id="m0001" participant="136271" time="2012-09-03 17:36:00 UTC">
+      <body>Yeah I did all of them</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-03 17:37:17 UTC">
+      <body>I'm like halfway through. They are a little confusing</body>
+    </message>
+    <message id="m0003" participant="136271" time="2012-09-03 17:38:08 UTC">
+      <body>Yeah they're really confusing.. Haha. And it's so much reading. We should talk to her about it</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-03 17:53:02 UTC">
+      <body>Yeah I emailed her and she said things will really be clarified in class. It would probably be fine if you just skimmed the readings beforehand</body>
+    </message>
+    <message id="m0005" participant="136271" time="2012-09-03 17:53:04 UTC">
+      <body>Hmmm alright. She's giving way too much reading already haha</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-03 17:54:03 UTC">
+      <body>Definitely</body>
+    </message>
+  </messages>
+</conversation>

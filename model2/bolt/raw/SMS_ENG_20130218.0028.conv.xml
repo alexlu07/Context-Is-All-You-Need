@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-02-18 14:32:32 UTC">
+      <body>Please call. We r thinking of coming there now. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-18 14:35:28 UTC">
+      <body>Ok in a second </body>
+    </message>
+    <message id="m0002" participant="135397" time="2013-02-18 14:45:16 UTC">
+      <body>U need to be answering ur phone. Call now please</body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-02-18 15:02:24 UTC">
+      <body>Good. Thx for telling me</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-18 15:02:44 UTC">
+      <body>Mom I'm going to go back to sleep.  I'm fine.  Ill call you in a few hours. Leaving my phone on silent</body>
+    </message>
+    <message id="m0005" participant="135397" time="2013-02-19 13:47:40 UTC">
+      <body>Good. Good. </body>
+    </message>
+    <message id="m0006" participant="135397" time="2013-02-19 13:49:06 UTC">
+      <body>Good, too. U will be fine. But you can never not pay attention </body>
+    </message>
+    <message id="m0007" participant="135397" time="2013-02-19 21:19:14 UTC">
+      <body>Wanna get off the train in Stamford?</body>
+    </message>
+    <message id="m0008" participant="135397" time="2013-02-19 21:47:31 UTC">
+      <body>Oh sorry meant to only send tobwendys</body>
+    </message>
+    <message id="m0009" participant="135397" time="2013-02-19 21:47:38 UTC">
+      <body>To wendy</body>
+    </message>
+  </messages>
+</conversation>

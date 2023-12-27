@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130716.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-07-16 22:31:59 UTC">
+      <body>i don't think i can come early tomorrow like we talked about but i can come at 11 again if that works! </body>
+    </message>
+    <message id="m0001" participant="136382" time="2013-07-17 00:32:35 UTC">
+      <body>No worries. R u avx any evening to unload/organize le garage? When it's not so hot?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-07-17 00:33:19 UTC">
+      <body>any evening is fine, i could come in the evening tomorrow or at 11, whatever you prefer. </body>
+    </message>
+    <message id="m0003" participant="136382" time="2013-07-17 00:34:14 UTC">
+      <body>Lets shoot for tomorrow evening. After supper. About 6 or so.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-07-17 00:35:09 UTC">
+      <body>alrighty, see you then! </body>
+    </message>
+  </messages>
+</conversation>

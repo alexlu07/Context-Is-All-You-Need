@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120612.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-12 13:36:18 UTC">
+      <body>Hey, Nick! Can you send me your address? I'm trying to send Scott a birthday note but lost the details....</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-12 13:36:36 UTC">
+      <body>This is Martha - you may not have my #</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-06-12 13:38:35 UTC">
+      <body>Thanks, boiiiii. And aloha from Minnesota!</body>
+    </message>
+  </messages>
+</conversation>

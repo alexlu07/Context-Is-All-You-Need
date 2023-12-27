@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 02:51:49 UTC" participant="154401">
+      <body>Wanna hang out tomorow?</body>
+    </message>
+    <message id="m0001" time="2013-08-30 11:49:28 UTC" participant="154352">
+      <body>Can't make it this weekend.</body>
+    </message>
+    <message id="m0002" time="2013-08-30 15:59:53 UTC" participant="154401">
+      <body>No problem. are u free during the week? ;)</body>
+    </message>
+  </messages>
+</conversation>
+

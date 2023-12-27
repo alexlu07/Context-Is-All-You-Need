@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-17 14:01:10 UTC">
+      <body>Come get yo fridge before you leave! Tell Julianne I don't have her number!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-17 14:01:12 UTC">
+      <body>As in, tell Julianne also because I don't have her number!</body>
+    </message>
+    <message id="m0002" participant="135309" time="2013-05-17 16:30:46 UTC">
+      <body>Hey sorry I never responded. I'm packing so Julianne is going to pick it up. What time is the latest time to pick it up? </body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-17 16:33:27 UTC">
+      <body>There is no latest time (Lloyd 41 common room- come whenever) unless you need my help</body>
+    </message>
+    <message id="m0004" participant="135309" time="2013-05-17 16:36:16 UTC">
+      <body>Thanksssssssss </body>
+    </message>
+    <message id="m0005" participant="135309" time="2013-05-17 18:33:27 UTC">
+      <body>Hey Liza can I go say bye to you before I leave????? Ahhh I don't want to leave!!! </body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-17 18:34:00 UTC">
+      <body>Yes! And take your fridge!!!</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-05-17 18:34:11 UTC">
+      <body>I am in Lloyd 41B</body>
+    </message>
+  </messages>
+</conversation>

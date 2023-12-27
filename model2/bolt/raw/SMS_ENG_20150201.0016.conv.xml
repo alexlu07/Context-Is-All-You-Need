@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150201.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-01 17:39:19 UTC" participant="152119">
+      <body>Hi John! How are you doing? </body>
+    </message>
+    <message id="m0001" time="2015-02-01 18:04:02 UTC" participant="153418">
+      <body>I'm all right. As always, busy with work and house chores. How about you? </body>
+    </message>
+    <message id="m0002" time="2015-02-01 18:05:25 UTC" participant="153418">
+      <body>By the way, sorry about not being able to see you two weeks ago. That was the Sunday when there was freezing rain and there were accidents everywhere..so I wanted to get back to Baltimore early.</body>
+    </message>
+  </messages>
+</conversation>
+

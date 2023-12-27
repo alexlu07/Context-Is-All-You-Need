@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111003.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-10-03 23:29:20 UTC">
+      <body>We'll go with Friday just to be safe, if that's ok.</body>
+    </message>
+    <message id="m0001" participant="135143" time="2011-10-04 00:50:25 UTC">
+      <body>Friday will work.  It isn't better than Thursday just more backups.  Please be ready on Thursday in case Friday closes down.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-10-04 00:50:53 UTC">
+      <body>Definitely, sounds good.</body>
+    </message>
+  </messages>
+</conversation>

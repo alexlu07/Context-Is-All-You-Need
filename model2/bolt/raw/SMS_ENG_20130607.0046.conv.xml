@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-06-07 18:03:07 UTC">
+      <body>Clear. Headed back</body>
+    </message>
+    <message id="m0001" participant="131015" time="2013-06-07 19:26:29 UTC">
+      <body>I'm trying to move as fast as I can but its pretty congested out here. I was hoping for a little advice. That Norristown one is a little bit out the way. Would you hit it first or last?</body>
+    </message>
+    <message id="m0002" participant="136724" time="2013-06-07 19:30:29 UTC">
+      <body>Last</body>
+    </message>
+    <message id="m0003" participant="131015" time="2013-06-07 19:32:10 UTC">
+      <body>Ok.  Thanks.</body>
+    </message>
+  </messages>
+</conversation>

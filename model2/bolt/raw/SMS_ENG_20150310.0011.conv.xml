@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150310.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-10 22:11:12 UTC" participant="153305">
+      <body>Who's coming tomorrow night to dinner?</body>
+    </message>
+    <message id="m0001" time="2015-03-10 23:53:34 UTC" participant="152734">
+      <body>Yes: Bren, dev, Megan, you, me. Maybe: Emily, tanya</body>
+    </message>
+    <message id="m0002" time="2015-03-11 20:24:22 UTC" participant="153305">
+      <body>5:30 works for me</body>
+    </message>
+    <message id="m0003" time="2015-03-11 20:24:32 UTC" participant="153305">
+      <body>Im home - just need to shower </body>
+    </message>
+    <message id="m0004" time="2015-03-11 20:28:39 UTC" participant="153305">
+      <body>Did you work today???</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136196" time="2013-04-12 20:11:02 UTC">
+      <body>Hi. Diane wants to know if you're coming?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-12 20:11:24 UTC">
+      <body>i emailed her back! i'm walking there now! </body>
+    </message>
+    <message id="m0002" participant="136196" time="2013-04-13 16:06:13 UTC">
+      <body>The peeps are in :)</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-13 16:06:24 UTC">
+      <body>perfect, thanks!! </body>
+    </message>
+    <message id="m0004" participant="136196" time="2013-04-13 16:07:01 UTC">
+      <body>Np! Hope you have tons of fun with your bestie!!</body>
+    </message>
+  </messages>
+</conversation>

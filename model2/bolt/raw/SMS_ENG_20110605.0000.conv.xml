@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110605.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-05 19:45:23 UTC">
+      <body>iPhone acquired. Jelly?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2011-06-06 01:37:00 UTC">
+      <body>What's that drunk baby video?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-06 01:37:26 UTC">
+      <body>Baby at las palmas</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-06 19:18:28 UTC">
+      <body>where are you)</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-06 19:36:53 UTC">
+      <body>But for real weirdo</body>
+    </message>
+  </messages>
+</conversation>

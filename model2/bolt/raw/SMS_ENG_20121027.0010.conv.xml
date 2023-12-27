@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121027.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-10-27 21:29:21 UTC">
+      <body>Hey, you doing anything tonight? Feel like hanging out?</body>
+    </message>
+    <message id="m0001" participant="131504" time="2012-10-28 01:55:37 UTC">
+      <body>Thanks buddy im stuck up here gotta work</body>
+    </message>
+    <message id="m0002" participant="130706" time="2012-10-28 01:59:17 UTC">
+      <body>That's cool. If you've  been evicted, I mean evacuated,  and you can find a cot, you're welcome to sleep in our shed.</body>
+    </message>
+    <message id="m0003" participant="131504" time="2012-10-28 01:59:58 UTC">
+      <body>haha thanks man</body>
+    </message>
+    <message id="m0004" participant="130706" time="2012-10-28 02:01:42 UTC">
+      <body>It's got electricity, I mean, it's got electricity as long as the house has electricity.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110724.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135130" time="2011-07-24 02:19:23 UTC">
+      <body>Marthaaa. How about that drink? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-24 02:20:06 UTC">
+      <body>Sorry boy but I'm not in town. My best friend is home from NYC :)</body>
+    </message>
+    <message id="m0002" participant="135130" time="2011-07-24 02:21:11 UTC">
+      <body>Ahh next time then. Have a good night :) </body>
+    </message>
+  </messages>
+</conversation>

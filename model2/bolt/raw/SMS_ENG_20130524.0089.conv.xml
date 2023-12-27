@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0089" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136633" time="2013-05-24 00:38:02 UTC">
+      <body>What is a gd day for you to come change the pump?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-05-24 01:24:50 UTC">
+      <body>I sill need to instructions</body>
+    </message>
+    <message id="m0002" participant="136633" time="2013-05-24 01:25:48 UTC">
+      <body>You meant you need to read instructions?</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-05-24 02:17:32 UTC">
+      <body>I sent you the link before to the program that has instructions</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-05-24 02:17:41 UTC">
+      <body>For repairs</body>
+    </message>
+    <message id="m0005" participant="136633" time="2013-05-24 02:19:07 UTC">
+      <body>Ok.So what are you saying?I should read the instructions or look up the manual?</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-05-24 02:20:24 UTC">
+      <body>I need the instructions to do the repair. Its a program u can buy. You also need the parts</body>
+    </message>
+    <message id="m0007" participant="136633" time="2013-05-24 02:23:58 UTC">
+      <body>I can buy the parts.water pump  cost 200.if the program costs more than 100 i might as well take it to the mechanic.I will let you know </body>
+    </message>
+  </messages>
+</conversation>

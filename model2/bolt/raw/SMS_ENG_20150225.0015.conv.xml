@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 20:52:16 UTC" participant="153424">
+      <body>I just got Sam smith tickets for Baltimore </body>
+    </message>
+    <message id="m0001" time="2015-02-25 21:25:54 UTC" participant="153417">
+      <body>Awesome!!! He's really great.</body>
+    </message>
+    <message id="m0002" time="2015-02-25 23:10:56 UTC" participant="153424">
+      <body>I'm so excited. Except I didn't realize it's outside in July </body>
+    </message>
+    <message id="m0003" time="2015-02-25 23:11:48 UTC" participant="153417">
+      <body>Gross. Lol</body>
+    </message>
+    <message id="m0004" time="2015-02-25 23:13:04 UTC" participant="153424">
+      <body>Right. I'm hoping it won't be that bad... Fingers crossed. Like maybe it's by the water </body>
+    </message>
+    <message id="m0005" time="2015-02-25 23:22:47 UTC" participant="153417">
+      <body>Hopefully </body>
+    </message>
+    <message id="m0006" time="2015-02-25 23:23:25 UTC" participant="153424">
+      <body>Eh the price you pay. </body>
+    </message>
+  </messages>
+</conversation>
+

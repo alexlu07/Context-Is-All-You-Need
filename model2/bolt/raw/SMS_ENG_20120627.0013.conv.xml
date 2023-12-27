@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120627.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-27 23:25:48 UTC" participant="152374">
+      <body>Did you pick Utley up?</body>
+    </message>
+    <message id="m0001" time="2012-06-27 23:26:46 UTC" participant="153465">
+      <body>Totally forgot. U get him?</body>
+    </message>
+    <message id="m0002" time="2012-06-27 23:28:17 UTC" participant="152374">
+      <body>Absolutely not. But he just homered in his first at bat. Ruiz promptly followed him. Ha ha.</body>
+    </message>
+    <message id="m0003" time="2012-06-27 23:44:46 UTC" participant="153465">
+      <body>If I would have picked him up he would be 0 for 4. Remind me to tell u about zito tomorrow</body>
+    </message>
+    <message id="m0004" time="2012-06-27 23:48:42 UTC" participant="152374">
+      <body>Ha ha. Hey, Blanton is giving you a career year! He's leading in K per nine.</body>
+    </message>
+    <message id="m0005" time="2012-06-28 20:00:48 UTC" participant="152374">
+      <body>Have a good weekend, Greg!</body>
+    </message>
+    <message id="m0006" time="2012-06-28 20:03:43 UTC" participant="153465">
+      <body>Haha. You too Melissa</body>
+    </message>
+  </messages>
+</conversation>
+

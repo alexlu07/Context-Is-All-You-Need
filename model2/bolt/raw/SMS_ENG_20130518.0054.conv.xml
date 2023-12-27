@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-18 14:45:29 UTC">
+      <body>Still planning to come down today?</body>
+    </message>
+    <message id="m0001" participant="135271" time="2013-05-18 18:16:32 UTC">
+      <body>Hey Liza, I'm sorry I didn't let you know earlier. I was hoping things would work out but I couldn't get the money and timing together to make it out there for your graduation. I had a bunch of unexpected problems with my study abroad and class schedule  and expenses come up. I hope you'll forgive me for saying I would be there and not following through.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-18 18:18:27 UTC">
+      <body>Okay. It's cool no worries! I hope it all works out</body>
+    </message>
+    <message id="m0008" participant="135271" time="2013-05-20 15:57:52 UTC">
+      <body>HAAPPY BIRTDAY ESPOSITA! </body>
+    </message>
+    <message id="m0010" participant="135271" time="2013-05-20 16:12:48 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

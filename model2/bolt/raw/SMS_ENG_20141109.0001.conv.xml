@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141109.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-09 19:14:08 UTC" participant="152424">
+      <body>will you be back Monday night?  I'll have tons of food for dinner</body>
+    </message>
+    <message id="m0001" time="2014-11-09 21:30:05 UTC" participant="152417">
+      <body>Yep, yay!</body>
+    </message>
+    <message id="m0002" time="2014-11-10 15:19:37 UTC" participant="152417">
+      <body>Are other folks coming?/Should i bring a sampling of vt libations?</body>
+    </message>
+    <message id="m0003" time="2014-11-10 15:23:43 UTC" participant="152424">
+      <body>just my fam.  sure!</body>
+    </message>
+    <message id="m0004" time="2014-11-10 19:05:30 UTC" participant="152424">
+      <body>6pm dinner</body>
+    </message>
+  </messages>
+</conversation>
+

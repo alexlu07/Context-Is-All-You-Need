@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150224.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-24 16:53:49 UTC" participant="152116">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0001" time="2015-02-24 17:01:23 UTC" participant="153783">
+      <body>I'm grabbing salad at Houston and studying for my midterm I have in a hour</body>
+    </message>
+    <message id="m0002" time="2015-02-24 17:04:52 UTC" participant="152116">
+      <body>Oh okay. Good luck!</body>
+    </message>
+    <message id="m0003" time="2015-02-24 20:06:40 UTC" participant="153783">
+      <body>I absolutely failed that exam</body>
+    </message>
+    <message id="m0004" time="2015-02-24 20:11:50 UTC" participant="152116">
+      <body>I don't believe you</body>
+    </message>
+    <message id="m0005" time="2015-02-24 20:17:09 UTC" participant="153783">
+      <body>Of course. No one does</body>
+    </message>
+    <message id="m0006" time="2015-02-24 20:22:11 UTC" participant="152116">
+      <body>I especially don't</body>
+    </message>
+    <message id="m0007" time="2015-02-24 20:23:37 UTC" participant="153783">
+      <body>Ok...</body>
+    </message>
+    <message id="m0008" time="2015-02-25 05:03:23 UTC" participant="153783">
+      <body>I fixed my computer finally!</body>
+    </message>
+    <message id="m0009" time="2015-02-25 14:47:52 UTC" participant="152116">
+      <body>Good. Lunch today?</body>
+    </message>
+    <message id="m0010" time="2015-02-25 15:06:48 UTC" participant="153783">
+      <body>Sure</body>
+    </message>
+    <message id="m0011" time="2015-02-25 15:19:32 UTC" participant="152116">
+      <body>What time?</body>
+    </message>
+    <message id="m0012" time="2015-02-25 15:21:29 UTC" participant="153783">
+      <body>I have class at 2</body>
+    </message>
+    <message id="m0013" time="2015-02-25 15:21:53 UTC" participant="152116">
+      <body>Okay is 12:45 okay?</body>
+    </message>
+    <message id="m0014" time="2015-02-25 15:23:16 UTC" participant="152116">
+      <body>Oh crap. I have a 1 o'clock meeting.  11:30?</body>
+    </message>
+    <message id="m0015" time="2015-02-25 15:29:36 UTC" participant="153783">
+      <body>Ok</body>
+    </message>
+    <message id="m0016" time="2015-02-25 15:30:04 UTC" participant="152116">
+      <body>Okay cool. See you in an hour</body>
+    </message>
+    <message id="m0017" time="2015-02-25 16:24:46 UTC" participant="152116">
+      <body>Leaving now. I have to grab food real quick</body>
+    </message>
+    <message id="m0018" time="2015-02-25 16:36:04 UTC" participant="152116">
+      <body>Almost there</body>
+    </message>
+  </messages>
+</conversation>
+

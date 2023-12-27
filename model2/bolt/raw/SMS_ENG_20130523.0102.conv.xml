@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0102" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-23 17:31:32 UTC" participant="152417">
+      <body>Could you remind malcolm about tonight an ask him to be there at 5?</body>
+    </message>
+    <message id="m0001" time="2013-05-23 17:31:44 UTC" participant="152527">
+      <body>Yes just talked to him</body>
+    </message>
+  </messages>
+</conversation>
+

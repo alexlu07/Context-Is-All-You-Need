@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 01:37:04 UTC" participant="152127">
+      <body>Happy New Year !  Luv to you and Michael !</body>
+    </message>
+    <message id="m0001" time="2015-01-01 02:00:15 UTC" participant="152115">
+      <body>Thanks! Happy New Year! It's good you got me early. Getting ready for bed to go to work tomorrow. Love you.</body>
+    </message>
+    <message id="m0002" time="2015-01-01 02:04:17 UTC" participant="152127">
+      <body>Love u too I am going to bed soon myself!</body>
+    </message>
+  </messages>
+</conversation>
+

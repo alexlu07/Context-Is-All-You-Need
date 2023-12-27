@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150302.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-02 18:41:50 UTC" participant="152115">
+      <body>Hi! How's it going?</body>
+    </message>
+    <message id="m0001" time="2015-03-02 18:42:31 UTC" participant="152116">
+      <body>It's okay. I've been busy, which is good. What are you up to?</body>
+    </message>
+    <message id="m0002" time="2015-03-02 18:43:06 UTC" participant="152115">
+      <body>Just finished eating. I'm just trying relax and turn my mind off.</body>
+    </message>
+    <message id="m0003" time="2015-03-02 18:47:27 UTC" participant="152116">
+      <body>Good</body>
+    </message>
+    <message id="m0004" time="2015-03-02 18:47:38 UTC" participant="152116">
+      <body>Stop worrying about tomorrow.</body>
+    </message>
+    <message id="m0005" time="2015-03-02 18:48:25 UTC" participant="152115">
+      <body>Easier said than done! It will be easier once I can curl up in your arms and you can make me laugh.</body>
+    </message>
+    <message id="m0006" time="2015-03-02 18:51:19 UTC" participant="152116">
+      <body>:)</body>
+    </message>
+    <message id="m0007" time="2015-03-02 18:51:23 UTC" participant="152116">
+      <body>Very soon</body>
+    </message>
+    <message id="m0008" time="2015-03-03 16:48:14 UTC" participant="152116">
+      <body>Good luck. I love you.</body>
+    </message>
+    <message id="m0009" time="2015-03-03 16:51:30 UTC" participant="152115">
+      <body>Thanks. Love you :)</body>
+    </message>
+    <message id="m0010" time="2015-03-03 17:57:38 UTC" participant="152115">
+      <body>Ok. So I have to interview with all the physicians and nurse practitioner.</body>
+    </message>
+    <message id="m0011" time="2015-03-03 17:57:58 UTC" participant="152115">
+      <body>I saw two and the other two are in with patients.</body>
+    </message>
+    <message id="m0012" time="2015-03-03 18:06:51 UTC" participant="152116">
+      <body>It's good that you're meeting multiple people. Good luck</body>
+    </message>
+    <message id="m0013" time="2015-03-03 18:07:08 UTC" participant="152116">
+      <body>Sorry for teasing you haha</body>
+    </message>
+    <message id="m0014" time="2015-03-03 18:15:15 UTC" participant="152115">
+      <body>Ok. One more person to go.</body>
+    </message>
+    <message id="m0015" time="2015-03-03 18:15:39 UTC" participant="152116">
+      <body>Good</body>
+    </message>
+  </messages>
+</conversation>
+

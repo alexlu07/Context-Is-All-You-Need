@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111127.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135105" time="2011-11-27 17:14:43 UTC">
+      <body>Molly and Martha! Come back to MN! Also, what are your current addresses?</body>
+    </message>
+    <message id="m0002" participant="135105" time="2011-11-27 17:18:39 UTC">
+      <body>Home in New Ulm? Are you coming to the cities?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-11-27 17:19:44 UTC">
+      <body>New ulm and probably the cities at some point. We could also line a plan up to see each other</body>
+    </message>
+    <message id="m0004" participant="135105" time="2011-11-27 17:24:53 UTC">
+      <body>Yes, let's. I'll be back in MN by the 28th I think.</body>
+    </message>
+  </messages>
+</conversation>

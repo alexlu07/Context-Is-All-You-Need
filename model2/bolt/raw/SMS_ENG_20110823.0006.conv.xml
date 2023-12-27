@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110823.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-23 00:46:55 UTC">
+      <body>Are you going to the pizza farm mañana?</body>
+    </message>
+    <message id="m0001" participant="135112" time="2011-08-23 01:17:54 UTC">
+      <body>What?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-23 01:19:39 UTC">
+      <body>Is a thing Harley created on Facebook. A farm. Pizza. </body>
+    </message>
+    <message id="m0003" participant="135112" time="2011-08-23 01:20:32 UTC">
+      <body>I have a dumb phone. Sorry. I cant tomorrow.</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-23 01:23:57 UTC">
+      <body>I forgot I made plans too. Dumb. :)</body>
+    </message>
+    <message id="m0005" participant="135112" time="2011-08-23 01:24:28 UTC">
+      <body>:-)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140208.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-08 19:39:44 UTC" participant="153649">
+      <body>Have you seen The Act of Killing?</body>
+    </message>
+    <message id="m0001" time="2014-02-08 20:01:23 UTC" participant="153548">
+      <body>I saw it best movie of the year.</body>
+    </message>
+    <message id="m0002" time="2014-02-08 20:23:46 UTC" participant="153649">
+      <body>Too crazy to go to by myself? Will I freak?</body>
+    </message>
+    <message id="m0003" time="2014-02-08 20:27:24 UTC" participant="153548">
+      <body>No you won't freak. I saw it alone. </body>
+    </message>
+    <message id="m0004" time="2014-02-08 20:28:48 UTC" participant="153649">
+      <body>Think I'm gonna go see it in an hour.</body>
+    </message>
+    <message id="m0005" time="2014-02-08 20:40:08 UTC" participant="153548">
+      <body>It's amazing you should see it</body>
+    </message>
+  </messages>
+</conversation>
+

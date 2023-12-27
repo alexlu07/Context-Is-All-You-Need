@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135080" time="2013-04-21 20:06:04 UTC">
+      <body>6:15 would work. 6:15-8 range is best</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-21 22:14:10 UTC">
+      <body>What's your plan?</body>
+    </message>
+  </messages>
+</conversation>

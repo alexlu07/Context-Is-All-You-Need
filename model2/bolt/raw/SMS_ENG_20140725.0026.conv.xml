@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140725.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-25 20:23:48 UTC" participant="153244">
+      <body>Since ryans is one party now is it the sat or Monday date? </body>
+    </message>
+    <message id="m0001" time="2014-07-25 20:26:02 UTC" participant="153895">
+      <body>Saturday. </body>
+    </message>
+    <message id="m0002" time="2014-07-25 20:27:21 UTC" participant="153244">
+      <body>Ok just double checking for my work schedule....  And what time you need it for?</body>
+    </message>
+    <message id="m0003" time="2014-07-25 20:32:41 UTC" participant="153895">
+      <body>12 1230</body>
+    </message>
+    <message id="m0004" time="2014-07-25 20:44:33 UTC" participant="153244">
+      <body>Ok.. would friday pick up or delivery be ok? Bec I work sat 8-3. I tried to have off that day but my manager will be in Miami and there is no one else to cover.</body>
+    </message>
+    <message id="m0005" time="2014-07-25 20:45:17 UTC" participant="153895">
+      <body>Yeah.  I get done 4 on Friday. Charlie is off that day so just let me know what time. </body>
+    </message>
+    <message id="m0006" time="2014-07-25 20:46:56 UTC" participant="153244">
+      <body>Ok I get done around 5 and will be home all night so anytime after 5 is good</body>
+    </message>
+    <message id="m0007" time="2014-07-25 20:47:47 UTC" participant="153895">
+      <body>Okay.  </body>
+    </message>
+  </messages>
+</conversation>
+

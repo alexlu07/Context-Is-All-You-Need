@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131231.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-31 19:07:24 UTC" participant="152427">
+      <body>Have you been in touch with Anwar?  We on for Dobra tonight?</body>
+    </message>
+    <message id="m0001" time="2013-12-31 19:09:52 UTC" participant="152427">
+      <body>Cool thanks </body>
+    </message>
+    <message id="m0002" time="2013-12-31 19:09:56 UTC" participant="152417">
+      <body>Yea, we're on for tonight.  </body>
+    </message>
+  </messages>
+</conversation>
+

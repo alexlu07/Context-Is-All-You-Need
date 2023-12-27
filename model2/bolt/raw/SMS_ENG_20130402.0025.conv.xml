@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130402.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-04-02 02:21:39 UTC">
+      <body>What's the phone number for the common room?</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-04-02 05:12:11 UTC">
+      <body>No worries! Thanks!</body>
+    </message>
+    <message id="m0003" participant="135265" time="2013-04-02 20:12:25 UTC">
+      <body>6 din?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-02 20:12:38 UTC">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>

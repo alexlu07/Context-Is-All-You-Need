@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120322.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-03-22 07:16:16 UTC">
+      <body>Hey guys--Matt wants to know what everyone is up to! Text me back and/or email Jim</body>
+    </message>
+    <message id="m0001" participant="131823" time="2012-03-22 12:37:57 UTC">
+      <body>Btw eta is 551</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-03-22 12:40:52 UTC">
+      <body>Ours is 3:32</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-03-22 15:21:11 UTC">
+      <body>Hey guys, same ETA?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130601.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-01 20:06:46 UTC">
+      <body>Are any of your super cool friends coming tonight? I NEED to meet them </body>
+    </message>
+    <message id="m0001" participant="137260" time="2013-06-01 20:07:28 UTC">
+      <body>They are not unfortunately. Everyone's either sick, in college, or away</body>
+    </message>
+    <message id="m0002" participant="137260" time="2013-06-01 20:07:28 UTC">
+      <body>You may meet Nikiah though, she's amazing </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-01 20:07:53 UTC">
+      <body>Okay! </body>
+    </message>
+    <message id="m0004" participant="137260" time="2013-06-01 20:18:08 UTC">
+      <body>But yeah, it might be awkward because it'll just be my family, you, sam &amp; nikiah</body>
+    </message>
+    <message id="m0005" participant="137260" time="2013-06-01 20:19:27 UTC">
+      <body>but yummy food is assured, and cute little kids</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-01 20:21:31 UTC">
+      <body>Sounds good! </body>
+    </message>
+    <message id="m0007" participant="137260" time="2013-06-01 20:22:24 UTC">
+      <body>:D</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-06-01 22:46:15 UTC">
+      <body>I'll be over soon! </body>
+    </message>
+    <message id="m0009" participant="137260" time="2013-06-01 23:25:52 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

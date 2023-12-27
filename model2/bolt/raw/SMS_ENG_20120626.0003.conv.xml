@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120626.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131283" time="2012-06-26 12:31:51 UTC">
+      <body>Morning! Still on for 9:30? 10 works too if you need the time!</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-06-26 12:52:01 UTC">
+      <body>Let's push it to 10 :)</body>
+    </message>
+    <message id="m0002" participant="131283" time="2012-06-26 12:52:50 UTC">
+      <body>Great. See you then.</body>
+    </message>
+  </messages>
+</conversation>

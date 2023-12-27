@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130122.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-22 00:01:23 UTC" participant="153489">
+      <body>You still coming?</body>
+    </message>
+    <message id="m0001" time="2013-01-22 00:01:42 UTC" participant="152374">
+      <body>I just parked</body>
+    </message>
+    <message id="m0002" time="2013-01-22 00:02:15 UTC" participant="153489">
+      <body>Theater 5 bottom section on the right side</body>
+    </message>
+  </messages>
+</conversation>
+

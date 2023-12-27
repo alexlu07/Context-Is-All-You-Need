@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-05-01 10:40:44 UTC">
+      <body>Can I get a ride? </body>
+    </message>
+    <message id="m0001" participant="137313" time="2013-05-01 10:41:14 UTC">
+      <body>Yeah. Please be ready at 7:15</body>
+    </message>
+    <message id="m0002" participant="137313" time="2013-05-01 11:13:41 UTC">
+      <body>Outside</body>
+    </message>
+    <message id="m0003" participant="137313" time="2013-05-01 11:17:11 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-01 11:17:50 UTC">
+      <body>Coming. And I'm only two minutes late!! </body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-05-02 10:39:47 UTC">
+      <body>Can I get a ride? </body>
+    </message>
+    <message id="m0006" participant="137313" time="2013-05-02 10:40:13 UTC">
+      <body>Yeah. Please be ready at 7:14</body>
+    </message>
+    <message id="m0007" participant="137255" time="2013-05-02 11:09:38 UTC">
+      <body>Don't need a ride </body>
+    </message>
+    <message id="m0008" participant="137313" time="2013-05-02 11:12:34 UTC">
+      <body>Uh...okay</body>
+    </message>
+    <message id="m0009" participant="137313" time="2013-05-02 11:12:41 UTC">
+      <body>Just got here but I'll leave</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-05-03 10:25:43 UTC">
+      <body>Can I get a ride </body>
+    </message>
+    <message id="m0011" participant="137313" time="2013-05-03 10:26:28 UTC">
+      <body>For real? Yes 7:15, please try to be prompt</body>
+    </message>
+    <message id="m0012" participant="137313" time="2013-05-03 11:10:58 UTC">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0013" participant="137313" time="2013-05-03 11:14:04 UTC">
+      <body>Outside</body>
+    </message>
+    <message id="m0014" participant="137255" time="2013-05-03 11:14:08 UTC">
+      <body>Coming </body>
+    </message>
+  </messages>
+</conversation>

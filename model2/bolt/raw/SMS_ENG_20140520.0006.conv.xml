@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140520.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-20 15:30:08 UTC" participant="153547">
+      <body>Do you and Kathleen wanna come over for dinner tonight. I'll grill up some stuff</body>
+    </message>
+    <message id="m0001" time="2014-05-20 15:38:40 UTC" participant="153560">
+      <body>Sure. What time? Kathleen is a vegetarian. What can I bring?</body>
+    </message>
+    <message id="m0002" time="2014-05-20 15:40:33 UTC" participant="153547">
+      <body>Veggies for grilling or salad or what ever. Lindsey has some praegers burgers I think</body>
+    </message>
+    <message id="m0003" time="2014-05-20 15:40:50 UTC" participant="153547">
+      <body>Let's say 7</body>
+    </message>
+    <message id="m0004" time="2014-05-20 15:43:23 UTC" participant="153560">
+      <body>Sounds good. See you later. </body>
+    </message>
+    <message id="m0005" time="2014-05-20 18:59:45 UTC" participant="153547">
+      <body>Lindsey is going to the coop in a minute. Do u know what you guys are bringing so she doesn't get the same thing</body>
+    </message>
+    <message id="m0006" time="2014-05-20 19:00:24 UTC" participant="153560">
+      <body>No. I can get whatever she doesn't, or she can tell me what to bring. </body>
+    </message>
+    <message id="m0007" time="2014-05-20 19:05:13 UTC" participant="153547">
+      <body>She's just gonna get cheese and crackers I guess</body>
+    </message>
+    <message id="m0008" time="2014-05-20 19:07:44 UTC" participant="153560">
+      <body>I'll bring a salad. </body>
+    </message>
+  </messages>
+</conversation>
+

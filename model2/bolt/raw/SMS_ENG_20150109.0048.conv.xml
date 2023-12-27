@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 14:35:03 UTC" participant="153244">
+      <body> Aunt Joanne is going to take me</body>
+    </message>
+    <message id="m0001" time="2015-01-09 14:38:01 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2015-01-09 16:06:50 UTC" participant="153244">
+      <body>Done with my follow up.. im back in the city</body>
+    </message>
+    <message id="m0003" time="2015-01-09 16:40:11 UTC" participant="153900">
+      <body>Everything good with them</body>
+    </message>
+    <message id="m0004" time="2015-01-09 16:41:47 UTC" participant="153244">
+      <body>Yes!! You know how 20/20 vision is perfect vision? I have 20/15 so that's even better</body>
+    </message>
+    <message id="m0005" time="2015-01-09 16:42:08 UTC" participant="153244">
+      <body>They just feel a little dry so I put drops in them.  I think im going to take a nap</body>
+    </message>
+    <message id="m0006" time="2015-01-09 17:37:12 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

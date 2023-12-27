@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 20:02:18 UTC" participant="152842">
+      <body>Hey chic, are you up for a bite and a beer tonight around 7:30?</body>
+    </message>
+    <message id="m0001" time="2013-11-07 20:03:31 UTC" participant="152374">
+      <body>Oh man... You have no idea how much I want to say yes to that, but I have class tomorrow and I still have reading to finish for it!!</body>
+    </message>
+    <message id="m0002" time="2013-11-07 20:04:30 UTC" participant="152374">
+      <body>Thanks for thinking of me, I would love to see you. Raincheck for sure!</body>
+    </message>
+    <message id="m0003" time="2013-11-07 20:04:50 UTC" participant="152842">
+      <body>Oh, I so understand! Sorry to tempt! We'll make a rain check. :)</body>
+    </message>
+    <message id="m0004" time="2013-11-07 20:04:55 UTC" participant="152842">
+      <body>Ha!</body>
+    </message>
+  </messages>
+</conversation>
+

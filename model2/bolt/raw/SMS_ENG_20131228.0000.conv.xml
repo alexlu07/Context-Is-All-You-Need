@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131228.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-28 14:21:52 UTC" participant="149387">
+      <body>Hello. I'm heading to work soon. If you want I can drop Zoe's key in D's mail slot. I didn't make a copy so I'll need to get it back before I leave work at 4pm. Can you walk her sometime around 1-1:30?</body>
+    </message>
+    <message id="m0001" time="2013-12-28 14:23:52 UTC" participant="149306">
+      <body>Ok that sounds good</body>
+    </message>
+    <message id="m0002" time="2013-12-28 14:24:00 UTC" participant="149387">
+      <body>Thanks:-)</body>
+    </message>
+    <message id="m0003" time="2013-12-28 14:56:00 UTC" participant="149387">
+      <body>Key's in the slot </body>
+    </message>
+    <message id="m0004" time="2013-12-28 14:57:17 UTC" participant="149306">
+      <body>
+Thanks!</body>
+    </message>
+    <message id="m0005" time="2013-12-28 15:00:16 UTC" participant="149387">
+      <body>Forgot to mention: the realtor is showing the Aronovitz's condo between 11:00-12:00. They should be gone by 1-1:30, but don't be alarmed if you see someone there.</body>
+    </message>
+    <message id="m0006" time="2013-12-28 15:30:47 UTC" participant="149306">
+      <body>Ok I'll wait till 130</body>
+    </message>
+    <message id="m0007" time="2013-12-28 22:32:32 UTC" participant="149387">
+      <body>Hey. Just finishing up at work and no potatoes or avocado left. Maybe tomorrow:-) I'll drop the key in the mail slot at 9am.</body>
+    </message>
+    <message id="m0008" time="2013-12-28 22:33:25 UTC" participant="149306">
+      <body>Ok great! Thanks for looking out for me</body>
+    </message>
+    <message id="m0009" time="2013-12-28 22:51:25 UTC" participant="149387">
+      <body>:-)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111230.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131320" time="2011-12-30 20:02:52 UTC">
+      <body>Hey noah, what's up dude?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-12-30 20:03:29 UTC">
+      <body>Chillin man, how've been?</body>
+    </message>
+    <message id="m0002" participant="131320" time="2011-12-30 20:07:45 UTC">
+      <body>Been great. Visiting the east for the holidays. We should get together at some point. I'm here till the 6th.</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-12-30 20:08:22 UTC">
+      <body>Def man, if your in Philly at any point we should grab a beer</body>
+    </message>
+    <message id="m0004" participant="131320" time="2011-12-30 20:09:09 UTC">
+      <body>I'll be in the area today, actually. And then after new year's.</body>
+    </message>
+    <message id="m0005" participant="130692" time="2011-12-30 20:10:01 UTC">
+      <body>I got a wrap party tonight for a feature i was on but hit me up after new years</body>
+    </message>
+  </messages>
+</conversation>

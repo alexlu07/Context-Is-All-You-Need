@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121107.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136274" time="2012-11-07 15:23:44 UTC">
+      <body>Have you had breakfast?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-07 15:31:59 UTC">
+      <body>No lets go</body>
+    </message>
+    <message id="m0002" participant="136274" time="2012-11-07 15:33:38 UTC">
+      <body>Sweet are you in dobbs?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-07 15:34:06 UTC">
+      <body>I'm at the DUC mail services</body>
+    </message>
+    <message id="m0004" participant="136274" time="2012-11-07 15:34:22 UTC">
+      <body>Ill meet ya there</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-11-07 15:37:24 UTC">
+      <body>I'm upstairs in the actual DUC at the middle table</body>
+    </message>
+  </messages>
+</conversation>

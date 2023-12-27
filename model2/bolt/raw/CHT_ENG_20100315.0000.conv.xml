@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20100315.0000" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" participant="136537" time="2010-03-15 20:59:33 UTC">
+      <body>yo sucka</body>
+    </message>
+    <message id="m0001" participant="136537" time="2010-03-15 20:59:38 UTC">
+      <body>how was your weekend?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2010-03-15 21:00:44 UTC">
+      <body>pretty good - terrible weather</body>
+    </message>
+    <message id="m0003" participant="136537" time="2010-03-15 21:02:41 UTC">
+      <body>yeah same here</body>
+    </message>
+    <message id="m0004" participant="136537" time="2010-03-15 21:02:51 UTC">
+      <body>although i slept in like a mug yesterday</body>
+    </message>
+    <message id="m0005" participant="136537" time="2010-03-15 21:02:57 UTC">
+      <body>reading anything good these days?</body>
+    </message>
+    <message id="m0006" participant="136537" time="2010-03-15 21:03:01 UTC">
+      <body>i am almost done my book</body>
+    </message>
+    <message id="m0007" participant="130979" time="2010-03-15 21:03:51 UTC">
+      <body>yeah I am reading a book I kind of like</body>
+    </message>
+    <message id="m0008" participant="130979" time="2010-03-15 21:04:02 UTC">
+      <body>I first read inside delta force</body>
+    </message>
+    <message id="m0009" participant="130979" time="2010-03-15 21:04:05 UTC">
+      <body>which was awesome</body>
+    </message>
+    <message id="m0010" participant="130979" time="2010-03-15 21:04:26 UTC">
+      <body>which is a true story about when delta force was first put together</body>
+    </message>
+    <message id="m0011" participant="130979" time="2010-03-15 21:04:34 UTC">
+      <body>it ended up being the basis for the show the Unit</body>
+    </message>
+    <message id="m0012" participant="130979" time="2010-03-15 21:05:03 UTC">
+      <body>the author/founding unit member just wrote his first novel which I am reading now</body>
+    </message>
+    <message id="m0013" participant="130979" time="2010-03-15 21:05:05 UTC">
+      <body>I like it</body>
+    </message>
+    <message id="m0014" participant="136537" time="2010-03-15 21:05:14 UTC">
+      <body>called?</body>
+    </message>
+    <message id="m0015" participant="130979" time="2010-03-15 21:05:46 UTC">
+      <body>trying to think</body>
+    </message>
+    <message id="m0016" participant="130979" time="2010-03-15 21:07:17 UTC">
+      <body>No Man's Land</body>
+    </message>
+    <message id="m0017" participant="136537" time="2010-03-15 21:07:33 UTC">
+      <body>cool i will check it out</body>
+    </message>
+    <message id="m0019" participant="130979" time="2010-03-15 21:08:08 UTC">
+      <body>I think it is only 300 pages so should be a quick read</body>
+    </message>
+    <message id="m0020" participant="136537" time="2010-03-15 21:08:09 UTC">
+      <body>cool</body>
+    </message>
+    <message id="m0021" participant="136537" time="2010-03-15 21:08:14 UTC">
+      <body>have you read The Shack</body>
+    </message>
+    <message id="m0023" participant="130979" time="2010-03-15 21:08:33 UTC">
+      <body>this was the first book of his</body>
+    </message>
+    <message id="m0024" participant="130979" time="2010-03-15 21:08:36 UTC">
+      <body>Joey and I both read it</body>
+    </message>
+    <message id="m0025" participant="130979" time="2010-03-15 21:08:38 UTC">
+      <body>very good</body>
+    </message>
+    <message id="m0026" participant="136537" time="2010-03-15 21:08:45 UTC">
+      <body>cool</body>
+    </message>
+    <message id="m0027" participant="136537" time="2010-03-15 21:08:48 UTC">
+      <body>thanks</body>
+    </message>
+    <message id="m0028" participant="130979" time="2010-03-15 21:08:57 UTC">
+      <body>have not read the shack</body>
+    </message>
+    <message id="m0029" participant="136537" time="2010-03-15 21:09:48 UTC">
+      <body>yeah me neith</body>
+    </message>
+    <message id="m0030" participant="136537" time="2010-03-15 21:09:55 UTC">
+      <body>have heard good things</body>
+    </message>
+    <message id="m0031" participant="130979" time="2010-03-15 21:10:10 UTC">
+      <body>me too</body>
+    </message>
+    <message id="m0032" participant="130979" time="2010-03-15 21:10:18 UTC">
+      <body>I think I am going to read it next</body>
+    </message>
+    <message id="m0033" participant="130979" time="2010-03-15 21:10:26 UTC">
+      <body>it is always up there in the kindle bookstore</body>
+    </message>
+    <message id="m0034" participant="136537" time="2010-03-15 21:10:41 UTC">
+      <body>yeah it is kinda right up your alley from what i have heard</body>
+    </message>
+    <message id="m0035" participant="130979" time="2010-03-15 21:10:50 UTC">
+      <body>religion?</body>
+    </message>
+    <message id="m0036" participant="130979" time="2010-03-15 21:10:52 UTC">
+      <body>haha</body>
+    </message>
+    <message id="m0037" participant="136537" time="2010-03-15 21:11:40 UTC">
+      <body>a little</body>
+    </message>
+    <message id="m0038" participant="136537" time="2010-03-15 21:11:41 UTC">
+      <body>hahaha</body>
+    </message>
+    <message id="m0039" participant="136537" time="2010-03-15 21:11:44 UTC">
+      <body>you love that shit</body>
+    </message>
+    <message id="m0040" participant="136537" time="2010-03-15 21:12:03 UTC">
+      <body>you and god are all like lovey dovey these days</body>
+    </message>
+    <message id="m0041" participant="130979" time="2010-03-15 21:14:19 UTC">
+      <body>I am trying to learn more</body>
+    </message>
+    <message id="m0042" participant="136537" time="2010-03-15 21:14:29 UTC">
+      <body>what is there to learn</body>
+    </message>
+    <message id="m0043" participant="130979" time="2010-03-15 21:14:38 UTC">
+      <body>a ton</body>
+    </message>
+    <message id="m0044" participant="130979" time="2010-03-15 21:14:44 UTC">
+      <body>I would like to believe in God</body>
+    </message>
+    <message id="m0045" participant="136537" time="2010-03-15 21:14:49 UTC">
+      <body>why?</body>
+    </message>
+    <message id="m0046" participant="136537" time="2010-03-15 21:14:53 UTC">
+      <body>ignorance is bliss?</body>
+    </message>
+    <message id="m0047" participant="130979" time="2010-03-15 21:14:56 UTC">
+      <body>but its kind of an all in or not all in</body>
+    </message>
+    <message id="m0048" participant="130979" time="2010-03-15 21:15:13 UTC">
+      <body>and I can't really go all in when some of it seems too convenient or far fetched</body>
+    </message>
+    <message id="m0049" participant="136537" time="2010-03-15 21:15:26 UTC">
+      <body>there are certainly a lot of good lessons in religino</body>
+    </message>
+    <message id="m0050" participant="130979" time="2010-03-15 21:15:30 UTC">
+      <body>but the more you read you learn that some of it is pretty tough to argue against</body>
+    </message>
+    <message id="m0051" participant="136537" time="2010-03-15 21:15:30 UTC">
+      <body>but its all a crock of shit</body>
+    </message>
+    <message id="m0052" participant="130979" time="2010-03-15 21:15:46 UTC">
+      <body>based on what facts?</body>
+    </message>
+    <message id="m0053" participant="130979" time="2010-03-15 21:15:59 UTC">
+      <body>you really should read this one book</body>
+    </message>
+    <message id="m0054" participant="130979" time="2010-03-15 21:16:04 UTC">
+      <body>it is like only 140 pages</body>
+    </message>
+    <message id="m0055" participant="130979" time="2010-03-15 21:16:12 UTC">
+      <body>and it is interesting from any viewpoint</body>
+    </message>
+    <message id="m0056" participant="136537" time="2010-03-15 21:16:16 UTC">
+      <body>i just choose to believe in science</body>
+    </message>
+    <message id="m0057" participant="136537" time="2010-03-15 21:16:21 UTC">
+      <body>like i said</body>
+    </message>
+    <message id="m0058" participant="130979" time="2010-03-15 21:16:29 UTC">
+      <body>but you don't have to choose between the two</body>
+    </message>
+    <message id="m0059" participant="136537" time="2010-03-15 21:16:31 UTC">
+      <body>religion has some great lessons</body>
+    </message>
+    <message id="m0060" participant="136537" time="2010-03-15 21:16:42 UTC">
+      <body>and i see its value</body>
+    </message>
+    <message id="m0061" participant="130979" time="2010-03-15 21:16:44 UTC">
+      <body>religion is different than god though</body>
+    </message>
+    <message id="m0062" participant="130979" time="2010-03-15 21:16:49 UTC">
+      <body>religion is man made</body>
+    </message>
+    <message id="m0063" participant="136537" time="2010-03-15 21:17:05 UTC">
+      <body>but i also see that TONS of people die every day over tiny things regarding a religion</body>
+    </message>
+    <message id="m0064" participant="130979" time="2010-03-15 21:17:10 UTC">
+      <body>and def has turned me off over the years</body>
+    </message>
+    <message id="m0065" participant="130979" time="2010-03-15 21:17:20 UTC">
+      <body>yes but that is moronic people</body>
+    </message>
+    <message id="m0066" participant="130979" time="2010-03-15 21:17:23 UTC">
+      <body>that shit is retarded</body>
+    </message>
+    <message id="m0067" participant="136537" time="2010-03-15 21:17:40 UTC">
+      <body>i haven't given up on believing in a higher power</body>
+    </message>
+    <message id="m0068" participant="130979" time="2010-03-15 21:17:41 UTC">
+      <body>you should read this book</body>
+    </message>
+    <message id="m0069" participant="130979" time="2010-03-15 21:17:46 UTC">
+      <body>would be worth your time</body>
+    </message>
+    <message id="m0070" participant="130979" time="2010-03-15 21:18:07 UTC">
+      <body>and it isn't like it is some mircle book either</body>
+    </message>
+    <message id="m0071" participant="136537" time="2010-03-15 21:18:09 UTC">
+      <body>i probably would be more apt to believe in things like Karma</body>
+    </message>
+    <message id="m0072" participant="136537" time="2010-03-15 21:18:23 UTC">
+      <body>then a God who sits in the heavens and judges good and bad</body>
+    </message>
+    <message id="m0073" participant="136537" time="2010-03-15 21:18:30 UTC">
+      <body>because if that is the case i am going straight to hell</body>
+    </message>
+    <message id="m0074" participant="130979" time="2010-03-15 21:18:47 UTC">
+      <body>well based on your made up God then yes</body>
+    </message>
+    <message id="m0075" participant="130979" time="2010-03-15 21:19:05 UTC">
+      <body>but if it the God in the bible then not necessarily</body>
+    </message>
+    <message id="m0076" participant="136537" time="2010-03-15 21:19:17 UTC">
+      <body>i dont believe in the Bible</body>
+    </message>
+    <message id="m0077" participant="130979" time="2010-03-15 21:19:19 UTC">
+      <body>one of my biggest issues is how do I get a chance to be saved by Jesus christ</body>
+    </message>
+    <message id="m0078" participant="130979" time="2010-03-15 21:19:38 UTC">
+      <body>yet some poor kid in india who grows up believing in buddah is screwed</body>
+    </message>
+    <message id="m0079" participant="136537" time="2010-03-15 21:19:55 UTC">
+      <body>yeah i don't believe in any of that</body>
+    </message>
+    <message id="m0080" participant="136537" time="2010-03-15 21:19:55 UTC">
+      <body>sorry</body>
+    </message>
+    <message id="m0081" participant="136537" time="2010-03-15 21:19:57 UTC">
+      <body>i just don'</body>
+    </message>
+    <message id="m0082" participant="136537" time="2010-03-15 21:20:11 UTC">
+      <body>the Bible was written by a bunch of old white men</body>
+    </message>
+    <message id="m0083" participant="130979" time="2010-03-15 21:20:13 UTC">
+      <body>don't have to apologize to me</body>
+    </message>
+    <message id="m0084" participant="130979" time="2010-03-15 21:20:19 UTC">
+      <body>but your arguments are pretty dumb</body>
+    </message>
+    <message id="m0085" participant="136537" time="2010-03-15 21:20:37 UTC">
+      <body>it would be parrallel to a book written by George Bush and Bill Clinton in today's time</body>
+    </message>
+    <message id="m0086" participant="136537" time="2010-03-15 21:20:45 UTC">
+      <body>and to live your life based on what it says</body>
+    </message>
+    <message id="m0087" participant="130979" time="2010-03-15 21:21:02 UTC">
+      <body>how do you live your life?</body>
+    </message>
+    <message id="m0088" participant="130979" time="2010-03-15 21:21:10 UTC">
+      <body>a lot is based on what your parents tought you correct?</body>
+    </message>
+    <message id="m0089" participant="130979" time="2010-03-15 21:21:16 UTC">
+      <body>old white people</body>
+    </message>
+    <message id="m0090" participant="130979" time="2010-03-15 21:21:18 UTC">
+      <body>haha</body>
+    </message>
+    <message id="m0091" participant="136537" time="2010-03-15 21:21:30 UTC">
+      <body>yes and other values i have developed along the way</body>
+    </message>
+    <message id="m0092" participant="136537" time="2010-03-15 21:21:42 UTC">
+      <body>but that isn't to say that I didn't learn a lot from living with joey</body>
+    </message>
+    <message id="m0093" participant="136537" time="2010-03-15 21:21:47 UTC">
+      <body>from having gay friends</body>
+    </message>
+    <message id="m0094" participant="136537" time="2010-03-15 21:21:50 UTC">
+      <body>... like greggy</body>
+    </message>
+    <message id="m0095" participant="130979" time="2010-03-15 21:21:50 UTC">
+      <body>I mean you have learned a lot and have differered over time but at the end of the day we are very close to the way our parents brought us up to be</body>
+    </message>
+    <message id="m0096" participant="136537" time="2010-03-15 21:22:10 UTC">
+      <body>i share a very different belief system than my parents</body>
+    </message>
+    <message id="m0097" participant="136537" time="2010-03-15 21:22:20 UTC">
+      <body>and an even bigger difference than my grandparents</body>
+    </message>
+    <message id="m0098" participant="136537" time="2010-03-15 21:22:55 UTC">
+      <body>i mean is there anything in these books that is tangible that you can tell me?</body>
+    </message>
+    <message id="m0099" participant="130979" time="2010-03-15 21:23:07 UTC">
+      <body>that is what the entire book is about</body>
+    </message>
+    <message id="m0100" participant="130979" time="2010-03-15 21:23:11 UTC">
+      <body>tangible evidence</body>
+    </message>
+    <message id="m0101" participant="136537" time="2010-03-15 21:23:16 UTC">
+      <body>so do you remember one</body>
+    </message>
+    <message id="m0102" participant="130979" time="2010-03-15 21:23:19 UTC">
+      <body>that is what was so interesting to me</body>
+    </message>
+    <message id="m0103" participant="136537" time="2010-03-15 21:23:19 UTC">
+      <body>anything</body>
+    </message>
+    <message id="m0104" participant="136537" time="2010-03-15 21:23:29 UTC">
+      <body>because it is pretty hard to prove something doesn't exist</body>
+    </message>
+    <message id="m0105" participant="136537" time="2010-03-15 21:23:40 UTC">
+      <body>its much easier to prove something does exist</body>
+    </message>
+    <message id="m0106" participant="130979" time="2010-03-15 21:23:59 UTC">
+      <body>ok so most historical manuscripts have anywhere from 5-20 copies of them</body>
+    </message>
+    <message id="m0107" participant="130979" time="2010-03-15 21:24:09 UTC">
+      <body>stories like the roman empire</body>
+    </message>
+    <message id="m0108" participant="130979" time="2010-03-15 21:24:14 UTC">
+      <body>julious ceaser</body>
+    </message>
+    <message id="m0109" participant="136537" time="2010-03-15 21:24:18 UTC">
+      <body>okay</body>
+    </message>
+    <message id="m0110" participant="130979" time="2010-03-15 21:24:28 UTC">
+      <body>and yet we all believe those to be true</body>
+    </message>
+    <message id="m0111" participant="130979" time="2010-03-15 21:24:31 UTC">
+      <body>or mostly factual</body>
+    </message>
+    <message id="m0112" participant="136537" time="2010-03-15 21:24:41 UTC">
+      <body>i don't - hahaha</body>
+    </message>
+    <message id="m0113" participant="130979" time="2010-03-15 21:24:43 UTC">
+      <body>yet the bible has over 20,000 original manuscripts</body>
+    </message>
+    <message id="m0114" participant="136537" time="2010-03-15 21:24:45 UTC">
+      <body>but i am a cynic</body>
+    </message>
+    <message id="m0115" participant="130979" time="2010-03-15 21:24:55 UTC">
+      <body>so most of history is made up?</body>
+    </message>
+    <message id="m0116" participant="136537" time="2010-03-15 21:24:58 UTC">
+      <body>yes</body>
+    </message>
+    <message id="m0117" participant="130979" time="2010-03-15 21:25:01 UTC">
+      <body>ok</body>
+    </message>
+    <message id="m0118" participant="130979" time="2010-03-15 21:25:04 UTC">
+      <body>then this is pointless</body>
+    </message>
+    <message id="m0119" participant="136537" time="2010-03-15 21:25:10 UTC">
+      <body>i mean history is relative</body>
+    </message>
+    <message id="m0120" participant="130979" time="2010-03-15 21:25:21 UTC">
+      <body>how so if it is made up?</body>
+    </message>
+    <message id="m0121" participant="136537" time="2010-03-15 21:25:22 UTC">
+      <body>history is tol</body>
+    </message>
+    <message id="m0122" participant="136537" time="2010-03-15 21:25:25 UTC">
+      <body>told</body>
+    </message>
+    <message id="m0123" participant="136537" time="2010-03-15 21:25:30 UTC">
+      <body>meaning it is slanted</body>
+    </message>
+    <message id="m0124" participant="136537" time="2010-03-15 21:25:34 UTC">
+      <body>it is not factual</body>
+    </message>
+    <message id="m0125" participant="130979" time="2010-03-15 21:25:38 UTC">
+      <body>facts are facts</body>
+    </message>
+    <message id="m0126" participant="136537" time="2010-03-15 21:25:41 UTC">
+      <body>it is slanted</body>
+    </message>
+    <message id="m0127" participant="136537" time="2010-03-15 21:26:30 UTC">
+      <body>how many stories are there about Santa Claus - millions of people believe in him - does he exist?</body>
+    </message>
+    <message id="m0128" participant="130979" time="2010-03-15 21:26:42 UTC">
+      <body>millions of adults?</body>
+    </message>
+    <message id="m0129" participant="130979" time="2010-03-15 21:26:49 UTC">
+      <body>all the stories are considered fiction</body>
+    </message>
+    <message id="m0130" participant="130979" time="2010-03-15 21:27:02 UTC">
+      <body>so I do believe there is a fictional santa claus</body>
+    </message>
+    <message id="m0131" participant="130979" time="2010-03-15 21:27:05 UTC">
+      <body>absolutly</body>
+    </message>
+    <message id="m0132" participant="136537" time="2010-03-15 21:27:12 UTC">
+      <body>so just because the majority believes the bible is factual mkes it so?</body>
+    </message>
+    <message id="m0133" participant="130979" time="2010-03-15 21:28:11 UTC">
+      <body>so George Washington did not exist?</body>
+    </message>
+    <message id="m0134" participant="130979" time="2010-03-15 21:28:23 UTC">
+      <body>Abraham Lincoln?</body>
+    </message>
+    <message id="m0135" participant="130979" time="2010-03-15 21:28:28 UTC">
+      <body>do you think they existed?</body>
+    </message>
+    <message id="m0136" participant="136537" time="2010-03-15 21:28:32 UTC">
+      <body>he probably existed - some of the things he gets credit for are probably overblown</body>
+    </message>
+    <message id="m0137" participant="136537" time="2010-03-15 21:28:41 UTC">
+      <body>i mean are we arguing God here or Jesus?</body>
+    </message>
+    <message id="m0138" participant="136537" time="2010-03-15 21:28:51 UTC">
+      <body>because I believe there was a Jesus of Nazareth</body>
+    </message>
+    <message id="m0139" participant="136537" time="2010-03-15 21:28:59 UTC">
+      <body>but I don't believe he was the Son of God</body>
+    </message>
+    <message id="m0140" participant="130979" time="2010-03-15 21:29:06 UTC">
+      <body>why not?</body>
+    </message>
+    <message id="m0141" participant="136537" time="2010-03-15 21:29:15 UTC">
+      <body>why should i?</body>
+    </message>
+    <message id="m0142" participant="136537" time="2010-03-15 21:29:24 UTC">
+      <body>because he said he was</body>
+    </message>
+    <message id="m0143" participant="136537" time="2010-03-15 21:29:30 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0144" participant="130979" time="2010-03-15 21:29:35 UTC">
+      <body>well after reading some about him I became more intrigued</body>
+    </message>
+    <message id="m0145" participant="130979" time="2010-03-15 21:29:47 UTC">
+      <body>I was told to believe in him growing up</body>
+    </message>
+    <message id="m0146" participant="136537" time="2010-03-15 21:29:52 UTC">
+      <body>so was i</body>
+    </message>
+    <message id="m0147" participant="130979" time="2010-03-15 21:29:58 UTC">
+      <body>I was always skeptical and eventually just kind wrote it off as BS</body>
+    </message>
+    <message id="m0148" participant="136537" time="2010-03-15 21:30:10 UTC">
+      <body>so what changed your mind?</body>
+    </message>
+    <message id="m0149" participant="130979" time="2010-03-15 21:30:14 UTC">
+      <body>But at the same time I have always been curious and wished that I cared more</body>
+    </message>
+    <message id="m0150" participant="130979" time="2010-03-15 21:30:43 UTC">
+      <body>so I told myself that I would research it and come to my own conclusion based off of my own reserch and work</body>
+    </message>
+    <message id="m0151" participant="130979" time="2010-03-15 21:30:51 UTC">
+      <body>and I am not saying that I 100% believe</body>
+    </message>
+    <message id="m0152" participant="136537" time="2010-03-15 21:30:57 UTC">
+      <body>and i am not judging you</body>
+    </message>
+    <message id="m0153" participant="136537" time="2010-03-15 21:31:01 UTC">
+      <body>i applaud you</body>
+    </message>
+    <message id="m0154" participant="130979" time="2010-03-15 21:31:02 UTC">
+      <body>I dont think you are atll</body>
+    </message>
+    <message id="m0155" participant="136537" time="2010-03-15 21:31:05 UTC">
+      <body>i just have already made my mind up</body>
+    </message>
+    <message id="m0156" participant="136537" time="2010-03-15 21:31:11 UTC">
+      <body>i dont think i could read those objectively</body>
+    </message>
+    <message id="m0157" participant="130979" time="2010-03-15 21:31:12 UTC">
+      <body>why do that though?</body>
+    </message>
+    <message id="m0158" participant="136537" time="2010-03-15 21:31:31 UTC">
+      <body>because I believe a certain way</body>
+    </message>
+    <message id="m0159" participant="136537" time="2010-03-15 21:31:39 UTC">
+      <body>why can't I get you to like the Yankees?</body>
+    </message>
+    <message id="m0160" participant="130979" time="2010-03-15 21:31:59 UTC">
+      <body>that isn't really a beliefe issue of something being real or not</body>
+    </message>
+    <message id="m0161" participant="130979" time="2010-03-15 21:32:04 UTC">
+      <body>I believe the yankees are real</body>
+    </message>
+    <message id="m0162" participant="136537" time="2010-03-15 21:32:16 UTC">
+      <body>i mean if it is a matter of real or not</body>
+    </message>
+    <message id="m0163" participant="136537" time="2010-03-15 21:32:23 UTC">
+      <body>i am not sure what you are arguing</body>
+    </message>
+    <message id="m0164" participant="130979" time="2010-03-15 21:32:25 UTC">
+      <body>It is to me</body>
+    </message>
+    <message id="m0165" participant="136537" time="2010-03-15 21:32:41 UTC">
+      <body>what factual evidence do you have that Jesus was the son of God</body>
+    </message>
+    <message id="m0166" participant="130979" time="2010-03-15 21:32:42 UTC">
+      <body>If God and Jesus are real and there really is heaven and hell wouldn't you rather go to heave</body>
+    </message>
+    <message id="m0167" participant="130979" time="2010-03-15 21:32:44 UTC">
+      <body>IF its real</body>
+    </message>
+    <message id="m0168" participant="130979" time="2010-03-15 21:32:45 UTC">
+      <body>IF</body>
+    </message>
+    <message id="m0170" participant="130979" time="2010-03-15 21:33:07 UTC">
+      <body>and that is a good question</body>
+    </message>
+    <message id="m0171" participant="136537" time="2010-03-15 21:33:09 UTC">
+      <body>to be honest with you - i gave up on heaven and hell when my brother died</body>
+    </message>
+    <message id="m0172" participant="130979" time="2010-03-15 21:33:21 UTC">
+      <body>and that is the basis of the book</body>
+    </message>
+    <message id="m0173" participant="136537" time="2010-03-15 21:33:25 UTC">
+      <body>according to the bible my brother would be in hell</body>
+    </message>
+    <message id="m0174" participant="136537" time="2010-03-15 21:33:41 UTC">
+      <body>and i cant believe in something so near sighted</body>
+    </message>
+    <message id="m0175" participant="130979" time="2010-03-15 21:33:53 UTC">
+      <body>and that is a major problem I have too</body>
+    </message>
+    <message id="m0176" participant="130979" time="2010-03-15 21:34:03 UTC">
+      <body>but it isn't our job to judge and we have no clue</body>
+    </message>
+    <message id="m0177" participant="130979" time="2010-03-15 21:34:14 UTC">
+      <body>but IF there was a heaven and hell</body>
+    </message>
+    <message id="m0178" participant="136537" time="2010-03-15 21:34:27 UTC">
+      <body>who's job is it to judge?</body>
+    </message>
+    <message id="m0179" participant="136537" time="2010-03-15 21:34:31 UTC">
+      <body>God's??</body>
+    </message>
+    <message id="m0180" participant="130979" time="2010-03-15 21:34:36 UTC">
+      <body>of course</body>
+    </message>
+    <message id="m0181" participant="136537" time="2010-03-15 21:34:42 UTC">
+      <body>eh i can't get behind that</body>
+    </message>
+    <message id="m0182" participant="136537" time="2010-03-15 21:34:57 UTC">
+      <body>if God believes that my brother deserves to be in hell then send me there with him</body>
+    </message>
+    <message id="m0183" participant="130979" time="2010-03-15 21:35:07 UTC">
+      <body>I wouldn't expect you too at this point</body>
+    </message>
+    <message id="m0184" participant="136537" time="2010-03-15 21:36:10 UTC">
+      <body>but you still haven't given me a fact that Jesus was the son of God</body>
+    </message>
+    <message id="m0185" participant="136537" time="2010-03-15 21:36:25 UTC">
+      <body>i am not asking for any reason than I am interested in what this guy says in the book</body>
+    </message>
+    <message id="m0186" participant="130979" time="2010-03-15 21:36:38 UTC">
+      <body>and that is what I am saying you should really read the book</body>
+    </message>
+    <message id="m0187" participant="130979" time="2010-03-15 21:36:43 UTC">
+      <body>it will take 2 hours of your life</body>
+    </message>
+    <message id="m0188" participant="130979" time="2010-03-15 21:36:59 UTC">
+      <body>and maybe it just cements your views that much more and you never have to waste one more second ever thinking about it</body>
+    </message>
+    <message id="m0189" participant="136537" time="2010-03-15 21:37:03 UTC">
+      <body>yeah it will make me mad dud</body>
+    </message>
+    <message id="m0190" participant="136537" time="2010-03-15 21:37:04 UTC">
+      <body>dude</body>
+    </message>
+    <message id="m0191" participant="130979" time="2010-03-15 21:37:12 UTC">
+      <body>I disagree</body>
+    </message>
+    <message id="m0192" participant="136537" time="2010-03-15 21:37:15 UTC">
+      <body>it will dude</body>
+    </message>
+    <message id="m0193" participant="130979" time="2010-03-15 21:37:20 UTC">
+      <body>oh so you are god</body>
+    </message>
+    <message id="m0194" participant="130979" time="2010-03-15 21:37:24 UTC">
+      <body>you can tell the future</body>
+    </message>
+    <message id="m0195" participant="130979" time="2010-03-15 21:37:25 UTC">
+      <body>haha</body>
+    </message>
+    <message id="m0196" participant="130979" time="2010-03-15 21:37:26 UTC">
+      <body>haah</body>
+    </message>
+    <message id="m0197" participant="136537" time="2010-03-15 21:37:29 UTC">
+      <body>hahaha</body>
+    </message>
+    <message id="m0198" participant="130979" time="2010-03-15 21:37:35 UTC">
+      <body>but seriously</body>
+    </message>
+    <message id="m0199" participant="136537" time="2010-03-15 21:37:37 UTC">
+      <body>tell me about the offer</body>
+    </message>
+    <message id="m0200" participant="136537" time="2010-03-15 21:37:51 UTC">
+      <body>Rev. John C. Whiteman</body>
+    </message>
+    <message id="m0201" participant="130979" time="2010-03-15 21:38:05 UTC">
+      <body>I really liked it because it wasn't a real in your face book</body>
+    </message>
+    <message id="m0202" participant="130979" time="2010-03-15 21:38:24 UTC">
+      <body>the premise was the guy set out to write a book that proved religion wrong based on factual events</body>
+    </message>
+    <message id="m0203" participant="130979" time="2010-03-15 21:38:42 UTC">
+      <body>and through the process found factual evidence overwhelming him in the opposite manner</body>
+    </message>
+    <message id="m0204" participant="130979" time="2010-03-15 21:39:29 UTC">
+      <body>he even states many times that he is not trying to convince you to believe in god or religion it is just his findings</body>
+    </message>
+    <message id="m0205" participant="136537" time="2010-03-15 21:39:35 UTC">
+      <body>yeah then i definitely dont want to read it</body>
+    </message>
+    <message id="m0206" participant="130979" time="2010-03-15 21:39:35 UTC">
+      <body>which i found refreshing</body>
+    </message>
+    <message id="m0207" participant="130979" time="2010-03-15 21:40:30 UTC">
+      <body>what part made you def not want to read it?</body>
+    </message>
+    <message id="m0208" participant="130979" time="2010-03-15 21:40:39 UTC">
+      <body>that the book is rooted in facts and not opinions?</body>
+    </message>
+    <message id="m0209" participant="130979" time="2010-03-15 21:41:07 UTC">
+      <body>if you disagree with the facts then just disagree with the facts</body>
+    </message>
+    <message id="m0210" participant="136537" time="2010-03-15 21:41:10 UTC">
+      <body>no that this guy has so thoroughly convinced you that he is not full of shit and just trying to get more people on the jesus train</body>
+    </message>
+    <message id="m0211" participant="136537" time="2010-03-15 21:41:26 UTC">
+      <body>LOL</body>
+    </message>
+    <message id="m0212" participant="130979" time="2010-03-15 21:41:29 UTC">
+      <body>you would know - since you know so much about the author</body>
+    </message>
+    <message id="m0213" participant="130979" time="2010-03-15 21:41:32 UTC">
+      <body>and the book</body>
+    </message>
+    <message id="m0214" participant="136537" time="2010-03-15 21:41:40 UTC">
+      <body>hahaha</body>
+    </message>
+    <message id="m0215" participant="130979" time="2010-03-15 21:42:12 UTC">
+      <body>I really don't care that much I just thought it was interesting from any viewpoint and think you should atleast be open to the idea of learning another viewpoint even if you don't agree</body>
+    </message>
+    <message id="m0216" participant="136537" time="2010-03-15 21:42:32 UTC">
+      <body>i mean the dude is a minister casey</body>
+    </message>
+    <message id="m0217" participant="130979" time="2010-03-15 21:42:41 UTC">
+      <body>what are you talking about?</body>
+    </message>
+    <message id="m0218" participant="136537" time="2010-03-15 21:42:52 UTC">
+      <body>Josh McDowell</body>
+    </message>
+    <message id="m0219" participant="130979" time="2010-03-15 21:43:27 UTC">
+      <body>he is now</body>
+    </message>
+    <message id="m0220" participant="136537" time="2010-03-15 21:43:44 UTC">
+      <body>since before college</body>
+    </message>
+    <message id="m0221" participant="130979" time="2010-03-15 21:43:45 UTC">
+      <body>he is actually the son of Jesus</body>
+    </message>
+    <message id="m0222" participant="130979" time="2010-03-15 21:43:57 UTC">
+      <body>here to write slanted books on chrisianity</body>
+    </message>
+    <message id="m0223" participant="136537" time="2010-03-15 21:44:12 UTC">
+      <body>nothing would surprise me</body>
+    </message>
+    <message id="m0224" participant="136537" time="2010-03-15 21:44:25 UTC">
+      <body>Jesus and him: both a bunch of bullshitters</body>
+    </message>
+    <message id="m0225" participant="130979" time="2010-03-15 21:45:07 UTC">
+      <body>and in this argument I am putting way too much emphasis on this book</body>
+    </message>
+    <message id="m0226" participant="130979" time="2010-03-15 21:45:12 UTC">
+      <body>it isn't the end all be all</body>
+    </message>
+    <message id="m0227" participant="130979" time="2010-03-15 21:45:14 UTC">
+      <body>by any means</body>
+    </message>
+    <message id="m0228" participant="130979" time="2010-03-15 21:45:21 UTC">
+      <body>and isn't without fault or anything</body>
+    </message>
+    <message id="m0229" participant="136537" time="2010-03-15 21:45:57 UTC">
+      <body>i mean dude I have a book that might make you feel differently</body>
+    </message>
+    <message id="m0230" participant="136537" time="2010-03-15 21:46:21 UTC">
+      <body>it was written by a really influential person</body>
+    </message>
+    <message id="m0231" participant="130979" time="2010-03-15 21:46:23 UTC">
+      <body>I am not saying you don't but I don't think I would be so against reading it if you thought it would really interest me</body>
+    </message>
+    <message id="m0232" participant="136537" time="2010-03-15 21:46:25 UTC">
+      <body>http://en.wikipedia.org/wiki/Mein_Kampf</body>
+    </message>
+    <message id="m0233" participant="130979" time="2010-03-15 21:46:30 UTC">
+      <body>hahahahahahhahahah</body>
+    </message>
+    <message id="m0234" participant="130979" time="2010-03-15 21:46:31 UTC">
+      <body>hahahahhahah</body>
+    </message>
+    <message id="m0235" participant="130979" time="2010-03-15 21:46:51 UTC">
+      <body>Hitler intrigues me</body>
+    </message>
+    <message id="m0236" participant="136537" time="2010-03-15 21:46:59 UTC">
+      <body>hahaha</body>
+    </message>
+    <message id="m0237" participant="130979" time="2010-03-15 21:47:04 UTC">
+      <body>dead serious</body>
+    </message>
+    <message id="m0238" participant="130979" time="2010-03-15 21:47:14 UTC">
+      <body>aren't you curious how the hell all that went down</body>
+    </message>
+    <message id="m0239" participant="130979" time="2010-03-15 21:47:28 UTC">
+      <body>he was able to convince other people to mass exterminate people</body>
+    </message>
+    <message id="m0240" participant="130979" time="2010-03-15 21:47:30 UTC">
+      <body>crazy</body>
+    </message>
+    <message id="m0241" participant="136537" time="2010-03-15 21:47:30 UTC">
+      <body>yeah i am curious how someone was so influential in that time period</body>
+    </message>
+    <message id="m0242" participant="136537" time="2010-03-15 21:48:02 UTC">
+      <body>but it would help to explain how thousands of years earlier the church was capable of being so influential that their bullshit is still believed today</body>
+    </message>
+    <message id="m0243" participant="136537" time="2010-03-15 21:48:21 UTC">
+      <body>i mean that is how i see it</body>
+    </message>
+    <message id="m0244" participant="136537" time="2010-03-15 21:48:26 UTC">
+      <body>i know that is extremist</body>
+    </message>
+    <message id="m0245" participant="136537" time="2010-03-15 21:48:36 UTC">
+      <body>and i know that it also does a lot of good</body>
+    </message>
+    <message id="m0246" participant="136537" time="2010-03-15 21:48:46 UTC">
+      <body>but it can be so judgemental</body>
+    </message>
+    <message id="m0247" participant="136537" time="2010-03-15 21:49:32 UTC">
+      <body>i will try and read the bookj</body>
+    </message>
+    <message id="m0248" participant="130979" time="2010-03-15 21:49:32 UTC">
+      <body>dude I hate that about religion</body>
+    </message>
+    <message id="m0249" participant="136537" time="2010-03-15 21:49:39 UTC">
+      <body>but i cant promise to get through it</body>
+    </message>
+    <message id="m0250" participant="130979" time="2010-03-15 21:49:56 UTC">
+      <body>I dispise the catholic church that when i go to church with Kristen I am not allowed to take communion</body>
+    </message>
+    <message id="m0251" participant="136537" time="2010-03-15 21:50:02 UTC">
+      <body>i already went on this dudes website and read some of the pull quotes and they made me laugh</body>
+    </message>
+    <message id="m0252" participant="130979" time="2010-03-15 21:50:06 UTC">
+      <body>yet I believe in 95% of the same crap</body>
+    </message>
+    <message id="m0253" participant="130979" time="2010-03-15 21:50:14 UTC">
+      <body>and 100% of the meanigful stuff</body>
+    </message>
+    <message id="m0254" participant="130979" time="2010-03-15 21:50:31 UTC">
+      <body>I am speaking for the all the true protesants not necessarily me \</body>
+    </message>
+    <message id="m0255" participant="136537" time="2010-03-15 21:50:39 UTC">
+      <body>i know what you mean</body>
+    </message>
+    <message id="m0256" participant="130979" time="2010-03-15 21:50:43 UTC">
+      <body>i mean same god</body>
+    </message>
+    <message id="m0257" participant="130979" time="2010-03-15 21:50:45 UTC">
+      <body>same jc</body>
+    </message>
+    <message id="m0258" participant="136537" time="2010-03-15 21:50:46 UTC">
+      <body>catholocism is the worst</body>
+    </message>
+    <message id="m0259" participant="130979" time="2010-03-15 21:50:50 UTC">
+      <body>same bible</body>
+    </message>
+    <message id="m0260" participant="136537" time="2010-03-15 21:50:51 UTC">
+      <body>don't get me started</body>
+    </message>
+    <message id="m0261" participant="130979" time="2010-03-15 21:50:54 UTC">
+      <body>yeah</body>
+    </message>
+    <message id="m0262" participant="130979" time="2010-03-15 21:50:56 UTC">
+      <body>BUT</body>
+    </message>
+    <message id="m0263" participant="130979" time="2010-03-15 21:51:00 UTC">
+      <body>that is what man did</body>
+    </message>
+    <message id="m0264" participant="130979" time="2010-03-15 21:51:11 UTC">
+      <body>so I am starting with just learning about the root of it all</body>
+    </message>
+    <message id="m0265" participant="136537" time="2010-03-15 21:51:18 UTC">
+      <body>yeah came up with some Santa Claus and preached it</body>
+    </message>
+    <message id="m0266" participant="130979" time="2010-03-15 21:51:24 UTC">
+      <body>then if I choose to go to church some day and i can deal with teh good and the bad of it</body>
+    </message>
+    <message id="m0267" participant="136537" time="2010-03-15 21:51:41 UTC">
+      <body>and if you didn't believe what they preached they killed you</body>
+    </message>
+    <message id="m0268" participant="130979" time="2010-03-15 21:51:49 UTC">
+      <body>I mean in all honesty extremism is terrible</body>
+    </message>
+    <message id="m0269" participant="130979" time="2010-03-15 21:51:55 UTC">
+      <body>that is what leads to so many problems</body>
+    </message>
+    <message id="m0270" participant="136537" time="2010-03-15 21:52:04 UTC">
+      <body>yeah and every religion is guilty of it</body>
+    </message>
+    <message id="m0271" participant="130979" time="2010-03-15 21:52:10 UTC">
+      <body>of course</body>
+    </message>
+    <message id="m0272" participant="136537" time="2010-03-15 21:52:16 UTC">
+      <body>well maybe not Buddhists</body>
+    </message>
+    <message id="m0273" participant="136537" time="2010-03-15 21:52:26 UTC">
+      <body>but i don't know enough to be sure about that</body>
+    </message>
+    <message id="m0274" participant="130979" time="2010-03-15 21:52:27 UTC">
+      <body>but it isn't contained to just religion</body>
+    </message>
+    <message id="m0275" participant="130979" time="2010-03-15 21:52:54 UTC">
+      <body>too extreme is most things in life ends up bad</body>
+    </message>
+    <message id="m0276" participant="130979" time="2010-03-15 21:53:07 UTC">
+      <body>too much sex and you end up like tiger</body>
+    </message>
+    <message id="m0277" participant="136537" time="2010-03-15 21:53:11 UTC">
+      <body>yeah i agree</body>
+    </message>
+    <message id="m0278" participant="130979" time="2010-03-15 21:53:32 UTC">
+      <body>too much gchat and you get canned</body>
+    </message>
+    <message id="m0279" participant="136537" time="2010-03-15 21:54:57 UTC">
+      <body>too much snack food and your ass smells for a month</body>
+    </message>
+    <message id="m0280" participant="130979" time="2010-03-15 21:57:42 UTC">
+      <body>for real</body>
+    </message>
+    <message id="m0281" participant="136537" time="2010-03-15 21:58:32 UTC">
+      <body>the more i read about this guy the less i think i can read this book</body>
+    </message>
+    <message id="m0282" participant="136537" time="2010-03-15 22:07:16 UTC">
+      <body>i am just going to say this</body>
+    </message>
+    <message id="m0283" participant="136537" time="2010-03-15 22:07:28 UTC">
+      <body>it will be the last thing i say on the subject - at least for today -</body>
+    </message>
+    <message id="m0284" participant="136537" time="2010-03-15 22:07:42 UTC">
+      <body>it seems to me having watched some of the videos on this dude's website</body>
+    </message>
+    <message id="m0285" participant="136537" time="2010-03-15 22:07:46 UTC">
+      <body>and read about him</body>
+    </message>
+    <message id="m0286" participant="136537" time="2010-03-15 22:08:11 UTC">
+      <body>that for me to believe the "Facts" presented to me in this book - I will have to believe the Bible to be a factual manuscript</body>
+    </message>
+    <message id="m0287" participant="136537" time="2010-03-15 22:08:17 UTC">
+      <body>and that is something he will never get me to believe</body>
+    </message>
+    <message id="m0288" participant="130979" time="2010-03-15 22:16:33 UTC">
+      <body>sorry I was busy reading mein kampf</body>
+    </message>
+    <message id="m0289" participant="136537" time="2010-03-15 22:17:15 UTC">
+      <body>somewhere in DC our Gmail accounts have just been flagged for monitoring</body>
+    </message>
+    <message id="m0290" participant="130979" time="2010-03-15 22:17:29 UTC">
+      <body>haha</body>
+    </message>
+    <message id="m0291" participant="130979" time="2010-03-15 22:17:33 UTC">
+      <body>no doubt</body>
+    </message>
+    <message id="m0292" participant="130979" time="2010-03-15 22:17:42 UTC">
+      <body>the NSA will now be following all my conversations</body>
+    </message>
+    <message id="m0293" participant="136537" time="2010-03-15 22:17:52 UTC">
+      <body>no kidding</body>
+    </message>
+    <message id="m0294" participant="136537" time="2010-03-15 22:18:07 UTC">
+      <body>probably me more though because I had to google it for the wiki address</body>
+    </message>
+    <message id="m0295" participant="130979" time="2010-03-15 22:18:45 UTC">
+      <body>haha</body>
+    </message>
+    <message id="m0296" participant="130979" time="2010-03-15 22:18:48 UTC">
+      <body>I went to it though</body>
+    </message>
+    <message id="m0297" participant="136537" time="2010-03-15 22:19:30 UTC">
+      <body>so did i</body>
+    </message>
+    <message id="m0298" participant="136537" time="2010-03-15 22:19:32 UTC">
+      <body>we are fucked</body>
+    </message>
+    <message id="m0299" participant="136537" time="2010-03-15 22:19:42 UTC">
+      <body>is my assumption right though about the book</body>
+    </message>
+    <message id="m0300" participant="136537" time="2010-03-15 22:19:54 UTC">
+      <body>that a lot of his facts are based on believing the bible to be factual</body>
+    </message>
+    <message id="m0301" participant="130979" time="2010-03-15 22:30:00 UTC">
+      <body>well part of hte book is about the bible being factual</body>
+    </message>
+    <message id="m0302" participant="130979" time="2010-03-15 22:30:08 UTC">
+      <body>that is what interested in me as well</body>
+    </message>
+    <message id="m0303" participant="130979" time="2010-03-15 22:30:15 UTC">
+      <body>and guess what you don't have to believe it</body>
+    </message>
+    <message id="m0304" participant="130979" time="2010-03-15 22:30:33 UTC">
+      <body>just because you read it doesn't mean you will instantly believe or agree</body>
+    </message>
+    <message id="m0305" participant="130979" time="2010-03-15 22:30:38 UTC">
+      <body>Im out</body>
+    </message>
+  </messages>
+</conversation>

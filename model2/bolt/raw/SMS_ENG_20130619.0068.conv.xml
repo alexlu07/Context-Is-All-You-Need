@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0068" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-19 02:40:33 UTC" participant="154390">
+      <body>Are you friends with andre on Facebook?  His son was just born</body>
+    </message>
+    <message id="m0001" time="2013-06-19 02:41:26 UTC" participant="154352">
+      <body>I don't think i am</body>
+    </message>
+    <message id="m0002" time="2013-06-19 02:42:16 UTC" participant="154352">
+      <body>That sounds like good news though</body>
+    </message>
+    <message id="m0003" time="2013-06-19 02:44:53 UTC" participant="154390">
+      <body>Yeah you should look him up and see the cute photos :)</body>
+    </message>
+    <message id="m0004" time="2013-06-19 02:49:37 UTC" participant="154352">
+      <body>Found and sent message/friend request.</body>
+    </message>
+    <message id="m0005" time="2013-06-19 02:53:11 UTC" participant="154390">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>
+

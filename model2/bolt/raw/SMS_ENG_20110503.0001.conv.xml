@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110503.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-05-03 00:08:50 UTC">
+      <body>I heard nicks grandma died, is there a viewing or anything coming up?</body>
+    </message>
+    <message id="m0001" participant="130773" time="2011-05-03 00:37:54 UTC">
+      <body>Oh shit! I didn't even hear. When did you find out? </body>
+    </message>
+    <message id="m0002" participant="130692" time="2011-05-03 00:42:03 UTC">
+      <body>Sandy told me today. Vivas said theres a viewing Wed night, not sure when</body>
+    </message>
+    <message id="m0003" participant="130773" time="2011-05-03 00:45:31 UTC">
+      <body>Oh man. Yeah I'll see if I can get details.</body>
+    </message>
+    <message id="m0004" participant="130692" time="2011-07-01 16:37:11 UTC">
+      <body>The call time will be pretty early tomm. I'll let you know later when they tell me</body>
+    </message>
+    <message id="m0005" participant="130773" time="2011-07-01 16:37:47 UTC">
+      <body>Cool.</body>
+    </message>
+    <message id="m0006" participant="130692" time="2011-07-02 22:09:49 UTC">
+      <body>I think I'm just going to take the subway up in a few, I need to relax for a bit. See you there</body>
+    </message>
+    <message id="m0007" participant="130773" time="2011-07-02 22:11:10 UTC">
+      <body>good dealman. See yah in a bit.</body>
+    </message>
+    <message id="m0009" participant="130692" time="2012-03-19 20:55:51 UTC">
+      <body>You want to work a commercial tomm art dept. $300/day let me know ASAP. Thanks</body>
+    </message>
+  </messages>
+</conversation>

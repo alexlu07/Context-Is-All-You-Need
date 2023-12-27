@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140305.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-05 16:33:35 UTC" participant="152116">
+      <body>Wake up!</body>
+    </message>
+    <message id="m0001" time="2014-03-05 20:46:44 UTC" participant="153491">
+      <body>Packing up, getting ready to leave.</body>
+    </message>
+    <message id="m0002" time="2014-03-05 21:53:50 UTC" participant="153491">
+      <body>I'm coming to pick you up.</body>
+    </message>
+    <message id="m0003" time="2014-03-05 21:53:59 UTC" participant="153491">
+      <body>Where's the building?</body>
+    </message>
+    <message id="m0004" time="2014-03-05 22:17:21 UTC" participant="152116">
+      <body>What building?</body>
+    </message>
+    <message id="m0005" time="2014-03-05 22:17:48 UTC" participant="152116">
+      <body>Oh wait I think you sent that a while ago nevermind</body>
+    </message>
+  </messages>
+</conversation>
+

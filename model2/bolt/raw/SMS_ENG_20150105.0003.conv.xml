@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 18:55:55 UTC" participant="152116">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" time="2015-01-05 18:56:17 UTC" participant="152115">
+      <body>Slow. You?</body>
+    </message>
+    <message id="m0002" time="2015-01-05 18:56:38 UTC" participant="152116">
+      <body>I have a lot to do that I don't wanna do</body>
+    </message>
+    <message id="m0003" time="2015-01-05 18:57:04 UTC" participant="152115">
+      <body>It's because you have other things on your mind.</body>
+    </message>
+    <message id="m0004" time="2015-01-05 18:57:22 UTC" participant="152115">
+      <body>Can't wait to see you tonight.</body>
+    </message>
+    <message id="m0005" time="2015-01-05 18:57:30 UTC" participant="152116">
+      <body>Yeah, like you</body>
+    </message>
+    <message id="m0006" time="2015-01-05 18:58:08 UTC" participant="152115">
+      <body>I'll be down to three patients by around the o'clock. I wish they would send me home but they won't</body>
+    </message>
+    <message id="m0007" time="2015-01-05 18:58:26 UTC" participant="152115">
+      <body>Haha. I was talking about ancestry. But nice response.</body>
+    </message>
+    <message id="m0008" time="2015-01-05 18:58:47 UTC" participant="152116">
+      <body>Haha nooo</body>
+    </message>
+    <message id="m0009" time="2015-01-05 23:23:39 UTC" participant="152115">
+      <body>If you're home can you let me know what's for dinner?</body>
+    </message>
+    <message id="m0010" time="2015-01-05 23:25:49 UTC" participant="152116">
+      <body>Chicken cutlets, mashed potatoes, and string bean almondine</body>
+    </message>
+    <message id="m0011" time="2015-01-05 23:39:28 UTC" participant="152115">
+      <body>Haha. Thanks.</body>
+    </message>
+    <message id="m0012" time="2015-01-06 13:46:22 UTC" participant="152115">
+      <body>It's snowing already!</body>
+    </message>
+    <message id="m0013" time="2015-01-06 13:48:19 UTC" participant="152116">
+      <body>Yeah I noticed</body>
+    </message>
+    <message id="m0014" time="2015-01-06 13:48:21 UTC" participant="152116">
+      <body>It's nice</body>
+    </message>
+    <message id="m0015" time="2015-01-06 13:48:57 UTC" participant="152115">
+      <body>Yeah. It's pretty on the rooftops.</body>
+    </message>
+  </messages>
+</conversation>
+

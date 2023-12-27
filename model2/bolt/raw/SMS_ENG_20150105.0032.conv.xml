@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 02:14:47 UTC" participant="153244">
+      <body>Where she live?</body>
+    </message>
+    <message id="m0001" time="2015-01-05 02:15:17 UTC" participant="153799">
+      <body>Lancaster </body>
+    </message>
+    <message id="m0002" time="2015-01-05 02:15:47 UTC" participant="153244">
+      <body>Right</body>
+    </message>
+    <message id="m0003" time="2015-01-05 02:45:19 UTC" participant="153799">
+      <body>Can u bring me home pepsi? Im going through withdraw of a carbonated beverage.</body>
+    </message>
+    <message id="m0004" time="2015-01-05 03:37:59 UTC" participant="153244">
+      <body>Omw home. . Open door bec I have alot to carry</body>
+    </message>
+    <message id="m0005" time="2015-01-05 03:38:30 UTC" participant="153799">
+      <body>Been open</body>
+    </message>
+    <message id="m0006" time="2015-01-05 03:38:59 UTC" participant="153244">
+      <body>Ok cool.. thanks</body>
+    </message>
+  </messages>
+</conversation>
+

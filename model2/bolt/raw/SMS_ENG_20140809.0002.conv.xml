@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140809.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-09 11:53:54 UTC" participant="152115">
+      <body>Do you think you could drop off my interview dress at the dry cleaners today? Would it be ready by Monday?</body>
+    </message>
+    <message id="m0001" time="2014-08-09 14:46:37 UTC" participant="152117">
+      <body>I could drop it off but cant gaurantee it being done on monday. What do you want me to do and where is this dress?</body>
+    </message>
+    <message id="m0002" time="2014-08-09 14:47:03 UTC" participant="152115">
+      <body>Well don't do it if I can't get it Monday.</body>
+    </message>
+    <message id="m0003" time="2014-08-09 14:47:47 UTC" participant="152117">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

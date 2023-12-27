@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120414.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135107" time="2012-04-14 17:23:12 UTC">
+      <body>MARTHA!  Happy Birthday sweet one.  </body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-04-14 21:38:54 UTC">
+      <body>:) you. Thanks!</body>
+    </message>
+    <message id="m0002" participant="135107" time="2012-04-15 13:11:28 UTC">
+      <body>Tell me about your birthday</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-04-16 03:36:22 UTC">
+      <body>Sorry I was hungover this morning when I got this. It was nice. Birthdays aren't as fun these days, more reflective.</body>
+    </message>
+  </messages>
+</conversation>

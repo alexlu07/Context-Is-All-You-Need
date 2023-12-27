@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-18 20:28:33 UTC" participant="134288">
+      <body>Please check your email.  Timely decision needed regarding new medical plan.  Talk to Kristen. Thanks. Eileen </body>
+    </message>
+    <message id="m0001" time="2013-04-18 20:29:28 UTC" participant="130979">
+      <body>Looking now. Thanks </body>
+    </message>
+    <message id="m0002" time="2013-04-18 20:30:04 UTC" participant="134288">
+      <body>Great!</body>
+    </message>
+    <message id="m0003" time="2013-04-19 19:40:10 UTC" participant="134288">
+      <body>Did you make decision on which plan?? You're my last one</body>
+    </message>
+    <message id="m0004" time="2013-04-19 19:42:19 UTC" participant="134288">
+      <body> Nevermind. Saw email. Thx</body>
+    </message>
+  </messages>
+</conversation>
+

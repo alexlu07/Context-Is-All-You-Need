@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-12 02:53:23 UTC" participant="154392">
+      <body>I'm good after 7.</body>
+    </message>
+    <message id="m0001" time="2013-01-12 02:56:03 UTC" participant="154352">
+      <body>Tuesday got taken. How about 7:15 on Wednesday?</body>
+    </message>
+    <message id="m0002" time="2013-01-12 03:03:01 UTC" participant="154392">
+      <body>Did u take that slot?  It gone</body>
+    </message>
+    <message id="m0003" time="2013-01-12 03:04:18 UTC" participant="154392">
+      <body>7:15 is fine</body>
+    </message>
+    <message id="m0004" time="2013-01-12 03:05:04 UTC" participant="154392">
+      <body>If you got that slot. I tried for wed and it was taken</body>
+    </message>
+  </messages>
+</conversation>
+

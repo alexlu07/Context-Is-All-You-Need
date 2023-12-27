@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120921.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135378" time="2012-09-21 16:02:08 UTC">
+      <body>hey sofie, how are you doing? I've been so sick for two days cuz the weather. Might be late to the meeting a little bit. </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-21 16:02:48 UTC">
+      <body>Ok poor lady.  </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-21 17:42:01 UTC">
+      <body>We are on 4th floor</body>
+    </message>
+    <message id="m0003" participant="135378" time="2012-09-21 17:55:12 UTC">
+      <body>where on 4th</body>
+    </message>
+    <message id="m0004" participant="135378" time="2012-09-21 17:55:12 UTC">
+      <body>Is that 3rd?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-09-21 17:56:03 UTC">
+      <body>Dmi grad area</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-09-21 17:56:57 UTC">
+      <body>4th graduate studios</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-09-21 17:57:04 UTC">
+      <body>First row of studios</body>
+    </message>
+  </messages>
+</conversation>

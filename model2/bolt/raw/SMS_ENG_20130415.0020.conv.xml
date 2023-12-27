@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-15 20:13:25 UTC">
+      <body>hey you...</body>
+    </message>
+    <message id="m0001" participant="131389" time="2013-04-15 20:18:50 UTC">
+      <body>Hey.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-15 20:29:47 UTC">
+      <body>how's you?
+how's your day?</body>
+    </message>
+    <message id="m0003" participant="131389" time="2013-04-16 17:38:33 UTC">
+      <body>Hey. you always have pretty bad timing with the texts...but then again, i do seem to be busier with transports and stuff.</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-16 17:58:41 UTC">
+      <body>well...i'm always glad to hear from you. so there!</body>
+    </message>
+  </messages>
+</conversation>

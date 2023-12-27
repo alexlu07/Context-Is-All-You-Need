@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-03-17 19:06:01 UTC">
+      <body>Heading home now. Shopping on Sundays sucks</body>
+    </message>
+    <message id="m0001" participant="131282" time="2013-03-17 19:06:49 UTC">
+      <body>she us still sleeping</body>
+    </message>
+    <message id="m0002" participant="131282" time="2013-03-17 19:07:05 UTC">
+      <body>think I'm going to wake her up soon</body>
+    </message>
+    <message id="m0003" participant="131281" time="2013-03-17 19:09:58 UTC">
+      <body>:(</body>
+    </message>
+  </messages>
+</conversation>

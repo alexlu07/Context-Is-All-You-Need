@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140304.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-04 22:46:07 UTC" participant="152374">
+      <body>Do you want to meet at my place and walk over? I just need an extra 2 minutes to stop at the ###### on #########, they have one of my bank's atms</body>
+    </message>
+    <message id="m0001" time="2014-03-04 23:14:09 UTC" participant="153472">
+      <body>Sure! I'm of course running a bit late.</body>
+    </message>
+    <message id="m0002" time="2014-03-04 23:14:59 UTC" participant="153472">
+      <body>I'm sorry got caught up at work. I'll be by ur place by 6:45.</body>
+    </message>
+    <message id="m0003" time="2014-03-04 23:16:16 UTC" participant="152374">
+      <body>OK! Call when you're close, I'll come out</body>
+    </message>
+    <message id="m0004" time="2014-03-04 23:41:24 UTC" participant="153472">
+      <body>On my way. Come on out in like 5 mins.</body>
+    </message>
+    <message id="m0005" time="2014-03-04 23:42:29 UTC" participant="152374">
+      <body>OK!</body>
+    </message>
+    <message id="m0006" time="2014-03-04 23:47:26 UTC" participant="153472">
+      <body>Hmmm... I think I'm here. Other side of green door now?</body>
+    </message>
+  </messages>
+</conversation>
+

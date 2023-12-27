@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-02-02 15:39:31 UTC">
+      <body>Hey, what's your social?</body>
+    </message>
+    <message id="m0001" participant="131505" time="2013-02-02 16:19:56 UTC">
+      <body>Ready and willing.   Afternoon movie for les miz?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-02-02 16:29:05 UTC">
+      <body>  Social security #!</body>
+    </message>
+    <message id="m0003" participant="131505" time="2013-02-02 16:29:35 UTC">
+      <body>You meant SSN?</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-02-02 17:06:35 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-02-02 17:07:01 UTC">
+      <body>Filling out my Pennfed signature card and you're my related member</body>
+    </message>
+  </messages>
+</conversation>

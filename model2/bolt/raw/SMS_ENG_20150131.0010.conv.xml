@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150131.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-31 00:14:34 UTC" participant="153624">
+      <body>What are you doing for dinner?</body>
+    </message>
+    <message id="m0001" time="2015-01-31 00:14:56 UTC" participant="153624">
+      <body>You want any steamed asparagus?</body>
+    </message>
+    <message id="m0002" time="2015-01-31 00:15:01 UTC" participant="153547">
+      <body>Fish taco</body>
+    </message>
+    <message id="m0003" time="2015-01-31 15:21:36 UTC" participant="153624">
+      <body>Omg you are the best. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135378" time="2013-01-25 17:21:04 UTC">
+      <body>Hey sofie. Do you know prof Jan's office? I forgot to ask...</body>
+    </message>
+    <message id="m0001" participant="135378" time="2013-01-25 17:21:04 UTC">
+      <body>Ok thx I think I know where it is. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-25 17:21:35 UTC">
+      <body>Ninth floor </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-25 17:21:46 UTC">
+      <body>Forget the number</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-25 17:21:58 UTC">
+      <body>Brian and him share an office up there</body>
+    </message>
+  </messages>
+</conversation>

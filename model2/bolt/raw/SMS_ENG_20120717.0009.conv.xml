@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120717.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-07-17 18:57:18 UTC">
+      <body>Almost home</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-07-17 19:55:45 UTC">
+      <body>Ok stopping at the bank and grocery store. Home by 5</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0075" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-10 02:28:12 UTC" participant="153418">
+      <body>Uh...for the sine part, right?</body>
+    </message>
+    <message id="m0001" time="2013-06-10 02:39:07 UTC" participant="153444">
+      <body>actully i got it. btw did u get the exam same answerd as cohen?my answers are different. like i did t get a 6/5....instead i got a 3/5 </body>
+    </message>
+    <message id="m0002" time="2013-06-10 02:39:50 UTC" participant="153418">
+      <body>It's 3/5. He forgot Ts on the RHS.</body>
+    </message>
+    <message id="m0003" time="2013-06-10 02:40:07 UTC" participant="153418">
+      <body>You just squared and took the square root of H, yes?</body>
+    </message>
+    <message id="m0004" time="2013-06-10 02:42:17 UTC" participant="153444">
+      <body>i used eulers thing. then i got 3-3(cos (2pif..))/5-cos..jsin...
+and then i sqared the imaginaries and reals..and ya
+</body>
+    </message>
+    <message id="m0005" time="2013-06-10 02:43:23 UTC" participant="153444">
+      <body>oh btw do u think by any chance  we will get to draw a graph using singualirty functions like in midterm one? </body>
+    </message>
+    <message id="m0006" time="2013-06-10 02:44:00 UTC" participant="153418">
+      <body>Doubt it. It's pretty easy if they do want us to do it.</body>
+    </message>
+    <message id="m0007" time="2013-06-10 02:45:16 UTC" participant="153444">
+      <body>no no its the hardest. out of all for me. like i still dont get tht stuff. lol </body>
+    </message>
+    <message id="m0008" time="2013-06-10 02:45:31 UTC" participant="153444">
+      <body>bibo stable i dnt get it either..argh</body>
+    </message>
+    <message id="m0009" time="2013-06-10 02:46:27 UTC" participant="153418">
+      <body>I haven't looked at Transforms since Thursday. It's like...if h exists it's BIBO or something.</body>
+    </message>
+    <message id="m0010" time="2013-06-10 02:47:54 UTC" participant="153444">
+      <body>he said if h(n) is absolutely summable then its Bibo. i dnt understand what that means</body>
+    </message>
+    <message id="m0011" time="2013-06-10 02:49:27 UTC" participant="153418">
+      <body>Me either. Some higher level math shit. Just memorize that line.</body>
+    </message>
+    <message id="m0012" time="2013-06-10 02:50:39 UTC" participant="153444">
+      <body>hm ok. btw how are u planning on studying for the exam? </body>
+    </message>
+    <message id="m0013" time="2013-06-10 02:51:21 UTC" participant="153418">
+      <body>Redoing the exam and maybe the last few quizzes.</body>
+    </message>
+    <message id="m0014" time="2013-06-10 02:52:31 UTC" participant="153444">
+      <body>seems like the final is based on only the content covered after the midterm right? </body>
+    </message>
+    <message id="m0015" time="2013-06-10 02:53:48 UTC" participant="153418">
+      <body>It's comprehensive. You need to know stuff before the midterm to do stuff on the final.</body>
+    </message>
+    <message id="m0016" time="2013-06-10 03:00:43 UTC" participant="153444">
+      <body>btw did u do that last question from homework 8 (the last hw)? i have a feeling that.cohen is gonna have the exact same qs in the.exam lol</body>
+    </message>
+    <message id="m0017" time="2013-06-10 03:01:18 UTC" participant="153418">
+      <body>Uh...no. I need to do it.</body>
+    </message>
+    <message id="m0018" time="2013-06-10 03:01:45 UTC" participant="153418">
+      <body>I haven't done the transforms HW entirely in ages.</body>
+    </message>
+    <message id="m0019" time="2013-06-10 03:02:51 UTC" participant="153444">
+      <body>when u do it. please let me.know i need to clarify some stuff..and compare answers. lol take my word.he will have that qs on the exam. lol mainly.because</body>
+    </message>
+    <message id="m0020" time="2013-06-10 03:03:01 UTC" participant="153444">
+      <body> noone payed attention to it :-P </body>
+    </message>
+    <message id="m0021" time="2013-06-10 04:04:33 UTC" participant="153444">
+      <body>fyi-- just read in a.book BiBo stable- if its impulse response is absolutely integrable or absolutely summable </body>
+    </message>
+    <message id="m0022" time="2013-06-10 18:39:07 UTC" participant="153444">
+      <body>the quiz 9 grade is up. i have failed ridiculously :O unbeleivable...idk y i got the frst partly right and the last part correct :-( </body>
+    </message>
+    <message id="m0023" time="2013-06-10 19:16:46 UTC" participant="153418">
+      <body>Just pick the biggest harmonics, man.</body>
+    </message>
+    <message id="m0024" time="2013-06-10 19:23:30 UTC" participant="153444">
+      <body>that's kinda wat i did :'(. this way il fail the final and i will have to retake the course..and omgg the end of.my life..</body>
+    </message>
+    <message id="m0025" time="2013-06-10 19:24:07 UTC" participant="153418">
+      <body>You have til Friday to study. </body>
+    </message>
+    <message id="m0026" time="2013-06-10 19:24:35 UTC" participant="153418">
+      <body>Just study everyday til then.</body>
+    </message>
+    <message id="m0027" time="2013-06-10 21:08:45 UTC" participant="153444">
+      <body>hey do u know how to do the last problem in hw 7? like how to get x(n) when the ck s are givn. idk if u were there   when i asked that problem from cohen</body>
+    </message>
+    <message id="m0028" time="2013-06-10 21:08:54 UTC" participant="153444">
+      <body>. but i dnt understand how he did it. </body>
+    </message>
+    <message id="m0029" time="2013-06-10 21:09:09 UTC" participant="153418">
+      <body>Busy right now.</body>
+    </message>
+    <message id="m0030" time="2013-06-10 21:10:56 UTC" participant="153444">
+      <body>ok np </body>
+    </message>
+  </messages>
+</conversation>
+

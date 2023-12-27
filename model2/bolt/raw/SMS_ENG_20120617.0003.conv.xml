@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120617.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-17 04:18:05 UTC">
+      <body>How's San Fran?</body>
+    </message>
+    <message id="m0001" participant="135117" time="2012-06-17 22:21:00 UTC">
+      <body>It is absolutely incredible. Beautiful, inspiring, my kind of place. Still missing mn though. How's the cabin? </body>
+    </message>
+  </messages>
+</conversation>

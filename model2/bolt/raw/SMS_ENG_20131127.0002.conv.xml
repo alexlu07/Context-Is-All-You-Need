@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131127.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-27 14:51:44 UTC" participant="152535">
+      <body>Hey! You might want to take ria to vedge for a birthday dinner. Its awesome. </body>
+    </message>
+    <message id="m0001" time="2013-11-27 18:12:24 UTC" participant="152417">
+      <body>That would be lovely, it might not be possible though, shes with her fam today and tomorrow</body>
+    </message>
+    <message id="m0002" time="2013-11-27 18:42:08 UTC" participant="152535">
+      <body>Wait! Shes from philla too? I forgot. Crazy. </body>
+    </message>
+    <message id="m0003" time="2013-11-27 18:45:46 UTC" participant="152417">
+      <body>Yea, shes from near quakertown</body>
+    </message>
+  </messages>
+</conversation>
+

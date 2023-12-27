@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120906.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131054" time="2012-09-06 14:11:49 UTC">
+      <body>Hi still trying to figure out monday is ok?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-09-06 15:13:04 UTC">
+      <body>Yes, Monday is ok</body>
+    </message>
+    <message id="m0002" participant="131054" time="2012-09-06 17:12:28 UTC">
+      <body>How abot nonday at noon?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-09-06 18:03:42 UTC">
+      <body>I'm in school during the day day, I need evenings if possible?</body>
+    </message>
+    <message id="m0004" participant="131054" time="2012-09-06 23:29:50 UTC">
+      <body>I can see you monday at 610 in west philly ok? Let me know asap</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-09-07 00:03:45 UTC">
+      <body>Yes, that works, see you then!</body>
+    </message>
+    <message id="m0006" participant="131054" time="2012-09-07 00:05:09 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

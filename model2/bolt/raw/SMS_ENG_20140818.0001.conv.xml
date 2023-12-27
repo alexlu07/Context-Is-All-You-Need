@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140818.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-18 20:16:29 UTC" participant="152115">
+      <body>On subway</body>
+    </message>
+    <message id="m0001" time="2014-08-18 20:17:39 UTC" participant="152117">
+      <body>Ok luv u</body>
+    </message>
+    <message id="m0002" time="2014-08-19 17:30:25 UTC" participant="152115">
+      <body>Text me the address of the place. If they're there I'll go.</body>
+    </message>
+    <message id="m0003" time="2014-08-19 17:32:03 UTC" participant="152117">
+      <body>I just called. Its not open. Waiting for her to call me. I will have to buy another and have it mailed to me</body>
+    </message>
+  </messages>
+</conversation>
+

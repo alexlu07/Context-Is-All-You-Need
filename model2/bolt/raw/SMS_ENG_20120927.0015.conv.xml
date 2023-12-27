@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120927.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136263" time="2012-09-27 05:02:56 UTC">
+      <body>Hey half moon.
+
+
+Where yo otha half?!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-27 15:25:56 UTC">
+      <body/>
+    </message>
+    <message id="m0002" participant="136263" time="2012-09-27 21:26:24 UTC">
+      <body>Outside dobbs in 5</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-27 21:27:13 UTC">
+      <body>Did you leave without me</body>
+    </message>
+  </messages>
+</conversation>

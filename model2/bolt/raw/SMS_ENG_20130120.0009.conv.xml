@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130120.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131025" time="2013-01-20 01:42:31 UTC">
+      <body>Hey! We ran into some friends at ######### who are also coming to the show, so we will see you in ####### :-)</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-01-20 01:43:18 UTC">
+      <body>Excellent!</body>
+    </message>
+  </messages>
+</conversation>

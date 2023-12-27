@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-23 16:19:08 UTC">
+      <body>Hi. How are you?</body>
+    </message>
+    <message id="m0001" participant="131346" time="2013-07-23 16:57:44 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131346" time="2013-07-23 16:57:44 UTC">
+      <body>I'm well</body>
+    </message>
+    <message id="m0003" participant="131346" time="2013-07-23 16:57:50 UTC">
+      <body>And you</body>
+    </message>
+    <message id="m0004" participant="134920" time="2013-07-23 17:42:15 UTC">
+      <body>Not too bad. Thanks. It's hot today. How's the weather there?</body>
+    </message>
+    <message id="m0005" participant="131346" time="2013-07-23 17:52:52 UTC">
+      <body>Idk. Im indoors all day with the ac, on</body>
+    </message>
+    <message id="m0006" participant="134920" time="2013-07-23 17:54:53 UTC">
+      <body>Yeah definitely. My coworker and I disagree about ac. She gets cold easily and I am always hot.</body>
+    </message>
+    <message id="m0007" participant="134920" time="2013-07-23 17:55:19 UTC">
+      <body>Today she won and it was sweltering in the office.</body>
+    </message>
+    <message id="m0008" participant="131346" time="2013-07-23 17:59:21 UTC">
+      <body>Oh poor you</body>
+    </message>
+    <message id="m0009" participant="131346" time="2013-07-23 17:59:26 UTC">
+      <body>Where are you located??</body>
+    </message>
+    <message id="m0010" participant="134920" time="2013-07-23 18:00:53 UTC">
+      <body>SF Bay Area. I live in the city, but I work in the peninsula where it is warmer. What about you?</body>
+    </message>
+    <message id="m0011" participant="131346" time="2013-07-23 18:02:12 UTC">
+      <body>Philadelphia</body>
+    </message>
+    <message id="m0012" participant="134920" time="2013-07-23 18:04:40 UTC">
+      <body>I used to live in Pittsburgh for five years. Sometimes I miss PA. Are you from PA originally?</body>
+    </message>
+    <message id="m0013" participant="131346" time="2013-07-23 18:08:47 UTC">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>

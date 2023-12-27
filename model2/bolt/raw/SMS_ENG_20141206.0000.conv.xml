@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141206.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-06 20:53:31 UTC" participant="152117">
+      <body>How are you guys doing? Are u on train yet?</body>
+    </message>
+    <message id="m0001" time="2014-12-06 22:17:12 UTC" participant="152115">
+      <body>5:40 we get in</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141115.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-15 16:41:28 UTC" participant="152735">
+      <body>What time do you normally have dinner? And yes!</body>
+    </message>
+    <message id="m0001" time="2014-11-15 17:08:16 UTC" participant="152772">
+      <body>6</body>
+    </message>
+    <message id="m0002" time="2014-11-16 15:52:18 UTC" participant="152735">
+      <body/>
+    </message>
+    <message id="m0003" time="2014-11-16 15:52:32 UTC" participant="152735">
+      <body>Let's meet up later this week, this weekend etc </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-25 02:20:47 UTC" participant="154392">
+      <body>You guys going?</body>
+    </message>
+    <message id="m0001" time="2013-02-25 15:27:30 UTC" participant="154392">
+      <body>Are you guys taking the 830 shuttle?</body>
+    </message>
+    <message id="m0002" time="2013-02-25 15:28:03 UTC" participant="154352">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" time="2013-02-25 15:29:56 UTC" participant="154392">
+      <body>Is stevo with you?</body>
+    </message>
+    <message id="m0004" time="2013-02-25 15:31:25 UTC" participant="154352">
+      <body>He is wandering around outside the bus. So maybe/probably?</body>
+    </message>
+  </messages>
+</conversation>
+

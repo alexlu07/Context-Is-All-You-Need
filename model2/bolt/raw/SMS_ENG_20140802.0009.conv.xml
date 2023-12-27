@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140802.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-02 21:08:35 UTC" participant="152118">
+      <body>Hey....everything okay? Haven't heard from you in a loooong time.</body>
+    </message>
+    <message id="m0001" time="2014-08-02 23:27:41 UTC" participant="153491">
+      <body>Hey! I blame classes! How are you?</body>
+    </message>
+    <message id="m0002" time="2014-08-02 23:30:03 UTC" participant="152118">
+      <body>Good! Almost done, right? Are you getting our group messages at least? That's why I was worried! But just glad mike will be here again soon!</body>
+    </message>
+    <message id="m0003" time="2014-08-02 23:43:47 UTC" participant="153491">
+      <body>Group messages?</body>
+    </message>
+    <message id="m0004" time="2014-08-03 03:57:20 UTC" participant="153491">
+      <body>I haven't been getting them.</body>
+    </message>
+  </messages>
+</conversation>
+

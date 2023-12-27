@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130606.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136474" time="2013-06-06 03:00:48 UTC">
+      <body>Wheres karoke?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-06 03:22:44 UTC">
+      <body>You tell me. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-06 03:23:04 UTC">
+      <body>We'll find a spot if you can't. </body>
+    </message>
+  </messages>
+</conversation>

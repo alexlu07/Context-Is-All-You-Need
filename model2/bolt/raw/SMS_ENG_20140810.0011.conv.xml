@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 00:27:44 UTC" participant="153632">
+      <body>We just got some dinner. Probably wont leave here til like 11</body>
+    </message>
+    <message id="m0001" time="2014-08-10 00:27:44 UTC" participant="153632">
+      <body>Ok thanks</body>
+    </message>
+    <message id="m0002" time="2014-08-10 00:29:14 UTC" participant="153548">
+      <body>Sounds good! Call my phone when you get here I'll leave the ringer on. </body>
+    </message>
+    <message id="m0003" time="2014-08-10 00:31:32 UTC" participant="153548">
+      <body>I might wake you guys up in the AM. I'm gonna try to get out of philly by 9-9:30.</body>
+    </message>
+    <message id="m0004" time="2014-08-10 00:32:36 UTC" participant="153632">
+      <body>Totally fine</body>
+    </message>
+    <message id="m0005" time="2014-08-10 00:32:53 UTC" participant="153548">
+      <body>Okay cool. Have fun! Drive safe</body>
+    </message>
+    <message id="m0006" time="2014-08-10 00:32:59 UTC" participant="153632">
+      <body>Even if its earlier thats fine</body>
+    </message>
+    <message id="m0007" time="2014-08-10 00:33:15 UTC" participant="153548">
+      <body>Don't think it will be any earlier than that</body>
+    </message>
+  </messages>
+</conversation>
+

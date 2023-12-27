@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140916.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-16 17:23:37 UTC" participant="152115">
+      <body>Hey. I just realized. You know that you have until this Friday to put in for time off on the 3rd and possibly the 6th, right?</body>
+    </message>
+    <message id="m0001" time="2014-09-16 17:39:45 UTC" participant="152115">
+      <body>And no meat to make bulgogi :( Now I want beef cubes. It sucks that they're such a rip off now.</body>
+    </message>
+    <message id="m0002" time="2014-09-16 19:30:03 UTC" participant="152116">
+      <body>Why do I have to do that?</body>
+    </message>
+    <message id="m0003" time="2014-09-16 19:32:01 UTC" participant="152115">
+      <body>You should always give two weeks in advanced for time off so they can approve it.  It's just proper protocol. You'll probably still get the day if you wait, but it looks better to do it early.</body>
+    </message>
+    <message id="m0004" time="2014-09-16 21:29:23 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" time="2014-09-16 21:30:24 UTC" participant="152116">
+      <body>I'm leaving now. I still have to go to Urban Outfitters</body>
+    </message>
+    <message id="m0006" time="2014-09-16 21:30:44 UTC" participant="152115">
+      <body>Don't worry about that. I can do it over the weekend.</body>
+    </message>
+    <message id="m0007" time="2014-09-16 21:41:21 UTC" participant="152116">
+      <body>It's done</body>
+    </message>
+    <message id="m0008" time="2014-09-16 21:41:46 UTC" participant="152115">
+      <body>Thank you :)</body>
+    </message>
+    <message id="m0009" time="2014-09-16 21:42:03 UTC" participant="152116">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

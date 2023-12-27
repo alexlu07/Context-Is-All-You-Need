@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-04-19 12:43:05 UTC">
+      <body>I saw you get off the 405! Welcome back! Let's all hang soon. We can visit with a bottle of wine for some grown-up time!</body>
+    </message>
+    <message id="m0001" participant="131034" time="2013-04-19 12:44:50 UTC">
+      <body>Definitely! Love that idea! Hope you are well!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-04-19 12:49:27 UTC">
+      <body>Same!</body>
+    </message>
+  </messages>
+</conversation>

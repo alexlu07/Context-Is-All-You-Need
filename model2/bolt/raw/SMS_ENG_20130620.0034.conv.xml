@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-20 14:23:18 UTC">
+      <body>So u check out that studio?</body>
+    </message>
+    <message id="m0001" participant="132565" time="2013-06-20 15:29:37 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-20 15:33:09 UTC">
+      <body>What are u thinkin</body>
+    </message>
+    <message id="m0003" participant="132565" time="2013-06-20 15:34:00 UTC">
+      <body>Ill prolly use em. Just gotta contact em, ill keep u informed</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-20 15:43:01 UTC">
+      <body>Sweet</body>
+    </message>
+  </messages>
+</conversation>

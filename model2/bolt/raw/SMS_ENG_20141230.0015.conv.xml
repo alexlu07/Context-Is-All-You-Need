@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141230.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-30 20:01:04 UTC" participant="149372">
+      <body>Hey, I accidentally transferred $43.33 to your account instead of Liz's. Can you transfer back to company when you get a chance?</body>
+    </message>
+    <message id="m0001" time="2014-12-30 20:05:14 UTC" participant="153547">
+      <body> Ok</body>
+    </message>
+    <message id="m0002" time="2014-12-30 20:05:20 UTC" participant="149372">
+      <body>Thx.</body>
+    </message>
+    <message id="m0003" time="2014-12-30 20:29:25 UTC" participant="153547">
+      <body>Done. Make sure it went through </body>
+    </message>
+    <message id="m0004" time="2014-12-30 21:02:56 UTC" participant="149372">
+      <body>Cool. Thx. I will check when I get home. </body>
+    </message>
+    <message id="m0005" time="2014-12-31 13:39:12 UTC" participant="149372">
+      <body>Got the money. (Minus 30cents but you can keep that for a service fee) Thx. </body>
+    </message>
+  </messages>
+</conversation>
+

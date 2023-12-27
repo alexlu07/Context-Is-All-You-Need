@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131006.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-06 01:26:20 UTC" participant="153244">
+      <body>Hey, just parked.. 2nd fl</body>
+    </message>
+    <message id="m0001" time="2013-10-06 01:28:41 UTC" participant="154893">
+      <body>Me too</body>
+    </message>
+    <message id="m0002" time="2013-10-06 01:32:39 UTC" participant="154893">
+      <body>Where are u</body>
+    </message>
+    <message id="m0003" time="2013-10-06 01:33:12 UTC" participant="153244">
+      <body>Just walked in..  bar... go left near the show room</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131366" time="2013-03-28 01:52:32 UTC">
+      <body>Hey I have to meet with you fri am at home I have to do some family stuff today.</body>
+    </message>
+    <message id="m0001" participant="131366" time="2013-03-28 16:13:56 UTC">
+      <body>Hey did you get my text last night?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-28 16:21:12 UTC">
+      <body>yeah.</body>
+    </message>
+  </messages>
+</conversation>

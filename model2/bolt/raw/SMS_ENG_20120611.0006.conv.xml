@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-11 00:41:05 UTC">
+      <body>What did you get on your Econ paper</body>
+    </message>
+    <message id="m0001" participant="136207" time="2012-06-11 00:42:40 UTC">
+      <body>85</body>
+    </message>
+    <message id="m0002" participant="136207" time="2012-06-11 00:42:40 UTC">
+      <body>I'm not redoing it</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-06-11 00:46:57 UTC">
+      <body>Me neither lol</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150210.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-10 03:11:32 UTC" participant="152417">
+      <body>Are you still up?</body>
+    </message>
+    <message id="m0001" time="2015-02-10 03:11:59 UTC" participant="152428">
+      <body>Yes</body>
+    </message>
+    <message id="m0002" time="2015-02-10 03:15:01 UTC" participant="152428">
+      <body>Waasup?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141010.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-10 01:17:59 UTC" participant="153565">
+      <body>Any idea what time the opening is?</body>
+    </message>
+    <message id="m0001" time="2014-10-10 01:19:10 UTC" participant="153547">
+      <body>7</body>
+    </message>
+    <message id="m0002" time="2014-10-10 18:29:54 UTC" participant="153565">
+      <body>Is the show going to have lots of new stuff? Still kind of on the fence about traveling that far.</body>
+    </message>
+    <message id="m0003" time="2014-10-10 18:32:57 UTC" participant="153547">
+      <body>Not a lot. Don't worry about coming if it's lots of trouble.  </body>
+    </message>
+  </messages>
+</conversation>
+

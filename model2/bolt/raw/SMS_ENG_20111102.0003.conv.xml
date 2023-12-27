@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111102.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-11-02 00:58:10 UTC">
+      <body>When is your concert in NYC?</body>
+    </message>
+    <message id="m0001" participant="135107" time="2011-11-02 00:59:10 UTC">
+      <body>We're in NYC on the 9th </body>
+    </message>
+    <message id="m0002" participant="135107" time="2011-11-02 00:59:42 UTC">
+      <body>Probably after 9pm</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-11-02 01:38:33 UTC">
+      <body>Making it difficult Skidmore...</body>
+    </message>
+    <message id="m0004" participant="135107" time="2011-11-02 01:39:54 UTC">
+      <body>It's really not a big deal if you miss it ;)</body>
+    </message>
+  </messages>
+</conversation>

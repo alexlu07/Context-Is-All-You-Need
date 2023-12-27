@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-11 17:16:52 UTC" participant="154390">
+      <body>Cool! Didn't know you ordered a new phone</body>
+    </message>
+    <message id="m0001" time="2012-12-11 17:22:27 UTC" participant="154352">
+      <body>It's the same model as yours</body>
+    </message>
+    <message id="m0002" time="2012-12-11 23:49:29 UTC" participant="154390">
+      <body>Oh neat. Yeah i really like it :)</body>
+    </message>
+  </messages>
+</conversation>
+

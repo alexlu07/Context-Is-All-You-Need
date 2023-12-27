@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150310.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-10 22:25:39 UTC" participant="153268">
+      <body>Sooo...are you tired of people telling you how cute you look with bangs yet?</body>
+    </message>
+    <message id="m0001" time="2015-03-11 20:23:40 UTC" participant="152734">
+      <body>Not yet!!</body>
+    </message>
+    <message id="m0002" time="2015-03-11 20:24:32 UTC" participant="153268">
+      <body>Everyone loving your new look?</body>
+    </message>
+    <message id="m0003" time="2015-03-11 20:26:37 UTC" participant="152734">
+      <body>It's getting rave reviews! It rained yesterday and bangs stayed mostly under control, so that's good</body>
+    </message>
+    <message id="m0004" time="2015-03-11 20:26:40 UTC" participant="153268">
+      <body>Ttyl</body>
+    </message>
+    <message id="m0005" time="2015-03-11 20:28:49 UTC" participant="152734">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

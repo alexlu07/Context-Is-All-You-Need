@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-12 22:26:13 UTC">
+      <body>My sister said I was mean to you.  Sorry I think it's just sassy. But I really don't want to be mean. </body>
+    </message>
+    <message id="m0001" participant="135443" time="2012-10-12 22:52:00 UTC">
+      <body>You weren't mean! Please tell your sister I'm a young carmudgeon. :-)</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-12 22:52:30 UTC">
+      <body>She said its not nice to call people lame</body>
+    </message>
+  </messages>
+</conversation>

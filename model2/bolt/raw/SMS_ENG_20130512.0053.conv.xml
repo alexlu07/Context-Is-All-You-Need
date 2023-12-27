@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-12 01:11:48 UTC">
+      <body>Do you have or have access to that canned air stuff with a straw that I can use some of?</body>
+    </message>
+    <message id="m0001" participant="135304" time="2013-05-12 01:13:59 UTC">
+      <body>Yeah- do you want it tonight? I'm going to swing by the suite later and i can bring it. We're doing catan in ryan at the moment.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-12 01:14:20 UTC">
+      <body>Later is good thanks! :)</body>
+    </message>
+    <message id="m0003" participant="135304" time="2013-05-12 02:20:11 UTC">
+      <body>I brought you the stuff. It's in the common room. You can leave the payment in the usual location.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-12 02:21:44 UTC">
+      <body>Man I might have to pay you later...the price of air just keeps getting higher and higher these days</body>
+    </message>
+    <message id="m0005" participant="135304" time="2013-05-12 02:23:54 UTC">
+      <body>You gonna be good for it? This is high quality air. Stuff like this doesn't come easy.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-12 02:25:29 UTC">
+      <body>Oh I'm good for it. Don't worry I totally understand...it's a diminishing resource</body>
+    </message>
+  </messages>
+</conversation>

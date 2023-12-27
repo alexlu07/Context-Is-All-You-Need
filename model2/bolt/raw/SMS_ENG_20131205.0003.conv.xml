@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131205.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-05 20:36:27 UTC" participant="152417">
+      <body>From stu: Go to Vt Paint and ask for David, the owner. He has spaces out back he rents. He just told me he has room</body>
+    </message>
+    <message id="m0001" time="2013-12-05 20:37:29 UTC" participant="152560">
+      <body>:)</body>
+    </message>
+    <message id="m0002" time="2013-12-06 20:13:42 UTC" participant="152417">
+      <body>Where did you put the orchid food?</body>
+    </message>
+  </messages>
+</conversation>
+

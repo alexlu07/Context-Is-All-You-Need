@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120814.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-08-14 02:14:44 UTC">
+      <body>Hey! It's Martha and im at broad and federal. Which corner should I find you at?</body>
+    </message>
+    <message id="m0001" participant="135201" time="2012-08-14 02:18:40 UTC">
+      <body>Northwest!</body>
+    </message>
+  </messages>
+</conversation>

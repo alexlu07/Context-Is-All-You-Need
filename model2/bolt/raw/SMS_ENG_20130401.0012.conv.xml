@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-01 16:37:16 UTC" participant="131350">
+      <body>hey!</body>
+    </message>
+    <message id="m0001" time="2013-04-01 16:56:22 UTC" participant="131355">
+      <body>@ Daves call u when i get back my  phone is dieing</body>
+    </message>
+    <message id="m0002" time="2013-04-01 17:02:15 UTC" participant="131350">
+      <body>cool.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110626.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135115" time="2011-06-26 16:30:47 UTC">
+      <body>I dreamt about paella and walking last night.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-26 16:33:34 UTC">
+      <body>Aw sugar. I'm listening to Spanish church on the radio about living in sin</body>
+    </message>
+    <message id="m0002" participant="135115" time="2011-06-26 16:35:23 UTC">
+      <body>Speaking of living in sin, tell me about your boy troubles when you have time to talk!</body>
+    </message>
+  </messages>
+</conversation>

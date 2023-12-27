@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111101.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2011-11-01 19:48:19 UTC">
+      <body>Getting a cartridge</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-11-01 19:55:06 UTC">
+      <body>Cool cool. I saw a place for refills at Walgreens but couldn't find the cartridges themselves! But good news. Have a good time at work!</body>
+    </message>
+    <message id="m0002" participant="135140" time="2011-11-01 19:57:01 UTC">
+      <body>Thanks you too!!!</body>
+    </message>
+  </messages>
+</conversation>

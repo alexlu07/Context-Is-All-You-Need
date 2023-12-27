@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-26 00:09:26 UTC" participant="153244">
+      <body>When did the dog last go to the bathroom? </body>
+    </message>
+    <message id="m0001" time="2013-06-26 00:34:12 UTC" participant="152116">
+      <body>He didn't go this morning. I left around 10:30</body>
+    </message>
+    <message id="m0002" time="2013-06-26 00:53:38 UTC" participant="153244">
+      <body>Ok thought maybe he went out late... won't go out for me since home at 8</body>
+    </message>
+    <message id="m0003" time="2013-06-26 00:54:50 UTC" participant="152116">
+      <body>No that's weird. Did he go before you put him in the cage?</body>
+    </message>
+    <message id="m0004" time="2013-06-26 00:55:51 UTC" participant="153244">
+      <body>Yea but that was at 8 this morning.  </body>
+    </message>
+    <message id="m0005" time="2013-06-26 00:56:23 UTC" participant="153244">
+      <body>Coming home for dinner?</body>
+    </message>
+    <message id="m0006" time="2013-06-26 00:56:51 UTC" participant="152116">
+      <body>I hope he's not constipated</body>
+    </message>
+    <message id="m0007" time="2013-06-26 00:57:03 UTC" participant="152116">
+      <body>You're making dinner? I just got to Edens.</body>
+    </message>
+    <message id="m0008" time="2013-06-26 00:58:26 UTC" participant="153244">
+      <body>I don't think he is... he probably just didn't eat (food bowl was full). He ate about 20 mins ago</body>
+    </message>
+    <message id="m0009" time="2013-06-26 00:58:39 UTC" participant="153244">
+      <body>And yea and I'm home alone. Steph at her moms</body>
+    </message>
+    <message id="m0010" time="2013-06-26 00:59:15 UTC" participant="152116">
+      <body>Oh sorry. I won't be home til around 11:30</body>
+    </message>
+    <message id="m0011" time="2013-06-26 00:59:37 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0012" time="2013-06-26 17:10:43 UTC" participant="152116">
+      <body>Thanks for the food. That was really good</body>
+    </message>
+    <message id="m0013" time="2013-06-26 17:11:30 UTC" participant="153244">
+      <body>You're welcome</body>
+    </message>
+  </messages>
+</conversation>
+

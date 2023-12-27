@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130305.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131379" time="2013-03-05 02:46:00 UTC">
+      <body>Hey, you want to shoot for tomorrow night for your 'bucker covers?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-05 03:54:58 UTC">
+      <body>yeah!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-05 21:48:26 UTC">
+      <body>tonight good?</body>
+    </message>
+    <message id="m0003" participant="131379" time="2013-03-06 01:36:09 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-03-06 01:56:56 UTC">
+      <body>what time and where?</body>
+    </message>
+    <message id="m0005" participant="131379" time="2013-03-06 01:57:47 UTC">
+      <body>My place 9:30ish?</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-03-06 01:58:20 UTC">
+      <body>cool. see you then/there!</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-03-06 05:19:21 UTC">
+      <body>leaving now.</body>
+    </message>
+    <message id="m0008" participant="131379" time="2013-03-06 05:20:04 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-03-06 05:50:22 UTC">
+      <body>hi, honey...i'm homely.</body>
+    </message>
+    <message id="m0010" participant="131379" time="2013-03-06 05:51:04 UTC">
+      <body>Be right out</body>
+    </message>
+    <message id="m0011" participant="131350" time="2013-03-06 20:51:28 UTC">
+      <body>thanks again, man. i had a great time!</body>
+    </message>
+    <message id="m0012" participant="131379" time="2013-03-06 20:54:34 UTC">
+      <body>Me too. Always fun.</body>
+    </message>
+  </messages>
+</conversation>

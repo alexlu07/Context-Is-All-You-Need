@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130130.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-30 01:11:14 UTC" participant="152559">
+      <body>On my way!</body>
+    </message>
+    <message id="m0001" time="2013-01-30 01:11:15 UTC" participant="152559">
+      <body>On my way!</body>
+    </message>
+    <message id="m0002" time="2013-01-30 01:11:51 UTC" participant="152417">
+      <body>K, me too</body>
+    </message>
+    <message id="m0003" time="2013-01-30 01:12:02 UTC" participant="152559">
+      <body>On my way!</body>
+    </message>
+    <message id="m0004" time="2013-01-30 01:12:10 UTC" participant="152559">
+      <body>On my way!</body>
+    </message>
+    <message id="m0005" time="2013-01-30 01:15:46 UTC" participant="152559">
+      <body>311 right?</body>
+    </message>
+    <message id="m0006" time="2013-01-30 01:16:02 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0007" time="2013-01-30 01:16:02 UTC" participant="152559">
+      <body>311 right?</body>
+    </message>
+  </messages>
+</conversation>
+

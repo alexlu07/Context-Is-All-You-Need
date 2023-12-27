@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130729.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130939" time="2013-07-29 01:28:52 UTC">
+      <body>Here now</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-29 01:29:33 UTC">
+      <body>Cool if i swing by?</body>
+    </message>
+    <message id="m0003" participant="130939" time="2013-07-29 01:29:51 UTC">
+      <body>Yuppers</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-29 01:30:18 UTC">
+      <body>aight</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-04-18 00:24:55 UTC">
+      <body>Hey dude, are you driving in tomorrow? I'm baaaaaack</body>
+    </message>
+    <message id="m0001" participant="131463" time="2013-04-18 00:25:58 UTC">
+      <body>Nah dudet I'm in Madison :(</body>
+    </message>
+    <message id="m0002" participant="131463" time="2013-04-18 00:26:06 UTC">
+      <body>Welcome back!!</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-04-18 00:26:44 UTC">
+      <body>Oh man, try to enjoy it there :-( ;-)</body>
+    </message>
+    <message id="m0004" participant="131463" time="2013-04-18 00:27:34 UTC">
+      <body>Haha yea will do .. It's crap here</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-04-18 00:28:11 UTC">
+      <body>Ugh, I can kind of imagine...good luck! Almost the weekend..</body>
+    </message>
+  </messages>
+</conversation>

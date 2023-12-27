@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120912.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135380" time="2012-09-12 01:36:00 UTC">
+      <body>Hey Sofie - great to meet you Saturday. That was such an awesome wedding! We should hang out some time... Maybe go for another twirl on the dance floor ;-)</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-12 04:08:52 UTC">
+      <body>Maxime! Hello.  Yes what a wedding that was, I still feel like a princess from this weekends festivities. My feet are killing me from all fun and dancing still, but what about a drink sometime? </body>
+    </message>
+    <message id="m0002" participant="135380" time="2012-09-12 23:51:28 UTC">
+      <body>That sounds great, I'll be in touch!</body>
+    </message>
+  </messages>
+</conversation>

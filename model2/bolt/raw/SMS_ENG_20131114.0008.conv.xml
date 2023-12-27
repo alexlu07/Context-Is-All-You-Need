@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131114.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-14 21:34:47 UTC" participant="153553">
+      <body>Hey!!!</body>
+    </message>
+    <message id="m0001" time="2013-11-14 21:34:56 UTC" participant="153553">
+      <body>How you?</body>
+    </message>
+    <message id="m0002" time="2013-11-14 21:35:10 UTC" participant="153553">
+      <body>Wanna hang soon?</body>
+    </message>
+    <message id="m0003" time="2013-11-14 21:36:39 UTC" participant="153553">
+      <body>Wanna hang soon?</body>
+    </message>
+    <message id="m0004" time="2013-11-14 23:46:26 UTC" participant="153548">
+      <body>Hi!! Yes please!</body>
+    </message>
+    <message id="m0005" time="2013-11-15 01:40:43 UTC" participant="153553">
+      <body>Cool! Do you work tomorrow?</body>
+    </message>
+    <message id="m0006" time="2013-11-15 17:47:41 UTC" participant="153548">
+      <body>I work all day today then go to NY. Hunter and I are also trying to do a 30 mile bike ride on Sunday. Busy weekend!</body>
+    </message>
+  </messages>
+</conversation>
+

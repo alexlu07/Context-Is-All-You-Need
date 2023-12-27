@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 18:41:18 UTC" participant="153900">
+      <body>I will have no more car after july</body>
+    </message>
+    <message id="m0001" time="2014-03-21 19:11:09 UTC" participant="153244">
+      <body>How come?</body>
+    </message>
+    <message id="m0002" time="2014-03-21 19:12:59 UTC" participant="153900">
+      <body>It is unfixable i have until july if it don't die soon so if i need ride to shop will you take me</body>
+    </message>
+    <message id="m0003" time="2014-03-21 19:19:58 UTC" participant="153244">
+      <body>Yea when? </body>
+    </message>
+    <message id="m0004" time="2014-03-21 19:22:04 UTC" participant="153900">
+      <body>Well it is still running so when it dies</body>
+    </message>
+    <message id="m0005" time="2014-03-21 19:22:44 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>
+

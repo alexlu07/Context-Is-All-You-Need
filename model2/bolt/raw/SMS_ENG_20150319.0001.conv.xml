@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150319.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-19 19:28:34 UTC" participant="152115">
+      <body>We have broccoli.</body>
+    </message>
+    <message id="m0001" time="2015-03-19 19:29:11 UTC" participant="152117">
+      <body>Ok I'll get whiz on way home</body>
+    </message>
+    <message id="m0002" time="2015-03-20 18:23:11 UTC" participant="152115">
+      <body>Me and Michael wanted to eat pizza tonight. So we're gonna eat the stew for lunch tomorrow.</body>
+    </message>
+    <message id="m0003" time="2015-03-20 18:24:03 UTC" participant="152117">
+      <body>Ok whatever you want.</body>
+    </message>
+    <message id="m0004" time="2015-03-20 18:24:48 UTC" participant="152117">
+      <body>I told Michael the plans with Stacy are up in the air right now because of the weather so I'll let you know what's going on once I talk to her in a little while. Love you</body>
+    </message>
+    <message id="m0005" time="2015-03-20 18:25:08 UTC" participant="152115">
+      <body>Oh. Ok. He didn't say that.</body>
+    </message>
+  </messages>
+</conversation>
+

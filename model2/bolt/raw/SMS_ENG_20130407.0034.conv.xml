@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-07 22:46:05 UTC">
+      <body>Can you print what I sent you? </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-04-07 22:48:33 UTC">
+      <body>I'm at moms house</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-04-07 22:51:38 UTC">
+      <body>When you get back? </body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-04-08 13:26:30 UTC">
+      <body>We NEED to get chocolate as thank you gifts for my teachers!!!!! </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-04-08 13:26:30 UTC">
+      <body>ASAP!!! </body>
+    </message>
+  </messages>
+</conversation>

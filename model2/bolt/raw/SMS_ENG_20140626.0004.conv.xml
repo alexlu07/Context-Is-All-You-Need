@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140626.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-26 04:58:39 UTC" participant="153418">
+      <body>Hey, you free this Saturday? </body>
+    </message>
+    <message id="m0001" time="2014-06-26 04:58:56 UTC" participant="153418">
+      <body>I'm going in Philly for the day.</body>
+    </message>
+    <message id="m0002" time="2014-06-26 05:00:45 UTC" participant="153449">
+      <body>I can't , I have to work at borgata during the day and. Revel at night..</body>
+    </message>
+    <message id="m0003" time="2014-06-26 05:03:24 UTC" participant="153449">
+      <body>How work </body>
+    </message>
+    <message id="m0004" time="2014-06-26 05:08:15 UTC" participant="153418">
+      <body>All right. Maybe next time then.
+
+Work blows. But I get paid, so that's nice.</body>
+    </message>
+    <message id="m0005" time="2014-06-26 05:09:22 UTC" participant="153449">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130823.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-23 17:20:53 UTC" participant="152734">
+      <body>Ok, thanks for the heads up! </body>
+    </message>
+    <message id="m0001" time="2013-08-23 17:21:57 UTC" participant="152734">
+      <body>Btw how fancy is the place we're going after? Like if 1 is barn clothes and 10 is a ball gown :)</body>
+    </message>
+    <message id="m0002" time="2013-08-23 17:23:04 UTC" participant="153298">
+      <body>1-5 is perfectly fine</body>
+    </message>
+    <message id="m0003" time="2013-08-23 17:23:20 UTC" participant="152734">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

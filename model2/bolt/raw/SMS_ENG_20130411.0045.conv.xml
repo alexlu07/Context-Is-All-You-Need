@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-04-11 14:58:22 UTC">
+      <body>I can take the college shuttle to Brynmawr campus and walk to the town. Unfortunately there is no nice place on the campus. Do you know of a pleasant cafe in Bryn Mawr? Otherwise I can just google something. The shuttle arrives at around 12:30 on Tuesdays so I can meet you at one easily... </body>
+    </message>
+    <message id="m0001" participant="137360" time="2013-04-11 16:12:32 UTC">
+      <body>Does the train continue to paoli station ? There is a starbucks right there.</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-04-11 16:27:21 UTC">
+      <body>Train arrives in paoli at 1:01!!! And I will have time to transfer. </body>
+    </message>
+    <message id="m0003" participant="137360" time="2013-04-11 16:55:30 UTC">
+      <body>Excellent</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-04-11 16:55:55 UTC">
+      <body>Looking forward </body>
+    </message>
+    <message id="m0005" participant="137360" time="2013-04-11 16:56:19 UTC">
+      <body>Me too</body>
+    </message>
+  </messages>
+</conversation>

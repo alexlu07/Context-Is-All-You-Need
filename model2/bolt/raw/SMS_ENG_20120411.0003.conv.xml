@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120411.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131337" time="2012-04-11 21:24:16 UTC">
+      <body>Can u get more money.  Any smaller? $20s?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-11 21:27:31 UTC">
+      <body>I'll have to email the dude</body>
+    </message>
+    <message id="m0002" participant="131337" time="2012-04-11 21:28:32 UTC">
+      <body>Please do.  I'd like a bit more. </body>
+    </message>
+  </messages>
+</conversation>

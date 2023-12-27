@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121007.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135437" time="2012-10-07 01:26:46 UTC">
+      <body>We have the whole weekend to hang out</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-07 01:28:39 UTC">
+      <body>Yes but this is DMI
+Family time! And my generation isnt here</body>
+    </message>
+    <message id="m0002" participant="135437" time="2012-10-07 01:31:09 UTC">
+      <body>I am studying, ceren is posting about wanting to buy turkish cheese in coolige corner, and sky is doing her project for the acm conference next week</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-07 01:31:55 UTC">
+      <body>Azeem ur being mean</body>
+    </message>
+    <message id="m0004" participant="135437" time="2012-10-07 01:32:41 UTC">
+      <body>Sorry, lame attempt at being funny</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-07 01:33:16 UTC">
+      <body>Ok i understand </body>
+    </message>
+    <message id="m0006" participant="135437" time="2012-10-07 01:34:33 UTC">
+      <body>I will come right now if you can convince another of us to come too</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-10-07 01:40:50 UTC">
+      <body>Sky is on her way </body>
+    </message>
+    <message id="m0008" participant="135437" time="2012-10-07 01:41:34 UTC">
+      <body>Ok, on my way</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-10-07 04:23:47 UTC">
+      <body>Azeem u getting home ok</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-10-07 04:24:08 UTC">
+      <body>I had to get a cab</body>
+    </message>
+    <message id="m0011" participant="135437" time="2012-10-07 04:25:02 UTC">
+      <body>Yes thanks, on the last train</body>
+    </message>
+  </messages>
+</conversation>

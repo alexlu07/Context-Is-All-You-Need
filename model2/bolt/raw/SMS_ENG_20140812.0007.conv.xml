@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140812.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-12 00:10:40 UTC" participant="152560">
+      <body>I'm outside. Where should I meet you?</body>
+    </message>
+    <message id="m0001" time="2014-08-12 00:11:51 UTC" participant="152417">
+      <body>Meet me in the upstairs lobby in 3</body>
+    </message>
+    <message id="m0002" time="2014-08-12 15:16:21 UTC" participant="152417">
+      <body>Esperanza's chamber music society is blowing my mind!</body>
+    </message>
+    <message id="m0003" time="2014-08-12 15:19:28 UTC" participant="152560">
+      <body>I know-I love that album!</body>
+    </message>
+    <message id="m0004" time="2014-08-12 15:21:36 UTC" participant="152560">
+      <body>Little Fly-I think that song is her adaptation of a William Blake poem. So beautiful.</body>
+    </message>
+    <message id="m0005" time="2014-08-12 15:23:25 UTC" participant="152417">
+      <body>This version of wild is the wind is nuts and has awesome melodica</body>
+    </message>
+  </messages>
+</conversation>
+

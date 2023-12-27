@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140301.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-01 22:22:12 UTC" participant="153565">
+      <body>Back from Uganda. Coffee will arrive shortly.</body>
+    </message>
+    <message id="m0001" time="2014-03-01 22:25:47 UTC" participant="153547">
+      <body>I'm glad you made it back safely</body>
+    </message>
+    <message id="m0002" time="2014-03-01 22:27:04 UTC" participant="153565">
+      <body>Thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

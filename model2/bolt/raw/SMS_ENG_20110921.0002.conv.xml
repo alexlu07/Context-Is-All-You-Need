@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110921.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-21 13:45:34 UTC">
+      <body>Does dad have cd cases?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-21 15:38:13 UTC">
+      <body>Daniel can't do it :(</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-09-22 01:11:50 UTC">
+      <body>All ok?</body>
+    </message>
+  </messages>
+</conversation>

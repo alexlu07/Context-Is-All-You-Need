@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131224.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-24 01:44:32 UTC" participant="149387">
+      <body>There's a duck on my street. So weird. I heard him squawking... poor thing. Better get off the street before he's someone's Xmas dinner!</body>
+    </message>
+    <message id="m0001" time="2013-12-24 01:46:06 UTC" participant="149306">
+      <body>Weird. Hope he's ok</body>
+    </message>
+    <message id="m0002" time="2013-12-24 01:46:40 UTC" participant="149387">
+      <body>I know... thinking he escaped from one of the live butcher shops. Or maybe a park?</body>
+    </message>
+  </messages>
+</conversation>
+

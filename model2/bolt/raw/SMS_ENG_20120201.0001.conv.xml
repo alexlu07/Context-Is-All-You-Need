@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120201.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130890" time="2012-02-01 00:53:53 UTC">
+      <body>Hi Kennedy! This's Alexandra from CS. 
+So, does nothing changed? Can I come tomorrow?</body>
+    </message>
+    <message id="m0001" participant="130755" time="2012-02-01 00:55:46 UTC">
+      <body>Sure! What time are you arriving?</body>
+    </message>
+    <message id="m0002" participant="130890" time="2012-02-01 01:02:17 UTC">
+      <body>Good! 
+Somewhen in 11-12 am. Soon i'll be able to connect to the internet and say exactly. Will you be busy at that time?</body>
+    </message>
+    <message id="m0003" participant="130755" time="2012-02-01 01:02:56 UTC">
+      <body>Nope, should be home. See you then!</body>
+    </message>
+    <message id="m0004" participant="130890" time="2012-02-01 02:34:55 UTC">
+      <body>So, I arrive at 11.45 at 30th st station. Will you meet me there or I need to go somewhere?</body>
+    </message>
+    <message id="m0006" participant="130890" time="2012-02-01 02:39:46 UTC">
+      <body>Ok. Thank you very very much :) 
+See you soon.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2012-02-01 17:56:07 UTC">
+      <body>Are you coming here soon? Or wandering a bit first? Just trying to plan out the day</body>
+    </message>
+    <message id="m0008" participant="130890" time="2012-02-01 18:03:05 UTC">
+      <body>Yes, I'm somewhere here, come soon.</body>
+    </message>
+    <message id="m0009" participant="130890" time="2012-02-01 18:22:01 UTC">
+      <body>So, here I am.</body>
+    </message>
+    <message id="m0010" participant="130890" time="2012-02-02 01:56:34 UTC">
+      <body>I think I would be soon near your home. Are you there?</body>
+    </message>
+    <message id="m0011" participant="130755" time="2012-02-02 01:57:14 UTC">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>

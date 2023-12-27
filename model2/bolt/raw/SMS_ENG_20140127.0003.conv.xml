@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140127.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-27 12:06:40 UTC" participant="153547">
+      <body>Hey Steve. I have today and tomorrow off of work so if you need thicker paper or if you have a proof, I can come check it</body>
+    </message>
+    <message id="m0001" time="2014-01-27 13:02:56 UTC" participant="153559">
+      <body>Can you meet me at philau tomorrow? </body>
+    </message>
+    <message id="m0002" time="2014-01-27 13:04:38 UTC" participant="153547">
+      <body>Most likely</body>
+    </message>
+  </messages>
+</conversation>
+

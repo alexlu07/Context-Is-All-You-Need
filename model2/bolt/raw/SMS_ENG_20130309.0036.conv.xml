@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-03-09 18:56:47 UTC">
+      <body>Tryna ball?</body>
+    </message>
+    <message id="m0001" participant="132534" time="2013-03-09 18:58:22 UTC">
+      <body>I'm helping my Dad in Norristown, sounds fun tho</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-03-09 18:59:36 UTC">
+      <body>U gonna be busy for awhile i take it then?</body>
+    </message>
+    <message id="m0003" participant="132534" time="2013-03-09 19:00:19 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-03-09 19:00:53 UTC">
+      <body>ok good luck with the fence</body>
+    </message>
+  </messages>
+</conversation>

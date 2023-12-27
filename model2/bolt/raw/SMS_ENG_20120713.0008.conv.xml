@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120713.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135366" time="2012-07-13 14:45:41 UTC">
+      <body>Hi Sophy .  I'll give you guys the deposit ,next weekend ...is that ok ?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-13 14:46:55 UTC">
+      <body>Can we do it before Wednesday would that be a possibility</body>
+    </message>
+    <message id="m0002" participant="135366" time="2012-07-13 15:22:42 UTC">
+      <body>I won't have enough  funds ... unfortunately   </body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-13 15:32:19 UTC">
+      <body>When will you have the money. I need a date. Because I need to put down money on my next place</body>
+    </message>
+  </messages>
+</conversation>

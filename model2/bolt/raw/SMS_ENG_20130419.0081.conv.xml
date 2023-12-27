@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0081" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136378" time="2013-04-19 18:55:58 UTC">
+      <body>I lost my keys at work. Just...how?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-19 18:56:15 UTC">
+      <body>oh man. good thing you found that spare set. </body>
+    </message>
+    <message id="m0002" participant="136378" time="2013-04-19 19:13:19 UTC">
+      <body>Found them! "chabiyen kaha hain?" actually got me somewhere.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-19 19:14:44 UTC">
+      <body>what does that mean?! </body>
+    </message>
+    <message id="m0004" participant="136378" time="2013-04-19 19:19:00 UTC">
+      <body>Keys where are? </body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-04-19 19:22:44 UTC">
+      <body>hahaha. cute. </body>
+    </message>
+  </messages>
+</conversation>

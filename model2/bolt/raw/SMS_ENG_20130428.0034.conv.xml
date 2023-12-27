@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-04-28 22:56:21 UTC">
+      <body>I will call you tomorrow from San Diego. </body>
+    </message>
+    <message id="m0001" participant="134294" time="2013-04-28 23:01:43 UTC">
+      <body>Cutest picture. What a wonderful family you have. I am so proud of the father and husband that you are. </body>
+    </message>
+    <message id="m0002" participant="134294" time="2013-04-28 23:03:40 UTC">
+      <body>Good call me on my cell-I have it with me now always!!! Progress </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-04-28 23:04:20 UTC">
+      <body>Thank you </body>
+    </message>
+    <message id="m0004" participant="134294" time="2013-04-29 20:30:55 UTC">
+      <body>Have to talk to you TODAY about dates for this summer. </body>
+    </message>
+    <message id="m0005" participant="134294" time="2013-04-30 19:33:51 UTC">
+      <body>We have the house. We can check in noon on Sat. July 6 and out by 10am on July 14. </body>
+    </message>
+  </messages>
+</conversation>

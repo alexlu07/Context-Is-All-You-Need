@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131101.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-01 16:31:59 UTC" participant="152734">
+      <body>Hey girl, Richard wants to see cocorosie too. Ok if he comes along?</body>
+    </message>
+    <message id="m0001" time="2013-11-01 16:33:00 UTC" participant="152842">
+      <body>Def! </body>
+    </message>
+    <message id="m0002" time="2013-11-01 16:33:06 UTC" participant="152842">
+      <body>:)</body>
+    </message>
+    <message id="m0003" time="2013-11-01 16:34:48 UTC" participant="152734">
+      <body>Awesome!</body>
+    </message>
+    <message id="m0004" time="2013-11-01 16:35:23 UTC" participant="152842">
+      <body>Yes, very! </body>
+    </message>
+  </messages>
+</conversation>
+

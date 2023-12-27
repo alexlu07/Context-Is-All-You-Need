@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120831.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2012-08-31 00:51:12 UTC">
+      <body>Text me when you're home safe!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-08-31 00:51:43 UTC">
+      <body>Yessir I will. </body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-08-31 01:29:36 UTC">
+      <body>Are you home yet??</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-08-31 01:31:13 UTC">
+      <body>Oh yes yes!!!!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-08-31 01:31:23 UTC">
+      <body>I 4got </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-08-31 01:31:30 UTC">
+      <body>Whoops</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-08-31 01:31:37 UTC">
+      <body>Gee hee</body>
+    </message>
+    <message id="m0007" participant="135414" time="2012-08-31 01:33:52 UTC">
+      <body>Phew</body>
+    </message>
+  </messages>
+</conversation>

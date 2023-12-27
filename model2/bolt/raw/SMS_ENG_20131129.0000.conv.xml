@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 01:40:54 UTC" participant="149368">
+      <body>Yikes.</body>
+    </message>
+    <message id="m0001" time="2013-11-29 02:40:20 UTC" participant="149368">
+      <body>Are you still at Daniel's?</body>
+    </message>
+    <message id="m0002" time="2013-11-29 02:41:02 UTC" participant="149306">
+      <body>No I'm at home in bed</body>
+    </message>
+    <message id="m0003" time="2013-11-29 02:46:30 UTC" participant="149368">
+      <body>Ahh. I think I'm stuck at home with the fam.</body>
+    </message>
+  </messages>
+</conversation>
+

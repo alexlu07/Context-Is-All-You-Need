@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133056" time="2013-06-17 01:16:28 UTC">
+      <body>Hi Alexis, the wedding is June 26, right? Almost done with the video</body>
+    </message>
+    <message id="m0001" participant="133300" time="2013-06-17 01:31:29 UTC">
+      <body>Yes, thanks!!</body>
+    </message>
+    <message id="m0002" participant="133056" time="2013-06-17 01:50:47 UTC">
+      <body>Okay! I'll send the draft over now.m</body>
+    </message>
+  </messages>
+</conversation>

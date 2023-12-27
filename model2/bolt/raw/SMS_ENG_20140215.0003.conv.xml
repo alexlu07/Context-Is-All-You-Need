@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140215.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-15 17:43:05 UTC" participant="153452">
+      <body>Hey how are u feeling </body>
+    </message>
+    <message id="m0001" time="2014-02-15 17:44:22 UTC" participant="153452">
+      <body>Do u want to do dinner tonight?</body>
+    </message>
+    <message id="m0002" time="2014-02-15 18:02:33 UTC" participant="153418">
+      <body>Head still kind of hurts. Sleep was suppose to fix it...oh well. I'm up for dinner. What time are you thinking? </body>
+    </message>
+    <message id="m0003" time="2014-02-15 18:03:29 UTC" participant="153452">
+      <body>Does 6 work for you?</body>
+    </message>
+    <message id="m0004" time="2014-02-15 18:04:05 UTC" participant="153418">
+      <body>Yeah.</body>
+    </message>
+    <message id="m0005" time="2014-02-15 18:05:26 UTC" participant="153452">
+      <body>Coo beans</body>
+    </message>
+    <message id="m0006" time="2014-02-15 22:05:37 UTC" participant="153418">
+      <body>So what's the plan for 6? </body>
+    </message>
+    <message id="m0007" time="2014-02-15 22:22:38 UTC" participant="153452">
+      <body>We meet at b1 at 6</body>
+    </message>
+    <message id="m0008" time="2014-02-15 22:23:07 UTC" participant="153418">
+      <body>The Korean place? </body>
+    </message>
+    <message id="m0009" time="2014-02-15 22:23:55 UTC" participant="153452">
+      <body>Yup</body>
+    </message>
+    <message id="m0010" time="2014-02-15 22:24:06 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+    <message id="m0011" time="2014-02-15 22:31:20 UTC" participant="153452">
+      <body>John there is no reservation.  So when you get there tell them it will be 4 possibly 5 people including yourself.</body>
+    </message>
+    <message id="m0012" time="2014-02-15 22:32:00 UTC" participant="153418">
+      <body>Will do so if I get there first.</body>
+    </message>
+    <message id="m0013" time="2014-02-15 22:32:32 UTC" participant="153452">
+      <body>Coo beans thanks</body>
+    </message>
+  </messages>
+</conversation>
+

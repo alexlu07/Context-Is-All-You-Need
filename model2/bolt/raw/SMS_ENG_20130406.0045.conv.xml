@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-06 22:26:59 UTC">
+      <body>So when am I repaying you for last week</body>
+    </message>
+    <message id="m0001" participant="132553" time="2013-04-07 00:18:27 UTC">
+      <body>Soon i hope!  </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-07 00:30:20 UTC">
+      <body>I'm ready whenever u are</body>
+    </message>
+    <message id="m0003" participant="132553" time="2013-04-07 00:40:05 UTC">
+      <body>Maybe tomorrow?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-04-07 00:50:22 UTC">
+      <body>possibly. My friend might come over but I'm not sure if he will</body>
+    </message>
+    <message id="m0005" participant="132553" time="2013-04-07 03:50:17 UTC">
+      <body>Well let me know if you're around tomorrow.</body>
+    </message>
+  </messages>
+</conversation>

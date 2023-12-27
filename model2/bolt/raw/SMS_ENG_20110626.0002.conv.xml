@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110626.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-26 15:46:24 UTC">
+      <body>Yo dude. I'm free at 1:30 or so. I'm tied up at some point this evening. I'm guessing like 7?</body>
+    </message>
+    <message id="m0001" participant="135100" time="2011-06-26 17:33:02 UTC">
+      <body>That should be satisfactory.</body>
+    </message>
+    <message id="m0002" participant="135100" time="2011-06-26 17:46:34 UTC">
+      <body>1:30 then?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-26 17:53:11 UTC">
+      <body>Hey! Well I have to shower but I'll be over after that so maybe closer to 2?</body>
+    </message>
+    <message id="m0004" participant="135100" time="2011-06-26 17:53:44 UTC">
+      <body>Even better</body>
+    </message>
+  </messages>
+</conversation>

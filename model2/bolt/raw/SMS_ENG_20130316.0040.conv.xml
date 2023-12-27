@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130316.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-16 17:28:25 UTC">
+      <body>hey, could you possibly pick candace up for church tomorrow morning?</body>
+    </message>
+    <message id="m0001" participant="136190" time="2013-03-16 17:56:34 UTC">
+      <body>Sure, same place and time?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-16 17:57:13 UTC">
+      <body>could you get her from woodruff--the building where you dropped us off--at 9:20?</body>
+    </message>
+    <message id="m0003" participant="136190" time="2013-03-16 17:58:39 UTC">
+      <body>Ok, I will.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-16 17:58:45 UTC">
+      <body>thanks! </body>
+    </message>
+    <message id="m0005" participant="136190" time="2013-03-16 18:02:02 UTC">
+      <body>No problem!</body>
+    </message>
+  </messages>
+</conversation>

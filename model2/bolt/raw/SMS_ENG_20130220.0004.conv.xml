@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2013-02-20 21:15:35 UTC">
+      <body>So sorry, going to be around 4:45</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-02-20 21:15:55 UTC">
+      <body>-Kennedy </body>
+    </message>
+    <message id="m0003" participant="130755" time="2013-04-16 17:07:08 UTC">
+      <body>Great, he said Thursday at ten is fine. I'll see you there!</body>
+    </message>
+  </messages>
+</conversation>

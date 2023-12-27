@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0084" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-05 02:05:06 UTC" participant="153467">
+      <body>Want to grab dinner tomorrow night?</body>
+    </message>
+    <message id="m0001" time="2013-06-05 02:09:17 UTC" participant="152374">
+      <body>Sure. Where and when?</body>
+    </message>
+    <message id="m0002" time="2013-06-05 02:25:24 UTC" participant="153467">
+      <body>I get out of work around 6:15. I'm at #### and #######. I'm fine with anywhere in the city but am always game for Penang</body>
+    </message>
+    <message id="m0003" time="2013-06-05 02:26:56 UTC" participant="152374">
+      <body>Never been there. I'm down. Where is it?</body>
+    </message>
+    <message id="m0004" time="2013-06-05 02:30:31 UTC" participant="153467">
+      <body>It's at 10th and arch. It's Malaysian and the food is fantastic but you might want to check out the menu before you agree.</body>
+    </message>
+    <message id="m0005" time="2013-06-05 02:32:13 UTC" participant="152374">
+      <body>Looks fine to me, plenty of options. 6:45?</body>
+    </message>
+    <message id="m0006" time="2013-06-05 02:34:44 UTC" participant="153467">
+      <body>Sounds great. See you then</body>
+    </message>
+    <message id="m0007" time="2013-06-05 22:48:36 UTC" participant="152374">
+      <body>I'm here, seat in the window</body>
+    </message>
+    <message id="m0008" time="2013-06-06 01:20:20 UTC" participant="152374">
+      <body>Thanks for the dinner recommendation, it was great! Really glad I finally got to see you. By the way my ulock opened as soon as I got home :-P</body>
+    </message>
+    <message id="m0009" time="2013-06-06 01:23:08 UTC" participant="153467">
+      <body>Yay not busted ulock! We must do this more. Btw going out for first Friday if you want to come down to old city.</body>
+    </message>
+    <message id="m0010" time="2013-06-06 01:23:47 UTC" participant="152374">
+      <body>Possibly! I don't have plans so it just depends how tired I am :-)</body>
+    </message>
+  </messages>
+</conversation>
+

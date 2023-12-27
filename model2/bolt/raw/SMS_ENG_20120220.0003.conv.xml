@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120220.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-20 02:05:58 UTC" participant="152378">
+      <body>OK that is disturbing on multiple levels :) You start packing yet?</body>
+    </message>
+    <message id="m0001" time="2012-02-20 02:08:06 UTC" participant="152374">
+      <body>Disturbing is my specialty. And yes, I am surrounded by boxes and partially disassembled furniture.  :-\</body>
+    </message>
+    <message id="m0002" time="2012-02-20 03:21:08 UTC" participant="152378">
+      <body>Are you gonna need help by the way at some point?</body>
+    </message>
+    <message id="m0003" time="2012-02-20 04:22:48 UTC" participant="152374">
+      <body>Sorry, didn't see your last message. I think I'll be okay without help unless this week goes horribly awry, but thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

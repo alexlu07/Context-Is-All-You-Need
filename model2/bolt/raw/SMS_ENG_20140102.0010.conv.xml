@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140102.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-02 16:29:44 UTC" participant="153547">
+      <body>Hey. I'm not going to Home Depot so you should grab the catfood unless you want me to grab it another time with the car</body>
+    </message>
+    <message id="m0001" time="2014-01-02 16:29:52 UTC" participant="153557">
+      <body>I can grab it! </body>
+    </message>
+  </messages>
+</conversation>
+

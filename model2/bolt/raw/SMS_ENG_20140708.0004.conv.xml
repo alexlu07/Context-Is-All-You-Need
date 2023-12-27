@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140708.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-08 02:52:48 UTC" participant="152549">
+      <body>Hey gabi!</body>
+    </message>
+    <message id="m0001" time="2014-07-08 02:52:48 UTC" participant="152549">
+      <body>Here's Derek's info</body>
+    </message>
+    <message id="m0002" time="2014-07-08 02:52:48 UTC" participant="152549">
+      <body>￼</body>
+    </message>
+    <message id="m0003" time="2014-07-08 02:52:48 UTC" participant="152549">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2014-07-08 02:54:56 UTC" participant="152549">
+      <body>No prob!</body>
+    </message>
+    <message id="m0005" time="2014-07-08 02:55:14 UTC" participant="152417">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

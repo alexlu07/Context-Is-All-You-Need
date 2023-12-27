@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150223.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2015-02-24 14:36:46 UTC" participant="153821">
+      <body>No clue!</body>
+    </message>
+    <message id="m0002" time="2015-02-24 14:37:28 UTC" participant="153804">
+      <body> do you have work this week?</body>
+    </message>
+    <message id="m0003" time="2015-02-24 15:12:49 UTC" participant="153821">
+      <body>Blitz calls</body>
+    </message>
+    <message id="m0004" time="2015-02-24 15:14:40 UTC" participant="153804">
+      <body>Stay warm</body>
+    </message>
+  </messages>
+</conversation>
+

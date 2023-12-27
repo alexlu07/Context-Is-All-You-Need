@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140421.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-21 00:29:49 UTC" participant="153244">
+      <body>Is John in Philly? </body>
+    </message>
+    <message id="m0001" time="2014-04-21 00:38:51 UTC" participant="152116">
+      <body>Yeah why?</body>
+    </message>
+    <message id="m0002" time="2014-04-21 00:39:44 UTC" participant="153244">
+      <body>I think he was just parked in front of stephs house on ##### and ######</body>
+    </message>
+    <message id="m0003" time="2014-04-21 00:40:13 UTC" participant="152116">
+      <body>Really?? I wonder why</body>
+    </message>
+    <message id="m0004" time="2014-04-21 00:40:14 UTC" participant="153244">
+      <body>Wasnt sure if it was him or not</body>
+    </message>
+    <message id="m0005" time="2014-04-21 00:41:12 UTC" participant="152116">
+      <body>That would be weird</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130227.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-27 00:18:20 UTC">
+      <body>was the kiln cool for class today? </body>
+    </message>
+    <message id="m0001" participant="136160" time="2013-02-27 00:22:05 UTC">
+      <body>Yup! Perfect</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-27 00:22:27 UTC">
+      <body>do you know if it was good for the earlier class? </body>
+    </message>
+    <message id="m0003" participant="136160" time="2013-02-27 00:23:07 UTC">
+      <body>no i dont think so. We emptied it during out class</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-27 00:23:25 UTC">
+      <body>damn. oh well. thanks! </body>
+    </message>
+  </messages>
+</conversation>

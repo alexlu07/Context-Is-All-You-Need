@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 02:05:15 UTC" participant="153812">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2015-02-04 02:07:39 UTC" participant="153848">
+      <body/>
+    </message>
+    <message id="m0002" time="2015-02-04 02:08:00 UTC" participant="153812">
+      <body>I win at life</body>
+    </message>
+    <message id="m0003" time="2015-02-04 02:08:58 UTC" participant="153848">
+      <body>Yeah you do.</body>
+    </message>
+  </messages>
+</conversation>
+

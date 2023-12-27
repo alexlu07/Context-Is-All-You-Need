@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134315" time="2013-03-30 23:15:35 UTC">
+      <body>What is your email?  Will send u flight info if interested</body>
+    </message>
+    <message id="m0002" participant="134315" time="2013-03-30 23:25:38 UTC">
+      <body>Check your email.  Let me know asap</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-03-30 23:43:19 UTC">
+      <body>I got your email. Thanks ks that is a very generous offer. Let me check my work schedule and talk to Kristen.  I will get back to you asap.  Thanks again. </body>
+    </message>
+    <message id="m0004" participant="134315" time="2013-03-31 00:05:39 UTC">
+      <body>Sounds good shiuld book tonite if u want it.  These can disaapper quickly</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-03-31 00:23:46 UTC">
+      <body>I am pretty sure I am going to do it. Just checking one last thing. Will get back to you within the hour. </body>
+    </message>
+    <message id="m0006" participant="134315" time="2013-03-31 00:28:35 UTC">
+      <body>Ok.  Let me know I will book when I get home tonight</body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-03-31 01:04:08 UTC">
+      <body>Unfortunately I can't swing it. Thanks a lot for the offer. I really appreciate it. </body>
+    </message>
+  </messages>
+</conversation>

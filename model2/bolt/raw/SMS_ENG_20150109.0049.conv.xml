@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150109.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-09 20:45:43 UTC" participant="152116">
+      <body>Where will you be at 5?</body>
+    </message>
+    <message id="m0001" time="2015-01-09 20:46:15 UTC" participant="153783">
+      <body>I'm still driving now so I'll probably be at Rodin</body>
+    </message>
+    <message id="m0002" time="2015-01-09 20:46:39 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0003" time="2015-01-09 22:17:48 UTC" participant="152116">
+      <body>Almost there</body>
+    </message>
+  </messages>
+</conversation>
+

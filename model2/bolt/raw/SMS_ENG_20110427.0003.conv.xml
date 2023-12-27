@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110427.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130839" time="2011-04-27 19:56:08 UTC">
+      <body>Hey, it's Claire. We're hitting the road!</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-04-27 20:12:22 UTC">
+      <body>Ok great!  See ya soon!</body>
+    </message>
+    <message id="m0002" participant="130839" time="2011-04-28 00:33:15 UTC">
+      <body>Just stopping for gas, only bad news is we've hit really bad weather and it's slowing us down :/</body>
+    </message>
+    <message id="m0003" participant="130839" time="2011-04-28 00:50:59 UTC">
+      <body>If it gets to be really late arrival, I'll letcha know and maybe we can just meet ya when you're up and at em?</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-04-28 00:51:53 UTC">
+      <body>Ok, just keep me posted!</body>
+    </message>
+    <message id="m0005" participant="130755" time="2011-04-28 01:27:22 UTC">
+      <body>...and good luck!</body>
+    </message>
+    <message id="m0006" participant="130839" time="2011-04-28 03:54:14 UTC">
+      <body>We're still about fives hours out according to my phone. Wanna meet in the am? We can hit up darlings and explore a bit.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2011-04-28 04:32:12 UTC">
+      <body>Well, I leave for work at 8:30...you can still just come here when you arrive, can letcha in and j will be around in the am</body>
+    </message>
+    <message id="m0008" participant="130839" time="2011-04-28 04:35:06 UTC">
+      <body>Thanks so much, lady. Sorry for the delay</body>
+    </message>
+    <message id="m0009" participant="130755" time="2011-04-28 04:35:55 UTC">
+      <body>No probes, just expect half opened eyes and mumbles :-)</body>
+    </message>
+    <message id="m0010" participant="130839" time="2011-04-28 08:33:53 UTC">
+      <body>We've just parked, a few blocks away.</body>
+    </message>
+    <message id="m0011" participant="130839" time="2011-04-28 19:29:52 UTC">
+      <body>Hey lady weve had an unexpected change in plans and won't be staying tonight. Any way we could lock up and leave the keys in the apt/mailbox?</body>
+    </message>
+    <message id="m0012" participant="130755" time="2011-04-28 19:30:32 UTC">
+      <body>I'm home until 7 if yr comin back by then?</body>
+    </message>
+    <message id="m0013" participant="130839" time="2011-04-28 19:32:36 UTC">
+      <body>Ok! We're coming up now</body>
+    </message>
+  </messages>
+</conversation>

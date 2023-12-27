@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-13 13:42:14 UTC">
+      <body>Where does Scott go for church at 5?</body>
+    </message>
+    <message id="m0001" participant="136670" time="2013-07-13 13:46:48 UTC">
+      <body>58th Wanamaker street between 58th and 59th on landsdowne and media street </body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-13 13:48:46 UTC">
+      <body>If he is home by 4 pm is that enough time? There is a 1pm movie showing</body>
+    </message>
+    <message id="m0003" participant="136670" time="2013-07-13 13:51:18 UTC">
+      <body>Is tonight ok </body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-13 13:52:17 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" participant="130693" time="2013-07-13 20:59:23 UTC">
+      <body>There is a 730 movie showing</body>
+    </message>
+    <message id="m0006" participant="136670" time="2013-07-13 21:00:01 UTC">
+      <body>I can bring Scott down after mass.</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-07-13 21:00:34 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

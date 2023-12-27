@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="CHT_ENG_20100825.0001" medium="CHT" donated="true">
+  <messages>
+    <message id="m0000" time="2010-08-25 21:44:09 UTC" participant="153901">
+      <body>do you like ice cream?</body>
+    </message>
+    <message id="m0001" time="2010-08-25 21:44:27 UTC" participant="153902">
+      <body>Usually.</body>
+    </message>
+    <message id="m0002" time="2010-08-25 21:45:48 UTC" participant="153901">
+      <body>:-/</body>
+    </message>
+    <message id="m0003" time="2010-08-25 21:46:01 UTC" participant="153902">
+      <body>I don't see why that requires a frowny face</body>
+    </message>
+    <message id="m0004" time="2010-08-25 21:46:20 UTC" participant="153901">
+      <body>what are your requirements for liking ice cream?</body>
+    </message>
+    <message id="m0005" time="2010-08-25 21:46:29 UTC" participant="153902">
+      <body>It not being chocolate ice cream, usually.</body>
+    </message>
+    <message id="m0006" time="2010-08-25 21:46:36 UTC" participant="153901">
+      <body>wha</body>
+    </message>
+    <message id="m0007" time="2010-08-25 21:46:43 UTC" participant="153902">
+      <body>/shrug</body>
+    </message>
+    <message id="m0008" time="2010-08-25 21:46:53 UTC" participant="153902">
+      <body>I'm not particularly fond of chocolate ice cream</body>
+    </message>
+    <message id="m0009" time="2010-08-25 21:46:59 UTC" participant="153901">
+      <body>you're not one of those vanilla people are you</body>
+    </message>
+    <message id="m0010" time="2010-08-25 21:47:09 UTC" participant="153902">
+      <body>Yes.</body>
+    </message>
+    <message id="m0011" time="2010-08-25 21:48:44 UTC" participant="153901">
+      <body>why you gots to hate on chocolate?</body>
+    </message>
+    <message id="m0012" time="2010-08-25 21:48:52 UTC" participant="153902">
+      <body>It just doesn't taste right to me</body>
+    </message>
+    <message id="m0013" time="2010-08-25 21:49:01 UTC" participant="153902">
+      <body>Chocolate ice cream that is</body>
+    </message>
+    <message id="m0014" time="2010-08-25 21:49:26 UTC" participant="153901">
+      <body>hows about ice cream w/ chocolate in it?</body>
+    </message>
+    <message id="m0015" time="2010-08-25 21:49:37 UTC" participant="153902">
+      <body>Usually fine, depending on the quality of chocolate.</body>
+    </message>
+    <message id="m0016" time="2010-08-25 21:49:48 UTC" participant="153902">
+      <body>I don't like cheap chocolate no matter where you find it</body>
+    </message>
+    <message id="m0017" time="2010-08-25 21:50:23 UTC" participant="153902">
+      <body>By cheap, I mean the waxy stuff that looks like chocolate but just kind of mushes in your mouth instead of melting and has no real flavor</body>
+    </message>
+    <message id="m0018" time="2010-08-25 21:50:24 UTC" participant="153901">
+      <body>oooh I seee</body>
+    </message>
+    <message id="m0019" time="2010-08-25 21:50:47 UTC" participant="153901">
+      <body>with the weird white filmy coating on it?</body>
+    </message>
+    <message id="m0020" time="2010-08-25 21:51:03 UTC" participant="153902">
+      <body>sometimes, yeah</body>
+    </message>
+    <message id="m0021" time="2010-08-25 21:55:42 UTC" participant="153901">
+      <body>yeah, that stuff isn't even chocolate to me.  I prefer dark chocolate myself</body>
+    </message>
+    <message id="m0022" time="2010-08-25 21:55:59 UTC" participant="153902">
+      <body>Yup</body>
+    </message>
+    <message id="m0023" time="2010-08-25 21:56:26 UTC" participant="153901">
+      <body>Im kind of suprised you don't drink wine</body>
+    </message>
+    <message id="m0024" time="2010-08-25 21:57:30 UTC" participant="153902">
+      <body>I think I stumbled on the reason last night; I don't really like acidic food/drink unless there's also a fair amount of sweetness there (i.e., fruit)</body>
+    </message>
+    <message id="m0025" time="2010-08-25 21:58:57 UTC" participant="153901">
+      <body>hmmm, I would recommend a nice riesling</body>
+    </message>
+    <message id="m0026" time="2010-08-25 21:59:16 UTC" participant="153901">
+      <body>not very acidic, with a sweet finish</body>
+    </message>
+    <message id="m0027" time="2010-08-25 22:02:21 UTC" participant="153902">
+      <body>Why does it surprise you that I don't care for it?</body>
+    </message>
+    <message id="m0028" time="2010-08-25 22:04:15 UTC" participant="153901">
+      <body>I don't know, I just think you would enjoy it</body>
+    </message>
+    <message id="m0029" time="2010-08-25 22:04:56 UTC" participant="153901">
+      <body>your intelligent, slightly condescending, have good grammatical skills</body>
+    </message>
+    <message id="m0030" time="2010-08-25 22:05:11 UTC" participant="153902">
+      <body>lol</body>
+    </message>
+    <message id="m0031" time="2010-08-25 22:05:36 UTC" participant="153901">
+      <body>wear heels, and glasses</body>
+    </message>
+    <message id="m0032" time="2010-08-25 22:06:10 UTC" participant="153901">
+      <body>you'd make a perfect wine snob</body>
+    </message>
+    <message id="m0033" time="2010-08-25 22:07:19 UTC" participant="153902">
+      <body>Sweet.</body>
+    </message>
+    <message id="m0034" time="2010-08-25 22:07:28 UTC" participant="153902">
+      <body>Maybe I'll make that my Halloween costume</body>
+    </message>
+    <message id="m0035" time="2010-08-25 22:07:29 UTC" participant="153902">
+      <body>^_^</body>
+    </message>
+    <message id="m0036" time="2010-08-25 22:08:07 UTC" participant="153901">
+      <body>that should be easy, just get shit-faced drunk on wine and put on a bunch of makeup..done</body>
+    </message>
+    <message id="m0037" time="2010-08-25 22:09:41 UTC" participant="153902">
+      <body>That seems the opposite of sophisticated and snobbish.</body>
+    </message>
+    <message id="m0038" time="2010-08-25 22:13:43 UTC" participant="153901">
+      <body>damn, halloween is on sunday</body>
+    </message>
+    <message id="m0039" time="2010-08-25 22:29:04 UTC" participant="153901">
+      <body>Im thinking full drag for halloween</body>
+    </message>
+    <message id="m0040" time="2010-08-25 22:29:21 UTC" participant="153901">
+      <body>I would have to shave my beard, which I haven't done in years</body>
+    </message>
+    <message id="m0041" time="2010-08-25 22:32:16 UTC" participant="153902">
+      <body>lol</body>
+    </message>
+    <message id="m0042" time="2010-08-25 22:45:14 UTC" participant="153901">
+      <body>how do you feel about chinese food?</body>
+    </message>
+    <message id="m0043" time="2010-08-25 22:46:41 UTC" participant="153902">
+      <body>Take out or authentic?</body>
+    </message>
+    <message id="m0044" time="2010-08-25 22:50:02 UTC" participant="153901">
+      <body>authentic take-out</body>
+    </message>
+    <message id="m0045" time="2010-08-25 22:50:18 UTC" participant="153902">
+      <body>I enjoy it</body>
+    </message>
+    <message id="m0046" time="2010-08-25 22:50:38 UTC" participant="153902">
+      <body>Though I tend to get the same things every time</body>
+    </message>
+    <message id="m0047" time="2010-08-25 22:50:44 UTC" participant="153902">
+      <body>Hate egg rolls</body>
+    </message>
+    <message id="m0048" time="2010-08-25 22:50:46 UTC" participant="153902">
+      <body>Disgusting things</body>
+    </message>
+    <message id="m0049" time="2010-08-25 22:52:12 UTC" participant="153901">
+      <body>ah the're not so bad, unless their bad ones &gt;.&gt;</body>
+    </message>
+    <message id="m0050" time="2010-08-25 22:53:17 UTC" participant="153902">
+      <body>To each his own.</body>
+    </message>
+    <message id="m0051" time="2010-08-25 22:56:17 UTC" participant="153901">
+      <body>what do you usually get then?</body>
+    </message>
+    <message id="m0052" time="2010-08-25 22:58:36 UTC" participant="153902">
+      <body>usually probably general tso's or orange chicken, I think</body>
+    </message>
+    <message id="m0053" time="2010-08-25 22:58:48 UTC" participant="153902">
+      <body>There may be another common one, but I don't recall</body>
+    </message>
+    <message id="m0054" time="2010-08-25 22:59:55 UTC" participant="153901">
+      <body>generals is usually a safe bet</body>
+    </message>
+    <message id="m0055" time="2010-08-25 23:00:12 UTC" participant="153901">
+      <body>but i've gotten adventous in my old age</body>
+    </message>
+    <message id="m0056" time="2010-08-25 23:00:33 UTC" participant="153901">
+      <body>and worse at spelling</body>
+    </message>
+    <message id="m0057" time="2010-08-25 23:00:54 UTC" participant="153902">
+      <body>^_^</body>
+    </message>
+    <message id="m0058" time="2010-08-25 23:01:15 UTC" participant="153901">
+      <body>would you like to get some ice cream w/ me?</body>
+    </message>
+    <message id="m0059" time="2010-08-25 23:01:20 UTC" participant="153902">
+      <body>Not tonight</body>
+    </message>
+    <message id="m0060" time="2010-08-25 23:01:36 UTC" participant="153901">
+      <body>well, I didnt say tonight</body>
+    </message>
+    <message id="m0061" time="2010-08-25 23:01:45 UTC" participant="153902">
+      <body>And I didn't say no.</body>
+    </message>
+    <message id="m0062" time="2010-08-25 23:02:07 UTC" participant="153901">
+      <body>tonight would be just about impossible, since I am still at work</body>
+    </message>
+    <message id="m0063" time="2010-08-25 23:04:34 UTC" participant="153902">
+      <body>Yeah, I just decided to go home</body>
+    </message>
+    <message id="m0064" time="2010-08-25 23:04:39 UTC" participant="153901">
+      <body>I believe I am free tomorrow....</body>
+    </message>
+    <message id="m0065" time="2010-08-25 23:04:46 UTC" participant="153902">
+      <body>I'm driving to NY tomorrow</body>
+    </message>
+    <message id="m0066" time="2010-08-25 23:05:02 UTC" participant="153901">
+      <body>oh, that home</body>
+    </message>
+    <message id="m0067" time="2010-08-25 23:05:19 UTC" participant="153902">
+      <body>O.o</body>
+    </message>
+    <message id="m0068" time="2010-08-25 23:05:28 UTC" participant="153902">
+      <body>I decided to leave work and go to my apartment</body>
+    </message>
+    <message id="m0069" time="2010-08-25 23:05:47 UTC" participant="153902">
+      <body>My mother's wedding is this weekend, so I'm taking Friday off, but starting the drive on Thursday</body>
+    </message>
+    <message id="m0070" time="2010-08-25 23:06:01 UTC" participant="153901">
+      <body>thats what I thought, then I thought maybe you meant NY</body>
+    </message>
+    <message id="m0071" time="2010-08-25 23:06:38 UTC" participant="153901">
+      <body>and also that it was a strange thing to decide all the sudden O.o</body>
+    </message>
+    <message id="m0072" time="2010-08-25 23:06:52 UTC" participant="153902">
+      <body>Alright, heading out. I'll ttyl.</body>
+    </message>
+    <message id="m0073" time="2010-08-26 02:56:15 UTC" participant="153901">
+      <body>:)</body>
+    </message>
+    <message id="m0074" time="2010-08-26 02:56:34 UTC" participant="153901">
+      <body>Im so miserable today!</body>
+    </message>
+    <message id="m0075" time="2010-08-26 02:56:42 UTC" participant="153902">
+      <body>Oh?</body>
+    </message>
+    <message id="m0076" time="2010-08-26 02:57:14 UTC" participant="153901">
+      <body>it was like monday was hiding behind tuesday and snuck up on me</body>
+    </message>
+    <message id="m0077" time="2010-08-26 02:57:24 UTC" participant="153902">
+      <body>O.o</body>
+    </message>
+    <message id="m0078" time="2010-08-26 02:58:13 UTC" participant="153901">
+      <body>anywho, are you excited about the wedding?</body>
+    </message>
+    <message id="m0079" time="2010-08-26 02:58:18 UTC" participant="153902">
+      <body>Meh</body>
+    </message>
+    <message id="m0080" time="2010-08-26 03:20:10 UTC" participant="153901">
+      <body>that excited, uh</body>
+    </message>
+    <message id="m0081" time="2010-08-26 03:20:28 UTC" participant="153902">
+      <body>It's just a wedding</body>
+    </message>
+    <message id="m0082" time="2010-08-26 03:20:34 UTC" participant="153902">
+      <body>They've been together for 10 years</body>
+    </message>
+    <message id="m0083" time="2010-08-26 03:21:23 UTC" participant="153901">
+      <body>I thought all you women got all giddy over weddings</body>
+    </message>
+    <message id="m0084" time="2010-08-26 03:23:01 UTC" participant="153902">
+      <body>Ahh, generalizations.</body>
+    </message>
+    <message id="m0085" time="2010-08-26 03:23:05 UTC" participant="153902">
+      <body>How they apply to everyone.</body>
+    </message>
+    <message id="m0086" time="2010-08-26 03:24:13 UTC" participant="153901">
+      <body>reminds me of my friends facebook status: "...thinks all generalizations are inaccurate...including this one."</body>
+    </message>
+    <message id="m0087" time="2010-08-26 03:31:43 UTC" participant="153902">
+      <body>Yup</body>
+    </message>
+    <message id="m0088" time="2010-08-26 03:35:15 UTC" participant="153901">
+      <body>well at least you get to do some traveling this weekend</body>
+    </message>
+    <message id="m0089" time="2010-08-26 03:43:06 UTC" participant="153902">
+      <body>Yeah</body>
+    </message>
+    <message id="m0090" time="2010-08-26 03:43:11 UTC" participant="153902">
+      <body>14+ hours of driving.</body>
+    </message>
+    <message id="m0091" time="2010-08-26 03:43:12 UTC" participant="153902">
+      <body>Woo.</body>
+    </message>
+    <message id="m0092" time="2010-08-26 03:47:18 UTC" participant="153901">
+      <body>just think of all the music you will be able to listen to</body>
+    </message>
+    <message id="m0093" time="2010-08-26 15:21:23 UTC" participant="153901">
+      <body>whatever will be, will be</body>
+    </message>
+    <message id="m0094" time="2010-08-26 15:21:31 UTC" participant="153902">
+      <body>yes</body>
+    </message>
+    <message id="m0095" time="2010-08-26 15:22:01 UTC" participant="153901">
+      <body>nice comment on fb by the way</body>
+    </message>
+    <message id="m0096" time="2010-08-26 15:22:12 UTC" participant="153902">
+      <body>The 400-word one? &gt;.&lt;</body>
+    </message>
+    <message id="m0097" time="2010-08-26 15:22:18 UTC" participant="153901">
+      <body>the same</body>
+    </message>
+    <message id="m0098" time="2010-08-26 15:22:44 UTC" participant="153901">
+      <body>I almost commented back with "word"</body>
+    </message>
+    <message id="m0099" time="2010-08-26 15:23:43 UTC" participant="153902">
+      <body>The funny thing is -- the two women commenting on it? -- my manager from last December to last week (Kirsten) and my manager from Monday forward (Kathleen)</body>
+    </message>
+    <message id="m0100" time="2010-08-26 15:28:44 UTC" participant="153901">
+      <body>so whats this fascination with dancing?</body>
+    </message>
+    <message id="m0101" time="2010-08-26 15:29:52 UTC" participant="153902">
+      <body>It's fun, haven't you heard.</body>
+    </message>
+    <message id="m0102" time="2010-08-26 15:31:17 UTC" participant="153901">
+      <body>I actually went dancing a few weekends ago</body>
+    </message>
+    <message id="m0103" time="2010-08-26 15:32:26 UTC" participant="153901">
+      <body>Its not a common activity for me.  I had a few drinks, then I had a few more</body>
+    </message>
+    <message id="m0104" time="2010-08-26 15:50:04 UTC" participant="153902">
+      <body>And I don't get why it's not a common activity for guys</body>
+    </message>
+    <message id="m0105" time="2010-08-26 15:50:33 UTC" participant="153902">
+      <body>It usually seems to be some self-consciousness brought on by peer pressure from other guys</body>
+    </message>
+    <message id="m0108" time="2010-08-26 15:51:51 UTC" participant="153902">
+      <body>/rolleyes</body>
+    </message>
+    <message id="m0109" time="2010-08-26 15:52:11 UTC" participant="153901">
+      <body>but seriously, plenty of guys dance on a semi-regular basis</body>
+    </message>
+    <message id="m0110" time="2010-08-26 15:52:27 UTC" participant="153902">
+      <body>I'm aware</body>
+    </message>
+    <message id="m0111" time="2010-08-26 15:52:34 UTC" participant="153901">
+      <body>but I am 31 y/o, most people my age are married w/ children</body>
+    </message>
+    <message id="m0112" time="2010-08-26 15:53:23 UTC" participant="153902">
+      <body>Obviously that makes you decrepit, incapable of physical activity, and rhythmless?</body>
+    </message>
+    <message id="m0113" time="2010-08-26 15:54:18 UTC" participant="153901">
+      <body>it doesn't but I means that if I am going to find myself in situation where there is dancing involved, it's going to have to be in the company of younger people</body>
+    </message>
+    <message id="m0114" time="2010-08-26 18:10:57 UTC" participant="153901">
+      <body>have you ever seen the movie Amelie?</body>
+    </message>
+    <message id="m0115" time="2010-08-26 18:11:01 UTC" participant="153902">
+      <body>I think so</body>
+    </message>
+    <message id="m0116" time="2010-08-26 18:11:06 UTC" participant="153902">
+      <body>A lonnnnnnnnng time ago</body>
+    </message>
+    <message id="m0117" time="2010-08-26 18:11:10 UTC" participant="153902">
+      <body>Like seven years ago</body>
+    </message>
+    <message id="m0118" time="2010-08-26 18:11:39 UTC" participant="153902">
+      <body>OMFG http://icanhascheezburger.files.wordpress.com/2010/08/7aebdef7-df0f-485f-92c0-d8622387d2d7.jpg</body>
+    </message>
+    <message id="m0120" time="2010-08-26 18:14:17 UTC" participant="153901">
+      <body>so yeah, that movie came out a while ago I think.  ive been wanting to see it but was always too lazy to read the subtitles.</body>
+    </message>
+    <message id="m0121" time="2010-08-26 18:24:23 UTC" participant="153902">
+      <body>=/</body>
+    </message>
+    <message id="m0122" time="2010-08-26 18:29:05 UTC" participant="153901">
+      <body>Im thinking I should see it since a lot of people recommend it</body>
+    </message>
+    <message id="m0123" time="2010-08-26 18:29:28 UTC" participant="153902">
+      <body>I wasn't particularly impressed from what I remember.</body>
+    </message>
+    <message id="m0124" time="2010-08-26 18:30:17 UTC" participant="153901">
+      <body>how about eternal sunshine of the spotless mind?</body>
+    </message>
+    <message id="m0125" time="2010-08-26 18:30:26 UTC" participant="153902">
+      <body>Is depressingly fantastic.</body>
+    </message>
+    <message id="m0126" time="2010-08-26 18:30:35 UTC" participant="153902">
+      <body>I cried.</body>
+    </message>
+    <message id="m0127" time="2010-08-26 18:31:13 UTC" participant="153901">
+      <body>:'(</body>
+    </message>
+    <message id="m0128" time="2010-08-26 18:32:41 UTC" participant="153901">
+      <body>It did have a happy ending though</body>
+    </message>
+    <message id="m0129" time="2010-08-26 18:32:58 UTC" participant="153902">
+      <body>Maybe</body>
+    </message>
+    <message id="m0130" time="2010-08-26 18:33:04 UTC" participant="153902">
+      <body>It ended on a happy note.</body>
+    </message>
+    <message id="m0131" time="2010-08-26 18:33:11 UTC" participant="153901">
+      <body>right</body>
+    </message>
+    <message id="m0132" time="2010-08-26 18:33:11 UTC" participant="153902">
+      <body>There's no guarantee that the story ended happily.</body>
+    </message>
+    <message id="m0133" time="2010-08-26 18:33:27 UTC" participant="153901">
+      <body>well of course not, is there ever?</body>
+    </message>
+    <message id="m0134" time="2010-08-26 18:33:35 UTC" participant="153902">
+      <body>Occasionally</body>
+    </message>
+    <message id="m0135" time="2010-08-26 18:33:46 UTC" participant="153901">
+      <body>just look at tiger woods</body>
+    </message>
+    <message id="m0136" time="2010-08-26 18:33:50 UTC" participant="153902">
+      <body>When stories end with them old and still happy together.</body>
+    </message>
+    <message id="m0137" time="2010-08-26 18:33:50 UTC" participant="153901">
+      <body>HA</body>
+    </message>
+    <message id="m0138" time="2010-08-26 18:34:00 UTC" participant="153901">
+      <body>like the Notebook</body>
+    </message>
+    <message id="m0139" time="2010-08-26 18:34:34 UTC" participant="153901">
+      <body>or romeo and juliet</body>
+    </message>
+    <message id="m0140" time="2010-08-26 18:35:52 UTC" participant="153902">
+      <body>Have not seen the Notebook.</body>
+    </message>
+    <message id="m0141" time="2010-08-26 18:36:33 UTC" participant="153902">
+      <body>If you decide that all relationships will end badly, I fear you will probably prove yourself right.</body>
+    </message>
+    <message id="m0142" time="2010-08-26 18:38:26 UTC" participant="153901">
+      <body>I certainly don't think that they will all end badly, but they will end</body>
+    </message>
+    <message id="m0143" time="2010-08-26 18:38:59 UTC" participant="153902">
+      <body>Everything ends.</body>
+    </message>
+    <message id="m0144" time="2010-08-26 18:39:11 UTC" participant="153902">
+      <body>That's not a reason to disdain, avoid, or regret living.</body>
+    </message>
+    <message id="m0145" time="2010-08-26 18:39:16 UTC" participant="153902">
+      <body>Or trying.</body>
+    </message>
+    <message id="m0146" time="2010-08-26 18:41:00 UTC" participant="153901">
+      <body>I am a hopeless romantic at heart.  As I get older and therefore more cynical, I have found that relationships can be as much about the journey as the destination.  That doesnt mean that I don't want to eventually arrive there</body>
+    </message>
+    <message id="m0147" time="2010-08-26 18:43:20 UTC" participant="153902">
+      <body>I think your analogy is flawed.</body>
+    </message>
+    <message id="m0148" time="2010-08-26 18:43:53 UTC" participant="153902">
+      <body>Life itself is the journey.</body>
+    </message>
+    <message id="m0149" time="2010-08-26 18:43:57 UTC" participant="153902">
+      <body>Death is the only destination.</body>
+    </message>
+    <message id="m0150" time="2010-08-26 18:44:13 UTC" participant="153902">
+      <body>Relationships are people you carpool or travel with.</body>
+    </message>
+    <message id="m0151" time="2010-08-26 18:44:35 UTC" participant="153901">
+      <body>not flawed.  Dating is journey to find our "soul" mate if you will</body>
+    </message>
+    <message id="m0152" time="2010-08-26 18:45:13 UTC" participant="153902">
+      <body>Only if you believe there are soul mates.</body>
+    </message>
+    <message id="m0153" time="2010-08-26 18:46:17 UTC" participant="153901">
+      <body>besides, if death is the destination, they you could just jump off a bridge to get there...done.  It's not particularly a destination Im in a rush to get to</body>
+    </message>
+    <message id="m0154" time="2010-08-26 18:46:30 UTC" participant="153902">
+      <body>Of course not.</body>
+    </message>
+    <message id="m0155" time="2010-08-26 18:46:31 UTC" participant="153901">
+      <body>I dont really believe in soul mates</body>
+    </message>
+    <message id="m0156" time="2010-08-26 18:46:55 UTC" participant="153901">
+      <body>it's a nice concept, but pretty much bullshit</body>
+    </message>
+    <message id="m0157" time="2010-08-26 18:48:52 UTC" participant="153901">
+      <body>settling down is very much about settling.  At least for me it is.</body>
+    </message>
+    <message id="m0158" time="2010-08-26 18:49:06 UTC" participant="153901">
+      <body>and compromise</body>
+    </message>
+    <message id="m0159" time="2010-08-26 18:50:15 UTC" participant="153901">
+      <body>we all have our deal-breakers, once that is out of the way there are any number of suitors out there.  It's just a matter of timing after that.  Boy meets girl...yada yada</body>
+    </message>
+    <message id="m0160" time="2010-08-26 18:55:13 UTC" participant="153902">
+      <body>I think it takes a lot more luck than timing</body>
+    </message>
+    <message id="m0161" time="2010-08-26 18:55:18 UTC" participant="153902">
+      <body>Unless you are truly settling.</body>
+    </message>
+    <message id="m0162" time="2010-08-26 18:56:01 UTC" participant="153901">
+      <body>timing is luck, if you believe in luck</body>
+    </message>
+    <message id="m0163" time="2010-08-26 18:56:25 UTC" participant="153902">
+      <body>But timing is only one part of 'luck'</body>
+    </message>
+    <message id="m0164" time="2010-08-26 18:56:40 UTC" participant="153902">
+      <body>and luck is the same as chance with is an expression of statistical odds.</body>
+    </message>
+    <message id="m0165" time="2010-08-26 18:56:42 UTC" participant="153901">
+      <body>so your talking more of fate</body>
+    </message>
+    <message id="m0166" time="2010-08-26 18:56:45 UTC" participant="153902">
+      <body>No</body>
+    </message>
+    <message id="m0167" time="2010-08-26 18:57:08 UTC" participant="153902">
+      <body>There is timing, there is the whole deal-breaker thing, and there is chemistry</body>
+    </message>
+    <message id="m0168" time="2010-08-26 18:57:15 UTC" participant="153902">
+      <body>You need all three.</body>
+    </message>
+    <message id="m0169" time="2010-08-26 18:57:23 UTC" participant="153902">
+      <body>You can't have 2/3</body>
+    </message>
+    <message id="m0170" time="2010-08-26 18:57:27 UTC" participant="153902">
+      <body>It won't work</body>
+    </message>
+    <message id="m0171" time="2010-08-26 18:57:30 UTC" participant="153901">
+      <body>and what pray tell is chemistry</body>
+    </message>
+    <message id="m0172" time="2010-08-26 18:57:30 UTC" participant="153902">
+      <body>UNLESS you are settling.</body>
+    </message>
+    <message id="m0173" time="2010-08-26 18:57:51 UTC" participant="153901">
+      <body>you can have all three and still be settling</body>
+    </message>
+    <message id="m0174" time="2010-08-26 18:57:56 UTC" participant="153902">
+      <body>Of course</body>
+    </message>
+    <message id="m0175" time="2010-08-26 18:58:16 UTC" participant="153901">
+      <body>Ive had all three, but the deal-breakers tend to change</body>
+    </message>
+    <message id="m0176" time="2010-08-26 18:58:26 UTC" participant="153902">
+      <body>Chemistry I'd define as physical/emotional/mental attraction and compatibility.</body>
+    </message>
+    <message id="m0177" time="2010-08-26 19:00:05 UTC" participant="153901">
+      <body>hmm</body>
+    </message>
+    <message id="m0178" time="2010-08-26 19:00:28 UTC" participant="153901">
+      <body>Ill give you the physical/emo/mental attraction</body>
+    </message>
+    <message id="m0179" time="2010-08-26 19:00:48 UTC" participant="153901">
+      <body>not so sure about the compatibility though</body>
+    </message>
+    <message id="m0180" time="2010-08-26 19:01:15 UTC" participant="153902">
+      <body>Not saying they have to be 100% compatible</body>
+    </message>
+    <message id="m0181" time="2010-08-26 19:01:17 UTC" participant="153901">
+      <body>havent you ever been attracted to someone you know you are not compatible with?</body>
+    </message>
+    <message id="m0182" time="2010-08-26 19:01:20 UTC" participant="153902">
+      <body>But they can't be 100% incompatible</body>
+    </message>
+    <message id="m0183" time="2010-08-26 19:02:02 UTC" participant="153901">
+      <body>thats impossible, hell there are guys I think Im less than 100% incompatible with</body>
+    </message>
+    <message id="m0184" time="2010-08-26 19:02:10 UTC" participant="153902">
+      <body>I can't think of a time, no. Now, I may have assumed compatibility and found out later that my assumptions or premises were wrong.</body>
+    </message>
+    <message id="m0185" time="2010-08-26 19:02:34 UTC" participant="153901">
+      <body>Nah, im talking about knowing it from an early stage</body>
+    </message>
+    <message id="m0186" time="2010-08-26 19:02:39 UTC" participant="153902">
+      <body>Right</body>
+    </message>
+    <message id="m0187" time="2010-08-26 19:02:41 UTC" participant="153902">
+      <body>Then no.</body>
+    </message>
+    <message id="m0188" time="2010-08-26 19:02:47 UTC" participant="153901">
+      <body>but see, this comes from experience</body>
+    </message>
+    <message id="m0189" time="2010-08-26 19:03:01 UTC" participant="153901">
+      <body>not to say you are inexperienced</body>
+    </message>
+    <message id="m0190" time="2010-08-26 19:03:32 UTC" participant="153902">
+      <body>Or it's just a different way of operating.</body>
+    </message>
+    <message id="m0191" time="2010-08-26 19:04:14 UTC" participant="153902">
+      <body>My interest may be piqued, but it's rare that I'm actually attracted until I find out more.</body>
+    </message>
+    <message id="m0192" time="2010-08-26 19:04:22 UTC" participant="153902">
+      <body>Otherwise it's just a passing fancy.</body>
+    </message>
+    <message id="m0193" time="2010-08-26 19:04:26 UTC" participant="153902">
+      <body>Like celebrity crushes.</body>
+    </message>
+    <message id="m0194" time="2010-08-26 19:05:25 UTC" participant="153901">
+      <body>but we are talking about things that are generally not in control of</body>
+    </message>
+    <message id="m0195" time="2010-08-26 19:05:37 UTC" participant="153901">
+      <body>we are*</body>
+    </message>
+    <message id="m0196" time="2010-08-26 19:06:10 UTC" participant="153902">
+      <body>I have no idea what you're talking about.</body>
+    </message>
+    <message id="m0197" time="2010-08-26 19:07:37 UTC" participant="153902">
+      <body>Maybe I just have better control over my emotions than you &gt;.&gt;</body>
+    </message>
+    <message id="m0198" time="2010-08-26 19:09:03 UTC" participant="153901">
+      <body>hmmm...I doubt it, but its possible</body>
+    </message>
+    <message id="m0199" time="2010-08-26 19:10:01 UTC" participant="153901">
+      <body>ok, so you meet someone and all is well.  you go out on some dates or whatever and you like them, they like you</body>
+    </message>
+    <message id="m0200" time="2010-08-26 19:10:28 UTC" participant="153901">
+      <body>you talk, get to know them, start to have feelings for them, and so on</body>
+    </message>
+    <message id="m0201" time="2010-08-26 19:10:55 UTC" participant="153901">
+      <body>physically you are attracted to each other blah blah blah</body>
+    </message>
+    <message id="m0202" time="2010-08-26 19:13:29 UTC" participant="153902">
+      <body>And?</body>
+    </message>
+    <message id="m0203" time="2010-08-26 19:14:27 UTC" participant="153902">
+      <body>Maybe we have different definitions of compatibility.</body>
+    </message>
+    <message id="m0204" time="2010-08-26 19:16:13 UTC" participant="153901">
+      <body>but as you peel the layers, you begin to see that there is no future with this person</body>
+    </message>
+    <message id="m0205" time="2010-08-26 19:17:43 UTC" participant="153901">
+      <body>your intuition tells you that you should just cut your losses now, but unfortunately you are already emotionally involved</body>
+    </message>
+    <message id="m0206" time="2010-08-26 19:18:34 UTC" participant="153901">
+      <body>of course the longer you have been dating/seeing the person, the worse it gets</body>
+    </message>
+    <message id="m0207" time="2010-08-26 19:18:52 UTC" participant="153902">
+      <body>Yeah, that doesn't happen with me. Unless you're talking about like 6 months in.</body>
+    </message>
+    <message id="m0208" time="2010-08-26 19:19:09 UTC" participant="153901">
+      <body>in some cases it could be yes</body>
+    </message>
+    <message id="m0209" time="2010-08-26 19:19:22 UTC" participant="153901">
+      <body>might be a few weeks, months whatever</body>
+    </message>
+    <message id="m0210" time="2010-08-26 19:19:39 UTC" participant="153902">
+      <body>I usually cut my losses or start pulling away. /shrug</body>
+    </message>
+    <message id="m0211" time="2010-08-26 19:20:15 UTC" participant="153901">
+      <body>thats the safe move</body>
+    </message>
+    <message id="m0212" time="2010-08-26 19:21:11 UTC" participant="153901">
+      <body>but attraction has nothing to do with compatability</body>
+    </message>
+    <message id="m0213" time="2010-08-26 19:21:29 UTC" participant="153901">
+      <body>sometimes we are attracted to things that may not be good for us</body>
+    </message>
+    <message id="m0214" time="2010-08-26 19:21:59 UTC" participant="153902">
+      <body>I mean... attracted in spite of it... maybe. In love enough to want to overlook it, sure.</body>
+    </message>
+    <message id="m0215" time="2010-08-26 19:22:14 UTC" participant="153902">
+      <body>But eventually it starts affecting everything.</body>
+    </message>
+    <message id="m0216" time="2010-08-26 19:23:30 UTC" participant="153902">
+      <body>I've never been attracted to anyone who I didn't at first seem compatible with though.</body>
+    </message>
+    <message id="m0217" time="2010-08-26 19:24:37 UTC" participant="153901">
+      <body>sure...at first</body>
+    </message>
+    <message id="m0218" time="2010-08-26 19:25:15 UTC" participant="153901">
+      <body>I mean compatability is part of attraction</body>
+    </message>
+    <message id="m0219" time="2010-08-26 19:25:45 UTC" participant="153901">
+      <body>wow, I just totally contridicted myself</body>
+    </message>
+    <message id="m0220" time="2010-08-26 19:26:03 UTC" participant="153902">
+      <body>You see the problem.</body>
+    </message>
+    <message id="m0221" time="2010-08-26 19:26:28 UTC" participant="153901">
+      <body>what I mean is, you can have attraction without compatability</body>
+    </message>
+    <message id="m0222" time="2010-08-26 19:27:05 UTC" participant="153901">
+      <body>but often times, PERCEIVED compatability is part of the INITIAL attraction</body>
+    </message>
+    <message id="m0223" time="2010-08-26 19:27:32 UTC" participant="153902">
+      <body>For me perceived compatibility is essential to initial attraction.</body>
+    </message>
+    <message id="m0224" time="2010-08-26 19:28:02 UTC" participant="153901">
+      <body>and once the attraction is there, it's hard to just shrug it off because you now realize that the compatability isn't what you thought it was</body>
+    </message>
+    <message id="m0225" time="2010-08-26 19:28:16 UTC" participant="153902">
+      <body>Depends on what the compatibility issue is</body>
+    </message>
+    <message id="m0226" time="2010-08-26 19:28:25 UTC" participant="153902">
+      <body>Alcoholism -- really easy to just get rid of the attraction.</body>
+    </message>
+    <message id="m0227" time="2010-08-26 19:28:47 UTC" participant="153901">
+      <body>not for everyone.  not if you are co-dependent</body>
+    </message>
+    <message id="m0228" time="2010-08-26 19:32:24 UTC" participant="153902">
+      <body>I have definite strains of co-dependency.</body>
+    </message>
+    <message id="m0229" time="2010-08-26 19:32:43 UTC" participant="153902">
+      <body>But a lack of respect easily overcomes those.</body>
+    </message>
+    <message id="m0230" time="2010-08-26 19:33:06 UTC" participant="153901">
+      <body>was there alcoholism in your family?</body>
+    </message>
+    <message id="m0231" time="2010-08-26 19:33:26 UTC" participant="153901">
+      <body>or substance abuse of any kind?</body>
+    </message>
+    <message id="m0232" time="2010-08-26 19:33:35 UTC" participant="153902">
+      <body>Hm.</body>
+    </message>
+    <message id="m0233" time="2010-08-26 19:33:42 UTC" participant="153902">
+      <body>Not alcoholism in my nuclear family</body>
+    </message>
+    <message id="m0234" time="2010-08-26 19:33:49 UTC" participant="153902">
+      <body>My father abuses.</body>
+    </message>
+    <message id="m0235" time="2010-08-26 19:34:04 UTC" participant="153902">
+      <body>But my ex is the only alcoholic I've had any prolonged contact with AFAIK</body>
+    </message>
+    <message id="m0236" time="2010-08-26 19:34:24 UTC" participant="153902">
+      <body>Well, my friend David says he's an alcoholic, but he's been sober since before I met him</body>
+    </message>
+    <message id="m0237" time="2010-08-26 19:36:30 UTC" participant="153901">
+      <body>if your father abuses, then you could def. have co-dependent tendencies, but it doesnt seem to be a problem for you</body>
+    </message>
+    <message id="m0238" time="2010-08-26 19:37:00 UTC" participant="153902">
+      <body>Enh, the substance abuse issues aren't the cause of that.</body>
+    </message>
+    <message id="m0239" time="2010-08-26 19:37:09 UTC" participant="153902">
+      <body>That has everything to do with my relationship with my mother.</body>
+    </message>
+    <message id="m0240" time="2010-08-26 19:42:37 UTC" participant="153901">
+      <body>alcoholism could be a deal-breaker for you</body>
+    </message>
+    <message id="m0241" time="2010-08-26 19:42:51 UTC" participant="153901">
+      <body>or substance abuse in general</body>
+    </message>
+    <message id="m0242" time="2010-08-26 19:42:59 UTC" participant="153902">
+      <body>Pretty much.</body>
+    </message>
+    <message id="m0243" time="2010-08-26 19:43:10 UTC" participant="153902">
+      <body>Any sort of dependency loses my respect.</body>
+    </message>
+    <message id="m0244" time="2010-08-26 19:43:16 UTC" participant="153901">
+      <body>but that is probably due mostly to past experiences</body>
+    </message>
+    <message id="m0245" time="2010-08-26 19:43:34 UTC" participant="153902">
+      <body>Substance abuse has me leery because of my father/high school friends.</body>
+    </message>
+    <message id="m0246" time="2010-08-26 19:43:44 UTC" participant="153902">
+      <body>Dependency/addiction is purely my ex.</body>
+    </message>
+    <message id="m0247" time="2010-08-26 19:43:47 UTC" participant="153901">
+      <body>so our deal-breakers are ever-evolving</body>
+    </message>
+    <message id="m0248" time="2010-08-26 19:44:00 UTC" participant="153902">
+      <body>Yes.</body>
+    </message>
+    <message id="m0249" time="2010-08-26 19:44:07 UTC" participant="153901">
+      <body>like me with italian women</body>
+    </message>
+    <message id="m0250" time="2010-08-26 19:44:13 UTC" participant="153902">
+      <body>New experiences shape you and your perceptions</body>
+    </message>
+    <message id="m0251" time="2010-08-26 19:45:01 UTC" participant="153901">
+      <body>slowly we are making our pool of potential suitors smaller and smaller</body>
+    </message>
+    <message id="m0252" time="2010-08-26 19:45:15 UTC" participant="153902">
+      <body>But we meet more people /shrug</body>
+    </message>
+    <message id="m0253" time="2010-08-26 19:46:15 UTC" participant="153901">
+      <body>right, but our prerequisites are more strict</body>
+    </message>
+    <message id="m0254" time="2010-08-26 19:46:46 UTC" participant="153901">
+      <body>someone we may have dated years ago no longer fits the bill because he/she....</body>
+    </message>
+    <message id="m0255" time="2010-08-26 19:47:10 UTC" participant="153901">
+      <body>it becomes more like speed-dating</body>
+    </message>
+    <message id="m0256" time="2010-08-26 19:47:47 UTC" participant="153902">
+      <body>I feel like my prerequisites are the same as they have been. I've just gotten better at identifying whether they're met or not.</body>
+    </message>
+    <message id="m0257" time="2010-08-26 19:50:10 UTC" participant="153901">
+      <body>you don't feel like you have become more selective?</body>
+    </message>
+    <message id="m0258" time="2010-08-26 19:50:33 UTC" participant="153902">
+      <body>Not really. The same things interest me.</body>
+    </message>
+    <message id="m0259" time="2010-08-26 19:51:03 UTC" participant="153901">
+      <body>like big manly shoulders</body>
+    </message>
+    <message id="m0260" time="2010-08-26 19:51:33 UTC" participant="153901">
+      <body>I feel like I can go through women in no time anymore</body>
+    </message>
+    <message id="m0261" time="2010-08-26 19:52:35 UTC" participant="153902">
+      <body>That's always been the case for me. I've really never dated casually. I date guys that give me butterflies, and so far that's been a pretty small pool.</body>
+    </message>
+    <message id="m0262" time="2010-08-26 19:53:52 UTC" participant="153901">
+      <body>I always tend to find something I dont like</body>
+    </message>
+    <message id="m0264" time="2010-08-26 19:55:27 UTC" participant="153901">
+      <body>....crazy....too manly....boring.....</body>
+    </message>
+    <message id="m0265" time="2010-08-26 19:55:57 UTC" participant="153901">
+      <body>.....septum piercing....</body>
+    </message>
+    <message id="m0266" time="2010-08-26 19:56:17 UTC" participant="153902">
+      <body>Septum... /google</body>
+    </message>
+    <message id="m0267" time="2010-08-26 19:56:29 UTC" participant="153901">
+      <body>and lets not forget....too italian</body>
+    </message>
+    <message id="m0268" time="2010-08-26 19:56:36 UTC" participant="153902">
+      <body>Ah the nose thing?</body>
+    </message>
+    <message id="m0269" time="2010-08-26 19:57:10 UTC" participant="153901">
+      <body>who thinks that is attractive?</body>
+    </message>
+    <message id="m0270" time="2010-08-26 19:57:15 UTC" participant="153902">
+      <body>I don't know</body>
+    </message>
+    <message id="m0271" time="2010-08-26 19:57:20 UTC" participant="153902">
+      <body>Bulls?</body>
+    </message>
+    <message id="m0272" time="2010-08-26 19:57:28 UTC" participant="153901">
+      <body>I mean I realize some people do, but why?</body>
+    </message>
+    <message id="m0273" time="2010-08-26 19:57:38 UTC" participant="153901">
+      <body>maybe on a guy</body>
+    </message>
+    <message id="m0274" time="2010-08-26 19:57:42 UTC" participant="153902">
+      <body>You know what I've never gotten?</body>
+    </message>
+    <message id="m0275" time="2010-08-26 19:57:46 UTC" participant="153902">
+      <body>Gauged ears</body>
+    </message>
+    <message id="m0276" time="2010-08-26 19:57:51 UTC" participant="153901">
+      <body>but no, Im not dating a girl with that, sorry</body>
+    </message>
+    <message id="m0277" time="2010-08-26 19:57:52 UTC" participant="153902">
+      <body>Esp. the gigantic ones</body>
+    </message>
+    <message id="m0278" time="2010-08-26 19:58:26 UTC" participant="153901">
+      <body>and I know that its shallow, but its my life damnit</body>
+    </message>
+    <message id="m0279" time="2010-08-26 19:58:42 UTC" participant="153902">
+      <body>It's not really shallow.</body>
+    </message>
+    <message id="m0280" time="2010-08-26 19:58:58 UTC" participant="153902">
+      <body>Unless you get to know them, like them, but then reject them because of it</body>
+    </message>
+    <message id="m0281" time="2010-08-26 19:59:43 UTC" participant="153901">
+      <body>its stereotyping then</body>
+    </message>
+    <message id="m0282" time="2010-08-26 20:00:05 UTC" participant="153901">
+      <body>but thats not why I wouldnt date them, I just dont find it attractive</body>
+    </message>
+    <message id="m0283" time="2010-08-26 20:00:58 UTC" participant="153901">
+      <body>just like my weight limit thing, Im not proud of it, but at least I am being honest</body>
+    </message>
+    <message id="m0284" time="2010-08-26 20:02:15 UTC" participant="153902">
+      <body>You're not stereotyping either. You just don't find it attractive.</body>
+    </message>
+    <message id="m0285" time="2010-08-26 20:02:28 UTC" participant="153902">
+      <body>That's not a moral failing.</body>
+    </message>
+    <message id="m0286" time="2010-08-26 20:02:55 UTC" participant="153902">
+      <body>Though people in this country seem to think it is one.</body>
+    </message>
+    <message id="m0287" time="2010-08-26 20:03:18 UTC" participant="153902">
+      <body>You can't help what you initially find attractive.</body>
+    </message>
+    <message id="m0288" time="2010-08-26 20:03:32 UTC" participant="153902">
+      <body>You can learn to get OVER something eventually. Sometimes.</body>
+    </message>
+    <message id="m0289" time="2010-08-26 20:05:49 UTC" participant="153901">
+      <body>its not a hard, fast rule.  It's just that I know what I find attractive and I know my lifestyle</body>
+    </message>
+    <message id="m0290" time="2010-08-26 20:06:31 UTC" participant="153901">
+      <body>I cant be in a relationship w/ someone who makes no attempt to take care of themselves</body>
+    </message>
+    <message id="m0291" time="2010-08-26 20:07:32 UTC" participant="153901">
+      <body>Its something that I wish didnt matter as much as it does (physical attraction) but it cannot be ignored, at least not in the early stages</body>
+    </message>
+    <message id="m0292" time="2010-08-26 20:08:29 UTC" participant="153901">
+      <body>I know I am not everyones cup of tea, and that is fine.  Im not going to be offended by something I have no control over. I just want people to be honest</body>
+    </message>
+    <message id="m0293" time="2010-08-26 20:28:58 UTC" participant="153902">
+      <body>Honesty is good.</body>
+    </message>
+    <message id="m0294" time="2010-08-26 20:33:13 UTC" participant="153901">
+      <body>it is, but some people dont appreciate it</body>
+    </message>
+    <message id="m0295" time="2010-08-26 20:33:56 UTC" participant="153901">
+      <body>it is true what they say.  The grass is always greener</body>
+    </message>
+  </messages>
+</conversation>
+

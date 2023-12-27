@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131208.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-08 14:20:13 UTC" participant="152417">
+      <body>Good morning Bob, i think that the rehearsal time is up to you, it looks like we'll have a 4-5 people at either one</body>
+    </message>
+    <message id="m0001" time="2013-12-08 14:25:33 UTC" participant="152521">
+      <body>The original plan was for today to be at 3.  I'd say stick w the plan.  Next week is at 10.</body>
+    </message>
+    <message id="m0002" time="2013-12-08 14:33:15 UTC" participant="152417">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

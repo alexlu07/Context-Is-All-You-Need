@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110821.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130861" time="2011-08-21 21:39:03 UTC">
+      <body>Hi, this is Noelie. We are in the train between the airport and Philadelphia! When and when shall we meet?</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-08-21 21:45:27 UTC">
+      <body>Cool!  I am at my studio for another hour at least...do you have a lot of stuff?  I can be at my place by 7 if you can wait till then?</body>
+    </message>
+    <message id="m0002" participant="130861" time="2011-08-21 21:47:44 UTC">
+      <body>You work on sundays? It is good take your time, we can wait and our packs have wheels . See you tonight then!</body>
+    </message>
+    <message id="m0003" participant="130755" time="2011-08-21 23:02:46 UTC">
+      <body>Not home yet!  Sorry</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-08-21 23:03:13 UTC">
+      <body>Will be home by 8 at latest....for real this time</body>
+    </message>
+  </messages>
+</conversation>

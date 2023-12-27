@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132546" time="2013-06-28 23:44:38 UTC">
+      <body>Don't quite have the money yet but yea I'm still interested, how much are u charging ?</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-28 23:49:10 UTC">
+      <body>We said $200 last time we talked</body>
+    </message>
+    <message id="m0002" participant="132546" time="2013-06-28 23:58:04 UTC">
+      <body>Sounds good..I remember, I just had to make sure </body>
+    </message>
+  </messages>
+</conversation>

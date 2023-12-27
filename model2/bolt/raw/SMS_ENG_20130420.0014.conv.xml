@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132561" time="2013-04-20 00:08:22 UTC">
+      <body>You coming tomorrow</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-04-20 00:19:21 UTC">
+      <body>Nah I'm in the hospital doin this study</body>
+    </message>
+    <message id="m0002" participant="132561" time="2013-04-20 00:19:39 UTC">
+      <body>Word have fun</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-04-20 00:20:47 UTC">
+      <body>Gotta get this money for the beach son</body>
+    </message>
+    <message id="m0004" participant="132561" time="2013-04-20 00:21:22 UTC">
+      <body>Yea def, let me know when it's figured out</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-04-20 00:23:04 UTC">
+      <body>Yezzer have fun at party</body>
+    </message>
+  </messages>
+</conversation>

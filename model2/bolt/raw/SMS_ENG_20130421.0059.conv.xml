@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130421.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-21 23:12:20 UTC" participant="152374">
+      <body>Hey. Are you headed out to #### and ######'s and if so a) how long do you plan to stay and b) might I possibly have a lift?</body>
+    </message>
+    <message id="m0001" time="2013-04-21 23:13:57 UTC" participant="154093">
+      <body>A couple hours, don't want to stay too late, and yeah I can pick you up.  I can head over by you around 7:45</body>
+    </message>
+    <message id="m0002" time="2013-04-21 23:14:34 UTC" participant="152374">
+      <body>Okay, sounds good. Thank you!</body>
+    </message>
+    <message id="m0003" time="2013-04-21 23:14:54 UTC" participant="154093">
+      <body>Np</body>
+    </message>
+  </messages>
+</conversation>
+

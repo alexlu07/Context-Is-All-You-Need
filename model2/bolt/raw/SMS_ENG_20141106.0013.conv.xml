@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141106.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-06 23:03:36 UTC" participant="153547">
+      <body>Did u make it?</body>
+    </message>
+    <message id="m0001" time="2014-11-06 23:06:04 UTC" participant="153557">
+      <body>I'm here!</body>
+    </message>
+    <message id="m0002" time="2014-11-06 23:19:56 UTC" participant="153547">
+      <body>Oh good. Have a great time</body>
+    </message>
+    <message id="m0003" time="2014-11-07 04:30:59 UTC" participant="153557">
+      <body>So far, it's amazing accept the hotel. Going to bed now</body>
+    </message>
+    <message id="m0004" time="2014-11-07 17:44:57 UTC" participant="153557">
+      <body>Babe. I hiked a cave.
+￼</body>
+    </message>
+    <message id="m0005" time="2014-11-07 17:45:57 UTC" participant="153557">
+      <body>And I'm getting my massage at 4.</body>
+    </message>
+  </messages>
+</conversation>
+

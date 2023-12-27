@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130417.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-04-17 05:01:21 UTC">
+      <body>Hey, do you want to hang out on thursday?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-17 14:34:58 UTC">
+      <body>i don't think i can. :( i have meetings at 5, 7, and 10. (i hate this week.) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121225.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-25 23:24:51 UTC" participant="131824">
+      <body>￼I know you are jealous of these lively items that were in my stocking.</body>
+    </message>
+    <message id="m0001" time="2012-12-25 23:27:42 UTC" participant="131821">
+      <body>Wow</body>
+    </message>
+    <message id="m0002" time="2012-12-25 23:30:08 UTC" participant="131824">
+      <body>Problem</body>
+    </message>
+    <message id="m0003" time="2012-12-25 23:30:08 UTC" participant="131824">
+      <body>Give me a call when you have time tonight :)</body>
+    </message>
+    <message id="m0004" time="2012-12-25 23:30:08 UTC" participant="131824">
+      <body>No</body>
+    </message>
+    <message id="m0005" time="2012-12-25 23:31:05 UTC" participant="131821">
+      <body>Can I call you back in a bit</body>
+    </message>
+  </messages>
+</conversation>
+

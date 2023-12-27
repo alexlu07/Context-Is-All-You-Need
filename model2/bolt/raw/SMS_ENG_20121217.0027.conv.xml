@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121217.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-17 20:15:27 UTC" participant="152535">
+      <body>Hi Gabi. We are a go for this beginner jazz band gig for you. Can you meet up with me this Thursday sometime after 4? Thanks!</body>
+    </message>
+    <message id="m0001" time="2012-12-17 20:18:45 UTC" participant="152417">
+      <body>Awesome! I can meet thursday, i have to get back to you about what time though</body>
+    </message>
+    <message id="m0002" time="2012-12-18 03:26:30 UTC" participant="152535">
+      <body>Cool just let me know</body>
+    </message>
+  </messages>
+</conversation>
+

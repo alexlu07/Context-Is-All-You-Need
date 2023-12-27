@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120606.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131822" time="2012-06-06 02:34:45 UTC">
+      <body> You didn't pack my rice cooker did you?</body>
+    </message>
+    <message id="m0001" participant="131822" time="2012-06-06 02:34:50 UTC">
+      <body>And pot</body>
+    </message>
+    <message id="m0002" participant="131822" time="2012-06-06 02:35:08 UTC">
+      <body>Oh wait you're probs in Tajikistan by now</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-06-06 10:12:12 UTC">
+      <body>Nope I didn't I'm in Tajikistan</body>
+    </message>
+  </messages>
+</conversation>

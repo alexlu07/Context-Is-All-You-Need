@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120804.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-04 16:15:39 UTC" participant="153464">
+      <body>When are you planning to arrive?</body>
+    </message>
+    <message id="m0001" time="2012-08-04 16:15:51 UTC" participant="153464">
+      <body>When are you planning to arrive?</body>
+    </message>
+    <message id="m0002" time="2012-08-04 16:18:29 UTC" participant="152374">
+      <body>I'm just on my way now should be there in about an hour. I have to leave right away though to meet someone for lunch so don't don't feel like you have to be around for me</body>
+    </message>
+    <message id="m0003" time="2012-08-04 16:18:52 UTC" participant="152374">
+      <body>I have my keys with me unless they've changed</body>
+    </message>
+    <message id="m0004" time="2012-08-04 16:28:38 UTC" participant="153464">
+      <body>Cool. I'm here, other peeps are sleeping still, so just let yourself in</body>
+    </message>
+  </messages>
+</conversation>
+

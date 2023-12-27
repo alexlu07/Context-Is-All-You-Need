@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120320.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135093" time="2012-03-20 03:33:51 UTC">
+      <body>Yes! Of course!!!!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-03-20 19:13:38 UTC">
+      <body>Hey love, you should definitely come to the show on Sunday. If you want to find tickets it's called 'the elephant room' and it's at st. Ann's</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-20 19:13:41 UTC">
+      <body>7:00 obviously</body>
+    </message>
+  </messages>
+</conversation>

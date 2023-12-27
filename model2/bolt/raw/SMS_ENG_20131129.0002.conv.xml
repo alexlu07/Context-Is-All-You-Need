@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 15:10:37 UTC" participant="152429">
+      <body>Went with suedon to Mimi's to fix stuff</body>
+    </message>
+    <message id="m0001" time="2013-11-29 15:52:51 UTC" participant="152417">
+      <body>Can you be back at 1130?</body>
+    </message>
+    <message id="m0002" time="2013-11-29 16:09:36 UTC" participant="152429">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

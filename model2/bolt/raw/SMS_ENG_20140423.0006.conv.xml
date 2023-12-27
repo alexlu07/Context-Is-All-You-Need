@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 15:33:39 UTC" participant="153547">
+      <body>Do u need anything from grocery store?</body>
+    </message>
+    <message id="m0001" time="2014-04-23 15:35:36 UTC" participant="153557">
+      <body>Which one you at</body>
+    </message>
+    <message id="m0002" time="2014-04-23 15:35:45 UTC" participant="153557">
+      <body>I need a soup for dinner tonight.</body>
+    </message>
+    <message id="m0003" time="2014-04-23 15:36:13 UTC" participant="153547">
+      <body>Wegmans. It was right by the house that I got the oven</body>
+    </message>
+    <message id="m0004" time="2014-04-23 15:37:13 UTC" participant="153557">
+      <body>Yeah if you could get either a box of soup (any kind really) or a can if low sodium vegetable soup </body>
+    </message>
+    <message id="m0005" time="2014-04-24 14:43:12 UTC" participant="153557">
+      <body>The water in the shower won't get hot :(</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121116.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135273" time="2012-11-16 22:26:00 UTC">
+      <body>Hey, want to come see Ryan's play with us?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-16 22:30:07 UTC">
+      <body>Thanks for the invite but I can't </body>
+    </message>
+    <message id="m0002" participant="135273" time="2012-11-16 22:30:24 UTC">
+      <body>Aww. Sadness. Okie dokie. </body>
+    </message>
+  </messages>
+</conversation>

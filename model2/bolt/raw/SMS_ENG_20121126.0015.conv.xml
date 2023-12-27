@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121126.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2012-11-26 00:10:13 UTC">
+      <body>Hey! when are you getting back?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-26 00:11:27 UTC">
+      <body>I'm in gummere! I haven't been to Lloyd yet. Are you back?</body>
+    </message>
+    <message id="m0002" participant="135274" time="2012-11-26 00:38:59 UTC">
+      <body>Oh cool. Yes, i am back! off to study a bit.  see you later!</body>
+    </message>
+  </messages>
+</conversation>

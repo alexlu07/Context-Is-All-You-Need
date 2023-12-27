@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120523.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-05-23 19:06:53 UTC" participant="152374">
+      <body>Hey, I'll be in town this weekend. Do you still want to see cabin in the woods?</body>
+    </message>
+    <message id="m0001" time="2012-05-23 19:18:06 UTC" participant="152378">
+      <body>I do but I won't be here Fri or sat night :(</body>
+    </message>
+    <message id="m0002" time="2012-05-23 19:18:13 UTC" participant="152378">
+      <body>Dammit....</body>
+    </message>
+  </messages>
+</conversation>
+

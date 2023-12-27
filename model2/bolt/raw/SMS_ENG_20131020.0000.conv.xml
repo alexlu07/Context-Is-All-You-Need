@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131020.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-20 01:47:32 UTC" participant="149374">
+      <body>What is going on? We are here.</body>
+    </message>
+    <message id="m0001" time="2013-10-20 01:49:03 UTC" participant="149306">
+      <body>Dude, I just got home and am beat. I gotta get up at 630, do you wanna meet for breakfast when u get up?</body>
+    </message>
+    <message id="m0002" time="2013-10-20 01:49:52 UTC" participant="149374">
+      <body>Brunch at Royal.</body>
+    </message>
+    <message id="m0003" time="2013-10-20 01:50:19 UTC" participant="149306">
+      <body>Ok let me know what time.</body>
+    </message>
+  </messages>
+</conversation>
+

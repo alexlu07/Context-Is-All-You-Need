@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110916.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2011-09-16 19:16:06 UTC">
+      <body>Dearest R Squad - I'm about to pick up another 200 posters from Triangle. Let me know when you can come pick them up!</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-16 19:16:38 UTC">
+      <body>Now</body>
+    </message>
+    <message id="m0002" participant="131830" time="2011-09-16 19:18:16 UTC">
+      <body>Alright - I'm picking them up now and I have your backpack in my room, so let's say meet at my room (324 1903 Hall) at 3:30</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-09-16 19:18:33 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

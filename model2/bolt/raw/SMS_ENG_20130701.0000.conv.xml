@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134903" time="2013-07-01 02:04:34 UTC">
+      <body>I heard a rumor and I wanted to know if it was true...</body>
+    </message>
+    <message id="m0001" participant="134866" time="2013-07-01 02:48:02 UTC">
+      <body>What?</body>
+    </message>
+    <message id="m0002" participant="134903" time="2013-07-01 02:49:06 UTC">
+      <body>I heard you were going with me to Montana... is that true?</body>
+    </message>
+    <message id="m0003" participant="134866" time="2013-07-01 02:49:28 UTC">
+      <body>Of course! I heard you needed a companion!</body>
+    </message>
+    <message id="m0004" participant="134903" time="2013-07-01 02:56:06 UTC">
+      <body>I want to leave super early to avoid the hopscotch at the house... can I pour you into the truck at 5:00 am... I promise Starbucks and any other treats you desire!</body>
+    </message>
+    <message id="m0005" participant="134866" time="2013-07-01 02:57:13 UTC">
+      <body>Haha dad said you were leaving at 4 am so I think we will manage I'm your puppet whatever you want</body>
+    </message>
+    <message id="m0006" participant="134903" time="2013-07-01 03:46:37 UTC">
+      <body>Sweet! We need to listen to some killer tunes on the drive... </body>
+    </message>
+    <message id="m0007" participant="134903" time="2013-07-01 03:47:17 UTC">
+      <body>I've been searching for my commitments cd</body>
+    </message>
+    <message id="m0008" participant="134866" time="2013-07-01 03:49:05 UTC">
+      <body>I can honestly say my CDs consist of the CDs of my child hood like back street boys and billy gillman</body>
+    </message>
+  </messages>
+</conversation>

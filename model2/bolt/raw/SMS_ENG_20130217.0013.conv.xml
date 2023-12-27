@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130217.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131584" time="2013-02-17 05:38:12 UTC">
+      <body>Hallo Faber!  Andy replied 'we' for your tea party...he meant me too as I am visiting DC! Hope that's ok. -Diana </body>
+    </message>
+    <message id="m0001" participant="131528" time="2013-02-17 06:04:04 UTC">
+      <body>He told me! That's totally awesome! I'm excited to see you!</body>
+    </message>
+    <message id="m0002" participant="131584" time="2013-02-17 06:05:14 UTC">
+      <body>Yeah!!!  CL's recipes sound awesome</body>
+    </message>
+    <message id="m0003" participant="131584" time="2013-02-17 16:51:13 UTC">
+      <body>Where do you live, btw, and is there anything we should bring?</body>
+    </message>
+  </messages>
+</conversation>

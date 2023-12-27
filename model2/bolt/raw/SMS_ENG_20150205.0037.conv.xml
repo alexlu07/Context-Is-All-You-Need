@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150205.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-05 21:27:34 UTC" participant="153848">
+      <body>Dew u wanna get dinner 2nite? </body>
+    </message>
+    <message id="m0001" time="2015-02-05 21:30:40 UTC" participant="153812">
+      <body>I'm working til 8</body>
+    </message>
+    <message id="m0002" time="2015-02-05 21:32:14 UTC" participant="153848">
+      <body/>
+    </message>
+    <message id="m0003" time="2015-02-06 21:26:16 UTC" participant="153812">
+      <body>Are you coming to Chelsea market </body>
+    </message>
+  </messages>
+</conversation>
+

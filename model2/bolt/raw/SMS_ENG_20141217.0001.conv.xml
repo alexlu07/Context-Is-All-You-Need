@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141217.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-17 17:42:24 UTC" participant="152123">
+      <body>Sure that's fine</body>
+    </message>
+    <message id="m0002" time="2014-12-17 17:42:45 UTC" participant="152115">
+      <body>Ok. Thanks.</body>
+    </message>
+    <message id="m0003" time="2014-12-17 17:43:19 UTC" participant="152123">
+      <body>No problem. See you late</body>
+    </message>
+    <message id="m0004" time="2014-12-17 17:43:23 UTC" participant="152123">
+      <body>*later</body>
+    </message>
+    <message id="m0005" time="2014-12-17 17:43:43 UTC" participant="152115">
+      <body>Ok. See you.</body>
+    </message>
+    <message id="m0006" time="2014-12-17 20:05:49 UTC" participant="152123">
+      <body>Hey. What time should I pick you up? Will you be home?</body>
+    </message>
+    <message id="m0007" time="2014-12-17 20:07:28 UTC" participant="152115">
+      <body>I'm home. I'll be ready to go whenever. Whatever time you think is good is fine with me.</body>
+    </message>
+    <message id="m0008" time="2014-12-17 20:08:34 UTC" participant="152123">
+      <body>Is five good? I'll get there early, but I'll look for parking</body>
+    </message>
+    <message id="m0009" time="2014-12-17 20:09:14 UTC" participant="152115">
+      <body>Yup. Sound good.</body>
+    </message>
+    <message id="m0010" time="2014-12-17 20:09:42 UTC" participant="152123">
+      <body>Cool see you then</body>
+    </message>
+    <message id="m0011" time="2014-12-17 21:49:42 UTC" participant="152123">
+      <body>I'll be there in about ten minutes.</body>
+    </message>
+    <message id="m0012" time="2014-12-17 21:50:11 UTC" participant="152115">
+      <body>Ok. I'm ready.</body>
+    </message>
+    <message id="m0013" time="2014-12-17 21:57:39 UTC" participant="152123">
+      <body>Hey. I'm outside</body>
+    </message>
+    <message id="m0014" time="2014-12-17 23:39:44 UTC" participant="152123">
+      <body>Haha I tried to get rid of Robert to give you an update on Tanzin but nvm lol</body>
+    </message>
+  </messages>
+</conversation>
+

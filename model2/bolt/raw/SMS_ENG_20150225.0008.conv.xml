@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150225.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-25 23:54:51 UTC" participant="153244">
+      <body>Hey, so I passed my polygraph last week. I spoke with my assigned investigator and he wants me to meet with him march 5th before we schedule the psych eval</body>
+    </message>
+    <message id="m0001" time="2015-02-26 00:54:52 UTC" participant="153260">
+      <body>Can i call</body>
+    </message>
+    <message id="m0002" time="2015-02-26 18:01:10 UTC" participant="153244">
+      <body>Hey duke, here is the reminder text regarding our conversation yesterday (class start date, etc)</body>
+    </message>
+  </messages>
+</conversation>
+

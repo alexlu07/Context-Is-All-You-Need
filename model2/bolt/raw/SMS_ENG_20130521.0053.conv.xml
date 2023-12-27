@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0053" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-21 15:38:04 UTC">
+      <body>I'm leaving haverford now!</body>
+    </message>
+    <message id="m0001" participant="135286" time="2013-05-21 16:08:32 UTC">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0002" participant="135286" time="2013-05-21 18:58:12 UTC">
+      <body>We came over the pipe, and a little to the right!</body>
+    </message>
+  </messages>
+</conversation>

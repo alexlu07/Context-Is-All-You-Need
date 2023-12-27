@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140103.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-03 16:14:54 UTC" participant="153467">
+      <body>I'm thinking tonight would be the perfect time for game night. Anyone want to dig their car out and play some board games?</body>
+    </message>
+    <message id="m0001" time="2014-01-03 16:21:05 UTC" participant="152374">
+      <body>Love the thought but my car isn't going anywhere. They aren't plowing my neighborhood and it'll all be solid ice!</body>
+    </message>
+    <message id="m0002" time="2014-01-03 16:22:28 UTC" participant="153467">
+      <body>####### might come up so you could hitch a ride with him</body>
+    </message>
+    <message id="m0003" time="2014-01-03 16:32:54 UTC" participant="152374">
+      <body>I'd rather stay off the roads entirely if I can help it. I don't think driving in the city tonight is a good idea. But thanks for the invitation :)</body>
+    </message>
+  </messages>
+</conversation>
+

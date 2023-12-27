@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140505.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-05 23:37:30 UTC" participant="153244">
+      <body>Was there change? </body>
+    </message>
+    <message id="m0001" time="2014-05-05 23:47:46 UTC" participant="152116">
+      <body>Yeah sorry. I forgot. It was $1.45.</body>
+    </message>
+    <message id="m0002" time="2014-05-05 23:48:16 UTC" participant="153244">
+      <body>Hahaha ok Steph said keep it lol</body>
+    </message>
+    <message id="m0003" time="2014-05-06 00:05:53 UTC" participant="152116">
+      <body>Okay. Sorry</body>
+    </message>
+    <message id="m0004" time="2014-05-06 00:06:13 UTC" participant="153244">
+      <body>No biggie</body>
+    </message>
+  </messages>
+</conversation>
+

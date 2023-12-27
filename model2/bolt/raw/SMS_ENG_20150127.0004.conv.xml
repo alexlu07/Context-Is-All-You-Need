@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150127.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-27 12:32:33 UTC" participant="153244">
+      <body>Open @ 10:00 (I know its your late day so you can still go in for 11:00 or go in early). Sab is off again. </body>
+    </message>
+    <message id="m0001" time="2015-01-27 12:33:15 UTC" participant="153259">
+      <body>I'll be there at 10  thanks for the heads up </body>
+    </message>
+    <message id="m0002" time="2015-01-27 12:33:37 UTC" participant="153244">
+      <body>No problem</body>
+    </message>
+  </messages>
+</conversation>
+

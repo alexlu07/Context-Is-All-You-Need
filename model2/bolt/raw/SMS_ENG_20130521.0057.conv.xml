@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2013-05-21 14:12:20 UTC">
+      <body>I miss you</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-21 14:12:49 UTC">
+      <body>I love you and miss you too.  How are things going</body>
+    </message>
+    <message id="m0002" participant="135395" time="2013-05-21 14:13:20 UTC">
+      <body>Good, I had class yesterday and its gonna be so much easier!</body>
+    </message>
+    <message id="m0003" participant="135395" time="2013-05-21 14:13:20 UTC">
+      <body>And I'll have more time to hang and do yoga </body>
+    </message>
+    <message id="m0004" participant="135395" time="2013-05-21 14:13:43 UTC">
+      <body>And it's very close to your school</body>
+    </message>
+    <message id="m0005" participant="135395" time="2013-05-21 14:14:01 UTC">
+      <body>How's Philly</body>
+    </message>
+  </messages>
+</conversation>

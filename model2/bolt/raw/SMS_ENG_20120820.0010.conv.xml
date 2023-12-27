@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120820.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-20 03:54:42 UTC" participant="153418">
+      <body>Sorry to text you so late! I didn't see your reply until now. How's 11:30?</body>
+    </message>
+    <message id="m0001" time="2012-08-20 17:44:58 UTC" participant="153418">
+      <body>Did you get my last text? :p</body>
+    </message>
+    <message id="m0002" time="2012-08-20 18:28:58 UTC" participant="153418">
+      <body>I usually met up with her at the iHouse. Since it's convenient for you as well, why don't we meet there?</body>
+    </message>
+    <message id="m0003" time="2012-08-20 18:32:53 UTC" participant="153440">
+      <body>Sure!! Great!! I will be first floor at 11:30!!</body>
+    </message>
+    <message id="m0004" time="2012-08-20 18:38:56 UTC" participant="153418">
+      <body>Mkay~ I'll see you then.</body>
+    </message>
+    <message id="m0005" time="2012-08-20 19:40:44 UTC" participant="153440">
+      <body>See u then~;)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120731.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135404" time="2012-07-31 16:25:36 UTC">
+      <body>Party red hook? </body>
+    </message>
+    <message id="m0001" participant="135404" time="2012-07-31 16:25:36 UTC">
+      <body>Saturday? </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-31 16:26:09 UTC">
+      <body>Yes please!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-07-31 16:27:28 UTC">
+      <body>Night. I'll get you more details. It s an art space on the pier opening. Should be free except donations. </body>
+    </message>
+    <message id="m0004" participant="135404" time="2012-07-31 16:27:44 UTC">
+      <body>Ok great, at night or during the day? </body>
+    </message>
+    <message id="m0005" participant="135404" time="2012-07-31 16:27:44 UTC">
+      <body>What are the details?</body>
+    </message>
+    <message id="m0006" participant="135404" time="2012-07-31 16:27:44 UTC">
+      <body>Yes of course. I want to see you too!</body>
+    </message>
+    <message id="m0007" participant="135404" time="2012-07-31 16:27:44 UTC">
+      <body>But I'll go, I'll bike there with Katie </body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-07-31 16:28:01 UTC">
+      <body>However I do really want to see you so if that doesn't work let's figure something else out I can come to you</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-07-31 16:29:18 UTC">
+      <body>Yay I think me and Hannibal ate staying with Jeremy so well come and see</body>
+    </message>
+  </messages>
+</conversation>

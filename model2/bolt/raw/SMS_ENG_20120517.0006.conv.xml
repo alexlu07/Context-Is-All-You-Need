@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120517.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131285" time="2012-05-17 16:14:03 UTC">
+      <body>Any news?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-05-17 23:10:59 UTC">
+      <body>Sorry, I am busy. Call back later</body>
+    </message>
+    <message id="m0002" participant="131285" time="2012-05-17 23:11:44 UTC">
+      <body>Hehe no worries - just checking in</body>
+    </message>
+  </messages>
+</conversation>

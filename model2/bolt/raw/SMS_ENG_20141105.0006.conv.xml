@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141105.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-05 01:11:31 UTC" participant="152417">
+      <body>My peanut butter was the perfect consistency this morning; I feel accomplished</body>
+    </message>
+    <message id="m0001" time="2014-11-05 02:45:57 UTC" participant="152595">
+      <body>How did you manage that?!</body>
+    </message>
+    <message id="m0002" time="2014-11-05 02:47:03 UTC" participant="152417">
+      <body>All that effort on saturday and putting it in the fridge did the trick</body>
+    </message>
+    <message id="m0003" time="2014-11-05 03:20:32 UTC" participant="152595">
+      <body>What are you doing next week? I know it's a bit in advance</body>
+    </message>
+    <message id="m0004" time="2014-11-05 03:26:47 UTC" participant="152417">
+      <body>Im not sure yet during the week.  Im thinking of going down to DC next weekend to see my friend's cabaret</body>
+    </message>
+    <message id="m0005" time="2014-11-05 03:28:57 UTC" participant="152595">
+      <body> Ok</body>
+    </message>
+    <message id="m0006" time="2014-11-05 03:36:41 UTC" participant="152417">
+      <body>What do you have going on next week?</body>
+    </message>
+    <message id="m0007" time="2014-11-05 03:42:52 UTC" participant="152595">
+      <body>Oh nothing out of the ordinary. I'd like to see you though. </body>
+    </message>
+    <message id="m0008" time="2014-11-05 03:46:53 UTC" participant="152417">
+      <body>I hope that that doesn't make me nothing out of the ordinary :-p but let's hang out!</body>
+    </message>
+    <message id="m0009" time="2014-11-05 04:01:04 UTC" participant="152595">
+      <body>Of course not. I've only known you a week</body>
+    </message>
+  </messages>
+</conversation>
+

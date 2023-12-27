@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120923.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136272" time="2012-09-23 21:55:10 UTC">
+      <body>You want to grab dinner?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-23 21:55:53 UTC">
+      <body>I'm already at chipotle</body>
+    </message>
+    <message id="m0002" participant="136272" time="2012-09-23 21:56:32 UTC">
+      <body>Ohhhhhh</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120506.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-05-06 20:07:46 UTC">
+      <body>Sorry to hear about your grandma</body>
+    </message>
+    <message id="m0001" participant="131340" time="2012-05-06 20:11:58 UTC">
+      <body>Thanks man </body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-05-06 20:13:27 UTC">
+      <body>I just watched spencer hawes aka mike zeiser score 22</body>
+    </message>
+    <message id="m0003" participant="131340" time="2012-05-06 20:25:11 UTC">
+      <body>Hahahha great game again</body>
+    </message>
+  </messages>
+</conversation>

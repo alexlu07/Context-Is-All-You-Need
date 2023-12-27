@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120904.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-04 14:27:43 UTC">
+      <body>Breakfast/lunch in 10 minutes?</body>
+    </message>
+    <message id="m0001" participant="136262" time="2012-09-04 16:51:16 UTC">
+      <body>Im sorry Will I have classes starting 8:30  to 12:45 back to back on tuesdays and thursdays</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-04 18:11:51 UTC">
+      <body>That's cool. I have class till 5</body>
+    </message>
+  </messages>
+</conversation>

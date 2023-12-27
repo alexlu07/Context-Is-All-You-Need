@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-19 05:00:22 UTC">
+      <body>We must make music together soon </body>
+    </message>
+    <message id="m0001" participant="137322" time="2013-06-19 22:49:01 UTC">
+      <body>Yeah we should </body>
+    </message>
+  </messages>
+</conversation>

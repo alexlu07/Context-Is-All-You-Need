@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="132520" time="2013-06-15 09:17:39 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-06-15 13:16:23 UTC">
+      <body>Hey there</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-15 13:16:23 UTC">
+      <body>How's it goin?</body>
+    </message>
+    <message id="m0003" participant="132520" time="2013-06-15 13:18:20 UTC">
+      <body>Hey good! You?</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-15 13:19:51 UTC">
+      <body>Fine, well, on my way to work, so could be</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-15 13:20:17 UTC">
+      <body>Spending a lovely Saturday in a Better fashion</body>
+    </message>
+    <message id="m0006" participant="132520" time="2013-06-15 13:24:05 UTC">
+      <body>Ooh yeah that's no fun, what do you do for work?</body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-06-15 13:25:19 UTC">
+      <body>I cater. Headed to a wedding in the poconos at the moment</body>
+    </message>
+    <message id="m0008" participant="132520" time="2013-06-15 13:58:44 UTC">
+      <body>Ooh sounds nice I used to be a waitress, serving people is an interesting job</body>
+    </message>
+    <message id="m0009" participant="131964" time="2013-06-15 13:59:38 UTC">
+      <body>Always surprises, that's for sure</body>
+    </message>
+    <message id="m0010" participant="131964" time="2013-06-15 14:08:23 UTC">
+      <body>What do you do now?</body>
+    </message>
+    <message id="m0011" participant="132520" time="2013-06-15 14:08:23 UTC">
+      <body>Definitely and makes for some funny stories</body>
+    </message>
+    <message id="m0012" participant="132520" time="2013-06-15 14:17:07 UTC">
+      <body>I just graduated with my masters in may an I'm going to start a job with Americorps in August</body>
+    </message>
+    <message id="m0013" participant="131964" time="2013-06-15 14:19:35 UTC">
+      <body>Oh nice. I've heard really good things about americorps</body>
+    </message>
+    <message id="m0014" participant="131964" time="2013-06-15 14:20:01 UTC">
+      <body>Where are you stationed?</body>
+    </message>
+    <message id="m0015" participant="132520" time="2013-06-15 14:36:29 UTC">
+      <body>I'll be stationed in NYC which is good because I live there now its an education program so I'll be working the public schools probably in queens</body>
+    </message>
+    <message id="m0016" participant="131964" time="2013-06-15 14:37:57 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

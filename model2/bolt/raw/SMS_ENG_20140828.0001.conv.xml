@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140828.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-28 16:54:42 UTC" participant="152417">
+      <body>Hey Mike, I just moved back to philly.  I'm sorry to hear your mom is in the ER.  did you already get some soup? Id be happy to bring some over. And i cant drive you tonight but could tomorrow if you still need the ride</body>
+    </message>
+    <message id="m0001" time="2014-08-28 16:55:11 UTC" participant="152417">
+      <body>This is Gabi by the way</body>
+    </message>
+    <message id="m0002" time="2014-08-28 18:18:57 UTC" participant="152573">
+      <body>Hey man good to hear from you! I seem to be covered on both fronts, but thanks so much for your offer. Are you in Philly for good? Where you living?</body>
+    </message>
+    <message id="m0003" time="2014-08-28 18:20:34 UTC" participant="152417">
+      <body>Im living with Aaron in South Philly, im studying music ed at Uarts.  I'd love to hang once you're feelin better</body>
+    </message>
+    <message id="m0004" time="2014-08-28 18:38:29 UTC" participant="152573">
+      <body>Yes that'd be awesome.</body>
+    </message>
+  </messages>
+</conversation>
+

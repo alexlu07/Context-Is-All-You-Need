@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140506.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-06 18:43:56 UTC" participant="152116">
+      <body>On break?</body>
+    </message>
+    <message id="m0001" time="2014-05-06 20:01:27 UTC" participant="153491">
+      <body>I was at like 12 something. Now I'm going home.</body>
+    </message>
+    <message id="m0002" time="2014-05-07 00:48:51 UTC" participant="153491">
+      <body>After all this time and countless cups, I'm still shaking (a little) after drinking 1.5 cups if coffee.</body>
+    </message>
+    <message id="m0003" time="2014-05-07 00:49:06 UTC" participant="153491">
+      <body>*of</body>
+    </message>
+  </messages>
+</conversation>
+

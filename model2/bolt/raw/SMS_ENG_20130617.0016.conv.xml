@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131003" time="2013-06-17 08:31:46 UTC">
+      <body>Hi squid</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-17 08:31:51 UTC">
+      <body>I think we've chatted before</body>
+    </message>
+    <message id="m0002" participant="131805" time="2013-06-17 09:16:46 UTC">
+      <body>really?</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-06-17 09:34:59 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-06-17 09:44:55 UTC">
+      <body>I guess my dazzling conversation skills were not so memorable haha</body>
+    </message>
+    <message id="m0005" participant="131805" time="2013-06-17 11:32:43 UTC">
+      <body>Hahaha don't feel bad. I streamline who I remember out of necessity because talking to people is what I do.</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-06-17 11:34:19 UTC">
+      <body>Is that fun or does it get tedious talking to people all day?</body>
+    </message>
+    <message id="m0007" participant="131805" time="2013-06-17 11:37:13 UTC">
+      <body>Absolutely not. While it sounds a bit mechanical or cold</body>
+    </message>
+    <message id="m0008" participant="131805" time="2013-06-17 11:38:05 UTC">
+      <body>I am always genuine. I just wish I had the capacity to remember everyone</body>
+    </message>
+    <message id="m0009" participant="131003" time="2013-06-17 12:30:33 UTC">
+      <body>That's good. You're a very nice human being.</body>
+    </message>
+    <message id="m0010" participant="131003" time="2013-06-17 12:39:12 UTC">
+      <body>Most people can't stand other people</body>
+    </message>
+    <message id="m0011" participant="131805" time="2013-06-17 12:51:27 UTC">
+      <body>Aww you're not too bad yourself. I guess it's a selfishness thing, which isn't bad, it's just human.</body>
+    </message>
+  </messages>
+</conversation>

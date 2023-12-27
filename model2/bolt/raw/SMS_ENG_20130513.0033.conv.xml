@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130513.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135286" time="2013-05-13 22:38:16 UTC">
+      <body>Hey, did you decide what to wear to dinner? I noticed no one responded. I'm currently off campus, so I might not even have time to dress up first...</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-13 23:07:13 UTC">
+      <body>No one is dressing up :)</body>
+    </message>
+  </messages>
+</conversation>

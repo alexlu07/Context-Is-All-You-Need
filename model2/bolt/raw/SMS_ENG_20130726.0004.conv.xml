@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-26 15:35:30 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-07-26 15:43:20 UTC">
+      <body>Hey. How's things?</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-26 15:47:57 UTC">
+      <body>Not bad. Happy it is Friday</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-07-26 15:51:59 UTC">
+      <body>Yeah. I work 7 days...so very little changes. But, happy Friday! What city are you in?</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-26 15:54:14 UTC">
+      <body>Philadelphia. You?</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-07-26 15:55:37 UTC">
+      <body>Los Angeles.</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-26 15:56:23 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0007" participant="130693" time="2013-07-26 16:01:28 UTC">
+      <body>What do you do for work?</body>
+    </message>
+  </messages>
+</conversation>

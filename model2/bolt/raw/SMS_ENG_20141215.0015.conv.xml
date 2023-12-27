@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141215.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-15 17:49:44 UTC" participant="153804">
+      <body>What time are you flying out tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-12-15 17:50:56 UTC" participant="153558">
+      <body>I fly out wends night at 915</body>
+    </message>
+  </messages>
+</conversation>
+

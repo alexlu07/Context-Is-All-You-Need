@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130507.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-07 16:13:44 UTC" participant="152560">
+      <body>Good afternoon Mr. Shapiro. How is the day treating you?</body>
+    </message>
+    <message id="m0001" time="2013-05-07 16:20:26 UTC" participant="152417">
+      <body>Well!  How was your test?</body>
+    </message>
+    <message id="m0002" time="2013-05-07 16:22:15 UTC" participant="152560">
+      <body>It went well; so relieved Gen Chem is over! Plus I was able to register for the Physics class I wanted. Feeling good.</body>
+    </message>
+    <message id="m0003" time="2013-05-07 16:22:40 UTC" participant="152417">
+      <body>Yay!</body>
+    </message>
+    <message id="m0004" time="2013-05-07 17:19:39 UTC" participant="152417">
+      <body>Im officially signed up as an interpreter/translator</body>
+    </message>
+    <message id="m0005" time="2013-05-07 17:23:48 UTC" participant="152560">
+      <body>Oh great!</body>
+    </message>
+  </messages>
+</conversation>
+

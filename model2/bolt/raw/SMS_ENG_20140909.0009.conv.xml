@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140909.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-09 22:15:38 UTC" participant="153547">
+      <body>Hey, is the plumbing bag in the front shed?</body>
+    </message>
+    <message id="m0001" time="2014-09-09 22:26:23 UTC" participant="153562">
+      <body>Yes!</body>
+    </message>
+    <message id="m0002" time="2014-09-09 22:26:58 UTC" participant="153547">
+      <body>Is there a torch head with auto lighter?</body>
+    </message>
+    <message id="m0003" time="2014-09-09 22:29:44 UTC" participant="153562">
+      <body>Hmmn not sure. Can you swing over to michaels place? I moght not make it back there before tomorrow to answer that question or grab the bag</body>
+    </message>
+    <message id="m0004" time="2014-09-09 23:14:25 UTC" participant="153547">
+      <body>I'll check in the morning</body>
+    </message>
+    <message id="m0005" time="2014-09-09 23:28:21 UTC" participant="153562">
+      <body>Ok. </body>
+    </message>
+    <message id="m0006" time="2014-09-09 23:53:21 UTC" participant="153562">
+      <body>Michael says the torch should be in the from shed. May or may not be in the plumbing bag. I will be at the warehouse at 10am. Does that work?</body>
+    </message>
+    <message id="m0007" time="2014-09-09 23:56:17 UTC" participant="153547">
+      <body>Yeah, keep in mind I'll let myself in</body>
+    </message>
+    <message id="m0008" time="2014-09-09 23:56:28 UTC" participant="153547">
+      <body>The shed</body>
+    </message>
+    <message id="m0009" time="2014-09-10 00:02:04 UTC" participant="153562">
+      <body>Im spending the night in mt airy so going straight there</body>
+    </message>
+  </messages>
+</conversation>
+

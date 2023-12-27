@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150206.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-06 18:06:58 UTC" participant="152116">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0001" time="2015-02-06 18:08:22 UTC" participant="153783">
+      <body>I just finished eating haha</body>
+    </message>
+    <message id="m0002" time="2015-02-06 18:10:44 UTC" participant="152116">
+      <body>Ah okay</body>
+    </message>
+    <message id="m0003" time="2015-02-06 18:16:10 UTC" participant="153783">
+      <body>You can come watch TV with me if you want</body>
+    </message>
+    <message id="m0004" time="2015-02-06 18:18:56 UTC" participant="152116">
+      <body>Sure I just gotta grab food first</body>
+    </message>
+    <message id="m0005" time="2015-02-06 18:29:21 UTC" participant="152116">
+      <body>Can you come down</body>
+    </message>
+    <message id="m0006" time="2015-02-07 00:59:32 UTC" participant="153783">
+      <body>Can you bring juice and/or chips?</body>
+    </message>
+    <message id="m0007" time="2015-02-07 01:09:14 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

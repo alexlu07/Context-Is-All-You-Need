@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120625.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-25 16:54:21 UTC">
+      <body>Sorry I didn't get to say goodbye </body>
+    </message>
+    <message id="m0001" participant="136230" time="2012-06-25 16:55:28 UTC">
+      <body>It's alright, I didn't wanna wake you up </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-25 17:08:17 UTC">
+      <body>I had so much fun with you this weekend!</body>
+    </message>
+    <message id="m0003" participant="136230" time="2012-06-25 17:10:24 UTC">
+      <body>Me toooooo</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-06-25 18:09:36 UTC">
+      <body>#RNS
+#HAMPTONS2012
+#AFTERPROMSWAG
+#YOLO</body>
+    </message>
+    <message id="m0006" participant="136230" time="2012-06-25 18:18:40 UTC">
+      <body>Yolooooo</body>
+    </message>
+    <message id="m0007" participant="136230" time="2012-06-25 20:45:52 UTC">
+      <body>#annexcrew2012</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-06-25 20:57:12 UTC">
+      <body>#mannex</body>
+    </message>
+  </messages>
+</conversation>

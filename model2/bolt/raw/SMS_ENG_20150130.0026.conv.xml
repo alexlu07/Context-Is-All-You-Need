@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 13:54:08 UTC" participant="149372">
+      <body>Hey, do you think you can drive Liz and I to the airport early morning on Friday the 6th? I don't know anyone else who wakes up at obscene hours of the morning. I will get you beers of your choosing. </body>
+    </message>
+    <message id="m0001" time="2015-01-30 14:36:28 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2015-01-30 14:37:13 UTC" participant="149372">
+      <body>Awesome. I'll forward the details. </body>
+    </message>
+  </messages>
+</conversation>
+

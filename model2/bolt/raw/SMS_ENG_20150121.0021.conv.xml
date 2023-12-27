@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150121.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-21 02:01:12 UTC" participant="153557">
+      <body>Do you want a milkshake?</body>
+    </message>
+    <message id="m0001" time="2015-01-21 02:01:36 UTC" participant="153557">
+      <body>From bobbies</body>
+    </message>
+    <message id="m0002" time="2015-01-21 02:01:46 UTC" participant="153547">
+      <body>No thanks</body>
+    </message>
+    <message id="m0003" time="2015-01-22 00:00:00 UTC" participant="153557">
+      <body>Teaching til 10</body>
+    </message>
+    <message id="m0004" time="2015-01-22 00:01:04 UTC" participant="153547">
+      <body>Are you gonna be home for dinner? I'm ordering in</body>
+    </message>
+    <message id="m0005" time="2015-01-22 00:01:31 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

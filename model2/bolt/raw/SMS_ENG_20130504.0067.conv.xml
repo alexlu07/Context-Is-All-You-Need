@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 16:32:12 UTC" participant="152734">
+      <body>Hey where'd y'all go?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 16:44:13 UTC" participant="153270">
+      <body>We went to breakfast! Sorry! You were asleep</body>
+    </message>
+    <message id="m0002" time="2013-05-04 18:27:48 UTC" participant="153270">
+      <body>We're in front of the wave pool.</body>
+    </message>
+    <message id="m0003" time="2013-05-04 18:27:52 UTC" participant="152734">
+      <body>I'm by the pool! Where are you guys set up?</body>
+    </message>
+    <message id="m0004" time="2013-05-04 18:28:06 UTC" participant="153270">
+      <body>We only have 4 chairs</body>
+    </message>
+    <message id="m0005" time="2013-05-04 18:28:15 UTC" participant="153270">
+      <body>It's packed</body>
+    </message>
+    <message id="m0006" time="2013-05-04 18:28:48 UTC" participant="153270">
+      <body>Right in the middle in front of the wave pool</body>
+    </message>
+    <message id="m0007" time="2013-05-04 18:28:49 UTC" participant="152734">
+      <body>First row? I'm standing in the front of the middle of it</body>
+    </message>
+    <message id="m0008" time="2013-05-05 03:12:04 UTC" participant="153270">
+      <body>Getting ready. Where you guys at??</body>
+    </message>
+  </messages>
+</conversation>
+

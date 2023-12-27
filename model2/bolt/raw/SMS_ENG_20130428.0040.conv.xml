@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135313" time="2013-04-28 18:37:05 UTC">
+      <body>Hi! Sorry I'm in Magill what's up?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-28 18:37:21 UTC">
+      <body>No worries I left you a message :)</body>
+    </message>
+    <message id="m0002" participant="135313" time="2013-04-28 18:55:13 UTC">
+      <body>I emailed a reply!</body>
+    </message>
+  </messages>
+</conversation>

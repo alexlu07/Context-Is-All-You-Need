@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131219.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-19 21:28:32 UTC" participant="153666">
+      <body>Howdy! Were you thinking of stopping by today to grab the tape? Or did I miss you? No sweat, no rush either way. It's ready anytime (I'll just be out tomorrow)</body>
+    </message>
+    <message id="m0001" time="2013-12-19 21:46:38 UTC" participant="153548">
+      <body>Hey! I'm just getting here! In the lobby!</body>
+    </message>
+    <message id="m0002" time="2013-12-19 21:46:42 UTC" participant="153548">
+      <body>No one is here heh</body>
+    </message>
+    <message id="m0003" time="2013-12-19 22:11:49 UTC" participant="153548">
+      <body>Sorry to have missed you! It looks INCREDIBLE. So thrilled.</body>
+    </message>
+    <message id="m0004" time="2013-12-19 22:11:58 UTC" participant="153548">
+      <body>Thanks again!!!</body>
+    </message>
+    <message id="m0005" time="2013-12-19 22:38:25 UTC" participant="153666">
+      <body>So sorry I missed you - got pulled into a call. Thank you, and have a wonderful next couple of weeks!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140716.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-16 02:45:21 UTC" participant="152545">
+      <body>Hey man it was nice to see your band play tonight it was wonderful to listen to!</body>
+    </message>
+    <message id="m0001" time="2014-07-16 11:15:42 UTC" participant="152417">
+      <body>Thanks! It was great to see you</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135493" time="2013-05-06 14:52:00 UTC">
+      <body>Your presentation was amazing!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-06 14:52:26 UTC">
+      <body>I just sent u an email back. It's funny</body>
+    </message>
+  </messages>
+</conversation>

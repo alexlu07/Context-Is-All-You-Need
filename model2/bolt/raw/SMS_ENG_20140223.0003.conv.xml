@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140223.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-23 15:57:52 UTC" participant="152560">
+      <body>￼￼</body>
+    </message>
+    <message id="m0001" time="2014-02-23 21:37:04 UTC" participant="152560">
+      <body>Mmmmm your new coffee is tasty!</body>
+    </message>
+    <message id="m0002" time="2014-02-23 21:55:01 UTC" participant="152417">
+      <body>Yerp, like buddha, its the middle way</body>
+    </message>
+    <message id="m0003" time="2014-02-24 01:18:56 UTC" participant="152560">
+      <body>If you get a chance, let me know when you're on your way and I'll throw in the fish. </body>
+    </message>
+    <message id="m0004" time="2014-02-24 01:23:04 UTC" participant="152417">
+      <body>Ill Be home in a few</body>
+    </message>
+  </messages>
+</conversation>
+

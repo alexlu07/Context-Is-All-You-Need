@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130629.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-29 16:11:15 UTC">
+      <body>Can I wear white to the recital? </body>
+    </message>
+    <message id="m0001" participant="137319" time="2013-06-29 16:47:36 UTC">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>

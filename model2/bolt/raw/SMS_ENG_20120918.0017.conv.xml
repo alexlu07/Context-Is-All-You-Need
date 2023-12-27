@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136267" time="2012-09-18 21:02:56 UTC">
+      <body>I have to meet my SA at 521. But I might be able to go after that</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-18 21:03:19 UTC">
+      <body>Chipotle?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-18 21:08:34 UTC">
+      <body>Nahh we'll go another day</body>
+    </message>
+  </messages>
+</conversation>

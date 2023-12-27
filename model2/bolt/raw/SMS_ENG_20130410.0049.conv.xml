@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-10 21:30:28 UTC" participant="152417">
+      <body>I got us tickets for sunday!  Braiiiiiins!!!!!</body>
+    </message>
+    <message id="m0001" time="2013-04-10 21:38:04 UTC" participant="152560">
+      <body>Yay! Thanks so much, Im super excited!</body>
+    </message>
+    <message id="m0002" time="2013-04-11 21:10:53 UTC" participant="152417">
+      <body>Wanna walk in a few?</body>
+    </message>
+    <message id="m0003" time="2013-04-11 21:13:39 UTC" participant="152560">
+      <body>I'm at work.</body>
+    </message>
+    <message id="m0004" time="2013-04-11 21:15:32 UTC" participant="152417">
+      <body>Awe shoot, i forgot what day it is.  Ill take ruby out then.  See you later dumpling</body>
+    </message>
+  </messages>
+</conversation>
+

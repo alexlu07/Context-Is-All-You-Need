@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130131.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-01-31 18:07:03 UTC">
+      <body>Are you coming to lunch? I'm on the left side by the window</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-01-31 18:41:13 UTC">
+      <body>Hey! i'm really sorry we missed you.  see you later.</body>
+    </message>
+  </messages>
+</conversation>

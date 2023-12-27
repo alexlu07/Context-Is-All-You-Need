@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130318.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-03-18 03:48:42 UTC">
+      <body>Hey friend, breakfast tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-18 03:49:58 UTC">
+      <body>I don't have class tomorrow! We have meetings instead of class this week. Do you have anything tomorrow morning? Would you want to go at 10:15 maybe?</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-03-18 03:51:06 UTC">
+      <body>Ok, i could do 10:15.</body>
+    </message>
+  </messages>
+</conversation>

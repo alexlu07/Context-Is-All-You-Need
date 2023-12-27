@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-04 12:54:24 UTC" participant="152429">
+      <body>My history teacher just played the French song from American horror story that they play in the common room over and over. Creapy.</body>
+    </message>
+    <message id="m0001" time="2013-01-04 18:54:05 UTC" participant="152417">
+      <body>Eek, why?</body>
+    </message>
+    <message id="m0002" time="2013-01-04 19:35:28 UTC" participant="152429">
+      <body>He has a 1950s and 60s playlist. He doesn't even watch the show so he didn't realize how creepy it was</body>
+    </message>
+  </messages>
+</conversation>
+

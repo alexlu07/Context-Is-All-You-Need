@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-26 15:37:42 UTC">
+      <body>I'm going to come visit by the end of may!! Can I stay with you for a night or two?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-26 15:37:56 UTC">
+      <body>I mean I don't have to</body>
+    </message>
+    <message id="m0002" participant="135364" time="2013-04-26 19:39:03 UTC">
+      <body>Of course!  I would love that! When are you coming?</body>
+    </message>
+  </messages>
+</conversation>

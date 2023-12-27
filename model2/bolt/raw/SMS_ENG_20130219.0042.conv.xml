@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-19 23:26:37 UTC" participant="152374">
+      <body>Hey, my schedule is all set for tomorrow, so I'll be at ######## at noon. Looking forward to it!</body>
+    </message>
+    <message id="m0001" time="2013-02-19 23:31:16 UTC" participant="152393">
+      <body>great!  see you then!</body>
+    </message>
+  </messages>
+</conversation>
+

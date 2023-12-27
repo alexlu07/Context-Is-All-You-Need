@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-13 02:11:23 UTC">
+      <body>Hey can we meet up tomorrow to discuss our religion final?</body>
+    </message>
+    <message id="m0001" participant="136304" time="2012-12-13 02:52:48 UTC">
+      <body>For sure </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-13 04:54:16 UTC">
+      <body>Yayyy what time</body>
+    </message>
+    <message id="m0003" participant="136304" time="2012-12-13 16:41:45 UTC">
+      <body>My finals over at around 730. Lets talk after that </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-13 17:39:46 UTC">
+      <body>Ok sounds good. Good luck on your final</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-12-14 02:17:57 UTC">
+      <body>Hey are you free now? Or tomorrow morning?</body>
+    </message>
+    <message id="m0006" participant="136304" time="2012-12-14 07:48:33 UTC">
+      <body>Lets do tomorrow! Where and when. Apologies for not responding earlier </body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-12-14 16:02:49 UTC">
+      <body>Before 4? I have a final and then I gotta pack and clean my room. </body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-12-14 16:20:41 UTC">
+      <body>2:00 in Dobbs? </body>
+    </message>
+    <message id="m0009" participant="136304" time="2012-12-14 17:59:48 UTC">
+      <body>Lets do it </body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-12-14 18:59:47 UTC">
+      <body>I'm in the parlor. I'll let you in</body>
+    </message>
+  </messages>
+</conversation>

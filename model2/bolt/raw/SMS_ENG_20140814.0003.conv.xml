@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140814.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-14 18:39:05 UTC" participant="149372">
+      <body>Hey, would you want to install a ceiling fan and patch a hole up at Shannon's? If not no worries. </body>
+    </message>
+    <message id="m0001" time="2014-08-15 09:37:04 UTC" participant="153547">
+      <body>Hey I'm gone til Tuesday or Wednesday. I can do it next week sometime if it is not a rush</body>
+    </message>
+    <message id="m0002" time="2014-08-15 11:05:36 UTC" participant="149372">
+      <body>Sure that's fine. </body>
+    </message>
+  </messages>
+</conversation>
+

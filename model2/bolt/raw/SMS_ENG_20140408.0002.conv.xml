@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140408.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-08 12:15:46 UTC" participant="153547">
+      <body>Can you put the shiitakes and my smoothie from my backpack into the fridge</body>
+    </message>
+    <message id="m0001" time="2014-04-08 12:18:08 UTC" participant="153557">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2014-04-08 12:30:56 UTC" participant="153557">
+      <body> Didn't see them. Nate must have put them
+Away</body>
+    </message>
+    <message id="m0003" time="2014-04-08 12:33:17 UTC" participant="153547">
+      <body>Is my back pack in the living room or on the porch? It didn't make it into the van</body>
+    </message>
+    <message id="m0004" time="2014-04-08 12:35:57 UTC" participant="153557">
+      <body>Got em!</body>
+    </message>
+    <message id="m0005" time="2014-04-08 12:48:00 UTC" participant="153557">
+      <body>Can you/do you want to go to my producer dans house for dinner this weekend? He keeps inviting us! I really want us to go!</body>
+    </message>
+    <message id="m0006" time="2014-04-08 13:08:50 UTC" participant="153547">
+      <body>I'm prolly going to Baltimore if I don't have work on Friday and can finish my application . Otherwise I can go</body>
+    </message>
+    <message id="m0007" time="2014-04-08 15:55:12 UTC" participant="153557">
+      <body>Okay! I def can't go with you :( Shooting Friday and Dan is going to write a few scenes for me. </body>
+    </message>
+    <message id="m0008" time="2014-04-08 22:03:20 UTC" participant="153547">
+      <body>Do u wanna get burritos? Or make fish tacos?</body>
+    </message>
+  </messages>
+</conversation>
+

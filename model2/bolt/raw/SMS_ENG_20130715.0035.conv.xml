@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-15 18:20:54 UTC">
+      <body>You get my tax email?</body>
+    </message>
+    <message id="m0001" participant="136640" time="2013-07-15 18:21:55 UTC">
+      <body>I did, my bad, I've been running around all day. I'll get on it ASAP </body>
+    </message>
+    <message id="m0002" participant="136640" time="2013-07-16 03:33:57 UTC">
+      <body>You want me to handle the FTIR tomorrow? I can give you a ride if you wanna come with</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-16 04:42:26 UTC">
+      <body> Did Pam confirm it was coming tomorrow?</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-16 12:04:02 UTC">
+      <body>Let me know when you want to go to Rowan. Im right  by the bridge</body>
+    </message>
+    <message id="m0005" participant="136640" time="2013-07-16 12:19:56 UTC">
+      <body>Tomorrow. No rush, ftir guy is 330pm. I'm thinking 10am? I'll pick you up. The ben franklin, yes? </body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-16 12:27:50 UTC">
+      <body>Yup. Sounds good. I'm free anytime. You plan to head back around 3pm?</body>
+    </message>
+    <message id="m0007" participant="136640" time="2013-07-16 12:32:54 UTC">
+      <body>Yeah, I def need to be home before 5</body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-07-16 12:45:19 UTC">
+      <body>Ok. If i could be back by 345 that would be great. If not thats ok. Got a meeting at 4</body>
+    </message>
+    <message id="m0009" participant="136640" time="2013-07-16 13:04:45 UTC">
+      <body>No problem </body>
+    </message>
+  </messages>
+</conversation>

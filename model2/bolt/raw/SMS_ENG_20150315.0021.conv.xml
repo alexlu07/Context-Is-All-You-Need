@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150315.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-15 17:59:03 UTC" participant="153637">
+      <body>When is Sarah's bday? I can never remember</body>
+    </message>
+    <message id="m0001" time="2015-03-15 18:14:07 UTC" participant="153548">
+      <body>24th. Ems is the 2oth</body>
+    </message>
+    <message id="m0002" time="2015-03-15 18:27:12 UTC" participant="153637">
+      <body>Sweet</body>
+    </message>
+  </messages>
+</conversation>
+

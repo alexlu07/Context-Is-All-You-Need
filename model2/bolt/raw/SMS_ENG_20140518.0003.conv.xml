@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140518.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-18 14:01:08 UTC" participant="153490">
+      <body>Hey..u going to the phillies game this afternoon?</body>
+    </message>
+    <message id="m0001" time="2014-05-18 14:02:37 UTC" participant="152374">
+      <body>Nope. Next tickets I have are for Friday night. You going? Looks like a nice day </body>
+    </message>
+    <message id="m0002" time="2014-05-18 14:04:39 UTC" participant="153490">
+      <body>. Yeah on way now..hope they hit the ball like yesterday..and it finally does look nice...</body>
+    </message>
+    <message id="m0003" time="2014-05-18 14:11:10 UTC" participant="152374">
+      <body>Nice! Have a great time :)  They got some new food stuff this year so walk around before you decide what to eat, too</body>
+    </message>
+    <message id="m0004" time="2014-05-19 00:01:41 UTC" participant="153490">
+      <body>95 ,north takes us right to ne extension,,,,right?</body>
+    </message>
+    <message id="m0005" time="2014-05-19 00:03:01 UTC" participant="152374">
+      <body>95 south will do that. Out of the way but it'll work. From 95N you'll want to take 676W (left exit) which then dumps you into 76W, which goes to 476</body>
+    </message>
+  </messages>
+</conversation>
+

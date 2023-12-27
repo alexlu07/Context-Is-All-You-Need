@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131005.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-05 23:28:00 UTC" participant="153268">
+      <body>What did you get that dad liked at cee?</body>
+    </message>
+    <message id="m0001" time="2013-10-05 23:31:03 UTC" participant="152734">
+      <body>Spicy basil tofu is my favorite! Pad Thai tastes like peanut (not too spicy)</body>
+    </message>
+    <message id="m0002" time="2013-10-05 23:31:46 UTC" participant="153268">
+      <body>Thank you</body>
+    </message>
+    <message id="m0003" time="2013-10-05 23:53:11 UTC" participant="152734">
+      <body>I'm jealous!</body>
+    </message>
+    <message id="m0004" time="2013-10-06 00:02:38 UTC" participant="153268">
+      <body>￼Enjoying your groupon!</body>
+    </message>
+  </messages>
+</conversation>
+

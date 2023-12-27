@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141103.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-03 15:57:00 UTC" participant="153548">
+      <body>Hey! I don't think I can hang tmw :( I have a meeting at 6 I have to get ready for in the afternoon. Might have to wait til I get back from my trip!</body>
+    </message>
+    <message id="m0001" time="2014-11-03 15:57:51 UTC" participant="153553">
+      <body>No worries! Let's really do it up when you get back!!</body>
+    </message>
+    <message id="m0002" time="2014-11-03 15:57:52 UTC" participant="153553">
+      <body>How was NY?</body>
+    </message>
+    <message id="m0003" time="2014-11-03 15:57:52 UTC" participant="153553">
+      <body/>
+    </message>
+    <message id="m0004" time="2014-11-03 15:58:28 UTC" participant="153548">
+      <body>It was fun except the weather</body>
+    </message>
+    <message id="m0005" time="2014-11-03 15:58:39 UTC" participant="153548">
+      <body>Which was a real bummer</body>
+    </message>
+    <message id="m0006" time="2014-11-03 15:58:54 UTC" participant="153553">
+      <body>Ugh yeah it was pretty bad </body>
+    </message>
+    <message id="m0007" time="2014-11-03 15:59:07 UTC" participant="153553">
+      <body>You guys hung with lo?</body>
+    </message>
+    <message id="m0008" time="2014-11-03 16:34:36 UTC" participant="153548">
+      <body>Yeah just for a bit. We got a cocktail and she told us fun stories</body>
+    </message>
+    <message id="m0009" time="2014-11-03 16:34:44 UTC" participant="153548">
+      <body>It was nice to see her</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110917.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2011-09-17 19:34:49 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-17 19:35:22 UTC">
+      <body>Aw man, I already found someone :( im sorry</body>
+    </message>
+    <message id="m0002" participant="135131" time="2011-09-17 19:36:14 UTC">
+      <body>If you still have them..</body>
+    </message>
+    <message id="m0003" participant="135131" time="2011-09-17 19:36:17 UTC">
+      <body>No biggie! Have fun!</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-17 19:36:24 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

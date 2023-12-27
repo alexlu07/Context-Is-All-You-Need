@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 16:31:10 UTC" participant="152590">
+      <body>sent copy?</body>
+    </message>
+    <message id="m0001" time="2015-01-23 16:31:30 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0002" time="2015-01-23 17:39:38 UTC" participant="152590">
+      <body>sent copy?</body>
+    </message>
+    <message id="m0003" time="2015-01-23 17:49:16 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0004" time="2015-01-23 21:20:30 UTC" participant="152417">
+      <body>Sorry I cant make 5-8 anymore but I can sign in for 8-10 if you need me</body>
+    </message>
+    <message id="m0005" time="2015-01-23 21:20:53 UTC" participant="152590">
+      <body>ok just tect as that time and I'll let you know if we need you</body>
+    </message>
+    <message id="m0006" time="2015-01-24 00:25:25 UTC" participant="152590">
+      <body>Hey Gabi, if yo're available a bit early we're very busy</body>
+    </message>
+  </messages>
+</conversation>
+

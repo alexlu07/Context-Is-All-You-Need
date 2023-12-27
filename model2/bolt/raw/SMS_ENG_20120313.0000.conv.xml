@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120313.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2012-03-13 01:25:20 UTC">
+      <body>Hey are you going to the room early to practice?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-03-13 01:33:46 UTC">
+      <body>Yeah around 10</body>
+    </message>
+    <message id="m0002" participant="131823" time="2012-03-13 01:36:00 UTC">
+      <body>Okay. So I was talking to Allice Fuller and apparently there's rumor that an attack might happen tonight on rehearsal. Are you still in? Idk which of us are lol</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-03-13 01:40:59 UTC">
+      <body>Lol no I'm dead</body>
+    </message>
+    <message id="m0004" participant="131823" time="2012-03-13 02:08:00 UTC">
+      <body>Apparently Christine Blauvelt is gonna be here. Ooooooh</body>
+    </message>
+    <message id="m0005" participant="131823" time="2012-03-13 02:10:08 UTC">
+      <body>That is alive?</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-03-13 02:11:33 UTC">
+      <body>I think Alan is the only one Alice</body>
+    </message>
+    <message id="m0007" participant="131821" time="2012-03-13 02:16:24 UTC">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>

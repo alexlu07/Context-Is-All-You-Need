@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130728.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130978" time="2013-07-28 10:04:21 UTC">
+      <body>So how was Shakespeare? Clark Park has sure come a long way since i used to hang out there. What other erudite activities have you been up to this wknd?</body>
+    </message>
+    <message id="m0001" participant="134066" time="2013-07-28 10:13:04 UTC">
+      <body>Oh, not too much. I'm going on a bike ride today I think. You?</body>
+    </message>
+    <message id="m0002" participant="130978" time="2013-07-28 10:23:37 UTC">
+      <body>Catching up on some volunteer work, ultimate frisbee, then watching the new Wolverine movie with a friend. How long of a bike ride are you going on?</body>
+    </message>
+  </messages>
+</conversation>

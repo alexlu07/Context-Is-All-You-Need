@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120705.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135399" time="2012-07-05 16:40:12 UTC">
+      <body>What time will you be at the shop tmrw?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-05 17:24:35 UTC">
+      <body>Probably 630</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-05 17:25:10 UTC">
+      <body>But I'm on my Way to Philly now</body>
+    </message>
+    <message id="m0003" participant="135399" time="2012-07-05 17:28:30 UTC">
+      <body>Woop woop!</body>
+    </message>
+  </messages>
+</conversation>

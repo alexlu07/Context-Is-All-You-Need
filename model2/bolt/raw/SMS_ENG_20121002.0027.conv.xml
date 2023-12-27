@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121002.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136288" time="2012-10-02 01:35:50 UTC">
+      <body>What's up man. Ya wanna do Italian?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-02 01:41:18 UTC">
+      <body>Sure! Come to the parlor</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120506.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-05-06 20:27:52 UTC">
+      <body>I'm in a movie theater. What's up?</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-05-06 20:29:13 UTC">
+      <body>Just wanted to bug you about the flip video! What r u seeing?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-06 20:29:55 UTC">
+      <body>The avengers. I tried to email it but the file is too big. I'll bring it over on a flash drive</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-05-06 20:31:01 UTC">
+      <body>Cool. Thanks!</body>
+    </message>
+  </messages>
+</conversation>

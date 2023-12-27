@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-19 15:03:06 UTC">
+      <body>Wanna go see Thomas in Minneapolis this august?</body>
+    </message>
+    <message id="m0001" participant="132551" time="2013-06-19 15:04:46 UTC">
+      <body>When in August? Flying or driving?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-19 15:06:40 UTC">
+      <body>def flying. He gave me two dates. Weekend of 18th or 31st I think</body>
+    </message>
+  </messages>
+</conversation>

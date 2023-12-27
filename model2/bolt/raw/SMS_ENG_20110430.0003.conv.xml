@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110430.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130843" time="2011-04-30 22:59:49 UTC">
+      <body>Changed my mind. Taking the train. Should be a little quicker.</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-04-30 23:08:41 UTC">
+      <body>Ok, still at street fair, txt me when yr in town!</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-05-01 00:14:20 UTC">
+      <body>Cell towers jammed, too many people, sorry!!  Will keep trying to call!</body>
+    </message>
+    <message id="m0003" participant="130843" time="2011-05-01 00:17:47 UTC">
+      <body>Cool. At spring garden and broad. Will head towards your place.</body>
+    </message>
+    <message id="m0004" participant="130843" time="2011-05-01 00:23:23 UTC">
+      <body>I just made it to yo' front door. See you when you get here.</body>
+    </message>
+    <message id="m0005" participant="130755" time="2011-05-01 00:33:58 UTC">
+      <body>Oh, it's gonna be a while....sorry :-(. There is a bar on the corner and at 13th just s of sprung gar....  So sorry</body>
+    </message>
+    <message id="m0006" participant="130843" time="2011-05-01 00:35:50 UTC">
+      <body>Cool. I'll grab some food and beers. Just send me a text when you're close. Thanks and no worries.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2011-05-01 01:00:42 UTC">
+      <body>I'm at home</body>
+    </message>
+  </messages>
+</conversation>

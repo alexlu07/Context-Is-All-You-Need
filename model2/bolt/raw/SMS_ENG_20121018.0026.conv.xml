@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121018.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-18 00:04:24 UTC" participant="153464">
+      <body>You're coming home! You get hired at ######?</body>
+    </message>
+    <message id="m0001" time="2012-10-18 00:17:03 UTC" participant="152374">
+      <body>Yep. College of ###########</body>
+    </message>
+    <message id="m0002" time="2012-10-18 00:27:59 UTC" participant="153464">
+      <body>Cool! Similar to what you're doing at ####?</body>
+    </message>
+    <message id="m0003" time="2012-10-18 00:28:40 UTC" participant="152374">
+      <body>Yeah. Will give more details later, sorry, caught up right now</body>
+    </message>
+    <message id="m0004" time="2012-10-18 00:36:05 UTC" participant="153464">
+      <body>No prob. Just wanted to say YAAAAY!</body>
+    </message>
+  </messages>
+</conversation>
+

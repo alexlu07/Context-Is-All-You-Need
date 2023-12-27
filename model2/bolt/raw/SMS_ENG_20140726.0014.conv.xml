@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140726.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-26 01:16:57 UTC" participant="153547">
+      <body>Whatcha doin?</body>
+    </message>
+    <message id="m0001" time="2014-07-26 01:53:34 UTC" participant="153562">
+      <body>Just got home, need to do some quick lab work. What about you?</body>
+    </message>
+    <message id="m0002" time="2014-07-26 01:53:59 UTC" participant="153547">
+      <body>I'm soon to bed</body>
+    </message>
+    <message id="m0003" time="2014-07-26 02:07:18 UTC" participant="153562">
+      <body>Pleasant dreemz</body>
+    </message>
+    <message id="m0004" time="2014-07-26 02:10:42 UTC" participant="153547">
+      <body>I'm going to baltimore tomorrow and phill and I are going to partake of your gift and hopefully swim in a reservoir or something</body>
+    </message>
+    <message id="m0005" time="2014-07-26 02:12:11 UTC" participant="153562">
+      <body>Awesome!! Wish you both the best of journeys. Please send well wishes to philly for me</body>
+    </message>
+  </messages>
+</conversation>
+

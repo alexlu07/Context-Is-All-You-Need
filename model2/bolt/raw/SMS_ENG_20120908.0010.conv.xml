@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-08 23:09:29 UTC">
+      <body>Hey ####! I'm really sorry, but ######'s bubby is in the hospital and we can't make it tonight. But happy new house! Hope to see it soon.</body>
+    </message>
+    <message id="m0001" participant="131025" time="2012-09-08 23:11:24 UTC">
+      <body>Aww!! I'm sorry to hear that! I hope its not too serious. We will prob have another party soon - lots of people have cancelled today. </body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-08 23:12:54 UTC">
+      <body>Oh, boo! Well, good news for us!</body>
+    </message>
+  </messages>
+</conversation>

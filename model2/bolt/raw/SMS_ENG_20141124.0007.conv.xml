@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141124.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-24 21:23:55 UTC" participant="153405">
+      <body>Hey so do u know how much for the cake</body>
+    </message>
+    <message id="m0001" time="2014-11-25 00:22:04 UTC" participant="153244">
+      <body>Can you send me a pic of the trucks you want to use so I know what design to do</body>
+    </message>
+    <message id="m0002" time="2014-11-25 00:22:23 UTC" participant="153405">
+      <body>They're the same ones on the cake</body>
+    </message>
+    <message id="m0003" time="2014-11-25 01:38:53 UTC" participant="153244">
+      <body>Ok so I can do the one with oreos and the other one with pretzels? Like on that cake</body>
+    </message>
+    <message id="m0004" time="2014-11-25 01:41:03 UTC" participant="153405">
+      <body>Yeah I will send u. A pic of thecars tomorrow</body>
+    </message>
+    <message id="m0005" time="2014-11-25 01:44:11 UTC" participant="153244">
+      <body>Ok. I just needed to know what kind they are to see what im making them do on the cake. </body>
+    </message>
+  </messages>
+</conversation>
+

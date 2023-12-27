@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135445" time="2013-03-01 23:23:44 UTC">
+      <body>After 7 still at work</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-01 23:23:50 UTC">
+      <body>Ucoming?   Fish McGill!!!</body>
+    </message>
+    <message id="m0002" participant="135445" time="2013-03-02 15:18:05 UTC">
+      <body>Almost there</body>
+    </message>
+    <message id="m0003" participant="135445" time="2013-03-02 15:36:32 UTC">
+      <body>On 4 you?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-02 15:40:09 UTC">
+      <body>11 meet me here</body>
+    </message>
+    <message id="m0005" participant="135445" time="2013-03-02 15:42:16 UTC">
+      <body>Be right there</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120622.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136235" time="2012-06-22 21:33:15 UTC">
+      <body>Ay whaddup will? Didja see ma bronx peeps near your house?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-22 21:42:50 UTC">
+      <body>I did! You didn't tell me you were graduating right next to my house</body>
+    </message>
+    <message id="m0002" participant="136235" time="2012-06-22 21:43:49 UTC">
+      <body>Yeaaa!!! Woo tha beaconnn!</body>
+    </message>
+    <message id="m0003" participant="136235" time="2012-06-22 22:09:23 UTC">
+      <body>OMG HAVE FUN AT PROMMMMMMMMM!!!!!!!!!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-06-23 00:24:22 UTC">
+      <body>Omgggg thnxxx</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-06-23 00:24:34 UTC">
+      <body>Have fun being graduated</body>
+    </message>
+  </messages>
+</conversation>

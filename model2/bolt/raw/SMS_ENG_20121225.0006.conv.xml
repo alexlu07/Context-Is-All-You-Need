@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121225.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-12-25 16:57:19 UTC">
+      <body>Merry Xmas!</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-12-25 19:39:11 UTC">
+      <body>U too, what are you doing today?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2012-12-25 19:54:42 UTC">
+      <body>hanging around. You in lancaster?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2012-12-25 19:59:05 UTC">
+      <body>Yep. Nate was a big hit with Wes' family</body>
+    </message>
+    <message id="m0004" participant="131055" time="2012-12-25 20:49:53 UTC">
+      <body>Great! It's not awkward?</body>
+    </message>
+  </messages>
+</conversation>

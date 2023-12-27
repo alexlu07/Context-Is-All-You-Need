@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140610.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-10 17:01:20 UTC" participant="153491">
+      <body>There's a whole story that goes along with that exam. </body>
+    </message>
+    <message id="m0001" time="2014-06-10 17:01:41 UTC" participant="153491">
+      <body>Have to hear it first.</body>
+    </message>
+    <message id="m0002" time="2014-06-10 17:07:07 UTC" participant="152116">
+      <body>Haha oh jeez. Okay</body>
+    </message>
+    <message id="m0003" time="2014-06-10 18:41:28 UTC" participant="153491">
+      <body>There are these two people sitting to the left of me with perhaps the most annoying laughs in the world. They been at it almost every day in class. It's a problem.</body>
+    </message>
+    <message id="m0004" time="2014-06-10 18:45:23 UTC" participant="152116">
+      <body>Male or female?</body>
+    </message>
+    <message id="m0005" time="2014-06-10 18:46:07 UTC" participant="153491">
+      <body>Females.</body>
+    </message>
+    <message id="m0006" time="2014-06-10 18:48:26 UTC" participant="152116">
+      <body>Annoying</body>
+    </message>
+  </messages>
+</conversation>
+

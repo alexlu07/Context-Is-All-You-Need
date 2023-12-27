@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130720.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-20 11:35:20 UTC" participant="154393">
+      <body>Hey drew, do you have any Advil?</body>
+    </message>
+    <message id="m0001" time="2013-07-20 11:37:28 UTC" participant="154352">
+      <body>I have other pain killers</body>
+    </message>
+    <message id="m0002" time="2013-07-20 11:38:10 UTC" participant="154393">
+      <body>I'm going to need some,
+My back hurts.</body>
+    </message>
+  </messages>
+</conversation>
+

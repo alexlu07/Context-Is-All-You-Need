@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141208.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-08 00:38:24 UTC" participant="153646">
+      <body>Hi! It's Nellie. I just saw you have a small box downstairs by door. </body>
+    </message>
+    <message id="m0001" time="2014-12-08 00:40:26 UTC" participant="153548">
+      <body>Hi Nellie! Thanks for letting me know. I can pick it up tmw
+If you want to hide it behind the trash can? I have no idea what it is!</body>
+    </message>
+    <message id="m0003" time="2014-12-08 00:42:53 UTC" participant="153548">
+      <body>Great! I can pick it before work around 8:30 am. Will that work for you?</body>
+    </message>
+    <message id="m0004" time="2014-12-08 00:43:22 UTC" participant="153646">
+      <body>Perfect. I work until 10pm.</body>
+    </message>
+    <message id="m0005" time="2014-12-08 00:43:40 UTC" participant="153548">
+      <body>Great! I'll text when I'm outside. Thanks again.</body>
+    </message>
+    <message id="m0006" time="2014-12-08 00:43:57 UTC" participant="153646">
+      <body>Cool.</body>
+    </message>
+    <message id="m0007" time="2014-12-08 13:33:20 UTC" participant="153548">
+      <body>Hi Nellie! I'm down stairs to pick up the package!</body>
+    </message>
+  </messages>
+</conversation>
+

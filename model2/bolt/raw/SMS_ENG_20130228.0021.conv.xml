@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131356" time="2013-02-28 05:09:01 UTC">
+      <body>Maybe some other night</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-28 05:10:36 UTC">
+      <body>sorry. chaos and injury. 
+can we talk tomorrow?</body>
+    </message>
+    <message id="m0002" participant="131356" time="2013-02-28 05:31:59 UTC">
+      <body>Ugh, hope ur ok - no prob, i'll try another time if need be. funny how life continuously reprioritizes for you.</body>
+    </message>
+  </messages>
+</conversation>

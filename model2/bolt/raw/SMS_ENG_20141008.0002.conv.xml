@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141008.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-08 18:35:04 UTC" participant="152115">
+      <body>I just want to be home.</body>
+    </message>
+    <message id="m0001" time="2014-10-08 18:39:13 UTC" participant="152116">
+      <body>Are you going to leave normal time?</body>
+    </message>
+    <message id="m0002" time="2014-10-08 18:39:44 UTC" participant="152115">
+      <body>Yeah</body>
+    </message>
+    <message id="m0003" time="2014-10-08 18:53:15 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

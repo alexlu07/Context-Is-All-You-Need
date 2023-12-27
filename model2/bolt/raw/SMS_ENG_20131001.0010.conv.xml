@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131001.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-01 23:03:38 UTC" participant="152417">
+      <body>Hey Ahmed, come down to dobra.</body>
+    </message>
+    <message id="m0001" time="2013-10-01 23:17:06 UTC" participant="152612">
+      <body>I think i can be there by 8pm or after</body>
+    </message>
+    <message id="m0002" time="2013-10-01 23:36:28 UTC" participant="152417">
+      <body>We end at 8 unfortunately</body>
+    </message>
+  </messages>
+</conversation>
+

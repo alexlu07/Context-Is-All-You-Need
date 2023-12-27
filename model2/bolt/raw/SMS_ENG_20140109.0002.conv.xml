@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140109.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-09 02:33:36 UTC" participant="153305">
+      <body>Could you ride at 3:30
+Or does 4:30 work better? </body>
+    </message>
+    <message id="m0001" time="2014-01-09 02:33:36 UTC" participant="153305">
+      <body>On Monday 1/20 w Pierre</body>
+    </message>
+    <message id="m0002" time="2014-01-09 02:35:44 UTC" participant="153305">
+      <body>Perfect!! </body>
+    </message>
+    <message id="m0003" time="2014-01-09 02:37:17 UTC" participant="152734">
+      <body>Either one!</body>
+    </message>
+  </messages>
+</conversation>
+

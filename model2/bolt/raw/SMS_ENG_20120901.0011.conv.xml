@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120901.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-09-01 18:13:38 UTC">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-01 18:24:03 UTC">
+      <body>Everything's fine. Might get a haircut today. I have two auditions for acappella groups</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-09-01 18:30:15 UTC">
+      <body>Cool! Did songfest happen yet?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-01 18:36:33 UTC">
+      <body>Yeah Songfest was on Thursday. We came in second but should've got first</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-09-01 18:40:15 UTC">
+      <body>Oh that's fun. Let's try to talk tomorrow or Monday.</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-01 18:41:37 UTC">
+      <body>Alright sounds good</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-01 19:31:05 UTC">
+      <body>Next reading is from Matthew, I know some of these passages by heart</body>
+    </message>
+    <message id="m0007" participant="136202" time="2012-09-01 19:34:21 UTC">
+      <body>You'll be able to contribute well to the discussion when the time comes. It will be interesting to compare the intellectual convo with Sunday school and </body>
+    </message>
+    <message id="m0008" participant="136202" time="2012-09-01 19:34:31 UTC">
+      <body>sermons. I wonder if some of the kids are reading these for the first time or if they have similar background to you.</body>
+    </message>
+  </messages>
+</conversation>

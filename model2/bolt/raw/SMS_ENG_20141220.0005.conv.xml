@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-20 15:14:47 UTC" participant="153557">
+      <body>can you call my phone</body>
+    </message>
+    <message id="m0001" time="2014-12-20 15:14:47 UTC" participant="153557">
+      <body>i can’t find it think i left it at mollys</body>
+    </message>
+    <message id="m0002" time="2014-12-20 15:59:19 UTC" participant="153547">
+      <body> I'm trying to figure out if some clothes are dirty or clean. Did you take a load out of the dryer this morning?</body>
+    </message>
+    <message id="m0003" time="2014-12-21 03:37:36 UTC" participant="153557">
+      <body>You make it?</body>
+    </message>
+    <message id="m0004" time="2014-12-21 03:56:35 UTC" participant="153547">
+      <body>No I just boarded in Atlanta </body>
+    </message>
+    <message id="m0005" time="2014-12-21 03:57:29 UTC" participant="153557">
+      <body>Ah jeez.</body>
+    </message>
+  </messages>
+</conversation>
+

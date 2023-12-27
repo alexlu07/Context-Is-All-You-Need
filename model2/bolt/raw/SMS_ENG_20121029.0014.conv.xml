@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-29 16:01:45 UTC">
+      <body>How's the printshop?  I saw a picture of the building.  Eeeeks!</body>
+    </message>
+    <message id="m0001" participant="135447" time="2012-10-29 20:31:27 UTC">
+      <body>Whos this!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-29 20:31:41 UTC">
+      <body>Sofie painter from pier</body>
+    </message>
+    <message id="m0003" participant="135447" time="2012-10-29 20:32:29 UTC">
+      <body>Hi sofie</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-29 20:32:37 UTC">
+      <body>Hahah hi</body>
+    </message>
+  </messages>
+</conversation>

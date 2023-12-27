@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140107.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-07 19:08:08 UTC" participant="152417">
+      <body>Hi Brian, I have a new student on Wednesdays after Macklin, could you please remind him to come straight to the band room after school tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-01-07 22:19:44 UTC" participant="152632">
+      <body>Sure... Did u get the check for Dec/jan?</body>
+    </message>
+    <message id="m0002" time="2014-01-07 22:50:16 UTC" participant="152417">
+      <body>Yep, thank you</body>
+    </message>
+  </messages>
+</conversation>
+

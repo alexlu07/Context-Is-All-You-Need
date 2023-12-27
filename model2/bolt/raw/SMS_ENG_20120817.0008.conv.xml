@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120817.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-17 17:20:56 UTC">
+      <body>Whenever~</body>
+    </message>
+    <message id="m0001" participant="136203" time="2012-08-17 17:21:04 UTC">
+      <body>Hey you said I could have your lock. When can I come pick it up?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-17 17:31:26 UTC">
+      <body>The 23rd. I have to make sure I still have it too</body>
+    </message>
+    <message id="m0003" participant="136203" time="2012-08-17 17:31:44 UTC">
+      <body>Well when do you leave</body>
+    </message>
+    <message id="m0004" participant="136203" time="2012-08-17 17:33:52 UTC">
+      <body>Well why don't you do that and lemme know. I can come by this weekend. (I really appreciate it by the way)</body>
+    </message>
+  </messages>
+</conversation>

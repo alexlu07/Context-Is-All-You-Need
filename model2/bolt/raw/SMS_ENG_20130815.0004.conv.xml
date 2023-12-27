@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 21:47:44 UTC" participant="152842">
+      <body>Hey, is stopping by sometime between 9:30 - 10:30 tomorrow morning cool? </body>
+    </message>
+    <message id="m0001" time="2013-08-15 21:55:10 UTC" participant="152734">
+      <body>Totally, I'll be around</body>
+    </message>
+    <message id="m0002" time="2013-08-15 23:18:16 UTC" participant="152842">
+      <body>Cool, can I get your addy? </body>
+    </message>
+    <message id="m0004" time="2013-08-15 23:45:04 UTC" participant="152842">
+      <body>:). Thanks. See ya tomorrow. </body>
+    </message>
+  </messages>
+</conversation>
+

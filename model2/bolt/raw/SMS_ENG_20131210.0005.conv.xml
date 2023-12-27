@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131210.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-10 02:00:17 UTC" participant="153418">
+      <body>Hi Jenny! Hope you're doing well. Is there any chance you could give me your address? My workplace wants a contact that can verify that I lived in Philly. </body>
+    </message>
+    <message id="m0002" time="2013-12-10 02:03:25 UTC" participant="153418">
+      <body>Thank you~</body>
+    </message>
+    <message id="m0003" time="2013-12-10 02:03:48 UTC" participant="152118">
+      <body>Is that all you need? I am doing well, I hope you are too. Just hoping for lots of snow so I don't have to go to work :) and no problem.</body>
+    </message>
+    <message id="m0004" time="2013-12-10 02:04:24 UTC" participant="153418">
+      <body>Yeah, the only other thing would be your number, and I have that already. </body>
+    </message>
+    <message id="m0005" time="2013-12-10 02:05:14 UTC" participant="152118">
+      <body>Coolio!</body>
+    </message>
+  </messages>
+</conversation>
+

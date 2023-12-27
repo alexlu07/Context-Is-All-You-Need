@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111120.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2011-11-20 23:41:17 UTC">
+      <body>Hey Q - I don't have Regina's  number, but can I ask her to switch times with me?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-11-20 23:42:09 UTC">
+      <body>I don't have it either :-0 maybe ask a lil?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-11-20 23:42:25 UTC">
+      <body>Also, can you tell me it if and when you find out?</body>
+    </message>
+    <message id="m0003" participant="131823" time="2011-11-21 00:05:14 UTC">
+      <body>Regina said that's fine. Her time is 745, yes?</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-11-21 00:05:40 UTC">
+      <body>Sweeet cool yes can I have her number and why don't you go to johns party</body>
+    </message>
+    <message id="m0005" participant="131823" time="2011-11-21 00:06:36 UTC">
+      <body>My parents were here :P ##########</body>
+    </message>
+    <message id="m0006" participant="131821" time="2011-11-21 00:09:26 UTC">
+      <body>I see</body>
+    </message>
+    <message id="m0007" participant="131823" time="2011-11-21 00:10:42 UTC">
+      <body>How was it?</body>
+    </message>
+    <message id="m0008" participant="131823" time="2011-11-21 00:42:57 UTC">
+      <body>Woolworth, you said?</body>
+    </message>
+    <message id="m0009" participant="131821" time="2011-11-21 00:43:16 UTC">
+      <body>Yep. You're meeting Dana there</body>
+    </message>
+  </messages>
+</conversation>

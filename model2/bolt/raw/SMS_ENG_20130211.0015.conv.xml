@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-11 23:37:15 UTC">
+      <body>Hey Ally its Casey. Can you babysit this Friday night? </body>
+    </message>
+    <message id="m0001" participant="134290" time="2013-02-11 23:43:03 UTC">
+      <body>Hey Casey! I wont be available this friday, I'm sorry!</body>
+    </message>
+    <message id="m0002" participant="134290" time="2013-02-11 23:43:43 UTC">
+      <body>I hope our schedules can work out soon though. I'm sure you and Kristen need a night out!</body>
+    </message>
+  </messages>
+</conversation>

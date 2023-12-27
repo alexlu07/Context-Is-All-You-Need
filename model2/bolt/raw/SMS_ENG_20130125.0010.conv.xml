@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-01-25 03:06:20 UTC">
+      <body>Dude. I have no idea what your drawsomething drawing is. Also, I miss you!</body>
+    </message>
+    <message id="m0001" participant="131035" time="2013-01-25 03:08:44 UTC">
+      <body>Hahah, ohh no. uhm, describe it to me? And I miss you too!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-25 03:08:51 UTC">
+      <body>A fish...and a pot or a bowl maybe? And two circles.</body>
+    </message>
+    <message id="m0003" participant="131035" time="2013-01-25 03:30:42 UTC">
+      <body>Oh boy, I have no idea, ill think on it</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-01-25 03:31:38 UTC">
+      <body>Haha, I will, too! I think there's a Z in it.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 16:09:39 UTC" participant="152118">
+      <body>Hey. Are you awake?</body>
+    </message>
+    <message id="m0001" time="2015-01-04 16:10:56 UTC" participant="152115">
+      <body>Yeah</body>
+    </message>
+    <message id="m0002" time="2015-01-04 16:11:16 UTC" participant="152118">
+      <body>Okay. I wanted to make sure before I started sending pictures.</body>
+    </message>
+    <message id="m0003" time="2015-01-04 16:11:49 UTC" participant="152115">
+      <body>Haha. Ok. Thanks for making sure :)</body>
+    </message>
+    <message id="m0004" time="2015-01-04 16:19:47 UTC" participant="152118">
+      <body> Okay! You should have 51 photo. My iPhone won't let me send that dance video cause it's too long. So I'll probably have to send it in an email via Google drive.</body>
+    </message>
+    <message id="m0005" time="2015-01-04 16:20:42 UTC" participant="152118">
+      <body>Oh. Nevermind.</body>
+    </message>
+    <message id="m0006" time="2015-01-04 16:23:26 UTC" participant="152115">
+      <body>Ok. Thank you so much!</body>
+    </message>
+    <message id="m0007" time="2015-01-04 16:23:49 UTC" participant="152118">
+      <body>No problem.</body>
+    </message>
+    <message id="m0008" time="2015-01-04 16:24:26 UTC" participant="152115">
+      <body>And I had the clicker for you last night and I forgot to give it to you!</body>
+    </message>
+    <message id="m0009" time="2015-01-04 16:25:26 UTC" participant="152118">
+      <body>Hahaha. It's okay! If all else, I'll grab it from you on Wednesday? If you don't come out to dinner then I'll just stop by your house or something.</body>
+    </message>
+    <message id="m0010" time="2015-01-04 16:26:32 UTC" participant="152115">
+      <body>Ok. Sounds good.</body>
+    </message>
+  </messages>
+</conversation>
+

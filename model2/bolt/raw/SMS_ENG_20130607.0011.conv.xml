@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-06-07 14:37:56 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-06-07 16:06:38 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-06-07 19:50:49 UTC">
+      <body>How's it going? Where are you from?</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-06-07 21:46:55 UTC">
+      <body>Good. I am from calif.</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-06-08 11:16:42 UTC">
+      <body>Where are you@</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-06-08 11:49:58 UTC">
+      <body>Philly</body>
+    </message>
+  </messages>
+</conversation>

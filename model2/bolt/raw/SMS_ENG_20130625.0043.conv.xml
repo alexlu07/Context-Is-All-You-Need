@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130625.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137309" time="2013-06-25 21:53:51 UTC">
+      <body>When r u coming back?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-06-25 22:07:30 UTC">
+      <body>Soon </body>
+    </message>
+    <message id="m0002" participant="137309" time="2013-06-25 22:08:13 UTC">
+      <body>Can u take me to gong fu?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-25 22:08:59 UTC">
+      <body>What time? </body>
+    </message>
+    <message id="m0004" participant="137309" time="2013-06-25 22:09:27 UTC">
+      <body>Starts at 7 45</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-06-25 22:10:49 UTC">
+      <body>Okay ask dad if I can </body>
+    </message>
+    <message id="m0006" participant="137309" time="2013-06-25 22:11:13 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0007" participant="137309" time="2013-06-25 22:12:45 UTC">
+      <body>He said no</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-06-25 22:13:21 UTC">
+      <body>K </body>
+    </message>
+  </messages>
+</conversation>

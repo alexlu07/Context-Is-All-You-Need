@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140415.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-15 23:57:20 UTC" participant="153244">
+      <body>Did you call me from the house phone? </body>
+    </message>
+    <message id="m0001" time="2014-04-15 23:59:01 UTC" participant="153891">
+      <body>Mom</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131019.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-19 21:57:33 UTC" participant="152734">
+      <body>All good here! They ate around 5, all tucked in.</body>
+    </message>
+    <message id="m0001" time="2013-10-19 21:59:36 UTC" participant="152734">
+      <body>Let me know what time you wanna ride tomorrow :)</body>
+    </message>
+    <message id="m0002" time="2013-10-20 13:17:52 UTC" participant="153298">
+      <body>1:00. Ride today! :)</body>
+    </message>
+    <message id="m0003" time="2013-10-20 13:29:05 UTC" participant="152734">
+      <body>Roger that!</body>
+    </message>
+    <message id="m0004" time="2013-10-20 19:32:59 UTC" participant="152734">
+      <body>Dressage test BN a or b for next weekend (they want you to pick)? Event is 10/27</body>
+    </message>
+    <message id="m0005" time="2013-10-20 19:37:36 UTC" participant="153298">
+      <body>Test b :)</body>
+    </message>
+  </messages>
+</conversation>
+

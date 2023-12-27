@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-15 14:11:10 UTC" participant="152374">
+      <body>Hey - when /where should we meet tomorrow?</body>
+    </message>
+    <message id="m0001" time="2013-04-15 14:12:36 UTC" participant="153472">
+      <body>where will u be coming from? do u need to pass my place to get to Broad Street?</body>
+    </message>
+    <message id="m0002" time="2013-04-15 14:13:10 UTC" participant="152374">
+      <body>I can do that :-)</body>
+    </message>
+    <message id="m0003" time="2013-04-15 14:14:43 UTC" participant="153472">
+      <body>if it isn't too far out of ur way want to say my place at 7? does that work? I could do earlier or later too.</body>
+    </message>
+    <message id="m0004" time="2013-04-15 14:15:25 UTC" participant="152374">
+      <body>How about 6:45 so we're not rushing to the game?</body>
+    </message>
+    <message id="m0005" time="2013-04-15 14:28:27 UTC" participant="153472">
+      <body>sounds perfect. see u then.</body>
+    </message>
+    <message id="m0006" time="2013-04-15 14:28:46 UTC" participant="152374">
+      <body>Yay! Thanks again. I'm excited :-)</body>
+    </message>
+    <message id="m0007" time="2013-04-15 14:31:10 UTC" participant="153472">
+      <body>Me too! Hoping we bring them some luck!</body>
+    </message>
+    <message id="m0008" time="2013-04-15 16:05:38 UTC" participant="153472">
+      <body>we have good seats for tomorrow night! we also have a parking pass, but I still think it would be easier to take the subway. thoughts?</body>
+    </message>
+    <message id="m0009" time="2013-04-15 16:06:23 UTC" participant="152374">
+      <body>I think you're probably right. I doubt traffic would be bad, but looking for parking when getting home would suck</body>
+    </message>
+    <message id="m0010" time="2013-04-15 16:07:16 UTC" participant="153472">
+      <body>agreed!</body>
+    </message>
+  </messages>
+</conversation>
+

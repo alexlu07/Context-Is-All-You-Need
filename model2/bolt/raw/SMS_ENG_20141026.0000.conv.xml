@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141026.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-26 12:46:06 UTC" participant="149306">
+      <body>Are u at daniels? I need to stop by and use the bathroom</body>
+    </message>
+    <message id="m0001" time="2014-10-26 13:21:26 UTC" participant="149394">
+      <body>Yes sorry I was out grabbing bacon. Too late? </body>
+    </message>
+    <message id="m0002" time="2014-10-26 13:21:37 UTC" participant="149394">
+      <body>You can stay for breakfast! </body>
+    </message>
+    <message id="m0003" time="2014-10-26 13:26:24 UTC" participant="149394">
+      <body>Sorry bout that! </body>
+    </message>
+    <message id="m0004" time="2014-10-26 13:27:09 UTC" participant="149306">
+      <body>I'm already past but thank you</body>
+    </message>
+    <message id="m0005" time="2014-10-26 13:32:48 UTC" participant="149394">
+      <body>You're still welcome to come by for breakfast if you don't have plans. Pancakes n bacon n coffee</body>
+    </message>
+    <message id="m0006" time="2014-10-26 13:38:09 UTC" participant="149306">
+      <body>I'll be there in 5 mins!</body>
+    </message>
+    <message id="m0007" time="2014-10-26 13:39:06 UTC" participant="149306">
+      <body>Do u want me to bring anything?</body>
+    </message>
+    <message id="m0008" time="2014-10-26 13:39:12 UTC" participant="149394">
+      <body>I think we are good. Thanks! </body>
+    </message>
+    <message id="m0009" time="2014-10-26 17:25:55 UTC" participant="149394">
+      <body>We can also practice Spanish together now. I'm going to get a book and was thinking of asking Jeanette for lessons. </body>
+    </message>
+    <message id="m0010" time="2014-10-26 19:19:24 UTC" participant="149306">
+      <body>I'm down for that</body>
+    </message>
+  </messages>
+</conversation>
+

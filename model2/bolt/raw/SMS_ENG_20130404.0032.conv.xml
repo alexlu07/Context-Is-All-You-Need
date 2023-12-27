@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135305" time="2013-04-04 02:35:08 UTC">
+      <body>Hi guys I think I'm going to stick around norristown tomorrow afternoon , are you guys cool with me driving and then you taking the r100 back?</body>
+    </message>
+    <message id="m0001" participant="135305" time="2013-04-04 11:50:24 UTC">
+      <body>Yo are you down to leave soonish?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-04 11:52:13 UTC">
+      <body>I just got to breakfast but yeah. Also do you need your car in norristown or does it make more sense for me to drive and you to take the train home?</body>
+    </message>
+    <message id="m0003" participant="135305" time="2013-04-04 11:52:32 UTC">
+      <body>I need my car in norristown, if you want your car too we could always drive separately...</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-04 11:55:29 UTC">
+      <body>Naw it's fine that's cool</body>
+    </message>
+    <message id="m0005" participant="135305" time="2013-04-04 11:56:48 UTC">
+      <body>As late as possible...</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-04-04 11:57:38 UTC">
+      <body>What time do you want to meet, closer to 8 or 8:10?</body>
+    </message>
+    <message id="m0007" participant="135305" time="2013-04-04 12:24:22 UTC">
+      <body>Alright I'm ready, meet me by the stop sign?</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-04-04 12:31:06 UTC">
+      <body>We are here</body>
+    </message>
+  </messages>
+</conversation>

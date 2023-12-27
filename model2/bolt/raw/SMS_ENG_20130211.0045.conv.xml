@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-11 22:00:28 UTC" participant="154352">
+      <body>What was that hard drive deal you mentioned?</body>
+    </message>
+    <message id="m0001" time="2013-02-11 22:19:03 UTC" participant="154393">
+      <body>http://www.newegg.com/Product/Product.aspx?Item=N82E16822145596</body>
+    </message>
+    <message id="m0002" time="2013-02-11 22:54:12 UTC" participant="154352">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

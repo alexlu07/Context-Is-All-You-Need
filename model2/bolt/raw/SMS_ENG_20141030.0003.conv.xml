@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141030.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-30 23:17:20 UTC" participant="152424">
+      <body>what is your address?</body>
+    </message>
+    <message id="m0002" time="2014-10-31 02:22:56 UTC" participant="152424">
+      <body>is it cool if Kelsey comes?</body>
+    </message>
+    <message id="m0003" time="2014-10-31 03:05:01 UTC" participant="152417">
+      <body>Certainly</body>
+    </message>
+  </messages>
+</conversation>
+

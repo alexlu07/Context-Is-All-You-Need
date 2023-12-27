@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-04-23 16:59:03 UTC">
+      <body>hi. do you know where friend lives in costa rica? should i try to. connect with her?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-04-23 17:23:19 UTC">
+      <body>I spoke w her recently, she is actually on the east coast. </body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-04-23 17:23:46 UTC">
+      <body>aah</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-04-23 17:25:16 UTC">
+      <body>When do u leave?</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-04-23 17:28:36 UTC">
+      <body>friday</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-04-23 17:30:28 UTC">
+      <body>So soon</body>
+    </message>
+  </messages>
+</conversation>

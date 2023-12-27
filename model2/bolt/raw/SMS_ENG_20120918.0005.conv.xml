@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120918.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2012-09-18 23:00:50 UTC">
+      <body>When will you be in MN, specifically NU?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-09-18 23:04:35 UTC">
+      <body>Not totally sure - Sunday to Thursday and then again on Friday?</body>
+    </message>
+  </messages>
+</conversation>

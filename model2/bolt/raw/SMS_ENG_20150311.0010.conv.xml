@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150311.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-11 18:55:14 UTC" participant="152212">
+      <body>Talking to Lou at seven tonight. Do you have anything specific you’d like me to forward on to him about the class? Perhaps a sample syllabus? Or even a date or time?</body>
+    </message>
+    <message id="m0001" time="2015-03-12 01:21:46 UTC" participant="152321">
+      <body>Ha, I texted him this evening. Let me see if I can dig up details. The doc is at school</body>
+    </message>
+    <message id="m0002" time="2015-03-12 01:22:02 UTC" participant="152212">
+      <body>no worries</body>
+    </message>
+    <message id="m0003" time="2015-03-12 01:22:08 UTC" participant="152212">
+      <body>i just talked to him</body>
+    </message>
+    <message id="m0004" time="2015-03-12 01:22:21 UTC" participant="152212">
+      <body>and emailed you both! I love lou I hope this works out!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="135955" time="2013-07-23 11:45:12 UTC">
+      <body>Good morning, DonnaSD. What's up?</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-07-23 11:46:10 UTC">
+      <body>Not much.. I'm at work</body>
+    </message>
+    <message id="m0002" participant="135955" time="2013-07-23 12:38:58 UTC">
+      <body>Me too. Taking lunch earlier than usual because our e-mail stopped working. LOL.</body>
+    </message>
+  </messages>
+</conversation>

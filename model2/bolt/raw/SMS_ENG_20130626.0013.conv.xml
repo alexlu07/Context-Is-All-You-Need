@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-26 01:44:20 UTC">
+      <body>Hola! Holly says your back from the motherland. How was the trip?</body>
+    </message>
+    <message id="m0001" participant="131971" time="2013-06-26 15:52:44 UTC">
+      <body>Dope</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-26 17:07:56 UTC">
+      <body>I bet. I really need to get my arse back to Europe soon..</body>
+    </message>
+  </messages>
+</conversation>

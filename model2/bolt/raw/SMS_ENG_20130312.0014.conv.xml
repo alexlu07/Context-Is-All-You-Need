@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130312.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-12 23:55:26 UTC">
+      <body>what time are you leaving today?</body>
+    </message>
+    <message id="m0001" participant="131362" time="2013-03-13 00:02:19 UTC">
+      <body>Not working today. I would try ken.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-13 00:06:38 UTC">
+      <body>thx!</body>
+    </message>
+  </messages>
+</conversation>

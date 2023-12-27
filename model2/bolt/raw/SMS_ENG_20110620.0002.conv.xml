@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110620.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-20 14:18:25 UTC">
+      <body>Am I dependent tax wise or no?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-06-20 14:19:41 UTC">
+      <body>No you are independant</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-20 21:21:12 UTC">
+      <body>What did you want me to say to nelnet?</body>
+    </message>
+  </messages>
+</conversation>

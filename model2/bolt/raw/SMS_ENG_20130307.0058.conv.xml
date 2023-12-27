@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-07 18:11:21 UTC" participant="152560">
+      <body>Why is a raven like a writing desk?</body>
+    </message>
+    <message id="m0001" time="2013-03-07 19:26:36 UTC" participant="152417">
+      <body>Covered in quills?</body>
+    </message>
+    <message id="m0002" time="2013-03-07 19:29:25 UTC" participant="152560">
+      <body>It can produce a few flat notes, and it is nevar put with the wrong end in front.</body>
+    </message>
+    <message id="m0003" time="2013-03-07 19:29:48 UTC" participant="152560">
+      <body>(Yours works too!)</body>
+    </message>
+    <message id="m0004" time="2013-03-08 02:36:03 UTC" participant="152417">
+      <body>Im on decatur st, gimme a heads up when youre headed back</body>
+    </message>
+    <message id="m0005" time="2013-03-08 02:41:11 UTC" participant="152560">
+      <body>Will do.</body>
+    </message>
+    <message id="m0006" time="2013-03-08 03:42:17 UTC" participant="152560">
+      <body>On my way home.</body>
+    </message>
+    <message id="m0007" time="2013-03-08 03:46:10 UTC" participant="152417">
+      <body>Cool, im headed home too</body>
+    </message>
+  </messages>
+</conversation>
+

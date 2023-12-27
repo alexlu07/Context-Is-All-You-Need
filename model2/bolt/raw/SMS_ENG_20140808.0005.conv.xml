@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 01:45:28 UTC" participant="153547">
+      <body>Which bus do I need</body>
+    </message>
+    <message id="m0001" time="2014-08-08 01:48:25 UTC" participant="153547">
+      <body>Hey I'm at the movie</body>
+    </message>
+    <message id="m0002" time="2014-08-08 18:57:02 UTC" participant="153557">
+      <body>How you guys doin?</body>
+    </message>
+    <message id="m0003" time="2014-08-08 20:34:14 UTC" participant="153547">
+      <body>Made it</body>
+    </message>
+    <message id="m0004" time="2014-08-08 20:34:38 UTC" participant="153547">
+      <body>My leggies are cramping</body>
+    </message>
+    <message id="m0005" time="2014-08-08 21:11:28 UTC" participant="153557">
+      <body>Yay!!! Aw make sure to stretch some!</body>
+    </message>
+  </messages>
+</conversation>
+

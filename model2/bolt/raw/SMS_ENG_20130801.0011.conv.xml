@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130801.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130632" time="2013-08-01 12:22:55 UTC">
+      <body>Hey quirks</body>
+    </message>
+    <message id="m0001" participant="131022" time="2013-08-01 12:33:07 UTC">
+      <body>Hello! How's your day?</body>
+    </message>
+    <message id="m0002" participant="130632" time="2013-08-01 12:50:50 UTC">
+      <body>Very nice i'm enjoying the rain</body>
+    </message>
+    <message id="m0003" participant="131022" time="2013-08-01 13:09:18 UTC">
+      <body>Oh good, me too :)</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-08-01 13:10:28 UTC">
+      <body>Where is it raining?</body>
+    </message>
+    <message id="m0005" participant="131022" time="2013-08-01 13:14:40 UTC">
+      <body>Lively Newark, Delaware!</body>
+    </message>
+    <message id="m0006" participant="130632" time="2013-08-01 14:03:36 UTC">
+      <body>Never been to Newark. I like Bombay hook have you ever been there?</body>
+    </message>
+    <message id="m0007" participant="131022" time="2013-08-01 16:07:59 UTC">
+      <body>No! It sounds nice though, thanks for the rec. I've been spending my spare days at henlopen bc I like the beach.</body>
+    </message>
+  </messages>
+</conversation>

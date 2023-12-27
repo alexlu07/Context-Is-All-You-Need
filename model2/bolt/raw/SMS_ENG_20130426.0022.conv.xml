@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-26 20:16:47 UTC">
+      <body>Hey. How's you? How's your day?</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-04-26 20:49:36 UTC">
+      <body>(1/2) Long. And stressful. Looking forward to tomorrow where the babe is going on a road trip with grandad and uncle over night and I will be in MPLS up to my e</body>
+    </message>
+    <message id="m0002" participant="131375" time="2013-04-26 20:50:15 UTC">
+      <body>(2/2) yeballs in art, flowers and Human Weapon. </body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-26 21:19:22 UTC">
+      <body>Nice. Enjoy.</body>
+    </message>
+    <message id="m0008" participant="131375" time="2013-04-26 22:19:35 UTC">
+      <body>Thanks. I hope you are plugging along and doing better.</body>
+    </message>
+  </messages>
+</conversation>

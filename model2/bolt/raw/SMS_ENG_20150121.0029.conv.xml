@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150121.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-21 13:07:12 UTC" participant="153700">
+      <body>Morning! I havent gotten a username for UArts yet--needing access to the classroom computer...is possible to login using your info???</body>
+    </message>
+    <message id="m0001" time="2015-01-21 13:44:19 UTC" participant="153548">
+      <body>Israel! Check with Otis on the 8th floor they should be able to log you in! </body>
+    </message>
+    <message id="m0002" time="2015-01-21 14:02:22 UTC" participant="153700">
+      <body>Thx!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140305.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-05 16:12:48 UTC" participant="152560">
+      <body>Maybe we can catch some music later, or grab a burger at the Farmhouse or something...</body>
+    </message>
+    <message id="m0001" time="2014-03-05 19:57:30 UTC" participant="152560">
+      <body>Hey-do you want to see the Ron Carter trio at the Flynn Sunday June 1? </body>
+    </message>
+    <message id="m0002" time="2014-03-05 20:07:46 UTC" participant="152417">
+      <body>Id be happy to go out for dinner, Do you want to see monument men? </body>
+    </message>
+    <message id="m0003" time="2014-03-05 20:08:15 UTC" participant="152417">
+      <body>And anwar may have a gig june 1, ill see about it</body>
+    </message>
+    <message id="m0004" time="2014-03-05 20:09:35 UTC" participant="152560">
+      <body>Sure, dinner and a movie with my love? Sounds like the perfect night. </body>
+    </message>
+    <message id="m0005" time="2014-03-05 21:45:30 UTC" participant="152417">
+      <body>Single pebble?</body>
+    </message>
+    <message id="m0006" time="2014-03-05 21:45:36 UTC" participant="152560">
+      <body>Oooooo yeah. </body>
+    </message>
+  </messages>
+</conversation>
+

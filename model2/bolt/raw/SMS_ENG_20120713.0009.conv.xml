@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120713.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135367" time="2012-07-13 23:08:01 UTC">
+      <body>What time is bbq</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-07-13 23:08:26 UTC">
+      <body>Seven?  Does that work for you?</body>
+    </message>
+    <message id="m0002" participant="135367" time="2012-07-13 23:10:15 UTC">
+      <body>Awsome</body>
+    </message>
+    <message id="m0003" participant="135367" time="2012-07-13 23:14:46 UTC">
+      <body>Theres a 24 dollar whiskey fee john l sullivan whiskey at dry dock </body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-13 23:31:26 UTC">
+      <body>Yay. I can't wait.  What should I buy for BBQ?   </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-07-13 23:31:44 UTC">
+      <body>Other than the whiskey...This is going to be great</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-07-14 00:26:02 UTC">
+      <body> Got the whiskey</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-07-14 20:46:20 UTC">
+      <body>Anything I should pick up for BBQ?  I got some long ass hot dogs no buns tho</body>
+    </message>
+    <message id="m0008" participant="135367" time="2012-07-14 20:48:30 UTC">
+      <body>Bring whateveq you want ill cook it fairway across street</body>
+    </message>
+    <message id="m0009" participant="135367" time="2012-07-14 23:05:34 UTC">
+      <body>Whats up</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 17:13:41 UTC" participant="152116">
+      <body>Did you leave?</body>
+    </message>
+    <message id="m0001" time="2015-01-23 17:17:39 UTC" participant="152115">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2015-01-23 17:17:59 UTC" participant="152116">
+      <body>Okay good.  See you soon</body>
+    </message>
+    <message id="m0003" time="2015-01-23 17:19:21 UTC" participant="152115">
+      <body>:)</body>
+    </message>
+    <message id="m0004" time="2015-01-23 17:39:14 UTC" participant="152116">
+      <body>Where are you now?</body>
+    </message>
+    <message id="m0005" time="2015-01-23 17:39:30 UTC" participant="152115">
+      <body>The L</body>
+    </message>
+    <message id="m0006" time="2015-01-23 17:39:50 UTC" participant="152116">
+      <body>You're on it?</body>
+    </message>
+    <message id="m0007" time="2015-01-23 17:40:20 UTC" participant="152115">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2015-01-23 17:40:50 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0009" time="2015-01-23 17:45:14 UTC" participant="152115">
+      <body>A block away</body>
+    </message>
+    <message id="m0010" time="2015-01-23 20:00:33 UTC" participant="152116">
+      <body>Whered you wind up going?</body>
+    </message>
+    <message id="m0011" time="2015-01-23 20:05:58 UTC" participant="152115">
+      <body>I just got to the bookstore.</body>
+    </message>
+    <message id="m0012" time="2015-01-23 20:07:58 UTC" participant="152116">
+      <body>You were shopping for an hour?</body>
+    </message>
+    <message id="m0013" time="2015-01-23 20:08:16 UTC" participant="152115">
+      <body>Haha. I guess I was.</body>
+    </message>
+    <message id="m0014" time="2015-01-23 20:24:03 UTC" participant="152115">
+      <body>I am now in a quiet study area separated from the cafe. This is weird.  I feel out of place.</body>
+    </message>
+    <message id="m0015" time="2015-01-23 20:28:53 UTC" participant="152116">
+      <body>You're fine ha ha</body>
+    </message>
+    <message id="m0016" time="2015-01-23 20:28:55 UTC" participant="152116">
+      <body>Can you access internet?</body>
+    </message>
+    <message id="m0017" time="2015-01-23 20:29:31 UTC" participant="152115">
+      <body>Ooh. Yeah! It just worked</body>
+    </message>
+    <message id="m0018" time="2015-01-23 20:31:04 UTC" participant="152116">
+      <body>Good</body>
+    </message>
+    <message id="m0019" time="2015-01-23 20:35:16 UTC" participant="152115">
+      <body>So is it smooth sailing for you until the end of the day?</body>
+    </message>
+    <message id="m0020" time="2015-01-23 20:43:09 UTC" participant="152116">
+      <body>Yup</body>
+    </message>
+    <message id="m0021" time="2015-01-23 21:52:15 UTC" participant="152115">
+      <body>I couldn't take sitting there anymore. I was so cold by the window! So I just got downstairs.  Take your time. It's nice and toasty here.</body>
+    </message>
+    <message id="m0022" time="2015-01-23 21:57:51 UTC" participant="152116">
+      <body>Okay be there soon!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120125.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2012-01-25 22:24:00 UTC">
+      <body>Ok. Sorry</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-01-25 22:24:55 UTC">
+      <body>In class call you after</body>
+    </message>
+  </messages>
+</conversation>

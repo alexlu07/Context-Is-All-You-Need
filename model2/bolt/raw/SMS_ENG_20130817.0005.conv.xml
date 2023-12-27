@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130817.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-17 19:09:21 UTC" participant="154352">
+      <body>Great</body>
+    </message>
+    <message id="m0001" time="2013-08-17 19:10:28 UTC" participant="154352">
+      <body>you might want to bring a camp chair</body>
+    </message>
+    <message id="m0002" time="2013-08-17 19:13:48 UTC" participant="154401">
+      <body>Can i sit on the grass</body>
+    </message>
+    <message id="m0003" time="2013-08-17 19:33:24 UTC" participant="154352">
+      <body>I have a blanket. Some people like those chairs so i mentioned it.</body>
+    </message>
+    <message id="m0004" time="2013-08-17 19:34:17 UTC" participant="154401">
+      <body>Im good with a blanket  :D</body>
+    </message>
+    <message id="m0005" time="2013-08-17 21:10:19 UTC" participant="154401">
+      <body>Is there food at this event</body>
+    </message>
+    <message id="m0006" time="2013-08-17 21:11:58 UTC" participant="154352">
+      <body>Nope, but there are places around the area and i was planning on bringing snacks</body>
+    </message>
+    <message id="m0007" time="2013-08-17 21:14:31 UTC" participant="154401">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0008" time="2013-08-17 21:38:05 UTC" participant="154401">
+      <body>On the train. see u soon!</body>
+    </message>
+    <message id="m0009" time="2013-08-17 22:00:13 UTC" participant="154401">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

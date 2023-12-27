@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110823.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-23 18:31:46 UTC">
+      <body>Heading home, my dads in the hospital</body>
+    </message>
+    <message id="m0001" participant="135093" time="2011-08-23 18:32:43 UTC">
+      <body>Oh no!! Keep me updated, hang in there</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-23 18:56:18 UTC">
+      <body>Earthquake? You ok?</body>
+    </message>
+    <message id="m0003" participant="135093" time="2011-08-23 19:00:42 UTC">
+      <body>Yeah I'm cool - I was getting dessert with ZJ the awesome girl from china and we both missed it! People really felt it at abt. Good thing we're in a building </body>
+    </message>
+    <message id="m0004" participant="135093" time="2011-08-23 19:00:52 UTC">
+      <body>That's already falling apart.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-24 15:00:05 UTC">
+      <body>News break from new ulm: Anna kuehl charge with dwi</body>
+    </message>
+    <message id="m0006" participant="135093" time="2011-08-24 17:40:04 UTC">
+      <body>Any updates besides anna? That little shit...</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-08-24 17:42:12 UTC">
+      <body>They still don't know what's making him sick and he's getting worse. </body>
+    </message>
+  </messages>
+</conversation>

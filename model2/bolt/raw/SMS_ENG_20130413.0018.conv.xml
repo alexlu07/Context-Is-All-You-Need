@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-13 23:13:04 UTC" participant="131436">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2013-04-13 23:15:40 UTC" participant="131436">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2013-04-13 23:17:17 UTC" participant="131436">
+      <body>Test</body>
+    </message>
+    <message id="m0003" time="2013-04-13 23:17:42 UTC" participant="130962">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2013-04-13 23:20:49 UTC" participant="131436">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2013-04-14 20:32:11 UTC" participant="130962">
+      <body>Cute jeans! I missed this message somehow!</body>
+    </message>
+  </messages>
+</conversation>
+

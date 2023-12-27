@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-21 17:46:56 UTC">
+      <body>are you awake? </body>
+    </message>
+    <message id="m0001" participant="136163" time="2013-05-21 17:48:21 UTC">
+      <body>Yes but am on the phone with oma trying to fix her mail.</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-21 17:48:36 UTC">
+      <body>that's fine. you wanna come get me at like 3?</body>
+    </message>
+    <message id="m0003" participant="136163" time="2013-05-21 17:49:19 UTC">
+      <body>I can try.</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-05-21 17:49:54 UTC">
+      <body>thanks! </body>
+    </message>
+  </messages>
+</conversation>

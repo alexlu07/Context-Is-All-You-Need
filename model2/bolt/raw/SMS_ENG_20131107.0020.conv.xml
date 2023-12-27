@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 22:16:01 UTC" participant="154410">
+      <body>Alright I am off now. Need about an hour to be in the city</body>
+    </message>
+    <message id="m0001" time="2013-11-07 22:21:11 UTC" participant="154352">
+      <body>great. There is a good place to eat near the show if you want to meet there.</body>
+    </message>
+    <message id="m0002" time="2013-11-07 22:21:58 UTC" participant="154352">
+      <body>Pura Vida, 527 Fairmount Ave</body>
+    </message>
+    <message id="m0003" time="2013-11-07 22:23:38 UTC" participant="154410">
+      <body>Sounds good, Tell you when I start driving. Do the have a lot parking lot or do you know a good place to park?</body>
+    </message>
+    <message id="m0004" time="2013-11-07 22:28:15 UTC" participant="154352">
+      <body>There is street parking at the restaurant, parking lots near the concert. They are less than a mile apart.</body>
+    </message>
+    <message id="m0005" time="2013-11-07 22:54:20 UTC" participant="154410">
+      <body>Alright. If I start drive now, will you be ready and there in an hour?</body>
+    </message>
+    <message id="m0006" time="2013-11-07 22:55:49 UTC" participant="154352">
+      <body>Sounds good. See you then.</body>
+    </message>
+    <message id="m0007" time="2013-11-07 23:08:57 UTC" participant="154410">
+      <body>Could be about 10 min later there is a lot of traffic. ..</body>
+    </message>
+    <message id="m0008" time="2013-11-07 23:58:01 UTC" participant="154410">
+      <body>Still stuck in traffic :/</body>
+    </message>
+    <message id="m0009" time="2013-11-07 23:58:40 UTC" participant="154352">
+      <body>No problem</body>
+    </message>
+    <message id="m0010" time="2013-11-08 00:32:25 UTC" participant="154410">
+      <body>Here now, just parked my car</body>
+    </message>
+  </messages>
+</conversation>
+

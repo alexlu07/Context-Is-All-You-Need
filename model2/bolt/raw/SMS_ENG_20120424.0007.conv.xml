@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120424.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-24 14:38:33 UTC">
+      <body>Hey Michelle can I get the Getty image ASAP? I have to bring them somewhere to be printed and have to do it during business hours. Thanks</body>
+    </message>
+    <message id="m0001" participant="131343" time="2012-04-24 14:43:12 UTC">
+      <body>We haven't gotten to it and still needs to be approved by the agency, so I think we'll have to print it ourselves today</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-24 14:44:35 UTC">
+      <body>Ok I'll go buy some photo paper for my printer, let me know if anything changes and I'll have it professionally printed</body>
+    </message>
+    <message id="m0003" participant="131343" time="2012-04-24 15:15:12 UTC">
+      <body>Ok we may do kinkos if we don't get it to you in time</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-04-24 19:26:45 UTC">
+      <body>Is wardrobe renting or bringing a steamer? It'd be great to have on hand for the backdrops too</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-04-24 19:27:49 UTC">
+      <body>Awesome</body>
+    </message>
+    <message id="m0006" participant="131343" time="2012-04-24 19:29:04 UTC">
+      <body>I rented one!</body>
+    </message>
+  </messages>
+</conversation>

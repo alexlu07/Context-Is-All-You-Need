@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130820.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-20 22:45:57 UTC" participant="152524">
+      <body>Is it ok to show your apt tomorrow, Wed, at noon?</body>
+    </message>
+    <message id="m0001" time="2013-08-21 01:49:16 UTC" participant="152524">
+      <body>I forgot to tell you, I gave you a great reference last week to a landlord who was calling about you and Ria. You've been great at Orangina and Ria has been great at Pinky.</body>
+    </message>
+    <message id="m0002" time="2013-08-21 12:24:32 UTC" participant="152417">
+      <body>Excellent, thanks Stu. And showing oringina is fine with me as long as the other folks know</body>
+    </message>
+    <message id="m0003" time="2013-08-21 12:27:24 UTC" participant="152524">
+      <body>Sounds good. Did you get the apt?</body>
+    </message>
+    <message id="m0004" time="2013-08-21 12:30:07 UTC" participant="152417">
+      <body>Yea, thanks!  </body>
+    </message>
+    <message id="m0005" time="2013-08-21 12:30:21 UTC" participant="152524">
+      <body>Nice, congrats</body>
+    </message>
+  </messages>
+</conversation>
+

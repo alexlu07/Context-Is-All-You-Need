@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111120.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131313" time="2011-11-20 18:50:44 UTC">
+      <body>Parking to right on parking garage by bebee office building</body>
+    </message>
+    <message id="m0001" participant="130692" time="2011-11-20 18:51:04 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="131313" time="2011-11-20 23:14:47 UTC">
+      <body>830am breakfast at verdin center 9am call (no change)</body>
+    </message>
+    <message id="m0003" participant="130692" time="2011-11-20 23:15:07 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120821.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-21 20:58:10 UTC" participant="152374">
+      <body>Hey,sorry if you got a weird voicemail from me! Can you lock my office?</body>
+    </message>
+    <message id="m0001" time="2012-08-21 21:00:17 UTC" participant="153465">
+      <body>Haha. No problem.</body>
+    </message>
+    <message id="m0002" time="2012-08-21 21:02:19 UTC" participant="153465">
+      <body>How did it go?</body>
+    </message>
+    <message id="m0003" time="2012-08-21 21:26:06 UTC" participant="152374">
+      <body>Was cool. ### wants to know if we want to have lunch tomorrow</body>
+    </message>
+    <message id="m0004" time="2012-08-21 21:27:42 UTC" participant="153465">
+      <body>Ok. Sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

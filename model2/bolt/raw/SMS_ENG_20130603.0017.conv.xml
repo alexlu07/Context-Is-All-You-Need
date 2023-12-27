@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131346" time="2013-06-03 12:59:19 UTC">
+      <body>Hey how are you??</body>
+    </message>
+    <message id="m0001" participant="130975" time="2013-06-03 13:10:15 UTC">
+      <body>hi there! I'm good.. and you??</body>
+    </message>
+    <message id="m0002" participant="131346" time="2013-06-03 13:11:01 UTC">
+      <body>I'm well</body>
+    </message>
+    <message id="m0003" participant="131346" time="2013-06-03 13:11:07 UTC">
+      <body>Loving today's weather</body>
+    </message>
+    <message id="m0004" participant="130975" time="2013-06-03 13:25:50 UTC">
+      <body>where are you located??</body>
+    </message>
+    <message id="m0005" participant="131346" time="2013-06-03 13:41:19 UTC">
+      <body>Philadelphia. You??</body>
+    </message>
+    <message id="m0006" participant="130975" time="2013-06-03 18:54:36 UTC">
+      <body>Colorado. sorry, crazy busy day at work!</body>
+    </message>
+    <message id="m0007" participant="131346" time="2013-06-03 18:59:25 UTC">
+      <body>No worries. Dont be sorry</body>
+    </message>
+    <message id="m0008" participant="131346" time="2013-06-03 18:59:25 UTC">
+      <body>So what do you do??</body>
+    </message>
+    <message id="m0009" participant="130975" time="2013-06-03 19:01:09 UTC">
+      <body>I'm an assistant in ophthalmology</body>
+    </message>
+    <message id="m0010" participant="130975" time="2013-06-03 19:01:09 UTC">
+      <body>u?</body>
+    </message>
+    <message id="m0011" participant="131346" time="2013-06-03 19:02:34 UTC">
+      <body>Part time science and math teacher</body>
+    </message>
+    <message id="m0012" participant="131346" time="2013-06-03 19:02:34 UTC">
+      <body>4th and 2nd grade</body>
+    </message>
+  </messages>
+</conversation>

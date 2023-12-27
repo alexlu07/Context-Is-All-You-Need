@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-07 23:27:12 UTC" participant="153444">
+      <body>did u get the lab grade for the last lab? the answers they posted are different :O </body>
+    </message>
+    <message id="m0001" time="2013-06-07 23:46:11 UTC" participant="153418">
+      <body>Uh..I got a 9 for lab 7.</body>
+    </message>
+    <message id="m0002" time="2013-06-08 00:13:48 UTC" participant="153444">
+      <body>nay the last lab was lab8. hmm looks.like they havent graded it yet</body>
+    </message>
+    <message id="m0003" time="2013-06-08 21:26:18 UTC" participant="153444">
+      <body>hey do u understand how to get 0.5(0.5)^(n-1)u(n-1) from 0.5exp(-j2pif)/(1-0.5exp(-j2pif)). i know it comes frm that a^nu(n) property...but i dnt under</body>
+    </message>
+    <message id="m0004" time="2013-06-08 21:26:28 UTC" participant="153444">
+      <body>stand how they get it?! </body>
+    </message>
+    <message id="m0005" time="2013-06-08 21:26:53 UTC" participant="153418">
+      <body>..you on Facebook?</body>
+    </message>
+    <message id="m0006" time="2013-06-08 21:28:05 UTC" participant="153444">
+      <body>ya just loged in</body>
+    </message>
+  </messages>
+</conversation>
+

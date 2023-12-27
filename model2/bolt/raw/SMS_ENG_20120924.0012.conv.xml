@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120924.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-09-24 14:52:18 UTC">
+      <body>Hey I'm in DMI place on 3rd floor.  If you want to bring ceren up here to hang out</body>
+    </message>
+    <message id="m0001" participant="135437" time="2012-09-24 16:20:29 UTC">
+      <body>What time do you get free</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-24 16:41:16 UTC">
+      <body>Now</body>
+    </message>
+    <message id="m0003" participant="135437" time="2012-09-24 19:52:42 UTC">
+      <body>Stepehn d paine gallery, massive ceramics show opening at 4pm in about 10 min at massart</body>
+    </message>
+  </messages>
+</conversation>

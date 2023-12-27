@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130113.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131037" time="2013-01-13 00:37:49 UTC">
+      <body>Hey ####! Happy birthday! We've been here at The Bar. We'll wait and them head over to the ####### at 8pm.</body>
+    </message>
+    <message id="m0001" participant="131037" time="2013-01-13 00:41:26 UTC">
+      <body>Ok. We just realized we are a week early!!!!</body>
+    </message>
+    <message id="m0002" participant="131037" time="2013-01-13 00:41:31 UTC">
+      <body>Oh my</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-01-13 01:13:04 UTC">
+      <body>Oh no! Hope you're having fun!</body>
+    </message>
+    <message id="m0004" participant="131037" time="2013-01-13 01:14:36 UTC">
+      <body>We are :) We look forward to next weekend too!</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-01-13 01:15:57 UTC">
+      <body>I'd meet up with you guys but I'm busy. Glad you're coming out next weekend!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120302.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-03-02 18:16:32 UTC" participant="152374">
+      <body>Hey, did you order fios already? I just got a notice from UPS that a package was left at #### from Verizon. (hadn't updated my address with UPS yet)</body>
+    </message>
+    <message id="m0001" time="2012-03-02 18:17:16 UTC" participant="153464">
+      <body>Yep. Guy should be showing up sunday</body>
+    </message>
+    <message id="m0002" time="2012-03-02 18:18:19 UTC" participant="152374">
+      <body>Okay, cool. If it's not for you, just toss it. I think they might have mailed me a return kit for my equipment even though I dropped it off.</body>
+    </message>
+    <message id="m0003" time="2012-03-03 17:04:42 UTC" participant="152374">
+      <body>Happy new apartment day!!</body>
+    </message>
+    <message id="m0004" time="2012-03-03 17:13:38 UTC" participant="153464">
+      <body>Thank yeww!</body>
+    </message>
+    <message id="m0005" time="2012-03-03 17:14:27 UTC" participant="152374">
+      <body>Safe travels. I am sure ##### and #### will be very happy to see you  :-)</body>
+    </message>
+    <message id="m0006" time="2012-03-03 17:15:15 UTC" participant="153464">
+      <body>They'd better not have trashed the place!</body>
+    </message>
+    <message id="m0007" time="2012-03-03 17:15:48 UTC" participant="152374">
+      <body>You never know... They are wild little dudes...</body>
+    </message>
+  </messages>
+</conversation>
+

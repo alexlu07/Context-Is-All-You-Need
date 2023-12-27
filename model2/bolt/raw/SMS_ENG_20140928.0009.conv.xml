@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140928.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-28 02:19:50 UTC" participant="152374">
+      <body>Actually I have no idea. Ha ha </body>
+    </message>
+    <message id="m0001" time="2014-09-28 02:23:57 UTC" participant="153549">
+      <body>You're doing that thing on Thursday, right?</body>
+    </message>
+    <message id="m0002" time="2014-09-28 02:45:33 UTC" participant="152374">
+      <body>Yup</body>
+    </message>
+    <message id="m0003" time="2014-09-28 02:49:36 UTC" participant="153549">
+      <body>Cool. Me too. I'm psyched. I wanna be in your group!</body>
+    </message>
+    <message id="m0004" time="2014-09-28 02:50:35 UTC" participant="152374">
+      <body>Ha ha. Can probably be arranged. I'm trying to get ##### to go too</body>
+    </message>
+    <message id="m0005" time="2014-09-28 02:54:19 UTC" participant="153549">
+      <body>Yes! I will lobby for that also!</body>
+    </message>
+  </messages>
+</conversation>
+

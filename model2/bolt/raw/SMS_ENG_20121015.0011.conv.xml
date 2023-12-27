@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121015.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-15 03:50:51 UTC">
+      <body>Maya's room</body>
+    </message>
+    <message id="m0001" participant="136267" time="2012-10-16 03:06:21 UTC">
+      <body>☁</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-16 03:08:38 UTC">
+      <body>Yeahhh when are you going</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-10-16 03:09:52 UTC">
+      <body>Now!</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-16 03:10:12 UTC">
+      <body>KK ill come with you</body>
+    </message>
+  </messages>
+</conversation>

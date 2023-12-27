@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150227.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-27 17:50:29 UTC" participant="153418">
+      <body>You eat yet? </body>
+    </message>
+    <message id="m0001" time="2015-02-27 17:52:00 UTC" participant="153458">
+      <body>Yeah I ate a bit. Sorry </body>
+    </message>
+  </messages>
+</conversation>
+

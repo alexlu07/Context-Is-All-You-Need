@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 12:58:08 UTC" participant="153848">
+      <body>Um imma have to call you tonight or sometime </body>
+    </message>
+    <message id="m0001" time="2015-03-12 16:57:41 UTC" participant="153863">
+      <body>Why </body>
+    </message>
+    <message id="m0002" time="2015-03-12 18:08:39 UTC" participant="153848">
+      <body>Aw I forget </body>
+    </message>
+    <message id="m0003" time="2015-03-12 18:08:42 UTC" participant="153848">
+      <body>Nvm </body>
+    </message>
+    <message id="m0004" time="2015-03-12 18:19:54 UTC" participant="153848">
+      <body>I broke a piece of my retainer </body>
+    </message>
+  </messages>
+</conversation>
+

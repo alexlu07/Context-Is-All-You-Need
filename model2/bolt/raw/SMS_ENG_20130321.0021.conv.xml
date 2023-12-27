@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130321.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-03-21 06:42:47 UTC">
+      <body>Are you in San Jose? </body>
+    </message>
+    <message id="m0001" participant="134316" time="2013-03-21 06:43:22 UTC">
+      <body>I'm driving up tonight after I leave work</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-03-21 06:43:57 UTC">
+      <body>I'm here now. But catch a 6am flt for Austin </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-03-21 06:44:03 UTC">
+      <body>Bad timing</body>
+    </message>
+    <message id="m0004" participant="134316" time="2013-03-21 06:44:26 UTC">
+      <body>Fuck!</body>
+    </message>
+    <message id="m0005" participant="134316" time="2013-03-21 06:44:36 UTC">
+      <body>Cancel it!</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-03-21 06:45:13 UTC">
+      <body>I tried but can't get I early enough on Friday for the games there </body>
+    </message>
+    <message id="m0007" participant="134316" time="2013-03-21 06:46:08 UTC">
+      <body>Bummer man. So close</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-03-21 06:47:18 UTC">
+      <body>Always is</body>
+    </message>
+    <message id="m0009" participant="134316" time="2013-03-21 06:51:39 UTC">
+      <body>Hey I'll be in Philly April 11 that weekend</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-03-21 06:52:04 UTC">
+      <body>I'll put it on the calendar </body>
+    </message>
+    <message id="m0011" participant="134316" time="2013-03-21 06:53:39 UTC">
+      <body>For a wedding. </body>
+    </message>
+  </messages>
+</conversation>

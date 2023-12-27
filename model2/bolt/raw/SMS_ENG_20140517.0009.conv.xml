@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 18:14:24 UTC" participant="153557">
+      <body>Whatcha doing??</body>
+    </message>
+    <message id="m0001" time="2014-05-17 18:22:25 UTC" participant="153547">
+      <body>I'm in the woods. Be home in an hr or so</body>
+    </message>
+    <message id="m0002" time="2014-05-17 18:33:36 UTC" participant="153557">
+      <body>Cool. I'll see you in a bit.</body>
+    </message>
+  </messages>
+</conversation>
+

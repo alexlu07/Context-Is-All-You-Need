@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120915.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136266" time="2012-09-15 06:32:32 UTC">
+      <body>Are you awake/will you be for a little bit?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-15 06:34:04 UTC">
+      <body>Probably not. Why?</body>
+    </message>
+    <message id="m0002" participant="136266" time="2012-09-15 06:34:40 UTC">
+      <body>Never mind, sorry. I just don't know what to do with myself right now haha...honestly it's probably better that I just don't say anything</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-15 06:40:38 UTC">
+      <body>I'm really messed up and I think it would be best if I went to sleep right now. Sorry. </body>
+    </message>
+    <message id="m0004" participant="136266" time="2012-09-15 06:43:12 UTC">
+      <body>It's cool. Good night. </body>
+    </message>
+  </messages>
+</conversation>

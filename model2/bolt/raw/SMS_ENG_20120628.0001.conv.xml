@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120628.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-06-28 14:14:37 UTC">
+      <body>Black movie night is on for Sat. At 6pm.  Invite anyone you like.  Should be a kick.  "Why did I get married?" Is the movie.  </body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-06-28 14:15:23 UTC">
+      <body>Love you!</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-06-28 14:15:57 UTC">
+      <body>Fwd: Black movie night is on for Sat. At 6pm.  Invite anyone you like.  Should be a kick.  "Why did I get married?" Is the movie.  </body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-06-28 14:16:12 UTC">
+      <body>Fwd: Love you!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-06-28 14:16:22 UTC">
+      <body>Awesome! Love you!</body>
+    </message>
+  </messages>
+</conversation>

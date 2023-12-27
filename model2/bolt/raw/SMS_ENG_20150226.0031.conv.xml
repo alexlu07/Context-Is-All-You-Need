@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150226.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-26 00:22:45 UTC" participant="153893">
+      <body>Sun and Friday good still?</body>
+    </message>
+    <message id="m0001" time="2015-02-26 22:25:25 UTC" participant="153244">
+      <body>I would be able to make it there around 8 if you would still need me by that point?  I know it slows down around that time but id be available then</body>
+    </message>
+    <message id="m0002" time="2015-02-26 22:56:32 UTC" participant="153893">
+      <body>Yes that will be great </body>
+    </message>
+    <message id="m0003" time="2015-02-26 23:04:31 UTC" participant="153244">
+      <body>Ok see you then. </body>
+    </message>
+  </messages>
+</conversation>
+

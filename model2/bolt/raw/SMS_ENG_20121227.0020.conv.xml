@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135399" time="2012-12-27 17:07:36 UTC">
+      <body>Are you still in philly</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-27 18:55:15 UTC">
+      <body>No but will be back.   I went home to write a paper. How u doing?</body>
+    </message>
+    <message id="m0002" participant="135399" time="2012-12-27 19:02:47 UTC">
+      <body>Good and you</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-12-27 19:05:09 UTC">
+      <body>Good.  I wanna catch up? U have plans</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-27 19:05:21 UTC">
+      <body>First week of jan?</body>
+    </message>
+    <message id="m0005" participant="135399" time="2012-12-27 23:03:51 UTC">
+      <body>That sounds good</body>
+    </message>
+  </messages>
+</conversation>

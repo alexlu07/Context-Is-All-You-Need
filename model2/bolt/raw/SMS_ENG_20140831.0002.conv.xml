@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140831.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-31 20:11:33 UTC" participant="149368">
+      <body>I'm visiting Philly Monday and Tuesday. Have time for a drink?</body>
+    </message>
+    <message id="m0001" time="2014-08-31 21:01:10 UTC" participant="149306">
+      <body>Maybe Monday night. I'm out of town right now</body>
+    </message>
+    <message id="m0002" time="2014-09-01 16:44:22 UTC" participant="149368">
+      <body>Cool. I'm having dinner with my parents but should be free after 9.</body>
+    </message>
+  </messages>
+</conversation>
+

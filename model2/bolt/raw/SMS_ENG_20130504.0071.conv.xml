@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 14:24:19 UTC" participant="152374">
+      <body>Hey, I hear you're having some trouble with the computer?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 14:29:31 UTC" participant="153490">
+      <body>Yeah.can't get online..i think it said my updates expired..i prally shut  something off..i should know more about computers but..........</body>
+    </message>
+    <message id="m0002" time="2013-05-04 14:31:03 UTC" participant="152374">
+      <body>Ok. Next time you see the message can you send me exactly what it says? I'm sure we can figure it out</body>
+    </message>
+    <message id="m0003" time="2013-05-04 14:31:56 UTC" participant="152374">
+      <body>You can also bring it to my parents' house and see if you can get on the wireless there just to rule out the hotspot as the problem</body>
+    </message>
+    <message id="m0004" time="2013-05-04 14:43:42 UTC" participant="152374">
+      <body>Wait. Did it say this: the Security Certificate has expired or is no longer valid?</body>
+    </message>
+    <message id="m0005" time="2013-05-04 14:49:19 UTC" participant="153490">
+      <body>Do i have to renew updates?</body>
+    </message>
+    <message id="m0006" time="2013-05-04 14:49:57 UTC" participant="153490">
+      <body>Yes sonething along those lines</body>
+    </message>
+    <message id="m0007" time="2013-05-04 14:50:00 UTC" participant="152374">
+      <body>If it's asking you to pay for something definitely don't do it. That could be malware</body>
+    </message>
+    <message id="m0008" time="2013-05-04 14:50:21 UTC" participant="152374">
+      <body>But if it was something like that your computer's date and time clock could just be messed up</body>
+    </message>
+    <message id="m0009" time="2013-05-04 14:51:12 UTC" participant="152374">
+      <body>I'll send you some instructions on how to reset the date and time and you can see if that works</body>
+    </message>
+    <message id="m0010" time="2013-05-04 14:53:47 UTC" participant="152374">
+      <body>Press the Windows Key + D keys on your keyboard or click Desktop tile from the Start screen to show Windows 8 Desktop.</body>
+    </message>
+    <message id="m0011" time="2013-05-04 14:55:57 UTC" participant="152374">
+      <body>Then right click the clock at the bottom right corner and select "adjust date/time". Click Change Date &amp; Time. Set to the right date, time, and zone. Hit ok.</body>
+    </message>
+    <message id="m0012" time="2013-05-04 14:56:13 UTC" participant="152374">
+      <body>See if that fixes it and let me know!</body>
+    </message>
+    <message id="m0013" time="2013-05-04 15:01:52 UTC" participant="153490">
+      <body>Ok ill check it out later..thanx</body>
+    </message>
+    <message id="m0014" time="2013-05-04 20:58:48 UTC" participant="153490">
+      <body>(1/2) Its the settings on the pc.. Was on with sprint and they had me activate the hotspot on"open" and it connected..his diagnosis was that settings on the pc</body>
+    </message>
+    <message id="m0015" time="2013-05-04 20:59:07 UTC" participant="153490">
+      <body>(2/2) are messed up...im so computer stupid</body>
+    </message>
+    <message id="m0016" time="2013-05-04 21:00:03 UTC" participant="152374">
+      <body>At least it's working now. Next time I'm up there for the weekend I can look it all over if you want</body>
+    </message>
+    <message id="m0017" time="2013-05-04 21:03:52 UTC" participant="153490">
+      <body>I put it back on the security thing..i dont want to leave it open..i check my bank crap on there......afraid someone gets my info..</body>
+    </message>
+    <message id="m0018" time="2013-05-04 21:04:18 UTC" participant="152374">
+      <body>Yeah, good call</body>
+    </message>
+    <message id="m0019" time="2013-05-04 21:17:50 UTC" participant="153490">
+      <body>I dont understand why it connects on an open network tho..</body>
+    </message>
+    <message id="m0020" time="2013-05-04 21:19:06 UTC" participant="152374">
+      <body>Are you sure the security type (wep, wpa, etc) and the password are right?</body>
+    </message>
+    <message id="m0021" time="2013-05-04 21:20:43 UTC" participant="153490">
+      <body>We changed all that three times</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120122.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135093" time="2012-01-22 18:19:04 UTC">
+      <body>Omg gossip girl is too delicious</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-01-22 20:10:59 UTC">
+      <body>Call you in a second!!'</body>
+    </message>
+    <message id="m0002" participant="135093" time="2012-01-22 20:20:41 UTC">
+      <body>Hoping on the train!</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-01-22 20:22:22 UTC">
+      <body>Oh man, can you talk where you're going? Or did I miss you?</body>
+    </message>
+    <message id="m0004" participant="135093" time="2012-01-22 20:45:51 UTC">
+      <body>My phone is about to die but lemme call u later tonight when I'm back at my place xoxo</body>
+    </message>
+  </messages>
+</conversation>

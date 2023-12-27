@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110703.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-03 17:03:02 UTC">
+      <body>Is it ok if Tyler comes tomorrow too?</body>
+    </message>
+    <message id="m0001" participant="135098" time="2011-07-03 17:09:01 UTC">
+      <body>Totally!</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-03 17:09:23 UTC">
+      <body>Cool :)</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-03 23:02:47 UTC">
+      <body>What are you doing tonight?</body>
+    </message>
+  </messages>
+</conversation>

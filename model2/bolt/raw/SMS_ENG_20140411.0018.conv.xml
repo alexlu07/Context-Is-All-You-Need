@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 16:43:35 UTC" participant="154895">
+      <body>Are you picking me up?</body>
+    </message>
+    <message id="m0001" time="2014-04-11 18:57:34 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2014-04-11 19:56:32 UTC" participant="154895">
+      <body>Almost done</body>
+    </message>
+    <message id="m0003" time="2014-04-11 20:09:49 UTC" participant="153244">
+      <body>On mu way</body>
+    </message>
+  </messages>
+</conversation>
+

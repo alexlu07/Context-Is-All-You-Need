@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150314.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-14 21:17:00 UTC" participant="153804">
+      <body> What kind of bread is that Italian?</body>
+    </message>
+    <message id="m0001" time="2015-03-14 21:24:55 UTC" participant="153558">
+      <body>The recipe was for french baguettes but I wanted loafs</body>
+    </message>
+    <message id="m0002" time="2015-03-14 21:25:40 UTC" participant="153804">
+      <body>They turned out perfect! </body>
+    </message>
+    <message id="m0003" time="2015-03-14 21:29:28 UTC" participant="153558">
+      <body>The crust isn't as thick as I wanted it and the center was a little too soft but I know how to do it better next time</body>
+    </message>
+    <message id="m0004" time="2015-03-14 21:31:45 UTC" participant="153804">
+      <body> Did you use a KitchenAid?</body>
+    </message>
+    <message id="m0005" time="2015-03-14 21:46:14 UTC" participant="153558">
+      <body>No, it's a slow 3 day rise, there is not a lot of mixing</body>
+    </message>
+  </messages>
+</conversation>
+

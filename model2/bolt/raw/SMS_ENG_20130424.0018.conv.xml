@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2013-04-24 20:00:03 UTC">
+      <body>Hey so what r u up to next week? Let's get that drink! :)</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-04-24 20:01:30 UTC">
+      <body>Yes! Mon or Tues? Take your pick!</body>
+    </message>
+    <message id="m0002" participant="131032" time="2013-04-24 20:07:20 UTC">
+      <body>Oo tuesday would be perfect. I finish my last exam at 6:30!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-04-24 20:07:58 UTC">
+      <body>Great! Where do you wanna celebrate?</body>
+    </message>
+    <message id="m0004" participant="131032" time="2013-04-24 20:57:01 UTC">
+      <body>Sooo there's this place in ################################ and they have really yummy nachos...</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-04-24 20:58:05 UTC">
+      <body>Sure, ##############works! How early are you able to get down there?</body>
+    </message>
+    <message id="m0006" participant="131032" time="2013-04-24 20:58:42 UTC">
+      <body>Let's say by like 7:30? Just to be sure, never know with parking! </body>
+    </message>
+    <message id="m0007" participant="131032" time="2013-04-24 20:58:58 UTC">
+      <body>And I can let u know if I leave earlier?</body>
+    </message>
+    <message id="m0008" participant="130712" time="2013-04-24 20:59:30 UTC">
+      <body>Hmm that's late for me to stay at work. Wanna carpool from Durham?</body>
+    </message>
+    <message id="m0009" participant="131032" time="2013-04-24 21:00:10 UTC">
+      <body>Yeah sure! I can swing by ur place by 7-7:15?</body>
+    </message>
+    <message id="m0010" participant="130712" time="2013-04-24 21:00:27 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0011" participant="131032" time="2013-04-24 21:00:52 UTC">
+      <body>Ok see u tuesday!</body>
+    </message>
+    <message id="m0012" participant="130712" time="2013-04-24 21:01:14 UTC">
+      <body>Yay! See you then!</body>
+    </message>
+  </messages>
+</conversation>

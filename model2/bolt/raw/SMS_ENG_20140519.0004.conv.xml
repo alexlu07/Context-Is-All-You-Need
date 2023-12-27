@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140519.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-19 22:04:02 UTC" participant="153547">
+      <body>I don't need to be picked up</body>
+    </message>
+    <message id="m0001" time="2014-05-20 18:58:45 UTC" participant="153557">
+      <body>Do you know what they are bringing tonight? About to go to co op </body>
+    </message>
+    <message id="m0002" time="2014-05-20 19:00:55 UTC" participant="153547">
+      <body>They didn't get anything yet</body>
+    </message>
+    <message id="m0003" time="2014-05-20 19:03:28 UTC" participant="153557">
+      <body>Okay! I'll get some cheese for crackers and grapes </body>
+    </message>
+    <message id="m0004" time="2014-05-20 19:17:01 UTC" participant="153547">
+      <body>Get a zucchini and some veg for grill</body>
+    </message>
+  </messages>
+</conversation>
+

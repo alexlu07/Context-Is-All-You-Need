@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0081" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-18 17:52:39 UTC" participant="149306">
+      <body>Hey I'm thinking of grilling some chicken tomorrow if u guys wana stop by and grab a chunk.</body>
+    </message>
+    <message id="m0001" time="2013-05-18 18:17:41 UTC" participant="149369">
+      <body>That sounds good to me but we have a couple things we have to do tomorrow. What time are you grilling?</body>
+    </message>
+    <message id="m0002" time="2013-05-18 18:25:24 UTC" participant="149306">
+      <body>4 or 5 probably whenever you want to do it though</body>
+    </message>
+    <message id="m0003" time="2013-05-18 19:21:22 UTC" participant="149369">
+      <body>We probably can't tomorrow, laura's family is coming in for dinner. Sorry</body>
+    </message>
+    <message id="m0004" time="2013-05-18 19:21:41 UTC" participant="149306">
+      <body>Ok no prob</body>
+    </message>
+  </messages>
+</conversation>
+

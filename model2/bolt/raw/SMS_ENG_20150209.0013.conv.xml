@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150209.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-09 14:39:08 UTC" participant="152590">
+      <body>Morning! Are you available for orders this morning?</body>
+    </message>
+    <message id="m0001" time="2015-02-09 14:40:13 UTC" participant="152417">
+      <body>Sure, i'll sign in at 11</body>
+    </message>
+    <message id="m0002" time="2015-02-09 14:41:35 UTC" participant="152590">
+      <body>Thanks, the sign on asap</body>
+    </message>
+    <message id="m0003" time="2015-02-09 16:05:48 UTC" participant="152590">
+      <body>sent an order, copy?</body>
+    </message>
+    <message id="m0004" time="2015-02-09 16:06:10 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0005" time="2015-02-09 16:20:44 UTC" participant="152417">
+      <body>I caught a gaff</body>
+    </message>
+    <message id="m0006" time="2015-02-09 16:23:15 UTC" participant="152590">
+      <body>sent another order for after youre delivered</body>
+    </message>
+    <message id="m0007" time="2015-02-09 16:23:32 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0008" time="2015-02-09 16:51:42 UTC" participant="152590">
+      <body>sent another order for when youre delivered</body>
+    </message>
+    <message id="m0009" time="2015-02-09 23:02:48 UTC" participant="152590">
+      <body>Hey Gabi, any chance you're available tonight? We're super short staffed. No worries if not, just let us know. Thanks!</body>
+    </message>
+    <message id="m0010" time="2015-02-09 23:03:19 UTC" participant="152417">
+      <body>No, sorry</body>
+    </message>
+    <message id="m0011" time="2015-02-09 23:04:07 UTC" participant="152590">
+      <body>Ok, no problem, thanks for letting me know. Have a good night</body>
+    </message>
+  </messages>
+</conversation>
+

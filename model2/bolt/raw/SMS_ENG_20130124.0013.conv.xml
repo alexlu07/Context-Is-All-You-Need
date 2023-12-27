@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130124.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132529" time="2013-01-24 23:24:15 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-01-24 23:25:26 UTC">
+      <body>Whaddup homey</body>
+    </message>
+    <message id="m0002" participant="132529" time="2013-01-24 23:27:34 UTC">
+      <body>Nuffin much broski. </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-01-24 23:36:45 UTC">
+      <body>I see u got into nd...wasnt that first choice?</body>
+    </message>
+    <message id="m0004" participant="132529" time="2013-01-24 23:37:41 UTC">
+      <body>I didn't have a first choice but yeah. Got accepted last week</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-01-25 01:05:06 UTC">
+      <body>Congratulations!  Must be an exciting time in ur life </body>
+    </message>
+    <message id="m0006" participant="132529" time="2013-01-25 01:05:45 UTC">
+      <body>Ehhh, idk. It's a lot to think about. </body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-01-25 01:11:53 UTC">
+      <body>Thats good!</body>
+    </message>
+    <message id="m0008" participant="132529" time="2013-01-25 01:12:21 UTC">
+      <body>Ehhhh lol</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-01-25 01:13:03 UTC">
+      <body>I got nothing cool to think about </body>
+    </message>
+    <message id="m0010" participant="132529" time="2013-01-25 01:13:31 UTC">
+      <body>Lol work</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-01-25 02:07:35 UTC">
+      <body>Not cool lol</body>
+    </message>
+    <message id="m0012" participant="132529" time="2013-01-25 02:40:26 UTC">
+      <body>Lol, okay. </body>
+    </message>
+  </messages>
+</conversation>

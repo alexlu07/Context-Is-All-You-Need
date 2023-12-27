@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121212.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-12-12 12:57:32 UTC">
+      <body>Oh just woke up.  Where are you</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-12 12:58:13 UTC">
+      <body>Ignore please</body>
+    </message>
+    <message id="m0002" participant="135397" time="2012-12-12 13:02:56 UTC">
+      <body>Love u. Going to gym</body>
+    </message>
+    <message id="m0003" participant="135397" time="2012-12-13 03:16:16 UTC">
+      <body>What did she say?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-12-13 04:54:37 UTC">
+      <body>I think it's acut</body>
+    </message>
+    <message id="m0005" participant="135397" time="2012-12-13 12:18:08 UTC">
+      <body>Do u have to do anything? Bacitracin?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-12-13 15:50:28 UTC">
+      <body>It's ok </body>
+    </message>
+  </messages>
+</conversation>

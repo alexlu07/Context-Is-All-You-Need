@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120706.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-07-06 17:48:41 UTC">
+      <body>What r u up to?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-06 17:49:13 UTC">
+      <body>I'm with Jordan at dads, probably home around 4 or 5</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-07-06 17:53:29 UTC">
+      <body>Finished shopping. Having lunch out.</body>
+    </message>
+  </messages>
+</conversation>

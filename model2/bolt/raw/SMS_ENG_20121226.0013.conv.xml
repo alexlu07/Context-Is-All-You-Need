@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121226.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-12-26 20:27:17 UTC">
+      <body>Oh and what room are you guys in?</body>
+    </message>
+    <message id="m0001" participant="131478" time="2012-12-26 20:27:40 UTC">
+      <body>1622 you?</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-12-26 20:29:24 UTC">
+      <body>1611</body>
+    </message>
+    <message id="m0003" participant="131450" time="2012-12-26 21:22:41 UTC">
+      <body>Hey all done here...what are you guys up to?</body>
+    </message>
+    <message id="m0004" participant="131478" time="2012-12-27 00:44:35 UTC">
+      <body>What are you guys up to</body>
+    </message>
+  </messages>
+</conversation>

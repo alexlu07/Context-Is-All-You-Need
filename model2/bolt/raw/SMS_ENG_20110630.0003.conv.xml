@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110630.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135127" time="2011-06-30 01:32:34 UTC">
+      <body>Hey, I am here I think?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-30 01:33:05 UTC">
+      <body>So are we? Left of the door. You're in St Paul right?</body>
+    </message>
+    <message id="m0002" participant="135127" time="2011-06-30 01:33:41 UTC">
+      <body>Umm no. Minneapolis.</body>
+    </message>
+    <message id="m0004" participant="135127" time="2011-06-30 01:34:58 UTC">
+      <body>Haha. Do you have good directions to the St. Paul place.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-30 01:35:47 UTC">
+      <body>35 to cretin and then left on ford parkway and then right on cleveland</body>
+    </message>
+    <message id="m0006" participant="135127" time="2011-06-30 01:38:07 UTC">
+      <body>Okay, I'll see what I can do</body>
+    </message>
+  </messages>
+</conversation>

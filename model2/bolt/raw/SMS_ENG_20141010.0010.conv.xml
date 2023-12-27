@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141010.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-10 21:55:36 UTC" participant="152734">
+      <body>Hey Ariel, do you have the ponies covered this evening? I'll be home later - if you want to kick them out for awhile, I can bring them back in, it's supposed to pour overnight.</body>
+    </message>
+    <message id="m0001" time="2014-10-10 22:06:05 UTC" participant="153302">
+      <body>That would be great. I'll turn them out around 7:30 if you could bring them in before it rains that would be great</body>
+    </message>
+    <message id="m0002" time="2014-10-10 23:13:47 UTC" participant="152734">
+      <body>Ok perfect! Thanks :)</body>
+    </message>
+    <message id="m0003" time="2014-10-10 23:40:48 UTC" participant="153302">
+      <body>I left them in</body>
+    </message>
+    <message id="m0004" time="2014-10-11 00:11:27 UTC" participant="152734">
+      <body>Ok no problem</body>
+    </message>
+  </messages>
+</conversation>
+

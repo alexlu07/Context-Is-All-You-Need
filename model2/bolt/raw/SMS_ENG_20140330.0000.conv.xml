@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140330.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-30 20:03:12 UTC" participant="152560">
+      <body>Can we go see "The Grand Hotel Budapest" next Tuesday/Wednesday?... </body>
+    </message>
+    <message id="m0001" time="2014-03-30 20:16:00 UTC" participant="152560">
+      <body>Next Tuesday/Wednesday (April 8/9) </body>
+    </message>
+    <message id="m0002" time="2014-03-30 20:16:05 UTC" participant="152417">
+      <body>Next tue/wed, or this tue/wed</body>
+    </message>
+    <message id="m0003" time="2014-03-30 20:16:07 UTC" participant="152417">
+      <body>?</body>
+    </message>
+    <message id="m0004" time="2014-03-30 20:17:26 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" time="2014-03-30 20:18:08 UTC" participant="152560">
+      <body>Yay! Maybe I can take you out for a belated birthday bite too. </body>
+    </message>
+  </messages>
+</conversation>
+

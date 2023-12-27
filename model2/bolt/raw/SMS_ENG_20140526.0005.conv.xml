@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140526.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-26 20:46:20 UTC" participant="153548">
+      <body>Are you picking those guys up on the way over? Let me know if it's helpful for me to pick them up</body>
+    </message>
+    <message id="m0001" time="2014-05-26 21:45:36 UTC" participant="153576">
+      <body>Yea!! That would be cool and you guys can do some one on one qt</body>
+    </message>
+    <message id="m0002" time="2014-05-26 21:46:49 UTC" participant="153548">
+      <body>Great. I'll pick them up and you guys meet us at the house soon after! </body>
+    </message>
+  </messages>
+</conversation>
+

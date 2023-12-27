@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130502.0076" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-02 23:24:08 UTC" participant="152417">
+      <body>Sorry im late, headin home now</body>
+    </message>
+    <message id="m0001" time="2013-05-02 23:25:44 UTC" participant="152560">
+      <body>No prob. See you soon.</body>
+    </message>
+    <message id="m0002" time="2013-05-02 23:32:17 UTC" participant="152417">
+      <body>Come on down</body>
+    </message>
+    <message id="m0003" time="2013-05-03 13:07:28 UTC" participant="152560">
+      <body>You are so amazing.</body>
+    </message>
+    <message id="m0004" time="2013-05-03 13:11:01 UTC" participant="152417">
+      <body>No you are!</body>
+    </message>
+    <message id="m0005" time="2013-05-03 13:22:34 UTC" participant="152417">
+      <body>So so so so so lovely</body>
+    </message>
+  </messages>
+</conversation>
+

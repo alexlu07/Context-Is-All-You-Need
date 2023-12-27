@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110624.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-06-24 19:23:52 UTC">
+      <body>When is the wedding tomorrow?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-06-24 20:37:54 UTC">
+      <body>Tomorrow at three?</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-06-25 16:51:41 UTC">
+      <body>Wondering when you'll be home</body>
+    </message>
+  </messages>
+</conversation>

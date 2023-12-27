@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-29 14:28:18 UTC" participant="153418">
+      <body>Hey, I told you that we're meeting at 33rd and Market tonight at 8, right?</body>
+    </message>
+    <message id="m0001" time="2013-01-29 14:50:36 UTC" participant="153443">
+      <body>Yeah! In front of Maria, right? Thanks for the reminder:)</body>
+    </message>
+    <message id="m0002" time="2013-01-29 15:07:27 UTC" participant="153418">
+      <body>Mario, but yeah.</body>
+    </message>
+    <message id="m0003" time="2013-01-29 15:09:28 UTC" participant="153443">
+      <body>Really?! It's not Maria?! That was my mistake... :( anyway, see you there!!</body>
+    </message>
+  </messages>
+</conversation>
+

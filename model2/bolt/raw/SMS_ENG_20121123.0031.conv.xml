@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-11-23 20:56:24 UTC">
+      <body>I'll call you back in five!</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-11-23 20:56:45 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-11-23 22:38:09 UTC">
+      <body>Looks like dinner tomorrw at Sante Fe maybe 7:00?</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-11-23 22:38:34 UTC">
+      <body>Cannot do brunch.</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-23 22:38:54 UTC">
+      <body>Ok that works for both of us!</body>
+    </message>
+    <message id="m0005" participant="136219" time="2012-11-23 22:40:37 UTC">
+      <body>Ok fine.</body>
+    </message>
+  </messages>
+</conversation>

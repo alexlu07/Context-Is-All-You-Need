@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120512.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131283" time="2012-05-12 18:43:32 UTC">
+      <body>Happy sunny Saturday! How's it going over there today? Thinking of you!</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-05-12 20:11:32 UTC">
+      <body>All's well,  nothing new.</body>
+    </message>
+    <message id="m0002" participant="131283" time="2012-05-12 20:12:12 UTC">
+      <body>Hang in there! You're doing great. Go enjoy the warm weather :)</body>
+    </message>
+  </messages>
+</conversation>

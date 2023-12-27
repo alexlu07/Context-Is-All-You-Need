@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 23:48:35 UTC" participant="153631">
+      <body>Are you doing anything tonight? We are at a librarian social which I thought was a good idea but of course it is incredibly awkward!</body>
+    </message>
+    <message id="m0001" time="2014-01-25 22:36:05 UTC" participant="153548">
+      <body>This cold is killing me</body>
+    </message>
+    <message id="m0002" time="2014-01-25 22:36:30 UTC" participant="153548">
+      <body>Did you guys get loose at the social?</body>
+    </message>
+    <message id="m0003" time="2014-01-25 23:47:12 UTC" participant="153631">
+      <body>Oh no I'm sorry you're sick!</body>
+    </message>
+  </messages>
+</conversation>
+

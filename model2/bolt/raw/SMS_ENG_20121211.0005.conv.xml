@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130722" time="2012-12-11 00:17:12 UTC">
+      <body>Aidan's bday party! Sat 15th 3-6...hope you guys can make it!</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-12-11 01:32:29 UTC">
+      <body>Oh no, we are going camping with Girl Scouts this weekend! Lets go out for pizza soon to celebrate (the end of school ha!)</body>
+    </message>
+    <message id="m0002" participant="130722" time="2012-12-11 01:44:51 UTC">
+      <body>Yes!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121113.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135350" time="2012-11-13 05:17:52 UTC">
+      <body>See I'm awake but I'm writing a paper that due Tom too so don't worry about-I should focus </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-13 05:17:59 UTC">
+      <body>U awake wanna talk</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-13 05:19:09 UTC">
+      <body>I'm
+Not worried I want to talk I finished my presentation</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-13 05:19:15 UTC">
+      <body>I'm walking home</body>
+    </message>
+    <message id="m0004" participant="135350" time="2012-11-13 05:20:00 UTC">
+      <body>Sorry that I was so emotive! </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-13 05:20:24 UTC">
+      <body>Don't apologize I want to talk. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141006.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-06 21:29:31 UTC" participant="152118">
+      <body> Hey ho! Safe and sound from Boston? How was it?</body>
+    </message>
+    <message id="m0001" time="2014-10-06 21:30:55 UTC" participant="152115">
+      <body>It was good. His friends were nice. But the flight was a bit scary. I apparently have a really hard time popping my ears. It was so painful!</body>
+    </message>
+    <message id="m0002" time="2014-10-06 21:32:38 UTC" participant="152118">
+      <body>Aw no!!!! Did you yawn???</body>
+    </message>
+    <message id="m0003" time="2014-10-06 21:34:04 UTC" participant="152115">
+      <body>Yeah. I get some static in my right ear but that was it. I still felt the pain.</body>
+    </message>
+    <message id="m0004" time="2014-10-06 21:35:32 UTC" participant="152118">
+      <body>Aw! So sorry. But least it was fun!!!</body>
+    </message>
+    <message id="m0005" time="2014-10-06 21:35:40 UTC" participant="152118">
+      <body>Aw! So sorry. But least it was fun!!!</body>
+    </message>
+    <message id="m0006" time="2014-10-06 21:37:22 UTC" participant="152115">
+      <body>Yeah. Although there was a shooting threat on campus so we had to go elsewhere on Saturday. But nothing came of the threat.</body>
+    </message>
+    <message id="m0007" time="2014-10-06 21:41:36 UTC" participant="152118">
+      <body> uhhhh. Okay! Jeez!</body>
+    </message>
+  </messages>
+</conversation>
+

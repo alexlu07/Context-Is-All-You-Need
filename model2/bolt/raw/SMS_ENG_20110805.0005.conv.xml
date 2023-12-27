@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110805.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-05 13:58:28 UTC">
+      <body>I'll be home at about 6. Will you wait to eat?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-08-05 14:57:25 UTC">
+      <body>Of course! Hope your day goes well and drive safe.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-05 14:58:03 UTC">
+      <body>When will Ellen and Steve be home?</body>
+    </message>
+    <message id="m0003" participant="135103" time="2011-08-05 14:59:02 UTC">
+      <body>Not until eight thirty or so</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-05 14:59:18 UTC">
+      <body>What are we going to eat?</body>
+    </message>
+    <message id="m0005" participant="135103" time="2011-08-05 15:00:55 UTC">
+      <body>You'll have to be surprised</body>
+    </message>
+  </messages>
+</conversation>

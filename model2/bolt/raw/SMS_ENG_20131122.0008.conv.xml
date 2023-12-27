@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 19:07:44 UTC" participant="153566">
+      <body>Hi Hunter-it's Caroline. Do you have any time this weekend to do those projects? Any time is good</body>
+    </message>
+    <message id="m0001" time="2013-11-22 19:10:04 UTC" participant="153547">
+      <body>Yeah how about tomorrow around 1030 am</body>
+    </message>
+    <message id="m0003" time="2013-11-22 20:53:48 UTC" participant="153547">
+      <body>Is it just the blinds? I'm trying to figure which tools I can leave at my job site and which ones I'll need at your house</body>
+    </message>
+    <message id="m0004" time="2013-11-22 20:57:43 UTC" participant="153566">
+      <body>It's a set of blinds, and I have an elliptical excercise machine that needs to be put together. It has the tools inside it though </body>
+    </message>
+  </messages>
+</conversation>
+

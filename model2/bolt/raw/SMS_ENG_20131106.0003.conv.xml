@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131106.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-06 04:41:48 UTC" participant="152116">
+      <body>Why do you say that?</body>
+    </message>
+    <message id="m0001" time="2013-11-06 04:58:28 UTC" participant="153491">
+      <body>Hahah tell you when I see you.</body>
+    </message>
+    <message id="m0002" time="2013-11-06 04:58:31 UTC" participant="153491">
+      <body>Still on for tomorrow?</body>
+    </message>
+    <message id="m0003" time="2013-11-06 05:06:06 UTC" participant="152116">
+      <body> Yep. I go in at 4</body>
+    </message>
+    <message id="m0004" time="2013-11-06 08:41:03 UTC" participant="153491">
+      <body>What time would you want to meet?</body>
+    </message>
+    <message id="m0005" time="2013-11-06 13:39:32 UTC" participant="152116">
+      <body> What time do you want to?</body>
+    </message>
+    <message id="m0006" time="2013-11-06 16:43:33 UTC" participant="153491">
+      <body>Hey, call me back when you can.</body>
+    </message>
+    <message id="m0007" time="2013-11-06 18:32:51 UTC" participant="152116">
+      <body>My trolleys at 42 now. I'll be there soon</body>
+    </message>
+    <message id="m0008" time="2013-11-06 18:33:30 UTC" participant="153491">
+      <body>Okay.</body>
+    </message>
+    <message id="m0009" time="2013-11-07 03:41:24 UTC" participant="153491">
+      <body>Can you send me Sam's and Eden's numbers please?</body>
+    </message>
+    <message id="m0011" time="2013-11-07 03:57:02 UTC" participant="153491">
+      <body>Thanks. I'm going to send out a group text about visiting John. Let me know if you get it please!</body>
+    </message>
+    <message id="m0012" time="2013-11-07 04:07:28 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

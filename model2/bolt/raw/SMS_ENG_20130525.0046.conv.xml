@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131945" time="2013-05-25 02:46:32 UTC">
+      <body>Are we watching scary movies at your house or what</body>
+    </message>
+    <message id="m0001" participant="131953" time="2013-05-25 03:10:16 UTC">
+      <body>Ya bro</body>
+    </message>
+    <message id="m0002" participant="131945" time="2013-05-25 03:10:40 UTC">
+      <body>Omg finally,  people keep asking me.  When?</body>
+    </message>
+    <message id="m0003" participant="131953" time="2013-05-25 03:11:27 UTC">
+      <body>Right now</body>
+    </message>
+  </messages>
+</conversation>

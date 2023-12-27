@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120929.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2012-09-29 23:36:16 UTC">
+      <body>destiny is wearing a bowler hat, plaid short shorts and a vest today.</body>
+    </message>
+    <message id="m0001" participant="131055" time="2012-09-30 20:56:21 UTC">
+      <body>are you free tonight?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-10-01 15:59:18 UTC">
+      <body>Hi, sorry I didn't see your message until now. How are you?</body>
+    </message>
+    <message id="m0003" participant="131055" time="2012-10-01 16:01:09 UTC">
+      <body>first day at the museum. zoloft wont let me have many emotions...how are you?</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-10-01 17:04:18 UTC">
+      <body>That's exciting! Even if you  can't feel it, ha. I'm ok, too much reading to do</body>
+    </message>
+  </messages>
+</conversation>

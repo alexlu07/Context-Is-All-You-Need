@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120227.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-27 23:03:11 UTC" participant="152374">
+      <body>No major disasters. Belgian café at 8:45?</body>
+    </message>
+    <message id="m0001" time="2012-02-27 23:41:26 UTC" participant="152378">
+      <body>Yep. all good on my end. I'm about to head home</body>
+    </message>
+    <message id="m0002" time="2012-02-28 01:54:29 UTC" participant="152378">
+      <body>Sorry struggled with parking. Walking up</body>
+    </message>
+    <message id="m0003" time="2012-02-28 03:59:13 UTC" participant="152378">
+      <body>thank you for taking the time to see us before driving through the night. Have a safe trip. We all miss you terribly already but will see you soon.... promise</body>
+    </message>
+    <message id="m0004" time="2012-02-28 16:07:33 UTC" participant="152374">
+      <body>Thank you for coming down to center city! I'll miss you guys a lot, but the guest room is already on its way to being set up and until then, it sounds like maybe I'll see you in Boston :-)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135319" time="2013-05-28 02:27:12 UTC">
+      <body>Sorry, I didn't realize my phone was dying p</body>
+    </message>
+    <message id="m0001" participant="135319" time="2013-05-28 02:27:12 UTC">
+      <body>It is charging right now. I am texting you on my iPad</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-28 02:29:15 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-28 02:29:32 UTC">
+      <body>Ohhhh that's the iCloud account :)</body>
+    </message>
+    <message id="m0004" participant="135319" time="2013-05-28 02:29:54 UTC">
+      <body>I'll call you back when it turns back on, or we could just Skype</body>
+    </message>
+    <message id="m0005" participant="135319" time="2013-05-28 02:30:15 UTC">
+      <body>I'm not sure what you mean about the iCloud account thing...</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-28 02:31:05 UTC">
+      <body>I am receiving texts from you as #####################, which has happened before when your phone has died but I never knew what it was</body>
+    </message>
+    <message id="m0007" participant="135319" time="2013-05-28 02:31:26 UTC">
+      <body>Ohhhh haha yup</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-05-28 02:34:02 UTC">
+      <body>Do you want to Skype?</body>
+    </message>
+    <message id="m0009" participant="135319" time="2013-05-28 02:34:16 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0010" participant="135319" time="2013-05-28 02:36:34 UTC">
+      <body>I think you need to call me</body>
+    </message>
+  </messages>
+</conversation>

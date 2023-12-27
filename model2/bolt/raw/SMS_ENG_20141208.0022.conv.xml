@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141208.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-08 22:31:29 UTC" participant="153804">
+      <body>How did your aunt make out with her surgery today?</body>
+    </message>
+    <message id="m0001" time="2014-12-08 22:32:32 UTC" participant="153809">
+      <body>She won't have it until Wednesday. She's in a holding pattern right now but in very good spirits</body>
+    </message>
+    <message id="m0002" time="2014-12-08 22:33:39 UTC" participant="153804">
+      <body>Keep me posted I'll be thinking of her</body>
+    </message>
+    <message id="m0003" time="2014-12-08 22:34:04 UTC" participant="153809">
+      <body>Thanks Lizzie I'll do that. How's Tom</body>
+    </message>
+    <message id="m0004" time="2014-12-08 22:36:01 UTC" participant="153804">
+      <body>first PT was today he'll be going Wednesday and Friday.certainly better than last week!</body>
+    </message>
+    <message id="m0005" time="2014-12-08 22:36:35 UTC" participant="153809">
+      <body>Good glad to hear</body>
+    </message>
+    <message id="m0006" time="2014-12-08 23:01:22 UTC" participant="153804">
+      <body>Do you know of a good En</body>
+    </message>
+    <message id="m0007" time="2014-12-08 23:01:46 UTC" participant="153809">
+      <body>En?</body>
+    </message>
+    <message id="m0008" time="2014-12-08 23:01:55 UTC" participant="153809">
+      <body>ENT?</body>
+    </message>
+    <message id="m0009" time="2014-12-08 23:02:57 UTC" participant="153804">
+      <body>Sorry I mean endocrinologist in Syracuse?</body>
+    </message>
+    <message id="m0011" time="2014-12-08 23:04:30 UTC" participant="153804">
+      <body>No I don't think so</body>
+    </message>
+    <message id="m0012" time="2014-12-08 23:04:53 UTC" participant="153804">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0013" time="2014-12-08 23:05:46 UTC" participant="153809">
+      <body>Sure. </body>
+    </message>
+  </messages>
+</conversation>
+

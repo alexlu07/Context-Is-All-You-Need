@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140504.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-04 23:48:05 UTC" participant="153547">
+      <body>Can I come get the van in the morning to pick up that security door</body>
+    </message>
+    <message id="m0001" time="2014-05-04 23:55:44 UTC" participant="149372">
+      <body>We need to get the auger and fence materials as well. What time are you getting the door?</body>
+    </message>
+    <message id="m0002" time="2014-05-04 23:59:06 UTC" participant="153547">
+      <body>Around 830. Maybe I can leave it there and pick it up next week instead</body>
+    </message>
+    <message id="m0003" time="2014-05-04 23:59:23 UTC" participant="149372">
+      <body>Where is it?</body>
+    </message>
+    <message id="m0005" time="2014-05-05 00:02:04 UTC" participant="149372">
+      <body>Ok well let's get that and the auger if possible so that the holes can get started. I can then run and getting fencing stuff while you mark the holes for Adam. </body>
+    </message>
+    <message id="m0006" time="2014-05-05 00:12:26 UTC" participant="153547">
+      <body>If I am starting work tomorrow I need to make stakes, get string, ground marking paint. I can do that first thing. Can you pick me up with the van so I can load my tools and supplies around 9</body>
+    </message>
+    <message id="m0007" time="2014-05-05 00:12:48 UTC" participant="149372">
+      <body>Sure. </body>
+    </message>
+    <message id="m0008" time="2014-05-05 15:32:08 UTC" participant="149372">
+      <body>Btw, don't go upstairs in the house or dog will thrash you. Basement is fine though. </body>
+    </message>
+    <message id="m0009" time="2014-05-05 16:21:20 UTC" participant="149372">
+      <body>If you run out of stuff to do, we need to figure how much concrete and pick it up from PBM</body>
+    </message>
+    <message id="m0010" time="2014-05-05 16:55:53 UTC" participant="149372">
+      <body>Ok. Can you guys pick up. I'm on my way back. 20 min out. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134301" time="2013-06-03 22:13:58 UTC">
+      <body>Wings Thursday? I'll be over that way already </body>
+    </message>
+    <message id="m0001" participant="134301" time="2013-06-03 22:49:55 UTC">
+      <body>Scratch that, Wednesday for wings?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-03 23:03:56 UTC">
+      <body>In Seattle </body>
+    </message>
+    <message id="m0003" participant="134301" time="2013-06-03 23:21:30 UTC">
+      <body>That's silly. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130317.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-17 23:11:27 UTC" participant="153308">
+      <body>Sure! Thats perfectly fine. :)</body>
+    </message>
+    <message id="m0001" time="2013-03-17 23:21:00 UTC" participant="152734">
+      <body>Great, thanks! Also, is it possible to check with his last owner about when he last got shots, especially rhino/flu? I might have the vet do shots at the same time. </body>
+    </message>
+    <message id="m0002" time="2013-03-17 23:25:12 UTC" participant="153308">
+      <body>Sure, ill ask her and text you back once i hear from her.</body>
+    </message>
+    <message id="m0003" time="2013-03-17 23:25:46 UTC" participant="152734">
+      <body>Great, thank you!</body>
+    </message>
+    <message id="m0004" time="2013-03-18 00:17:43 UTC" participant="153308">
+      <body>I asked his owner about the shots and he will need them done. Thanks!</body>
+    </message>
+    <message id="m0005" time="2013-03-18 00:55:27 UTC" participant="152734">
+      <body>Ok, thanks for checking.</body>
+    </message>
+  </messages>
+</conversation>
+

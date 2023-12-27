@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130426.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-26 20:02:17 UTC" participant="152471">
+      <body>Hi, this is Katie. I'm going to Amherst tomorrow, and my friend is working until 6:00 today. Are you free on Sunday?</body>
+    </message>
+    <message id="m0001" time="2013-04-26 20:03:34 UTC" participant="152417">
+      <body>Im not free sunday but i can be after 6 today</body>
+    </message>
+    <message id="m0002" time="2013-04-26 20:11:41 UTC" participant="152471">
+      <body>Alright, around 6:30? What's your address?</body>
+    </message>
+    <message id="m0004" time="2013-04-26 20:13:15 UTC" participant="152471">
+      <body>Okay, see you then!</body>
+    </message>
+    <message id="m0005" time="2013-04-26 22:34:33 UTC" participant="152471">
+      <body>Sorry we're running a bit late, we'll be there in a few minutes. </body>
+    </message>
+    <message id="m0006" time="2013-04-26 22:40:28 UTC" participant="152417">
+      <body>K</body>
+    </message>
+    <message id="m0007" time="2013-04-26 23:04:41 UTC" participant="152471">
+      <body>So the atm I went to was out of service, I might be a little while.  </body>
+    </message>
+    <message id="m0008" time="2013-04-26 23:18:41 UTC" participant="152417">
+      <body>Ok, no problem, ill be here</body>
+    </message>
+  </messages>
+</conversation>
+

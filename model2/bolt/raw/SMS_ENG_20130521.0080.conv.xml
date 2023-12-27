@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0080" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137315" time="2013-05-21 02:44:16 UTC">
+      <body>When can I expect the flash drive?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-21 03:03:15 UTC">
+      <body>When do you need it? </body>
+    </message>
+    <message id="m0002" participant="137315" time="2013-05-21 03:14:00 UTC">
+      <body>Don't need it just curious</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-05-21 03:14:51 UTC">
+      <body>I'm planning a very extensive musication but don't trust that you're committed </body>
+    </message>
+    <message id="m0004" participant="137315" time="2013-05-21 03:17:16 UTC">
+      <body>I will listen as intensely as I can, I'm working on Kylie's music now</body>
+    </message>
+  </messages>
+</conversation>

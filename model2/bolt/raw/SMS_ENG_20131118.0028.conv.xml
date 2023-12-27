@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131118.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-18 22:41:36 UTC" participant="154393">
+      <body>Did you get my email about Killington thanksgiving?!</body>
+    </message>
+    <message id="m0001" time="2013-11-19 00:49:02 UTC" participant="154352">
+      <body>I got it</body>
+    </message>
+    <message id="m0003" time="2013-11-19 15:58:09 UTC" participant="154393">
+      <body>Call Pete!</body>
+    </message>
+    <message id="m0004" time="2013-11-19 16:02:28 UTC" participant="154352">
+      <body>Done</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140423.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-23 20:30:23 UTC" participant="149363">
+      <body>Hey, just in case you've got nothin' else goin' on tonight, there's an Eddie Sids show at 8 in south Philly. JR's Bar, 2327 S. Croskey St.</body>
+    </message>
+    <message id="m0001" time="2014-04-23 21:13:20 UTC" participant="149306">
+      <body>Nice! I'm actually preparing for an art opening Friday so i can't make it tonight. If u are near pageant gallery on Friday at 7 stop by the opening.</body>
+    </message>
+    <message id="m0002" time="2014-04-23 21:15:45 UTC" participant="149363">
+      <body>Ah, we've got a Grandchildren show that night in North Philly.</body>
+    </message>
+    <message id="m0003" time="2014-04-24 00:26:00 UTC" participant="149306">
+      <body>Have a good show man </body>
+    </message>
+  </messages>
+</conversation>
+

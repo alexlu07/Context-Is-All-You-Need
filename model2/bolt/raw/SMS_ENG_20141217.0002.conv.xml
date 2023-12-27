@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141217.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-17 23:24:59 UTC" participant="152590">
+      <body>hey i got a far order. i'll pay u 5$ extra if u take it</body>
+    </message>
+    <message id="m0001" time="2014-12-17 23:25:44 UTC" participant="152417">
+      <body> Cool, thx</body>
+    </message>
+    <message id="m0002" time="2014-12-18 00:47:49 UTC" participant="152590">
+      <body>deliver which ever order comes out first since it's near. copy?</body>
+    </message>
+    <message id="m0003" time="2014-12-18 00:47:55 UTC" participant="152590">
+      <body>come back for other one after</body>
+    </message>
+    <message id="m0004" time="2014-12-18 00:48:43 UTC" participant="152417">
+      <body>Copy</body>
+    </message>
+    <message id="m0005" time="2014-12-18 01:45:29 UTC" participant="152417">
+      <body>I only see the extra $5 as a note in my payout, should it have been added or will that happen later?</body>
+    </message>
+    <message id="m0006" time="2014-12-18 01:46:16 UTC" participant="152590">
+      <body>yea i'm gonna add it at end of night and it'll show up in ur next payout</body>
+    </message>
+    <message id="m0007" time="2014-12-18 02:11:23 UTC" participant="152417">
+      <body>Cool, thank you</body>
+    </message>
+    <message id="m0008" time="2014-12-18 23:02:14 UTC" participant="152590">
+      <body>this is a bit of a longer run if that's cool with you? just let me know.</body>
+    </message>
+    <message id="m0009" time="2014-12-18 23:02:21 UTC" participant="152590">
+      <body>It's also 1 iced tea...not sure what the customer was thinking</body>
+    </message>
+    <message id="m0010" time="2014-12-18 23:04:31 UTC" participant="152590">
+      <body>stand by on this one</body>
+    </message>
+    <message id="m0011" time="2014-12-18 23:04:46 UTC" participant="152417">
+      <body>Ok</body>
+    </message>
+    <message id="m0012" time="2014-12-18 23:05:50 UTC" participant="152590">
+      <body>there we go, got the 2nd order</body>
+    </message>
+    <message id="m0013" time="2014-12-18 23:05:56 UTC" participant="152590">
+      <body>i thought it seemed a little weird</body>
+    </message>
+  </messages>
+</conversation>
+

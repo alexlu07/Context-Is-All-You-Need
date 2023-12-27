@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135099" time="2012-06-11 02:44:16 UTC">
+      <body>How was it????</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-11 02:45:18 UTC">
+      <body>Complex... Hah</body>
+    </message>
+    <message id="m0002" participant="135099" time="2012-06-11 02:46:24 UTC">
+      <body>Yeah. Did you find it hard to enter and engage with it?</body>
+    </message>
+    <message id="m0003" participant="135099" time="2012-06-11 02:50:40 UTC">
+      <body>Also the girl's lateral lisp was horrendous</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131127.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-27 16:05:59 UTC" participant="152734">
+      <body>Hey can I invite wade to your house on Friday? (You can say nah!) </body>
+    </message>
+    <message id="m0001" time="2013-11-27 16:06:24 UTC" participant="153269">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" time="2013-11-27 16:10:10 UTC" participant="152734">
+      <body>Ok cool! Second question, any restaurant recommendations near the White House? Going to a play with my mom tonight and trying to figure out dinner. </body>
+    </message>
+    <message id="m0003" time="2013-11-27 16:31:15 UTC" participant="153269">
+      <body>Yikes no idea!  Yelp it </body>
+    </message>
+    <message id="m0004" time="2013-11-27 19:34:38 UTC" participant="153269">
+      <body>Let me know if wade's coming, so I can plan for the right amount of people!</body>
+    </message>
+    <message id="m0005" time="2013-11-27 19:37:12 UTC" participant="152734">
+      <body>He can't, "hanging out" with his "cousin", apparently. </body>
+    </message>
+    <message id="m0006" time="2013-11-27 19:37:28 UTC" participant="153269">
+      <body>Lies, obviously </body>
+    </message>
+    <message id="m0007" time="2013-11-27 19:39:07 UTC" participant="152734">
+      <body>Totally. I'll just eat his chocolate though, don't worry about that</body>
+    </message>
+  </messages>
+</conversation>
+

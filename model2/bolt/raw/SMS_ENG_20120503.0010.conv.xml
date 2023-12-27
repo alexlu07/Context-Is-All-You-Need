@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120503.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131330" time="2012-05-03 21:02:56 UTC">
+      <body>Thanks dude!</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-05-03 21:03:04 UTC">
+      <body>Just watched the video, came out awesome! Congrats</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-05-03 21:04:02 UTC">
+      <body>Had to cut out a ton of stuff?</body>
+    </message>
+    <message id="m0003" participant="131330" time="2012-05-03 21:15:44 UTC">
+      <body>on it!</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-05-03 21:17:00 UTC">
+      <body>Send that shit to philebrity.com</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-05-03 21:23:11 UTC">
+      <body>Actually nevermind, only if they ask for production credits, then it'd be appropriate</body>
+    </message>
+  </messages>
+</conversation>

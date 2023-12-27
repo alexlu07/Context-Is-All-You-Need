@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150116.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-16 07:25:52 UTC" participant="152741">
+      <body>7 down 3 to go</body>
+    </message>
+    <message id="m0001" time="2015-01-16 21:58:25 UTC" participant="152735">
+      <body/>
+    </message>
+    <message id="m0002" time="2015-01-16 21:58:27 UTC" participant="152735">
+      <body>Or rather </body>
+    </message>
+    <message id="m0003" time="2015-01-16 21:58:33 UTC" participant="152735">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

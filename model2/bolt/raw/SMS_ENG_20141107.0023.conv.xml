@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 21:48:38 UTC" participant="153804">
+      <body>Any chance you can make it home for an early Thanksgiving before dad surgery?doesn't need to be a weekend let me know</body>
+    </message>
+    <message id="m0001" time="2014-11-07 21:57:20 UTC" participant="153558">
+      <body>Probably not, I have to get all the work I can before I leave for London </body>
+    </message>
+    <message id="m0002" time="2014-11-07 21:58:24 UTC" participant="153558">
+      <body>Dec 16-31</body>
+    </message>
+    <message id="m0003" time="2014-11-07 21:58:25 UTC" participant="153804">
+      <body>When are you leaving for London?</body>
+    </message>
+    <message id="m0004" time="2014-11-07 22:05:14 UTC" participant="153804">
+      <body>Any time for us to come down there and see you?</body>
+    </message>
+  </messages>
+</conversation>
+

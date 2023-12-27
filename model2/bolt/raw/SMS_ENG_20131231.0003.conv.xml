@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131231.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-31 16:36:16 UTC" participant="153557">
+      <body>I'm eating in the cafe</body>
+    </message>
+    <message id="m0001" time="2013-12-31 16:39:40 UTC" participant="153547">
+      <body>Ok I'm in line</body>
+    </message>
+    <message id="m0002" time="2013-12-31 16:45:09 UTC" participant="153547">
+      <body>I'm done</body>
+    </message>
+    <message id="m0003" time="2013-12-31 16:47:14 UTC" participant="153557">
+      <body>Me too</body>
+    </message>
+    <message id="m0004" time="2013-12-31 16:47:19 UTC" participant="153557">
+      <body>I'll head to the car</body>
+    </message>
+  </messages>
+</conversation>
+

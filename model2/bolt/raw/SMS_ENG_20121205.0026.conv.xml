@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121205.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-05 06:34:29 UTC">
+      <body>I will be a little late tomorrow because I am attending a dinner at 7 and it should be about an hour long</body>
+    </message>
+    <message id="m0001" participant="136282" time="2012-12-05 06:35:29 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

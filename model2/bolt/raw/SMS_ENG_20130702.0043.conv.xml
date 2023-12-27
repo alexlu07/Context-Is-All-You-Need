@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130702.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137314" time="2013-07-02 21:21:20 UTC">
+      <body>A glorious outfit. I don't even know what I'm wearing </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-02 21:28:39 UTC">
+      <body>Black tie? Semi-formal? Casual? Carnival? </body>
+    </message>
+    <message id="m0002" participant="137314" time="2013-07-03 00:07:23 UTC">
+      <body>Circus themed. </body>
+    </message>
+    <message id="m0003" participant="137314" time="2013-07-03 00:07:23 UTC">
+      <body>Jk. I really don't know </body>
+    </message>
+  </messages>
+</conversation>

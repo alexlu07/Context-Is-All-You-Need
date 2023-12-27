@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131493" time="2013-05-26 20:00:56 UTC">
+      <body>15 min away</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-05-26 20:01:44 UTC">
+      <body> Okay! They're not here yet (knock on wood)</body>
+    </message>
+  </messages>
+</conversation>

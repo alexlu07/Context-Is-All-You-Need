@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121102.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-11-02 15:57:33 UTC">
+      <body>What yo</body>
+    </message>
+    <message id="m0001" participant="131015" time="2012-11-02 15:58:20 UTC">
+      <body>What are you up to today?</body>
+    </message>
+    <message id="m0002" participant="136730" time="2012-11-02 16:34:05 UTC">
+      <body>Workin till 7. What's up u gonna. N town</body>
+    </message>
+    <message id="m0003" participant="131015" time="2012-11-02 16:36:05 UTC">
+      <body>I just had a delivery in Bridgeton. Was going to stop by and say hi. I'm a couple miles away from your house.</body>
+    </message>
+    <message id="m0004" participant="136730" time="2012-11-02 17:06:05 UTC">
+      <body>:( sorry</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120405.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131315" time="2012-04-05 18:15:25 UTC">
+      <body>Nah I'm in Philly prepping for a short. Thanks for hitting me up though!</body>
+    </message>
+    <message id="m0002" participant="131315" time="2012-04-05 18:18:40 UTC">
+      <body>No doubt. Of course, man! Hope we can work on something soon. </body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-05 18:54:30 UTC">
+      <body>Yeah def</body>
+    </message>
+  </messages>
+</conversation>

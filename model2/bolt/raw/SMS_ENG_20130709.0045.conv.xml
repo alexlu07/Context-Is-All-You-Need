@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-09 01:35:45 UTC">
+      <body>Did you order a bottle at the club?</body>
+    </message>
+    <message id="m0001" participant="136666" time="2013-07-09 01:36:26 UTC">
+      <body>No as far as I know Tiju did but he said he paid for it independently</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-09 02:30:57 UTC">
+      <body>Ok. Still need the 29 for carl's food</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140316.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-16 15:02:42 UTC" participant="152417">
+      <body>Lois would like to know if you can come to the rehearsal before the end.  Does 4 work? Btw its in the flynn dance studio on street level on main st</body>
+    </message>
+    <message id="m0001" time="2014-03-16 15:06:03 UTC" participant="152484">
+      <body>Hmmm. We can certainly aim for 4! We might be a little sweaty and still in snowshoeingn clothes</body>
+    </message>
+    <message id="m0002" time="2014-03-16 15:06:38 UTC" participant="152417">
+      <body>Thats fine</body>
+    </message>
+    <message id="m0003" time="2014-03-16 19:50:24 UTC" participant="152484">
+      <body>We are in route to Burlington. Be there soon!</body>
+    </message>
+  </messages>
+</conversation>
+

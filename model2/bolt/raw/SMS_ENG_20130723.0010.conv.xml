@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134066" time="2013-07-23 16:10:09 UTC">
+      <body>Hey, how's your day going?</body>
+    </message>
+    <message id="m0001" participant="130978" time="2013-07-23 20:23:59 UTC">
+      <body>Soggy but not too bad. The workers @ my favorite restaurant are on strike. WTF?!? You?</body>
+    </message>
+    <message id="m0002" participant="134066" time="2013-07-23 22:10:59 UTC">
+      <body>Had to work. Otherwise not much...</body>
+    </message>
+  </messages>
+</conversation>

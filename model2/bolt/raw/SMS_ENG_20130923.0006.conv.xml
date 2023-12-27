@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130923.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-23 17:15:37 UTC" participant="154352">
+      <body>How's things and stuff?</body>
+    </message>
+    <message id="m0001" time="2013-09-23 18:52:47 UTC" participant="154406">
+      <body> crazy busy you? weekend was full of awesome trips tho</body>
+    </message>
+    <message id="m0002" time="2013-09-23 19:43:02 UTC" participant="154352">
+      <body>cool. My weekmiddle and weekend have been just the right about of crazy and busy.</body>
+    </message>
+    <message id="m0003" time="2013-09-23 19:44:47 UTC" participant="154352">
+      <body>I heard about a good concert at festival pier this Friday. Interested?</body>
+    </message>
+    <message id="m0004" time="2013-09-23 20:07:28 UTC" participant="154406">
+      <body>ill be in the gunks in n</body>
+    </message>
+    <message id="m0005" time="2013-09-23 21:11:57 UTC" participant="154352">
+      <body>what is gunks in n?</body>
+    </message>
+    <message id="m0006" time="2013-09-23 21:42:46 UTC" participant="154406">
+      <body>climbing</body>
+    </message>
+  </messages>
+</conversation>
+

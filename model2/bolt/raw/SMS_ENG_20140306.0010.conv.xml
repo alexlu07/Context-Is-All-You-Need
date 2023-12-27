@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140306.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-06 14:59:59 UTC" participant="153548">
+      <body>I miss you!</body>
+    </message>
+    <message id="m0001" time="2014-03-06 15:00:38 UTC" participant="153548">
+      <body>We have been looking at houses in Nashville and asheville NC</body>
+    </message>
+    <message id="m0002" time="2014-03-06 15:23:44 UTC" participant="153649">
+      <body>Whoa! When are you thinking of moving? I miss you.</body>
+    </message>
+    <message id="m0003" time="2014-03-06 15:26:15 UTC" participant="153548">
+      <body>I don't know. We have been obsessively looking before every night. We are taking a road trip in May to check out the cities.</body>
+    </message>
+    <message id="m0004" time="2014-03-06 15:26:41 UTC" participant="153548">
+      <body>I've never been to either</body>
+    </message>
+    <message id="m0005" time="2014-03-06 15:30:08 UTC" participant="153649">
+      <body>They're both pretty nice. Maybe Asheville is cooler?</body>
+    </message>
+    <message id="m0006" time="2014-03-06 15:54:36 UTC" participant="153548">
+      <body>Yeah I think that's the ideal. Nashville has been blowing up this year. I just wanna check it out.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131214.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-14 21:44:57 UTC" participant="152417">
+      <body>Wanna play a jazz gig fri the 27th at skinny pancake?</body>
+    </message>
+    <message id="m0001" time="2013-12-15 04:24:15 UTC" participant="152427">
+      <body>Yeah I'm down if it's in the evening...any idea what time?</body>
+    </message>
+    <message id="m0002" time="2013-12-15 04:24:32 UTC" participant="152427">
+      <body>Cool count me in </body>
+    </message>
+  </messages>
+</conversation>
+

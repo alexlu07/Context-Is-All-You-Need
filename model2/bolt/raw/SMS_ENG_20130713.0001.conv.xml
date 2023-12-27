@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0001" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-13 10:53:41 UTC">
+      <body>Hi Lala. How are you today?</body>
+    </message>
+    <message id="m0001" participant="130710" time="2013-07-13 10:55:08 UTC">
+      <body>Hey Good, but today is actually a bad day for texting. Sorry</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-13 11:04:57 UTC">
+      <body>No problem. Maybe we will talk again another time. Ciao!</body>
+    </message>
+    <message id="m0003" participant="130710" time="2013-07-13 11:05:40 UTC">
+      <body>Thanks take care</body>
+    </message>
+  </messages>
+</conversation>

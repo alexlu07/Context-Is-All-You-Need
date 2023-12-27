@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140831.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-31 17:57:59 UTC" participant="153554">
+      <body>Did you see my email?</body>
+    </message>
+    <message id="m0001" time="2014-08-31 18:15:32 UTC" participant="153547">
+      <body>Hey, yeah I saw it. I was trying to get back on the wagon but I might come by if I finish making these frames</body>
+    </message>
+    <message id="m0002" time="2014-08-31 18:16:41 UTC" participant="153554">
+      <body>Cool let me know</body>
+    </message>
+    <message id="m0003" time="2014-08-31 21:18:38 UTC" participant="153547">
+      <body>Hey I'll be there in about half an hr. Should I grab beer or anything?</body>
+    </message>
+    <message id="m0004" time="2014-08-31 21:21:31 UTC" participant="153554">
+      <body>I have some berlinerweisse. But you should bring a few. We could run out quickly. </body>
+    </message>
+    <message id="m0005" time="2014-08-31 21:41:13 UTC" participant="153547">
+      <body>At your place or Tabitha ?</body>
+    </message>
+  </messages>
+</conversation>
+

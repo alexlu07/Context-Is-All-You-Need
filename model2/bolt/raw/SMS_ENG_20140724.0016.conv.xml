@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140724.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-24 23:49:55 UTC" participant="153244">
+      <body>Hey.. how are you?</body>
+    </message>
+    <message id="m0001" time="2014-07-24 23:51:53 UTC" participant="153896">
+      <body>Hi Sharkbait. Im ok</body>
+    </message>
+    <message id="m0002" time="2014-07-24 23:52:37 UTC" participant="153244">
+      <body>How's Dominique? </body>
+    </message>
+    <message id="m0003" time="2014-07-24 23:53:45 UTC" participant="153896">
+      <body>Ok, she went to her softball game with John</body>
+    </message>
+    <message id="m0004" time="2014-07-24 23:55:32 UTC" participant="153244">
+      <body>Ok, I text her earlier but didn't want to linger on it. Figured she would be getting a lot from others as well.</body>
+    </message>
+    <message id="m0005" time="2014-07-24 23:55:40 UTC" participant="153244">
+      <body>If you guys need anything let me know</body>
+    </message>
+  </messages>
+</conversation>
+

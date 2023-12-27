@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 22:19:12 UTC" participant="153804">
+      <body>Oh by the way how was your visit with Sophie this weekend?</body>
+    </message>
+    <message id="m0001" time="2015-03-03 22:20:59 UTC" participant="153558">
+      <body>It was good to see her but the weather was bad</body>
+    </message>
+    <message id="m0002" time="2015-03-03 22:21:10 UTC" participant="153558">
+      <body>And I didn't feel well </body>
+    </message>
+    <message id="m0003" time="2015-03-03 22:21:42 UTC" participant="153804">
+      <body>When did she have to go back?</body>
+    </message>
+    <message id="m0004" time="2015-03-03 22:21:56 UTC" participant="153558">
+      <body>This morning </body>
+    </message>
+    <message id="m0005" time="2015-03-03 22:22:33 UTC" participant="153804">
+      <body>Why weren't you feeling well?</body>
+    </message>
+    <message id="m0006" time="2015-03-03 22:23:32 UTC" participant="153558">
+      <body>My new medication has increased the ringing and the numbness </body>
+    </message>
+    <message id="m0007" time="2015-03-03 22:24:41 UTC" participant="153804">
+      <body>Do you really think the medication is causing this you just started it didn't you?</body>
+    </message>
+    <message id="m0008" time="2015-03-03 22:25:37 UTC" participant="153558">
+      <body>Yes and yes</body>
+    </message>
+    <message id="m0009" time="2015-03-03 22:26:20 UTC" participant="153804">
+      <body>When do you go back to the doctor?</body>
+    </message>
+    <message id="m0010" time="2015-03-03 22:26:51 UTC" participant="153558">
+      <body>23rd</body>
+    </message>
+    <message id="m0011" time="2015-03-03 22:27:29 UTC" participant="153804">
+      <body>Keep track of all these symptoms and dates so you can show the doctor then</body>
+    </message>
+    <message id="m0012" time="2015-03-03 22:27:52 UTC" participant="153558">
+      <body>I emailed her</body>
+    </message>
+    <message id="m0013" time="2015-03-03 22:28:22 UTC" participant="153804">
+      <body> that's good.</body>
+    </message>
+    <message id="m0014" time="2015-03-04 19:20:20 UTC" participant="153558">
+      <body>Dr said my scans were fine, normal. But my BP is still too high even on meds</body>
+    </message>
+    <message id="m0015" time="2015-03-04 20:32:25 UTC" participant="153804">
+      <body>glad the scans were normal does she have a plan for your blood pressure meds?</body>
+    </message>
+    <message id="m0016" time="2015-03-04 20:33:11 UTC" participant="153558">
+      <body>I don't know</body>
+    </message>
+  </messages>
+</conversation>
+

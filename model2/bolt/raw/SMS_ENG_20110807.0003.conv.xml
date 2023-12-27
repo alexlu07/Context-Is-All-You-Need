@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110807.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135100" time="2011-08-07 18:08:23 UTC">
+      <body>Jam tonight?  </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-07 18:41:23 UTC">
+      <body>I'm available!</body>
+    </message>
+    <message id="m0002" participant="135100" time="2011-08-07 19:20:00 UTC">
+      <body>Cool, 830 then</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-08 01:14:09 UTC">
+      <body>Cross streets again?</body>
+    </message>
+    <message id="m0004" participant="135100" time="2011-08-08 01:22:45 UTC">
+      <body>Glenwood and girard</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-21 23:15:06 UTC" participant="152560">
+      <body>Have fun tonight love-wish I was there!</body>
+    </message>
+    <message id="m0001" time="2013-06-22 03:08:44 UTC" participant="152560">
+      <body>Out of work early-heading back to the house.</body>
+    </message>
+    <message id="m0002" time="2013-06-22 03:11:29 UTC" participant="152417">
+      <body>Im at radiobean, ill head home soon</body>
+    </message>
+    <message id="m0003" time="2013-06-22 03:19:09 UTC" participant="152560">
+      <body>Want me to meet u there?</body>
+    </message>
+    <message id="m0004" time="2013-06-22 03:27:14 UTC" participant="152417">
+      <body>Oops, i just biked home, i thought you had your car</body>
+    </message>
+  </messages>
+</conversation>
+

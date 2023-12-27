@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136163" time="2013-06-27 23:34:24 UTC">
+      <body>I got a good rain-free ride in. How is the bussing?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-06-27 23:36:05 UTC">
+      <body>boring. cheesits and cherries for dinner. they probably think i'm that weird girl who eats fruit on the bus. glad you got a ride in! </body>
+    </message>
+    <message id="m0002" participant="136163" time="2013-06-27 23:37:56 UTC">
+      <body> let em think whatever. Keep  em guessing!</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-06-28 04:45:38 UTC">
+      <body>made it here safe! </body>
+    </message>
+    <message id="m0004" participant="136163" time="2013-06-28 04:46:42 UTC">
+      <body>Yay! Thanks for letting me know!</body>
+    </message>
+  </messages>
+</conversation>

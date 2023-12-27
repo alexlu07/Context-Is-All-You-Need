@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140511.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-11 15:50:45 UTC" participant="152429">
+      <body>Dad says to call mom</body>
+    </message>
+    <message id="m0001" time="2014-05-11 15:53:49 UTC" participant="152417">
+      <body>Just did, no answer</body>
+    </message>
+    <message id="m0002" time="2014-05-11 16:00:00 UTC" participant="152429">
+      <body>Oh idk we're at brunch</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120928.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-09-28 01:57:08 UTC">
+      <body>Hey, where are you?</body>
+    </message>
+    <message id="m0001" participant="131825" time="2012-09-28 01:57:20 UTC">
+      <body>With Regina </body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-09-28 02:02:05 UTC">
+      <body>Where? Can I come?</body>
+    </message>
+    <message id="m0003" participant="131825" time="2012-09-28 02:08:00 UTC">
+      <body>I think tonight it just has to be us girls :/ </body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-09-28 02:19:43 UTC">
+      <body>I understand. I'm in my room if you want me to bring you anything. Not picking up 21 strangers.</body>
+    </message>
+    <message id="m0005" participant="131825" time="2012-09-28 02:20:11 UTC">
+      <body>Kk thanks :) </body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-09-28 02:23:14 UTC">
+      <body>Do you know what she's going to do for meals?</body>
+    </message>
+    <message id="m0007" participant="131825" time="2012-09-28 02:45:59 UTC">
+      <body> Don't know</body>
+    </message>
+    <message id="m0008" participant="131821" time="2012-09-28 02:47:43 UTC">
+      <body>If she does anything with d-hall, 2014 ninnerlies twice a week we should. But obviously that's talk for later.</body>
+    </message>
+    <message id="m0009" participant="131825" time="2012-09-28 03:16:48 UTC">
+      <body>For sure yes we should </body>
+    </message>
+  </messages>
+</conversation>

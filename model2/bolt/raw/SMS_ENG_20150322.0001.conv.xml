@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150322.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0002" time="2015-03-22 13:28:56 UTC" participant="152120">
+      <body/>
+    </message>
+    <message id="m0003" time="2015-03-22 13:29:00 UTC" participant="152120">
+      <body>This guy</body>
+    </message>
+    <message id="m0004" time="2015-03-22 13:32:52 UTC" participant="152120">
+      <body>When are you stopping by?</body>
+    </message>
+    <message id="m0005" time="2015-03-22 13:33:35 UTC" participant="152115">
+      <body>Around 10. I have to get into the bathroom.</body>
+    </message>
+    <message id="m0006" time="2015-03-22 13:34:06 UTC" participant="152120">
+      <body>Okie dokie</body>
+    </message>
+  </messages>
+</conversation>
+

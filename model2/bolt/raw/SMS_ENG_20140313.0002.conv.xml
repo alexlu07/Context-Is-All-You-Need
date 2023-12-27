@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 00:19:52 UTC" participant="152535">
+      <body>Yo! We ride tomorrow!! Im shooting for a full day so say see you at 8?</body>
+    </message>
+    <message id="m0001" time="2014-03-13 00:22:23 UTC" participant="152417">
+      <body>Awesome!  The earlier the better.  I may need to be in williston at 4 though</body>
+    </message>
+    <message id="m0002" time="2014-03-13 02:12:16 UTC" participant="152535">
+      <body>Cool man. See you early</body>
+    </message>
+    <message id="m0003" time="2014-03-13 11:17:55 UTC" participant="152417">
+      <body>How are the roads? Can we get there in one piece?</body>
+    </message>
+    <message id="m0004" time="2014-03-13 11:35:28 UTC" participant="152535">
+      <body>Only one way to find out. I have new winter tires.  No worries</body>
+    </message>
+    <message id="m0005" time="2014-03-13 11:35:28 UTC" participant="152535">
+      <body>I will be there soon</body>
+    </message>
+  </messages>
+</conversation>
+

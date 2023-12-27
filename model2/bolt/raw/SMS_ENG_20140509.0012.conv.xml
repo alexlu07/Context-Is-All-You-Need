@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140509.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-09 22:58:32 UTC" participant="153547">
+      <body>My mom is very excited about her night cream gift</body>
+    </message>
+    <message id="m0001" time="2014-05-09 23:00:00 UTC" participant="149383">
+      <body>That is so nice to hear!</body>
+    </message>
+    <message id="m0002" time="2014-05-09 23:04:37 UTC" participant="153547">
+      <body>Also I'm probably selling my house at some point in the next year or so if you are still thinking about getting a place. You should come over and check it out regardless</body>
+    </message>
+  </messages>
+</conversation>
+

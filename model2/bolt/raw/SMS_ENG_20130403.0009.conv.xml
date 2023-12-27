@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130403.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-03 14:32:37 UTC">
+      <body>Hey Dad do you have $300 I can borrow? I can get it back to you next Friday the 12th. I was supposed to get a check for $500 from a study this Monday but something happened with there payroll and now I won't get until next Fri. I have student loan payment</body>
+    </message>
+    <message id="m0001" participant="132550" time="2013-04-03 14:35:07 UTC">
+      <body>Sure. How do we make the exchange?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-03 14:38:46 UTC">
+      <body>Can you send electronically through pop money the way I was sending you money before?</body>
+    </message>
+    <message id="m0003" participant="132550" time="2013-04-03 14:52:36 UTC">
+      <body>Don't know how</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-04-03 14:54:48 UTC">
+      <body>Wachovia right?</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-04-03 15:01:31 UTC">
+      <body>oh wells Fargo now?</body>
+    </message>
+    <message id="m0006" participant="132550" time="2013-04-03 15:01:37 UTC">
+      <body>Wells Fargo</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-04-03 15:02:30 UTC">
+      <body> Under view your accounts on homepage you should go to transfer money and sign in. Or goto popmoney.com</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-04-03 15:05:11 UTC">
+      <body>Your account should be set up since you have received money from me through the service</body>
+    </message>
+    <message id="m0009" participant="132550" time="2013-04-03 15:10:04 UTC">
+      <body>I'll need your acct info too, right?</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-04-03 15:15:29 UTC">
+      <body>Just my phone number I believe</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-04-03 19:17:03 UTC">
+      <body>No luck?</body>
+    </message>
+    <message id="m0012" participant="132550" time="2013-04-03 19:17:43 UTC">
+      <body>
+Have to do it when I get home</body>
+    </message>
+    <message id="m0013" participant="130747" time="2013-04-03 19:18:03 UTC">
+      <body>K.</body>
+    </message>
+    <message id="m0014" participant="130747" time="2013-04-03 21:15:00 UTC">
+      <body> Got notification thanks</body>
+    </message>
+  </messages>
+</conversation>

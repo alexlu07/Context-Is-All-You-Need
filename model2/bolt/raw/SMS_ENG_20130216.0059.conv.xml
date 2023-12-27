@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-16 19:39:36 UTC">
+      <body>hey, hope you're feeling better! are you planning to come to church tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-02-16 19:45:38 UTC">
+      <body>Yep! I'll be at the circle ~9:20</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-16 19:45:53 UTC">
+      <body>cool, thanks! </body>
+    </message>
+  </messages>
+</conversation>

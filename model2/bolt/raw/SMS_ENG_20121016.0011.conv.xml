@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121016.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-16 03:24:23 UTC">
+      <body>I have a crazy idea</body>
+    </message>
+    <message id="m0001" participant="136279" time="2012-10-16 03:26:28 UTC">
+      <body>Omg tell me.</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-16 16:17:55 UTC">
+      <body>It's too crazy for texting. I'll have to call you later</body>
+    </message>
+    <message id="m0003" participant="136279" time="2012-10-16 21:16:14 UTC">
+      <body>Okay! Cant wait to hear it, ill call you at around 10, that OK?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-16 21:17:15 UTC">
+      <body>Awesome! I think you'll like it</body>
+    </message>
+    <message id="m0005" participant="136279" time="2012-10-16 21:18:27 UTC">
+      <body>Haha okay. (#hardtoimpress)</body>
+    </message>
+  </messages>
+</conversation>

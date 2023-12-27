@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 00:32:18 UTC" participant="153653">
+      <body>I'm off on Monday !!!</body>
+    </message>
+    <message id="m0001" time="2014-07-30 00:32:33 UTC" participant="153653">
+      <body/>
+    </message>
+    <message id="m0002" time="2014-07-30 00:58:02 UTC" participant="153548">
+      <body>YESSSS! </body>
+    </message>
+    <message id="m0003" time="2014-07-30 00:58:09 UTC" participant="153548">
+      <body>So excited!!</body>
+    </message>
+    <message id="m0004" time="2014-07-30 00:58:26 UTC" participant="153653">
+      <body>Me too!!!!</body>
+    </message>
+  </messages>
+</conversation>
+

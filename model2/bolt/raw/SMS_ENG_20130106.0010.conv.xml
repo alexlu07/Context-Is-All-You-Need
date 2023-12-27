@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130106.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-01-06 01:41:50 UTC">
+      <body>Probably too late but cigars might be nice</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-01-06 03:51:37 UTC">
+      <body>Let's plan to leave our places at 930. Meaning in ur car at 930. Don't be late. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-01-06 04:43:13 UTC">
+      <body>I'll call u in the morning </body>
+    </message>
+    <message id="m0003" participant="134277" time="2013-01-06 04:45:00 UTC">
+      <body>Works for me. No dice on cigars. Store was closed.</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-01-06 04:45:23 UTC">
+      <body>Yeah figured. Thought of it too late</body>
+    </message>
+  </messages>
+</conversation>

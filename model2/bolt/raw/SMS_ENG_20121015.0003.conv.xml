@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121015.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2012-10-15 20:27:51 UTC">
+      <body>Sorry I had to talk. How are you guys doung? </body>
+    </message>
+    <message id="m0001" participant="131064" time="2012-10-15 20:27:55 UTC">
+      <body>Talk before 3 pm?</body>
+    </message>
+    <message id="m0002" participant="131019" time="2012-10-15 20:32:49 UTC">
+      <body>We're good (: and I'm going grocery shoppig but call me when you can and if ican talk we will for a bit(: I love you daddy</body>
+    </message>
+    <message id="m0003" participant="131064" time="2012-10-15 20:43:44 UTC">
+      <body>I love u Sarichka:)</body>
+    </message>
+    <message id="m0004" participant="131019" time="2012-10-16 18:47:54 UTC">
+      <body>Can you talk in 5 minutes?</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-10-16 18:48:29 UTC">
+      <body>Da</body>
+    </message>
+  </messages>
+</conversation>

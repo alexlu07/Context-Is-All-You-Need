@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0083" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-05 03:24:23 UTC" participant="153418">
+      <body>I'm going to school at 10:45 tomorrow. Sorry for letting you know so late; I forgot you don't have class til 1.</body>
+    </message>
+    <message id="m0001" time="2013-06-05 03:33:28 UTC" participant="153445">
+      <body>Oh okay thanks for letting me know! I have an interview at 10, so do you want to go at regular time? </body>
+    </message>
+    <message id="m0002" time="2013-06-05 03:34:06 UTC" participant="153418">
+      <body>Oh. Just come at regular time then. </body>
+    </message>
+    <message id="m0003" time="2013-06-05 03:34:56 UTC" participant="153445">
+      <body>Thanks! I'll see you tomorrow</body>
+    </message>
+  </messages>
+</conversation>
+

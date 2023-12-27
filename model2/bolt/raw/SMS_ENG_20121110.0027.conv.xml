@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-10 02:24:53 UTC" participant="152420">
+      <body>What time u want us?</body>
+    </message>
+    <message id="m0001" time="2012-11-10 02:38:42 UTC" participant="152417">
+      <body>1030</body>
+    </message>
+    <message id="m0002" time="2012-11-10 21:55:25 UTC" participant="152417">
+      <body>All black for st mikes? </body>
+    </message>
+    <message id="m0003" time="2012-11-10 21:58:23 UTC" participant="152420">
+      <body>Yeah. </body>
+    </message>
+    <message id="m0004" time="2012-11-10 23:16:20 UTC" participant="152420">
+      <body>Tarrant hall south entrance building on the left. </body>
+    </message>
+  </messages>
+</conversation>
+

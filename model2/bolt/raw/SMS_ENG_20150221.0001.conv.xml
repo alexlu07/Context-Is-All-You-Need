@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150221.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-21 19:36:59 UTC" participant="152115">
+      <body>Are you going to Wal-Mart?</body>
+    </message>
+    <message id="m0001" time="2015-02-21 19:56:17 UTC" participant="152117">
+      <body>Been there already. All on our way to shop right now. What did you need? Love mom</body>
+    </message>
+    <message id="m0002" time="2015-02-21 19:57:03 UTC" participant="152115">
+      <body>Never mind. Michael needed creamer.</body>
+    </message>
+    <message id="m0003" time="2015-02-21 19:57:28 UTC" participant="152115">
+      <body>He'll get it some other time.</body>
+    </message>
+    <message id="m0004" time="2015-02-21 19:58:06 UTC" participant="152117">
+      <body>I bought a next or one so we can share it don't worry about it</body>
+    </message>
+    <message id="m0005" time="2015-02-21 19:58:21 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

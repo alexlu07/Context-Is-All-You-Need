@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130131.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131358" time="2013-01-31 15:26:40 UTC">
+      <body>Can u do ~ 3?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-01-31 15:42:52 UTC">
+      <body>no...but i can do later.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-01-31 15:43:58 UTC">
+      <body>5pm?</body>
+    </message>
+    <message id="m0003" participant="131358" time="2013-01-31 15:46:38 UTC">
+      <body>That works but no later</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-01-31 15:47:12 UTC">
+      <body>cool. see you then!</body>
+    </message>
+  </messages>
+</conversation>

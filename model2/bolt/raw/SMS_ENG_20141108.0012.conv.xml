@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141108.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-08 12:26:18 UTC" participant="153547">
+      <body>Hey Kurt, I hate to do this so last minute but I need to cancel for today, my friend is getting here at 11am and I'm afraid I won't be back in time. I can do it tomorrow as my guest is leaving late tonight. I could still do it today if it is pretty close but it seemed like it was more than 45 minutes away </body>
+    </message>
+    <message id="m0001" time="2014-11-08 12:32:39 UTC" participant="153602">
+      <body>That's fine. I have to call the guy at 8am to arrange a plan. I'll let you know where it stands.</body>
+    </message>
+    <message id="m0002" time="2014-11-08 12:34:07 UTC" participant="153547">
+      <body>Well it looks like we could possibly make it in time but it's too close for comfort. Tomorrow would be better </body>
+    </message>
+    <message id="m0003" time="2014-11-08 12:35:12 UTC" participant="153602">
+      <body>What time tomorrow is good for you?</body>
+    </message>
+    <message id="m0004" time="2014-11-08 12:38:55 UTC" participant="153547">
+      <body>Whenever</body>
+    </message>
+    <message id="m0005" time="2014-11-08 12:39:25 UTC" participant="153547">
+      <body>But getting it over with in the morning would be nice</body>
+    </message>
+    <message id="m0006" time="2014-11-08 12:41:14 UTC" participant="153602">
+      <body>Alright. Around this time. Let you know in about a half hour.</body>
+    </message>
+    <message id="m0007" time="2014-11-08 13:30:13 UTC" participant="153602">
+      <body>This guy says he won't be around until 1pm tomorrow. Middle of the day. Kinda sucks. Let me know.</body>
+    </message>
+  </messages>
+</conversation>
+

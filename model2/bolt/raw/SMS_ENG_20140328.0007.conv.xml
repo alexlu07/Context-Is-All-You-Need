@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140328.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-28 21:54:58 UTC" participant="153491">
+      <body>Thanks Frappe!</body>
+    </message>
+    <message id="m0001" time="2014-03-28 23:43:43 UTC" participant="153491">
+      <body>Be there in 10 minutes.</body>
+    </message>
+    <message id="m0002" time="2014-03-28 23:44:09 UTC" participant="153491">
+      <body>I'm on Snyder and Passyunk.</body>
+    </message>
+    <message id="m0003" time="2014-03-28 23:44:54 UTC" participant="152116">
+      <body>Okay.  You're going to park near Eden's?</body>
+    </message>
+    <message id="m0004" time="2014-03-28 23:45:22 UTC" participant="153491">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" time="2014-03-28 23:45:37 UTC" participant="152116">
+      <body>K</body>
+    </message>
+    <message id="m0006" time="2014-03-29 19:04:33 UTC" participant="152116">
+      <body>Reservation's for 7:30</body>
+    </message>
+    <message id="m0007" time="2014-03-29 19:35:06 UTC" participant="153491">
+      <body>At Betty's?</body>
+    </message>
+    <message id="m0008" time="2014-03-29 19:36:32 UTC" participant="152116">
+      <body>Smokin Betty's. unless you don't want that</body>
+    </message>
+    <message id="m0009" time="2014-03-29 19:53:37 UTC" participant="153491">
+      <body>Cool cool. Sorry just for hone not too long ago. Going to hop in the shower now.</body>
+    </message>
+    <message id="m0010" time="2014-03-29 19:54:28 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

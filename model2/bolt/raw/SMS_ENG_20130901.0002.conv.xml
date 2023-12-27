@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130901.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-01 15:40:13 UTC" participant="152486">
+      <body>Free dining room table on decatur st curb, may be an upgrade?</body>
+    </message>
+    <message id="m0001" time="2013-09-01 15:43:11 UTC" participant="152417">
+      <body>Nah, its wobbly</body>
+    </message>
+    <message id="m0002" time="2013-09-01 15:51:27 UTC" participant="152486">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

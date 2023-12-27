@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141209.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-09 14:30:09 UTC" participant="153548">
+      <body>Dan! I'll probably get to the studio around 10:45. Trying to finish a few things at the house this morning</body>
+    </message>
+    <message id="m0001" time="2014-12-09 16:04:16 UTC" participant="153665">
+      <body>Hey. I really suck, but I'm not going to make it down there today. Alethia had to take the car for work this morning. I would take the train and the subway, but it is pouring, and going to all day. I'm sorry. Rain check please.</body>
+    </message>
+    <message id="m0002" time="2014-12-09 16:05:30 UTC" participant="153548">
+      <body>Hey no worries. It took everything out of me to get out of the house and I only had to go 10 blocks. (I drove like an asshole). We can try again soon!</body>
+    </message>
+    <message id="m0003" time="2014-12-09 16:06:01 UTC" participant="153665">
+      <body>Thanks, Lindsey. </body>
+    </message>
+  </messages>
+</conversation>
+

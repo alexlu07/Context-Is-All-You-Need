@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-06-12 13:20:43 UTC">
+      <body>How's it been??</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-06-12 14:43:45 UTC">
+      <body>Good. You?</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-06-12 22:08:58 UTC">
+      <body>Areyou there?</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-06-12 22:12:47 UTC">
+      <body>Yeah I'm at work bartending</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-06-12 22:13:57 UTC">
+      <body>Ok. Check ya later!</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-06-12 22:16:08 UTC">
+      <body>My bad, I usually tell people I'm chatting with before I go into work</body>
+    </message>
+  </messages>
+</conversation>

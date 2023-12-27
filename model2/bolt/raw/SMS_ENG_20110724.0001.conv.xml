@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110724.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-24 22:33:07 UTC">
+      <body>Can you look for my ring? I think it's in my room on the floor</body>
+    </message>
+    <message id="m0001" participant="135103" time="2011-07-24 22:42:29 UTC">
+      <body>It's here</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-24 22:42:56 UTC">
+      <body>Thanks mom!</body>
+    </message>
+  </messages>
+</conversation>

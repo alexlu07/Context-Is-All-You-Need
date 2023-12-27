@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130903.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-03 17:45:16 UTC" participant="154352">
+      <body>There's a community theater production of avenue q in my neighborhood this Saturday. Interested?</body>
+    </message>
+    <message id="m0001" time="2013-09-03 17:46:34 UTC" participant="154404">
+      <body>I would love to go but I already have plans this weekend. :-(</body>
+    </message>
+    <message id="m0002" time="2013-09-03 17:46:45 UTC" participant="154404">
+      <body>Thanks for asking!</body>
+    </message>
+    <message id="m0003" time="2013-09-03 17:49:53 UTC" participant="154404">
+      <body>Between my friend being in town this weekend and going to Cali next weekend I'm quite busy. Hopefully I'll be up to Philly when I return.</body>
+    </message>
+    <message id="m0004" time="2013-09-03 18:48:38 UTC" participant="154352">
+      <body>You sound pretty busy</body>
+    </message>
+  </messages>
+</conversation>
+

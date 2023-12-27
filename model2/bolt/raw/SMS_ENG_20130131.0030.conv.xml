@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130131.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-01-31 01:57:53 UTC">
+      <body>Happy birthday babygurl!  I hope you're having a wonderful day.</body>
+    </message>
+    <message id="m0001" participant="136725" time="2013-01-31 02:00:19 UTC">
+      <body>Come to asb</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-01-31 02:17:12 UTC">
+      <body>I really can't tonight. I'm sorry but we'll definitely kick it soon.</body>
+    </message>
+    <message id="m0003" participant="136725" time="2013-01-31 02:17:48 UTC">
+      <body>Sat?</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-01-31 02:19:22 UTC">
+      <body>Yeah!   See you at the raging ground hogs day party.</body>
+    </message>
+  </messages>
+</conversation>

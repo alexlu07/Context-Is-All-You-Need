@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-03-28 21:13:05 UTC">
+      <body>How is your week going beautiful?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-29 01:16:47 UTC">
+      <body>good, just finishing up school stuff so i can relax this weekend. ready for your trip? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-03-29 01:53:08 UTC">
+      <body>All good to go but for the packing.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-29 15:03:14 UTC">
+      <body>travel safe today! have a good trip! </body>
+    </message>
+  </messages>
+</conversation>

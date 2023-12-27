@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150208.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-08 16:59:38 UTC" participant="153244">
+      <body>Can I do laundry? </body>
+    </message>
+    <message id="m0001" time="2015-02-08 23:46:05 UTC" participant="153900">
+      <body>Are You getting your clothes tonight</body>
+    </message>
+    <message id="m0002" time="2015-02-08 23:49:22 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0003" time="2015-02-08 23:50:49 UTC" participant="153900">
+      <body>Do you and step want ravioli for lunch tomorrow </body>
+    </message>
+    <message id="m0004" time="2015-02-08 23:51:12 UTC" participant="153244">
+      <body>Sure!</body>
+    </message>
+    <message id="m0005" time="2015-02-08 23:51:45 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2015-02-09 10:57:15 UTC" participant="153900">
+      <body>If you are driving be careful because there is black ice on the roads</body>
+    </message>
+    <message id="m0007" time="2015-02-09 11:00:57 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

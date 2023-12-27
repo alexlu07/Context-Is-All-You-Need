@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150319.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-19 00:40:46 UTC" participant="153244">
+      <body>I can definitely do Friday. 
+My car is still in the shop so I'm not sure about sunday</body>
+    </message>
+    <message id="m0001" time="2015-03-19 00:44:01 UTC" participant="153893">
+      <body>Ok keep me posted</body>
+    </message>
+    <message id="m0002" time="2015-03-19 00:48:55 UTC" participant="153244">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

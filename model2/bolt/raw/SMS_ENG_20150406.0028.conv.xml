@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150406.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-06 16:28:19 UTC" participant="153783">
+      <body>Are you free for lunch right now?</body>
+    </message>
+    <message id="m0001" time="2015-04-06 16:28:45 UTC" participant="152116">
+      <body>No sorry</body>
+    </message>
+  </messages>
+</conversation>
+

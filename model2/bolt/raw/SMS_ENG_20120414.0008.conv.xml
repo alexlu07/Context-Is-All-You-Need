@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120414.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-04-14 20:57:26 UTC">
+      <body>Did you get my text about shoes?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-04-15 13:41:35 UTC">
+      <body>Yes. Thank you for reminding me!  I'll take care of that right after ditties </body>
+    </message>
+  </messages>
+</conversation>

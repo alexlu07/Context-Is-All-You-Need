@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120907.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-07 00:13:15 UTC">
+      <body>Hey, it's ####! Are you free tomorrow night? I got VIP tix to the Blues Fest.</body>
+    </message>
+    <message id="m0001" participant="131034" time="2012-09-07 00:20:13 UTC">
+      <body>Woah! That's sounds awesome.. I'm sad to say I have plans for tomorrow night. Let's do something soon though maybe next week?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-07 00:24:44 UTC">
+      <body>Yeah, they just fell into my lap! Next week sounds good...we're free most nights and ######'s out of town Thurs-Mon if you want to do a girly thing.</body>
+    </message>
+  </messages>
+</conversation>

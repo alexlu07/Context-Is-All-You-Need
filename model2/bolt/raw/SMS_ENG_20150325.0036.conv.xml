@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150325.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-25 15:19:07 UTC" participant="153660">
+      <body>Hey! Are you around this weekend at all? Let's catch up!</body>
+    </message>
+    <message id="m0001" time="2015-03-25 18:27:26 UTC" participant="153548">
+      <body>Hey!! Saturday I'm working in the studio but would love a coffee break at some point! Sunday I'm doing the admit one thing all day at uarts.</body>
+    </message>
+    <message id="m0002" time="2015-03-25 18:47:48 UTC" participant="153660">
+      <body>Oh cool! Let's do coffee on Saturday then! </body>
+    </message>
+    <message id="m0003" time="2015-03-25 22:30:15 UTC" participant="153548">
+      <body>Yes!!! Sounds great. Looking forward to it.</body>
+    </message>
+    <message id="m0004" time="2015-03-25 23:47:20 UTC" participant="153660">
+      <body>Me too!</body>
+    </message>
+  </messages>
+</conversation>
+

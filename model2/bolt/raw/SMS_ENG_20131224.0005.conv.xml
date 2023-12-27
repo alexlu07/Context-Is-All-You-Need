@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131224.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-24 18:54:56 UTC" participant="153557">
+      <body>Did you make it?✈️</body>
+    </message>
+    <message id="m0001" time="2013-12-24 23:19:45 UTC" participant="153547">
+      <body>Yeah. Merry Christmas. Did your family make it?</body>
+    </message>
+    <message id="m0002" time="2013-12-24 23:20:41 UTC" participant="153557">
+      <body>They just got here. Mom got lost in NJ.</body>
+    </message>
+    <message id="m0003" time="2013-12-24 23:32:16 UTC" participant="153557">
+      <body>Merry Christmas to you guys! </body>
+    </message>
+    <message id="m0004" time="2013-12-24 23:40:53 UTC" participant="153547">
+      <body>I just got out of church</body>
+    </message>
+    <message id="m0005" time="2013-12-24 23:41:28 UTC" participant="153547">
+      <body>It was terrible, but my dad complained the most</body>
+    </message>
+    <message id="m0006" time="2013-12-24 23:53:36 UTC" participant="153557">
+      <body>Ahahaha. Your poor mom! Give her the vitamin tonight to make up for it</body>
+    </message>
+  </messages>
+</conversation>
+

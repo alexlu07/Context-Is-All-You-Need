@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135354" time="2012-12-28 14:32:32 UTC">
+      <body>I just emailed u.</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-28 16:30:17 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-12-28 16:30:18 UTC">
+      <body>Ill call u soon</body>
+    </message>
+    <message id="m0003" participant="135354" time="2012-12-28 16:32:00 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0004" participant="135354" time="2012-12-28 20:22:24 UTC">
+      <body>R u here yet? If not, I have a ticket for you.</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-12-28 20:25:27 UTC">
+      <body>Oh I'm here</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-12-28 20:25:33 UTC">
+      <body>Are u downstairs</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-12-28 20:25:53 UTC">
+      <body>I think I need coffee now</body>
+    </message>
+    <message id="m0008" participant="135354" time="2012-12-28 20:26:40 UTC">
+      <body>Where r u</body>
+    </message>
+  </messages>
+</conversation>

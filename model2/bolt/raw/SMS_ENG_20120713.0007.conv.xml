@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120713.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-13 14:17:37 UTC">
+      <body>You busy today?</body>
+    </message>
+    <message id="m0001" participant="135355" time="2012-07-13 22:47:28 UTC">
+      <body>Reading tonight!</body>
+    </message>
+    <message id="m0002" participant="135355" time="2012-07-13 22:47:28 UTC">
+      <body>Unnameable books!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141020.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-20 17:16:48 UTC" participant="152571">
+      <body>Tomorrow- 5pm?</body>
+    </message>
+    <message id="m0001" time="2014-10-20 17:18:50 UTC" participant="152571">
+      <body>In fact, if you could, meet me at the forth floor office at 455</body>
+    </message>
+    <message id="m0002" time="2014-10-20 19:13:11 UTC" participant="152417">
+      <body>Ok, cool.  Do i have to give back my trombone? :-(</body>
+    </message>
+    <message id="m0003" time="2014-10-20 19:16:16 UTC" participant="152571">
+      <body>Yeah...unfortunately. </body>
+    </message>
+  </messages>
+</conversation>
+

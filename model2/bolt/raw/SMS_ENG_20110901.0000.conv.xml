@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110901.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-01 18:30:04 UTC">
+      <body>Lovely :) what time would you like me? Would 7 work?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-01 18:30:38 UTC">
+      <body>Or earlier, traffic just will be intense</body>
+    </message>
+    <message id="m0002" participant="135098" time="2011-09-01 18:31:22 UTC">
+      <body>Yeah that's perfect cause I work til 630.  </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-01 18:31:31 UTC">
+      <body>Taught</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-09-01 18:31:45 UTC">
+      <body>That's yayyyyy instead of taught</body>
+    </message>
+    <message id="m0005" participant="135098" time="2011-09-01 18:32:13 UTC">
+      <body>Ha :) yay!!!</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-09-01 23:37:19 UTC">
+      <body>Addressy??</body>
+    </message>
+  </messages>
+</conversation>

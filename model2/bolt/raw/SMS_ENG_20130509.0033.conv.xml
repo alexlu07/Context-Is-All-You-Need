@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-09 04:16:58 UTC">
+      <body>Hey. What's shakin'?</body>
+    </message>
+    <message id="m0001" participant="131353" time="2013-05-09 04:17:40 UTC">
+      <body>Mostly my ass lol how are you? </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-09 04:19:49 UTC">
+      <body>Alright. Your garage is saving my ass, btw. Thank you. When are you around?</body>
+    </message>
+    <message id="m0003" participant="131353" time="2013-05-09 04:20:21 UTC">
+      <body>Next week</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-05-09 04:21:10 UTC">
+      <body>I'll be in AZ...
+Soon, then.</body>
+    </message>
+    <message id="m0005" participant="131353" time="2013-05-09 05:14:28 UTC">
+      <body>Yes! </body>
+    </message>
+  </messages>
+</conversation>

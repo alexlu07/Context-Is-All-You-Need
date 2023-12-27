@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120420.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131307" time="2012-04-20 18:01:33 UTC">
+      <body>Whatcha doin tonight</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-20 20:18:06 UTC">
+      <body>Prob drinking beer somewhere. U?</body>
+    </message>
+    <message id="m0002" participant="131307" time="2012-04-20 20:18:46 UTC">
+      <body>Would like to maybe do the same</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-20 20:18:58 UTC">
+      <body>Nice</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150112.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-12 18:31:57 UTC" participant="152118">
+      <body>Hey. You don't happen to be off today, are you?</body>
+    </message>
+    <message id="m0001" time="2015-01-12 18:32:17 UTC" participant="152115">
+      <body>No. I'm at work.</body>
+    </message>
+    <message id="m0002" time="2015-01-12 18:33:51 UTC" participant="152118">
+      <body>Cause I COMPLETELY forgot that I needed to get the clicker from you. I walked into class and I was like "oh damn!" I didn't need it though thank god. Just wanted to see if I could swing by, but that's okay.</body>
+    </message>
+    <message id="m0003" time="2015-01-12 18:34:16 UTC" participant="152115">
+      <body>I'm off Wednesday and Thursday.</body>
+    </message>
+    <message id="m0004" time="2015-01-12 18:35:50 UTC" participant="152118">
+      <body>Okay! And what time will you get home tomorrow? Maybe I can pick it up since it won't be raining.</body>
+    </message>
+    <message id="m0005" time="2015-01-12 18:37:08 UTC" participant="152115">
+      <body>I get home close to eight. But you can stop by earlier and my mom can give it to you. She should be home by our before four.</body>
+    </message>
+    <message id="m0006" time="2015-01-12 18:39:09 UTC" participant="152118">
+      <body>Oh okay!!! Then I will go to your house after I get off the train tomorrow. Should be between 5-6 (my guess).</body>
+    </message>
+    <message id="m0007" time="2015-01-12 19:11:16 UTC" participant="152115">
+      <body>Ok. I'll let my mom know.</body>
+    </message>
+  </messages>
+</conversation>
+

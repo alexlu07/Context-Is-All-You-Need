@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130601.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-01 19:07:01 UTC">
+      <body>Hey sug, you around this afternoon?</body>
+    </message>
+    <message id="m0001" participant="131971" time="2013-06-01 21:56:48 UTC">
+      <body>I am, are you around your space?</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-01 22:27:57 UTC">
+      <body>Ah, just left a bit a go!</body>
+    </message>
+  </messages>
+</conversation>

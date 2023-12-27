@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140613.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-13 23:25:38 UTC" participant="153557">
+      <body>Not gonna make it home in time for tacos I don't think:(</body>
+    </message>
+    <message id="m0001" time="2014-06-14 14:45:46 UTC" participant="153547">
+      <body>Headed back now. Maybe 30 min</body>
+    </message>
+    <message id="m0002" time="2014-06-14 14:47:07 UTC" participant="153557">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0003" time="2014-06-14 18:09:50 UTC" participant="153557">
+      <body>Marvelous has a sweet set of bongos for 75. Pick those up for me I'll pay you back.</body>
+    </message>
+    <message id="m0004" time="2014-06-14 20:20:36 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-06-14 20:25:30 UTC" participant="153557">
+      <body>Jk!</body>
+    </message>
+    <message id="m0006" time="2014-06-14 20:25:30 UTC" participant="153557">
+      <body>Don't really!</body>
+    </message>
+  </messages>
+</conversation>
+

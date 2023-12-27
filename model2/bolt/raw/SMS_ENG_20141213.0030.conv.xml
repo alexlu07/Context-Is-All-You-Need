@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 23:33:17 UTC" participant="153815">
+      <body>Hi Liz. Baked some cookies for you and Tom. Will bring them up tomorrow if you are home. Then i can ask my ?'s and bring paperwork. Let me know.</body>
+    </message>
+    <message id="m0001" time="2014-12-13 23:37:23 UTC" participant="153804">
+      <body>Will be here!</body>
+    </message>
+    <message id="m0002" time="2014-12-14 19:07:10 UTC" participant="153804">
+      <body>Will be outside</body>
+    </message>
+    <message id="m0003" time="2014-12-14 19:08:06 UTC" participant="153815">
+      <body>Okay. Will be leaving here in about 15 min. Walking</body>
+    </message>
+  </messages>
+</conversation>
+

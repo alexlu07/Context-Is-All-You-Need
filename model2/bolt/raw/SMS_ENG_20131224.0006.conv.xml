@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131224.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2013-12-24 15:11:01 UTC" participant="153547">
+      <body>Just landed</body>
+    </message>
+    <message id="m0002" time="2013-12-24 15:11:54 UTC" participant="153547">
+      <body>I'll call dad when I'm off the plane</body>
+    </message>
+    <message id="m0003" time="2013-12-24 15:41:58 UTC" participant="153572">
+      <body>R u on thhe way?</body>
+    </message>
+  </messages>
+</conversation>
+

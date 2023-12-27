@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-03-01 03:36:26 UTC">
+      <body>Hey, how is your week going?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-01 03:37:23 UTC">
+      <body>really good, but it's going quickly! how's yours? </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-03-01 03:39:08 UTC">
+      <body>The same. Do you have a lot of studying to do? Are you free on sunday night?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-01 03:40:36 UTC">
+      <body>no, sunday night is good! i don't really have any more tests until next friday, just like assignment stuff, so i'm alright. </body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-03-01 03:45:32 UTC">
+      <body>Sounds good. I look forward to seeing you.</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-01 03:45:59 UTC">
+      <body>you too. :) </body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-03-01 17:07:18 UTC">
+      <body>hey, i'm so so sorry but i just remembered that i'm busy 5-8:30 on sunday. so before/after that, or maybe monday instead? </body>
+    </message>
+    <message id="m0007" participant="136150" time="2013-03-01 20:54:30 UTC">
+      <body>Let's do monday instead.</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-03-01 20:55:28 UTC">
+      <body>thank you for understanding. :) and happy friday! </body>
+    </message>
+  </messages>
+</conversation>

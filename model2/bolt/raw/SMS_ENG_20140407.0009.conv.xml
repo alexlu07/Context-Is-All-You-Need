@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140407.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-07 15:40:40 UTC" participant="153642">
+      <body>Hi, I'm in the lobby at Terra.</body>
+    </message>
+    <message id="m0001" time="2014-04-07 15:42:08 UTC" participant="153548">
+      <body>Great! Heading down!</body>
+    </message>
+  </messages>
+</conversation>
+

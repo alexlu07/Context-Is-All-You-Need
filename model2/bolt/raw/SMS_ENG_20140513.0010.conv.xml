@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140513.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-13 20:36:43 UTC" participant="153596">
+      <body>Hey hunter. This is Emily selling the encyclopedia set. Should we be expecting you today?</body>
+    </message>
+    <message id="m0001" time="2014-05-13 20:37:27 UTC" participant="153547">
+      <body>Working late. Can't do it today</body>
+    </message>
+    <message id="m0002" time="2014-05-13 20:38:26 UTC" participant="153596">
+      <body>Alright thanks </body>
+    </message>
+  </messages>
+</conversation>
+

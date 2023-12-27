@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130718.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136656" time="2013-07-18 13:44:29 UTC">
+      <body>I'm running about 15 min behind</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-07-18 13:45:06 UTC">
+      <body>Cool. No rush for me. Just let me know when you are close</body>
+    </message>
+    <message id="m0002" participant="136656" time="2013-07-18 14:19:51 UTC">
+      <body>Should be there in 10</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140127.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-27 15:28:19 UTC" participant="153900">
+      <body>The phone bill came in</body>
+    </message>
+    <message id="m0001" time="2014-01-27 16:10:47 UTC" participant="153244">
+      <body>I know</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 16:29:49 UTC" participant="152590">
+      <body>sent copy?</body>
+    </message>
+    <message id="m0001" time="2015-01-20 16:30:52 UTC" participant="152417">
+      <body>Roger</body>
+    </message>
+    <message id="m0002" time="2015-01-20 16:54:30 UTC" participant="152590">
+      <body>ent</body>
+    </message>
+    <message id="m0003" time="2015-01-20 16:54:35 UTC" participant="152590">
+      <body>sent</body>
+    </message>
+    <message id="m0004" time="2015-01-20 16:55:03 UTC" participant="152417">
+      <body>Got it</body>
+    </message>
+  </messages>
+</conversation>
+

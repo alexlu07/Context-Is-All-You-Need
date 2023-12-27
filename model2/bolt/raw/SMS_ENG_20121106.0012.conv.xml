@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-06 00:54:28 UTC">
+      <body>Can you Skype this week? Maybe Wednesday?</body>
+    </message>
+    <message id="m0001" participant="131028" time="2012-11-06 00:55:12 UTC">
+      <body>Oooh that sounds awesome. Let me check!</body>
+    </message>
+  </messages>
+</conversation>

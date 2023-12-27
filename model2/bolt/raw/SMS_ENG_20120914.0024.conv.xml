@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120914.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-09-14 17:51:09 UTC">
+      <body>Hey, what building do you work in?</body>
+    </message>
+    <message id="m0001" participant="136726" time="2012-09-14 18:06:29 UTC">
+      <body>7</body>
+    </message>
+  </messages>
+</conversation>

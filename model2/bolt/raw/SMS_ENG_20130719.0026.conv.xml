@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-07-19 18:56:23 UTC">
+      <body>Do you know what time Norristown closes?</body>
+    </message>
+    <message id="m0001" participant="136724" time="2013-07-19 18:58:47 UTC">
+      <body>4:30</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-07-19 19:06:41 UTC">
+      <body>Headed out.</body>
+    </message>
+  </messages>
+</conversation>

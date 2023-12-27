@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131010.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-10 22:06:29 UTC" participant="152116">
+      <body>What time do you or steph get home?</body>
+    </message>
+    <message id="m0001" time="2013-10-10 23:16:53 UTC" participant="153244">
+      <body>Just finished work</body>
+    </message>
+    <message id="m0002" time="2013-10-10 23:30:16 UTC" participant="153244">
+      <body>I'm home... why?</body>
+    </message>
+    <message id="m0003" time="2013-10-10 23:51:18 UTC" participant="152116">
+      <body>It's okay. I forgot my key at edens</body>
+    </message>
+    <message id="m0004" time="2013-10-10 23:56:33 UTC" participant="153244">
+      <body>Oh ok.. well we will be home all night</body>
+    </message>
+  </messages>
+</conversation>
+

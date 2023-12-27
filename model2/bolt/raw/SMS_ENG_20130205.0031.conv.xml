@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134295" time="2013-02-05 20:30:07 UTC">
+      <body>PayPal'd you the $40.</body>
+    </message>
+    <message id="m0001" participant="134295" time="2013-02-05 20:30:21 UTC">
+      <body>Thanks again!</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-02-05 20:30:40 UTC">
+      <body>Saw that meant to say thanks. No problem </body>
+    </message>
+  </messages>
+</conversation>

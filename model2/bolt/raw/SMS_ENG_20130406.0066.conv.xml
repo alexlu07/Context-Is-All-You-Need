@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-04-06 03:53:10 UTC">
+      <body>Hey. How are you? How was your week?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-06 03:59:03 UTC">
+      <body>hey! everything's good, just enjoying dooley's week. i can't wait to hear about your trip </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-04-06 04:00:41 UTC">
+      <body>What is Dooley's week?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-06 04:03:14 UTC">
+      <body>like a spirit week thing with event and stuff. kendrick lamar performed tonight. </body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-04-06 04:07:18 UTC">
+      <body>Cool. Looking forward to hearing about it.</body>
+    </message>
+  </messages>
+</conversation>

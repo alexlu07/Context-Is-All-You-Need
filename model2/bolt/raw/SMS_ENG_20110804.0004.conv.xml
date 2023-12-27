@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110804.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135129" time="2011-08-04 15:49:13 UTC">
+      <body>Lunch today?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-04 15:49:29 UTC">
+      <body>Yes please. I need it badly!</body>
+    </message>
+    <message id="m0002" participant="135129" time="2011-08-04 15:50:55 UTC">
+      <body>Oh good. Noon? 1230?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-04 15:51:14 UTC">
+      <body>1230 is good :)</body>
+    </message>
+    <message id="m0004" participant="135129" time="2011-08-04 15:51:41 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-04 16:24:38 UTC">
+      <body>Ugh in actually dying of hunger. Does 12 work instead?</body>
+    </message>
+    <message id="m0006" participant="135129" time="2011-08-04 16:27:22 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

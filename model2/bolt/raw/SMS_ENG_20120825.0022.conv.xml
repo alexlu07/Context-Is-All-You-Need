@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120825.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-08-25 19:52:06 UTC">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-08-25 19:53:01 UTC">
+      <body>Let's talk once a week? Got a gig tonite but tomorrow is great! </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-25 19:54:54 UTC">
+      <body>Sounds good! Sorry I missed your call we've been very busy!</body>
+    </message>
+  </messages>
+</conversation>

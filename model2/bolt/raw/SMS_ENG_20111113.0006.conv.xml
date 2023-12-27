@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111113.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135106" time="2011-11-13 00:41:06 UTC">
+      <body>What are your turkey day plans?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-11-13 00:43:06 UTC">
+      <body>I'm going to my friend emily's house for the holiday :) please dont tell me I'm missing a chance at being around you!</body>
+    </message>
+    <message id="m0002" participant="135106" time="2011-11-13 00:53:42 UTC">
+      <body>Oh good I'm glad you have a place to go! I just wanted to make sure that you weren't going to be abandoned :) if you were around I was gonna try to come up for a day but well just have to make that happen after Xmas!</body>
+    </message>
+  </messages>
+</conversation>

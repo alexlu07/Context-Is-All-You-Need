@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111216.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2011-12-16 01:15:07 UTC">
+      <body>Coming!!</body>
+    </message>
+    <message id="m0001" participant="131019" time="2011-12-16 02:20:41 UTC">
+      <body>Where are yiu?</body>
+    </message>
+    <message id="m0002" participant="131063" time="2011-12-16 02:22:10 UTC">
+      <body>On my way down!</body>
+    </message>
+    <message id="m0003" participant="131063" time="2011-12-16 18:22:46 UTC">
+      <body>Are you guys close to the Bart?</body>
+    </message>
+    <message id="m0004" participant="131019" time="2011-12-16 18:24:20 UTC">
+      <body>Sort</body>
+    </message>
+    <message id="m0005" participant="131019" time="2011-12-16 18:24:38 UTC">
+      <body>Of</body>
+    </message>
+    <message id="m0006" participant="131063" time="2011-12-17 00:14:47 UTC">
+      <body>Hope you had a good fight! Sorry about the rush this morning, we just barely made our flights. Have an amazing time with Johnny and let's skype soon!</body>
+    </message>
+    <message id="m0007" participant="131019" time="2011-12-17 03:13:29 UTC">
+      <body>Don't worry(: hope you had a good flight and have a great break! Def well Skype</body>
+    </message>
+  </messages>
+</conversation>

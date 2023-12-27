@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 16:30:50 UTC" participant="153547">
+      <body>Ok. Half way home. Have a good trip</body>
+    </message>
+    <message id="m0001" time="2014-08-10 19:00:09 UTC" participant="153547">
+      <body>I'm home. 112 miles in a weekend</body>
+    </message>
+    <message id="m0002" time="2014-08-10 20:53:22 UTC" participant="153557">
+      <body> Good job. I just made it to Moms.</body>
+    </message>
+    <message id="m0003" time="2014-08-10 23:01:11 UTC" participant="153547">
+      <body>Good. I'm so sore</body>
+    </message>
+    <message id="m0004" time="2014-08-11 00:37:01 UTC" participant="153547">
+      <body>When do your classes start?</body>
+    </message>
+  </messages>
+</conversation>
+

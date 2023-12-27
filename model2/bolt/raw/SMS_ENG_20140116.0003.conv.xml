@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140116.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-16 19:23:46 UTC" participant="149373">
+      <body>Hello Hunter. Happy new year! How have you been? Do you want to make dinner or go to Indian buffet sometime soon. Hope you're well.-S</body>
+    </message>
+    <message id="m0001" time="2014-01-16 23:03:33 UTC" participant="153547">
+      <body>Hey Shawn! I would love to get Indian buffet with u. Maybe on Sunday or next weekend</body>
+    </message>
+    <message id="m0002" time="2014-01-16 23:13:04 UTC" participant="149373">
+      <body>Cool. I think Sunday would be good but we can just play it by ear. </body>
+    </message>
+  </messages>
+</conversation>
+

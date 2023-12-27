@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121110.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-11-10 20:31:19 UTC">
+      <body>I can't remember who it was I was talking to last night. Did we talk about something on Tuesday coming up?</body>
+    </message>
+    <message id="m0001" participant="136729" time="2012-11-10 20:32:24 UTC">
+      <body>hmm, not sure?</body>
+    </message>
+    <message id="m0002" participant="136729" time="2012-11-10 20:32:45 UTC">
+      <body>my bands playing monday night</body>
+    </message>
+  </messages>
+</conversation>

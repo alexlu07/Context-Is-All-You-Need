@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-02-24 19:49:31 UTC">
+      <body>Bryn din?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-02-24 19:50:05 UTC">
+      <body>Dunno...I have to read 200 pages so might do a lightning dinner</body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-02-24 19:51:29 UTC">
+      <body>Ok. It only takes 50 min and good food might help.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-02-24 19:51:49 UTC">
+      <body>Ill see how I'm feeling</body>
+    </message>
+    <message id="m0004" participant="135265" time="2013-02-24 19:53:58 UTC">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130511.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131425" time="2013-05-11 20:15:35 UTC">
+      <body>Hey! I am just waking up from a nap. Can i call you later?</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-05-11 20:19:04 UTC">
+      <body>Yes! I may be sleeping at some point. Go ahead and call and if I can pickup I will. If not tonight then tomorrow. </body>
+    </message>
+    <message id="m0002" participant="131425" time="2013-05-11 20:19:56 UTC">
+      <body>Ok! </body>
+    </message>
+    <message id="m0003" participant="131425" time="2013-05-11 20:20:16 UTC">
+      <body/>
+    </message>
+    <message id="m0004" participant="130962" time="2013-05-11 20:20:19 UTC">
+      <body>☺❤☺❤</body>
+    </message>
+  </messages>
+</conversation>

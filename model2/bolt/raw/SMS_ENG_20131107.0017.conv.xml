@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131107.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-07 19:05:31 UTC" participant="154352">
+      <body>Can you drive if we all meet at your place on Saturday?</body>
+    </message>
+    <message id="m0001" time="2013-11-07 19:10:12 UTC" participant="154392">
+      <body>Ill probably be coming from Allentown straight to the show.  Also, I th</body>
+    </message>
+    <message id="m0002" time="2013-11-07 19:10:15 UTC" participant="154392">
+      <body>ink my friends have something planned so I might swing by after the show.  I might</body>
+    </message>
+    <message id="m0003" time="2013-11-07 19:10:21 UTC" participant="154392">
+      <body> know more today</body>
+    </message>
+    <message id="m0004" time="2013-11-07 19:12:09 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2013-11-07 19:44:32 UTC" participant="154392">
+      <body>Are you and that german girl going to that concert?</body>
+    </message>
+    <message id="m0006" time="2013-11-07 19:50:50 UTC" participant="154352">
+      <body>That is tonight. Yes.</body>
+    </message>
+    <message id="m0007" time="2013-11-07 19:51:29 UTC" participant="154392">
+      <body>Nice!  Good luck.</body>
+    </message>
+    <message id="m0008" time="2013-11-08 16:28:48 UTC" participant="154392">
+      <body>Is anyone going to Bonnie's ski club happy hour?  I may go for a bit but ill probably need to leave early</body>
+    </message>
+    <message id="m0009" time="2013-11-08 16:58:04 UTC" participant="154352">
+      <body>I don't think I can make it</body>
+    </message>
+  </messages>
+</conversation>
+

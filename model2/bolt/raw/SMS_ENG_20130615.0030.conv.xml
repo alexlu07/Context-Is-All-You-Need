@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-15 19:05:15 UTC">
+      <body>When did you want to meet up today?</body>
+    </message>
+    <message id="m0001" participant="135620" time="2013-06-15 20:16:53 UTC">
+      <body>Im at the gym now and have to run some errands but will probs be free sometime after 8. When will u be free?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-15 20:38:07 UTC">
+      <body>Yeah I'm free whenever. I'm not doing anything. Do u just wanna meet up at my house and we can go out from there? </body>
+    </message>
+    <message id="m0003" participant="135620" time="2013-06-15 23:31:18 UTC">
+      <body>Ya sounds good. What time should I meet you?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-15 23:38:25 UTC">
+      <body>you can come over now if u want.  I'm just sitting around. Whenever</body>
+    </message>
+    <message id="m0006" participant="135620" time="2013-06-16 00:31:12 UTC">
+      <body>K I'm running a lil late. Be there in 30!</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-06-16 00:31:53 UTC">
+      <body>OK c u then</body>
+    </message>
+    <message id="m0008" participant="135620" time="2013-06-16 01:39:23 UTC">
+      <body>Sorry my roommate wouldnt let me leave be there in 5</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-06-16 01:39:50 UTC">
+      <body>OK just ring the bell</body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-06-17 00:24:59 UTC">
+      <body>Major laser was who I was thinkin of last night...not flying lotus. Playing in philly July 27</body>
+    </message>
+  </messages>
+</conversation>

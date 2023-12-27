@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120505.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2012-05-05 18:01:36 UTC">
+      <body>So I saw you talking to someone a lot last night ;)</body>
+    </message>
+    <message id="m0001" participant="131825" time="2012-05-05 18:14:24 UTC">
+      <body>Haha what is that face?!</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-05-05 18:15:17 UTC">
+      <body>:-O</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-05-05 18:54:43 UTC">
+      <body>Surprise</body>
+    </message>
+    <message id="m0004" participant="131825" time="2012-05-05 18:54:56 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0005" participant="131821" time="2012-05-05 21:03:52 UTC">
+      <body>When are you going to tower?</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-05-05 21:28:59 UTC">
+      <body>Wait for me!</body>
+    </message>
+    <message id="m0007" participant="131825" time="2012-05-05 21:30:40 UTC">
+      <body>Now!</body>
+    </message>
+    <message id="m0008" participant="131825" time="2012-05-05 21:30:40 UTC">
+      <body>I'm in Alex's room </body>
+    </message>
+    <message id="m0009" participant="131825" time="2012-05-05 21:30:40 UTC">
+      <body>We are walking now!</body>
+    </message>
+  </messages>
+</conversation>

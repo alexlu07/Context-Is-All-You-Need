@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110625.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135113" time="2011-06-25 00:19:36 UTC">
+      <body>Hey there, hope your Friday is going swimmingly</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-25 01:04:12 UTC">
+      <body>Thanks, I just took a nap so it's going pretty well so far!</body>
+    </message>
+    <message id="m0002" participant="135113" time="2011-06-25 01:05:01 UTC">
+      <body>Hey me too</body>
+    </message>
+    <message id="m0003" participant="135113" time="2011-06-25 01:53:34 UTC">
+      <body>Big plans for tonight?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-06-25 01:55:52 UTC">
+      <body>Going to the new woody Allen movie with a friend and maybe a show after. You?</body>
+    </message>
+    <message id="m0005" participant="135113" time="2011-06-25 01:56:38 UTC">
+      <body>Just packing to go to a wedding tomorrow</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-06-25 01:57:43 UTC">
+      <body> Jordans?</body>
+    </message>
+    <message id="m0007" participant="135113" time="2011-06-25 01:58:21 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" participant="135113" time="2011-06-25 01:59:12 UTC">
+      <body> I'm kind of surprised I was invited</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-06-25 02:13:45 UTC">
+      <body>Why?</body>
+    </message>
+    <message id="m0010" participant="135113" time="2011-06-25 02:14:44 UTC">
+      <body>Well I didn't really hangout all that much with either of them.</body>
+    </message>
+    <message id="m0011" participant="131839" time="2011-06-25 02:26:18 UTC">
+      <body>Well free food and party. Can't go wrong </body>
+    </message>
+    <message id="m0012" participant="135113" time="2011-06-25 02:26:51 UTC">
+      <body>Tis true</body>
+    </message>
+  </messages>
+</conversation>

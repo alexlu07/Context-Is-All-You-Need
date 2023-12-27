@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140324.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-24 02:11:16 UTC" participant="153418">
+      <body>Hey, just wanted to let you know that I've got the check. </body>
+    </message>
+    <message id="m0001" time="2014-03-24 03:52:19 UTC" participant="153453">
+      <body>Do I got it right this time?</body>
+    </message>
+    <message id="m0002" time="2014-03-24 03:54:10 UTC" participant="153418">
+      <body>Looks good. Thanks again for your help.</body>
+    </message>
+    <message id="m0003" time="2014-03-24 03:55:49 UTC" participant="153453">
+      <body>You're very welcome. Take care.</body>
+    </message>
+  </messages>
+</conversation>
+

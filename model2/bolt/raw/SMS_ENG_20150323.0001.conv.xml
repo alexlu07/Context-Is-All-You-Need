@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150323.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-23 13:01:08 UTC" participant="152115">
+      <body>Don't call Bruce.  My jaw isn't as bad.</body>
+    </message>
+    <message id="m0001" time="2015-03-23 13:04:29 UTC" participant="152117">
+      <body>Already left s message for him to call me back</body>
+    </message>
+    <message id="m0002" time="2015-03-23 13:04:50 UTC" participant="152117">
+      <body>Do you just want me to make a regular appointment for a cleaning and check up instead</body>
+    </message>
+    <message id="m0003" time="2015-03-23 13:07:12 UTC" participant="152115">
+      <body>Sure.</body>
+    </message>
+    <message id="m0004" time="2015-03-23 13:13:12 UTC" participant="152115">
+      <body>Try for Friday</body>
+    </message>
+    <message id="m0005" time="2015-03-23 15:00:38 UTC" participant="152117">
+      <body>I just talk to Nicole And she has nothing available this Friday however she has either 2 o'clock or 3 o'clock open next Monday and Tuesday or 245 or 330 next Thursday. Text me back as soon as you can and I'll call her so she can schedule the time for you</body>
+    </message>
+    <message id="m0006" time="2015-03-23 15:01:11 UTC" participant="152115">
+      <body>200 on Monday.</body>
+    </message>
+    <message id="m0007" time="2015-03-23 15:01:30 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" time="2015-03-23 22:47:36 UTC" participant="152115">
+      <body>I'll be done on time/ early.</body>
+    </message>
+    <message id="m0009" time="2015-03-23 23:09:51 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

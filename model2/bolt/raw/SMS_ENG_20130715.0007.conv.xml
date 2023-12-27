@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130520" time="2013-07-15 10:40:22 UTC">
+      <body>Hi Andromeda, how was your weekend?</body>
+    </message>
+    <message id="m0001" participant="130623" time="2013-07-15 13:35:26 UTC">
+      <body>Busy! We celebrated f-i-l turning 85.</body>
+    </message>
+    <message id="m0002" participant="130520" time="2013-07-15 13:36:22 UTC">
+      <body>What is fil?</body>
+    </message>
+  </messages>
+</conversation>

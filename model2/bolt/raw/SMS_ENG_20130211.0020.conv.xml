@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135439" time="2013-02-11 02:04:56 UTC">
+      <body>Too bad that Call Me Maybe did not win the Grammy. Saul will be sad!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-11 02:07:04 UTC">
+      <body>Hahahhaa</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-11 02:07:45 UTC">
+      <body>Ceren!!! Next week we go to party in Somerville together</body>
+    </message>
+  </messages>
+</conversation>

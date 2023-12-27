@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120807.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-07 01:44:21 UTC">
+      <body>Should be at mastic shirley in about 30 minutes</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-08-07 01:45:52 UTC">
+      <body>Ok packing up possibly 20 mins late.</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-07 01:52:41 UTC">
+      <body>We can get off at patchogue if that's closer to you</body>
+    </message>
+    <message id="m0003" participant="136219" time="2012-08-07 01:57:45 UTC">
+      <body>No shirley is better</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-08-07 01:58:29 UTC">
+      <body>Alright we are at sayville right now. Take your time</body>
+    </message>
+  </messages>
+</conversation>

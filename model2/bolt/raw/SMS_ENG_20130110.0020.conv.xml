@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135399" time="2013-01-10 22:40:46 UTC">
+      <body>Hey my friend has a hair stylist interview in boston tomorrow  any interest in getting your hair cut shoulder length for free by a dear and talented friend of mine at eleven a m </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-11 01:50:44 UTC">
+      <body>Ahhh drew I have the flu I am dying it is terrible</body>
+    </message>
+    <message id="m0002" participant="135399" time="2013-01-11 18:36:55 UTC">
+      <body>Oh no im sorry lots of fluids and rest dear i hope you feel better soon</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-11 18:46:10 UTC">
+      <body>Me too  I'm getting tired of this</body>
+    </message>
+  </messages>
+</conversation>

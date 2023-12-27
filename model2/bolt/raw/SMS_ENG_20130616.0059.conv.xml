@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136636" time="2013-06-16 20:19:16 UTC">
+      <body>Do u have Lou's number?</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-16 22:09:33 UTC">
+      <body>You get it?</body>
+    </message>
+    <message id="m0002" participant="136636" time="2013-06-16 22:11:18 UTC">
+      <body>Yes just did, thanks, u coming out tonite?</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-16 23:06:29 UTC">
+      <body>At conference in  kop. Prolly not</body>
+    </message>
+  </messages>
+</conversation>

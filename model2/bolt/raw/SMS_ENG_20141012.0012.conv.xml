@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141012.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-12 18:12:51 UTC" participant="153547">
+      <body>Hey Erin, it's hunter. do you want to bike to chamounix to forage with me and Lindsey in a bit?</body>
+    </message>
+    <message id="m0001" time="2014-10-12 18:33:36 UTC" participant="153614">
+      <body>Hi there! That sounds amazing! I'm at a work event this afternoon :( when are you guys heading out?</body>
+    </message>
+    <message id="m0002" time="2014-10-12 18:36:32 UTC" participant="153547">
+      <body>In 20 min</body>
+    </message>
+    <message id="m0003" time="2014-10-12 19:01:09 UTC" participant="153614">
+      <body>Ah have fun!! I have to work for another little bit. Next time please! </body>
+    </message>
+    <message id="m0004" time="2014-10-12 21:39:15 UTC" participant="153547">
+      <body>Ok next time</body>
+    </message>
+  </messages>
+</conversation>
+

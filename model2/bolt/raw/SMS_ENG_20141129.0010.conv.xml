@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141129.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-29 20:07:02 UTC" participant="152119">
+      <body>Hey John! Happy Birthday! Hope you have a great day! :D </body>
+    </message>
+    <message id="m0001" time="2014-11-29 20:10:14 UTC" participant="153418">
+      <body>Thanks Sammy!
+I'm old now D:</body>
+    </message>
+    <message id="m0002" time="2014-11-29 20:38:30 UTC" participant="152119">
+      <body>Hahaha, don't worry my friend, I'll still always be just a bit older, so there's that! </body>
+    </message>
+  </messages>
+</conversation>
+

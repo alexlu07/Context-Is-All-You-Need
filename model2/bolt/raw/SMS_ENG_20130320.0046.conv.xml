@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-20 17:32:28 UTC" participant="152374">
+      <body>Okay, what the hell is going on with your Twitter feed? Ha ha</body>
+    </message>
+    <message id="m0001" time="2013-03-20 17:33:25 UTC" participant="152839">
+      <body>What do you mean?</body>
+    </message>
+    <message id="m0002" time="2013-03-20 17:34:12 UTC" participant="152374">
+      <body>Look at it. It's sent out probably 30 tweets in the last five minutes, looks like spam</body>
+    </message>
+    <message id="m0003" time="2013-03-20 17:34:54 UTC" participant="152839">
+      <body>Oh jeez. I didn't realiZE it was doing that!!</body>
+    </message>
+    <message id="m0004" time="2013-03-20 17:35:00 UTC" participant="152839">
+      <body>I was just looking through this site at some cool stuff. It's like a pinterest site</body>
+    </message>
+    <message id="m0005" time="2013-03-20 17:35:30 UTC" participant="152839">
+      <body>I didn't know it was automatically tweeting everything I liked !!</body>
+    </message>
+    <message id="m0006" time="2013-03-20 17:35:57 UTC" participant="152374">
+      <body>Ha ha. I had a feeling it was something like that, figured you'd want to know</body>
+    </message>
+    <message id="m0007" time="2013-03-20 17:42:16 UTC" participant="152839">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

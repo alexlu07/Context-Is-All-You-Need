@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110429.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2011-04-29 15:40:07 UTC">
+      <body>Hey mister!  I'm gonna be in Baltimore on Sunday!  You gonna be around? -candra</body>
+    </message>
+    <message id="m0001" participant="130841" time="2011-04-29 15:44:25 UTC">
+      <body>YES! When/where will you be?</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-04-29 16:13:28 UTC">
+      <body>There's a festival I went to last year that was amazzzzing, in midtown... Dunno details yet, but I'll give you a buzz on Sunday!</body>
+    </message>
+    <message id="m0003" participant="130841" time="2011-04-29 16:14:10 UTC">
+      <body>K awesome</body>
+    </message>
+    <message id="m0004" participant="130841" time="2011-05-01 10:07:15 UTC">
+      <body>Hey, I completely forgot about a concert I'm in at 3  what time are you guys getting here???</body>
+    </message>
+    <message id="m0005" participant="130755" time="2011-05-01 13:50:43 UTC">
+      <body>Wah, my friend bailed on me so I'm not coming :-(</body>
+    </message>
+    <message id="m0006" participant="130755" time="2012-05-19 13:18:32 UTC">
+      <body>Blair! We have a show in Baltimore tonight! You should come! We will be in bmore this afternoon and tomorrow too!!</body>
+    </message>
+    <message id="m0007" participant="130755" time="2012-05-19 16:36:12 UTC">
+      <body>Current gallery, 421 n Howard st, 10:30pm!</body>
+    </message>
+    <message id="m0008" participant="130755" time="2012-05-19 22:57:46 UTC">
+      <body>We're performing in the lot behind the gallery, outside. Starts at 10:30</body>
+    </message>
+    <message id="m0009" participant="130841" time="2012-05-19 23:43:56 UTC">
+      <body>Kewell ill be there! :-)</body>
+    </message>
+    <message id="m0010" participant="130755" time="2012-05-19 23:44:24 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0011" participant="130841" time="2012-05-20 01:25:52 UTC">
+      <body>Kewell ill be there! :-)</body>
+    </message>
+    <message id="m0012" participant="130755" time="2013-01-02 00:19:57 UTC">
+      <body>Blair! We wanna come to bmore tomorrow...will you be around still?</body>
+    </message>
+    <message id="m0013" participant="130841" time="2013-01-02 15:28:00 UTC">
+      <body>Hey, we're around today. I just have to leave to go teach around 3:30</body>
+    </message>
+    <message id="m0014" participant="130841" time="2013-01-02 17:21:04 UTC">
+      <body>Around 9 - that too late?</body>
+    </message>
+    <message id="m0015" participant="130755" time="2013-01-02 17:22:21 UTC">
+      <body>Cool! When do you get back from teaching?</body>
+    </message>
+    <message id="m0016" participant="130841" time="2013-01-02 17:23:12 UTC">
+      <body>Great!</body>
+    </message>
+    <message id="m0017" participant="130755" time="2013-01-02 17:24:24 UTC">
+      <body>Nope! We'll see you around 9 then, just let us know when yr back!</body>
+    </message>
+    <message id="m0018" participant="130841" time="2013-01-03 02:29:20 UTC">
+      <body>You have my address?</body>
+    </message>
+    <message id="m0019" participant="130755" time="2013-01-03 02:29:56 UTC">
+      <body>Ok be there in 10!</body>
+    </message>
+    <message id="m0020" participant="130755" time="2013-01-03 02:31:08 UTC">
+      <body>Yup yup!</body>
+    </message>
+    <message id="m0022" participant="130841" time="2013-01-03 02:31:28 UTC">
+      <body>Yayyy</body>
+    </message>
+    <message id="m0023" participant="130841" time="2013-01-03 02:46:24 UTC">
+      <body>Looking for parking?</body>
+    </message>
+    <message id="m0024" participant="130841" time="2013-01-03 02:46:24 UTC">
+      <body>w00t I'll come downstairs!</body>
+    </message>
+    <message id="m0025" participant="130755" time="2013-01-03 02:47:08 UTC">
+      <body>Just parked!</body>
+    </message>
+    <message id="m0026" participant="130755" time="2013-01-03 02:47:32 UTC">
+      <body>Downstairs!</body>
+    </message>
+    <message id="m0027" participant="130755" time="2013-01-03 13:04:27 UTC">
+      <body>Thx again for hosting us! Let me know if you cats wanna get breakfast when yr up!</body>
+    </message>
+    <message id="m0028" participant="130841" time="2013-01-03 13:09:20 UTC">
+      <body>Yah we're getting up now!</body>
+    </message>
+    <message id="m0029" participant="130755" time="2013-01-03 13:14:34 UTC">
+      <body>Cool! Y'all need a ride?</body>
+    </message>
+    <message id="m0030" participant="130841" time="2013-01-03 13:20:00 UTC">
+      <body>Yah we can all ride up there - where are you now?</body>
+    </message>
+    <message id="m0031" participant="130755" time="2013-01-03 13:20:54 UTC">
+      <body>Just dropped Jeremy off, be there in 15 ish!</body>
+    </message>
+    <message id="m0032" participant="130841" time="2013-01-03 13:22:08 UTC">
+      <body>Cool, gimme a call when you get here. We'll come right down. </body>
+    </message>
+    <message id="m0033" participant="130755" time="2013-01-03 13:44:04 UTC">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>

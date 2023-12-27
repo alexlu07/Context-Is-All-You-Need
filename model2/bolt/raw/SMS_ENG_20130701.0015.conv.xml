@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130701.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-01 17:29:55 UTC">
+      <body>Heya chiquita! We are looking for a place to host a señor papos show on July 13. Do you and your home happen to be into it?</body>
+    </message>
+    <message id="m0001" participant="130910" time="2013-07-01 18:01:47 UTC">
+      <body>I will be out of town that weekend! Do you know Gus? He lives in a warehouse space in Old City and he wants people to use it as a venue.</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-01 18:25:27 UTC">
+      <body>Oh, drat. Don't know him...do you have his digits?</body>
+    </message>
+    <message id="m0003" participant="130910" time="2013-07-01 19:10:05 UTC">
+      <body>I dont now but I am friends with him on Facebook. I will get his info and pass it along!</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-01 19:25:04 UTC">
+      <body>Ok, thanks!</body>
+    </message>
+  </messages>
+</conversation>

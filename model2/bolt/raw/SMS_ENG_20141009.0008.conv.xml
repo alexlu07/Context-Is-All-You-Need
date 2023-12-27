@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141009.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-09 23:57:52 UTC" participant="153286">
+      <body>Hey any chNce you're free and will be home Sunday?</body>
+    </message>
+    <message id="m0001" time="2014-10-10 00:44:45 UTC" participant="152734">
+      <body>Yeah! So I'll have to leave for the barn around 4 or so but I'll be around before then, come on up if you want! </body>
+    </message>
+    <message id="m0002" time="2014-10-10 01:31:22 UTC" participant="153286">
+      <body>Ok. My mom will be in town too</body>
+    </message>
+    <message id="m0003" time="2014-10-10 01:47:45 UTC" participant="152734">
+      <body>Awesome. Bring the whole family! </body>
+    </message>
+    <message id="m0004" time="2014-10-10 01:49:32 UTC" participant="153286">
+      <body>It's a plan. Probably stop by early afternoon. Hard to give an exact time. Crazy weekend</body>
+    </message>
+  </messages>
+</conversation>
+

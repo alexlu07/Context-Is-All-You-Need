@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120417.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-17 19:38:36 UTC" participant="152378">
+      <body>hey I know i asked like a dozen times but are you in philly this weekend or next?</body>
+    </message>
+    <message id="m0001" time="2012-04-17 19:40:03 UTC" participant="152374">
+      <body>Not this weekend, but the next one. Getting in late-ish on the 27th, staying with Jef.</body>
+    </message>
+    <message id="m0002" time="2012-04-17 19:59:35 UTC" participant="152378">
+      <body>OK cool</body>
+    </message>
+  </messages>
+</conversation>
+

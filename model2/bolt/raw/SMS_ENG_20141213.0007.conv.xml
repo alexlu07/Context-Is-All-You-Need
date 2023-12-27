@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 19:48:12 UTC" participant="153421">
+      <body>Crystal can you buy milk ! Please </body>
+    </message>
+    <message id="m0001" time="2014-12-14 14:11:12 UTC" participant="153421">
+      <body>What you guys doing today do you want to go mall today</body>
+    </message>
+    <message id="m0002" time="2014-12-14 16:44:04 UTC" participant="153417">
+      <body>Jenny said she has to study</body>
+    </message>
+    <message id="m0003" time="2014-12-14 17:10:10 UTC" participant="153421">
+      <body>If we don't go this week we don't have chance </body>
+    </message>
+    <message id="m0004" time="2014-12-14 18:59:04 UTC" participant="153417">
+      <body>You and me can just go if you want. If not then I guess we don't go</body>
+    </message>
+  </messages>
+</conversation>
+

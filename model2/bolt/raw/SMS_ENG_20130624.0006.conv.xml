@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130623" time="2013-06-24 18:12:57 UTC">
+      <body>Hello! Shall we talk about the horribly hot weather?</body>
+    </message>
+    <message id="m0001" participant="131805" time="2013-06-24 18:52:37 UTC">
+      <body>Hahaha not sure where you are, here in VA things are nice.</body>
+    </message>
+  </messages>
+</conversation>

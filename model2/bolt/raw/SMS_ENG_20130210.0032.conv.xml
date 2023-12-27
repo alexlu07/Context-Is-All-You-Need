@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135442" time="2013-02-10 04:20:02 UTC">
+      <body>How is the party?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-10 04:37:19 UTC">
+      <body>Great we miss up</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-10 15:30:08 UTC">
+      <body>Daniel!!!! Hey sorry. This is the first moment I've had to think about school since I saw you last.  Anyway I wanted to talk to you in person about independent study but I don't know when I'll see you. I feel bad cause gunta said she would not be able to pay you but that  you were welcome to be involved. I really wish you and I could work together though and I was thinking I could bring you dinner and in exchange we could discuss things periodically.     </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-10 15:31:07 UTC">
+      <body>I don't feel like I have people to talk about my work with ... And I feel pretty alone in terms of problem solving skills </body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-10 15:31:38 UTC">
+      <body>Hopefully you and I can do  a legit independent study maybe in the summer?</body>
+    </message>
+  </messages>
+</conversation>

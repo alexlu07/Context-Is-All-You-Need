@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140402.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-02 12:45:52 UTC" participant="153601">
+      <body>Hello fellow morning person! I have a business proposition for you...do you have a few mins to talk today?</body>
+    </message>
+    <message id="m0001" time="2014-04-02 12:46:52 UTC" participant="153548">
+      <body>Morning! I am free now! Have to teach most of the day today til late</body>
+    </message>
+    <message id="m0002" time="2014-04-02 12:48:46 UTC" participant="153601">
+      <body>Dang I'm just about to put ruby down for her first nap, when is the latest I can call before your day starts?</body>
+    </message>
+    <message id="m0003" time="2014-04-02 12:50:41 UTC" participant="153548">
+      <body>I'm heading down to uarts in about an hour. I have a faculty meeting at 11. I will have a break from 2- 2:30 but have to pick up equipment right after and then teach 3:30- 10. Weds is my crazy day</body>
+    </message>
+    <message id="m0004" time="2014-04-02 12:51:21 UTC" participant="153601">
+      <body>Haha figures. Ok I'll just call now, ruby can wait a few mins </body>
+    </message>
+  </messages>
+</conversation>
+

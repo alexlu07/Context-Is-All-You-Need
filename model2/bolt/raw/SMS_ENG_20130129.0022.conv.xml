@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135461" time="2013-01-29 22:53:52 UTC">
+      <body>hi!</body>
+    </message>
+    <message id="m0001" participant="135461" time="2013-01-29 22:53:52 UTC">
+      <body>aww</body>
+    </message>
+    <message id="m0002" participant="135461" time="2013-01-29 22:53:52 UTC">
+      <body>I guess I won't see you if you work on Fridays!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-29 22:54:03 UTC">
+      <body>Whoops pocket dial</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-29 22:54:55 UTC">
+      <body>Miss you!</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-29 23:35:47 UTC">
+      <body>Wait really? Can I switch hours then?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-29 23:36:34 UTC">
+      <body>I want to work with you but when I went to add more hours I saw that two people were working all the times except Wednesday which I am busy </body>
+    </message>
+  </messages>
+</conversation>

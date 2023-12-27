@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150306.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-06 15:51:04 UTC" participant="153900">
+      <body>Did you go this morning</body>
+    </message>
+    <message id="m0001" time="2015-03-06 17:24:34 UTC" participant="153900">
+      <body>Did you have to work today </body>
+    </message>
+    <message id="m0002" time="2015-03-06 21:32:15 UTC" participant="153244">
+      <body>To the detective?  Yes. Just waiting on last step, should get appt date Monday or Tuesday.... yes work,  now on my way to oogies</body>
+    </message>
+    <message id="m0003" time="2015-03-06 21:32:58 UTC" participant="153900">
+      <body>How is it driving</body>
+    </message>
+    <message id="m0004" time="2015-03-06 21:46:29 UTC" participant="153244">
+      <body>Not too bad. Sun melted most of it.</body>
+    </message>
+    <message id="m0005" time="2015-03-06 21:50:55 UTC" participant="153900">
+      <body>Did you have to get a bag out of grandma house</body>
+    </message>
+    <message id="m0006" time="2015-03-06 21:51:32 UTC" participant="153244">
+      <body>Last night. . I got it already</body>
+    </message>
+    <message id="m0007" time="2015-03-06 21:52:05 UTC" participant="153900">
+      <body>What bag did you leave there</body>
+    </message>
+    <message id="m0008" time="2015-03-06 21:52:45 UTC" participant="153900">
+      <body>And did you want all three packs of sheet</body>
+    </message>
+    <message id="m0009" time="2015-03-07 05:02:24 UTC" participant="153244">
+      <body>Im home</body>
+    </message>
+    <message id="m0010" time="2015-03-07 05:02:42 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

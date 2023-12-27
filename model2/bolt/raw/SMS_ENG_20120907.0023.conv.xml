@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120907.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-09-07 21:38:52 UTC">
+      <body>Hey hey. What you up to?</body>
+    </message>
+    <message id="m0001" participant="136727" time="2012-09-07 21:46:19 UTC">
+      <body>Dan and I are just leaving for brimfield MA!</body>
+    </message>
+    <message id="m0002" participant="131015" time="2012-09-07 22:04:24 UTC">
+      <body>Oh coool.  ...I was in yr hood but no biggie. Have fun!!</body>
+    </message>
+    <message id="m0003" participant="136727" time="2012-09-07 22:06:17 UTC">
+      <body>Darn, next time! We're going to this huge antique flea market!</body>
+    </message>
+    <message id="m0004" participant="131015" time="2012-09-07 22:11:45 UTC">
+      <body>Wow. Danielle and I are so jealous!   We loooove that stuff!</body>
+    </message>
+    <message id="m0005" participant="136727" time="2012-09-07 22:24:09 UTC">
+      <body>It's a big deal for us cause were traveling so far!</body>
+    </message>
+    <message id="m0006" participant="131015" time="2012-09-07 22:35:11 UTC">
+      <body>Hope you guys find some great stuff. </body>
+    </message>
+  </messages>
+</conversation>

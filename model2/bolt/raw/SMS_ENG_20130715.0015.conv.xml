@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130715.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130976" time="2013-07-15 12:51:32 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130975" time="2013-07-15 14:27:17 UTC">
+      <body>hi</body>
+    </message>
+    <message id="m0002" participant="130976" time="2013-07-15 14:37:01 UTC">
+      <body>How u?</body>
+    </message>
+    <message id="m0003" participant="130975" time="2013-07-15 14:38:19 UTC">
+      <body>I'm good. on my lunch break at work.. u?</body>
+    </message>
+    <message id="m0004" participant="130976" time="2013-07-15 14:47:17 UTC">
+      <body>@the pool.off tday</body>
+    </message>
+    <message id="m0005" participant="130975" time="2013-07-15 15:01:55 UTC">
+      <body>nice! I'm jealous! soak it up!!</body>
+    </message>
+    <message id="m0006" participant="130976" time="2013-07-15 16:00:05 UTC">
+      <body>Great day 4 it</body>
+    </message>
+    <message id="m0007" participant="130975" time="2013-07-15 19:29:05 UTC">
+      <body>where do u live?</body>
+    </message>
+    <message id="m0008" participant="130976" time="2013-07-15 20:40:31 UTC">
+      <body>Phila.u?</body>
+    </message>
+  </messages>
+</conversation>

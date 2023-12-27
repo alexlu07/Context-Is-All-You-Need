@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150301.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2015-03-01 19:05:55 UTC" participant="152128">
+      <body>About?</body>
+    </message>
+    <message id="m0002" time="2015-03-01 19:06:17 UTC" participant="153418">
+      <body>The 15th?</body>
+    </message>
+    <message id="m0003" time="2015-03-01 19:06:55 UTC" participant="152128">
+      <body>No, did you tell them?</body>
+    </message>
+    <message id="m0004" time="2015-03-01 19:08:38 UTC" participant="153418">
+      <body>Yes. They'll be free and are planning on celebrating Jenny's birthday too.</body>
+    </message>
+    <message id="m0005" time="2015-03-01 19:09:45 UTC" participant="153418">
+      <body>Not sure what's planned during the day, but group dinner somewhere.</body>
+    </message>
+    <message id="m0006" time="2015-03-01 19:11:06 UTC" participant="152128">
+      <body>Oh yea, we talked about dinner. Akiha and I are hanging out on Sunday though, just in case you didn't know :)</body>
+    </message>
+    <message id="m0007" time="2015-03-01 19:13:06 UTC" participant="153418">
+      <body>Akiha wants to see everyone.</body>
+    </message>
+    <message id="m0008" time="2015-03-01 19:13:35 UTC" participant="153418">
+      <body>And is planning on going to that dinner.</body>
+    </message>
+    <message id="m0009" time="2015-03-01 19:15:10 UTC" participant="153418">
+      <body>As for the rest of the day, I'm not sure what's going on.</body>
+    </message>
+    <message id="m0010" time="2015-03-01 19:16:18 UTC" participant="152128">
+      <body>Sure thing! We talked about going shopping Sunday, I think dinner might be on Friday or Saturday.</body>
+    </message>
+    <message id="m0011" time="2015-03-01 19:17:01 UTC" participant="153418">
+      <body>For Jenny? </body>
+    </message>
+    <message id="m0012" time="2015-03-01 19:17:40 UTC" participant="152128">
+      <body>Yes.</body>
+    </message>
+    <message id="m0015" time="2015-03-01 19:20:39 UTC" participant="152128">
+      <body>Ohhhhh okay, I believe you.</body>
+    </message>
+  </messages>
+</conversation>
+

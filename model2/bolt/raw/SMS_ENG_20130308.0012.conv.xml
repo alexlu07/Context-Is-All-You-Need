@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-03-08 19:49:20 UTC">
+      <body>Happy spring break!</body>
+    </message>
+    <message id="m0001" participant="131205" time="2013-03-08 20:08:34 UTC">
+      <body>You tooooo!!!!</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-03-09 19:11:39 UTC">
+      <body>What's the name of the restaurant we ate at on the honors trip?</body>
+    </message>
+    <message id="m0003" participant="131205" time="2013-03-09 19:28:33 UTC">
+      <body>Good q....hold on</body>
+    </message>
+    <message id="m0004" participant="131205" time="2013-03-10 03:24:48 UTC">
+      <body>Zorba's</body>
+    </message>
+  </messages>
+</conversation>

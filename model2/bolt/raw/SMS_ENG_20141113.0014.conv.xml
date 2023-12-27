@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 20:54:24 UTC" participant="153423">
+      <body>Century 21 is dangerous</body>
+    </message>
+    <message id="m0001" time="2014-11-13 21:00:54 UTC" participant="153417">
+      <body>Oh I know lol</body>
+    </message>
+    <message id="m0002" time="2014-11-13 23:29:34 UTC" participant="153423">
+      <body>How are you</body>
+    </message>
+    <message id="m0003" time="2014-11-13 23:32:13 UTC" participant="153417">
+      <body>Good! How are you??</body>
+    </message>
+    <message id="m0004" time="2014-11-13 23:55:44 UTC" participant="153423">
+      <body>Good we got our coat just in time for the cold</body>
+    </message>
+    <message id="m0005" time="2014-11-13 23:56:34 UTC" participant="153417">
+      <body>I know! Haha thank god</body>
+    </message>
+  </messages>
+</conversation>
+

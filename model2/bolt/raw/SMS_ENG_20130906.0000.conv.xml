@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130906.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-06 16:27:06 UTC" participant="152417">
+      <body>Hey Becca, can i grab that jumpsuit for Graham for tonight?</body>
+    </message>
+    <message id="m0001" time="2013-09-06 21:40:39 UTC" participant="152421">
+      <body>Sure i will be home soon.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110926.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135143" time="2011-09-26 16:06:38 UTC">
+      <body>Your return trip looks good.  You should be at the airport no later then 7am.  Take care.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-26 16:13:27 UTC">
+      <body>Wonderful :) thanks for all your help!</body>
+    </message>
+    <message id="m0002" participant="135143" time="2011-09-26 16:25:08 UTC">
+      <body>Have fun</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-27 13:22:22 UTC">
+      <body>I'm about to turn off my phone, but they just told us that there is going to be a 40 minute delay which won't leave me any time for the layover. Is there a flight after that I could catch?</body>
+    </message>
+    <message id="m0004" participant="135143" time="2011-09-27 14:13:08 UTC">
+      <body>Flt 494 arrives in dfw at1050am.  Flt 1020 departs at 1255 and arrives msp at 315 pm.  Call if you need anything.</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-09-27 14:13:28 UTC">
+      <body>Thank you!</body>
+    </message>
+    <message id="m0006" participant="135143" time="2011-09-27 14:22:41 UTC">
+      <body>Do you have a seat assignment?</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-09-27 14:22:53 UTC">
+      <body>Still waiting to hear</body>
+    </message>
+    <message id="m0008" participant="135143" time="2011-09-27 14:23:58 UTC">
+      <body>Did he say he would call you up?</body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-09-27 14:25:06 UTC">
+      <body>She just called me up and got me a seat :)</body>
+    </message>
+    <message id="m0010" participant="135143" time="2011-09-27 14:25:46 UTC">
+      <body>Super!</body>
+    </message>
+  </messages>
+</conversation>

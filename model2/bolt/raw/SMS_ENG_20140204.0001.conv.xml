@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140204.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-04 01:30:18 UTC" participant="152846">
+      <body>I wish we could go to ####### game this Saturday but it's in the middle of our class</body>
+    </message>
+    <message id="m0001" time="2014-02-04 01:31:00 UTC" participant="152374">
+      <body>Ha. The game would probably be more informative than the class, too ;)</body>
+    </message>
+    <message id="m0002" time="2014-02-04 01:32:13 UTC" participant="152846">
+      <body>I concur lol! Well after that game there is only one more at home. We should make a date of it. Sun 2/16 @8pm vs Hofstra</body>
+    </message>
+    <message id="m0003" time="2014-02-04 01:34:16 UTC" participant="152374">
+      <body>I won't be around, unfortunately :/ That's ######'s birthday weekend</body>
+    </message>
+    <message id="m0004" time="2014-02-04 01:34:52 UTC" participant="152846">
+      <body>Aw man!</body>
+    </message>
+  </messages>
+</conversation>
+

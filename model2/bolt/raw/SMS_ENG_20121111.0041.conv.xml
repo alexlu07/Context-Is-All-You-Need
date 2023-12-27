@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136291" time="2012-11-11 23:31:34 UTC">
+      <body>Williaaaam come to dinner with me</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-11 23:32:05 UTC">
+      <body>Lauren and I are going at 6:45 wanna wait for us??</body>
+    </message>
+    <message id="m0002" participant="136291" time="2012-11-11 23:34:39 UTC">
+      <body>Okay yeah :) where do you want to meet up? </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-11 23:35:02 UTC">
+      <body>@ da bleacherz</body>
+    </message>
+    <message id="m0004" participant="136291" time="2012-11-11 23:40:51 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

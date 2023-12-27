@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140219.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-19 23:31:42 UTC" participant="153244">
+      <body>What is my dental insurance? </body>
+    </message>
+    <message id="m0001" time="2014-02-19 23:32:19 UTC" participant="153900">
+      <body>Met life</body>
+    </message>
+  </messages>
+</conversation>
+

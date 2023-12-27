@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120602.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131830" time="2012-06-02 17:12:32 UTC">
+      <body>Hey - I left to go to the bathroom, when and where are we meeting for the p-rade?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-06-02 17:29:21 UTC">
+      <body>We're meeting at 1:50 on Poe near Bloomberg arch!</body>
+    </message>
+  </messages>
+</conversation>

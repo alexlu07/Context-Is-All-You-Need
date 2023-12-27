@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111012.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135093" time="2011-10-12 01:19:05 UTC">
+      <body>If I got to philly at 1140 am, wuld there be a way I could get to your place or somewhere we could meet?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-10-12 01:19:22 UTC">
+      <body>Where does it get in?</body>
+    </message>
+    <message id="m0002" participant="135093" time="2011-10-12 01:20:37 UTC">
+      <body>30th st station</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-10-12 01:23:02 UTC">
+      <body>Yes I could come get you :) </body>
+    </message>
+    <message id="m0004" participant="135093" time="2011-10-12 01:24:13 UTC">
+      <body>Whooo! I think I will get the ticket then. I will text confirmation :)</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-10-12 01:24:26 UTC">
+      <body>Yayyyyyy</body>
+    </message>
+    <message id="m0006" participant="135093" time="2011-10-12 02:11:14 UTC">
+      <body>Tix purchased!</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-10-12 02:26:34 UTC">
+      <body>:) :) :) :)</body>
+    </message>
+  </messages>
+</conversation>

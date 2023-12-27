@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130313.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-03-13 17:19:41 UTC">
+      <body>U wanna visit liz d in the hospital with me? </body>
+    </message>
+    <message id="m0001" participant="132551" time="2013-03-13 17:24:00 UTC">
+      <body>Holy shit what happened to her??</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-03-13 17:27:35 UTC">
+      <body>She got diagnosed with cancer</body>
+    </message>
+    <message id="m0003" participant="132551" time="2013-03-13 17:42:05 UTC">
+      <body>Woowwww. What kind? When are you visiting?</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-03-13 17:43:05 UTC">
+      <body>I just found out. Hodgkin's lymphoma </body>
+    </message>
+    <message id="m0005" participant="132551" time="2013-03-13 17:47:44 UTC">
+      <body>Is that a bad kind? It sounds like one... Is she getting treatment right now?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-03-13 17:49:26 UTC">
+      <body>Its one of the more treatable ones actually... yeah i guess shes in the hospital </body>
+    </message>
+    <message id="m0007" participant="132551" time="2013-03-13 17:52:30 UTC">
+      <body>Damn. So crazy. I googled it. But it sounds like life expectancy is shortened after being diagnosed with it. It says they survive for at least ten years if treatment is successful, but what happens after those 10 years?? </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-03-13 17:53:26 UTC">
+      <body>I dun really know anything about it </body>
+    </message>
+    <message id="m0009" participant="132551" time="2013-03-13 17:54:53 UTC">
+      <body>Wanna go visit Monday? Ill still be in the city then... </body>
+    </message>
+    <message id="m0010" participant="130747" time="2013-03-13 17:56:25 UTC">
+      <body>Shes in lankenau hospital </body>
+    </message>
+    <message id="m0011" participant="132551" time="2013-03-13 17:59:07 UTC">
+      <body>Where's that?</body>
+    </message>
+    <message id="m0012" participant="130747" time="2013-03-13 18:11:42 UTC">
+      <body>Not sure. Out in burbs tho</body>
+    </message>
+  </messages>
+</conversation>

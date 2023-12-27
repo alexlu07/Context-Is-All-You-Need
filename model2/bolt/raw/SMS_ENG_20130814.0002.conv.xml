@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130814.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-14 23:21:46 UTC" participant="152428">
+      <body>Welcome back</body>
+    </message>
+    <message id="m0001" time="2013-08-15 12:17:42 UTC" participant="152428">
+      <body>U home?</body>
+    </message>
+    <message id="m0002" time="2013-08-15 12:20:46 UTC" participant="152417">
+      <body>Yep, im in new york waiting tofind out if i can get ob the earlier bus</body>
+    </message>
+  </messages>
+</conversation>
+

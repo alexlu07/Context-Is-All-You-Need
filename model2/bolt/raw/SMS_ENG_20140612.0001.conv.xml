@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140612.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-12 22:32:36 UTC" participant="149306">
+      <body>Yo mark come by Daniels for a post World Cup hang session with pizza and DAB </body>
+    </message>
+    <message id="m0001" time="2014-06-13 17:34:50 UTC" participant="149386">
+      <body>Sorry I missed you last night buddy</body>
+    </message>
+    <message id="m0002" time="2014-06-13 17:35:26 UTC" participant="149306">
+      <body>It's ok, I'll see you real soon</body>
+    </message>
+    <message id="m0003" time="2014-06-13 17:35:46 UTC" participant="149386">
+      <body>Yeah, hope so amigo</body>
+    </message>
+  </messages>
+</conversation>
+

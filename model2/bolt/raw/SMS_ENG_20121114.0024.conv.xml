@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121114.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136262" time="2012-11-14 23:29:17 UTC">
+      <body>Russo when/what time is your flight home for thanksgiving?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-14 23:38:21 UTC">
+      <body>I'm flying into laguardia. My flight leaves at 3:30 on Tuesday the 20th</body>
+    </message>
+    <message id="m0002" participant="136262" time="2012-11-14 23:43:35 UTC">
+      <body>Darnit. When do you come back to emory? I come back sunday around 9:30pm, if your flight is around da same time we could take a cab (to the airport from.nyc or back to emory)</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-11-14 23:45:44 UTC">
+      <body>I think I come back at like 1pm on Sunday :(</body>
+    </message>
+    <message id="m0004" participant="136262" time="2012-11-14 23:49:36 UTC">
+      <body>Bleh kk. Maybe our december flights will overlap</body>
+    </message>
+  </messages>
+</conversation>

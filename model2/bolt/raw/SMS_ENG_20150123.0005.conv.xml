@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 18:34:21 UTC" participant="152606">
+      <body>The bus is running late so I will be a little late. </body>
+    </message>
+    <message id="m0001" time="2015-01-23 18:35:05 UTC" participant="152417">
+      <body>Ok, let me know when youre here and ill come meet you downstairs</body>
+    </message>
+    <message id="m0002" time="2015-01-23 19:00:53 UTC" participant="152606">
+      <body>I'm in front of the theatre</body>
+    </message>
+  </messages>
+</conversation>
+

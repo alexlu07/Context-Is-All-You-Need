@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-25 21:48:13 UTC" participant="153489">
+      <body>Hey wanna do sushi on Wed?</body>
+    </message>
+    <message id="m0001" time="2013-03-25 21:48:40 UTC" participant="152374">
+      <body>Would love to but I've got plans!</body>
+    </message>
+    <message id="m0002" time="2013-03-25 21:51:15 UTC" participant="153489">
+      <body>Ok another time then :-)</body>
+    </message>
+    <message id="m0003" time="2013-03-25 21:52:07 UTC" participant="152374">
+      <body>Definitely!</body>
+    </message>
+  </messages>
+</conversation>
+

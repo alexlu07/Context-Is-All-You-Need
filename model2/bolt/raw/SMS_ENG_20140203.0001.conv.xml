@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140203.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-03 18:38:25 UTC" participant="153491">
+      <body>Hope you don't have to trek through the weather today.</body>
+    </message>
+    <message id="m0001" time="2014-02-03 18:58:08 UTC" participant="152116">
+      <body>I do. I have work :(</body>
+    </message>
+  </messages>
+</conversation>
+

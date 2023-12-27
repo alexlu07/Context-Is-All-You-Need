@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120829.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-29 00:49:14 UTC" participant="152374">
+      <body>Hey, when you have stuff shipped to the office, what do you use for the mailing address?</body>
+    </message>
+    <message id="m0001" time="2012-08-29 00:50:11 UTC" participant="153465">
+      <body>UPS or usps</body>
+    </message>
+    <message id="m0002" time="2012-08-29 00:51:18 UTC" participant="152374">
+      <body>UPS</body>
+    </message>
+    <message id="m0003" time="2012-08-29 01:02:57 UTC" participant="152374">
+      <body>Thanks. Wanted to make sure.</body>
+    </message>
+  </messages>
+</conversation>
+

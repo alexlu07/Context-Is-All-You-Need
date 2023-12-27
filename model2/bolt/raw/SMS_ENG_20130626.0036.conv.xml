@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-06-26 23:03:27 UTC">
+      <body>Did you send the mortgage to Wells Fargo yet?</body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-06-26 23:04:25 UTC">
+      <body>Not yet I will put it on my calendar </body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-06-26 23:05:02 UTC">
+      <body>But it has to get there before Monday. Right?</body>
+    </message>
+    <message id="m0003" participant="137257" time="2013-06-26 23:05:24 UTC">
+      <body>I'll check now </body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-06-26 23:06:23 UTC">
+      <body>Yes due July 1 ill mail it tonight </body>
+    </message>
+    <message id="m0005" participant="137257" time="2013-06-26 23:06:39 UTC">
+      <body>Or maybe I can do it online or by phone let me see</body>
+    </message>
+    <message id="m0006" participant="132437" time="2013-06-26 23:07:20 UTC">
+      <body>Isn't it safest to go to the bank and give them the cash </body>
+    </message>
+    <message id="m0007" participant="137257" time="2013-06-26 23:07:37 UTC">
+      <body>Yes ok I can do that tomorrow </body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-06-26 23:08:05 UTC">
+      <body>Fantastic. And how much is it?</body>
+    </message>
+    <message id="m0009" participant="137257" time="2013-06-26 23:08:26 UTC">
+      <body>2451 you were right </body>
+    </message>
+  </messages>
+</conversation>

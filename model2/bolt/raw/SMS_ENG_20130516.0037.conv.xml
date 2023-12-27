@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130516.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131945" time="2013-05-16 21:06:38 UTC">
+      <body>Hi!  Can I get your social security # and address?  I'm at the dentist!</body>
+    </message>
+    <message id="m0001" participant="131945" time="2013-05-16 21:12:15 UTC">
+      <body>Nvm, I got it!  :)</body>
+    </message>
+    <message id="m0002" participant="131949" time="2013-05-16 23:57:44 UTC">
+      <body>Hi buglet! Sorry, I don't have my phone at work. Did you get what you needed?</body>
+    </message>
+  </messages>
+</conversation>

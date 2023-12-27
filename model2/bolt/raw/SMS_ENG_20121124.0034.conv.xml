@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121124.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-24 00:39:29 UTC" participant="152431">
+      <body>Happy thanksgiving! Let's meet next week? I have lots of ideas around music and dance, want your help choosing between songs ideas and stuff</body>
+    </message>
+    <message id="m0001" time="2012-11-24 01:17:30 UTC" participant="152417">
+      <body>Yes yes! Sounds good, tuesday night or thursday night are easiest for me</body>
+    </message>
+    <message id="m0002" time="2012-11-24 02:35:58 UTC" participant="152431">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>
+

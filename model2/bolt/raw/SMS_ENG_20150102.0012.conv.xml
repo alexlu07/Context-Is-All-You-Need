@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 14:00:32 UTC" participant="153645">
+      <body>I have French lentil soup for our dinner </body>
+    </message>
+    <message id="m0001" time="2015-01-02 14:02:40 UTC" participant="153645">
+      <body>Excellent! </body>
+    </message>
+    <message id="m0002" time="2015-01-02 14:03:05 UTC" participant="153548">
+      <body>Yes! I have snacks. I can bring nice bread to go with dinner too!</body>
+    </message>
+  </messages>
+</conversation>
+

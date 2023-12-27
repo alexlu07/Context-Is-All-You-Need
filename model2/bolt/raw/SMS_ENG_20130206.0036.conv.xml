@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130206.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-06 15:45:04 UTC" participant="153301">
+      <body>Hey! How are you and Louis? </body>
+    </message>
+    <message id="m0001" time="2013-02-06 17:42:24 UTC" participant="153301">
+      <body>I saw that and my signed copy should be on its way to you. Sorry it took a while. And Florida is awesome. </body>
+    </message>
+    <message id="m0002" time="2013-02-06 17:42:25 UTC" participant="152734">
+      <body> Doing good! It's been frozen/snowy but we got some good rides in - went for a long hack last weekend &amp; he seemed to like that. Btw, I sent a slightly modified lease back to you. Hope Florida's nice! </body>
+    </message>
+    <message id="m0003" time="2013-02-06 17:49:10 UTC" participant="152734">
+      <body>Oh good! I also owe you for board this month - just let me know if you want me to mail a check, or wait til you get back, whatever works. Thanks!</body>
+    </message>
+    <message id="m0004" time="2013-02-06 17:53:04 UTC" participant="153301">
+      <body>Would you be able to pay Tanya directly? </body>
+    </message>
+    <message id="m0005" time="2013-02-06 21:19:08 UTC" participant="152734">
+      <body>Definitely! For some reason I assumed you paid the whole board - sorry about that. I'll take care of it with Tanya for sure. </body>
+    </message>
+  </messages>
+</conversation>
+

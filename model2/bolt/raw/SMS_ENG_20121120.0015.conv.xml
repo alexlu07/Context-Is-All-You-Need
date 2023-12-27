@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121120.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2012-11-20 17:12:54 UTC">
+      <body>Anyone want to do lunch in 10?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-20 23:24:59 UTC">
+      <body>They closed an exit of 84 again...ugh. At least it's not 10:30pm. I hate ct</body>
+    </message>
+    <message id="m0002" participant="135275" time="2012-11-21 00:15:22 UTC">
+      <body>Uuugh. How's the drive going otherwise?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-11-21 00:16:55 UTC">
+      <body>Haha that's a pretty big otherwise...my car is in park right now and I'm on 84</body>
+    </message>
+    <message id="m0004" participant="135275" time="2012-11-21 00:18:06 UTC">
+      <body>Ick. I'm sorry. :/</body>
+    </message>
+  </messages>
+</conversation>

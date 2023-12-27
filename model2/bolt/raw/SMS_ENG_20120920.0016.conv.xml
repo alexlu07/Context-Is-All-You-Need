@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120920.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136261" time="2012-09-20 22:42:25 UTC">
+      <body>Dude i left my keys in my room!</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-20 22:42:50 UTC">
+      <body>Gimme a sec ill be right there</body>
+    </message>
+    <message id="m0002" participant="136261" time="2012-09-20 22:43:41 UTC">
+      <body>No rush im in the duc</body>
+    </message>
+    <message id="m0003" participant="136261" time="2012-09-20 23:00:20 UTC">
+      <body>Are you back at the dorm yet?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-20 23:00:31 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0005" participant="136261" time="2012-09-21 05:43:33 UTC">
+      <body>Im locked out again, are you nearby?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-21 05:44:46 UTC">
+      <body>Just unlocked it for you</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-22 01:01:20 UTC">
+      <body>Where are you</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-22 01:16:00 UTC">
+      <body>Yeah these keys are identical</body>
+    </message>
+  </messages>
+</conversation>

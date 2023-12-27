@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-06-26 19:04:03 UTC">
+      <body>Hey, would you mind texting me your address? i'm gonna take a bus to philly and i'm trying to figure out how to get to at least near you and hannah michelle from the stop :) </body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-06-26 21:35:50 UTC">
+      <body>Cool, thanks!  30th street station</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-26 21:42:28 UTC">
+      <body>If its during the day, transfer at 30th st to the market-Frankford line headed west and get off at 46th st. It's a five minute walk to my house. You could also from 30th st. get on the 34 trolley which will take you down Baltimore ave, pull to get off at 45th st for my house or 49th st for HM</body>
+    </message>
+    <message id="m0004" participant="135274" time="2013-06-26 21:47:24 UTC">
+      <body>Oh wow, thank you so much!</body>
+    </message>
+  </messages>
+</conversation>

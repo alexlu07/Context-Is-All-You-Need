@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136633" time="2013-06-19 12:35:06 UTC">
+      <body>Thank you for coming out yesterday and helping with practice on Friday.I have to do 2 way ANOVA for aim 1,rephrase aim 2, and beef up aim 3.It all went well.</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-20 03:42:51 UTC">
+      <body>Thx!</body>
+    </message>
+    <message id="m0002" participant="136633" time="2013-06-20 18:05:06 UTC">
+      <body>Sam,I am going to get the car fixed by a mechanic right across my apt.they said they will do it for abt 230.Its really hot out.i wouldnt want you to work</body>
+    </message>
+    <message id="m0003" participant="136633" time="2013-06-20 18:05:09 UTC">
+      <body> under such heat.its very kind of you.Thanks.</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-06-20 18:10:40 UTC">
+      <body>Thats cool. Sounds like a good price</body>
+    </message>
+    <message id="m0005" participant="136633" time="2013-06-20 18:12:04 UTC">
+      <body>i thought so</body>
+    </message>
+  </messages>
+</conversation>

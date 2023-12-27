@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120114.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-01-14 22:35:35 UTC" participant="152374">
+      <body>Perfect timing. I'll be there within an hour or so.</body>
+    </message>
+    <message id="m0001" time="2012-01-14 22:36:59 UTC" participant="152378">
+      <body>Awesome. See ya there</body>
+    </message>
+    <message id="m0002" time="2012-01-15 02:44:00 UTC" participant="152374">
+      <body>So, would it be weird/annoying if I came back for a while? Done bowling. Don't really want to go home yet.</body>
+    </message>
+    <message id="m0003" time="2012-01-15 02:44:31 UTC" participant="152378">
+      <body>No no. Come by</body>
+    </message>
+    <message id="m0004" time="2012-01-15 03:02:44 UTC" participant="152374">
+      <body>Do you guys need anything I can pick up along the way?</body>
+    </message>
+    <message id="m0005" time="2012-01-15 03:05:36 UTC" participant="152378">
+      <body>Nope. Just come... oh and max said: :)</body>
+    </message>
+  </messages>
+</conversation>
+

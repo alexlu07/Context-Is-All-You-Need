@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135080" time="2013-03-06 02:52:48 UTC">
+      <body>Nope it's not even raining. My new shovel is beautiful. </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-06 02:54:29 UTC">
+      <body>Thanks for the shovel by the way!</body>
+    </message>
+    <message id="m0003" participant="135266" time="2013-03-06 02:55:07 UTC">
+      <body>You're welcome. </body>
+    </message>
+    <message id="m0004" participant="135266" time="2013-03-07 02:49:45 UTC">
+      <body>I'm home. You available to talk?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-07 02:51:10 UTC">
+      <body>Sure. I'm still in Bethesda. Feel free to call</body>
+    </message>
+  </messages>
+</conversation>

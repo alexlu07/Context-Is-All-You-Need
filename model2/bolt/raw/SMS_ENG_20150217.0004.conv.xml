@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150217.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-17 01:40:09 UTC" participant="152212">
+      <body>Hi hi hi! how was your trip? did you make it back alive? I am writing bc I don’t know when I’m supposed to come back to your class... wanna touch base tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-02-17 01:41:56 UTC" participant="152309">
+      <body>Heyo. March 4 but things might change. Was supposed to return yesterday but got snowed in until tomorrow. Fly in late tomorrow night. Let's touch base forsure. </body>
+    </message>
+    <message id="m0002" time="2015-02-17 01:42:19 UTC" participant="152212">
+      <body>woowww long vacation!</body>
+    </message>
+    <message id="m0003" time="2015-02-17 01:42:24 UTC" participant="152309">
+      <body>Yeah. Been very good. </body>
+    </message>
+    <message id="m0004" time="2015-02-17 01:42:24 UTC" participant="152212">
+      <body>NICE!</body>
+    </message>
+    <message id="m0005" time="2015-02-18 01:06:08 UTC" participant="152309">
+      <body>"Invisibalia"?</body>
+    </message>
+    <message id="m0006" time="2015-02-18 01:08:02 UTC" participant="152212">
+      <body>Invisibilia</body>
+    </message>
+    <message id="m0007" time="2015-02-18 01:08:12 UTC" participant="152309">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

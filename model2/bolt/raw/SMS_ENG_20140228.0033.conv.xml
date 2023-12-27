@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140228.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-28 17:56:08 UTC" participant="153244">
+      <body>Sure!</body>
+    </message>
+    <message id="m0001" time="2014-02-28 17:56:54 UTC" participant="154895">
+      <body>Nevermind</body>
+    </message>
+    <message id="m0002" time="2014-02-28 17:57:41 UTC" participant="153244">
+      <body>Ok... he has a ride?</body>
+    </message>
+    <message id="m0003" time="2014-02-28 17:58:22 UTC" participant="154895">
+      <body>He gets done earlier so hes leavin</body>
+    </message>
+    <message id="m0004" time="2014-02-28 17:59:17 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0005" time="2014-02-28 18:00:03 UTC" participant="154895">
+      <body>So be here by 5</body>
+    </message>
+    <message id="m0006" time="2014-02-28 18:01:35 UTC" participant="153244">
+      <body>Lol ok</body>
+    </message>
+    <message id="m0007" time="2014-02-28 21:30:47 UTC" participant="154895">
+      <body>Im done</body>
+    </message>
+    <message id="m0008" time="2014-02-28 21:38:21 UTC" participant="154895">
+      <body>Where should i wait</body>
+    </message>
+    <message id="m0009" time="2014-02-28 21:43:34 UTC" participant="153244">
+      <body>In the building Its cold. I'm on my way</body>
+    </message>
+    <message id="m0010" time="2014-02-28 21:43:58 UTC" participant="154895">
+      <body>Not cold</body>
+    </message>
+  </messages>
+</conversation>
+

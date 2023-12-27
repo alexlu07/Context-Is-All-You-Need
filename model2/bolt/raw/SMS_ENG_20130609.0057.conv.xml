@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-06-09 19:00:19 UTC">
+      <body>Wanna see Uncle Tom's at 5?!</body>
+    </message>
+    <message id="m0001" participant="137426" time="2013-06-10 12:46:49 UTC">
+      <body>Hey Angela- sorry i could not go to Uncle Tom's cabin, but would you be interested in seeing Heroes on Saturday night, if it is not sold out?</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-06-10 14:57:17 UTC">
+      <body>I have work :/ have fun!</body>
+    </message>
+  </messages>
+</conversation>

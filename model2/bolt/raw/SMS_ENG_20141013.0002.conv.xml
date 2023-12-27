@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141013.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-13 01:10:05 UTC" participant="152759">
+      <body>Cindy is coming around 3 PM.  Pls leave your door unlocked.  Thanks! </body>
+    </message>
+    <message id="m0001" time="2014-10-13 23:02:18 UTC" participant="152759">
+      <body>I need to discuss rent with you.  Will you have time to talk in the next couple hours? </body>
+    </message>
+    <message id="m0002" time="2014-10-13 23:45:03 UTC" participant="152735">
+      <body>Yes! And yesss. Let me call you in 30</body>
+    </message>
+    <message id="m0005" time="2014-10-13 23:48:15 UTC" participant="152735">
+      <body>I can look at it right now </body>
+    </message>
+    <message id="m0006" time="2014-10-13 23:51:28 UTC" participant="152759">
+      <body>Well you owe 2 months rent plus utilities.  But I am planning on giving you a credit which I wanted to discuss.  </body>
+    </message>
+    <message id="m0007" time="2014-10-13 23:53:30 UTC" participant="152735">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0008" time="2014-10-13 23:54:22 UTC" participant="152735">
+      <body>I'm sure it's reasonable- what were you thinking?</body>
+    </message>
+  </messages>
+</conversation>
+

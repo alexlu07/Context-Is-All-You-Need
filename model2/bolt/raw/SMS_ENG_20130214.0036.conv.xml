@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130214.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-02-14 19:29:35 UTC">
+      <body>Kick some ass in your interview today! They will love you?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2013-02-14 19:30:01 UTC">
+      <body>Kick some ass in your interview today! They will love you!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-02-14 19:30:11 UTC">
+      <body>Thanks! Nice accidental (?) use of a question mark :P</body>
+    </message>
+    <message id="m0003" participant="135265" time="2013-02-14 19:31:18 UTC">
+      <body>6 din?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-02-14 19:31:39 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" participant="135265" time="2013-02-14 19:31:56 UTC">
+      <body>Sorry! I thought i fixed it and resent it.</body>
+    </message>
+  </messages>
+</conversation>

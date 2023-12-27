@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-29 19:09:52 UTC" participant="152527">
+      <body>I loaded yesterday's recording into the db let me know if it worked</body>
+    </message>
+    <message id="m0001" time="2013-04-29 19:48:56 UTC" participant="152417">
+      <body>Excellent, thank you</body>
+    </message>
+  </messages>
+</conversation>
+

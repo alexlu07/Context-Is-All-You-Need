@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150118.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-18 00:17:30 UTC" participant="152116">
+      <body>We're all together</body>
+    </message>
+    <message id="m0001" time="2015-01-18 00:18:21 UTC" participant="152116">
+      <body>We decided to meet while waiting.</body>
+    </message>
+    <message id="m0002" time="2015-01-18 00:19:17 UTC" participant="153491">
+      <body>Okay cool. Neither Xuan or Tom are home yet so I'm still with the boys. I'll text to ask where you're at so I can catch up later. </body>
+    </message>
+    <message id="m0003" time="2015-01-18 00:19:25 UTC" participant="153491">
+      <body>Thanks for the update.</body>
+    </message>
+    <message id="m0004" time="2015-01-18 00:20:06 UTC" participant="152116">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 00:09:42 UTC" participant="153804">
+      <body>Sue just called me and was not able to get into until averse to put in your hours did you have any luck?</body>
+    </message>
+    <message id="m0001" time="2015-01-07 00:12:47 UTC" participant="153815">
+      <body>No. Just asking Pat for help. Let you know in a couple of minutes</body>
+    </message>
+    <message id="m0002" time="2015-01-07 00:16:36 UTC" participant="153815">
+      <body>No. I can't even get past the logon.</body>
+    </message>
+    <message id="m0003" time="2015-01-07 00:17:14 UTC" participant="153804">
+      <body>Same with SUE she's going to call the 800 number I'll get back to you</body>
+    </message>
+    <message id="m0004" time="2015-01-07 00:17:51 UTC" participant="153815">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" time="2015-01-07 00:43:45 UTC" participant="153804">
+      <body>I just spoke to Michelle and as soon as she gets home she's going to try to get in I'll let you know what happens</body>
+    </message>
+    <message id="m0006" time="2015-01-07 00:44:49 UTC" participant="153815">
+      <body>Okay. It might be too late for me. Very tired</body>
+    </message>
+    <message id="m0007" time="2015-01-07 00:45:14 UTC" participant="153804">
+      <body>did you read page 11 of the surge manual? Michelle mentioned page has information if you're having trouble logging in.</body>
+    </message>
+    <message id="m0008" time="2015-01-07 00:45:45 UTC" participant="153804">
+      <body>I'm sorry will get it straightened out by tomorrow you will be paid</body>
+    </message>
+    <message id="m0009" time="2015-01-07 01:15:30 UTC" participant="153815">
+      <body>I am okay with it all. Worry about it tomorrow.</body>
+    </message>
+    <message id="m0010" time="2015-01-07 01:16:25 UTC" participant="153804">
+      <body>Sue did get in finally after following instructions on page 11 of surge manual which you did not receive in your email</body>
+    </message>
+    <message id="m0011" time="2015-01-07 01:16:34 UTC" participant="153804">
+      <body>I will forward it to you</body>
+    </message>
+    <message id="m0012" time="2015-01-07 01:17:08 UTC" participant="153815">
+      <body>Okay. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

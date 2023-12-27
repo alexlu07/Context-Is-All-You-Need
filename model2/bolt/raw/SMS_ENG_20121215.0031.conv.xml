@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-15 17:55:27 UTC">
+      <body>Boarding</body>
+    </message>
+    <message id="m0001" participant="136219" time="2012-12-15 17:56:22 UTC">
+      <body>Ok mom is getting you ok?</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-12-15 17:56:43 UTC">
+      <body>Good trip!</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-15 17:56:46 UTC">
+      <body>Yeah she's gonna pick me up</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-15 20:35:46 UTC">
+      <body>Landed!</body>
+    </message>
+    <message id="m0005" participant="136219" time="2012-12-15 20:41:45 UTC">
+      <body>Nice! Welcome back!</body>
+    </message>
+  </messages>
+</conversation>

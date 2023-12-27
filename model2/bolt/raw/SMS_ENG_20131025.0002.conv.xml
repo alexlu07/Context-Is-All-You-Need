@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131025.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-25 20:16:25 UTC" participant="152417">
+      <body>The new heater is little and against the wall, the living room feels much bigger</body>
+    </message>
+    <message id="m0001" time="2013-10-25 20:54:40 UTC" participant="152560">
+      <body>Awesome! Is it a Rinnai?</body>
+    </message>
+    <message id="m0002" time="2013-10-25 21:15:59 UTC" participant="152417">
+      <body>Yes maam</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120522.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-05-22 02:12:59 UTC">
+      <body>Have you seen the people in the lounge? Do they have alcohol?</body>
+    </message>
+    <message id="m0001" participant="131827" time="2012-05-22 02:46:07 UTC">
+      <body>Sorry. I'm actually in the city today. If you think there's a problem, I can ask one of the other RCAs to stop by </body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-05-22 03:36:46 UTC">
+      <body>No lol whatever I don't care what people do just thought you might want to know!</body>
+    </message>
+  </messages>
+</conversation>

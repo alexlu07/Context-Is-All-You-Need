@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150324.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-24 00:07:33 UTC" participant="153467">
+      <body>####### tells me you're going to quizzo?... Your presence determines mine.</body>
+    </message>
+    <message id="m0001" time="2015-03-24 00:07:49 UTC" participant="152374">
+      <body>Yeah, I'm walking down now! </body>
+    </message>
+    <message id="m0002" time="2015-03-24 00:08:09 UTC" participant="153467">
+      <body>See you in a bit</body>
+    </message>
+    <message id="m0003" time="2015-03-24 00:08:41 UTC" participant="153467">
+      <body>Is it just you? Or are you meeting others?</body>
+    </message>
+    <message id="m0004" time="2015-03-24 00:10:08 UTC" participant="152374">
+      <body>Just me, but from what ####### said it sounded like ##### and #### might also go </body>
+    </message>
+    <message id="m0005" time="2015-03-24 00:10:57 UTC" participant="153467">
+      <body>Just the 3 of us</body>
+    </message>
+    <message id="m0006" time="2015-03-24 00:10:58 UTC" participant="153467">
+      <body>Nope</body>
+    </message>
+    <message id="m0007" time="2015-03-24 00:15:09 UTC" participant="152374">
+      <body>OK :) </body>
+    </message>
+  </messages>
+</conversation>
+

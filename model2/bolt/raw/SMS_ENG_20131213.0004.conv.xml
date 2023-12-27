@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 17:05:50 UTC" participant="152560">
+      <body>Yay! I'm all finished. What time do you get out of class?...</body>
+    </message>
+    <message id="m0001" time="2013-12-13 17:15:53 UTC" participant="152417">
+      <body>Ill be leavin in 10 min</body>
+    </message>
+  </messages>
+</conversation>
+

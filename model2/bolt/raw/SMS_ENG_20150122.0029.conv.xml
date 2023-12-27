@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150122.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-22 17:47:21 UTC" participant="153804">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0001" time="2015-01-22 17:47:44 UTC" participant="153804">
+      <body>Wegmans W retail are a pain!!</body>
+    </message>
+    <message id="m0002" time="2015-01-22 17:48:42 UTC" participant="153804">
+      <body>Winding down with resets,let me know if you need any help in Cortland or Auburn area</body>
+    </message>
+    <message id="m0003" time="2015-01-22 19:44:28 UTC" participant="153821">
+      <body>Hi I keep missing your calls! 
+Things are great! 1 more wegmans for me </body>
+    </message>
+  </messages>
+</conversation>
+

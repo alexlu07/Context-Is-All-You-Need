@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120227.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-02-27 23:00:43 UTC">
+      <body>I'm going to over draught again on the 29th. $400 to rent, $118 to student loan</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-02-27 23:04:05 UTC">
+      <body>I'm getting paid on Friday</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-02-27 23:06:33 UTC">
+      <body>And I'll be getting the $100 back at the beginning of the month</body>
+    </message>
+    <message id="m0003" participant="135103" time="2012-02-28 01:01:06 UTC">
+      <body>What $100?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-02-28 01:25:05 UTC">
+      <body>From actors FCC</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-02-28 01:25:09 UTC">
+      <body>FCC</body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-02-28 01:25:13 UTC">
+      <body>FCu</body>
+    </message>
+    <message id="m0007" participant="135103" time="2012-02-28 01:47:04 UTC">
+      <body>Oh I forgot about that.  I'll put some money in tomorrow or Wednesday at the latest. OK?</body>
+    </message>
+  </messages>
+</conversation>

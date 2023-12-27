@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141213.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-13 16:24:59 UTC" participant="149374">
+      <body>I am headed to the Y. Let me know when you push off.</body>
+    </message>
+    <message id="m0001" time="2014-12-13 17:11:23 UTC" participant="153547">
+      <body>Hey I'm at Geoffs. Prolly head your way in an he or two</body>
+    </message>
+    <message id="m0002" time="2014-12-13 19:41:26 UTC" participant="153547">
+      <body>Are you back?</body>
+    </message>
+    <message id="m0003" time="2014-12-13 19:42:15 UTC" participant="149374">
+      <body>Yeah</body>
+    </message>
+    <message id="m0004" time="2014-12-13 20:07:41 UTC" participant="153547">
+      <body>Heading to u</body>
+    </message>
+  </messages>
+</conversation>
+

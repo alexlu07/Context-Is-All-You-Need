@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130705.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-07-05 18:33:42 UTC">
+      <body>Hey! How's your day!</body>
+    </message>
+    <message id="m0001" participant="134920" time="2013-07-05 18:34:38 UTC">
+      <body>Not bad. How about yours?</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-05 18:42:31 UTC">
+      <body>Did you do anything to celebrate the fourth of July?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-07-05 18:43:04 UTC">
+      <body>Okay so far. Family trip to San Francisco. What city are you in?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-07-05 18:44:39 UTC">
+      <body>I met an old friend from high school. Haven't seen her in 20 yrs! What did you do?</body>
+    </message>
+    <message id="m0005" participant="134920" time="2013-07-05 18:47:54 UTC">
+      <body>Was supposed to go to Fresno to visit my cousin but got sick earlier this week (flu? Head cold?), so canceled the trip and stayed in. Bit of a waste. :-)</body>
+    </message>
+  </messages>
+</conversation>

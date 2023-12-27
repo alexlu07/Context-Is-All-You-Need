@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0025" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-28 16:13:16 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-05-28 16:33:37 UTC">
+      <body>How are you</body>
+    </message>
+    <message id="m0002" participant="130657" time="2013-05-28 16:50:49 UTC">
+      <body>Hello, im doing pretty good thank you. And yourself?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-05-28 17:05:31 UTC">
+      <body>Good just left chiropractor</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-05-28 17:46:44 UTC">
+      <body>I take it u are sarcastic? Unless Ur bf is named sarca</body>
+    </message>
+  </messages>
+</conversation>

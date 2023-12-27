@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-13 22:17:06 UTC" participant="152374">
+      <body>We're by the ticket desk!</body>
+    </message>
+    <message id="m0001" time="2013-06-13 22:17:36 UTC" participant="153472">
+      <body>I'm running late. Prob won't get there for 15 mins. Feel free to start w/o me.</body>
+    </message>
+    <message id="m0002" time="2013-06-13 22:18:22 UTC" participant="152374">
+      <body>We can't, it's a timed exhibit :-)  6:30, then 7pm are the next entrances</body>
+    </message>
+    <message id="m0003" time="2013-06-13 22:19:35 UTC" participant="152374">
+      <body>We can wait, don't hurt yourself hurrying :-)</body>
+    </message>
+    <message id="m0004" time="2013-06-13 22:27:29 UTC" participant="153472">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

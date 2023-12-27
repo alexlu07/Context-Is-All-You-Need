@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131355" time="2013-02-16 02:56:29 UTC">
+      <body>Hey hows it going?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-16 03:23:32 UTC">
+      <body>hey! eh. how about you?</body>
+    </message>
+    <message id="m0002" participant="131355" time="2013-02-16 03:24:39 UTC">
+      <body> Same</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-02-16 03:26:17 UTC">
+      <body>whatcha doing tomorrow night?</body>
+    </message>
+    <message id="m0004" participant="131355" time="2013-02-16 03:27:44 UTC">
+      <body>Not sure maby daves u want 2 go</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-02-16 03:32:29 UTC">
+      <body>can't.
+no dough.
+
+have fun!</body>
+    </message>
+    <message id="m0006" participant="131355" time="2013-02-16 03:34:50 UTC">
+      <body>Ill call u tomorrow</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-02-16 03:38:59 UTC">
+      <body>cool.</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-02-17 02:30:05 UTC">
+      <body>never got the pic.</body>
+    </message>
+  </messages>
+</conversation>

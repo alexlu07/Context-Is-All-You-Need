@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140619.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-19 13:01:05 UTC" participant="153900">
+      <body>Got the tickets</body>
+    </message>
+    <message id="m0001" time="2014-06-19 15:32:59 UTC" participant="153244">
+      <body>Ok... ill pay for parking which should cover my ticket</body>
+    </message>
+    <message id="m0002" time="2014-06-19 15:36:56 UTC" participant="153244">
+      <body>Then we can split the tolls? Might cause us about ten each</body>
+    </message>
+    <message id="m0003" time="2014-06-19 15:52:26 UTC" participant="153900">
+      <body>No we will split the ticket is on of</body>
+    </message>
+    <message id="m0004" time="2014-06-19 15:54:18 UTC" participant="153900">
+      <body>I will give you gas money too </body>
+    </message>
+    <message id="m0005" time="2014-06-19 17:31:57 UTC" participant="153244">
+      <body>Nah you don't have to do that. Ill take car of the gas</body>
+    </message>
+    <message id="m0006" time="2014-06-19 17:35:20 UTC" participant="153900">
+      <body>Cousin steph died</body>
+    </message>
+    <message id="m0007" time="2014-06-20 12:04:36 UTC" participant="153900">
+      <body>Bring two sets of Car keys</body>
+    </message>
+    <message id="m0008" time="2014-06-20 12:20:12 UTC" participant="153900">
+      <body>Because when you go far it's best to have just in case</body>
+    </message>
+    <message id="m0009" time="2014-06-20 12:21:18 UTC" participant="153244">
+      <body>I should be over in about 20 mins. Unlock the door at 840</body>
+    </message>
+  </messages>
+</conversation>
+

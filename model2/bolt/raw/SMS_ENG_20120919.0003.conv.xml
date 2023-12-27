@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120919.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-09-19 18:33:08 UTC">
+      <body>How are u wifey? </body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-09-19 18:33:28 UTC">
+      <body>Im tired. U?</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-09-19 18:34:14 UTC">
+      <body>So tired, also so much work to do. </body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-09-19 23:18:38 UTC">
+      <body>No sleep 4 the wicked. I miss u</body>
+    </message>
+  </messages>
+</conversation>

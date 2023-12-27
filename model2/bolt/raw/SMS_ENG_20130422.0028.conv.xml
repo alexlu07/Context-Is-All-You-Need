@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130422.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-22 23:12:14 UTC">
+      <body>Congrats!!! </body>
+    </message>
+    <message id="m0001" participant="135264" time="2013-04-22 23:16:26 UTC">
+      <body>I spent last night in the ER for a severe allergic reaction, and I'm now on steroids/Benadryl. I have a thesis extension till Wednesday </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-22 23:17:43 UTC">
+      <body>Oh nooooo! What are you allergic to? I hope you feel better!</body>
+    </message>
+    <message id="m0003" participant="135264" time="2013-04-22 23:19:28 UTC">
+      <body>I have no idea... Argh</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-22 23:20:19 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

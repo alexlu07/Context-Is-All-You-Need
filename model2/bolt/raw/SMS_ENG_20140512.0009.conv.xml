@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140512.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-12 17:30:43 UTC" participant="153553">
+      <body>Hey! Can you send me that cauliflower pizza recipe?? I'm gonna go to the grocery today and wanna try and make it soon!</body>
+    </message>
+    <message id="m0001" time="2014-05-12 17:35:39 UTC" participant="153548">
+      <body>Yes. Will send now!</body>
+    </message>
+    <message id="m0002" time="2014-05-12 17:35:57 UTC" participant="153553">
+      <body>Thank you!!!</body>
+    </message>
+  </messages>
+</conversation>
+

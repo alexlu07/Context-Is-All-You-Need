@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135304" time="2013-04-27 19:41:45 UTC">
+      <body>We found a different crime map that breaks it down by theft, sex offender, assault etc. - it doesn't actually look too bad, but i wouldn't go further west.</body>
+    </message>
+    <message id="m0001" participant="135304" time="2013-04-27 19:43:22 UTC">
+      <body>It looks like as long as you stay east of 50th you're okay.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-27 19:44:10 UTC">
+      <body>Does it change at all north/south?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140916.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-16 01:56:40 UTC" participant="153548">
+      <body>Oh shit! I might skip the screening but will meet you downtown for dinner before'</body>
+    </message>
+    <message id="m0001" time="2014-09-16 18:22:09 UTC" participant="153548">
+      <body>Let me know if you still wanna try to grab a bite before Leanne's screening. Have you tried cafe karma?</body>
+    </message>
+    <message id="m0002" time="2014-09-16 18:25:04 UTC" participant="153640">
+      <body>I'd love to. Do they have real food? Or there's hip city. Just need real food!</body>
+    </message>
+    <message id="m0003" time="2014-09-16 18:32:46 UTC" participant="153548">
+      <body>Let's do hip city then. I'm not sure what they have might just be snacks.</body>
+    </message>
+    <message id="m0004" time="2014-09-16 18:32:57 UTC" participant="153548">
+      <body>Meet you there around 6!</body>
+    </message>
+    <message id="m0005" time="2014-09-16 18:33:09 UTC" participant="153640">
+      <body>Perfect!</body>
+    </message>
+  </messages>
+</conversation>
+

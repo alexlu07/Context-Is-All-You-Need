@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111004.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-10-04 00:48:02 UTC">
+      <body>Wait I forgot I have mock trial practice</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-10-04 00:52:22 UTC">
+      <body>That was a lie</body>
+    </message>
+    <message id="m0002" participant="131825" time="2011-10-04 01:02:20 UTC">
+      <body>Haha ok im walking over now!</body>
+    </message>
+    <message id="m0003" participant="131825" time="2011-10-04 04:21:13 UTC">
+      <body>Doneeeee should i come to ur room or do u want to use my common room?</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-10-04 04:21:37 UTC">
+      <body>Come to my roommmm</body>
+    </message>
+    <message id="m0005" participant="131825" time="2011-10-04 04:22:05 UTC">
+      <body>Ok what number?</body>
+    </message>
+    <message id="m0006" participant="131825" time="2011-10-04 04:29:58 UTC">
+      <body>Whats the number</body>
+    </message>
+    <message id="m0007" participant="131821" time="2011-10-04 04:30:30 UTC">
+      <body>3044444</body>
+    </message>
+    <message id="m0008" participant="131825" time="2011-10-04 04:31:12 UTC">
+      <body>Wow i didnt know there were more than 300 000 rooms in ur building!</body>
+    </message>
+    <message id="m0009" participant="131825" time="2011-10-04 14:09:22 UTC">
+      <body>Coming down!</body>
+    </message>
+    <message id="m0010" participant="131825" time="2011-10-04 20:54:20 UTC">
+      <body>Dinner at 5 15</body>
+    </message>
+    <message id="m0011" participant="131825" time="2011-10-04 21:12:21 UTC">
+      <body>Im walkin over now. Not walkin on broken glass though...</body>
+    </message>
+    <message id="m0012" participant="131821" time="2011-10-04 21:12:35 UTC">
+      <body>Wait for me!</body>
+    </message>
+    <message id="m0013" participant="131825" time="2011-10-04 21:13:04 UTC">
+      <body>Okey dokey r y coming down now?</body>
+    </message>
+    <message id="m0014" participant="131825" time="2011-10-04 21:27:36 UTC">
+      <body>We r in wu</body>
+    </message>
+  </messages>
+</conversation>

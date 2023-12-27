@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131488" time="2013-04-24 16:15:39 UTC">
+      <body>Can you tell Marcos and Tatyana that I can't come? I have some time-sensitive stuff to do here and I brought lunch.</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-04-24 16:23:43 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

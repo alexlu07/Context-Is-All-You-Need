@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130206.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-06 12:26:18 UTC" participant="152555">
+      <body>Headed to nunyuns for a cup. Would you like one?</body>
+    </message>
+    <message id="m0001" time="2013-02-06 12:35:02 UTC" participant="152417">
+      <body>Tea please, see you in two min</body>
+    </message>
+    <message id="m0002" time="2013-02-06 12:37:24 UTC" participant="152555">
+      <body>What type?</body>
+    </message>
+  </messages>
+</conversation>
+

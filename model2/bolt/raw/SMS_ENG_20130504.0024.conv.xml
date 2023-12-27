@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131421" time="2013-05-04 00:28:26 UTC">
+      <body>Hey, i miss you. Want to talk sometime soon?</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-05-04 00:29:06 UTC">
+      <body>Yes! When are you free? :)</body>
+    </message>
+    <message id="m0002" participant="131421" time="2013-05-04 00:30:24 UTC">
+      <body>Tonight, or tomorrow &amp; sunday during day. You?</body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-05-04 00:31:27 UTC">
+      <body>All of the above more or less. Do you want to do tonight? Do you want to wait till 9 for your free minutes?</body>
+    </message>
+    <message id="m0004" participant="131421" time="2013-05-04 00:35:22 UTC">
+      <body>Sure! Is that too late for you?</body>
+    </message>
+    <message id="m0005" participant="130962" time="2013-05-04 00:36:09 UTC">
+      <body>No that's ok! I'm on spring break! :) </body>
+    </message>
+    <message id="m0006" participant="131421" time="2013-05-04 00:40:24 UTC">
+      <body>Whee! Good. Will call you at 9.</body>
+    </message>
+    <message id="m0007" participant="130962" time="2013-05-04 00:41:15 UTC">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>

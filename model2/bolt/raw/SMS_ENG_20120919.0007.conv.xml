@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120919.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135381" time="2012-09-19 05:21:33 UTC">
+      <body>Dear Sofie, Go Bananas will meet up at 11:00 in DMI (3F Tower ) today,  you are welcome to join us if you like ;)</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-19 13:33:46 UTC">
+      <body>In our DMI room</body>
+    </message>
+    <message id="m0002" participant="135381" time="2012-09-19 13:42:14 UTC">
+      <body>Sofie, sorry but my friend Michael got an unexpected meeting with prof., we postpone our meetup to tomorrow at 3:45pm, is that ok for you?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-19 13:42:41 UTC">
+      <body>Ok much better for me thanks for keeping me in the loop</body>
+    </message>
+    <message id="m0004" participant="135381" time="2012-09-19 13:45:52 UTC">
+      <body>Time changed: 3:30! So tomorrow 3:30pm in DMI room ;)</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-09-19 13:46:15 UTC">
+      <body>Ok great!!!</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-09-19 15:22:43 UTC">
+      <body>You want to meet for coffee before class today?</body>
+    </message>
+    <message id="m0007" participant="135381" time="2012-09-19 15:24:20 UTC">
+      <body>I will be at MIT till 5pm &gt;_&lt;</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-09-19 15:24:47 UTC">
+      <body>That's ok. Let's meet at 6ish?</body>
+    </message>
+    <message id="m0009" participant="135381" time="2012-09-19 15:25:25 UTC">
+      <body>Ok &lt;3</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-09-19 15:25:34 UTC">
+      <body/>
+    </message>
+    <message id="m0011" participant="135381" time="2012-09-19 22:12:40 UTC">
+      <body>Sofie are we going to meet at 6 in DMI place, right?</body>
+    </message>
+    <message id="m0012" participant="135381" time="2012-09-19 22:15:17 UTC">
+      <body>Or in cafeteria? I'm wondering if I'm in the right venue @_@</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-09-19 22:15:56 UTC">
+      <body>I'm in cafeteria but I will be coming to DMI in a moment. To tower 312</body>
+    </message>
+  </messages>
+</conversation>

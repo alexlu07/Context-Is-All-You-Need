@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-20 02:31:57 UTC" participant="153467">
+      <body>Just saw your fb post... Congrats!</body>
+    </message>
+    <message id="m0001" time="2013-06-20 02:38:06 UTC" participant="152374">
+      <body>Thanks :-) Want to do dinner or something else next week?</body>
+    </message>
+    <message id="m0002" time="2013-06-20 02:39:01 UTC" participant="153467">
+      <body>I'm at the beach all next week... You should come down on Sunday</body>
+    </message>
+    <message id="m0003" time="2013-06-20 02:40:10 UTC" participant="152374">
+      <body>Hmm. Maybe! Send me the details when you can and I'll see what's on my calendar for the weekend</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-05-30 13:17:10 UTC">
+      <body>Yo man. Coming home on Saturday.  Have to be in Seattle for work next week. </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-30 13:18:03 UTC">
+      <body>You going to be around? I will be in Puyallup this weekend, Seattle during the week and then Puyallup the following weekend. </body>
+    </message>
+    <message id="m0002" participant="134279" time="2013-05-30 14:27:31 UTC">
+      <body>Sweet. Ya dude I will be around. Hit me up when u get into town.</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-05-30 14:34:09 UTC">
+      <body>Where you living these days? What else is new? Work going well still? </body>
+    </message>
+  </messages>
+</conversation>

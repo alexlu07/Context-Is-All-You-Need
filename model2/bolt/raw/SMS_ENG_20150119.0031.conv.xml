@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150119.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-19 20:26:26 UTC" participant="152116">
+      <body>I'm mailing this out tomorrow!</body>
+    </message>
+    <message id="m0001" time="2015-01-19 20:28:10 UTC" participant="153244">
+      <body>Dun DUN dunnnn!!!!!!</body>
+    </message>
+    <message id="m0002" time="2015-01-19 20:35:35 UTC" participant="153244">
+      <body>How long til you get your results??</body>
+    </message>
+    <message id="m0003" time="2015-01-19 20:36:16 UTC" participant="152116">
+      <body>Maybe two weeks.</body>
+    </message>
+    <message id="m0004" time="2015-01-19 20:36:31 UTC" participant="152116">
+      <body>Hopefully not longer</body>
+    </message>
+    <message id="m0005" time="2015-01-19 20:36:49 UTC" participant="152116">
+      <body>You should do it too! I'm curious to know how we're different</body>
+    </message>
+    <message id="m0006" time="2015-01-19 20:37:38 UTC" participant="153244">
+      <body>I will next time its discounted</body>
+    </message>
+    <message id="m0007" time="2015-01-19 20:42:39 UTC" participant="152116">
+      <body>Okay. There may be online coupons so you can search</body>
+    </message>
+  </messages>
+</conversation>
+

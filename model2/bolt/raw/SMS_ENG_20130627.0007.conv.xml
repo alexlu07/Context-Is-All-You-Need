@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130518" time="2013-06-27 11:42:15 UTC">
+      <body>Hey how's your day going?</body>
+    </message>
+    <message id="m0001" participant="132520" time="2013-06-27 11:45:25 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="132520" time="2013-06-27 12:13:51 UTC">
+      <body>Hello it's going alright how about you?</body>
+    </message>
+    <message id="m0003" participant="130518" time="2013-06-27 12:27:48 UTC">
+      <body>So what's going on?</body>
+    </message>
+    <message id="m0004" participant="130518" time="2013-06-27 13:10:17 UTC">
+      <body>Just working from home today and trying to beat the heat.</body>
+    </message>
+    <message id="m0005" participant="130518" time="2013-06-27 13:10:17 UTC">
+      <body>What are your plans for today or this weekend?</body>
+    </message>
+    <message id="m0006" participant="132520" time="2013-06-27 13:18:45 UTC">
+      <body>Not much just ate lunch, whats going on with you?</body>
+    </message>
+    <message id="m0007" participant="132520" time="2013-06-27 14:03:55 UTC">
+      <body>I'm not doing to much today but I'm heading back to the my hometown this weekend to help my mom with a yard sale</body>
+    </message>
+    <message id="m0008" participant="130518" time="2013-06-27 14:12:54 UTC">
+      <body>I'm going to the pine barons this weekend and probably do some swimming. Where are you located?</body>
+    </message>
+    <message id="m0009" participant="130518" time="2013-06-27 14:32:34 UTC">
+      <body>That sounds nice, where is your hometown?</body>
+    </message>
+    <message id="m0010" participant="132520" time="2013-06-27 14:55:04 UTC">
+      <body>I live in queens now but I'm from a small town in Connecticut</body>
+    </message>
+  </messages>
+</conversation>

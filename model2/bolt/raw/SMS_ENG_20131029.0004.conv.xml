@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131029.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-29 23:36:26 UTC" participant="153547">
+      <body>ETA 8</body>
+    </message>
+    <message id="m0001" time="2013-10-29 23:37:02 UTC" participant="153555">
+      <body>Sounds good. See you then </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150123.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-23 14:47:28 UTC" participant="153543">
+      <body>I don't know if that can be fixed....</body>
+    </message>
+    <message id="m0001" time="2015-01-23 18:21:26 UTC" participant="153491">
+      <body>:( </body>
+    </message>
+    <message id="m0002" time="2015-01-24 04:51:08 UTC" participant="153491">
+      <body>Does it look up there what it looks like outside of my window right now?</body>
+    </message>
+    <message id="m0003" time="2015-01-24 12:17:29 UTC" participant="153543">
+      <body>What? </body>
+    </message>
+  </messages>
+</conversation>
+

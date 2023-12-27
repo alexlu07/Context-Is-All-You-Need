@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150101.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-01 14:40:33 UTC" participant="152115">
+      <body>Happy New Year! Sorry I didn't text last night. I was in bed.</body>
+    </message>
+    <message id="m0001" time="2015-01-01 16:20:02 UTC" participant="152119">
+      <body>Haha that's okay. Happy New Year! </body>
+    </message>
+  </messages>
+</conversation>
+

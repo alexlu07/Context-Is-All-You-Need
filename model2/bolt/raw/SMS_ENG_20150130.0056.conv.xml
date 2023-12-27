@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 21:43:54 UTC" participant="153900">
+      <body>Do you have to work tonight</body>
+    </message>
+    <message id="m0001" time="2015-01-30 21:56:32 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2015-01-30 21:57:01 UTC" participant="153900">
+      <body>Be careful</body>
+    </message>
+    <message id="m0003" time="2015-01-30 21:58:39 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

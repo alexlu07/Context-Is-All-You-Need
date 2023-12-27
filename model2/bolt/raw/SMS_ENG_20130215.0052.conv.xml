@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-15 00:15:46 UTC" participant="152417">
+      <body>Happy valentines day! Thank you for the poem; don't forget to check your mail when you get home</body>
+    </message>
+    <message id="m0001" time="2013-02-15 20:34:33 UTC" participant="152560">
+      <body>Thanks for the beautiful song; it made me smile after a long day yesterday!</body>
+    </message>
+    <message id="m0002" time="2013-02-15 21:01:05 UTC" participant="152417">
+      <body>Yay! Glad you liked it, ill have to record it again now that im not stuffy.  When do you leave for work? Can i ride down town w u?</body>
+    </message>
+    <message id="m0003" time="2013-02-15 21:51:23 UTC" participant="152560">
+      <body>Sorry I missed you-I'm already at work; I had to walk because it's so nice out!</body>
+    </message>
+  </messages>
+</conversation>
+

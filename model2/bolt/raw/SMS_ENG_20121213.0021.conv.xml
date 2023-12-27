@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121213.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2012-12-13 00:58:42 UTC">
+      <body>Hey I was gonna hit you and Dan up but I don't have his # so its just you.  I was wondering if you guys were going to that gun show in Oaks this weekend..?</body>
+    </message>
+    <message id="m0001" participant="136727" time="2012-12-13 01:30:14 UTC">
+      <body>Lemme ask Dan, I'm sure he'll wanna go!</body>
+    </message>
+    <message id="m0002" participant="136727" time="2012-12-13 01:30:29 UTC">
+      <body>He would only be able to go Sunday though</body>
+    </message>
+  </messages>
+</conversation>

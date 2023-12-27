@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-20 23:52:45 UTC" participant="153547">
+      <body>Boarded in philly. See you in 5+ hrs</body>
+    </message>
+    <message id="m0001" time="2014-12-21 03:07:53 UTC" participant="153572">
+      <body>Are you in Atl?
+Phyllis</body>
+    </message>
+    <message id="m0002" time="2014-12-21 03:19:31 UTC" participant="153547">
+      <body>Keys</body>
+    </message>
+    <message id="m0003" time="2014-12-21 03:20:04 UTC" participant="153547">
+      <body>I meant yes </body>
+    </message>
+    <message id="m0004" time="2014-12-21 03:20:19 UTC" participant="153547">
+      <body>New autocorrect sucks </body>
+    </message>
+    <message id="m0005" time="2014-12-21 03:20:50 UTC" participant="153572">
+      <body>I thought so
+Phyllis</body>
+    </message>
+    <message id="m0006" time="2014-12-21 03:22:33 UTC" participant="153572">
+      <body>Everthing on schedule?
+Phyllis</body>
+    </message>
+    <message id="m0007" time="2014-12-21 03:23:32 UTC" participant="153547">
+      <body>I think so</body>
+    </message>
+    <message id="m0008" time="2014-12-21 03:25:27 UTC" participant="153572">
+      <body>Do you want me to bring you a snack?
+Phyllis</body>
+    </message>
+    <message id="m0009" time="2014-12-21 03:30:24 UTC" participant="153547">
+      <body>No thanks</body>
+    </message>
+    <message id="m0010" time="2014-12-21 03:31:42 UTC" participant="153572">
+      <body>Souldn't you be boarding soon?
+Phyllis</body>
+    </message>
+    <message id="m0011" time="2014-12-21 03:56:07 UTC" participant="153547">
+      <body>Boarded. Flight is delayed for stragglers </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-12-31 18:54:42 UTC">
+      <body>Yep! We're almost to the airport!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-12-31 18:54:45 UTC">
+      <body>Everything going ok?</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-12-31 18:55:58 UTC">
+      <body>Good!  Xoxoxo</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-12-31 18:56:11 UTC">
+      <body>I'll text you when we get home. xoxox</body>
+    </message>
+    <message id="m0004" participant="131023" time="2012-12-31 18:57:30 UTC">
+      <body>Perfect!xoxoxo</body>
+    </message>
+    <message id="m0005" participant="130712" time="2013-01-01 02:02:52 UTC">
+      <body>Just landed! Do you have the house to yourself again?</body>
+    </message>
+    <message id="m0006" participant="131023" time="2013-01-01 02:41:05 UTC">
+      <body>Welcome home!  They're staying tonight!</body>
+    </message>
+    <message id="m0007" participant="130712" time="2013-01-01 03:30:28 UTC">
+      <body>Oh no! Give them a noise curfew!!!</body>
+    </message>
+    <message id="m0008" participant="131023" time="2013-01-01 08:48:44 UTC">
+      <body>Happy New Year Lovebug and Richie!  So enjoyed having you here!</body>
+    </message>
+    <message id="m0009" participant="131023" time="2013-01-02 00:49:13 UTC">
+      <body>What the hell am I supposed to do with your pig?</body>
+    </message>
+    <message id="m0010" participant="130712" time="2013-01-02 02:47:07 UTC">
+      <body>Lol. Donate.</body>
+    </message>
+    <message id="m0011" participant="131023" time="2013-01-02 02:56:02 UTC">
+      <body>Lol!</body>
+    </message>
+  </messages>
+</conversation>

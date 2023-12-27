@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130819.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-19 14:34:28 UTC" participant="152426">
+      <body>We are on the road. Did dad tell you we don't get into the house until about 4:30? Are you at the school this morning?</body>
+    </message>
+    <message id="m0001" time="2013-08-19 14:35:27 UTC" participant="152417">
+      <body>Yes.  we'll be arriving around then.  What school?</body>
+    </message>
+    <message id="m0002" time="2013-08-19 14:36:36 UTC" participant="152426">
+      <body>The private school that you interviewed with</body>
+    </message>
+    <message id="m0003" time="2013-08-19 14:41:27 UTC" participant="152417">
+      <body>Havent heard from them yet</body>
+    </message>
+    <message id="m0004" time="2013-08-19 14:41:47 UTC" participant="152426">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

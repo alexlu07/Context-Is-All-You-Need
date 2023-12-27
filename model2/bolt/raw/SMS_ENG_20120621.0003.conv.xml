@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120621.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-06-21 15:50:25 UTC">
+      <body>Good morning Pix!  Do you have Gregg's cell #?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-06-21 16:47:41 UTC">
+      <body>Thanks, sher has surgery today.</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-06-21 16:48:44 UTC">
+      <body>I know, we were thinking about visiting on Sunday, but aren't sure if she'd like that</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-06-21 16:49:56 UTC">
+      <body>Gunk said she was told that it was going to take 6 wks for recovery!</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-06-21 16:51:55 UTC">
+      <body>I know! So there's time.</body>
+    </message>
+    <message id="m0005" participant="131023" time="2012-06-21 16:52:59 UTC">
+      <body>Yep, i'd wait a bit.  Love you!</body>
+    </message>
+    <message id="m0006" participant="130712" time="2012-06-21 16:53:16 UTC">
+      <body>Love you!!</body>
+    </message>
+  </messages>
+</conversation>

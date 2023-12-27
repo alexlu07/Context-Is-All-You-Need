@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-23 17:34:41 UTC">
+      <body>Hey there! Do you have a fax machine at your office? And if so could you possibly fax the copy of the lease to my dad so that I have a copy when I move in? I'm gonna need it to get us internet.</body>
+    </message>
+    <message id="m0001" participant="135293" time="2013-05-23 23:21:36 UTC">
+      <body>Sure. What is his fax number? And who do I bring it to the attention of? </body>
+    </message>
+  </messages>
+</conversation>

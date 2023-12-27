@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 22:58:54 UTC" participant="153547">
+      <body>Is your plotter up and running?</body>
+    </message>
+    <message id="m0001" time="2015-02-02 23:17:20 UTC" participant="149372">
+      <body>Yeah. </body>
+    </message>
+    <message id="m0002" time="2015-02-02 23:19:28 UTC" participant="149372">
+      <body>11th</body>
+    </message>
+    <message id="m0003" time="2015-02-02 23:20:42 UTC" participant="153547">
+      <body>When do you get back from your trip?</body>
+    </message>
+    <message id="m0004" time="2015-02-02 23:22:29 UTC" participant="153547">
+      <body>Ok. You think I might be able to print something while your away? I need to get started on a piece, but I gotta work Wednesday and Thursday </body>
+    </message>
+    <message id="m0005" time="2015-02-03 13:15:44 UTC" participant="149372">
+      <body>Sure. It basically only prints easily from pdf. </body>
+    </message>
+    <message id="m0007" time="2015-02-03 13:19:06 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0008" time="2015-02-03 13:20:05 UTC" participant="149372">
+      <body>Did you respond? </body>
+    </message>
+    <message id="m0009" time="2015-02-03 13:20:45 UTC" participant="149372">
+      <body>If you you don't want to do it just let her know, I'm staying out of it. </body>
+    </message>
+    <message id="m0010" time="2015-02-03 13:21:20 UTC" participant="153547">
+      <body>Ok. I will tell her I'm not doing it</body>
+    </message>
+    <message id="m0011" time="2015-02-03 13:21:39 UTC" participant="149372">
+      <body>Word</body>
+    </message>
+    <message id="m0013" time="2015-02-03 13:30:40 UTC" participant="149372">
+      <body>Ha! Nope. I know no one by that name. </body>
+    </message>
+    <message id="m0015" time="2015-02-03 13:32:48 UTC" participant="149372">
+      <body>Weird. I wonder who that was. </body>
+    </message>
+    <message id="m0016" time="2015-02-03 13:33:22 UTC" participant="153547">
+      <body>Prolly a client</body>
+    </message>
+    <message id="m0017" time="2015-02-03 15:21:27 UTC" participant="153547">
+      <body>No tax forms at ups.</body>
+    </message>
+    <message id="m0018" time="2015-02-03 15:29:52 UTC" participant="149372">
+      <body>Maybe that h&amp;r block on 52nd has some. I'll go by today. </body>
+    </message>
+  </messages>
+</conversation>
+

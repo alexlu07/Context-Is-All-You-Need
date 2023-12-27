@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-04-29 20:04:58 UTC">
+      <body>Hey its been forever, you don't happen to be in San Diego do you? </body>
+    </message>
+    <message id="m0001" participant="134321" time="2013-04-29 21:24:48 UTC">
+      <body>Ya long time bro. No I'm back up north now. You headed there?</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-04-29 21:46:00 UTC">
+      <body>I thought you were back up north.  Yeah I got in here this morning.  How is everything? I think I am coming info town at the beginning of June for work. </body>
+    </message>
+  </messages>
+</conversation>

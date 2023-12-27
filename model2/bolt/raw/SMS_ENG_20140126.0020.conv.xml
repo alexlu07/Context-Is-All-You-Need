@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140126.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-26 20:49:28 UTC" participant="152116">
+      <body>Sounds like something you'd eat</body>
+    </message>
+    <message id="m0001" time="2014-01-27 01:45:39 UTC" participant="153244">
+      <body>I love breaded pickles!  Normally called fried pickled... where did you see those? </body>
+    </message>
+    <message id="m0002" time="2014-01-27 11:46:09 UTC" participant="152116">
+      <body>They were at Fresh Grocer on Penn's campus. Though it's now a ShopRite.</body>
+    </message>
+    <message id="m0003" time="2014-01-27 13:42:17 UTC" participant="153244">
+      <body>Hey can you check the heat? Keep pressing the down arrow until it says 65 degrees</body>
+    </message>
+    <message id="m0004" time="2014-01-27 13:43:02 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0005" time="2014-01-27 13:43:33 UTC" participant="153244">
+      <body>Thx</body>
+    </message>
+    <message id="m0006" time="2014-01-27 15:29:14 UTC" participant="152116">
+      <body>The detergent is almost out. Where do you get it from?</body>
+    </message>
+    <message id="m0007" time="2014-01-27 16:10:32 UTC" participant="153244">
+      <body>We know.  And from walmart</body>
+    </message>
+  </messages>
+</conversation>
+

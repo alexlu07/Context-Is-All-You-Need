@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140219.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-19 20:20:16 UTC" participant="153645">
+      <body>Ant interest in going to the studio for a bit on Saturday? </body>
+    </message>
+    <message id="m0001" time="2014-02-19 20:22:24 UTC" participant="153645">
+      <body>Yay! Lets do it. 11am? </body>
+    </message>
+    <message id="m0002" time="2014-02-19 20:22:49 UTC" participant="153548">
+      <body>Yes! I can go mid morning early afternoon!</body>
+    </message>
+    <message id="m0003" time="2014-02-19 20:41:06 UTC" participant="153548">
+      <body>Sounds great! See you then!</body>
+    </message>
+    <message id="m0004" time="2014-02-19 20:41:36 UTC" participant="153645">
+      <body>Great! </body>
+    </message>
+  </messages>
+</conversation>
+

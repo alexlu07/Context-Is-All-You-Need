@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140213.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-13 23:01:22 UTC" participant="152417">
+      <body>Did you drive in to work? Do you want me to pick you up?</body>
+    </message>
+    <message id="m0001" time="2014-02-14 03:19:56 UTC" participant="152560">
+      <body>I drove. Thanks though baby!</body>
+    </message>
+  </messages>
+</conversation>
+

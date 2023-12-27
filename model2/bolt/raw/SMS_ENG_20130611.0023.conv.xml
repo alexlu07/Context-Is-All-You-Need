@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133113" time="2013-06-11 18:37:06 UTC">
+      <body>The bus is called the R10 right?</body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-06-12 00:36:14 UTC">
+      <body>So what's your homecoming ETA?</body>
+    </message>
+    <message id="m0002" participant="133113" time="2013-06-12 01:21:10 UTC">
+      <body>Waiting for the next 10 apparently they dont stop south of pico</body>
+    </message>
+    <message id="m0003" participant="133111" time="2013-06-12 01:22:19 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0004" participant="133113" time="2013-06-12 02:08:49 UTC">
+      <body>Which stop do i wait for?</body>
+    </message>
+    <message id="m0005" participant="133111" time="2013-06-12 02:09:12 UTC">
+      <body>Santa Monica and Yale</body>
+    </message>
+    <message id="m0006" participant="133111" time="2013-06-12 02:10:32 UTC">
+      <body>One or two stops after centinela</body>
+    </message>
+    <message id="m0007" participant="133113" time="2013-06-12 02:11:11 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121105.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135533" time="2012-11-05 13:56:16 UTC">
+      <body>Safety first! Just found the front right burner left on low...scary! Carbon monoxide and fire risk. Be careful!</body>
+    </message>
+    <message id="m0001" participant="135533" time="2012-11-05 17:44:32 UTC">
+      <body>5 mins</body>
+    </message>
+    <message id="m0002" participant="135533" time="2012-11-05 17:44:32 UTC">
+      <body>Right by children's</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-05 17:50:27 UTC">
+      <body>Cool meet at Pete's?</body>
+    </message>
+  </messages>
+</conversation>

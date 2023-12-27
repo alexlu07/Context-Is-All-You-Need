@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131117.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-17 15:35:52 UTC" participant="152734">
+      <body>Nice weather! Still wanna horse park?</body>
+    </message>
+    <message id="m0001" time="2013-11-17 15:37:16 UTC" participant="153305">
+      <body>Yep!!! Tanya reallyi wants to go too but can't go closer to 1:45 </body>
+    </message>
+    <message id="m0002" time="2013-11-17 15:37:19 UTC" participant="153305">
+      <body>Is that okay?</body>
+    </message>
+    <message id="m0003" time="2013-11-17 15:37:30 UTC" participant="153305">
+      <body>I am going to head to farm in 40</body>
+    </message>
+    <message id="m0004" time="2013-11-17 15:37:43 UTC" participant="152734">
+      <body>Great! Leave at 145?</body>
+    </message>
+    <message id="m0005" time="2013-11-17 15:37:44 UTC" participant="153305">
+      <body>Want to ride
+Louie and dollar together?</body>
+    </message>
+    <message id="m0006" time="2013-11-17 15:37:50 UTC" participant="153305">
+      <body>Yep!!</body>
+    </message>
+    <message id="m0007" time="2013-11-17 15:39:50 UTC" participant="152734">
+      <body>I'm gonna take him for a good walk now! See you soon</body>
+    </message>
+  </messages>
+</conversation>
+

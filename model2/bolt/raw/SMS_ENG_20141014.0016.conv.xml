@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141014.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-14 13:55:48 UTC" participant="153660">
+      <body>I'm going to give you a call around noon to go over school stuff... totally not busy though so let me know if another time is better. </body>
+    </message>
+    <message id="m0001" time="2014-10-14 14:07:33 UTC" participant="153548">
+      <body>Sounds good. I'm still in my pajamas. Anytime before 3 works for me.</body>
+    </message>
+    <message id="m0002" time="2014-10-14 14:08:26 UTC" participant="153660">
+      <body>Ok cool. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120916.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-16 03:57:46 UTC">
+      <body>Whered you guys go</body>
+    </message>
+    <message id="m0001" participant="136270" time="2012-09-16 03:58:56 UTC">
+      <body>Still at dobbs but about to head out where are you</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-16 04:04:30 UTC">
+      <body>Sig k</body>
+    </message>
+    <message id="m0003" participant="136270" time="2012-09-16 04:05:20 UTC">
+      <body>Chi or kappa?</body>
+    </message>
+    <message id="m0004" participant="136270" time="2012-09-16 04:05:20 UTC">
+      <body>I don't think sigma kappa is a thing </body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-16 04:05:33 UTC">
+      <body>I meant chi</body>
+    </message>
+  </messages>
+</conversation>

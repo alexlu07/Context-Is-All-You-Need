@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-10 01:00:06 UTC">
+      <body>how do you feel about blueberry muffins? </body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-02-10 01:05:28 UTC">
+      <body>I like the idea. Do you plan on surprising of with some?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-10 01:05:58 UTC">
+      <body>it won't be a surprise now, but... </body>
+    </message>
+  </messages>
+</conversation>

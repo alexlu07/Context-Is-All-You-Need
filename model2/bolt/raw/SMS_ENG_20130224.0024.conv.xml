@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132548" time="2013-02-24 19:18:12 UTC">
+      <body>Hey Dan. It's Matt, I inquired about creating a music video. Is there a time I could call you to talk more about it? </body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-02-24 19:21:56 UTC">
+      <body>hey Matt.  You want to talk on the phone?</body>
+    </message>
+    <message id="m0002" participant="132548" time="2013-02-24 19:24:04 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-02-24 19:26:27 UTC">
+      <body>Im out right now but i will be home in an hour or two. When is good for you</body>
+    </message>
+    <message id="m0004" participant="132548" time="2013-02-24 19:29:50 UTC">
+      <body>Anytime today works for me </body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-02-24 19:42:46 UTC">
+      <body>Ok ill call you in a little</body>
+    </message>
+  </messages>
+</conversation>

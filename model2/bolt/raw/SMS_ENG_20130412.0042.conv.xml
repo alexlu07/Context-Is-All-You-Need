@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-12 23:14:51 UTC">
+      <body>I am coming to your opening!  Will you be there until nine?</body>
+    </message>
+    <message id="m0001" participant="135469" time="2013-04-12 23:53:36 UTC">
+      <body>Hi still here
+I'm asking Anne Marie when we are leaving
+Back in a moment</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-12 23:55:39 UTC">
+      <body>We are ten minutes away! So we will see you soon I'm with my sister. </body>
+    </message>
+    <message id="m0003" participant="135469" time="2013-04-12 23:55:44 UTC">
+      <body>Will wait just for you</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-12 23:56:50 UTC">
+      <body>Oh I don't want to hold you up!!!</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-13 00:07:50 UTC">
+      <body>Parking</body>
+    </message>
+  </messages>
+</conversation>

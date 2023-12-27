@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-04-20 14:51:18 UTC">
+      <body>Hey, would you maybe want to do brunch at 11:30?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-20 14:55:57 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-04-20 15:10:50 UTC">
+      <body>Yay :) meet you there?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-20 15:11:26 UTC">
+      <body> K</body>
+    </message>
+    <message id="m0004" participant="135274" time="2013-04-20 15:30:16 UTC">
+      <body>Sorry, running a little late! be there in 5ish</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-04-20 15:32:29 UTC">
+      <body>I'm leaving Lloyd now, ill wait in the lobby :)</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-04-20 15:36:08 UTC">
+      <body>Actually I think Anna might be here... Ill meet you inside</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-04-20 15:37:38 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-04-20 17:33:33 UTC">
+      <body>Hey I might come to the psych thing later sorry</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-04-21 15:13:03 UTC">
+      <body>Food?</body>
+    </message>
+    <message id="m0010" participant="135274" time="2013-04-21 16:58:15 UTC">
+      <body>Sorry i missed your text. Having brunch with zach.</body>
+    </message>
+    <message id="m0011" participant="135274" time="2013-04-22 04:41:35 UTC">
+      <body>Breakfast tomorrow?</body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-04-22 12:35:24 UTC">
+      <body>Yes :)</body>
+    </message>
+    <message id="m0013" participant="135080" time="2013-04-22 20:26:11 UTC">
+      <body>Dinner at 6 with Emily?</body>
+    </message>
+    <message id="m0014" participant="135274" time="2013-04-22 21:00:03 UTC">
+      <body>Yar :)</body>
+    </message>
+    <message id="m0015" participant="135080" time="2013-04-22 22:01:03 UTC">
+      <body>Ill meet you there - I'm coming from hilles</body>
+    </message>
+  </messages>
+</conversation>

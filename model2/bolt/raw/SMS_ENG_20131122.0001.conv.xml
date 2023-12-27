@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 21:47:44 UTC" participant="152486">
+      <body>Sorry to miss ur call i was in mtng. Can u talk at 5:10?</body>
+    </message>
+    <message id="m0001" time="2013-11-22 21:49:10 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2013-11-22 22:37:26 UTC" participant="152417">
+      <body>Btw, Ria said that she doesn't mind people staying over after the party on the 14th</body>
+    </message>
+    <message id="m0003" time="2013-11-22 23:40:23 UTC" participant="152486">
+      <body>Cool thanks for asking</body>
+    </message>
+    <message id="m0004" time="2013-11-23 03:43:46 UTC" participant="152417">
+      <body>Sorry, we cant do 8</body>
+    </message>
+    <message id="m0005" time="2013-11-23 03:44:00 UTC" participant="152486">
+      <body>Hmm ok. Lets talk when you are back. Have a good trip</body>
+    </message>
+    <message id="m0006" time="2013-11-23 04:40:19 UTC" participant="152417">
+      <body>What is it that you want to talk about?</body>
+    </message>
+    <message id="m0007" time="2013-11-23 05:00:48 UTC" participant="152486">
+      <body>Just expectations etc about living together....</body>
+    </message>
+  </messages>
+</conversation>
+

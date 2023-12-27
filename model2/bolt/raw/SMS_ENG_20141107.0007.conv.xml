@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 06:13:20 UTC" participant="152766">
+      <body>Missed you sunday!</body>
+    </message>
+    <message id="m0001" time="2014-11-07 06:15:23 UTC" participant="152766">
+      <body>We Will try to come by tomorrow </body>
+    </message>
+    <message id="m0002" time="2014-11-07 06:15:28 UTC" participant="152766">
+      <body>Can we add dec 17 after nov 19?</body>
+    </message>
+    <message id="m0003" time="2014-11-07 07:28:02 UTC" participant="152735">
+      <body>Yes absolutely! </body>
+    </message>
+    <message id="m0004" time="2014-11-07 07:28:15 UTC" participant="152735">
+      <body>Looking forward to seeing you!</body>
+    </message>
+    <message id="m0005" time="2014-11-07 07:28:43 UTC" participant="152735">
+      <body>Added Dec 17th to calendar </body>
+    </message>
+    <message id="m0006" time="2014-11-08 04:30:56 UTC" participant="152766">
+      <body>Thanks! Good seeing you and your work tonight!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130326.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-03-26 01:54:56 UTC">
+      <body>Hey beautiful. It was good seeing you tonight. I wish it could have been longer!</body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-03-26 15:03:52 UTC">
+      <body>How did your interview go? Did you have a good time at academic bowl?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-26 15:19:48 UTC">
+      <body>it went well, i think! thanks for remembering. :) academic bowl was good, i read the questions for the group so i didn't have to worry too much. </body>
+    </message>
+  </messages>
+</conversation>

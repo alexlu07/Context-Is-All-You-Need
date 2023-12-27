@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121030.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-10-30 21:44:39 UTC">
+      <body>Hey, can you send me aunt Teb's number? It's not in my phone for some reason!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-10-30 21:47:44 UTC">
+      <body>Wow, I don't have it either.  Sorry!  Xoxox</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-10-30 21:48:11 UTC">
+      <body>Thanks...I found them</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-10-30 21:48:42 UTC">
+      <body>Good!</body>
+    </message>
+  </messages>
+</conversation>

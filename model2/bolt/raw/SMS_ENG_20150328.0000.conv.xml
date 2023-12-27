@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150328.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-28 20:13:37 UTC" participant="152115">
+      <body>I want you to come home!</body>
+    </message>
+    <message id="m0001" time="2015-03-28 20:13:45 UTC" participant="152115">
+      <body>How's it going?</body>
+    </message>
+    <message id="m0002" time="2015-03-28 20:32:07 UTC" participant="152116">
+      <body>Hey sorry my phone was off charging. I should be done in half an hour</body>
+    </message>
+    <message id="m0003" time="2015-03-28 20:32:28 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

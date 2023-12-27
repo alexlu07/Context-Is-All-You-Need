@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121125.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2012-11-25 20:43:28 UTC">
+      <body>Hi sunshine.  Hope you had a great thanksgiving break.  Where are you off to this coming week? </body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-11-25 20:43:57 UTC">
+      <body>Woodbridge New Jersey</body>
+    </message>
+    <message id="m0002" participant="131505" time="2012-11-25 21:24:00 UTC">
+      <body>Not too bad.  Daily commute?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-11-25 21:24:39 UTC">
+      <body>No.</body>
+    </message>
+  </messages>
+</conversation>

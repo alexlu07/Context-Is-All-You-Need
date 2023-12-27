@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140929.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-29 15:18:37 UTC" participant="149369">
+      <body>Do you want to go to a game on Thursday?</body>
+    </message>
+    <message id="m0001" time="2014-09-29 15:19:10 UTC" participant="149306">
+      <body>Um yes, what time is it</body>
+    </message>
+    <message id="m0002" time="2014-09-29 15:19:22 UTC" participant="149306">
+      <body>Is there a beer bus?</body>
+    </message>
+    <message id="m0003" time="2014-09-29 15:20:58 UTC" participant="149369">
+      <body>It's at 8. There probably is a beer bus but it might be sold out by now. I was planning on driving</body>
+    </message>
+    <message id="m0004" time="2014-09-29 15:21:22 UTC" participant="149306">
+      <body>Ok that works too!</body>
+    </message>
+    <message id="m0005" time="2014-09-29 15:22:59 UTC" participant="149369">
+      <body>Good deal</body>
+    </message>
+  </messages>
+</conversation>
+

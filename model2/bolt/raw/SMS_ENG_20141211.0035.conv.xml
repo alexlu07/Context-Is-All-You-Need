@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141211.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-11 18:48:20 UTC" participant="153244">
+      <body>Were you able to get coverage for tomorrow? </body>
+    </message>
+    <message id="m0001" time="2014-12-11 18:48:29 UTC" participant="153893">
+      <body>Yes Sean</body>
+    </message>
+    <message id="m0002" time="2014-12-11 18:48:58 UTC" participant="153244">
+      <body>Ok great, thanks again!</body>
+    </message>
+    <message id="m0003" time="2014-12-11 18:49:05 UTC" participant="153893">
+      <body>No prob</body>
+    </message>
+  </messages>
+</conversation>
+

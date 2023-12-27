@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-19 15:36:53 UTC" participant="152481">
+      <body>Hey gabi, is it okay if i bring some stuff to the room tomorrow night?</body>
+    </message>
+    <message id="m0001" time="2013-06-19 15:37:30 UTC" participant="152417">
+      <body>Yes indeed</body>
+    </message>
+    <message id="m0002" time="2013-06-19 15:39:56 UTC" participant="152481">
+      <body>Danke!</body>
+    </message>
+  </messages>
+</conversation>
+

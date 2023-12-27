@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130117.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-01-17 19:46:51 UTC">
+      <body>Hey. Good morning. Just thinking about you...
+
+How are you?
+What's going on?</body>
+    </message>
+    <message id="m0001" participant="131352" time="2013-01-17 19:53:46 UTC">
+      <body>Trapped at work!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-01-17 19:56:21 UTC">
+      <body>I'm sorry.
+
+You got music on atleast?</body>
+    </message>
+    <message id="m0003" participant="131352" time="2013-01-17 20:02:54 UTC">
+      <body>We do</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-01-17 20:08:30 UTC">
+      <body>Thank god for that. So much worse w/o it.
+
+Remind me later to send you work pix.
+
+Have a great day, jules...</body>
+    </message>
+    <message id="m0005" participant="131352" time="2013-01-17 20:09:06 UTC">
+      <body>You too!</body>
+    </message>
+    <message id="m0006" participant="131352" time="2013-01-18 05:34:03 UTC">
+      <body>That's rad!!!</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-01-18 05:35:48 UTC">
+      <body>;-)</body>
+    </message>
+  </messages>
+</conversation>

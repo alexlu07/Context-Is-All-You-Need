@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136213" time="2012-10-12 05:02:56 UTC">
+      <body>GIRL TALK</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-12 05:19:53 UTC">
+      <body>OMFG JELLY</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-12 05:20:04 UTC">
+      <body>He was here but I couldn't go see him</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-12 05:20:08 UTC">
+      <body/>
+    </message>
+    <message id="m0004" participant="136213" time="2012-10-12 09:10:24 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

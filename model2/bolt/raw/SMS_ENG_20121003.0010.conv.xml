@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121003.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135380" time="2012-10-03 01:44:32 UTC">
+      <body>Hey there - how was the weekend with the family?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-03 02:16:03 UTC">
+      <body>It was fun thanks for asking. Glad it's over! I didn't get nearly enough work done and school is kicking many ass. How was your weekend?</body>
+    </message>
+    <message id="m0002" participant="135380" time="2012-10-03 02:59:12 UTC">
+      <body>Might be the first time I hear glad it's over about a weekend! Mine was relaxing, low key for once. How's the rest of your week looking?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-03 15:51:42 UTC">
+      <body>might be going dancing Friday ... Care to join?</body>
+    </message>
+    <message id="m0004" participant="135380" time="2012-10-03 17:48:48 UTC">
+      <body>Well that's right up my alley, keep me posted! </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-03 20:48:08 UTC">
+      <body>Do you know la boom, or something, in j.p.?</body>
+    </message>
+    <message id="m0006" participant="135380" time="2012-10-03 21:09:20 UTC">
+      <body>Haven't been, but pretty keen to venture outside my narrow Boston-centric view, sounds like you know the hot spots ha</body>
+    </message>
+  </messages>
+</conversation>

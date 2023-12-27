@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121020.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-20 16:31:26 UTC" participant="152525">
+      <body>When you coming into town? Can I see you before the concert?</body>
+    </message>
+    <message id="m0001" time="2012-10-20 17:42:40 UTC" participant="152417">
+      <body>Our load in is at 730, so i could set up my stuff and hang for a bit</body>
+    </message>
+    <message id="m0002" time="2012-10-20 17:43:48 UTC" participant="152525">
+      <body>Sweet! Give me a call if you have a free minute</body>
+    </message>
+    <message id="m0003" time="2012-10-20 17:53:32 UTC" participant="152417">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

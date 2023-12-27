@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140712.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-07-12 14:01:06 UTC" participant="153547">
+      <body>I'm moving slow this morning. I probably be a little late</body>
+    </message>
+    <message id="m0002" time="2014-07-12 14:22:43 UTC" participant="153602">
+      <body>I'm moving slow too. Take your time. I'm heading there now and will be there the better part of the afternoon.</body>
+    </message>
+  </messages>
+</conversation>
+

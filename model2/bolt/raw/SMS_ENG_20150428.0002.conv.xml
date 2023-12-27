@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150428.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-28 21:55:35 UTC" participant="153804">
+      <body>R U @ airport?</body>
+    </message>
+    <message id="m0001" time="2015-04-28 22:07:58 UTC" participant="153817">
+      <body>On the plane I can't wait to get there. See you when I get back!</body>
+    </message>
+    <message id="m0002" time="2015-04-28 22:08:39 UTC" participant="153804">
+      <body>Safe travels</body>
+    </message>
+    <message id="m0003" time="2015-04-28 22:19:26 UTC" participant="153804">
+      <body>Don't forget to RSVP to sue</body>
+    </message>
+    <message id="m0004" time="2015-04-28 23:59:40 UTC" participant="153817">
+      <body>Oh ok does she think I'm going?</body>
+    </message>
+    <message id="m0006" time="2015-04-29 00:00:48 UTC" participant="153804">
+      <body>No,I don't think so but you need to let her know one way or the other</body>
+    </message>
+    <message id="m0007" time="2015-04-29 00:01:33 UTC" participant="153817">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" time="2015-04-29 01:14:08 UTC" participant="153817">
+      <body>Hey sue! Sorry to say I wo t be attending Christians graduation but I want to meet up to give him a card and check. I will be back on Sunday night.</body>
+    </message>
+  </messages>
+</conversation>
+

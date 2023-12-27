@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-11 01:11:41 UTC">
+      <body>I will probably be in around 10 or 1030</body>
+    </message>
+    <message id="m0001" participant="134286" time="2013-02-11 01:12:40 UTC">
+      <body>Ah ok thanks for the reply </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-02-11 01:13:55 UTC">
+      <body>I can come in earlier if it helps. It really doesn't matter to me. </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-02-11 01:14:20 UTC">
+      <body>Maybe I'll go in around 830. Would that be better? </body>
+    </message>
+    <message id="m0004" participant="134286" time="2013-02-11 01:16:23 UTC">
+      <body>Oh thanks for the offer  if u don't mind I can be there for 8:30  </body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-02-11 01:17:59 UTC">
+      <body>Yeah I can do that. </body>
+    </message>
+    <message id="m0006" participant="134286" time="2013-02-11 01:18:50 UTC">
+      <body>Thanks a lot! </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-02-11 01:19:04 UTC">
+      <body>No problem </body>
+    </message>
+    <message id="m0008" participant="134286" time="2013-02-11 13:23:20 UTC">
+      <body>Hey Casey how are you I just rolled into the Parking lot</body>
+    </message>
+    <message id="m0009" participant="130979" time="2013-02-11 13:24:33 UTC">
+      <body>Should be there in 10 </body>
+    </message>
+    <message id="m0010" participant="134286" time="2013-02-11 13:25:13 UTC">
+      <body>Take ur time </body>
+    </message>
+  </messages>
+</conversation>

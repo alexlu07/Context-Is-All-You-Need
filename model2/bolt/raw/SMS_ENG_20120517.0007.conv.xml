@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120517.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131286" time="2012-05-17 15:17:55 UTC">
+      <body>Sure only tell ##### you are in labor</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-05-18 03:22:54 UTC">
+      <body>Going to be a few more hours -#####</body>
+    </message>
+    <message id="m0002" participant="131286" time="2012-05-18 03:25:06 UTC">
+      <body>Thanks! Tell ##### to hang in there!</body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-05-18 11:55:22 UTC">
+      <body>She was born healthy at 6:54</body>
+    </message>
+    <message id="m0004" participant="131286" time="2012-05-18 12:37:23 UTC">
+      <body>Yay!!!</body>
+    </message>
+  </messages>
+</conversation>

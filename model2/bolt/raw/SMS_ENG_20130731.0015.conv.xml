@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130731.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131218" time="2013-07-31 13:51:09 UTC">
+      <body>Hello again. I am from ca. I am in sc right now.</body>
+    </message>
+    <message id="m0001" participant="134923" time="2013-07-31 14:41:21 UTC">
+      <body>Cool. Are u there for school or living there permanently?</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-07-31 16:22:45 UTC">
+      <body>I was in nc last year for school. I am visiting my parents for a couple weeks this time.</body>
+    </message>
+  </messages>
+</conversation>

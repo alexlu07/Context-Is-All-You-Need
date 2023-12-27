@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120518.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-05-18 21:07:48 UTC">
+      <body>How's things?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-18 21:08:24 UTC">
+      <body>Good. Still at school. Going to hang out with JJ tomorrow</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-05-18 21:09:20 UTC">
+      <body>Great. Is dad picking him up or is he taking a cab?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-18 21:12:10 UTC">
+      <body>Dad is not picking him up. He says hell take a cab</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-05-18 21:15:39 UTC">
+      <body>Ok. Call u tomorrow from the road. XO</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135630" time="2013-07-08 18:57:55 UTC">
+      <body>Yo man lemme know if your ballin this week</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-07-08 18:59:25 UTC">
+      <body>Will do. Still recovering from weekend. We went ham</body>
+    </message>
+    <message id="m0002" participant="135630" time="2013-07-08 19:00:06 UTC">
+      <body>Hahha same. But I'm free all week so Lmk</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-07-08 19:00:47 UTC">
+      <body>OK. U going to tanners party sat?</body>
+    </message>
+    <message id="m0004" participant="135630" time="2013-07-08 19:01:24 UTC">
+      <body>Yeah should be</body>
+    </message>
+  </messages>
+</conversation>

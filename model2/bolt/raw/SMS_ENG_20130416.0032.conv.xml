@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-04-16 13:53:25 UTC">
+      <body>Hey ###, it's ####! I go to ################### on #####################. I've seen Emmy, Emma, and Haley, and they're all fabulous. Price varies based on experience, but it's usually right around $35.</body>
+    </message>
+    <message id="m0001" participant="131041" time="2013-04-16 13:55:22 UTC">
+      <body>Hey, thanks! Would you recommend one over another? </body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-04-16 14:00:00 UTC">
+      <body>Hmm...if I had to rank them, I'd probably go with Haley first, then Emmy, then Emma. But really, I take whoever's available because I schedule at the last minute and have never been disappointed.</body>
+    </message>
+  </messages>
+</conversation>

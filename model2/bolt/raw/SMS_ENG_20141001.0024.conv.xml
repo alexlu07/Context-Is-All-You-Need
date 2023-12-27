@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141001.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-01 12:53:55 UTC" participant="154902">
+      <body>Jamal had a flat,  I'll be late</body>
+    </message>
+    <message id="m0001" time="2014-10-01 12:57:06 UTC" participant="153244">
+      <body>Ok.. its my 10:00 day so looks like Lauren on her own til one if us get there</body>
+    </message>
+    <message id="m0002" time="2014-10-01 12:58:49 UTC" participant="154902">
+      <body>
+Oh right ok</body>
+    </message>
+  </messages>
+</conversation>
+

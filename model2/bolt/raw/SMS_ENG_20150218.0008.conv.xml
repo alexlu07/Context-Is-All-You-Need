@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150218.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-18 22:19:44 UTC" participant="152574">
+      <body>Gabi how are you feeling? I just got over having pneumonia!</body>
+    </message>
+    <message id="m0001" time="2015-02-18 22:23:49 UTC" participant="152417">
+      <body>O my, glad you're over it,  i'm feeling a lot better than this morning, i should be back in the game by tomorrow</body>
+    </message>
+    <message id="m0002" time="2015-02-18 22:24:00 UTC" participant="152574">
+      <body>Ok, I'll see you at 2</body>
+    </message>
+    <message id="m0003" time="2015-02-19 18:39:39 UTC" participant="152417">
+      <body>I'll be in Rm 718</body>
+    </message>
+  </messages>
+</conversation>
+

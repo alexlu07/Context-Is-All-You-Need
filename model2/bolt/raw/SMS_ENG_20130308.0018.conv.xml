@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-03-08 03:01:30 UTC">
+      <body>Hey are you driving to cal tmw?</body>
+    </message>
+    <message id="m0001" participant="131463" time="2013-03-08 03:01:38 UTC">
+      <body>Yea we'll pick you up</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-03-08 03:08:14 UTC">
+      <body>Awesomeee thank you! Just let me know when you're heading out and I'll be ready :-)</body>
+    </message>
+    <message id="m0003" participant="131463" time="2013-03-08 13:16:50 UTC">
+      <body>Leaving our house now</body>
+    </message>
+    <message id="m0004" participant="131463" time="2013-03-08 13:25:26 UTC">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>

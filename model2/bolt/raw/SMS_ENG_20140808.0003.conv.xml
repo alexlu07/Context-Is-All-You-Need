@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 23:49:26 UTC" participant="152116">
+      <body>I don't. John doesn't usually say until last minute.</body>
+    </message>
+    <message id="m0001" time="2014-08-08 23:49:30 UTC" participant="152116">
+      <body>^Know</body>
+    </message>
+    <message id="m0002" time="2014-08-09 18:55:08 UTC" participant="152116">
+      <body>Are you coming out ?</body>
+    </message>
+    <message id="m0003" time="2014-08-09 18:55:18 UTC" participant="152116">
+      <body>Tonight*</body>
+    </message>
+    <message id="m0004" time="2014-08-09 18:56:10 UTC" participant="153491">
+      <body>Oh hey, I'm not. I'm going to have lunch with John tomorrow.</body>
+    </message>
+    <message id="m0005" time="2014-08-09 18:58:36 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

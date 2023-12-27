@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130410.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-10 02:09:11 UTC">
+      <body>have you done the hw? i'm really confused </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-04-10 03:28:23 UTC">
+      <body>I think they are activities we're doing in class so I'm not doing them sorry for the late reply studying for Chem</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-10 03:36:12 UTC">
+      <body>np. good luck with chem! </body>
+    </message>
+  </messages>
+</conversation>

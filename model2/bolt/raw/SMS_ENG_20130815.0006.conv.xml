@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130815.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-15 14:56:14 UTC" participant="153445">
+      <body>Good luck on interview ! </body>
+    </message>
+    <message id="m0001" time="2013-08-15 21:21:10 UTC" participant="153445">
+      <body>I have meeting for group project so I'll stay late</body>
+    </message>
+    <message id="m0002" time="2013-08-15 21:21:23 UTC" participant="153418">
+      <body>Okay. </body>
+    </message>
+  </messages>
+</conversation>
+

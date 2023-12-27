@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-03-10 23:02:24 UTC">
+      <body>Hey!! Coming to studio! What kinda snacks you want?</body>
+    </message>
+    <message id="m0001" participant="135386" time="2013-03-10 23:07:27 UTC">
+      <body>Huh</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-10 23:11:36 UTC">
+      <body>Kim in sorry I'm not at school today</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-03-10 23:13:04 UTC">
+      <body>Oh ok :(</body>
+    </message>
+  </messages>
+</conversation>

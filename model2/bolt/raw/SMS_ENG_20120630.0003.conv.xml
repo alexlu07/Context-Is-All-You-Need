@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120630.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136203" time="2012-06-30 16:34:08 UTC">
+      <body>Do you wanna give me your gym lock before you go to college? </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-30 18:59:20 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" participant="136203" time="2012-06-30 19:01:20 UTC">
+      <body>Yay you're the best</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-06-30 19:08:50 UTC">
+      <body>☺</body>
+    </message>
+  </messages>
+</conversation>

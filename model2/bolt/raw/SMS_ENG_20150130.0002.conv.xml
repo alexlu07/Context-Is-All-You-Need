@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150130.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-30 00:15:58 UTC" participant="152124">
+      <body>Hey, I'm going to drop by your place to give you your scarf. </body>
+    </message>
+    <message id="m0001" time="2015-01-30 00:16:10 UTC" participant="152124">
+      <body>I'll be there by 8, but could be there earlier.</body>
+    </message>
+    <message id="m0002" time="2015-01-30 00:17:23 UTC" participant="152115">
+      <body>Oh! I'm still at work.</body>
+    </message>
+    <message id="m0003" time="2015-01-30 00:18:06 UTC" participant="152115">
+      <body>My mom's home. But I should be home soon.</body>
+    </message>
+    <message id="m0004" time="2015-01-30 00:18:13 UTC" participant="152124">
+      <body> Oh.
+I have no idea what your hours are, lol.
+Are you working until midnight or something? </body>
+    </message>
+    <message id="m0005" time="2015-01-30 00:18:28 UTC" participant="152115">
+      <body>No no. 730.</body>
+    </message>
+    <message id="m0006" time="2015-01-30 00:19:13 UTC" participant="152124">
+      <body>Ah. Do you need a ride? </body>
+    </message>
+    <message id="m0007" time="2015-01-30 00:30:21 UTC" participant="152115">
+      <body>No. My dad just got me. But thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140422.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-22 16:10:02 UTC" participant="153472">
+      <body>Are u up for walking tomorrow night? </body>
+    </message>
+    <message id="m0001" time="2014-04-22 16:10:34 UTC" participant="152374">
+      <body>Yes, just needs to be as early as possible! </body>
+    </message>
+    <message id="m0002" time="2014-04-22 19:47:39 UTC" participant="153472">
+      <body>I doubt I can go before 6. Is that still ok?</body>
+    </message>
+    <message id="m0003" time="2014-04-22 19:48:22 UTC" participant="152374">
+      <body>Should be OK! </body>
+    </message>
+  </messages>
+</conversation>
+

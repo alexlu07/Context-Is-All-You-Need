@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140119.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-19 02:03:22 UTC" participant="149373">
+      <body>Hey Hunter want to get Indian buffet for lunch tomorrow? If not sometime this week would work as well. Just let me know.</body>
+    </message>
+    <message id="m0001" time="2014-01-19 02:05:54 UTC" participant="153547">
+      <body>Hey man. Ive gotta a ton of chores and running around to accomplish tomorrow. But I am slow cooking a organic grassfed chuck roast if you want to come over for dinner instead</body>
+    </message>
+    <message id="m0002" time="2014-01-19 02:08:04 UTC" participant="149373">
+      <body>That sounds awesome.   What time and would you like me to bring or is there anything I could make?</body>
+    </message>
+    <message id="m0003" time="2014-01-19 02:12:05 UTC" participant="153547">
+      <body>You could bring something green . I got some artichokes I'll prolly do too but some salad or green veg would be good</body>
+    </message>
+    <message id="m0004" time="2014-01-19 02:14:06 UTC" participant="149373">
+      <body>Cool. What time should I come by?</body>
+    </message>
+    <message id="m0005" time="2014-01-19 02:14:56 UTC" participant="153547">
+      <body>630 or 7 if u can</body>
+    </message>
+    <message id="m0006" time="2014-01-19 02:15:44 UTC" participant="149373">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>
+

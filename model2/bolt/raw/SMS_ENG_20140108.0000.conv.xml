@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140108.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-08 16:48:10 UTC" participant="149360">
+      <body>The sewage line is backed up again so please avoid flushing or showering for a few hrs so I can fix it</body>
+    </message>
+    <message id="m0001" time="2014-01-08 16:48:42 UTC" participant="149306">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120531.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2012-05-31 15:47:09 UTC">
+      <body>:-P are you almost here? I'm so lobelyyyy</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-05-31 15:47:22 UTC">
+      <body>I'm also starvingggg</body>
+    </message>
+    <message id="m0002" participant="131825" time="2012-05-31 15:51:28 UTC">
+      <body>Soon!</body>
+    </message>
+    <message id="m0003" participant="131821" time="2012-05-31 15:53:08 UTC">
+      <body>Are you passing anywhere with food?</body>
+    </message>
+    <message id="m0004" participant="131825" time="2012-05-31 15:53:36 UTC">
+      <body>No I'm in Alexs room</body>
+    </message>
+    <message id="m0005" participant="131825" time="2012-05-31 15:53:36 UTC">
+      <body>Sorry :(</body>
+    </message>
+    <message id="m0006" participant="131821" time="2012-05-31 15:53:55 UTC">
+      <body>Darn</body>
+    </message>
+  </messages>
+</conversation>

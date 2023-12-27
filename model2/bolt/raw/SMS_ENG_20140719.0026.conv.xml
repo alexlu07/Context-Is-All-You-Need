@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140719.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-19 03:42:20 UTC" participant="154901">
+      <body>Hey r u up</body>
+    </message>
+    <message id="m0001" time="2014-07-19 03:58:51 UTC" participant="153244">
+      <body>Yea why</body>
+    </message>
+    <message id="m0002" time="2014-07-19 03:59:08 UTC" participant="154901">
+      <body>Nvm I thought I didn't have my key </body>
+    </message>
+    <message id="m0003" time="2014-07-19 03:59:24 UTC" participant="153244">
+      <body>Oh lol ok</body>
+    </message>
+    <message id="m0004" time="2014-07-19 04:00:16 UTC" participant="154901">
+      <body>I thought I didn't have my key </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-25 21:23:49 UTC" participant="153491">
+      <body>Bartram's Gardens-5400 Lindbergh Boulevard </body>
+    </message>
+    <message id="m0001" time="2014-10-25 21:27:34 UTC" participant="153491">
+      <body>Philadelphia, PA 19143</body>
+    </message>
+    <message id="m0002" time="2014-10-25 21:27:52 UTC" participant="153545">
+      <body>Ok thx top</body>
+    </message>
+    <message id="m0003" time="2014-10-25 21:34:33 UTC" participant="153491">
+      <body>You're welcome.</body>
+    </message>
+  </messages>
+</conversation>
+

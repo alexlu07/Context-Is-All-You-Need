@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141002.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-10-02 22:41:04 UTC" participant="153611">
+      <body>Just got your email. Both batteries work fine. </body>
+    </message>
+    <message id="m0002" time="2014-10-02 23:15:11 UTC" participant="153611">
+      <body>What is your eta?</body>
+    </message>
+    <message id="m0003" time="2014-10-02 23:15:12 UTC" participant="153611">
+      <body>6.5</body>
+    </message>
+    <message id="m0004" time="2014-10-02 23:16:12 UTC" participant="153547">
+      <body>Leaving w Philly lowes now. Is that a 6 1/2 blade or 5 1/2 on the circ saw</body>
+    </message>
+    <message id="m0005" time="2014-10-02 23:17:20 UTC" participant="153611">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2014-10-02 23:18:24 UTC" participant="153547">
+      <body>Eta 1 hr</body>
+    </message>
+    <message id="m0007" time="2014-10-03 00:16:22 UTC" participant="153547">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

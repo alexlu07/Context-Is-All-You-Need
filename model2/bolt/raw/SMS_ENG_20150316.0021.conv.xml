@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150316.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-16 00:40:00 UTC" participant="153547">
+      <body>Hey I can bring over those monitors if you're around </body>
+    </message>
+    <message id="m0001" time="2015-03-16 00:42:23 UTC" participant="153571">
+      <body>Yes home thanks buddy</body>
+    </message>
+    <message id="m0002" time="2015-03-16 00:49:50 UTC" participant="153547">
+      <body>I'm outside</body>
+    </message>
+  </messages>
+</conversation>
+

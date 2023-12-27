@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150217.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-17 01:44:08 UTC" participant="152610">
+      <body>Hey Gabi! Hope all is well. This is Tal. Do you have the pdfs of those charts? </body>
+    </message>
+    <message id="m0001" time="2015-02-17 02:54:36 UTC" participant="152417">
+      <body>Yeah, whats your email?</body>
+    </message>
+    <message id="m0003" time="2015-02-17 04:06:30 UTC" participant="152610">
+      <body>Thanks! </body>
+    </message>
+  </messages>
+</conversation>
+

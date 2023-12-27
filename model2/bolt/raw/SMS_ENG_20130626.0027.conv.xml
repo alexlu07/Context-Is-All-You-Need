@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130626.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-26 13:12:51 UTC">
+      <body>Hey juli what's your Sunday lookin like?</body>
+    </message>
+    <message id="m0001" participant="135627" time="2013-06-26 13:37:11 UTC">
+      <body>Wide open</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-26 13:40:33 UTC">
+      <body>Sweet. Want to try and get some stuff done?</body>
+    </message>
+    <message id="m0003" participant="135627" time="2013-06-26 13:40:52 UTC">
+      <body>Sure!</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-26 13:41:36 UTC">
+      <body>OK good. As of now my schedule is open all day</body>
+    </message>
+  </messages>
+</conversation>

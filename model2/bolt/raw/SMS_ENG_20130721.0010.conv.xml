@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130721.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-21 14:51:47 UTC">
+      <body>Hello again.</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-07-21 15:54:08 UTC">
+      <body>Hey! How goes it?</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-21 15:57:03 UTC">
+      <body>Busy day today. Did some baking and now doing a little work. You?</body>
+    </message>
+    <message id="m0003" participant="130616" time="2013-07-21 16:22:41 UTC">
+      <body>Not much to be honest. Just got the latest in a book series and I've been pretty engrossed in it. Haha.</body>
+    </message>
+    <message id="m0004" participant="134920" time="2013-07-21 16:57:35 UTC">
+      <body>Which book series? I commute by train now and im looking for good books.</body>
+    </message>
+    <message id="m0005" participant="130616" time="2013-07-21 17:00:50 UTC">
+      <body>Been reading a series called the Iron Druid Chronicles. I wasn't too sure when I started it because it is a modern fantasy series but it is pretty good.It almost reminds me of the Dresden Files.</body>
+    </message>
+    <message id="m0006" participant="134920" time="2013-07-21 17:03:17 UTC">
+      <body>I read Butchers other series Codex Alera and liked it a lot. I haven't read Dresden yet, because im not sure I'll like contemporary fantasy.</body>
+    </message>
+    <message id="m0007" participant="134920" time="2013-07-21 17:04:21 UTC">
+      <body>I'm working through Steven Erikson's very dark Malazan series now. Not convinced I love it but it's entertaining enough.</body>
+    </message>
+  </messages>
+</conversation>

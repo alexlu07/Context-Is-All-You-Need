@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-01 00:17:48 UTC">
+      <body>Did Jen want us to have all the narratives coded for our Tuesday meeting?</body>
+    </message>
+    <message id="m0001" participant="135281" time="2013-04-01 00:25:16 UTC">
+      <body>No, by next weekend, I think? Tuesday would be a little ridic.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-01 00:25:49 UTC">
+      <body>Ohhhh ok thank god. Did she want anything for Tuesday?</body>
+    </message>
+    <message id="m0003" participant="135281" time="2013-04-01 00:26:46 UTC">
+      <body>I don't think so? </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-01 00:26:59 UTC">
+      <body>K thanks :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120915.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-09-15 15:49:48 UTC">
+      <body>Good morning! I'm on my way back now...be there in 20-30 mins. My address is ###############.</body>
+    </message>
+    <message id="m0001" participant="131029" time="2012-09-15 15:54:14 UTC">
+      <body>Ok... I'm leaving ######.. I'll see you soon</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-09-15 15:54:58 UTC">
+      <body>Great! Drive safely!</body>
+    </message>
+    <message id="m0003" participant="131029" time="2012-09-15 16:36:28 UTC">
+      <body>I'm here. Parked in front of the lion gates!!!  I'm about to call ####### </body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-09-15 16:37:42 UTC">
+      <body>Haha ok, I'll come down unless you want water, bathroom, etc?</body>
+    </message>
+  </messages>
+</conversation>

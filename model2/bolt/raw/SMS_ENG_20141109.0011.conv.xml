@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141109.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-09 07:39:59 UTC" participant="153694">
+      <body>#chugorleave</body>
+    </message>
+    <message id="m0001" time="2014-11-09 07:41:54 UTC" participant="153548">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2014-11-09 16:36:16 UTC" participant="153694">
+      <body>Have you left for the brunch? </body>
+    </message>
+    <message id="m0003" time="2014-11-09 16:37:06 UTC" participant="153548">
+      <body>Not yet 10:45 rigjt!?</body>
+    </message>
+    <message id="m0004" time="2014-11-09 16:37:19 UTC" participant="153548">
+      <body>Shit was it 10:30?</body>
+    </message>
+    <message id="m0005" time="2014-11-09 16:37:56 UTC" participant="153694">
+      <body>Yes, Barbie just got here. I thought it was 10:30 </body>
+    </message>
+    <message id="m0006" time="2014-11-09 16:38:23 UTC" participant="153548">
+      <body>Oh I'm coming!</body>
+    </message>
+    <message id="m0007" time="2014-11-09 16:38:24 UTC" participant="153694">
+      <body>We said both, no rush!</body>
+    </message>
+  </messages>
+</conversation>
+

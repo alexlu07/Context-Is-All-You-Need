@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130902.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-02 23:00:59 UTC" participant="152116">
+      <body>When would you wanna watch the conjuring?</body>
+    </message>
+    <message id="m0001" time="2013-09-02 23:01:09 UTC" participant="152116">
+      <body>I get home at 9 if that's not too late today</body>
+    </message>
+    <message id="m0002" time="2013-09-02 23:01:26 UTC" participant="152116">
+      <body>Well first I would see if Eden could too</body>
+    </message>
+    <message id="m0003" time="2013-09-02 23:07:42 UTC" participant="153244">
+      <body>That's fine.  I'm home. Not doing anything. </body>
+    </message>
+    <message id="m0004" time="2013-09-02 23:07:55 UTC" participant="153244">
+      <body>And eden can seethe house progress!!</body>
+    </message>
+    <message id="m0005" time="2013-09-03 00:08:29 UTC" participant="152116">
+      <body>Okay she said she can do tonight</body>
+    </message>
+    <message id="m0006" time="2013-09-03 00:08:48 UTC" participant="152116">
+      <body>I just left work and am on the el now. Il pick her up</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130228.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131375" time="2013-02-28 21:17:39 UTC">
+      <body>About to leave big hospital. Talk later. Phone needs charged.</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-03-01 01:45:53 UTC">
+      <body>Cleared to travel. They are keeping an eye on this mild hernia; will have surgery for it when insurance clears. Simple out patient; no big deal. </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-01 05:23:11 UTC">
+      <body>wow. you okay?</body>
+    </message>
+    <message id="m0003" participant="131375" time="2013-03-01 16:14:12 UTC">
+      <body>Yep. I'm okay. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120228.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135140" time="2012-02-28 12:45:52 UTC">
+      <body>Hey! Good morning! How you doing? Do you mind writing me a check? Owed 117.28 for jan and feb bills and groceries. Need it to pay rent. Thanks! </body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-02-28 13:46:30 UTC">
+      <body>Yea, I'll bring cash actually :)</body>
+    </message>
+    <message id="m0002" participant="135140" time="2012-02-28 17:29:36 UTC">
+      <body>What's going on..? If we need to talk let's do it.</body>
+    </message>
+    <message id="m0003" participant="135140" time="2012-02-28 17:29:36 UTC">
+      <body>Sure! I'll come down </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-02-28 17:30:06 UTC">
+      <body>Just some personal stuff/crises. If you want to chat thatd help me out</body>
+    </message>
+    <message id="m0005" participant="135140" time="2012-02-28 22:21:52 UTC">
+      <body>Sorry you're having a stressful time - if you want to talk about it happy to. Hope work is good. See you tomorrow.</body>
+    </message>
+  </messages>
+</conversation>

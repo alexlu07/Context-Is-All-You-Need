@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140525.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-25 23:16:28 UTC" participant="153491">
+      <body>Is there a Dunkin Donuts around Penn?</body>
+    </message>
+    <message id="m0001" time="2014-05-25 23:17:58 UTC" participant="152116">
+      <body>Yeah on walnut where 35th would be</body>
+    </message>
+    <message id="m0002" time="2014-05-25 23:18:36 UTC" participant="153491">
+      <body>Okay thanks.</body>
+    </message>
+    <message id="m0003" time="2014-05-25 23:18:55 UTC" participant="152116">
+      <body>I don't know if it'd be open now. It's not 24/7.</body>
+    </message>
+  </messages>
+</conversation>
+

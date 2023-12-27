@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131001.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-01 16:08:10 UTC" participant="152417">
+      <body>The gas notice is for the new neighbors who will be moving into apt a</body>
+    </message>
+    <message id="m0001" time="2013-10-01 16:14:26 UTC" participant="152486">
+      <body>Aaah ok thanks</body>
+    </message>
+  </messages>
+</conversation>
+

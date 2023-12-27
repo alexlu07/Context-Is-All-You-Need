@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110905.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135115" time="2011-09-05 00:09:22 UTC">
+      <body>Caroline smith? I can't tell!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-05 00:09:47 UTC">
+      <body>Yea!</body>
+    </message>
+    <message id="m0002" participant="135115" time="2011-09-05 02:01:55 UTC">
+      <body>yay! I hope you had so much fun!</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-09-05 23:58:08 UTC">
+      <body>Four artichokes for three dollars at trader joes! Also, I left for Spain exactly one year ago</body>
+    </message>
+    <message id="m0004" participant="135115" time="2011-09-06 01:41:47 UTC">
+      <body>Geez. I want to go back</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-09-06 01:42:31 UTC">
+      <body>I do too. 12 hour weeks? You? Yes.</body>
+    </message>
+  </messages>
+</conversation>

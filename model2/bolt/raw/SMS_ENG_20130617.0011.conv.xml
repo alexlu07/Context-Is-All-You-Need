@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133308" time="2013-06-17 16:13:26 UTC">
+      <body>Is that good?</body>
+    </message>
+    <message id="m0001" participant="133056" time="2013-06-17 16:52:36 UTC">
+      <body>No, lolz</body>
+    </message>
+    <message id="m0002" participant="133308" time="2013-06-18 02:12:47 UTC">
+      <body>What is the app to download a ring tone?</body>
+    </message>
+    <message id="m0003" participant="133056" time="2013-06-18 02:13:08 UTC">
+      <body>I used the Internet</body>
+    </message>
+    <message id="m0004" participant="133308" time="2013-06-18 02:13:29 UTC">
+      <body>So how do I get it on my iPhone?</body>
+    </message>
+    <message id="m0005" participant="133056" time="2013-06-18 02:14:38 UTC">
+      <body>There was a website, I downloaded the file and uploaded it to iTunes</body>
+    </message>
+    <message id="m0006" participant="133056" time="2013-06-18 02:14:43 UTC">
+      <body>And it saved as a ring tone</body>
+    </message>
+    <message id="m0007" participant="133308" time="2013-06-18 02:15:22 UTC">
+      <body>What is the website? Can I just buy it from iTunes on my phone</body>
+    </message>
+    <message id="m0008" participant="133056" time="2013-06-18 02:15:44 UTC">
+      <body>Yeah, depending on the song</body>
+    </message>
+  </messages>
+</conversation>

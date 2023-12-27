@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141104.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-04 14:25:17 UTC" participant="153602">
+      <body>Hey Hunter. I'll be in New York today and have to attend some dinner later in the evening. We planned to resume work wednesday morning. Hate to postpone </body>
+    </message>
+    <message id="m0001" time="2014-11-04 14:25:37 UTC" participant="153602">
+      <body>but I'm asking for Thursday instead?</body>
+    </message>
+    <message id="m0002" time="2014-11-05 00:00:41 UTC" participant="153547">
+      <body>Hey. Thursday will be fine.  </body>
+    </message>
+    <message id="m0003" time="2014-11-05 04:02:30 UTC" participant="153602">
+      <body>Thanks. See u then.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136656" time="2013-07-03 15:21:41 UTC">
+      <body>Erik should be there in about an hour, and I'm going to try and stop by on my way through NJ to see what we are dealing with</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-07-03 18:07:08 UTC">
+      <body>Need to speak to you about chemical movers</body>
+    </message>
+    <message id="m0002" participant="136656" time="2013-07-03 18:22:04 UTC">
+      <body>Ok will call in a min. Really loud traffic right now</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-07-03 18:22:27 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

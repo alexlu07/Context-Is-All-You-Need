@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110612.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135108" time="2011-06-12 16:38:48 UTC">
+      <body>Heading to staples then i will be here yes</body>
+    </message>
+    <message id="m0001" participant="135108" time="2011-06-12 17:18:18 UTC">
+      <body>I will be there in about ten minutes</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-12 17:18:57 UTC">
+      <body>Ok I should be there around 1. Thanks!</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-12 17:39:14 UTC">
+      <body>It's taking longer than I thought, it will be closer to 130 is that ok?</body>
+    </message>
+    <message id="m0004" participant="135108" time="2011-06-12 17:39:59 UTC">
+      <body>Yes i will be busy at three</body>
+    </message>
+  </messages>
+</conversation>

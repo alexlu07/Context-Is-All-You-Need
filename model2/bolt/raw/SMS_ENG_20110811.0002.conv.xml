@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110811.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-11 11:08:24 UTC">
+      <body>Morning! Sorry to bug you so Early! Is it ok if I work 830 to 500 instead of 730 to 400 today?</body>
+    </message>
+    <message id="m0001" participant="135118" time="2011-08-11 11:31:36 UTC">
+      <body>
+Yep</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-11 11:37:15 UTC">
+      <body> Thanks, Reg!</body>
+    </message>
+  </messages>
+</conversation>

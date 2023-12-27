@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121116.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-11-16 19:45:53 UTC">
+      <body>Love to! And if you're around tonight, we're going to dinner and Goldenbelt with some folks if you want to join!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-11-17 14:52:54 UTC">
+      <body>What time are you heading to the market?</body>
+    </message>
+    <message id="m0002" participant="131026" time="2012-11-17 15:32:47 UTC">
+      <body>I just woke up :-( Still want to meet?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-11-17 15:34:16 UTC">
+      <body>Yeah! Maybe not for the Farmer's Market, but we should do something.</body>
+    </message>
+    <message id="m0004" participant="131026" time="2012-11-17 15:36:03 UTC">
+      <body>You've prolly had breakfast...? We could go to Scratch (breakfast for me, coffee for you).</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-11-17 15:39:18 UTC">
+      <body>Ooh! Sounds good! Want to meet at my place?</body>
+    </message>
+    <message id="m0006" participant="131026" time="2012-11-17 15:44:16 UTC">
+      <body>Yes. Will leave here in about 15</body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-11-17 15:44:44 UTC">
+      <body>Perfect. See you soon!</body>
+    </message>
+  </messages>
+</conversation>

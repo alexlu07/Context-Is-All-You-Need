@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150313.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-13 16:42:19 UTC" participant="153783">
+      <body>You're coming to my show right???</body>
+    </message>
+    <message id="m0001" time="2015-03-13 17:30:05 UTC" participant="152116">
+      <body>Wheb</body>
+    </message>
+    <message id="m0002" time="2015-03-13 17:30:17 UTC" participant="152116">
+      <body>April right?</body>
+    </message>
+    <message id="m0003" time="2015-03-13 20:11:40 UTC" participant="153783">
+      <body>No it's the end of this month</body>
+    </message>
+    <message id="m0004" time="2015-03-13 20:14:29 UTC" participant="152116">
+      <body>What day?</body>
+    </message>
+    <message id="m0005" time="2015-03-13 20:15:32 UTC" participant="153783">
+      <body>Thursday and Saturday</body>
+    </message>
+    <message id="m0006" time="2015-03-13 20:16:29 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130601.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-01 15:11:33 UTC">
+      <body>what it do brewski</body>
+    </message>
+    <message id="m0001" participant="132557" time="2013-06-01 15:12:01 UTC">
+      <body>Yo chilling</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-01 15:13:37 UTC">
+      <body>U tryna stop by still?</body>
+    </message>
+    <message id="m0003" participant="132557" time="2013-06-01 15:15:40 UTC">
+      <body>Yeah I have to talk to Liz to see what the plan is</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-01 15:21:16 UTC">
+      <body>OK so u thinkin like right before u goto the benefit or something?</body>
+    </message>
+    <message id="m0005" participant="132557" time="2013-06-01 15:22:26 UTC">
+      <body>I think so, why what are your plans?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-01 15:38:42 UTC">
+      <body>I'm tryna go shopping for some summer gear but I can be back whenever u r coming thru</body>
+    </message>
+    <message id="m0007" participant="132557" time="2013-06-01 17:10:02 UTC">
+      <body>Alright cool</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-01 21:07:53 UTC">
+      <body>What's the deal</body>
+    </message>
+  </messages>
+</conversation>

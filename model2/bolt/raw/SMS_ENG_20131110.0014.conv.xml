@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131110.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-10 03:07:59 UTC" participant="154392">
+      <body>Where did you go?</body>
+    </message>
+    <message id="m0001" time="2013-11-10 03:08:32 UTC" participant="154352">
+      <body>Still in the lobby</body>
+    </message>
+    <message id="m0002" time="2013-11-10 03:08:50 UTC" participant="154392">
+      <body>He's outside</body>
+    </message>
+    <message id="m0003" time="2013-11-10 03:09:00 UTC" participant="154392">
+      <body>Smoking</body>
+    </message>
+  </messages>
+</conversation>
+

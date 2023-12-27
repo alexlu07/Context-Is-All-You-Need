@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121028.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-28 22:06:28 UTC" participant="152417">
+      <body>Hey jeff, might you wanna play nov 9 and 10th at a 1030 pm spielpalast fundraisers?</body>
+    </message>
+    <message id="m0001" time="2012-10-29 01:53:04 UTC" participant="152420">
+      <body>Arabic or klezmer</body>
+    </message>
+    <message id="m0003" time="2012-10-29 02:17:27 UTC" participant="152417">
+      <body>Jazz/klezmer</body>
+    </message>
+  </messages>
+</conversation>
+

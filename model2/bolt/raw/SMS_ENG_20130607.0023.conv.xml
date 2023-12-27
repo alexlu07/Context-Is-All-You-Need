@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130607.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-07 16:28:58 UTC">
+      <body>Do you have a present for dad yet? </body>
+    </message>
+    <message id="m0001" participant="134285" time="2013-06-07 16:44:09 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-07 16:45:07 UTC">
+      <body>Did you see the text about roku? Any interest? Its fine if you want to do something else tho </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 17:51:24 UTC" participant="152640">
+      <body>Hey Gabi. Its Jim from guitar center. Just letting you know I don't think we are opening today.</body>
+    </message>
+    <message id="m0001" time="2014-03-13 17:52:37 UTC" participant="152417">
+      <body>Cool, thanks Jim.</body>
+    </message>
+  </messages>
+</conversation>
+

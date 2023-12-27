@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2013-02-02 06:00:46 UTC">
+      <body>I'm coming in for a half day today, since, among other things, I have a meeting with Igone that I shouldn't miss. We will touch base soon.</body>
+    </message>
+    <message id="m0001" participant="131453" time="2013-02-03 04:19:38 UTC">
+      <body>OMG, have I got some stories about this girl... lots to dish about at lunch next week :)</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-03 05:08:37 UTC">
+      <body>Yesss! (But hopefully it isn't too painful!!)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121017.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-17 14:28:50 UTC">
+      <body>Wasssupppp</body>
+    </message>
+    <message id="m0001" participant="136294" time="2012-10-17 14:49:36 UTC">
+      <body>stacks sixth floor </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-17 14:51:47 UTC">
+      <body>Ok awesome. Adam Goldstein may or may not be following me to the library right now</body>
+    </message>
+    <message id="m0003" participant="136294" time="2012-10-17 14:52:39 UTC">
+      <body>room 664</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0078" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-04-19 22:29:39 UTC">
+      <body>Would you be interested in accompanying me to the botanical gardens tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-19 22:33:56 UTC">
+      <body>i sort of promised nari i would hang out with her. i wish i had known earlier! </body>
+    </message>
+    <message id="m0002" participant="136150" time="2013-04-19 23:01:50 UTC">
+      <body>My fault then. We could go on sunday if you're free then?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-19 23:04:22 UTC">
+      <body>yeah, sunday afternoon i'm free until 5. :) </body>
+    </message>
+    <message id="m0004" participant="136150" time="2013-04-19 23:06:08 UTC">
+      <body>Sounds good. I'll pick you up at one?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-04-19 23:12:07 UTC">
+      <body>for sure! </body>
+    </message>
+  </messages>
+</conversation>

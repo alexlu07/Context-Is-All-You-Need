@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130125.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136150" time="2013-01-25 05:14:50 UTC">
+      <body>Hey lauren. I hope i did not keep you out too late. Thanks for the interesting conversation. I look forward to talking to you more.</body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-01-25 05:15:38 UTC">
+      <body>Oh and i mean interesting in the good way!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-01-25 05:19:31 UTC">
+      <body>not too late at all, but thank you for clarifying on what you meant by interesting. :) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121215.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-15 16:00:23 UTC" participant="152734">
+      <body>Hey Tanya - what is the name of the restaurant again? I can't remember which piper it is :) thanks! </body>
+    </message>
+    <message id="m0001" time="2012-12-15 16:03:28 UTC" participant="153298">
+      <body>Piper tavern, used to be pipersville inn ;)</body>
+    </message>
+    <message id="m0002" time="2012-12-15 16:19:56 UTC" participant="152734">
+      <body>Got it :)</body>
+    </message>
+  </messages>
+</conversation>
+

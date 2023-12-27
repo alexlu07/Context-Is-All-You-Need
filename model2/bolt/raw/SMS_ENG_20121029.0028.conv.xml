@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121029.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-29 17:20:14 UTC">
+      <body>Are we going to have dinner tonight</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-10-29 17:21:34 UTC">
+      <body>Yes if u want to. I'm headed out to the stores soon and I'll give u a call.</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-10-29 21:29:22 UTC">
+      <body>I am here</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-29 21:29:55 UTC">
+      <body>Ok I need to pick up something really quick. Wait ten minutes?</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-10-29 21:30:54 UTC">
+      <body>Come as soon as u can. I'm on the circle behind dobbs</body>
+    </message>
+  </messages>
+</conversation>

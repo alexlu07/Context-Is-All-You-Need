@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131129.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-29 23:45:59 UTC" participant="153491">
+      <body>Hello there! Are you coming out to play tonight?</body>
+    </message>
+    <message id="m0001" time="2013-11-29 23:59:52 UTC" participant="152118">
+      <body>No. I've been out since 8 and now I'm eating with the fam at fat salmon. In exhausted and spent way too much money already. Hahaha.</body>
+    </message>
+    <message id="m0002" time="2013-11-30 02:17:32 UTC" participant="153491">
+      <body>Hahahah damn, sounds like someone really took advantage of Black Friday huh? ;) I've never been to Fat Salmon, heard it was good. Okay, now I want sushi!</body>
+    </message>
+  </messages>
+</conversation>
+

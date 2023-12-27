@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140612.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-12 22:00:29 UTC" participant="153557">
+      <body>It's gone!</body>
+    </message>
+    <message id="m0001" time="2014-06-12 22:36:19 UTC" participant="153547">
+      <body>Can you drive the car around in a couple min?</body>
+    </message>
+    <message id="m0002" time="2014-06-12 22:36:27 UTC" participant="153557">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0003" time="2014-06-12 22:38:56 UTC" participant="153557">
+      <body>M</body>
+    </message>
+    <message id="m0004" time="2014-06-12 22:40:32 UTC" participant="153557">
+      <body>Outside!</body>
+    </message>
+    <message id="m0005" time="2014-06-12 22:40:33 UTC" participant="153547">
+      <body>It's not ready yet</body>
+    </message>
+    <message id="m0006" time="2014-06-12 22:40:51 UTC" participant="153557">
+      <body>Oh Christ.</body>
+    </message>
+    <message id="m0007" time="2014-06-12 22:43:06 UTC" participant="153557">
+      <body>Just tell me when it's ready</body>
+    </message>
+    <message id="m0008" time="2014-06-12 22:44:30 UTC" participant="153547">
+      <body>It's ready</body>
+    </message>
+    <message id="m0009" time="2014-06-13 10:57:04 UTC" participant="153557">
+      <body>Do you need the car today? If so, do you mind dropping me in S. Philly at 9:10</body>
+    </message>
+    <message id="m0010" time="2014-06-13 21:49:52 UTC" participant="153557">
+      <body>Can you defrost mahi mahi?</body>
+    </message>
+    <message id="m0011" time="2014-06-13 21:49:52 UTC" participant="153557">
+      <body>Tess gonna come over for fish tacos atb7:45</body>
+    </message>
+    <message id="m0012" time="2014-06-13 21:53:00 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0013" time="2014-06-13 21:56:01 UTC" participant="153557">
+      <body>Thanks love! I should be home by 7:30</body>
+    </message>
+  </messages>
+</conversation>
+

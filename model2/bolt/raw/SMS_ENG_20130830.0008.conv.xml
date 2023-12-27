@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 11:59:05 UTC" participant="154352">
+      <body>Are you coming to the tennis?</body>
+    </message>
+    <message id="m0001" time="2013-08-30 12:01:14 UTC" participant="154394">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

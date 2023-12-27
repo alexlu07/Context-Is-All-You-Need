@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140428.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-28 01:13:42 UTC" participant="153491">
+      <body>I might do work at Penn tomorrow. Are you still working on Skyrocket?</body>
+    </message>
+    <message id="m0001" time="2014-04-28 01:13:51 UTC" participant="153491">
+      <body>*Skyrock</body>
+    </message>
+    <message id="m0002" time="2014-04-28 01:18:30 UTC" participant="152116">
+      <body>Yeah. I have to. I'm going out for drinks with friends at 10:30 so in the meantime I have to work at Penn. </body>
+    </message>
+    <message id="m0003" time="2014-04-28 01:18:59 UTC" participant="153491">
+      <body>Okay.</body>
+    </message>
+    <message id="m0004" time="2014-04-28 17:23:37 UTC" participant="152116">
+      <body>What time will you be at Penn?</body>
+    </message>
+    <message id="m0005" time="2014-04-28 18:51:25 UTC" participant="153491">
+      <body>5 or 6</body>
+    </message>
+    <message id="m0006" time="2014-04-28 18:52:16 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0007" time="2014-04-28 20:25:34 UTC" participant="152116">
+      <body>I'm done at 5. Probably sooner. I guess I'm going to Starbucks?</body>
+    </message>
+  </messages>
+</conversation>
+

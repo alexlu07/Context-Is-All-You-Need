@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-11 13:06:02 UTC">
+      <body>Hey Glenn. Any idea when you want to meet up?</body>
+    </message>
+    <message id="m0001" participant="132555" time="2013-06-11 13:16:02 UTC">
+      <body>Would you be up for meeting us on a Monday night?  That's usually the only time the three of us are together.  </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-11 13:21:58 UTC">
+      <body>Yup no problem</body>
+    </message>
+    <message id="m0003" participant="132555" time="2013-06-11 13:31:03 UTC">
+      <body>Ok, any upcoming conflicts, or are any of the next few Mondays good?  </body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-11 13:37:03 UTC">
+      <body>Yea I should be available</body>
+    </message>
+    <message id="m0005" participant="132555" time="2013-06-11 13:39:59 UTC">
+      <body>Ok, let me talk with the band at the next practice.  Assuming that we do practice that week, I'm thinking the 24th.  </body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-11 13:41:07 UTC">
+      <body>24th meet up??</body>
+    </message>
+    <message id="m0007" participant="132555" time="2013-06-11 13:54:08 UTC">
+      <body>Yeah, I just have to confirm that we will be practicing that night.  </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-11 13:56:54 UTC">
+      <body>OK NP. Just lmk</body>
+    </message>
+  </messages>
+</conversation>

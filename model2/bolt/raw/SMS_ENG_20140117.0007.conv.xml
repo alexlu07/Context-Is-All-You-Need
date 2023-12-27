@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140117.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-17 13:03:12 UTC" participant="153561">
+      <body>I'm gonna catch a ride out west but can't get there until 9. </body>
+    </message>
+    <message id="m0001" time="2014-01-17 13:03:30 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

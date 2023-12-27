@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120623.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2012-06-23 22:25:58 UTC">
+      <body>Wait, are you getting installments of twistbands?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-23 22:27:37 UTC">
+      <body>I got one set but haven't been home in a while....</body>
+    </message>
+    <message id="m0002" participant="135131" time="2012-06-23 22:29:22 UTC">
+      <body>I bought you a subscription - did you get more than one box?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-06-23 22:29:45 UTC">
+      <body>Not yet but I haven't been home in a long time </body>
+    </message>
+    <message id="m0004" participant="135131" time="2012-06-23 22:30:49 UTC">
+      <body>Hmm.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140501.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-01 22:15:28 UTC" participant="153632">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-05-01 22:15:28 UTC" participant="153632">
+      <body>I just got $56 of groceries for $24!!!</body>
+    </message>
+    <message id="m0002" time="2014-05-01 22:15:28 UTC" participant="153632">
+      <body>It's more than a weeks worth of meat!</body>
+    </message>
+    <message id="m0003" time="2014-05-01 22:15:28 UTC" participant="153632">
+      <body>Yikes</body>
+    </message>
+    <message id="m0004" time="2014-05-01 22:17:09 UTC" participant="153548">
+      <body>So much meat!</body>
+    </message>
+    <message id="m0005" time="2014-05-01 22:17:18 UTC" participant="153548">
+      <body>I spent 113 yesterday.</body>
+    </message>
+    <message id="m0006" time="2014-05-01 22:17:21 UTC" participant="153548">
+      <body>Ugh.</body>
+    </message>
+    <message id="m0007" time="2014-05-01 22:17:33 UTC" participant="153548">
+      <body>Yeah. We are trying to buy organic</body>
+    </message>
+    <message id="m0008" time="2014-05-01 22:17:44 UTC" participant="153548">
+      <body>Can't wait for our garden to get goin!</body>
+    </message>
+  </messages>
+</conversation>
+

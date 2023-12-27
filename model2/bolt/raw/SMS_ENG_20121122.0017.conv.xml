@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121122.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-22 17:00:34 UTC">
+      <body>Happy Thanksgiving!!! :D</body>
+    </message>
+    <message id="m0001" participant="135270" time="2012-11-22 18:15:17 UTC">
+      <body>Happy Thanksgiving to you, too! When do you want to have breakfast tomorrow? Can we make it on the earlier side (like...10?) because I am planning to leave Needham between 1 and 2pm to visit Rob for the weekend.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-22 18:42:23 UTC">
+      <body>Sure, 10 works for me :) want to let Charly and Neelima know?</body>
+    </message>
+    <message id="m0003" participant="135270" time="2012-11-22 18:43:23 UTC">
+      <body>I would but I'm running a little low on texting. Could you tell them? Thanks :)</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-22 18:45:45 UTC">
+      <body>Sure </body>
+    </message>
+    <message id="m0005" participant="135270" time="2012-11-23 02:03:48 UTC">
+      <body>So meeting at fresco's tomorrow at 10? Are we sure it's open?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-11-23 02:06:57 UTC">
+      <body>Are things closed tomorrow too? I figured it would be open. Anyway there's no way to find out now. And yeah 10</body>
+    </message>
+    <message id="m0007" participant="135270" time="2012-11-23 02:08:41 UTC">
+      <body>Oh yeah, whoops, it probably is open. Keep forgetting what day it is. See you then!!!</body>
+    </message>
+  </messages>
+</conversation>

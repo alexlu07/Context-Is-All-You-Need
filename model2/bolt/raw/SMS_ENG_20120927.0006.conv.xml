@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120927.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135436" time="2012-09-27 21:57:08 UTC">
+      <body>We are swinging by the studios then to the pig!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-27 22:03:27 UTC">
+      <body>Oh did u go there </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-27 22:13:59 UTC">
+      <body>Where r u dudes</body>
+    </message>
+    <message id="m0003" participant="135436" time="2012-09-27 22:15:24 UTC">
+      <body>The squealing pig! come join us!!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-09-27 22:15:37 UTC">
+      <body>Ok I'm on the way</body>
+    </message>
+  </messages>
+</conversation>

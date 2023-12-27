@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150105.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-05 19:50:36 UTC" participant="153547">
+      <body>Hello, I'm interested in the projection screen. I'm available tomorrow morning. Thanks, Hunter</body>
+    </message>
+    <message id="m0001" time="2015-01-05 19:52:15 UTC" participant="153547">
+      <body>I'm also available after 7pm tomorrow </body>
+    </message>
+    <message id="m0002" time="2015-01-05 20:43:17 UTC" participant="153621">
+      <body>Sorry I work during the day. I usually home by 430. So anytime after that is fine.7 should work tomorrow.  Thanks Chris</body>
+    </message>
+    <message id="m0003" time="2015-01-06 16:44:03 UTC" participant="153547">
+      <body>Hello. I'm in west Philadelphia. I think I will avoid coming tonight due to weather. I have a meeting after work tomorrow, but I could come Thursday at 7pm if available</body>
+    </message>
+    <message id="m0004" time="2015-01-06 16:47:25 UTC" participant="153621">
+      <body>That fine.  Just let me know. Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

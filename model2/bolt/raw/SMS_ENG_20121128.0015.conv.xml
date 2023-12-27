@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121128.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-11-28 02:07:40 UTC">
+      <body>Hi love! So I'm definitely sore today but I feel like I can handle another round tomorrow. You still interested?</body>
+    </message>
+    <message id="m0001" participant="131468" time="2012-11-28 02:24:18 UTC">
+      <body>Absolutely! Also, I can do next Monday! It's the following Monday that I can't do. I'm mixing up my weeks.</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-11-28 02:40:03 UTC">
+      <body>Excellent!!</body>
+    </message>
+  </messages>
+</conversation>

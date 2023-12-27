@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-07-11 16:12:00 UTC">
+      <body>That is an unusual name. What is the significance?</body>
+    </message>
+    <message id="m0001" participant="131218" time="2013-07-11 17:17:02 UTC">
+      <body>I wanted a user name that did not need numbers after it. The name is just random.</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-07-12 00:36:01 UTC">
+      <body>Why don't you have numbers? What is the rule for that?</body>
+    </message>
+    <message id="m0003" participant="131218" time="2013-07-12 10:53:15 UTC">
+      <body>No rule. I just wanted a name others did not have.</body>
+    </message>
+  </messages>
+</conversation>

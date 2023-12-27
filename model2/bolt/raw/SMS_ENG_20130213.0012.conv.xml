@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-13 03:23:17 UTC">
+      <body>Lauren are you in the states?</body>
+    </message>
+    <message id="m0001" participant="135404" time="2013-02-13 03:33:20 UTC">
+      <body>Yes!!! I am so happy you texted me. How are you?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-13 03:37:10 UTC">
+      <body>I'm good.  How was your adventure abroad? Belgium?  </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-13 03:37:39 UTC">
+      <body>Yeah I was thinking about you!!! I was like I wonder how her semester panned out   </body>
+    </message>
+    <message id="m0004" participant="135404" time="2013-02-13 03:38:06 UTC">
+      <body>Good!!! Great!! Lets talk tomorrow. I got a job fundraising at el museo del barrio</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-02-13 03:38:59 UTC">
+      <body>Nice! I run around all day tomorrow. Ill call you after class around nine?</body>
+    </message>
+    <message id="m0006" participant="135404" time="2013-02-13 03:39:28 UTC">
+      <body>Yeah perfect. Lets talk then. </body>
+    </message>
+    <message id="m0007" participant="135404" time="2013-02-14 01:58:22 UTC">
+      <body>Hey Sophie, can we talk this weekend? I'm beat from my day. </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-02-14 02:13:58 UTC">
+      <body>Still in class.  Perfect</body>
+    </message>
+  </messages>
+</conversation>

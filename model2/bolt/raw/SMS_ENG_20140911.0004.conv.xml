@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140911.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-11 18:43:12 UTC" participant="153316">
+      <body>Not going to be able to get there today:(</body>
+    </message>
+    <message id="m0001" time="2014-09-11 19:37:09 UTC" participant="152734">
+      <body>No problem, I'll let Brenna know. I hope Gerry comes back and puts the shoe on tomorrow! </body>
+    </message>
+    <message id="m0002" time="2014-09-11 20:03:33 UTC" participant="153316">
+      <body>I will be happy to pay Brenna:)</body>
+    </message>
+    <message id="m0003" time="2014-09-11 20:07:52 UTC" participant="152734">
+      <body>I offered too and she wasn't having it! I might get her some pizza this weekend and/or do some of her barn chores :)</body>
+    </message>
+    <message id="m0004" time="2014-09-11 20:33:22 UTC" participant="153316">
+      <body>I'll just put some extra  in with blanket payment:)</body>
+    </message>
+    <message id="m0005" time="2014-09-12 12:45:51 UTC" participant="152734">
+      <body>Do you like tomatoes? My garden is going nuts and I can bring some to the barn for you if you want? </body>
+    </message>
+    <message id="m0006" time="2014-09-12 12:46:59 UTC" participant="153316">
+      <body>I would love some! </body>
+    </message>
+    <message id="m0007" time="2014-09-12 13:03:03 UTC" participant="152734">
+      <body>Great, I'll leave some this afternoon! </body>
+    </message>
+    <message id="m0008" time="2014-09-12 13:15:12 UTC" participant="153316">
+      <body>Ok!thanks</body>
+    </message>
+  </messages>
+</conversation>
+

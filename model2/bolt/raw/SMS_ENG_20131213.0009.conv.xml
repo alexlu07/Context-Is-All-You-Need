@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 19:49:33 UTC" participant="153547">
+      <body>I need to run to lowes. Can I catch a ride?</body>
+    </message>
+    <message id="m0001" time="2013-12-13 19:50:13 UTC" participant="153561">
+      <body>I'm already here. They don't have what we need. Would you want to go to Home Depot?</body>
+    </message>
+    <message id="m0002" time="2013-12-13 19:50:24 UTC" participant="153561">
+      <body>K sorry bro</body>
+    </message>
+    <message id="m0003" time="2013-12-13 19:50:35 UTC" participant="153547">
+      <body>Nope I need to return some stuff</body>
+    </message>
+  </messages>
+</conversation>
+

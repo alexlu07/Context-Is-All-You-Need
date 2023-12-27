@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120531.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-05-31 22:11:27 UTC">
+      <body>Hey, is catnip a vine?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-05-31 22:12:15 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-05-31 22:13:15 UTC">
+      <body>Hmm. Ours is very viney!! Or, possibly not catnip.</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-05-31 22:15:41 UTC">
+      <body>Could be leggy growing towards sun, flowers?  Is the foliage hairy?</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-05-31 22:16:18 UTC">
+      <body>No flowers, kind of fuzzy leaves.</body>
+    </message>
+    <message id="m0005" participant="131023" time="2012-05-31 22:17:03 UTC">
+      <body>How viney?</body>
+    </message>
+    <message id="m0006" participant="130712" time="2012-05-31 22:18:13 UTC">
+      <body>I'll send a pic later.</body>
+    </message>
+    <message id="m0007" participant="131023" time="2012-05-31 22:18:55 UTC">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0008" participant="131023" time="2012-05-31 23:25:21 UTC">
+      <body>Actually is catnip I think, you need to pinch it back to make it fuller.</body>
+    </message>
+    <message id="m0009" participant="130712" time="2012-05-31 23:26:33 UTC">
+      <body>Ahh gotcha. Thanks!</body>
+    </message>
+    <message id="m0010" participant="130712" time="2012-05-31 23:26:59 UTC">
+      <body>Percy will be happy.</body>
+    </message>
+    <message id="m0011" participant="131023" time="2012-05-31 23:27:15 UTC">
+      <body>Love you!</body>
+    </message>
+    <message id="m0012" participant="130712" time="2012-05-31 23:29:19 UTC">
+      <body>Love you!!</body>
+    </message>
+  </messages>
+</conversation>

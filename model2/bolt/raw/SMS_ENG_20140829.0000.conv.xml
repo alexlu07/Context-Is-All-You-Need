@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140829.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-29 00:36:48 UTC" participant="152424">
+      <body>want to come over for a beer?</body>
+    </message>
+    <message id="m0001" time="2014-08-29 00:52:22 UTC" participant="152417">
+      <body>Ya, whats your address?</body>
+    </message>
+    <message id="m0003" time="2014-08-29 00:53:20 UTC" participant="152424">
+      <body>sure!</body>
+    </message>
+    <message id="m0004" time="2014-08-29 00:54:00 UTC" participant="152417">
+      <body>15 sound good?</body>
+    </message>
+    <message id="m0005" time="2014-08-29 15:47:12 UTC" participant="152424">
+      <body>I'm inside</body>
+    </message>
+    <message id="m0006" time="2014-08-29 15:48:27 UTC" participant="152417">
+      <body>I'll be in in a minute</body>
+    </message>
+    <message id="m0007" time="2014-08-29 17:08:16 UTC" participant="152424">
+      <body>and my class was canceled.  did I miss an encore?</body>
+    </message>
+    <message id="m0008" time="2014-08-29 17:12:30 UTC" participant="152417">
+      <body>1 song.  ￼Then this</body>
+    </message>
+    <message id="m0009" time="2014-08-29 17:14:02 UTC" participant="152424">
+      <body>tweet it at @philaparking and #unblockbikelanes include the place</body>
+    </message>
+  </messages>
+</conversation>
+

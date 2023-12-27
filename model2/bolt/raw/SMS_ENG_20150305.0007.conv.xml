@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150305.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-05 17:10:47 UTC" participant="152212">
+      <body>Would u want an adjunct teaching job in boston next fall?</body>
+    </message>
+    <message id="m0001" time="2015-03-05 17:12:27 UTC" participant="152212">
+      <body>I could probably find u at least two classes if u r interested. </body>
+    </message>
+    <message id="m0002" time="2015-03-06 03:01:50 UTC" participant="152326">
+      <body>Oh hey!!! Tell me more....what school?</body>
+    </message>
+    <message id="m0003" time="2015-03-06 13:36:20 UTC" participant="152212">
+      <body>Emmanuel College!</body>
+    </message>
+  </messages>
+</conversation>
+

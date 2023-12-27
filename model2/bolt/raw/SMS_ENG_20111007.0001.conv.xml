@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111007.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2011-10-07 02:38:17 UTC">
+      <body>Are you coming?</body>
+    </message>
+    <message id="m0001" participant="131833" time="2011-10-07 02:42:00 UTC">
+      <body>Nope not tonight</body>
+    </message>
+    <message id="m0002" participant="131821" time="2011-10-07 02:42:32 UTC">
+      <body>Aww, I'll miss you!</body>
+    </message>
+    <message id="m0003" participant="131833" time="2011-10-07 02:49:40 UTC">
+      <body>Miss you too bud!</body>
+    </message>
+  </messages>
+</conversation>

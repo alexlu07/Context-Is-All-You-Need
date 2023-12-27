@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-20 18:10:02 UTC">
+      <body>Hello where are you</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-20 18:10:03 UTC">
+      <body>I want a hug</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-20 18:10:07 UTC">
+      <body>!</body>
+    </message>
+    <message id="m0003" participant="135575" time="2013-03-20 18:33:30 UTC">
+      <body>9th floor!</body>
+    </message>
+  </messages>
+</conversation>

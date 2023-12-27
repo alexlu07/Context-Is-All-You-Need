@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131373" time="2013-02-16 18:17:01 UTC">
+      <body>Hey there...things are ok. How are you?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-02-17 02:29:43 UTC">
+      <body>things are weird, but okay.</body>
+    </message>
+    <message id="m0002" participant="131373" time="2013-02-17 02:47:55 UTC">
+      <body>Yeah I agree</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-02-17 02:50:15 UTC">
+      <body>what's going on?
+</body>
+    </message>
+    <message id="m0005" participant="131373" time="2013-02-17 02:51:11 UTC">
+      <body>Im at a b day party</body>
+    </message>
+    <message id="m0006" participant="131373" time="2013-02-17 02:51:24 UTC">
+      <body>Everything's weed</body>
+    </message>
+    <message id="m0007" participant="131373" time="2013-02-17 02:51:29 UTC">
+      <body>Weird</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-02-17 02:52:28 UTC">
+      <body>want me to rescue you and go out for a pint?</body>
+    </message>
+    <message id="m0009" participant="131373" time="2013-02-17 02:53:13 UTC">
+      <body>No it's ok I'm good.  Soon though</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-02-17 02:54:37 UTC">
+      <body>hell, yeah...i got stuff to talk to you about.</body>
+    </message>
+    <message id="m0011" participant="131350" time="2013-02-17 02:55:12 UTC">
+      <body>have fun!
+ttyl!</body>
+    </message>
+    <message id="m0012" participant="131373" time="2013-02-17 02:55:17 UTC">
+      <body>K. Soon!</body>
+    </message>
+  </messages>
+</conversation>

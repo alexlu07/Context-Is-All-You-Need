@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150224.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-24 00:17:32 UTC" participant="152122">
+      <body>I am here</body>
+    </message>
+    <message id="m0001" time="2015-02-24 00:32:49 UTC" participant="152115">
+      <body>Ok. Be there soon.</body>
+    </message>
+    <message id="m0002" time="2015-02-24 00:33:37 UTC" participant="152122">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

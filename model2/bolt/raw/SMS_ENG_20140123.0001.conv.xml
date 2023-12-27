@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140123.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-23 15:37:36 UTC" participant="152417">
+      <body>Feb 8th Grup Anwar gig will be around 9, does that work?</body>
+    </message>
+    <message id="m0001" time="2014-01-23 15:46:40 UTC" participant="152427">
+      <body>I will need to find someone to cover me at work... Will let you know </body>
+    </message>
+    <message id="m0002" time="2014-01-23 15:50:31 UTC" participant="152417">
+      <body>Cool, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

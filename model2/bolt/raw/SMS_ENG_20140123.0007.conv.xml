@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140123.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-23 20:27:50 UTC" participant="153572">
+      <body>We r @farm.</body>
+    </message>
+    <message id="m0001" time="2014-01-24 19:12:21 UTC" participant="153572">
+      <body>Is lindsey back?</body>
+    </message>
+    <message id="m0002" time="2014-01-24 19:23:22 UTC" participant="153547">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-06-11 02:24:01 UTC">
+      <body>Are you awake?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-12 00:24:03 UTC">
+      <body>Is the Camry 4 or 6 cylinder?</body>
+    </message>
+    <message id="m0002" participant="135266" time="2013-06-12 00:24:31 UTC">
+      <body>6</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-06-12 00:34:09 UTC">
+      <body>Do you mean 250 deductible for comprehensive and 500 for collision?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-06-12 00:35:01 UTC">
+      <body>(I don't have a 300 option)</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-06-12 00:43:36 UTC">
+      <body>And how many years have we been with travelers</body>
+    </message>
+    <message id="m0006" participant="135266" time="2013-06-12 01:00:55 UTC">
+      <body>250/500 works for now. Been with Travelers a long time. Say 10 years. </body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-06-12 01:04:01 UTC">
+      <body>Limited tort: progressive is 1202 for six months, geico is 815 for six months</body>
+    </message>
+    <message id="m0008" participant="135266" time="2013-06-12 01:05:03 UTC">
+      <body>How much for full tort?</body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-06-12 01:05:05 UTC">
+      <body>full tort: progressive 1679 and geico 1011 for 6 months</body>
+    </message>
+    <message id="m0010" participant="135266" time="2013-06-12 01:07:21 UTC">
+      <body>Ok I'll talk with Marty tomorrow or Thursday. I'm leaning toward staying with Massachusetts. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 21:29:57 UTC" participant="153848">
+      <body>Hey do you have Aleve by any chance? </body>
+    </message>
+    <message id="m0001" time="2015-04-12 21:30:23 UTC" participant="153848">
+      <body>Chloe hurt her foot and its swelling really bad. </body>
+    </message>
+    <message id="m0002" time="2015-04-12 23:30:37 UTC" participant="153864">
+      <body>I don't :( I have Advil but I can't take Alieve </body>
+    </message>
+    <message id="m0003" time="2015-04-12 23:37:35 UTC" participant="153864">
+      <body>Is chlo ok?? </body>
+    </message>
+    <message id="m0004" time="2015-04-12 23:40:53 UTC" participant="153848">
+      <body>It's ok! Got her ibuprofen. She'll be fine... Might be a stress fracture?¿</body>
+    </message>
+    <message id="m0005" time="2015-04-12 23:41:29 UTC" participant="153864">
+      <body>Oh geeze! Ice and elevation!! </body>
+    </message>
+    <message id="m0006" time="2015-04-13 21:04:06 UTC" participant="153864">
+      <body>Anyone home I forgot my keys </body>
+    </message>
+  </messages>
+</conversation>
+

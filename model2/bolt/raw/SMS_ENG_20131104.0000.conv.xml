@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131104.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-04 12:30:23 UTC" participant="152417">
+      <body>Comment s'appelle un chien qui vends des médicaments? </body>
+    </message>
+    <message id="m0001" time="2013-11-04 12:31:05 UTC" participant="152417">
+      <body>Un pharmachien!</body>
+    </message>
+    <message id="m0002" time="2013-11-04 14:15:28 UTC" participant="152429">
+      <body>That just made my morning!!!</body>
+    </message>
+  </messages>
+</conversation>
+

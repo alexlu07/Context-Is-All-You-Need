@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131405" time="2012-12-11 22:56:00 UTC">
+      <body>Should I keep my contacts in while I shower</body>
+    </message>
+    <message id="m0001" participant="131403" time="2012-12-11 22:56:28 UTC">
+      <body>Yes</body>
+    </message>
+  </messages>
+</conversation>

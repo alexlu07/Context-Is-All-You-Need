@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140617.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-17 13:24:16 UTC" participant="152548">
+      <body>I have this for you!</body>
+    </message>
+    <message id="m0001" time="2014-06-17 13:24:16 UTC" participant="152548">
+      <body>￼</body>
+    </message>
+    <message id="m0002" time="2014-06-17 13:25:59 UTC" participant="152417">
+      <body>Yay! Should i come pick it up?</body>
+    </message>
+    <message id="m0003" time="2014-06-17 13:37:20 UTC" participant="152548">
+      <body>Or I will be dt later this morning and could meet you!</body>
+    </message>
+    <message id="m0004" time="2014-06-17 13:49:35 UTC" participant="152417">
+      <body>Cool, let me know where/when, ill be free until this evening</body>
+    </message>
+    <message id="m0005" time="2014-06-17 15:09:09 UTC" participant="152548">
+      <body>Heading down now! We'll be down for a couple hours</body>
+    </message>
+    <message id="m0006" time="2014-06-17 15:55:47 UTC" participant="152417">
+      <body>Cool, where. Should i meet you?</body>
+    </message>
+    <message id="m0007" time="2014-06-17 16:00:00 UTC" participant="152548">
+      <body>Just left ems they want to go in mall for a sec to play in the toys</body>
+    </message>
+    <message id="m0008" time="2014-06-17 16:00:00 UTC" participant="152548">
+      <body>I can come out anytime!</body>
+    </message>
+    <message id="m0009" time="2014-06-17 16:13:40 UTC" participant="152417">
+      <body>Im outside the mall on church st</body>
+    </message>
+    <message id="m0010" time="2014-06-17 16:14:43 UTC" participant="152548">
+      <body>Coming out!</body>
+    </message>
+  </messages>
+</conversation>
+

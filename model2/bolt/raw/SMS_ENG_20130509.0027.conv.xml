@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0027" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130524" time="2013-05-09 09:27:21 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="130566" time="2013-05-09 09:27:25 UTC">
+      <body>Hello world?</body>
+    </message>
+    <message id="m0002" participant="130566" time="2013-05-09 09:29:00 UTC">
+      <body>Hi Italy</body>
+    </message>
+    <message id="m0003" participant="130524" time="2013-05-09 09:29:12 UTC">
+      <body>So I was just about to hop in the shower/eat breakfast, would you be free to chat in like an hour?</body>
+    </message>
+    <message id="m0004" participant="130566" time="2013-05-09 09:32:02 UTC">
+      <body>No prob, just chime in whenever you have a moment. I have a full day so I'll just drop a line whenever I have a moment.</body>
+    </message>
+    <message id="m0005" participant="130524" time="2013-05-09 09:33:02 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0006" participant="130524" time="2013-05-09 09:35:40 UTC">
+      <body>Oh ok</body>
+    </message>
+    <message id="m0007" participant="130524" time="2013-05-09 10:34:26 UTC">
+      <body>So how's it going?</body>
+    </message>
+    <message id="m0008" participant="130566" time="2013-05-09 10:37:09 UTC">
+      <body>Pretty good, I'm a new dad to twin boys and last night was a relatively good night - 6 straight hours of sleep!</body>
+    </message>
+    <message id="m0009" participant="130524" time="2013-05-09 10:38:38 UTC">
+      <body>Oh wow that's awesome! Congrats!</body>
+    </message>
+    <message id="m0010" participant="130566" time="2013-05-09 11:05:19 UTC">
+      <body>Thanks, I'm pretty happy about it. How's things with you?</body>
+    </message>
+    <message id="m0011" participant="130524" time="2013-05-09 11:08:38 UTC">
+      <body>Good just doing some long overdue laundry</body>
+    </message>
+    <message id="m0012" participant="130566" time="2013-05-09 11:10:45 UTC">
+      <body>I miss the days of doing just my own laundry. With kids, laundry is more voluminous and more disgusting. It never ends.</body>
+    </message>
+    <message id="m0013" participant="130524" time="2013-05-09 11:16:55 UTC">
+      <body>I'm really bad at doing it so it always just piles up</body>
+    </message>
+    <message id="m0014" participant="130566" time="2013-05-09 18:56:50 UTC">
+      <body>How's laundry going?</body>
+    </message>
+  </messages>
+</conversation>

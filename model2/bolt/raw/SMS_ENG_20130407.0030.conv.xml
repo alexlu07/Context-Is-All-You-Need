@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136129" time="2013-04-07 23:22:01 UTC">
+      <body>Please tell me your roommate didn't finish the lemon squares</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-07 23:25:40 UTC">
+      <body>i am so sorry, she ate the last one this morning. :(</body>
+    </message>
+    <message id="m0002" participant="136129" time="2013-04-07 23:26:21 UTC">
+      <body>I think you just broke my heart</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-07 23:33:14 UTC">
+      <body>next time i make something i'll save you some from the start. promise! </body>
+    </message>
+    <message id="m0004" participant="136129" time="2013-04-07 23:33:48 UTC">
+      <body>Okay! Lol I'll hold you up to that!</body>
+    </message>
+    <message id="m0005" participant="136129" time="2013-04-07 23:34:07 UTC">
+      <body>P.s. have you done Arabic homework?</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-04-07 23:35:16 UTC">
+      <body>no. :( this weekend has been nuts. have you? </body>
+    </message>
+    <message id="m0007" participant="136129" time="2013-04-07 23:36:10 UTC">
+      <body>Nah, I haven't even looked at it but yeah this weekend was crazy</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-04-07 23:37:08 UTC">
+      <body>in a good way, i hope! </body>
+    </message>
+  </messages>
+</conversation>

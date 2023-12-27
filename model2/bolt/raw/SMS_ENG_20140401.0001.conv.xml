@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140401.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-01 15:34:06 UTC" participant="152548">
+      <body>I will try to be there! As long as flights are on time</body>
+    </message>
+    <message id="m0001" time="2014-04-01 23:51:28 UTC" participant="152548">
+      <body>Hi guys I just got back from PA and am exhausted from mtgs all day. Do you need me there tonight?</body>
+    </message>
+    <message id="m0002" time="2014-04-01 23:58:55 UTC" participant="152417">
+      <body>We need you but we don't need you, so feel free to rest</body>
+    </message>
+    <message id="m0003" time="2014-04-01 23:59:58 UTC" participant="152548">
+      <body>OMG that's passive agressive! Ok I'm not going to be a pussy. I'm coming. 9 at Phinns?</body>
+    </message>
+    <message id="m0004" time="2014-04-02 00:06:46 UTC" participant="152417">
+      <body>No! It wasnt supposed to be, i didnt want to just say "we dont need you" because i want you to feel appreciated</body>
+    </message>
+    <message id="m0005" time="2014-04-02 00:20:53 UTC" participant="152548">
+      <body>OMG. </body>
+    </message>
+    <message id="m0006" time="2014-04-02 00:21:09 UTC" participant="152548">
+      <body>That's sweet. I'm coming I rallied. I was being a pussy. We're all tired!</body>
+    </message>
+    <message id="m0007" time="2014-04-02 00:21:13 UTC" participant="152548">
+      <body>Phinns right?</body>
+    </message>
+    <message id="m0008" time="2014-04-02 00:23:36 UTC" participant="152417">
+      <body>Yep, phin's at 9</body>
+    </message>
+  </messages>
+</conversation>
+

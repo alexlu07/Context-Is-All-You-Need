@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140303.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-03 15:28:00 UTC" participant="149440">
+      <body>No sir. Just waiting for the boss lady to show w some answers.</body>
+    </message>
+    <message id="m0001" time="2014-03-03 15:28:03 UTC" participant="149306">
+      <body>Do I need to meet with you at some point today?</body>
+    </message>
+    <message id="m0002" time="2014-03-03 15:31:42 UTC" participant="149306">
+      <body>Ok, great. I look forward from hearing from you when the details get ironed out. Thanks again.</body>
+    </message>
+    <message id="m0003" time="2014-03-03 20:39:28 UTC" participant="149440">
+      <body>Ok- so it's ############# It ain't great but as you see the work is pretty easy. When you get a chance stop by this week and fill out the paper work.</body>
+    </message>
+    <message id="m0004" time="2014-03-03 20:41:36 UTC" participant="149440">
+      <body>Ok.</body>
+    </message>
+    <message id="m0005" time="2014-03-03 20:42:46 UTC" participant="149306">
+      <body>Ok thanks. I'll try to stop by tomorrow or wends</body>
+    </message>
+  </messages>
+</conversation>
+

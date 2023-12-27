@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 23:32:16 UTC" participant="152535">
+      <body>Hey man. I will meet you by the co op. You bringin simone? Give a call when youre close and i will find ya. Peace</body>
+    </message>
+    <message id="m0001" time="2014-04-12 23:33:49 UTC" participant="152417">
+      <body>Ok, cool.  I didnt bring simone</body>
+    </message>
+    <message id="m0002" time="2014-04-12 23:42:38 UTC" participant="152417">
+      <body>Just got to the coop</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120730.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-07-30 14:44:37 UTC">
+      <body>Hey Eric!!!!!!!' it's Sofie I'm in town. what are you doing? we should get Jeremy to come up and hang out done!!</body>
+    </message>
+    <message id="m0001" participant="135420" time="2012-07-30 15:17:55 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-30 15:20:52 UTC">
+      <body>Do you want to hang out? Sometime</body>
+    </message>
+    <message id="m0003" participant="135420" time="2012-07-30 15:23:16 UTC">
+      <body>Sure. Im at work during the day. What do you mean get jeremy? Hes in ny.</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-30 15:53:52 UTC">
+      <body>I know he wants to hang out with you</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-07-30 22:53:54 UTC">
+      <body>He wanted to know when it would be good time for you for him to come</body>
+    </message>
+    <message id="m0006" participant="135420" time="2012-07-30 23:54:53 UTC">
+      <body>How long you around for?</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-07-31 00:08:38 UTC">
+      <body>All week!</body>
+    </message>
+    <message id="m0008" participant="135420" time="2012-07-31 00:09:49 UTC">
+      <body>Cool! Tmro nite at sidecar. Down?</body>
+    </message>
+  </messages>
+</conversation>

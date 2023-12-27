@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130610.0003" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131805" time="2013-06-10 07:55:26 UTC">
+      <body>Hello my lady. How bodes your day?</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-06-10 09:17:35 UTC">
+      <body>Hi! I'm fine and you?</body>
+    </message>
+    <message id="m0002" participant="131805" time="2013-06-10 11:58:33 UTC">
+      <body>Doing fantastic, my lady. How do you spend today?</body>
+    </message>
+    <message id="m0003" participant="130995" time="2013-06-10 12:00:50 UTC">
+      <body>Today i will be cooking and cleaning. I'll go to the gym also. And you?</body>
+    </message>
+  </messages>
+</conversation>

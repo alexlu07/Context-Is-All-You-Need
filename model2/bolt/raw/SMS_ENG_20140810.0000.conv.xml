@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 19:28:22 UTC" participant="152115">
+      <body>Did they have the Bulgogi?</body>
+    </message>
+    <message id="m0001" time="2014-08-10 19:29:28 UTC" participant="152117">
+      <body>No. Its on back order. Wbhere are you?</body>
+    </message>
+    <message id="m0002" time="2014-08-10 19:37:36 UTC" participant="152115">
+      <body>The short ribs too? I'm in China town.</body>
+    </message>
+    <message id="m0003" time="2014-08-10 19:38:40 UTC" participant="152117">
+      <body>They didn't have anything you wanted.</body>
+    </message>
+    <message id="m0004" time="2014-08-10 19:39:16 UTC" participant="152117">
+      <body>Except for mac and cheese</body>
+    </message>
+    <message id="m0005" time="2014-08-10 19:39:26 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

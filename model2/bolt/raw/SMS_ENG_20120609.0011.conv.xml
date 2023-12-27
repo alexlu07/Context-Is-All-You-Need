@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120609.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-09 16:04:34 UTC">
+      <body>Hey are you coming to my party tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136249" time="2012-06-09 16:51:12 UTC">
+      <body>YEEEEEES</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-09 16:54:08 UTC">
+      <body>YAYYYYYYYYY</body>
+    </message>
+  </messages>
+</conversation>

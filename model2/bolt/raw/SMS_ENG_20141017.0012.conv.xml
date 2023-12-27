@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141017.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-17 18:06:37 UTC" participant="153900">
+      <body>I been looking at file cabinets and they are expensive so gp there anything else you want</body>
+    </message>
+    <message id="m0001" time="2014-10-17 19:55:37 UTC" participant="153244">
+      <body>Ill think of something</body>
+    </message>
+    <message id="m0002" time="2014-10-17 19:55:45 UTC" participant="153244">
+      <body>And get back to you</body>
+    </message>
+    <message id="m0003" time="2014-10-17 22:00:38 UTC" participant="153244">
+      <body>Got a letter in the mail for the police academy. Have the physical exam on november 1st</body>
+    </message>
+    <message id="m0004" time="2014-10-17 22:55:04 UTC" participant="153900">
+      <body>O good</body>
+    </message>
+  </messages>
+</conversation>
+

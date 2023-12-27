@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-08 19:01:14 UTC">
+      <body>Come get your stuff because I have to leave!</body>
+    </message>
+    <message id="m0001" participant="136300" time="2012-12-08 19:01:20 UTC">
+      <body>It's okay I'm sure no one will steal it. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140111.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-11 14:37:28 UTC" participant="153451">
+      <body>You going today right?</body>
+    </message>
+    <message id="m0001" time="2014-01-11 14:37:50 UTC" participant="153418">
+      <body>Yeah. </body>
+    </message>
+    <message id="m0002" time="2014-01-11 14:48:23 UTC" participant="153451">
+      <body>Ok. Are you riding with Keyia? Or driving?</body>
+    </message>
+    <message id="m0003" time="2014-01-11 14:49:20 UTC" participant="153418">
+      <body>Planning on going with Keyia. You driving?</body>
+    </message>
+    <message id="m0004" time="2014-01-11 14:52:08 UTC" participant="153451">
+      <body>Well I guess I meant to the train station. I'm catching the Marc too</body>
+    </message>
+    <message id="m0005" time="2014-01-11 14:55:10 UTC" participant="153418">
+      <body>Ah, okay. Yeah, I requested to carpool with her on Facebook. </body>
+    </message>
+    <message id="m0006" time="2014-01-11 14:57:05 UTC" participant="153451">
+      <body>Oh okay. Give me a sec I'm going to talk with her you can probably ride with me</body>
+    </message>
+    <message id="m0007" time="2014-01-11 14:57:27 UTC" participant="153418">
+      <body>Okay, cool. </body>
+    </message>
+    <message id="m0008" time="2014-01-11 15:01:11 UTC" participant="153451">
+      <body>Ok I'll be getting you</body>
+    </message>
+    <message id="m0009" time="2014-01-11 15:01:21 UTC" participant="153451">
+      <body>Are you ready?</body>
+    </message>
+    <message id="m0010" time="2014-01-11 15:01:44 UTC" participant="153418">
+      <body>I can be out in 2 minutes. </body>
+    </message>
+    <message id="m0011" time="2014-01-11 15:03:19 UTC" participant="153451">
+      <body>Chill I'm not even out of the house </body>
+    </message>
+    <message id="m0012" time="2014-01-11 15:03:34 UTC" participant="153451">
+      <body>I'll leave my house in like 10min</body>
+    </message>
+    <message id="m0013" time="2014-01-11 15:03:48 UTC" participant="153418">
+      <body>Let me know when lol</body>
+    </message>
+    <message id="m0014" time="2014-01-11 15:04:15 UTC" participant="153451">
+      <body>I will </body>
+    </message>
+    <message id="m0015" time="2014-01-11 15:23:37 UTC" participant="153451">
+      <body>On my way</body>
+    </message>
+    <message id="m0016" time="2014-01-11 15:26:42 UTC" participant="153451">
+      <body>I'm out front</body>
+    </message>
+    <message id="m0017" time="2014-01-11 15:26:59 UTC" participant="153418">
+      <body>One second. Umbrella. </body>
+    </message>
+  </messages>
+</conversation>
+

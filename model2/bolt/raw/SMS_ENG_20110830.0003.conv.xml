@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110830.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135130" time="2011-08-30 23:27:37 UTC">
+      <body>Are you free for a trip to the ne side tonight for a beer? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-30 23:29:07 UTC">
+      <body>I'm moving to uptown tonight! But I'm usually free so let's set something up!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-06-18 17:37:23 UTC">
+      <body>Hey, missed you yesterday, what's up? </body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-06-18 17:52:56 UTC">
+      <body>Ugh my fault! Sorry! Want to talk today? What's your schedule like!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-06-18 17:52:59 UTC">
+      <body>*? Haha</body>
+    </message>
+    <message id="m0003" participant="135274" time="2013-06-18 18:40:07 UTC">
+      <body>No worries! talking would be great!  i am free until 6:15, and then between 9:30 and 10:30</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-06-19 00:17:57 UTC">
+      <body>I know you aren't free but let me know when around 9:30 you become free and we can talk! :)</body>
+    </message>
+    <message id="m0005" participant="135274" time="2013-06-19 01:29:28 UTC">
+      <body>Free now! what about you? feel free to call if yes.</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-06-19 01:30:57 UTC">
+      <body>Give me like 2 min.</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-06-19 01:31:26 UTC">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0034" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130632" time="2013-05-20 12:39:49 UTC">
+      <body>Hello there</body>
+    </message>
+    <message id="m0001" participant="130662" time="2013-05-20 12:43:04 UTC">
+      <body>Hi Borges9! Is that your real name, or are you anonymous?</body>
+    </message>
+    <message id="m0002" participant="130632" time="2013-05-20 12:51:08 UTC">
+      <body>my name is tim. i was only thinking abt that author</body>
+    </message>
+    <message id="m0003" participant="130662" time="2013-05-20 12:54:37 UTC">
+      <body>I see. Are you a Penn student/alumnus?</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-05-20 13:01:38 UTC">
+      <body>No, former ldc employee. now an adjunct at temple</body>
+    </message>
+    <message id="m0005" participant="130662" time="2013-05-20 13:42:48 UTC">
+      <body>Okay. My girlfriend used to work at LDC, and that's how I got introduced to this project. What role do you have at Temple?</body>
+    </message>
+    <message id="m0006" participant="130632" time="2013-05-20 14:10:37 UTC">
+      <body>Hard role</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-05-20 14:10:37 UTC">
+      <body>Creative writing + freshman comp adjunct instructor</body>
+    </message>
+    <message id="m0008" participant="130662" time="2013-05-20 14:30:18 UTC">
+      <body>Interesting. What did you major in?</body>
+    </message>
+    <message id="m0009" participant="130632" time="2013-05-20 16:30:31 UTC">
+      <body>Compraritve literatre</body>
+    </message>
+  </messages>
+</conversation>

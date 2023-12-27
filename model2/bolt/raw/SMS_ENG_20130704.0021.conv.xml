@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130704.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135618" time="2013-07-04 22:19:04 UTC">
+      <body>Danny are you going to the fire works tonight?  if so where?</body>
+    </message>
+    <message id="m0001" participant="135618" time="2013-07-04 22:20:01 UTC">
+      <body>Danny how do you spell your girlfriend name?</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-07-04 22:46:14 UTC">
+      <body>Agata</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-07-04 22:46:19 UTC">
+      <body>I'm at beach</body>
+    </message>
+    <message id="m0004" participant="135618" time="2013-07-04 22:51:30 UTC">
+      <body>What beach?</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-07-04 23:12:28 UTC">
+      <body>ocmd</body>
+    </message>
+  </messages>
+</conversation>

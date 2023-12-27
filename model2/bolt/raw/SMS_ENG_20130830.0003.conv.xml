@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 23:00:50 UTC" participant="152374">
+      <body>Hey, approximately what time are you planning to be up here tomorrow? Trying to map out my day</body>
+    </message>
+    <message id="m0001" time="2013-08-30 23:01:56 UTC" participant="152843">
+      <body>What would work for you?</body>
+    </message>
+    <message id="m0002" time="2013-08-30 23:03:11 UTC" participant="152843">
+      <body>I was thinking 1ish</body>
+    </message>
+    <message id="m0003" time="2013-08-30 23:04:10 UTC" participant="152374">
+      <body>Ok. The earlier the better - any chance you could shoot for noon? 1 works if necessary, noon would just be easier</body>
+    </message>
+    <message id="m0004" time="2013-08-31 19:22:43 UTC" participant="152374">
+      <body>Did you still want to bring the ###### back today? I was thinking of going out for a long walk but I can stay if you're headed back up here</body>
+    </message>
+  </messages>
+</conversation>
+

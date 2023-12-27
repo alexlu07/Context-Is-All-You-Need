@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 15:56:24 UTC" participant="153591">
+      <body>you busy tomorrow </body>
+    </message>
+    <message id="m0001" time="2014-05-17 16:51:22 UTC" participant="153547">
+      <body>I'm around tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-05-17 16:52:02 UTC" participant="153591">
+      <body> cool i think im going to drive up</body>
+    </message>
+    <message id="m0003" time="2014-05-18 15:05:50 UTC" participant="153591">
+      <body>went a wedding last,  super hungover, raincheck on visit uggggggh</body>
+    </message>
+    <message id="m0004" time="2014-05-18 15:06:16 UTC" participant="153547">
+      <body>Ok. Rest up</body>
+    </message>
+  </messages>
+</conversation>
+

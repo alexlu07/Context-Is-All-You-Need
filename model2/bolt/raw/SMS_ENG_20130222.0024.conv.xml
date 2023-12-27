@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131468" time="2013-02-22 19:41:47 UTC">
+      <body>Still on for the 6p class and dinner after?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-22 19:50:04 UTC">
+      <body>Yes indeed! :-) does that still work for you?</body>
+    </message>
+    <message id="m0002" participant="131468" time="2013-02-22 20:05:09 UTC">
+      <body>Absolutely! Can't wait :)</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-22 20:37:00 UTC">
+      <body>Yay! !</body>
+    </message>
+    <message id="m0004" participant="131468" time="2013-02-22 22:18:38 UTC">
+      <body>Can you save me a spot in the back?</body>
+    </message>
+    <message id="m0005" participant="131450" time="2013-02-22 22:21:39 UTC">
+      <body>I will certainly do my best! :-) I'm afraid it might be packed since it's the only evening class..finishing up at work but I should be able to get down there pretty soon!</body>
+    </message>
+    <message id="m0006" participant="131468" time="2013-02-22 22:33:29 UTC">
+      <body>Be there in 15</body>
+    </message>
+    <message id="m0007" participant="131450" time="2013-02-22 22:34:39 UTC">
+      <body>Perfect!  I'm heading down now</body>
+    </message>
+    <message id="m0008" participant="131450" time="2013-02-22 22:45:55 UTC">
+      <body>We're good!</body>
+    </message>
+    <message id="m0009" participant="131468" time="2013-02-22 22:51:02 UTC">
+      <body>2 min away!</body>
+    </message>
+  </messages>
+</conversation>

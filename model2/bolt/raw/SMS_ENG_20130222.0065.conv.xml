@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-22 00:00:19 UTC" participant="152734">
+      <body>Hey Tanya - I'm back! Let me know if you have time for a lesson tomorrow/this weekend? </body>
+    </message>
+    <message id="m0001" time="2013-02-22 00:32:00 UTC" participant="153298">
+      <body>Hi! Yay :) hope you had a great time. Yes, I tomorrow at 3 if the weather holds out and that works for you. Otherwise we can try for another time/day.</body>
+    </message>
+    <message id="m0002" time="2013-02-22 01:01:27 UTC" participant="152734">
+      <body>Sounds good! I'll text if the weather gets dicey. Caitlin's riding Louie so it'll be a dollar day :)</body>
+    </message>
+    <message id="m0003" time="2013-02-22 01:40:16 UTC" participant="153298">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

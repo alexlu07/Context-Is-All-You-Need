@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130962" time="2013-03-08 23:22:37 UTC">
+      <body>At a fancy tapas place and they have a Galician soup on the menu! ￼</body>
+    </message>
+    <message id="m0001" participant="131430" time="2013-03-08 23:30:08 UTC">
+      <body>￼Why is the menu upside down? Above ETSU campanile!</body>
+    </message>
+    <message id="m0002" participant="130962" time="2013-03-09 00:52:08 UTC">
+      <body>Bad phone skills on my part!!</body>
+    </message>
+  </messages>
+</conversation>

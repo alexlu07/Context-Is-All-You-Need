@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120919.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135385" time="2012-09-19 03:46:08 UTC">
+      <body>Sofie, it's fatema. I know it's probably late for you, my class ended late and I didn't think it was a good idea to call from the train as it was loud. Are you free tomorrow or Thursday? I can't wait to hear your voice!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-19 17:49:42 UTC">
+      <body>I am in class can I call you at five??!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-19 17:49:49 UTC">
+      <body/>
+    </message>
+    <message id="m0003" participant="135385" time="2012-09-19 17:53:04 UTC">
+      <body>Yes do!! :))))</body>
+    </message>
+  </messages>
+</conversation>

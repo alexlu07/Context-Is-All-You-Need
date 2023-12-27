@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121224.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2012-12-24 01:08:54 UTC">
+      <body>We left already, but we're lunching tomorrow!</body>
+    </message>
+    <message id="m0001" participant="131023" time="2012-12-24 02:17:18 UTC">
+      <body>Ok please let them know!</body>
+    </message>
+    <message id="m0002" participant="130712" time="2012-12-24 02:17:18 UTC">
+      <body>I will!</body>
+    </message>
+    <message id="m0003" participant="131023" time="2012-12-24 19:41:45 UTC">
+      <body>What can I cook for Richie for dinner tomorrow?</body>
+    </message>
+    <message id="m0004" participant="130712" time="2012-12-24 20:09:40 UTC">
+      <body>He says, "something healthy?"</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-12-24 20:10:23 UTC">
+      <body>My thought: a stuffed pepper or something</body>
+    </message>
+    <message id="m0006" participant="131023" time="2012-12-24 20:15:35 UTC">
+      <body>How about a green chile cheese tamale?</body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-12-24 20:15:44 UTC">
+      <body>That should be fine!</body>
+    </message>
+    <message id="m0008" participant="130712" time="2012-12-24 20:15:55 UTC">
+      <body>Sounds good...</body>
+    </message>
+    <message id="m0009" participant="131023" time="2012-12-24 20:16:52 UTC">
+      <body>Ok good!  Bought a doz!</body>
+    </message>
+    <message id="m0010" participant="130712" time="2012-12-24 20:32:09 UTC">
+      <body>Haha. Good!</body>
+    </message>
+    <message id="m0011" participant="131023" time="2012-12-24 20:33:36 UTC">
+      <body>How is your weather?  No delays tomorrow I hope!</body>
+    </message>
+    <message id="m0012" participant="130712" time="2012-12-24 21:00:30 UTC">
+      <body>It rained today, but I think we're clear enough!</body>
+    </message>
+    <message id="m0013" participant="131023" time="2012-12-24 21:02:43 UTC">
+      <body>Good!</body>
+    </message>
+  </messages>
+</conversation>

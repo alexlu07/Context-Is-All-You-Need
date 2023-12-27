@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150411.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-11 15:55:27 UTC" participant="152116">
+      <body>Hey. Just so you know, I sent you $58. I had it down in my records that I owed you it. $30 for when we ate at Alfa. $8 for pizza. And $20 for miscellaneo</body>
+    </message>
+    <message id="m0001" time="2015-04-11 15:56:44 UTC" participant="152116">
+      <body>us things I don't remember. Let me know when you get it.</body>
+    </message>
+    <message id="m0002" time="2015-04-11 15:56:55 UTC" participant="153418">
+      <body>Really? I totally forgot, lol
+Thanks. </body>
+    </message>
+    <message id="m0003" time="2015-04-11 15:57:45 UTC" participant="152116">
+      <body>Haha I know. It's a good things I write these things down.</body>
+    </message>
+    <message id="m0004" time="2015-04-11 15:59:23 UTC" participant="153418">
+      <body>By the way, I should be in town on the 25th to the 27th.</body>
+    </message>
+    <message id="m0005" time="2015-04-11 15:59:43 UTC" participant="152116">
+      <body>Okay cool</body>
+    </message>
+  </messages>
+</conversation>
+

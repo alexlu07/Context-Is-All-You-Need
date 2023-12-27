@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130508.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-05-08 00:00:57 UTC">
+      <body>Kiwi at 9?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-08 01:28:31 UTC">
+      <body>Sorry I've been in a thesis meeting! :(</body>
+    </message>
+  </messages>
+</conversation>

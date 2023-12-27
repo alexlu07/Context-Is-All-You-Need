@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140126.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-26 06:08:42 UTC" participant="153452">
+      <body>When u take it?</body>
+    </message>
+    <message id="m0001" time="2014-01-26 06:09:54 UTC" participant="153452">
+      <body>Wow</body>
+    </message>
+    <message id="m0002" time="2014-01-26 06:11:21 UTC" participant="153452">
+      <body>U didnt answer my other text sucker</body>
+    </message>
+    <message id="m0003" time="2014-01-26 06:11:54 UTC" participant="153418">
+      <body>Which?</body>
+    </message>
+    <message id="m0004" time="2014-01-26 06:11:56 UTC" participant="153452">
+      <body>Damn</body>
+    </message>
+    <message id="m0005" time="2014-01-26 06:12:42 UTC" participant="153452">
+      <body>U keeping secrets</body>
+    </message>
+    <message id="m0006" time="2014-01-26 06:14:02 UTC" participant="153418">
+      <body>Gotta keep some secrets, you know. </body>
+    </message>
+    <message id="m0007" time="2014-01-26 06:14:50 UTC" participant="153452">
+      <body>Nope nope nope</body>
+    </message>
+  </messages>
+</conversation>
+

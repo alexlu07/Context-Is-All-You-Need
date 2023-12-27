@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 14:51:29 UTC" participant="153244">
+      <body>Hey.. want a ride home today? </body>
+    </message>
+    <message id="m0001" time="2014-03-21 14:51:51 UTC" participant="154895">
+      <body>If you want to</body>
+    </message>
+    <message id="m0002" time="2014-03-21 14:53:00 UTC" participant="153244">
+      <body>I do lol</body>
+    </message>
+    <message id="m0003" time="2014-03-21 14:53:24 UTC" participant="153244">
+      <body>Nick too? Or does he get done before you?</body>
+    </message>
+    <message id="m0004" time="2014-03-21 14:54:07 UTC" participant="154895">
+      <body>I dont know yet cause he has to take an exam and may get done earlier</body>
+    </message>
+    <message id="m0005" time="2014-03-21 14:55:07 UTC" participant="153244">
+      <body>K... ill probably get there by 430. Ill just wait til you're done</body>
+    </message>
+    <message id="m0006" time="2014-03-21 14:55:37 UTC" participant="154895">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" time="2014-03-21 19:45:45 UTC" participant="154895">
+      <body>Im done</body>
+    </message>
+    <message id="m0008" time="2014-03-21 19:49:10 UTC" participant="153244">
+      <body>#### already??
+Do you still want me to get you?</body>
+    </message>
+    <message id="m0009" time="2014-03-21 19:49:40 UTC" participant="154895">
+      <body>Nah</body>
+    </message>
+    <message id="m0010" time="2014-03-21 19:50:19 UTC" participant="153244">
+      <body>Aw man I was gonna go there right after work but figured it would have been too early</body>
+    </message>
+    <message id="m0011" time="2014-03-21 19:52:27 UTC" participant="153244">
+      <body>I can leave now to get you if you want if not ill see you soon anyway I have to go to moms to pick up a package</body>
+    </message>
+    <message id="m0012" time="2014-03-21 19:53:44 UTC" participant="154895">
+      <body>Ok ill wait i thought you get done latter</body>
+    </message>
+    <message id="m0013" time="2014-03-21 19:54:08 UTC" participant="153244">
+      <body>Nope done at 3:00... ok on my way</body>
+    </message>
+    <message id="m0014" time="2014-03-21 20:32:12 UTC" participant="153244">
+      <body>About 10 mins away</body>
+    </message>
+    <message id="m0015" time="2014-03-21 20:47:33 UTC" participant="154895">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121025.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-25 01:05:49 UTC">
+      <body>Aren't u too young to be there</body>
+    </message>
+    <message id="m0001" participant="135389" time="2012-10-25 01:06:08 UTC">
+      <body>You should stop by Penguin on your way home!</body>
+    </message>
+    <message id="m0002" participant="135389" time="2012-10-25 01:06:08 UTC">
+      <body>No, I'm 21 now! Unless it's not cool to be, like, under 24 here. </body>
+    </message>
+    <message id="m0003" participant="135389" time="2012-10-25 01:10:24 UTC">
+      <body>Okayyyy. Did you guys already get out of class?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-25 01:10:31 UTC">
+      <body>Well I wish I could.  I have so much reading for tomorrow</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-25 01:10:41 UTC">
+      <body>No sleep till am</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-10-25 01:11:34 UTC">
+      <body>
+Not yet</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0075" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-15 13:31:22 UTC" participant="152417">
+      <body>Any chance we can start earlier tomorrow? i have another rehearsal right at 8  again</body>
+    </message>
+    <message id="m0001" time="2013-04-15 14:08:01 UTC" participant="152420">
+      <body>Lets aim for 6. I'll let Dobra know. No bean after. </body>
+    </message>
+    <message id="m0002" time="2013-04-15 15:00:01 UTC" participant="152417">
+      <body>Cool, thanks</body>
+    </message>
+  </messages>
+</conversation>
+

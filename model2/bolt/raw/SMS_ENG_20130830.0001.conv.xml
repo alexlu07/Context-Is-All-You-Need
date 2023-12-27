@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130830.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-30 15:54:41 UTC" participant="152417">
+      <body>Hey, can i stop in around the end of the day to drop off a lessons poster?</body>
+    </message>
+    <message id="m0001" time="2013-08-30 15:55:44 UTC" participant="152535">
+      <body>Sure! Lets find some time to jam soon too. 3:00 is a good time at school. I will be home around 3:30. Peace</body>
+    </message>
+    <message id="m0002" time="2013-08-30 16:11:22 UTC" participant="152417">
+      <body>Great, ill see you t 3</body>
+    </message>
+    <message id="m0003" time="2013-08-30 19:51:57 UTC" participant="152535">
+      <body>You're hired for my jazz band assistant. $23/ hr. sweeeeet!</body>
+    </message>
+    <message id="m0004" time="2013-08-30 20:02:39 UTC" participant="152417">
+      <body>Yes!</body>
+    </message>
+    <message id="m0005" time="2013-08-30 20:20:43 UTC" participant="152535">
+      <body>Two groups. Da Lata and novalima</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150330.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-30 13:07:53 UTC" participant="152256">
+      <body>Hi
+Not at Massart yet
+Have not looked at changes yet.
+We are meeting this morning?</body>
+    </message>
+    <message id="m0001" time="2015-03-30 13:12:49 UTC" participant="152212">
+      <body>I don’t have anything for you. I am swamped with other stuff.</body>
+    </message>
+    <message id="m0002" time="2015-03-30 13:13:00 UTC" participant="152212">
+      <body>probably not worth it to meet</body>
+    </message>
+    <message id="m0003" time="2015-03-30 13:13:22 UTC" participant="152212">
+      <body>but lets touch base? at studio?</body>
+    </message>
+    <message id="m0004" time="2015-03-30 13:13:25 UTC" participant="152212">
+      <body/>
+    </message>
+    <message id="m0005" time="2015-03-30 13:13:45 UTC" participant="152212">
+      <body>or i can come to massart if you want</body>
+    </message>
+    <message id="m0006" time="2015-03-31 13:05:00 UTC" participant="152256">
+      <body>On my way </body>
+    </message>
+    <message id="m0007" time="2015-03-31 13:05:18 UTC" participant="152212">
+      <body>how much time do I have?</body>
+    </message>
+    <message id="m0008" time="2015-03-31 13:06:18 UTC" participant="152256">
+      <body>15 mun
+I could swing by</body>
+    </message>
+  </messages>
+</conversation>
+

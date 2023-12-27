@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120808.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-08-08 19:21:51 UTC">
+      <body>Happy birthday!!</body>
+    </message>
+    <message id="m0001" participant="135200" time="2012-08-08 19:22:39 UTC">
+      <body>Who's this?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-08-08 19:23:52 UTC">
+      <body>Hah, shit - its Martha and this is not the Nick M I meant to text.... Is this Munoz?</body>
+    </message>
+    <message id="m0003" participant="135200" time="2012-08-08 19:25:54 UTC">
+      <body>Sure is.  Thanks for the birthday wishes, 6 months belated but whatevs.</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-08-08 19:26:18 UTC">
+      <body>Sorry, nick! Happy accident though I suppose. I hope you're well :)</body>
+    </message>
+    <message id="m0005" participant="135200" time="2012-08-08 19:30:15 UTC">
+      <body>Word. Right back at ya.</body>
+    </message>
+  </messages>
+</conversation>

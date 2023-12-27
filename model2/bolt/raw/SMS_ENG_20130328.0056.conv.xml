@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137273" time="2013-03-28 23:54:14 UTC">
+      <body>Did you takee the tv remotes?</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-03-28 23:54:33 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0002" participant="137273" time="2013-03-28 23:55:03 UTC">
+      <body>I think kofi hid them and now i cant find them</body>
+    </message>
+    <message id="m0003" participant="137273" time="2013-03-29 00:00:53 UTC">
+      <body>Can you help me?</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-03-29 00:01:19 UTC">
+      <body>No </body>
+    </message>
+  </messages>
+</conversation>

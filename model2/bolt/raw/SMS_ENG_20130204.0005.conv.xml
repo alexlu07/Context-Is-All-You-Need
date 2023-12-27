@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-04 02:19:23 UTC">
+      <body>I hear i missed a great night </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-02-04 02:21:01 UTC">
+      <body>We need to get a beer soon. It's been a while </body>
+    </message>
+    <message id="m0002" participant="134289" time="2013-02-04 13:42:00 UTC">
+      <body>It was a fun time. Definitely. How's everyone in punxtown doing?  </body>
+    </message>
+  </messages>
+</conversation>

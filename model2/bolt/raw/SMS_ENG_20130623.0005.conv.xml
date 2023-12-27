@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130714" time="2013-06-23 19:01:33 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130714" time="2013-06-23 19:02:23 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130714" time="2013-06-23 19:02:50 UTC">
+      <body>Howdy</body>
+    </message>
+    <message id="m0003" participant="130659" time="2013-06-23 19:03:15 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0004" participant="130659" time="2013-06-23 19:03:15 UTC">
+      <body>I have the worst migraine ever.. Ugh</body>
+    </message>
+    <message id="m0005" participant="130714" time="2013-06-23 19:05:17 UTC">
+      <body>Sorry :-(</body>
+    </message>
+  </messages>
+</conversation>

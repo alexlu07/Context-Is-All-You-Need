@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-12-29 18:24:34 UTC">
+      <body>Notary?</body>
+    </message>
+    <message id="m0001" participant="131508" time="2012-12-30 03:54:40 UTC">
+      <body>Hey Sam I just saw your text. Would tomorrow work?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2012-12-30 03:57:48 UTC">
+      <body>Tonight if you want, but I'm not sure if you should notarize intoxicated.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-30 03:58:33 UTC">
+      <body>Tomorrow would be fine. Just let me know when's best, and your place or mine.</body>
+    </message>
+    <message id="m0004" participant="131508" time="2012-12-30 04:00:38 UTC">
+      <body>Let me know if your going out doing errands tomorrow and could stop by otherwise we will come over</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-12-30 04:02:42 UTC">
+      <body>I'll let you know tomorrow. It's not really difficult to stop by, errands or no.</body>
+    </message>
+    <message id="m0006" participant="131508" time="2012-12-30 04:05:20 UTC">
+      <body>Ok well we are here all day so anytime works</body>
+    </message>
+    <message id="m0007" participant="130706" time="2012-12-30 04:05:49 UTC">
+      <body>Just give me a convenient time and ill stop by.</body>
+    </message>
+  </messages>
+</conversation>

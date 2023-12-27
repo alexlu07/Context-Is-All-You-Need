@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140510.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-10 20:52:02 UTC" participant="152417">
+      <body>Are you coming to parade from city hall at 7 or meeting us at decatur?</body>
+    </message>
+    <message id="m0001" time="2014-05-10 20:53:47 UTC" participant="152636">
+      <body>Meeting at decatur... going therecaround 6:15 to unload gear. If it doesn't take that long I may find you goys on the street</body>
+    </message>
+    <message id="m0002" time="2014-05-10 20:53:50 UTC" participant="152636">
+      <body>Guys</body>
+    </message>
+    <message id="m0003" time="2014-05-10 20:54:05 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

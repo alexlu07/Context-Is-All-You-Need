@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140728.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-28 02:01:37 UTC" participant="153548">
+      <body>Gnight bebe.</body>
+    </message>
+    <message id="m0001" time="2014-07-28 16:26:26 UTC" participant="153548">
+      <body>Did you make it home?</body>
+    </message>
+    <message id="m0002" time="2014-07-28 16:26:43 UTC" participant="149360">
+      <body>Yeah</body>
+    </message>
+    <message id="m0003" time="2014-07-28 16:27:01 UTC" participant="153548">
+      <body>Good:)</body>
+    </message>
+  </messages>
+</conversation>
+

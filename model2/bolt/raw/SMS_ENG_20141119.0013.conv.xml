@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141119.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-19 23:42:08 UTC" participant="152374">
+      <body>Heading your way in five minutes! </body>
+    </message>
+    <message id="m0001" time="2014-11-19 23:45:07 UTC" participant="153472">
+      <body>Sounds good. See u soon!</body>
+    </message>
+    <message id="m0002" time="2014-11-19 23:54:38 UTC" participant="152374">
+      <body>Outside! I hope we don't freeze! </body>
+    </message>
+    <message id="m0003" time="2014-11-19 23:55:56 UTC" participant="153472">
+      <body>Be right out.</body>
+    </message>
+  </messages>
+</conversation>
+

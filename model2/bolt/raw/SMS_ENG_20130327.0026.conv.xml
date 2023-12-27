@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-03-27 21:14:52 UTC">
+      <body>Hi! Got trapped in a meeting,  running a little late, sorry! :-( I should be there within 10 mins :-)</body>
+    </message>
+    <message id="m0001" participant="131492" time="2013-03-27 21:19:21 UTC">
+      <body>No prob!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110717.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135093" time="2011-07-17 13:41:34 UTC">
+      <body>How was your night on friday?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-17 19:13:50 UTC">
+      <body> It was good :) so was last night...</body>
+    </message>
+    <message id="m0002" participant="135093" time="2011-07-17 19:46:32 UTC">
+      <body>Yeah! Glad to hear that it turn around :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-01-10 12:56:54 UTC">
+      <body>Good morning! Just a heads up that I'm going to drive in today. See you there!</body>
+    </message>
+    <message id="m0001" participant="131456" time="2013-01-10 13:09:36 UTC">
+      <body>Cool-see you soon</body>
+    </message>
+  </messages>
+</conversation>

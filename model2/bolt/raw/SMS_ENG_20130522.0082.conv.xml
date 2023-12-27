@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137312" time="2013-05-22 19:47:03 UTC">
+      <body>BUY ME ONE PLEAAAAASSEE</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-22 20:14:54 UTC">
+      <body>You called? </body>
+    </message>
+    <message id="m0002" participant="137312" time="2013-05-22 20:19:39 UTC">
+      <body>Your pita answered my question</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-05-22 20:20:02 UTC">
+      <body>? </body>
+    </message>
+    <message id="m0004" participant="137312" time="2013-05-22 20:27:30 UTC">
+      <body>I was wondering of you were around</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-05-22 20:27:58 UTC">
+      <body>I will be later </body>
+    </message>
+    <message id="m0006" participant="137312" time="2013-05-22 20:28:27 UTC">
+      <body>Wunderbar</body>
+    </message>
+    <message id="m0007" participant="137255" time="2013-05-22 22:43:04 UTC">
+      <body>Are you guys doing anything</body>
+    </message>
+    <message id="m0008" participant="137312" time="2013-05-22 22:44:55 UTC">
+      <body>Im having dinner but i think nico and max together doing something</body>
+    </message>
+    <message id="m0009" participant="137312" time="2013-05-23 02:57:00 UTC">
+      <body>Shit just went down.</body>
+    </message>
+  </messages>
+</conversation>

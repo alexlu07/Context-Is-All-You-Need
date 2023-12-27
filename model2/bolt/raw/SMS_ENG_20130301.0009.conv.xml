@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-03-01 19:23:31 UTC">
+      <body>Hello, friend.</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-03-02 18:19:42 UTC">
+      <body>How is your weekend?</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-03-02 18:20:43 UTC">
+      <body>Okay. Just Ebaying. I had brunch plans with my flaky friend. But she flaked.</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-03-02 18:26:10 UTC">
+      <body>As a flaky friend will do</body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-03-02 18:26:40 UTC">
+      <body>Right. How about you?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-03-02 18:29:21 UTC">
+      <body>We are doing laundry, Ella's friend is coming over at three </body>
+    </message>
+    <message id="m0006" participant="131055" time="2013-03-02 18:29:59 UTC">
+      <body>Sounds mundane</body>
+    </message>
+    <message id="m0007" participant="130664" time="2013-03-02 18:30:37 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0008" participant="131055" time="2013-03-02 18:31:21 UTC">
+      <body>:) but nice. </body>
+    </message>
+    <message id="m0009" participant="130664" time="2013-03-02 18:31:44 UTC">
+      <body>: )</body>
+    </message>
+    <message id="m0010" participant="131055" time="2013-03-02 18:32:15 UTC">
+      <body>Sorry. I didn't mean to judge. I am appreciating you.</body>
+    </message>
+  </messages>
+</conversation>

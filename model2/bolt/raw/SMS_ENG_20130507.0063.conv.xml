@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130507.0063" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-07 00:11:39 UTC" participant="152116">
+      <body>Hey is she not home yet?</body>
+    </message>
+    <message id="m0001" time="2013-05-07 00:13:07 UTC" participant="153244">
+      <body>Hey we are home.. meant to text a lil bit ago</body>
+    </message>
+    <message id="m0002" time="2013-05-07 00:13:32 UTC" participant="152116">
+      <body>Okay we can come over now?</body>
+    </message>
+    <message id="m0003" time="2013-05-07 00:13:47 UTC" participant="153244">
+      <body>Yup</body>
+    </message>
+    <message id="m0004" time="2013-05-07 00:14:06 UTC" participant="152116">
+      <body>K</body>
+    </message>
+    <message id="m0005" time="2013-05-07 00:20:32 UTC" participant="152116">
+      <body>You're at the house right?</body>
+    </message>
+    <message id="m0006" time="2013-05-07 00:20:46 UTC" participant="153244">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

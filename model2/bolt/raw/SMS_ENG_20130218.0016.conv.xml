@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131468" time="2013-02-18 17:51:18 UTC">
+      <body>Hey! Are you going to yoga today? I don't have practice and I'm thinking about going </body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-18 17:52:56 UTC">
+      <body>Yep, I'll be there!</body>
+    </message>
+    <message id="m0002" participant="131468" time="2013-02-18 17:57:49 UTC">
+      <body>I'll do my best! I want to go but I've been up since 4:50a so I might crash this afternoon </body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-18 17:59:48 UTC">
+      <body>Ahh did you fly back this morning?? I totally understand if you need to just go home and sleep!</body>
+    </message>
+    <message id="m0004" participant="131468" time="2013-02-18 18:01:32 UTC">
+      <body>Yes ma'am I did! I'm doing okay so far. I'm at work now but I'll</body>
+    </message>
+    <message id="m0005" participant="131468" time="2013-02-18 18:01:34 UTC">
+      <body> keep you updated! As of right now, I want to go (I always feel so</body>
+    </message>
+    <message id="m0006" participant="131468" time="2013-02-18 18:01:37 UTC">
+      <body> much better after I go)</body>
+    </message>
+    <message id="m0007" participant="131450" time="2013-02-18 18:02:52 UTC">
+      <body>You are a trooper!!</body>
+    </message>
+    <message id="m0008" participant="131468" time="2013-02-18 22:51:55 UTC">
+      <body>Hey! Definitely coming, will be there around 610p. Will you try to save me a spot please?</body>
+    </message>
+    <message id="m0009" participant="131450" time="2013-02-18 22:58:50 UTC">
+      <body>Yay! Yes of course!</body>
+    </message>
+  </messages>
+</conversation>

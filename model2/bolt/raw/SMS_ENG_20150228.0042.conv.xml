@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150228.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-28 19:06:55 UTC" participant="153244">
+      <body>Dvd of 100 greatest cowboy movies. ... dad's birthday or no?</body>
+    </message>
+    <message id="m0001" time="2015-02-28 19:07:07 UTC" participant="153900">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2015-02-28 19:09:09 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2015-02-28 19:10:19 UTC" participant="153900">
+      <body>How much</body>
+    </message>
+    <message id="m0004" time="2015-02-28 19:15:45 UTC" participant="153244">
+      <body>Like $20</body>
+    </message>
+    <message id="m0005" time="2015-02-28 19:16:01 UTC" participant="153244">
+      <body>24 discs in the box</body>
+    </message>
+    <message id="m0006" time="2015-02-28 19:16:27 UTC" participant="153900">
+      <body>Where you at</body>
+    </message>
+    <message id="m0007" time="2015-03-01 16:25:16 UTC" participant="153244">
+      <body>Hey can I do clothes today? Around 1:00?</body>
+    </message>
+  </messages>
+</conversation>
+

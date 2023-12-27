@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130313.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136122" time="2013-03-13 02:43:16 UTC">
+      <body>Testing, testing, 123</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-13 02:43:52 UTC">
+      <body>message received, over. :) </body>
+    </message>
+    <message id="m0002" participant="136122" time="2013-03-13 02:44:34 UTC">
+      <body>Roger</body>
+    </message>
+    <message id="m0003" participant="136122" time="2013-03-13 02:45:05 UTC">
+      <body>If you get lonely, feel free to pester me.</body>
+    </message>
+    <message id="m0004" participant="136122" time="2013-03-13 03:01:51 UTC">
+      <body>I have to admit the last few messages were me after two beers, thus the friendly / silliness, haha.</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-03-13 03:06:19 UTC">
+      <body>haha, it's okay, it happens. :) </body>
+    </message>
+    <message id="m0006" participant="136122" time="2013-03-13 22:03:16 UTC">
+      <body>Are you free tomorrow?</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-03-13 22:28:14 UTC">
+      <body>probably, what time were you thinking? </body>
+    </message>
+    <message id="m0008" participant="136122" time="2013-03-13 22:31:12 UTC">
+      <body>Hmm maybe sometime around lunch. 11:30-12:00 or so?</body>
+    </message>
+    <message id="m0009" participant="136112" time="2013-03-13 23:14:21 UTC">
+      <body>yeah, 12 is fine. :) </body>
+    </message>
+    <message id="m0010" participant="136122" time="2013-03-13 23:34:18 UTC">
+      <body>Hmm where's a good place? I don't really know the area all too well</body>
+    </message>
+    <message id="m0011" participant="136122" time="2013-03-14 00:32:08 UTC">
+      <body>Went to java monkey today though which was really nice if you want to try that?</body>
+    </message>
+    <message id="m0012" participant="136112" time="2013-03-14 00:46:23 UTC">
+      <body>i was hoping to go to decatur sometime soon anyway, so that would be good. you don't mind going back somewhere so soon? </body>
+    </message>
+    <message id="m0013" participant="136122" time="2013-03-14 01:01:45 UTC">
+      <body>I could go there every day. It's probably my favorite cafe in the city</body>
+    </message>
+    <message id="m0014" participant="136122" time="2013-03-14 02:21:02 UTC">
+      <body>We could explore somewhere else if you want. Whateva.</body>
+    </message>
+    <message id="m0015" participant="136112" time="2013-03-14 02:21:29 UTC">
+      <body>haha, nope, that's good. sorry for taking so long to reply. :) </body>
+    </message>
+    <message id="m0016" participant="136122" time="2013-03-14 02:25:04 UTC">
+      <body>But really, it's fine.</body>
+    </message>
+    <message id="m0017" participant="136122" time="2013-03-14 02:25:12 UTC">
+      <body>Sounds good.</body>
+    </message>
+    <message id="m0018" participant="136112" time="2013-03-14 02:25:32 UTC">
+      <body>i got distracted! but yeah. javamonkey at 12?</body>
+    </message>
+    <message id="m0019" participant="136122" time="2013-03-14 02:26:00 UTC">
+      <body>Yes ma'am</body>
+    </message>
+  </messages>
+</conversation>

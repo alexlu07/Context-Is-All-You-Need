@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121225.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-25 16:54:09 UTC" participant="153272">
+      <body>Run at 1:30</body>
+    </message>
+    <message id="m0001" time="2012-12-25 17:17:46 UTC" participant="152734">
+      <body>Sure! Wanna come get me, or meet you there?</body>
+    </message>
+    <message id="m0002" time="2012-12-25 17:26:14 UTC" participant="153272">
+      <body>Ill get ya...i need to b back by 330 so i hope that is ok</body>
+    </message>
+    <message id="m0003" time="2012-12-25 17:26:35 UTC" participant="152734">
+      <body>Sounds good, thanks!</body>
+    </message>
+    <message id="m0004" time="2012-12-25 18:19:31 UTC" participant="153272">
+      <body>Leavin now</body>
+    </message>
+  </messages>
+</conversation>
+

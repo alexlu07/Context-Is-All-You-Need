@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131008.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-08 23:40:48 UTC" participant="149360">
+      <body>Eggplant parm in 30 min</body>
+    </message>
+    <message id="m0001" time="2013-10-09 00:02:34 UTC" participant="149306">
+      <body>Nice, I'm home. Let me know when it's done.</body>
+    </message>
+    <message id="m0002" time="2013-10-09 00:14:47 UTC" participant="149360">
+      <body>In 5 min it should be cool enough to eat</body>
+    </message>
+    <message id="m0003" time="2013-10-09 00:21:20 UTC" participant="149360">
+      <body>It's ready</body>
+    </message>
+  </messages>
+</conversation>
+

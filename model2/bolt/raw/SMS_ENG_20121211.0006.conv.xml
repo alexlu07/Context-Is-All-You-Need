@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2012-12-11 18:50:50 UTC">
+      <body>Good morning, sunshine. How're you today? Back safely in LA?</body>
+    </message>
+    <message id="m0001" participant="131352" time="2012-12-11 18:55:31 UTC">
+      <body>I am! I am well. Workin.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2012-12-11 19:00:35 UTC">
+      <body>Good. Let's bug eachother later...stay in touch, and all that.</body>
+    </message>
+    <message id="m0003" participant="131352" time="2012-12-11 19:01:08 UTC">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>

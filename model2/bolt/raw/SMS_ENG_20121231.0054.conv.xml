@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-31 17:20:21 UTC" participant="152734">
+      <body>Hey Leah! What's your address again? Planning on coming over around 9, maybe, with Richard, Lego and a growler if that's alright? Happy new year!</body>
+    </message>
+    <message id="m0001" time="2012-12-31 17:29:36 UTC" participant="152842">
+      <body>Happy new year! </body>
+    </message>
+    <message id="m0002" time="2012-12-31 17:47:28 UTC" participant="152734">
+      <body>Thanks, see you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

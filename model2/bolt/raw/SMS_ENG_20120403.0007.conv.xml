@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120403.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131332" time="2012-04-03 22:47:30 UTC">
+      <body>So you're a Temple man!</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-03 22:50:20 UTC">
+      <body>Yup, graduated a few years ago. You as well?</body>
+    </message>
+    <message id="m0002" participant="131332" time="2012-04-03 22:51:25 UTC">
+      <body>Class of '09. But I was old enough to be a Temple dad at the time.</body>
+    </message>
+    <message id="m0003" participant="131332" time="2012-04-03 22:52:23 UTC">
+      <body>FMA?</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-04-03 22:52:36 UTC">
+      <body>Yup I graduated '09 as well</body>
+    </message>
+  </messages>
+</conversation>

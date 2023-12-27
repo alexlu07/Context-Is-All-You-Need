@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121111.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135389" time="2012-11-11 20:52:16 UTC">
+      <body>YOU HERE?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-11 22:01:55 UTC">
+      <body>I'm here</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-11-12 02:05:21 UTC">
+      <body>Do u have candy</body>
+    </message>
+    <message id="m0003" participant="135389" time="2012-11-12 17:53:04 UTC">
+      <body>Sofiiiiiiie. </body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-12 23:18:56 UTC">
+      <body>Saul was listening to you call me maybe earlier</body>
+    </message>
+    <message id="m0005" participant="135389" time="2012-11-12 23:19:28 UTC">
+      <body>What a prince. </body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-11-12 23:20:30 UTC">
+      <body>Also I saw Clive today and his away</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-11-12 23:20:32 UTC">
+      <body>Hid</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-11-12 23:20:36 UTC">
+      <body>Not his</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-11-12 23:20:40 UTC">
+      <body>I'm terrible</body>
+    </message>
+    <message id="m0010" participant="135389" time="2012-11-12 23:21:36 UTC">
+      <body>You hid?! Sofie, no!</body>
+    </message>
+    <message id="m0011" participant="135389" time="2012-11-13 17:53:04 UTC">
+      <body>Yes!</body>
+    </message>
+    <message id="m0012" participant="130622" time="2012-11-13 17:53:15 UTC">
+      <body>R u in ur studio</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130326.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134282" time="2013-03-26 17:59:41 UTC">
+      <body>You in?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-03-26 21:02:31 UTC">
+      <body>Sorry man I'm out. Been traveling for two weeks and got in around 2am last night. Gonna hit up LA and then get to bed early </body>
+    </message>
+    <message id="m0002" participant="134282" time="2013-03-26 23:02:35 UTC">
+      <body>No worries. I should be studying anyway. </body>
+    </message>
+  </messages>
+</conversation>

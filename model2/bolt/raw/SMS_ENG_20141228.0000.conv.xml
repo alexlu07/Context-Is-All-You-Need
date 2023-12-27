@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141228.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-28 22:52:19 UTC" participant="152116">
+      <body>Can I have the other half?</body>
+    </message>
+    <message id="m0001" time="2014-12-28 22:53:27 UTC" participant="152115">
+      <body>Yup</body>
+    </message>
+    <message id="m0002" time="2014-12-28 22:59:39 UTC" participant="152116">
+      <body>You're the best.</body>
+    </message>
+    <message id="m0003" time="2014-12-28 23:00:06 UTC" participant="152115">
+      <body>Love you :)</body>
+    </message>
+    <message id="m0004" time="2014-12-28 23:08:34 UTC" participant="152116">
+      <body>Love you too</body>
+    </message>
+  </messages>
+</conversation>
+

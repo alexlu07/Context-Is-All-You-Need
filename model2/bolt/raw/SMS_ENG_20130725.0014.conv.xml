@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0014" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136117" time="2013-07-25 16:17:13 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-07-25 18:35:35 UTC">
+      <body>Hey what's up?</body>
+    </message>
+    <message id="m0002" participant="136117" time="2013-07-25 18:40:57 UTC">
+      <body>Chilling until I have to help cook; how about u?</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-07-25 19:12:20 UTC">
+      <body>That's funny i was just assigned to peel a mango as you texted that.</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-07-25 19:38:16 UTC">
+      <body>Where are you from?</body>
+    </message>
+    <message id="m0005" participant="136117" time="2013-07-25 23:45:46 UTC">
+      <body>I'm from Nashville</body>
+    </message>
+    <message id="m0006" participant="136117" time="2013-07-25 23:46:06 UTC">
+      <body>My b. I was cooking bulgogi and we just finished cleaning lol</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-07-26 09:15:36 UTC">
+      <body>Cool. i love bulgogi.</body>
+    </message>
+    <message id="m0008" participant="136117" time="2013-07-26 10:14:20 UTC">
+      <body>Awesomeness in each bite</body>
+    </message>
+    <message id="m0009" participant="130632" time="2013-07-26 10:53:14 UTC">
+      <body>Do you make it often?</body>
+    </message>
+    <message id="m0010" participant="136117" time="2013-07-26 11:58:06 UTC">
+      <body>Not really lol</body>
+    </message>
+    <message id="m0011" participant="130632" time="2013-07-26 11:59:47 UTC">
+      <body>Good to try new things</body>
+    </message>
+    <message id="m0012" participant="136117" time="2013-07-26 12:16:51 UTC">
+      <body>Very true</body>
+    </message>
+  </messages>
+</conversation>

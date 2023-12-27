@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131206.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-06 13:44:54 UTC" participant="153631">
+      <body>Are you here? I need to borrow a charger</body>
+    </message>
+    <message id="m0001" time="2013-12-06 16:08:32 UTC" participant="153631">
+      <body>Oops I guess I accidentally told Anu about the pizza party?</body>
+    </message>
+    <message id="m0002" time="2013-12-07 02:12:59 UTC" participant="153548">
+      <body>I'm letting this baby stay up late and watch cartoons!</body>
+    </message>
+    <message id="m0003" time="2013-12-07 05:09:20 UTC" participant="153631">
+      <body>So bad!</body>
+    </message>
+  </messages>
+</conversation>
+

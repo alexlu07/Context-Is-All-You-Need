@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131282" time="2013-01-26 19:31:14 UTC">
+      <body>she just woke up</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-01-26 19:36:21 UTC">
+      <body>Heading home from h mart now</body>
+    </message>
+    <message id="m0002" participant="131282" time="2013-01-26 19:37:23 UTC">
+      <body>ok, she seems done</body>
+    </message>
+    <message id="m0003" participant="131282" time="2013-01-26 19:37:37 UTC">
+      <body>fine</body>
+    </message>
+  </messages>
+</conversation>

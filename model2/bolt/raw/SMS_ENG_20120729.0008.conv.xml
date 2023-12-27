@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120729.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-07-29 18:27:57 UTC">
+      <body>What time r u coming over? I'm planning on making dinner</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-07-29 18:37:41 UTC">
+      <body>I'll be home by 6 for my driving lesson</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-07-29 18:39:23 UTC">
+      <body>Oh right. I'll write a check. See u then.</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-07-29 21:42:46 UTC">
+      <body>I have the check for your driver</body>
+    </message>
+    <message id="m0004" participant="136202" time="2012-07-30 19:54:13 UTC">
+      <body>Arrived! How's shopping?</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-07-30 20:06:35 UTC">
+      <body>It's going well!</body>
+    </message>
+    <message id="m0006" participant="136202" time="2012-07-30 20:11:32 UTC">
+      <body>Great. Talk later and u can tell me what u got.</body>
+    </message>
+  </messages>
+</conversation>

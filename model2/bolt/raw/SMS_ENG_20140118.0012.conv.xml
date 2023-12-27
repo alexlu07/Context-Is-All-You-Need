@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140118.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-18 04:32:28 UTC" participant="153670">
+      <body>Hey Lindsay its Taylor! I'm here at the condo. Have you landed yet?! </body>
+    </message>
+    <message id="m0001" time="2014-01-18 06:08:10 UTC" participant="153670">
+      <body>Hey lindsay. I should be up but incase i drift off You can get in with code 3782. Then please take shoes off right inside the door. Welcome to Park City! </body>
+    </message>
+    <message id="m0002" time="2014-01-18 15:22:56 UTC" participant="153548">
+      <body>Hi Taylor, hope Dan was able to tell you my flight from chile was delayed. I will be coming in this evening.</body>
+    </message>
+    <message id="m0003" time="2014-01-18 15:23:35 UTC" participant="153548">
+      <body>I haven't had access to phone or net service til now. </body>
+    </message>
+  </messages>
+</conversation>
+

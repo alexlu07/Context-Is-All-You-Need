@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130720.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0001" participant="130747" time="2013-07-20 18:03:38 UTC">
+      <body>Cool I'm just a study participant</body>
+    </message>
+    <message id="m0002" participant="131218" time="2013-07-20 18:14:58 UTC">
+      <body>Its me. My wife said she texted you. Whats up?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-07-20 21:20:20 UTC">
+      <body>Not much just got done my first Thai dinner</body>
+    </message>
+    <message id="m0004" participant="131218" time="2013-07-21 09:56:28 UTC">
+      <body>What did you have? I like the lemon and mint chicken.</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-07-21 11:24:57 UTC">
+      <body>I had pad see Ew. It was ok</body>
+    </message>
+    <message id="m0006" participant="131218" time="2013-07-21 12:48:19 UTC">
+      <body>Will you in back?</body>
+    </message>
+  </messages>
+</conversation>

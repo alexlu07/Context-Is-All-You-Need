@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141016.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-16 14:06:19 UTC" participant="153548">
+      <body>Hi! I  gonna miss our happy hour today and next week because of fire fighter videos:(</body>
+    </message>
+    <message id="m0001" time="2014-10-16 14:06:32 UTC" participant="153548">
+      <body>I hope you have a good class today</body>
+    </message>
+    <message id="m0002" time="2014-10-16 16:00:00 UTC" participant="153576">
+      <body> Lindsey no! This is the worst </body>
+    </message>
+    <message id="m0003" time="2014-10-16 20:50:08 UTC" participant="153576">
+      <body>I had a nice class</body>
+    </message>
+  </messages>
+</conversation>
+

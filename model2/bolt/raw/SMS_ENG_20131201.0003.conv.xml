@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131201.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-01 01:35:49 UTC" participant="152560">
+      <body>Almost done. Eta around 9:15...</body>
+    </message>
+    <message id="m0001" time="2013-12-01 01:38:19 UTC" participant="152417">
+      <body>K</body>
+    </message>
+    <message id="m0002" time="2013-12-01 17:38:07 UTC" participant="152417">
+      <body>Im bringin lunch</body>
+    </message>
+    <message id="m0003" time="2013-12-01 18:44:13 UTC" participant="152417">
+      <body>All is well, fridge is cleanish, bed is moved</body>
+    </message>
+  </messages>
+</conversation>
+

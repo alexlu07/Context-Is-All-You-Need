@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-04-27 20:36:28 UTC">
+      <body>30 pack</body>
+    </message>
+    <message id="m0001" participant="134302" time="2013-04-27 21:02:23 UTC">
+      <body>Can Brain send me the address of the beer store? Or else I'll get on my way near my parents </body>
+    </message>
+    <message id="m0002" participant="134302" time="2013-04-27 21:02:26 UTC">
+      <body>Leaving soon</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-04-27 21:03:34 UTC">
+      <body>Google. Com</body>
+    </message>
+  </messages>
+</conversation>

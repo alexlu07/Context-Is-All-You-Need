@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140204.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-04 00:27:58 UTC" participant="153418">
+      <body>Happy new year~</body>
+    </message>
+    <message id="m0001" time="2014-02-04 00:28:59 UTC" participant="152120">
+      <body>I heard you got into an accident. I hope you're okayy!</body>
+    </message>
+    <message id="m0002" time="2014-02-04 01:02:11 UTC" participant="153418">
+      <body>I did. It was not fun. It hurt my wallet more than it hurt me.</body>
+    </message>
+    <message id="m0003" time="2014-02-04 01:02:47 UTC" participant="152120">
+      <body>Awe :/.</body>
+    </message>
+    <message id="m0004" time="2014-02-04 01:03:07 UTC" participant="153418">
+      <body>Do you teach little kids math yet?</body>
+    </message>
+    <message id="m0005" time="2014-02-04 01:03:53 UTC" participant="152120">
+      <body>I'm sorry to hear but you make monies to fix it!</body>
+    </message>
+    <message id="m0006" time="2014-02-04 01:04:34 UTC" participant="153418">
+      <body>I wanna make monies to have more monies. Not to fix things that shouldn't be broken, man. </body>
+    </message>
+    <message id="m0007" time="2014-02-04 01:05:00 UTC" participant="152120">
+      <body>No haha.</body>
+    </message>
+    <message id="m0008" time="2014-02-04 01:05:04 UTC" participant="152120">
+      <body>Haha get a better car!</body>
+    </message>
+  </messages>
+</conversation>
+

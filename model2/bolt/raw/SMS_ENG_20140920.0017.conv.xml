@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140920.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-20 12:32:32 UTC" participant="154902">
+      <body>Gm. Saren said she will be 15 min late</body>
+    </message>
+    <message id="m0001" time="2014-09-20 12:33:02 UTC" participant="153244">
+      <body>Ok thanks</body>
+    </message>
+    <message id="m0002" time="2014-09-20 12:33:14 UTC" participant="154902">
+      <body>Np</body>
+    </message>
+  </messages>
+</conversation>
+

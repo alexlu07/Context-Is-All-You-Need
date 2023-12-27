@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130507.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-07 00:23:35 UTC">
+      <body>Hey! Gonna be home in an hour or so?</body>
+    </message>
+    <message id="m0001" participant="131389" time="2013-05-07 00:25:05 UTC">
+      <body>Um...sort of...</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-07 00:25:33 UTC">
+      <body>Um...huh?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-05-07 00:27:21 UTC">
+      <body>What does that mean?</body>
+    </message>
+    <message id="m0004" participant="131389" time="2013-05-07 00:37:24 UTC">
+      <body>Dogsitting next door. person coming around 6 to pick up one dog.  then dog walk sometime after that, but no later than 7.  lots of cleaning to do bc people  coming back tmrw.</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-05-07 00:43:53 UTC">
+      <body>K. I was only gonna stop by for a minute.  I'll be down the street from you.</body>
+    </message>
+    <message id="m0006" participant="131389" time="2013-05-07 00:45:18 UTC">
+      <body>K. well, person already got the one dog, but i don't know what time we're dog-walking.</body>
+    </message>
+    <message id="m0007" participant="131389" time="2013-05-07 00:46:55 UTC">
+      <body>so..i don't exactly know if i'll be here...what did you want to stop by for?</body>
+    </message>
+    <message id="m0008" participant="131350" time="2013-05-07 00:47:37 UTC">
+      <body>A hug.
+
+And to give you the CD.</body>
+    </message>
+    <message id="m0009" participant="131389" time="2013-05-07 00:55:50 UTC">
+      <body>Ok, so..what do you wanna do?  i can keep you posted and you can keep me posted i guess...</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-05-07 00:57:47 UTC">
+      <body>Cool.</body>
+    </message>
+    <message id="m0011" participant="131389" time="2013-05-07 01:12:36 UTC">
+      <body>Going on dogwalk now...</body>
+    </message>
+    <message id="m0012" participant="131389" time="2013-05-07 01:57:00 UTC">
+      <body>I'm back...next door to home.</body>
+    </message>
+    <message id="m0014" participant="131350" time="2013-05-07 02:08:10 UTC">
+      <body>The neighbors you share the driveway with?</body>
+    </message>
+    <message id="m0015" participant="131389" time="2013-05-07 02:09:34 UTC">
+      <body>Yep.  5435</body>
+    </message>
+    <message id="m0016" participant="131350" time="2013-05-07 02:12:07 UTC">
+      <body>Cool. Will be by in about 15 or so.  Cool?</body>
+    </message>
+    <message id="m0017" participant="131389" time="2013-05-07 02:13:08 UTC">
+      <body>Sure.  don't park in driveway..try to avoid my house...</body>
+    </message>
+    <message id="m0018" participant="131350" time="2013-05-07 02:13:27 UTC">
+      <body>K.</body>
+    </message>
+  </messages>
+</conversation>

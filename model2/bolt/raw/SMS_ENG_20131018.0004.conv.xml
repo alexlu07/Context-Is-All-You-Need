@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131018.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-18 03:01:13 UTC" participant="153450">
+      <body>Hi Jon
+its your neighbor Patrick, may I share your wifi? </body>
+    </message>
+    <message id="m0001" time="2013-10-18 11:51:32 UTC" participant="153418">
+      <body>Hey, I didn't see your message until now. Sorry, but I'm not currently running a wireless network and don't actually have the equipment to do so. </body>
+    </message>
+    <message id="m0002" time="2013-10-18 13:00:47 UTC" participant="153450">
+      <body>Thanks anyway, I'm going to the despot tonight if you're interested. 80s music</body>
+    </message>
+  </messages>
+</conversation>
+

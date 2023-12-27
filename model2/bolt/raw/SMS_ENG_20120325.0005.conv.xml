@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120325.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-03-25 21:52:50 UTC">
+      <body>I gotta get the meat boys footage from your phone soon</body>
+    </message>
+    <message id="m0001" participant="131329" time="2012-03-25 22:02:40 UTC">
+      <body>Yeah for sure. I'll send it to you</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-03-25 22:03:53 UTC">
+      <body>If you send it through an iPhone it's way lower quality. Just transfer it to Adams comp</body>
+    </message>
+    <message id="m0003" participant="131329" time="2012-03-25 22:04:48 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

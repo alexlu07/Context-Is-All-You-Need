@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0019" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130748" time="2013-07-10 16:25:55 UTC">
+      <body>Does your name indicate you are in AZ?</body>
+    </message>
+    <message id="m0001" participant="133254" time="2013-07-10 18:38:05 UTC">
+      <body>Nope, I'm actually out near sfo</body>
+    </message>
+    <message id="m0002" participant="130748" time="2013-07-10 18:46:29 UTC">
+      <body>I'm in the City. Right now at the Harvey Milk Library on 16th. I live in civic center.</body>
+    </message>
+    <message id="m0003" participant="133254" time="2013-07-10 18:49:37 UTC">
+      <body>Oh cool. I'm in berkeley!</body>
+    </message>
+    <message id="m0004" participant="130748" time="2013-07-10 18:51:48 UTC">
+      <body>I haven't been to Berkeley in several years. I went to shattuck last time.</body>
+    </message>
+    <message id="m0005" participant="133254" time="2013-07-10 18:56:28 UTC">
+      <body>I've got a year left here at cal, so I've lived here for a while, right off of shattuck for a bit too</body>
+    </message>
+    <message id="m0006" participant="130748" time="2013-07-10 19:01:13 UTC">
+      <body>I did a study once for uc a lot like the phone study upenn or is it Penn state?</body>
+    </message>
+    <message id="m0007" participant="133254" time="2013-07-10 19:24:38 UTC">
+      <body>I believe it's upenn</body>
+    </message>
+    <message id="m0008" participant="130748" time="2013-07-10 19:31:27 UTC">
+      <body>I think so too. I went to umass</body>
+    </message>
+    <message id="m0009" participant="133254" time="2013-07-10 19:44:42 UTC">
+      <body>What'd you study there?</body>
+    </message>
+    <message id="m0010" participant="130748" time="2013-07-10 19:48:35 UTC">
+      <body>Mathematics. What's your major? I'm old enough to be your father I bet. I graduated in 1987. High school in 83.</body>
+    </message>
+  </messages>
+</conversation>

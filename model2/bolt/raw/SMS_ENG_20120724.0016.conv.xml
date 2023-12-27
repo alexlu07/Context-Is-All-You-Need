@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120724.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-07-24 20:22:00 UTC" participant="152374">
+      <body>We're in good shape. I'll give you details tomorrow.</body>
+    </message>
+    <message id="m0001" time="2012-07-24 20:38:30 UTC" participant="153465">
+      <body>I don't know why but I don't have a good feeling about it. Can't explain why...</body>
+    </message>
+    <message id="m0002" time="2012-07-24 21:15:16 UTC" participant="152374">
+      <body>He seems focused on having as little content as possible for now. I can fully support that.</body>
+    </message>
+  </messages>
+</conversation>
+

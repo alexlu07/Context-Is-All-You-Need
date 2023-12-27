@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0062" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-12 21:01:50 UTC" participant="152534">
+      <body>Hey gabi. Do you want to do dinner tonight?</body>
+    </message>
+    <message id="m0002" time="2013-04-12 21:35:10 UTC" participant="152534">
+      <body>Alright. i will. Do you want to meet up beforehand?</body>
+    </message>
+    <message id="m0004" time="2013-04-12 21:40:25 UTC" participant="152534">
+      <body>Alright. I'll see you there in a bit. Are you sure it's alright if i come? Was it like an open invitation?</body>
+    </message>
+    <message id="m0005" time="2013-04-12 21:48:16 UTC" participant="152417">
+      <body>Great, and Yep, it is open to all</body>
+    </message>
+  </messages>
+</conversation>
+

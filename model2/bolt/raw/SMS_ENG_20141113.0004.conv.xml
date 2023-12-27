@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141113.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-13 15:50:00 UTC" participant="152584">
+      <body>Good morning! I'm in 701</body>
+    </message>
+    <message id="m0001" time="2014-11-13 15:50:59 UTC" participant="152417">
+      <body>I'm in 708, we've got it reserved</body>
+    </message>
+    <message id="m0002" time="2014-11-13 15:51:25 UTC" participant="152584">
+      <body>Ok. I'll be there soon</body>
+    </message>
+  </messages>
+</conversation>
+

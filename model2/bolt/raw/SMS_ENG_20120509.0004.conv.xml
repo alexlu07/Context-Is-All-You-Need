@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120509.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130692" time="2012-05-09 01:55:13 UTC">
+      <body>Spencer is lookin off tonight</body>
+    </message>
+    <message id="m0002" participant="131305" time="2012-05-09 02:25:57 UTC">
+      <body>Really. Just parked. ill text you when im at broad</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-05-10 02:21:55 UTC">
+      <body>I'm going to the game tomm so I'm just going to go to the gym during the day</body>
+    </message>
+    <message id="m0004" participant="131305" time="2012-05-10 02:27:59 UTC">
+      <body>Word</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-05-10 02:28:47 UTC">
+      <body>Check out Z-Bo tonight man</body>
+    </message>
+  </messages>
+</conversation>

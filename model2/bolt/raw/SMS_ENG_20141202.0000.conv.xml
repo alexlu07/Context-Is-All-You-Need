@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-02 21:43:23 UTC" participant="152115">
+      <body>Me and my mom were starving so we're eating now. Sorry! I tried to wait. Haha.</body>
+    </message>
+    <message id="m0001" time="2014-12-02 21:44:24 UTC" participant="152116">
+      <body>It's okay</body>
+    </message>
+    <message id="m0002" time="2014-12-02 21:44:37 UTC" participant="152116">
+      <body>You don't have to wait.</body>
+    </message>
+  </messages>
+</conversation>
+

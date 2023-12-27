@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150116.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-16 23:38:47 UTC" participant="153783">
+      <body>I ran into #####</body>
+    </message>
+    <message id="m0001" time="2015-01-16 23:46:11 UTC" participant="152116">
+      <body>Where</body>
+    </message>
+    <message id="m0002" time="2015-01-16 23:46:27 UTC" participant="153783">
+      <body>12th and walnut</body>
+    </message>
+    <message id="m0003" time="2015-01-17 00:03:05 UTC" participant="152116">
+      <body>That's a coincidence</body>
+    </message>
+    <message id="m0004" time="2015-01-17 00:17:38 UTC" participant="153783">
+      <body>Yea.</body>
+    </message>
+    <message id="m0005" time="2015-01-17 00:17:43 UTC" participant="153783">
+      <body>I miss ####</body>
+    </message>
+    <message id="m0006" time="2015-01-17 00:19:22 UTC" participant="152116">
+      <body>When did you last talk to him</body>
+    </message>
+    <message id="m0007" time="2015-01-17 00:19:41 UTC" participant="153783">
+      <body>Yesterday</body>
+    </message>
+    <message id="m0008" time="2015-01-17 00:22:06 UTC" participant="152116">
+      <body>Did you fight?</body>
+    </message>
+    <message id="m0009" time="2015-01-17 00:27:24 UTC" participant="153783">
+      <body>No</body>
+    </message>
+    <message id="m0010" time="2015-01-17 06:52:24 UTC" participant="153783">
+      <body>He's just so busy with work and I'm busy and it just means we don't see each other a lot. I don't even think I'll see him on my birthday </body>
+    </message>
+  </messages>
+</conversation>
+

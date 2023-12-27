@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-01-04 01:04:42 UTC">
+      <body>you're not at passion conference, are you? </body>
+    </message>
+    <message id="m0001" participant="136128" time="2013-01-04 01:05:16 UTC">
+      <body>No i'm not. Sorry!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-01-04 01:05:46 UTC">
+      <body>haha, it's cool, i thought i saw you just now and wanted to see if it actually was you! </body>
+    </message>
+    <message id="m0003" participant="136128" time="2013-01-04 01:06:48 UTC">
+      <body>Haha no. Have fun at your conference!</body>
+    </message>
+  </messages>
+</conversation>

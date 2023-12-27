@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 03:03:19 UTC" participant="152734">
+      <body>I forgot to tell you - today was the first day of WORK ZUMBA!</body>
+    </message>
+    <message id="m0001" time="2013-12-13 03:24:48 UTC" participant="153268">
+      <body>Did you like it?</body>
+    </message>
+    <message id="m0002" time="2013-12-13 13:43:10 UTC" participant="152734">
+      <body>It was super fun!!</body>
+    </message>
+    <message id="m0003" time="2013-12-13 13:51:15 UTC" participant="153268">
+      <body>It is...super cardio too!</body>
+    </message>
+  </messages>
+</conversation>
+

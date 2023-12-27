@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-09 13:32:10 UTC" participant="152426">
+      <body>Did you get your saxophone?</body>
+    </message>
+    <message id="m0001" time="2013-03-09 13:34:46 UTC" participant="152417">
+      <body>Yes! Its amazing</body>
+    </message>
+    <message id="m0002" time="2013-03-09 13:35:38 UTC" participant="152417">
+      <body>It was in immaculate condition,  it had the factory box and was still wrapped up inside</body>
+    </message>
+    <message id="m0003" time="2013-03-09 13:35:40 UTC" participant="152426">
+      <body>Can't wait to see and hear it. We're off to torch study. Talk to you later</body>
+    </message>
+  </messages>
+</conversation>
+

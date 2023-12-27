@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141210.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-10 19:56:25 UTC" participant="152417">
+      <body>Did you get your last treatment yet?</body>
+    </message>
+    <message id="m0001" time="2014-12-10 19:57:16 UTC" participant="152424">
+      <body>yes on Monday!</body>
+    </message>
+    <message id="m0002" time="2014-12-10 19:59:59 UTC" participant="152417">
+      <body>Yaaaaaay!</body>
+    </message>
+  </messages>
+</conversation>
+

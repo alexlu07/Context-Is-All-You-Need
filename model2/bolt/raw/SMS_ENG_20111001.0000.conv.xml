@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111001.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2011-10-01 04:31:52 UTC">
+      <body>I found ur flashcard schedule thing</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-10-01 04:36:45 UTC">
+      <body>Oh no I neeeeeed that</body>
+    </message>
+    <message id="m0002" participant="131825" time="2011-10-01 04:37:55 UTC">
+      <body>I can give it to u tomorrow morning?</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-10-01 04:38:12 UTC">
+      <body>Or whenever</body>
+    </message>
+    <message id="m0004" participant="131825" time="2011-10-01 04:38:27 UTC">
+      <body>K :)</body>
+    </message>
+    <message id="m0005" participant="131825" time="2011-10-01 21:58:16 UTC">
+      <body>Want to have dinner with maura and me,now?</body>
+    </message>
+    <message id="m0006" participant="131825" time="2011-10-02 01:51:40 UTC">
+      <body>Ready</body>
+    </message>
+  </messages>
+</conversation>

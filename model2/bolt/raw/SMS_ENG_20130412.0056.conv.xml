@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137257" time="2013-04-12 03:22:12 UTC">
+      <body>I love you too!  Sleep well. I'll say prayers for you. </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-04-13 01:59:28 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-04-13 02:00:42 UTC">
+      <body>I don't need a ride to the lab tomorrow morning.</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-04-14 00:30:42 UTC">
+      <body>I am picking up five guys for the boys</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-04-14 00:30:55 UTC">
+      <body>Have you and mon</body>
+    </message>
+  </messages>
+</conversation>

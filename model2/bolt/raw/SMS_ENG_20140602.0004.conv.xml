@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 22:30:28 UTC" participant="153581">
+      <body>Hey dude.  Any chance you would take a quick look at my water heater and give me your opinion before I pay someone to replace it?</body>
+    </message>
+    <message id="m0001" time="2014-06-02 22:31:07 UTC" participant="153547">
+      <body>Yeah I'm in class. Tomorrow ? Or late tonight</body>
+    </message>
+    <message id="m0002" time="2014-06-02 22:45:09 UTC" participant="153581">
+      <body>Thanks.  Either one is fine whtv convenient for you.</body>
+    </message>
+    <message id="m0003" time="2014-06-03 01:17:43 UTC" participant="153547">
+      <body>In the morning would be better. I'm up really early so u tell me when</body>
+    </message>
+    <message id="m0004" time="2014-06-03 01:20:37 UTC" participant="153581">
+      <body>Any chance tmrw after 5pm works?  I have to be into work earlier than normal around 830am ugh.  Gonna be rushing out the door most likely.</body>
+    </message>
+    <message id="m0005" time="2014-06-03 01:21:00 UTC" participant="153547">
+      <body>That's fine</body>
+    </message>
+    <message id="m0006" time="2014-06-03 01:22:15 UTC" participant="153581">
+      <body>Thanks</body>
+    </message>
+    <message id="m0007" time="2014-06-03 22:30:07 UTC" participant="153581">
+      <body>Hey dude...around now if you're not busy</body>
+    </message>
+    <message id="m0008" time="2014-06-03 22:30:27 UTC" participant="153581">
+      <body>Tomorrow morning also good just couldn't do today early</body>
+    </message>
+  </messages>
+</conversation>
+

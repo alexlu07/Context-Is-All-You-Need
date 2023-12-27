@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141225.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-25 15:21:19 UTC" participant="153424">
+      <body>Merry Christmas!! </body>
+    </message>
+    <message id="m0001" time="2014-12-25 16:13:43 UTC" participant="153417">
+      <body>Merry Christmas!!! Was Santa good to you??</body>
+    </message>
+    <message id="m0002" time="2014-12-25 17:10:24 UTC" participant="153424">
+      <body>Well of course haha. How about you? </body>
+    </message>
+    <message id="m0003" time="2014-12-25 17:11:00 UTC" participant="153417">
+      <body>Lol most definitely!</body>
+    </message>
+    <message id="m0004" time="2014-12-25 17:12:15 UTC" participant="153417">
+      <body>Oh.. are you free to go out Sunday instead of Saturday?</body>
+    </message>
+    <message id="m0005" time="2014-12-25 17:23:12 UTC" participant="153424">
+      <body>Oh sure that's good with me :) </body>
+    </message>
+    <message id="m0006" time="2014-12-25 17:24:41 UTC" participant="153417">
+      <body>Awesome. Sorry to do that lol it just works out better for me</body>
+    </message>
+    <message id="m0007" time="2014-12-25 17:25:20 UTC" participant="153424">
+      <body>Oh no worries, I'm free as a bird. </body>
+    </message>
+    <message id="m0008" time="2014-12-25 17:25:53 UTC" participant="153417">
+      <body>Great :)</body>
+    </message>
+  </messages>
+</conversation>
+

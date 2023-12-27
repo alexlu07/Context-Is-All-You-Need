@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137259" time="2013-07-11 17:20:28 UTC">
+      <body>My writing seminar for the fall..."Queer Writing Practices." Let's go engineers taking gender studies!</body>
+    </message>
+    <message id="m0001" participant="137259" time="2013-07-11 19:01:01 UTC">
+      <body>Andrew and Soraya, we should hang out tonight.</body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-07-11 21:56:31 UTC">
+      <body>Soraya?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-07-11 21:57:29 UTC">
+      <body>Okay! </body>
+    </message>
+    <message id="m0004" participant="137259" time="2013-07-12 01:02:02 UTC">
+      <body>Well?</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-07-12 01:15:57 UTC">
+      <body>Still at mall </body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-07-12 02:18:35 UTC">
+      <body>What's up where are you </body>
+    </message>
+    <message id="m0007" participant="137259" time="2013-07-12 02:19:20 UTC">
+      <body>We're at Sonic. Where are you?</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-07-12 02:19:47 UTC">
+      <body>At my house but Ican drive to wherever you go next</body>
+    </message>
+    <message id="m0009" participant="137259" time="2013-07-12 02:20:49 UTC">
+      <body>We'll pick you up now. And Yes we continue</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-07-12 02:27:57 UTC">
+      <body>No I will come to you Idont want to sit in a car </body>
+    </message>
+    <message id="m0011" participant="137259" time="2013-07-12 02:28:55 UTC">
+      <body>We're here</body>
+    </message>
+  </messages>
+</conversation>

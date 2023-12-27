@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 20:15:00 UTC" participant="152417">
+      <body>Hey Yelena, I have an extra ticket to see a great balkan brass band tonight called West Philly Orchestra, do you want to come?</body>
+    </message>
+    <message id="m0001" time="2014-11-18 20:43:15 UTC" participant="152596">
+      <body>Yes I'd love to. What time?</body>
+    </message>
+    <message id="m0002" time="2014-11-18 20:44:03 UTC" participant="152417">
+      <body>8 oclock at World Cafe Live</body>
+    </message>
+    <message id="m0003" time="2014-11-18 21:07:25 UTC" participant="152596">
+      <body>I'll see you there</body>
+    </message>
+    <message id="m0004" time="2014-11-18 21:07:30 UTC" participant="152596">
+      <body>:)</body>
+    </message>
+    <message id="m0005" time="2014-11-19 01:03:54 UTC" participant="152596">
+      <body>Hey, are you here</body>
+    </message>
+    <message id="m0006" time="2014-11-19 01:03:57 UTC" participant="152596">
+      <body>I'm here</body>
+    </message>
+  </messages>
+</conversation>
+

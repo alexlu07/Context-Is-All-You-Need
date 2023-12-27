@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140511.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-11 21:39:52 UTC" participant="149373">
+      <body>Hey hunter. What times good to come over?</body>
+    </message>
+    <message id="m0001" time="2014-05-11 21:40:31 UTC" participant="153547">
+      <body>How bout 730</body>
+    </message>
+    <message id="m0002" time="2014-05-11 22:02:19 UTC" participant="149373">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

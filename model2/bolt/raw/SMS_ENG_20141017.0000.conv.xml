@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141017.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-17 23:51:28 UTC" participant="149387">
+      <body>Hi! You in S. philly?</body>
+    </message>
+    <message id="m0001" time="2014-10-17 23:59:39 UTC" participant="149306">
+      <body>No, I may be down tomorrow eve. I'm staying in tonight.</body>
+    </message>
+    <message id="m0002" time="2014-10-18 00:00:00 UTC" participant="149387">
+      <body>Ok. Sorry I haven't been in touch. Been pretty busy since my return. Want to see you, though. I'm working a double tomorrow, but might get cut early - say 9ish.</body>
+    </message>
+    <message id="m0003" time="2014-10-18 00:02:08 UTC" participant="149387">
+      <body>My friends are having a party tomorrow night (the house you went to with me last time.) If I'm not too fried after my double, I may go. </body>
+    </message>
+    <message id="m0004" time="2014-10-18 00:10:49 UTC" participant="149306">
+      <body>We are filming some stuff at the gallery tomorrow night so I probably can't make it but I like that crowd. We will have to do something soon though.</body>
+    </message>
+    <message id="m0005" time="2014-10-18 00:13:26 UTC" participant="149387">
+      <body>Definitely!</body>
+    </message>
+    <message id="m0006" time="2014-10-18 00:14:33 UTC" participant="149387">
+      <body>I would come to West Philly to see you tonight if I didn't have to work a double tomorrow. Maybe next week I can meet you there.</body>
+    </message>
+    <message id="m0007" time="2014-10-18 00:19:50 UTC" participant="149306">
+      <body>That sounds good. I'm beat today.</body>
+    </message>
+    <message id="m0008" time="2014-10-18 00:21:14 UTC" participant="149387">
+      <body>Ok, well let's definitely do it then. Tuesday night works for me. We can meet early, after you finish work. Just tell me where and when.</body>
+    </message>
+    <message id="m0009" time="2014-10-18 00:31:03 UTC" participant="149306">
+      <body>Ok that sound good to me. Have a good night</body>
+    </message>
+    <message id="m0010" time="2014-10-18 00:31:49 UTC" participant="149387">
+      <body>Thanks. You too. Sweet dreams:-)</body>
+    </message>
+    <message id="m0011" time="2014-10-18 00:42:06 UTC" participant="149306">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

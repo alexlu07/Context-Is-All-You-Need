@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-10 23:53:45 UTC" participant="154392">
+      <body>I'm going to be 5 to 10 minutes late</body>
+    </message>
+    <message id="m0001" time="2013-01-11 00:01:42 UTC" participant="154352">
+      <body>Go in the back door. Probably locked and needs the parking attendant to open it. Kitchen 3 on the second floor.</body>
+    </message>
+    <message id="m0003" time="2013-01-11 02:34:16 UTC" participant="154392">
+      <body>Thanks for the info.  Ill check it out this weekend</body>
+    </message>
+    <message id="m0004" time="2013-01-11 23:20:55 UTC" participant="154392">
+      <body>Tue works.  Did you want me to make the reservation?  I had to leave wo</body>
+    </message>
+    <message id="m0005" time="2013-01-11 23:22:06 UTC" participant="154392">
+      <body>ar this weekend.</body>
+    </message>
+    <message id="m0006" time="2013-01-11 23:22:08 UTC" participant="154392">
+      <body>rk after lunch to take care of insurance stuff. Looks like ill be shopping for a c</body>
+    </message>
+    <message id="m0007" time="2013-01-11 23:22:43 UTC" participant="154352">
+      <body>I can make the reservation if that's easier. What time is good for you?</body>
+    </message>
+  </messages>
+</conversation>
+

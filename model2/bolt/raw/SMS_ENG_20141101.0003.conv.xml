@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141101.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-01 20:34:38 UTC" participant="152637">
+      <body>Yo thanks for the party last night. I had a bunch of fun. Jukebox is at 830. I don't remember if there is an opener. It's at union transfer... maybe meet there round 830 or so?</body>
+    </message>
+    <message id="m0001" time="2014-11-01 20:35:43 UTC" participant="152417">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0002" time="2014-11-01 20:46:16 UTC" participant="152637">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

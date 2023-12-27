@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121124.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-11-24 20:13:47 UTC">
+      <body>U around?</body>
+    </message>
+    <message id="m0001" participant="135389" time="2012-11-24 20:13:52 UTC">
+      <body>Yeah! In my studio. You on 4?</body>
+    </message>
+    <message id="m0002" participant="135389" time="2012-11-24 20:22:24 UTC">
+      <body>Okay!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-24 20:22:37 UTC">
+      <body>On 3 I'll come up and say hi</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-24 20:22:50 UTC">
+      <body>I'm done with 3</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-11-24 20:23:44 UTC">
+      <body>Il</body>
+    </message>
+  </messages>
+</conversation>

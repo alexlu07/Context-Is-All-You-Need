@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130327.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-27 00:17:43 UTC">
+      <body>hey. where you at?</body>
+    </message>
+    <message id="m0001" participant="131375" time="2013-03-27 00:20:49 UTC">
+      <body>Somerset. Trying to convince my genetic spawn that she can in fact pick up after herself. </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-27 00:23:06 UTC">
+      <body>good luck.  :-)
+
+we gotta talk soon.</body>
+    </message>
+    <message id="m0003" participant="131375" time="2013-03-27 00:33:58 UTC">
+      <body>Do you have the home #</body>
+    </message>
+    <message id="m0005" participant="131375" time="2013-03-27 00:42:20 UTC">
+      <body>Let me know before you call it. I have it on silent. Its been my dads telemarketer spam number for a decade.</body>
+    </message>
+  </messages>
+</conversation>

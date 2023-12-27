@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136648" time="2013-06-13 22:35:16 UTC">
+      <body>Hey bro</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-13 22:36:51 UTC">
+      <body>Yo!</body>
+    </message>
+    <message id="m0002" participant="136648" time="2013-06-13 22:37:41 UTC">
+      <body>Listen bro I got some good news to tell you!</body>
+    </message>
+    <message id="m0003" participant="130693" time="2013-06-13 22:55:52 UTC">
+      <body>...</body>
+    </message>
+    <message id="m0004" participant="136648" time="2013-06-13 23:00:51 UTC">
+      <body>I got second honors in last quarter bro, and I made it through freshman year! Thanks for believing in me bro. Now I'm just goin to relax my brain and run</body>
+    </message>
+    <message id="m0005" participant="136648" time="2013-06-13 23:00:52 UTC">
+      <body> every mourning this summer. </body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-06-13 23:04:03 UTC">
+      <body>Congrats! You da man!</body>
+    </message>
+    <message id="m0007" participant="136648" time="2013-06-13 23:17:12 UTC">
+      <body>Thanks bro</body>
+    </message>
+  </messages>
+</conversation>

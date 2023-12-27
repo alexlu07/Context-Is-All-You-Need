@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136198" time="2013-04-14 22:53:05 UTC">
+      <body>Hey, how'd the weekend go?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-15 03:38:18 UTC">
+      <body>crazy. i felt today like you did last week. how're you? </body>
+    </message>
+    <message id="m0002" participant="136198" time="2013-04-15 03:42:42 UTC">
+      <body>Pretty great, figured out the perfect Saturday hangover cure: spend all day in the sun at a beer and pizza picnic.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-15 03:44:07 UTC">
+      <body>i did pizza and wine indoors. also lotsss of sleep. so i'm close to your level, haha. </body>
+    </message>
+    <message id="m0004" participant="136198" time="2013-04-15 03:46:03 UTC">
+      <body>Hahaha, but you didn't get the lovely sunburn ;) What's your week looking like?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-04-15 03:51:32 UTC">
+      <body>busy. :/ i'm free thursday afternoon and most of saturday, though. </body>
+    </message>
+    <message id="m0006" participant="136198" time="2013-04-15 04:01:49 UTC">
+      <body>Hmmm, lets shoot for thur, but I might have a work thing come up.</body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-04-15 04:08:32 UTC">
+      <body>no worries, sounds good! </body>
+    </message>
+  </messages>
+</conversation>

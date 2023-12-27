@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121228.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-28 23:42:22 UTC" participant="152374">
+      <body>Are you going to make it tonight?</body>
+    </message>
+    <message id="m0001" time="2012-12-29 00:34:50 UTC" participant="152378">
+      <body>Hey sorry. Totally missed that invite. I'm not sure I can tonight but just so you know the ranstead room is not for big parties</body>
+    </message>
+    <message id="m0002" time="2012-12-29 00:34:56 UTC" participant="152378">
+      <body>Their tables hold like 2</body>
+    </message>
+    <message id="m0003" time="2012-12-29 00:35:17 UTC" participant="152374">
+      <body>I know. Wasn't my idea</body>
+    </message>
+    <message id="m0004" time="2012-12-29 00:35:59 UTC" participant="152374">
+      <body>I don't know if we'll stay there all night anyway. Want me to let you know if we go elsewhere later or no?</body>
+    </message>
+    <message id="m0005" time="2012-12-29 00:36:34 UTC" participant="152378">
+      <body>Yeah let me know</body>
+    </message>
+    <message id="m0006" time="2012-12-29 00:37:25 UTC" participant="152378">
+      <body>OK thank you :)</body>
+    </message>
+    <message id="m0007" time="2012-12-29 00:43:16 UTC" participant="152378">
+      <body>Yeah life is hard all around in the burbs</body>
+    </message>
+    <message id="m0008" time="2012-12-29 00:43:34 UTC" participant="152374">
+      <body>Ha ha</body>
+    </message>
+    <message id="m0009" time="2012-12-29 17:43:15 UTC" participant="152378">
+      <body>Yes ma'am. Thank you very much</body>
+    </message>
+  </messages>
+</conversation>
+

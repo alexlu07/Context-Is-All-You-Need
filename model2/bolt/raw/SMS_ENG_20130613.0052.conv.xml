@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137380" time="2013-06-13 00:23:28 UTC">
+      <body>Do you have a parking spot available for tomorrow?  Probably getting there around noon.</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-13 00:47:24 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0003" participant="137380" time="2013-06-13 01:14:36 UTC">
+      <body>Can I reserve one of the spots?</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-13 01:15:11 UTC">
+      <body>Sure thing. See you around noon? </body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-06-13 01:16:05 UTC">
+      <body>Either me, Sam, or my wife, Kathy, will be home.</body>
+    </message>
+    <message id="m0006" participant="137380" time="2013-06-13 01:18:56 UTC">
+      <body>Great.  I have a silver Explorer.  I see the spots are listed in 2 places on Craigslist, one for $30 and one for $50.  What are you asking?</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-06-13 01:20:42 UTC">
+      <body>$30 is fine</body>
+    </message>
+    <message id="m0008" participant="137380" time="2013-06-13 01:25:20 UTC">
+      <body>Guarantee me the spot and I'll pay you $40.  I wouldn't want to get there and the spot is taken and I have to go back to the parking area and take a shuttle.  I'll pay a bit extra to guarantee it.</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-06-13 01:26:44 UTC">
+      <body>Guaranteed. Not a problem.</body>
+    </message>
+    <message id="m0010" participant="137380" time="2013-06-13 01:27:28 UTC">
+      <body>Thanks....much appreciated!</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-06-13 01:28:44 UTC">
+      <body>What's your name? </body>
+    </message>
+    <message id="m0012" participant="137380" time="2013-06-13 01:29:36 UTC">
+      <body>Steve Sullivan.  I was gonna say Charlie Manuel but that might not have saved the spot for me!</body>
+    </message>
+    <message id="m0013" participant="130706" time="2013-06-13 01:31:24 UTC">
+      <body>Haha, see you tomorrow Steve!</body>
+    </message>
+    <message id="m0014" participant="137380" time="2013-06-13 01:31:44 UTC">
+      <body>Thanks.  What's your name and am I parking at 2810?</body>
+    </message>
+    <message id="m0016" participant="137380" time="2013-06-13 01:33:52 UTC">
+      <body>Thanks again...see ya tomorrow</body>
+    </message>
+    <message id="m0017" participant="130706" time="2013-06-13 15:09:34 UTC">
+      <body>Steve - you'll be parking in 2812 driveway right next to mine.</body>
+    </message>
+    <message id="m0018" participant="137380" time="2013-06-13 15:10:56 UTC">
+      <body>Okay in picking up my neighbor now and we'll be on our way.  What's the best route to take?</body>
+    </message>
+    <message id="m0020" participant="137380" time="2013-06-13 15:14:36 UTC">
+      <body>Sounds good we'll figure it out</body>
+    </message>
+    <message id="m0021" participant="130706" time="2013-06-13 15:15:28 UTC">
+      <body>If you're from the north taking 476 south, I presume the same would work!</body>
+    </message>
+    <message id="m0022" participant="130706" time="2013-06-13 15:15:51 UTC">
+      <body>I'd do my best to stay off rt 30/Lancaster ave.</body>
+    </message>
+  </messages>
+</conversation>

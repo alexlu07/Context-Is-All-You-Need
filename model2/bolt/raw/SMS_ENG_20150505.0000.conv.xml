@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150505.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-05-05 13:03:44 UTC" participant="153804">
+      <body>Did you hear from Ray? Are they up here yet?</body>
+    </message>
+    <message id="m0001" time="2015-05-05 14:54:31 UTC" participant="153558">
+      <body>I didn't email him yet</body>
+    </message>
+    <message id="m0002" time="2015-05-05 21:48:03 UTC" participant="153804">
+      <body>Chloe,my goddaughter received email today @sending mailing address for her payment for texts. I checked my email  &amp; have not seen anything yet. Would like to donate more before it ends.</body>
+    </message>
+    <message id="m0003" time="2015-05-06 00:20:12 UTC" participant="153558">
+      <body>Messages about payment went out to people who donated the full amount and made $500. People who are under that amount ( like you) can still donate more and get paid more so you will not be notified until the study ends so we don't have to send out multiple checks to the same person. You should send the rest of your texts Friday.</body>
+    </message>
+    <message id="m0004" time="2015-05-06 00:21:03 UTC" participant="153804">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>
+

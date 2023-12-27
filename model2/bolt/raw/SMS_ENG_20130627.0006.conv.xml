@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130627.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-27 11:19:43 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-06-27 11:22:32 UTC">
+      <body>hey</body>
+    </message>
+    <message id="m0002" participant="134066" time="2013-06-27 11:28:09 UTC">
+      <body>Hey Nathaniel in Philly, where are you?</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-27 11:30:58 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0004" participant="134066" time="2013-06-27 11:56:38 UTC">
+      <body>Where are you located? I live in Philly</body>
+    </message>
+    <message id="m0005" participant="134066" time="2013-06-27 12:02:16 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-27 12:08:14 UTC">
+      <body>Same.</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-06-27 12:08:14 UTC">
+      <body>What r u up too</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-27 12:27:48 UTC">
+      <body>I also live in philly</body>
+    </message>
+    <message id="m0009" participant="130747" time="2013-06-27 12:30:36 UTC">
+      <body>Hey what part u in?</body>
+    </message>
+    <message id="m0010" participant="134066" time="2013-06-27 12:44:58 UTC">
+      <body>Chillin' &amp; listening to my gf play the flute</body>
+    </message>
+    <message id="m0011" participant="134066" time="2013-06-27 13:15:56 UTC">
+      <body>How do spend your time?</body>
+    </message>
+    <message id="m0012" participant="134066" time="2013-06-27 13:21:43 UTC">
+      <body>West Philly- you?</body>
+    </message>
+    <message id="m0013" participant="130747" time="2013-06-27 14:01:06 UTC">
+      <body>Sounds relaxing</body>
+    </message>
+    <message id="m0014" participant="130747" time="2013-06-27 14:09:31 UTC">
+      <body>I'm at work right now. Boring day</body>
+    </message>
+    <message id="m0015" participant="130747" time="2013-06-27 14:15:42 UTC">
+      <body>I'm in Fairmount</body>
+    </message>
+    <message id="m0016" participant="134066" time="2013-06-27 15:00:42 UTC">
+      <body>Cool. What kind of work do you do?</body>
+    </message>
+  </messages>
+</conversation>

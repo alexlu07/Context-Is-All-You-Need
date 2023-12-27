@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-20 14:10:58 UTC" participant="152417">
+      <body>There is a drumkit here if you want it, kinda crappy but works, no ride cymbal</body>
+    </message>
+    <message id="m0001" time="2013-04-21 13:28:47 UTC" participant="152427">
+      <body>Hey remind me what time you'd like me there this morning ? Thanks </body>
+    </message>
+    <message id="m0002" time="2013-04-21 13:29:19 UTC" participant="152417">
+      <body>1130</body>
+    </message>
+    <message id="m0003" time="2013-04-21 13:29:33 UTC" participant="152427">
+      <body>Ok great!</body>
+    </message>
+    <message id="m0004" time="2013-04-21 13:29:39 UTC" participant="152417">
+      <body>And the alley way is next to pizaa verita</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150203.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-03 13:23:41 UTC" participant="152428">
+      <body>Moms bday</body>
+    </message>
+    <message id="m0001" time="2015-02-03 21:04:25 UTC" participant="152417">
+      <body>I figured out the stuff with financial services</body>
+    </message>
+    <message id="m0002" time="2015-02-03 21:22:08 UTC" participant="152428">
+      <body>Good job</body>
+    </message>
+    <message id="m0003" time="2015-02-03 21:24:08 UTC" participant="152417">
+      <body>Ill owe you about $3,000</body>
+    </message>
+  </messages>
+</conversation>
+

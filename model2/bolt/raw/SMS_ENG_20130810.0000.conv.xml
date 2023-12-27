@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130810.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-10 15:40:48 UTC" participant="149360">
+      <body>My printer is freaking out. Can you print 2 copies of my lease agreement real quick</body>
+    </message>
+    <message id="m0001" time="2013-08-10 15:44:38 UTC" participant="149306">
+      <body>Yes email it to me</body>
+    </message>
+  </messages>
+</conversation>
+

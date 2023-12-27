@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0014" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-06-24 16:45:16 UTC">
+      <body>How is it, tok?</body>
+    </message>
+    <message id="m0001" participant="132456" time="2013-06-24 16:57:29 UTC">
+      <body>Going well. Just got out if work. You?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-06-24 16:58:29 UTC">
+      <body>Workin my day job before going into my main gig at the bar</body>
+    </message>
+    <message id="m0003" participant="132456" time="2013-06-24 18:42:40 UTC">
+      <body>Working two jobs sucks sometimes, huh? I just started my second one</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-06-24 18:47:52 UTC">
+      <body>It's been a solid balance though, computer work and barbacking are really different</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-06-24 18:47:52 UTC">
+      <body>What do you do?</body>
+    </message>
+  </messages>
+</conversation>

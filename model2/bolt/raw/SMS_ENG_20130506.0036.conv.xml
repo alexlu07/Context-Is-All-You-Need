@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134301" time="2013-05-06 23:51:32 UTC">
+      <body>Wings this week?</body>
+    </message>
+    <message id="m0001" participant="134301" time="2013-05-07 00:12:30 UTC">
+      <body>Thursday</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-05-07 12:41:39 UTC">
+      <body>Not this week</body>
+    </message>
+    <message id="m0003" participant="134301" time="2013-05-07 14:20:12 UTC">
+      <body>Not cool</body>
+    </message>
+  </messages>
+</conversation>

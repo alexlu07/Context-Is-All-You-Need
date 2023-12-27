@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-04 16:00:00 UTC" participant="152568">
+      <body>Hey Gabi sorry this is last minute but I can't make it today I'm at my grandparents working. Are you going to be in the studio on Monday?</body>
+    </message>
+    <message id="m0001" time="2013-05-04 16:29:36 UTC" participant="152417">
+      <body>No worries, make sure you let Matt at the store know. I wont be there monday at 530 this week, but we can schedule a make up.  Are you free thursday?</body>
+    </message>
+    <message id="m0002" time="2013-05-04 16:33:53 UTC" participant="152568">
+      <body>I can let you know soon. I need to check with hannaford. Ill let you know ASAP!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141018.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-18 15:14:23 UTC" participant="149373">
+      <body>Hey ####. This is Shawn. I was wondering if I could catch a ride with you to hunters opening tonight</body>
+    </message>
+    <message id="m0001" time="2014-10-18 15:17:20 UTC" participant="149373">
+      <body>Oh shoot I guess his opening was late weekend. Dang. We should hangout soon.</body>
+    </message>
+    <message id="m0002" time="2014-10-18 17:16:24 UTC" participant="149306">
+      <body>Yes let's do that, I wana hear about your residency </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140925.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-25 21:11:46 UTC" participant="152118">
+      <body>Yes. I can do friday! I was actually going to text you and say that I couldn't do Saturday if you guys went down the shore! Awesome.</body>
+    </message>
+    <message id="m0001" time="2014-09-25 21:13:12 UTC" participant="152115">
+      <body>Ok. Cool!</body>
+    </message>
+    <message id="m0002" time="2014-09-25 21:20:28 UTC" participant="152118">
+      <body>I get home around 6 though. I'm assuming that's okay.</body>
+    </message>
+    <message id="m0003" time="2014-09-25 21:23:01 UTC" participant="152115">
+      <body>Yeah. John normally doesn't get into Philly until 8 or later.</body>
+    </message>
+    <message id="m0004" time="2014-09-25 21:25:08 UTC" participant="152118">
+      <body>Cool.</body>
+    </message>
+  </messages>
+</conversation>
+

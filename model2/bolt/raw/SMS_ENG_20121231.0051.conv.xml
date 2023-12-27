@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121231.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-31 18:08:26 UTC" participant="152425">
+      <body>At work.  What up dude?</body>
+    </message>
+    <message id="m0001" time="2012-12-31 18:10:50 UTC" participant="152417">
+      <body>Liz is here, she and ben and i are discussing the open room, we were hoping to chat with you about it</body>
+    </message>
+    <message id="m0002" time="2012-12-31 18:34:06 UTC" participant="152425">
+      <body>Is ben working tonight?  I can probably bail in a hour or two to come talk about, but thats the best I can do.  I'm glad people are finally taking an interest</body>
+    </message>
+    <message id="m0003" time="2012-12-31 18:38:22 UTC" participant="152417">
+      <body>Ben will be here til 315, liz may have to join by phone for a conference call, im here til 4 </body>
+    </message>
+    <message id="m0004" time="2012-12-31 19:08:26 UTC" participant="152425">
+      <body>I will be back in 15 minutes</body>
+    </message>
+  </messages>
+</conversation>
+

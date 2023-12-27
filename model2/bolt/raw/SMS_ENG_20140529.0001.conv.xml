@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140529.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-29 00:56:35 UTC" participant="152116">
+      <body>I'm on my way</body>
+    </message>
+    <message id="m0001" time="2014-05-29 12:51:06 UTC" participant="152115">
+      <body>I'm seeing if you can receive texts from me now.</body>
+    </message>
+    <message id="m0002" time="2014-05-29 12:51:59 UTC" participant="152116">
+      <body>I got it. Did you sign off of your email?</body>
+    </message>
+    <message id="m0003" time="2014-05-29 13:40:54 UTC" participant="152115">
+      <body>Uh. I don't think so.</body>
+    </message>
+    <message id="m0004" time="2014-05-29 13:41:10 UTC" participant="152115">
+      <body>I just made it my default messaging.</body>
+    </message>
+    <message id="m0005" time="2014-05-29 13:44:30 UTC" participant="152116">
+      <body>Okay that's fine too</body>
+    </message>
+    <message id="m0006" time="2014-05-29 13:44:30 UTC" participant="152116">
+      <body>I signed out so that I could see your picture on the side</body>
+    </message>
+    <message id="m0007" time="2014-05-29 13:45:11 UTC" participant="152115">
+      <body>Ok. I think I just signed out.</body>
+    </message>
+    <message id="m0008" time="2014-05-29 17:39:01 UTC" participant="152115">
+      <body>We got Chipotle catered to us today. I wrapped us up a burrito bowl!</body>
+    </message>
+    <message id="m0009" time="2014-05-29 19:39:15 UTC" participant="152116">
+      <body>Oh my God. I really wanted a burrito bowl for lunch today but haven't had time to go on break!</body>
+    </message>
+    <message id="m0010" time="2014-05-29 19:43:22 UTC" participant="152115">
+      <body>Haha. Well get something else and have it tonight!</body>
+    </message>
+    <message id="m0011" time="2014-05-29 19:43:35 UTC" participant="152115">
+      <body>You haven't eaten yet? ?!!</body>
+    </message>
+    <message id="m0012" time="2014-05-29 20:36:29 UTC" participant="152116">
+      <body>I just did. Grabbed something and ate while training an annotator</body>
+    </message>
+  </messages>
+</conversation>
+

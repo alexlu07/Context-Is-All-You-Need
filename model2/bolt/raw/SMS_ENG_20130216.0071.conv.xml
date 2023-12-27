@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130216.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-16 00:00:23 UTC" participant="152734">
+      <body>Hey! So what are y'all up to this weekend? Bruery visit sometime? Looks like they're open 12-10.</body>
+    </message>
+    <message id="m0001" time="2013-02-16 02:14:24 UTC" participant="153315">
+      <body>We are going back north tomorrow :( sorry it did not work out this time. </body>
+    </message>
+    <message id="m0002" time="2013-02-16 04:06:48 UTC" participant="152734">
+      <body>Ahhh bummer! Safe trip back, kiss an elephant seal for me.</body>
+    </message>
+  </messages>
+</conversation>
+

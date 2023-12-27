@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121120.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-20 19:57:19 UTC" participant="152429">
+      <body>Are you coming today?</body>
+    </message>
+    <message id="m0001" time="2012-11-20 20:00:49 UTC" participant="152417">
+      <body>Yea, but i wont be home to midnightish</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 18:49:11 UTC" participant="152576">
+      <body>Hey man, Greg here. You still play at dobra with Awar? I'm gonna be in Burlington tomorrow and Wed, are you guys playing? It'd be fun to play a few tunes with you.</body>
+    </message>
+    <message id="m0001" time="2014-09-15 18:53:52 UTC" participant="152417">
+      <body>I just moved to Philly so I wont be there, everyone else will be tho.  Sorry I'm gonna miss you.  I hope all is well</body>
+    </message>
+    <message id="m0002" time="2014-09-15 20:03:12 UTC" participant="152576">
+      <body>Cool man, congratulations. Glad you made it there. I'm sure you'll find many opportunities there. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131203.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-03 19:45:51 UTC" participant="152560">
+      <body>What is the Internet password?</body>
+    </message>
+    <message id="m0001" time="2013-12-03 19:55:47 UTC" participant="152417">
+      <body>I saved it in stickies on your comp</body>
+    </message>
+    <message id="m0002" time="2013-12-03 19:56:31 UTC" participant="152560">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

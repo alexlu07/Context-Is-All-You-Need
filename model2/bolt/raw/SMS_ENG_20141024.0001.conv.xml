@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141024.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-24 23:31:25 UTC" participant="152590">
+      <body>Got a big order for you. Do you have our orange backpack?</body>
+    </message>
+    <message id="m0001" time="2014-10-24 23:32:08 UTC" participant="152417">
+      <body>Yes i do</body>
+    </message>
+    <message id="m0002" time="2014-10-24 23:32:41 UTC" participant="152590">
+      <body>ok, great. I got you a very big order from Valanni</body>
+    </message>
+    <message id="m0003" time="2014-10-24 23:42:45 UTC" participant="152590">
+      <body>just double check everything on this order - VIP customer. Thanks!</body>
+    </message>
+    <message id="m0004" time="2014-10-24 23:43:19 UTC" participant="152417">
+      <body>Will do</body>
+    </message>
+    <message id="m0005" time="2014-10-25 17:02:56 UTC" participant="152590">
+      <body>hey gabriel i know that's a long one i really appreciate it</body>
+    </message>
+    <message id="m0006" time="2014-10-25 20:52:48 UTC" participant="152590">
+      <body>hey gabriel, got you a dim sum order if you can take it</body>
+    </message>
+    <message id="m0007" time="2014-10-25 20:57:58 UTC" participant="152417">
+      <body>Im on it</body>
+    </message>
+    <message id="m0008" time="2014-10-25 20:58:21 UTC" participant="152590">
+      <body>great, thanks a lot</body>
+    </message>
+    <message id="m0009" time="2014-10-25 23:13:07 UTC" participant="152590">
+      <body>please head to tiffin to pick up tiffin once you've picked up the PYT copy?</body>
+    </message>
+    <message id="m0010" time="2014-10-25 23:13:30 UTC" participant="152590">
+      <body>then i'd like you to deliver in this order: 48, then 46</body>
+    </message>
+    <message id="m0011" time="2014-10-25 23:13:40 UTC" participant="152417">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

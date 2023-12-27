@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141102.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-02 22:04:18 UTC" participant="152590">
+      <body>got you a dim sum pickup if you want it</body>
+    </message>
+    <message id="m0001" time="2014-11-02 22:05:27 UTC" participant="152417">
+      <body>Usually i'm not picky about orders but my bike is in need of a tune up so i'm just gonna be taking orders in center city if thats ok</body>
+    </message>
+    <message id="m0002" time="2014-11-02 22:05:46 UTC" participant="152590">
+      <body>ok, no problem at all. thanks for letting me know</body>
+    </message>
+    <message id="m0003" time="2014-11-02 22:29:46 UTC" participant="152590">
+      <body>got another order for you after you finish this delivery</body>
+    </message>
+    <message id="m0004" time="2014-11-02 22:30:36 UTC" participant="152417">
+      <body>Thx</body>
+    </message>
+    <message id="m0005" time="2014-11-02 22:40:02 UTC" participant="152417">
+      <body>I think my extra battery died in the rain yesterday, ill have to charge my phone after this order</body>
+    </message>
+    <message id="m0006" time="2014-11-02 22:40:32 UTC" participant="152590">
+      <body>no worries, thanks for the heads up</body>
+    </message>
+    <message id="m0007" time="2014-11-02 23:08:20 UTC" participant="152590">
+      <body>you can't take another order right now, right?</body>
+    </message>
+    <message id="m0008" time="2014-11-02 23:08:22 UTC" participant="152590">
+      <body>phone battery?</body>
+    </message>
+    <message id="m0009" time="2014-11-02 23:11:26 UTC" participant="152417">
+      <body>Yea, im at 10%,  im on my way to uarts where i can plug in.  Or can i come in and exchange my external battery?</body>
+    </message>
+    <message id="m0010" time="2014-11-02 23:11:41 UTC" participant="152590">
+      <body>no one is at the office...just let me know when you're back in action</body>
+    </message>
+    <message id="m0011" time="2014-11-02 23:36:48 UTC" participant="152590">
+      <body>No rush, but let me know when you're back up and running. I have two short hipcity rittenhouse orders I can get you.</body>
+    </message>
+    <message id="m0012" time="2014-11-03 00:31:25 UTC" participant="152417">
+      <body>Good to go</body>
+    </message>
+    <message id="m0013" time="2014-11-03 00:31:52 UTC" participant="152590">
+      <body>Great! Stand by and I'll get you something ASAP</body>
+    </message>
+  </messages>
+</conversation>
+

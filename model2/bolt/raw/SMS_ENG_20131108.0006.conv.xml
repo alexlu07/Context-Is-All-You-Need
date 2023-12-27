@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131108.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-08 19:49:56 UTC" participant="153548">
+      <body>I didn't see this! Yes send links!</body>
+    </message>
+    <message id="m0001" time="2013-11-08 19:50:22 UTC" participant="153645">
+      <body>Will do! </body>
+    </message>
+    <message id="m0002" time="2013-11-09 17:16:48 UTC" participant="153645">
+      <body>Hey - what time next Saturday were you thinking of going to NYC? I was thinking of leaving Philly at 10am - wanna a ride? </body>
+    </message>
+    <message id="m0003" time="2013-11-09 17:18:08 UTC" participant="153548">
+      <body>Yes perfect!! That would be so great!</body>
+    </message>
+    <message id="m0004" time="2013-11-09 17:18:24 UTC" participant="153548">
+      <body>I'll chip in for gas and tolls!</body>
+    </message>
+    <message id="m0005" time="2013-11-09 17:18:56 UTC" participant="153645">
+      <body>Great! I think I will just drive straight to bk near the screening </body>
+    </message>
+    <message id="m0006" time="2013-11-09 17:20:28 UTC" participant="153548">
+      <body>Awesome. I will probably meet up with some friends in Manhattan for a quick bite before and then head back for the screening at 4 depending on what time we arrive.</body>
+    </message>
+    <message id="m0007" time="2013-11-09 17:23:12 UTC" participant="153645">
+      <body>Perfect! </body>
+    </message>
+    <message id="m0008" time="2013-11-09 17:34:09 UTC" participant="153645">
+      <body>We can try to leave at 9:30 if you feel that gives you more time? </body>
+    </message>
+    <message id="m0009" time="2013-11-09 17:34:33 UTC" participant="153548">
+      <body>It's up to you! I don't want us to feel rushed.</body>
+    </message>
+    <message id="m0010" time="2013-11-09 17:35:10 UTC" participant="153645">
+      <body>I am going to try to meet up with a friend and see some art before the screening so maybe 9:30 is a good time to leave</body>
+    </message>
+    <message id="m0011" time="2013-11-09 17:35:22 UTC" participant="153548">
+      <body>Sounds great to me!</body>
+    </message>
+    <message id="m0012" time="2013-11-09 17:35:49 UTC" participant="153645">
+      <body>Awesome! See you then if not before </body>
+    </message>
+  </messages>
+</conversation>
+

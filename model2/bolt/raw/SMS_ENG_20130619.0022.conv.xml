@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-06-19 15:01:01 UTC">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-19 15:04:46 UTC">
+      <body>Werkin at school</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-06-19 15:05:15 UTC">
+      <body>Ah I'm by your apt. I'm coming to school a little later</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-06-19 20:01:30 UTC">
+      <body>Here!</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-06-19 20:11:23 UTC">
+      <body>Still at work</body>
+    </message>
+    <message id="m0005" participant="135386" time="2013-06-19 20:11:33 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-06-19 21:41:08 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-06-19 21:41:28 UTC">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>

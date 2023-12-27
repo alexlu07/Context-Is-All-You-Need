@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-27 16:35:19 UTC">
+      <body>Hey sry running a little late</body>
+    </message>
+    <message id="m0001" participant="135274" time="2012-11-27 16:41:50 UTC">
+      <body>Ok, we're on the left!</body>
+    </message>
+    <message id="m0002" participant="135274" time="2012-11-27 23:10:05 UTC">
+      <body>Hey! we're on the left!</body>
+    </message>
+    <message id="m0003" participant="135080" time="2012-11-27 23:14:28 UTC">
+      <body>Coming</body>
+    </message>
+  </messages>
+</conversation>

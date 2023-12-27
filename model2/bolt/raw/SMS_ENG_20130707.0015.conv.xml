@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131837" time="2013-07-07 21:37:23 UTC">
+      <body>Hello Kevin. How are you this lovely eve?</body>
+    </message>
+    <message id="m0001" participant="130748" time="2013-07-07 23:06:15 UTC">
+      <body>How funny. My name is Kevin but my user name is Kelvin. How did you know?</body>
+    </message>
+    <message id="m0002" participant="131837" time="2013-07-08 00:33:42 UTC">
+      <body>Whoa! I just read it wrong, or I'm psychic.</body>
+    </message>
+    <message id="m0003" participant="130748" time="2013-07-08 03:08:04 UTC">
+      <body>I'll put money on psychic. Do these things happen other times?</body>
+    </message>
+    <message id="m0004" participant="131837" time="2013-07-08 16:42:39 UTC">
+      <body>Never. You?</body>
+    </message>
+  </messages>
+</conversation>

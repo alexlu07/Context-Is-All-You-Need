@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121106.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-06 06:15:07 UTC">
+      <body>Hey! Do you know what time you're going to vote?</body>
+    </message>
+    <message id="m0001" participant="135265" time="2012-11-06 06:16:04 UTC">
+      <body>Not sure. Depends on how long the lines are</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-06 06:17:17 UTC">
+      <body>And how are you going to know? Slash do you still have any intention of going at 10am?</body>
+    </message>
+    <message id="m0003" participant="135265" time="2012-11-06 06:18:01 UTC">
+      <body>I wont be up, sorry!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120407.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-04-07 00:27:33 UTC" participant="153286">
+      <body>Heading to Frankford hall ipa</body>
+    </message>
+    <message id="m0001" time="2012-04-07 00:31:59 UTC" participant="152734">
+      <body>Ok! I'll probably be there in an hour or so, Richard too I think</body>
+    </message>
+    <message id="m0002" time="2012-04-07 01:46:04 UTC" participant="152734">
+      <body>On my way! You still there? </body>
+    </message>
+    <message id="m0003" time="2012-04-07 01:48:48 UTC" participant="153286">
+      <body>Yes we are here!</body>
+    </message>
+    <message id="m0004" time="2012-04-07 02:34:40 UTC" participant="152734">
+      <body>Good lord this place! Where are you? Im sort of by the fire</body>
+    </message>
+  </messages>
+</conversation>
+

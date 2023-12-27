@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0011" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130975" time="2013-06-02 16:36:41 UTC">
+      <body>hello</body>
+    </message>
+    <message id="m0001" participant="131007" time="2013-06-02 16:38:00 UTC">
+      <body>Hi, how are you? Enjoying this Sunday afternoon I hope. :)</body>
+    </message>
+    <message id="m0002" participant="130975" time="2013-06-02 16:40:21 UTC">
+      <body>good. weather out here in co is beautiful. about to go to the reservoir for a few hrs. where are you?</body>
+    </message>
+    <message id="m0003" participant="131007" time="2013-06-02 17:03:14 UTC">
+      <body>I'm front Ann Arbor Michigan, student at u of m. its a bit cloudy today, almost rainy whether but you see the sun peak through every now and then. To me</body>
+    </message>
+    <message id="m0004" participant="131007" time="2013-06-02 17:03:14 UTC">
+      <body>its quite calm soothing even. Rambling on lol Headed to the lake nearby, my little peace of solitude. :)</body>
+    </message>
+    <message id="m0005" participant="131007" time="2013-06-02 17:03:14 UTC">
+      <body>Piece*</body>
+    </message>
+    <message id="m0006" participant="130975" time="2013-06-02 17:12:22 UTC">
+      <body>awesome. we'll be on the water too. we do dragon boat racing and we're on the way to practice</body>
+    </message>
+  </messages>
+</conversation>

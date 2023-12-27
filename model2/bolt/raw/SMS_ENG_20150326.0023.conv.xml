@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150326.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-26 21:35:38 UTC" participant="153804">
+      <body>Sounds like a great idea but I bet there's lots of homeless people hanging out there</body>
+    </message>
+    <message id="m0001" time="2015-03-26 21:36:44 UTC" participant="153558">
+      <body>No the police in center city don't let homeless people loiter </body>
+    </message>
+    <message id="m0002" time="2015-03-26 21:37:10 UTC" participant="153804">
+      <body>so how do they get their free piece of pizza?</body>
+    </message>
+    <message id="m0003" time="2015-03-26 23:01:28 UTC" participant="153558">
+      <body>They take a piece of paper off the wall that is a receipt for a slice someone already paid for.</body>
+    </message>
+    <message id="m0004" time="2015-03-26 23:04:29 UTC" participant="153804">
+      <body>What a good idea!</body>
+    </message>
+  </messages>
+</conversation>
+

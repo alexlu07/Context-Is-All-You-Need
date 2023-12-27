@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135397" time="2013-03-10 12:54:24 UTC">
+      <body>Cool!  Talk today re agoos?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-10 13:02:04 UTC">
+      <body>Agoos?</body>
+    </message>
+    <message id="m0003" participant="135397" time="2013-03-10 13:02:45 UTC">
+      <body>The designer. I emailed u info yesterday. Re summer work</body>
+    </message>
+    <message id="m0004" participant="135397" time="2013-03-10 13:02:56 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0005" participant="135397" time="2013-03-10 13:02:56 UTC">
+      <body>All ok?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-10 13:02:58 UTC">
+      <body>Not today </body>
+    </message>
+    <message id="m0007" participant="135397" time="2013-03-10 13:09:20 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-10 13:09:38 UTC">
+      <body>Yes fine do you have some time to read an email </body>
+    </message>
+  </messages>
+</conversation>

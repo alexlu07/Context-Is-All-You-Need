@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141109.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-09 13:55:52 UTC" participant="153547">
+      <body>Hey, I'd like to double check that I can make the door swing work before we pick up the shower. So let me know if I could come around noon or so and we could go from there to pick it up</body>
+    </message>
+    <message id="m0001" time="2014-11-09 14:14:30 UTC" participant="153602">
+      <body>Hey, noon is fine.</body>
+    </message>
+    <message id="m0002" time="2014-11-09 17:12:56 UTC" participant="153547">
+      <body>I'm outside </body>
+    </message>
+    <message id="m0003" time="2014-11-09 22:44:02 UTC" participant="153547">
+      <body>I can prob get someone for $15/hr for Wednesday if you can't get someone </body>
+    </message>
+    <message id="m0004" time="2014-11-10 00:54:56 UTC" participant="153602">
+      <body>Best to put your extra hands on.</body>
+    </message>
+  </messages>
+</conversation>
+

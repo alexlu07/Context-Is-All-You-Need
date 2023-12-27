@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-03-03 19:58:59 UTC">
+      <body>Are you on break this week?</body>
+    </message>
+    <message id="m0001" participant="131053" time="2013-03-03 19:59:59 UTC">
+      <body>March 11</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-03-03 20:00:42 UTC">
+      <body>Oooo me too! Day drinking!</body>
+    </message>
+    <message id="m0003" participant="131053" time="2013-03-03 20:04:12 UTC">
+      <body>Yeaaaa</body>
+    </message>
+    <message id="m0004" participant="131053" time="2013-03-03 20:04:15 UTC">
+      <body>!!!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-16 19:06:32 UTC">
+      <body>a guy on CL is selling a modern "gypsy guitar" - $1700! just thought you might be curious.</body>
+    </message>
+    <message id="m0001" participant="131379" time="2013-04-16 19:09:19 UTC">
+      <body>What make?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-16 19:39:02 UTC">
+      <body>i dunno. handmade in mexico, i think.</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-16 19:39:24 UTC">
+      <body>hey.  you wanna hang soon?</body>
+    </message>
+    <message id="m0004" participant="131379" time="2013-04-16 20:33:32 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-16 20:34:19 UTC">
+      <body>cool!  when's good?</body>
+    </message>
+    <message id="m0006" participant="131379" time="2013-04-16 20:35:39 UTC">
+      <body>When are you open?</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-16 20:37:14 UTC">
+      <body>wide open.  spending the days in storage, the eves are 100% free.</body>
+    </message>
+  </messages>
+</conversation>

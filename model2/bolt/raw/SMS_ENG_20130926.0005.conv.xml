@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130926.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-26 01:13:14 UTC" participant="152502">
+      <body>FRM:dispatch@fyb2.a.dde.cc
+MSG:come in when clear</body>
+    </message>
+    <message id="m0001" time="2013-09-26 01:16:01 UTC" participant="152417">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

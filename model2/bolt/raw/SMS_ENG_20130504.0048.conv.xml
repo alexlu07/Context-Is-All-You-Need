@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130504.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-05-04 18:33:17 UTC">
+      <body>but you are coming to church tomorrow, yes? </body>
+    </message>
+    <message id="m0001" participant="136153" time="2013-05-04 18:33:53 UTC">
+      <body>I am </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-05-04 18:35:26 UTC">
+      <body>k, i'll let you know what the deal is but assume leaving from here at the normal time. </body>
+    </message>
+    <message id="m0003" participant="136153" time="2013-05-04 18:36:05 UTC">
+      <body>Alright cool</body>
+    </message>
+    <message id="m0004" participant="136153" time="2013-05-05 01:10:16 UTC">
+      <body>There's no morning group tomorrow, what time should we meet?</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-05-05 01:22:08 UTC">
+      <body>10:30!</body>
+    </message>
+    <message id="m0006" participant="136153" time="2013-05-05 01:23:12 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0007" participant="136153" time="2013-05-05 14:32:15 UTC">
+      <body>You coming?</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-05-05 14:32:24 UTC">
+      <body>on my way! </body>
+    </message>
+  </messages>
+</conversation>

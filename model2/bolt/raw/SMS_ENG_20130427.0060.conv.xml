@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-27 21:34:45 UTC" participant="152417">
+      <body>Unfortunately we're without a drummer tomorrow, colin put in the request for someone to cover him at work weeks ago and no one is available</body>
+    </message>
+    <message id="m0001" time="2013-04-27 22:09:04 UTC" participant="152431">
+      <body>Ok :( 
+</body>
+    </message>
+    <message id="m0002" time="2013-04-28 15:21:06 UTC" participant="152417">
+      <body>Do you have the banner ?</body>
+    </message>
+    <message id="m0003" time="2013-04-28 15:21:20 UTC" participant="152431">
+      <body>I can look</body>
+    </message>
+  </messages>
+</conversation>
+

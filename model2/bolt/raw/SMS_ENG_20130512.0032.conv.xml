@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-05-12 18:27:27 UTC">
+      <body>Hey dude are you driving in tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131463" time="2013-05-12 19:00:36 UTC">
+      <body>Nah man I'm gonna be out 'sick' :(</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-05-12 19:03:14 UTC">
+      <body>Hahaha good for you!</body>
+    </message>
+    <message id="m0003" participant="131463" time="2013-05-12 19:04:20 UTC">
+      <body>Yea it's a Leighanns birthday so I'm surprise taking her to Philly </body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-05-12 19:05:09 UTC">
+      <body>Ooh fun! Enjoy!!</body>
+    </message>
+    <message id="m0005" participant="131463" time="2013-05-12 19:05:30 UTC">
+      <body>Thanks!!</body>
+    </message>
+  </messages>
+</conversation>

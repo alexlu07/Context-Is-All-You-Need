@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150219.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-19 17:09:48 UTC" participant="152249">
+      <body>If I order a book for you from Amazon, in Kindle format, can you read it easily so that we'll have a chance to discuss it over the weekend?</body>
+    </message>
+    <message id="m0001" time="2015-02-19 17:37:06 UTC" participant="152212">
+      <body>I don't know. Yeah I bet I can figure it out</body>
+    </message>
+    <message id="m0002" time="2015-02-19 17:39:03 UTC" participant="152249">
+      <body>I'll try to finish reading it on my flight ti DC, and give it you on Sunday, then I'll order one for me via slow boat</body>
+    </message>
+  </messages>
+</conversation>
+

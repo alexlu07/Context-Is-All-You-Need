@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141106.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-06 23:27:11 UTC" participant="152116">
+      <body>I'm running late</body>
+    </message>
+    <message id="m0001" time="2014-11-06 23:27:49 UTC" participant="152115">
+      <body>I can see that.</body>
+    </message>
+    <message id="m0002" time="2014-11-06 23:28:00 UTC" participant="152115">
+      <body>Did you leave?</body>
+    </message>
+    <message id="m0003" time="2014-11-06 23:31:04 UTC" participant="152116">
+      <body>I'm leaving now</body>
+    </message>
+    <message id="m0004" time="2014-11-06 23:32:07 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-11-07 22:39:40 UTC" participant="152115">
+      <body>My dad asked this morning if you were picking me up. You can decide if you're home early enough. I can't wait to see you. Thank God it's Friday.</body>
+    </message>
+    <message id="m0006" time="2014-11-07 22:40:10 UTC" participant="152116">
+      <body>I can</body>
+    </message>
+    <message id="m0007" time="2014-11-07 22:40:37 UTC" participant="152116">
+      <body>I'm sticking around work to do SkyRoc but I can come straight to you from the sub</body>
+    </message>
+    <message id="m0008" time="2014-11-07 23:19:39 UTC" participant="152115">
+      <body>Ok. I should be done at 7:30.</body>
+    </message>
+    <message id="m0009" time="2014-11-07 23:19:52 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0010" time="2014-11-07 23:19:56 UTC" participant="152116">
+      <body>Did you tell your dad</body>
+    </message>
+  </messages>
+</conversation>
+

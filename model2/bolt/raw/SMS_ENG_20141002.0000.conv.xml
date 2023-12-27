@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141002.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-02 18:01:32 UTC" participant="149369">
+      <body>Did you want me to pick you up near the Girard el stop at like 630?</body>
+    </message>
+    <message id="m0001" time="2014-10-02 18:02:10 UTC" participant="149306">
+      <body> That sounds perfect</body>
+    </message>
+    <message id="m0002" time="2014-10-02 21:59:38 UTC" participant="149306">
+      <body>I'm gona b at the statio early. Should I find a 6 pack for the parking lot?</body>
+    </message>
+    <message id="m0003" time="2014-10-02 21:59:56 UTC" participant="149306">
+      <body>At the station, sorry</body>
+    </message>
+    <message id="m0004" time="2014-10-02 22:01:02 UTC" participant="149369">
+      <body>You can if you like; I grabbed some beers from home too</body>
+    </message>
+    <message id="m0005" time="2014-10-02 22:02:24 UTC" participant="149306">
+      <body>Is there a place that sells takeout near Gerard stop</body>
+    </message>
+    <message id="m0006" time="2014-10-02 22:03:59 UTC" participant="149369">
+      <body>The place on the south west corner used to but I don't know if they still do. If you wanted to go to Frankford there is a good bottle shop</body>
+    </message>
+    <message id="m0007" time="2014-10-02 22:04:56 UTC" participant="149369">
+      <body>It's like a block north of Girard on Frankford but if you don't feel like getting any beer what I'm bringing will probably be fine</body>
+    </message>
+    <message id="m0008" time="2014-10-02 22:14:32 UTC" participant="149369">
+      <body>If you're here now i can just leave and get you</body>
+    </message>
+    <message id="m0009" time="2014-10-02 22:15:32 UTC" participant="149306">
+      <body>I'm on frankford walking towards Godard</body>
+    </message>
+    <message id="m0010" time="2014-10-02 22:15:47 UTC" participant="149306">
+      <body>Gerard</body>
+    </message>
+    <message id="m0011" time="2014-10-02 22:17:04 UTC" participant="149306">
+      <body>I'll meet u at the station</body>
+    </message>
+    <message id="m0012" time="2014-10-02 22:18:54 UTC" participant="149369">
+      <body>Ok</body>
+    </message>
+    <message id="m0013" time="2014-10-02 22:19:20 UTC" participant="149306">
+      <body>I'm there now</body>
+    </message>
+  </messages>
+</conversation>
+

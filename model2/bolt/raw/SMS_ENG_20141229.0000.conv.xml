@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141229.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-29 16:58:25 UTC" participant="152417">
+      <body>Stop</body>
+    </message>
+    <message id="m0002" time="2014-12-29 16:59:04 UTC" participant="152603">
+      <body>You have stopped your IBX alerts.</body>
+    </message>
+  </messages>
+</conversation>
+

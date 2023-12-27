@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0030" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131003" time="2013-05-23 09:27:14 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130602" time="2013-05-23 09:27:44 UTC">
+      <body>Good morning!</body>
+    </message>
+    <message id="m0002" participant="130602" time="2013-05-23 09:28:24 UTC">
+      <body>Okay i am so not that excited</body>
+    </message>
+    <message id="m0003" participant="130602" time="2013-05-23 09:29:14 UTC">
+      <body>I have a friend who is a morning person and its sickening.</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-05-23 09:29:14 UTC">
+      <body>About what?</body>
+    </message>
+    <message id="m0005" participant="131003" time="2013-05-23 09:29:26 UTC">
+      <body>About it being morning ohhhh</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-05-23 09:29:31 UTC">
+      <body>Yeah I've been up for a while. No fun.</body>
+    </message>
+    <message id="m0007" participant="131003" time="2013-05-23 09:30:44 UTC">
+      <body>Haha</body>
+    </message>
+    <message id="m0008" participant="131003" time="2013-05-23 09:42:25 UTC">
+      <body>I guess getting up for work at 6 forces me to be one</body>
+    </message>
+    <message id="m0009" participant="130602" time="2013-05-23 09:45:03 UTC">
+      <body>Yuck. My sympathies.</body>
+    </message>
+  </messages>
+</conversation>

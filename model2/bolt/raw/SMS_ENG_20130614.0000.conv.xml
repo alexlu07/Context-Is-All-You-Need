@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0000" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130970" time="2013-06-14 23:11:44 UTC">
+      <body>I've been a slacker. How's ur weekend starting off?</body>
+    </message>
+    <message id="m0001" participant="130662" time="2013-06-14 23:16:07 UTC">
+      <body>Not yet started! Still working. Clocked up 75 hours this week. I'm half asleep already! How about yourself?</body>
+    </message>
+    <message id="m0002" participant="130970" time="2013-06-14 23:19:27 UTC">
+      <body>Just finished up DJing a pool party. Nothing planned after.</body>
+    </message>
+    <message id="m0003" participant="130662" time="2013-06-14 23:32:18 UTC">
+      <body>Are you into movies? Man of Steel is on!</body>
+    </message>
+    <message id="m0004" participant="130970" time="2013-06-14 23:58:33 UTC">
+      <body>I enjoy movies occasionally but I have never been into superhero flicks</body>
+    </message>
+    <message id="m0005" participant="130970" time="2013-06-15 00:09:00 UTC">
+      <body>I think there is one movie out there I'd like to see but I dont recall the name.</body>
+    </message>
+    <message id="m0006" participant="130970" time="2013-06-15 00:10:36 UTC">
+      <body>I love Johnny Depp and he is starring in The Lone Ranger, but that's not usually my type of movie</body>
+    </message>
+    <message id="m0007" participant="130662" time="2013-06-15 02:33:15 UTC">
+      <body>I see. What kind of movies do you typically watch?</body>
+    </message>
+    <message id="m0008" participant="130970" time="2013-06-15 11:19:16 UTC">
+      <body>Based on True Stories, comedies</body>
+    </message>
+  </messages>
+</conversation>

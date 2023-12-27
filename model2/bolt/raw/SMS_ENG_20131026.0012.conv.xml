@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131026.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-26 00:38:13 UTC" participant="154390">
+      <body>I dont have a fully functioning phone :( the on/off botton for the screen wont turn on unless its plugged in any recommendations?</body>
+    </message>
+    <message id="m0001" time="2013-10-26 00:47:20 UTC" participant="154352">
+      <body>Take off the back and pull the battery out while unplugged, then put it back together and turn it on</body>
+    </message>
+    <message id="m0002" time="2013-10-26 00:48:47 UTC" participant="154390">
+      <body>Tried that... but the power button is still unresponsive</body>
+    </message>
+    <message id="m0003" time="2013-10-26 00:48:50 UTC" participant="154390">
+      <body>Seems like im going to have to buy that new phone sooner than i thought</body>
+    </message>
+    <message id="m0004" time="2013-10-26 20:36:36 UTC" participant="154352">
+      <body>Preparty in room 136</body>
+    </message>
+    <message id="m0005" time="2013-10-26 20:42:49 UTC" participant="154390">
+      <body>U already there?</body>
+    </message>
+    <message id="m0006" time="2013-10-26 20:43:05 UTC" participant="154352">
+      <body>Yes</body>
+    </message>
+    <message id="m0007" time="2013-10-26 20:43:33 UTC" participant="154390">
+      <body>Our room is next to you. 236, im doing my hair noe</body>
+    </message>
+    <message id="m0008" time="2013-10-26 21:27:48 UTC" participant="154390">
+      <body>Coming down ina couple min. How is it?</body>
+    </message>
+    <message id="m0009" time="2013-10-26 21:28:07 UTC" participant="154352">
+      <body>Almost over. Hurry up.</body>
+    </message>
+  </messages>
+</conversation>
+

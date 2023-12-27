@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130522.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133117" time="2013-05-22 20:57:14 UTC">
+      <body>Hope the interview goes well</body>
+    </message>
+    <message id="m0001" participant="133117" time="2013-05-22 20:59:41 UTC">
+      <body>I'll chat with you when I get home</body>
+    </message>
+    <message id="m0002" participant="133111" time="2013-05-22 21:00:03 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

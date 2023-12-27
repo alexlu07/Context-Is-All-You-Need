@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121130.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136727" time="2012-11-30 01:43:08 UTC">
+      <body>Hey bub! Sorry we didn't make it to the dinner :( we'll have to have you and Danielle over sometime soon ok!! Miss ya</body>
+    </message>
+    <message id="m0001" participant="131015" time="2012-11-30 01:47:43 UTC">
+      <body>No worries ma.  I totally understand.  It'd be great to get out the city and see you guys.  Lets make it happen.  Let's keep in touch.</body>
+    </message>
+    <message id="m0002" participant="136727" time="2012-11-30 01:49:07 UTC">
+      <body>Ok sweet! Sunday's Mondays or Tuesday's are best!</body>
+    </message>
+    <message id="m0003" participant="131015" time="2012-11-30 01:54:22 UTC">
+      <body>Ok cool.  I'm always off nights and weekends but Danielle's schedule changes all the time so I'll check in with her when she.gets her new schedules.</body>
+    </message>
+  </messages>
+</conversation>

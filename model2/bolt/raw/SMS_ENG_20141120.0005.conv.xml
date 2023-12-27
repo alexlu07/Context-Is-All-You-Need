@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141120.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-20 00:18:52 UTC" participant="152590">
+      <body>hey sent you one!!</body>
+    </message>
+    <message id="m0001" time="2014-11-20 00:19:21 UTC" participant="152417">
+      <body>Thnx</body>
+    </message>
+    <message id="m0002" time="2014-11-20 00:19:42 UTC" participant="152590">
+      <body>thank youu</body>
+    </message>
+    <message id="m0003" time="2014-11-20 00:43:15 UTC" participant="152590">
+      <body>hey sent you another</body>
+    </message>
+    <message id="m0004" time="2014-11-20 01:39:46 UTC" participant="152417">
+      <body>Ready for more if you've got any</body>
+    </message>
+  </messages>
+</conversation>
+

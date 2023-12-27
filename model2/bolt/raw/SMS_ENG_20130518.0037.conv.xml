@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130873" time="2013-05-18 00:28:20 UTC">
+      <body>Anything slamming happening tonight?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-18 00:30:46 UTC">
+      <body> Hittin up some music out on west Philly</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-18 21:03:03 UTC">
+      <body>Not working, but playing a show - sorry!</body>
+    </message>
+  </messages>
+</conversation>

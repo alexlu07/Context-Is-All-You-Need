@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130808.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-08 18:43:35 UTC" participant="154352">
+      <body>Stevo and Andres are coming over to my place to grill and whatnot tomorrow afternoon/evening. Want to join us?</body>
+    </message>
+    <message id="m0001" time="2013-08-08 18:47:56 UTC" participant="154394">
+      <body>Thanks. I have to go to media for a bit but I can stop by. Time and place? And what to bring?</body>
+    </message>
+    <message id="m0003" time="2013-08-08 18:51:46 UTC" participant="154394">
+      <body>LOL ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0067" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132554" time="2013-06-17 23:47:13 UTC">
+      <body>Yo.. u hete?</body>
+    </message>
+    <message id="m0001" participant="132554" time="2013-06-17 23:47:18 UTC">
+      <body>Here</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-17 23:51:27 UTC">
+      <body>In bed</body>
+    </message>
+    <message id="m0003" participant="132554" time="2013-06-17 23:51:50 UTC">
+      <body>Sup w couchsurfer</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-06-17 23:57:06 UTC">
+      <body>Not here today</body>
+    </message>
+    <message id="m0005" participant="132554" time="2013-06-18 00:00:57 UTC">
+      <body>Oh thought she was</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-18 12:58:38 UTC">
+      <body>Sent u last $50</body>
+    </message>
+    <message id="m0007" participant="132554" time="2013-06-18 13:42:09 UTC">
+      <body>Werd thanks</body>
+    </message>
+  </messages>
+</conversation>

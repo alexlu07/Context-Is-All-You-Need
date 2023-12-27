@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121209.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131505" time="2012-12-09 12:46:21 UTC">
+      <body>What plans, time,  for birthday party?</body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-09 13:07:10 UTC">
+      <body>I don't know. Will let you know when Kathy wakes up.</body>
+    </message>
+    <message id="m0002" participant="131505" time="2012-12-09 14:46:16 UTC">
+      <body>Awake yet? </body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-09 14:48:06 UTC">
+      <body>530 pm</body>
+    </message>
+    <message id="m0004" participant="131505" time="2012-12-09 14:49:41 UTC">
+      <body>Perfect.   I'm bringing balloons.   Want me to get sparkling cider?</body>
+    </message>
+    <message id="m0006" participant="130706" time="2012-12-09 17:29:00 UTC">
+      <body>If you would like. Kathy's not big on sparkling cider. Brandy would be better!</body>
+    </message>
+    <message id="m0007" participant="131505" time="2012-12-09 17:32:45 UTC">
+      <body>Sparkling cider for the kids.  Prosecco for grown-ups.</body>
+    </message>
+    <message id="m0008" participant="130706" time="2012-12-09 17:38:55 UTC">
+      <body>But I could use Brandy better!</body>
+    </message>
+  </messages>
+</conversation>

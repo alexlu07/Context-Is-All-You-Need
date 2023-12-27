@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120917.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135395" time="2012-09-17 23:17:20 UTC">
+      <body>Haha and no. Why</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-17 23:17:39 UTC">
+      <body>I texted her and never heard back </body>
+    </message>
+    <message id="m0002" participant="135395" time="2012-09-17 23:45:04 UTC">
+      <body>She is weird</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-18 01:05:51 UTC">
+      <body>Well should I call her?</body>
+    </message>
+    <message id="m0004" participant="135395" time="2012-09-18 01:12:32 UTC">
+      <body>Yeah. She never answers texts </body>
+    </message>
+    <message id="m0005" participant="135395" time="2012-09-18 01:12:32 UTC">
+      <body>Or phone calls. She didn't answer my text from that day either</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-09-18 13:11:08 UTC">
+      <body>Not til like noon thirty</body>
+    </message>
+    <message id="m0007" participant="135395" time="2012-09-18 13:11:28 UTC">
+      <body>What time do you have class today?</body>
+    </message>
+    <message id="m0008" participant="135395" time="2012-09-18 13:17:52 UTC">
+      <body>Cool. I am at the doctors now. I may take the day off if someone can cover my visit</body>
+    </message>
+  </messages>
+</conversation>

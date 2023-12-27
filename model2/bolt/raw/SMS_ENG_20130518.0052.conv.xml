@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-18 13:51:35 UTC">
+      <body>Hi! Do you know what your timing is for fridge retrieval? Also do you know when Julianne is coming for the other one Nd could you possibly text me her number?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-18 14:14:24 UTC">
+      <body>I'm gonna be at events until 1. The black fridge (yours) is at the end of the hall in front of my room in Lloyd 41. The white fridge (for Julianne) is in the 41 common room. Both are ready to go. </body>
+    </message>
+    <message id="m0003" participant="135267" time="2013-05-18 18:48:32 UTC">
+      <body>We're on our way with the car</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-18 18:53:30 UTC">
+      <body>I won't be there sry!</body>
+    </message>
+    <message id="m0005" participant="135267" time="2013-05-18 18:59:12 UTC">
+      <body>No problem, Elise has your money from Helen :)</body>
+    </message>
+  </messages>
+</conversation>

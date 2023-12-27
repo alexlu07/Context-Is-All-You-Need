@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-15 20:23:44 UTC">
+      <body>are you in noel's morning class? </body>
+    </message>
+    <message id="m0001" participant="136128" time="2013-04-15 20:24:10 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-15 20:25:30 UTC">
+      <body>do y'all have a work day tomorrow or will the darkroom be free? </body>
+    </message>
+    <message id="m0003" participant="136128" time="2013-04-15 20:26:12 UTC">
+      <body>Its a work day. Its our last class</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-15 20:28:01 UTC">
+      <body>nooo. okay. all the stations will be full, then, huh? </body>
+    </message>
+    <message id="m0005" participant="136128" time="2013-04-15 20:30:28 UTC">
+      <body>Maybe..? Idk</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-04-15 20:30:49 UTC">
+      <body>i'll just come in the afternoon. no worries. thanks girl! </body>
+    </message>
+    <message id="m0007" participant="136128" time="2013-04-15 20:31:14 UTC">
+      <body>Sorry!</body>
+    </message>
+  </messages>
+</conversation>

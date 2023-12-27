@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140822.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-22 21:07:21 UTC" participant="153635">
+      <body>How you doin?! Are you in tow!</body>
+    </message>
+    <message id="m0001" time="2014-08-22 21:07:24 UTC" participant="153635">
+      <body>I mean town?</body>
+    </message>
+    <message id="m0002" time="2014-08-22 21:11:00 UTC" participant="153548">
+      <body>Yeah I was gonna go get a beer right now </body>
+    </message>
+    <message id="m0003" time="2014-08-22 21:12:17 UTC" participant="153635">
+      <body>Would you want to get a beer later?!</body>
+    </message>
+    <message id="m0004" time="2014-08-22 21:13:08 UTC" participant="153548">
+      <body>Yeah check with me later! I have to submit a thingy by midnight. Just waiting for grammar corrections right now!</body>
+    </message>
+    <message id="m0005" time="2014-08-22 21:15:11 UTC" participant="153635">
+      <body>Ok!</body>
+    </message>
+  </messages>
+</conversation>
+

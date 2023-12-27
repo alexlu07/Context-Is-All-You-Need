@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130520" time="2013-05-01 15:07:42 UTC">
+      <body>Hi again, how's your day going?</body>
+    </message>
+    <message id="m0001" participant="130526" time="2013-05-01 17:54:43 UTC">
+      <body>Hi! Busy busy budgeting, ick</body>
+    </message>
+    <message id="m0002" participant="130526" time="2013-05-01 17:55:34 UTC">
+      <body>How about you? How was your split pea soup?</body>
+    </message>
+    <message id="m0003" participant="130520" time="2013-05-02 09:55:23 UTC">
+      <body>Sorry, I just saw yr txts now</body>
+    </message>
+    <message id="m0004" participant="130520" time="2013-05-02 09:56:26 UTC">
+      <body>I never made the soup! haha</body>
+    </message>
+  </messages>
+</conversation>

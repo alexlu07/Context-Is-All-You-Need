@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150108.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-08 14:21:52 UTC" participant="153558">
+      <body>I need you to send me my medical records so I can make an apt with a neurologist. I want to know the meds that I reacted badly to.</body>
+    </message>
+    <message id="m0001" time="2015-01-08 14:27:08 UTC" participant="153804">
+      <body>Will do nate but I just started working so when I get home tonight I will get to it</body>
+    </message>
+    <message id="m0002" time="2015-01-08 14:27:24 UTC" participant="153804">
+      <body>when is your appointment</body>
+    </message>
+    <message id="m0003" time="2015-01-08 14:27:45 UTC" participant="153558">
+      <body>I haven't made it yet</body>
+    </message>
+  </messages>
+</conversation>
+

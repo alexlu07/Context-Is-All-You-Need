@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0077" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-05-20 21:18:46 UTC">
+      <body>Hi! Are you still on campus by any chance?</body>
+    </message>
+    <message id="m0001" participant="135264" time="2013-05-20 21:20:00 UTC">
+      <body>I left campus yesterday. I'm currently waiting in a broken a/c area of the airport to board my plane lol. What's up? </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-20 21:21:48 UTC">
+      <body>Haha okay :) if you were I'd want to see you! Safe travels and don't die of heat stroke :P</body>
+    </message>
+    <message id="m0003" participant="135264" time="2013-05-20 21:22:08 UTC">
+      <body>I hope I don't develop heat stroke! Lol. I'll be back for alumni weekend and then mid-June and all of July. We should get together then!!! Have you been enjoying your birthday so far? </body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-20 21:24:12 UTC">
+      <body>Yes! :) I will be in Philly starting June first so I will have to see you then</body>
+    </message>
+    <message id="m0005" participant="135264" time="2013-05-20 21:36:26 UTC">
+      <body>Awesome! I'm Seattle bound. Enjoy the rest of the day! :-)</body>
+    </message>
+  </messages>
+</conversation>

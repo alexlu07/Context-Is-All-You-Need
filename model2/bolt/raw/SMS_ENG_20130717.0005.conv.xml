@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130717.0005" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="133076" time="2013-07-17 10:16:42 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-07-17 12:53:28 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="133076" time="2013-07-17 12:55:01 UTC">
+      <body>How are you :) ?</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-07-17 12:55:51 UTC">
+      <body>Fine thanks</body>
+    </message>
+    <message id="m0004" participant="131003" time="2013-07-17 12:55:51 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0005" participant="133076" time="2013-07-17 12:56:57 UTC">
+      <body>I'm good. How was your weekend ?</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-07-17 13:36:11 UTC">
+      <body>Busy busy!</body>
+    </message>
+    <message id="m0007" participant="131003" time="2013-07-17 13:36:13 UTC">
+      <body>What are you up to today?</body>
+    </message>
+    <message id="m0008" participant="133076" time="2013-07-17 13:38:39 UTC">
+      <body>Enjoying my day off :). What about you?</body>
+    </message>
+    <message id="m0009" participant="133076" time="2013-07-17 13:38:39 UTC">
+      <body>Are you working?</body>
+    </message>
+    <message id="m0010" participant="131003" time="2013-07-17 14:38:36 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0011" participant="131003" time="2013-07-17 14:38:36 UTC">
+      <body>At least im in an air conditioned office building</body>
+    </message>
+    <message id="m0012" participant="131003" time="2013-07-17 14:39:44 UTC">
+      <body>There are guys right outside laying blacktop for a parking lot</body>
+    </message>
+    <message id="m0013" participant="133076" time="2013-07-17 14:40:16 UTC">
+      <body>Yea it's pretty brutal outside. AC all the way!</body>
+    </message>
+    <message id="m0014" participant="133076" time="2013-07-17 14:40:57 UTC">
+      <body>Oh boy! Haha</body>
+    </message>
+  </messages>
+</conversation>

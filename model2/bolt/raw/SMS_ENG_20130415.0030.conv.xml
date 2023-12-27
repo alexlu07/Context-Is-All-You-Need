@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-15 22:58:31 UTC">
+      <body> U free tomorrow</body>
+    </message>
+    <message id="m0001" participant="132553" time="2013-04-16 01:01:54 UTC">
+      <body>Actually not really.  I have class until nine or ten</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-16 01:07:02 UTC">
+      <body>Oh damn. Cool well I'll try u another day then</body>
+    </message>
+  </messages>
+</conversation>

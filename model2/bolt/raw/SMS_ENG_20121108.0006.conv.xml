@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121108.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131053" time="2012-11-08 15:33:26 UTC">
+      <body>Bday weekend!</body>
+    </message>
+    <message id="m0001" participant="130664" time="2012-11-08 15:52:58 UTC">
+      <body>Woo! I'm so excited to see you!</body>
+    </message>
+    <message id="m0002" participant="131053" time="2012-11-08 16:13:06 UTC">
+      <body>Meeee toooo!</body>
+    </message>
+  </messages>
+</conversation>

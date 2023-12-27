@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140321.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-21 22:51:04 UTC" participant="153557">
+      <body>I drank three beers! I want some cheese!</body>
+    </message>
+    <message id="m0001" time="2014-03-21 22:51:29 UTC" participant="153557">
+      <body>I'm gonna head home
+Soon.</body>
+    </message>
+    <message id="m0002" time="2014-03-21 22:58:08 UTC" participant="153557">
+      <body>I wanna pizza</body>
+    </message>
+    <message id="m0003" time="2014-03-21 23:02:24 UTC" participant="153557">
+      <body>Us pick me up!</body>
+    </message>
+    <message id="m0004" time="2014-03-21 23:02:24 UTC" participant="153557">
+      <body>Papa</body>
+    </message>
+    <message id="m0005" time="2014-03-21 23:02:57 UTC" participant="153547">
+      <body>We'll I'm hungry so let's get movin on it. U want me to pick u up? I gotta get dressed</body>
+    </message>
+    <message id="m0006" time="2014-03-21 23:03:53 UTC" participant="153547">
+      <body>U want doc street or papa js</body>
+    </message>
+    <message id="m0007" time="2014-03-21 23:04:32 UTC" participant="153557">
+      <body>What about my bike</body>
+    </message>
+    <message id="m0008" time="2014-03-21 23:06:37 UTC" participant="153547">
+      <body>Oh u have your bike? Just bike back if u can</body>
+    </message>
+    <message id="m0009" time="2014-03-21 23:06:40 UTC" participant="153557">
+      <body>Okay. Leaving in 5</body>
+    </message>
+    <message id="m0010" time="2014-03-21 23:08:56 UTC" participant="153547">
+      <body>What's your papa johns password?</body>
+    </message>
+    <message id="m0012" time="2014-03-21 23:53:36 UTC" participant="153557">
+      <body>It's gonna be 6 more minutes</body>
+    </message>
+    <message id="m0013" time="2014-03-21 23:54:46 UTC" participant="153547">
+      <body>Ok. It'll be hot atleast</body>
+    </message>
+    <message id="m0014" time="2014-03-21 23:55:08 UTC" participant="153557">
+      <body>Yeah that's good</body>
+    </message>
+  </messages>
+</conversation>
+

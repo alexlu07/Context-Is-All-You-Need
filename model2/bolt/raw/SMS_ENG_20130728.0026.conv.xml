@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130728.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-07-28 15:23:31 UTC">
+      <body>Ana, are you still interested in the mower? If I don't hear from you by noon I'm selling it to the second person who contacted me.</body>
+    </message>
+    <message id="m0001" participant="137398" time="2013-07-28 15:29:05 UTC">
+      <body>Yes, I am</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-07-28 15:31:15 UTC">
+      <body>Great! Any specific time frame?</body>
+    </message>
+    <message id="m0003" participant="137398" time="2013-07-28 16:04:24 UTC">
+      <body>I am sorry, my husband disagree, he is getting a newer one. </body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-07-28 16:54:58 UTC">
+      <body>Sounds good. Thanks.</body>
+    </message>
+  </messages>
+</conversation>

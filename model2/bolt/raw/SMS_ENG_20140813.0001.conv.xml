@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140813.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-13 16:55:26 UTC" participant="152560">
+      <body>￼￼￼</body>
+    </message>
+    <message id="m0001" time="2014-08-13 16:59:14 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+    <message id="m0002" time="2014-08-13 16:59:40 UTC" participant="152417">
+      <body>Just when i thought i was done i have to correct my coloquial paper</body>
+    </message>
+    <message id="m0003" time="2014-08-13 16:59:44 UTC" participant="152560">
+      <body>That stinks. How was the exam today?</body>
+    </message>
+    <message id="m0004" time="2014-08-13 17:43:15 UTC" participant="152417">
+      <body>The exam was fun!</body>
+    </message>
+    <message id="m0005" time="2014-08-13 18:04:31 UTC" participant="152560">
+      <body>Can we take a picture together this weekend? It makes me sad that I don't have any of us together. </body>
+    </message>
+    <message id="m0006" time="2014-08-13 18:05:28 UTC" participant="152417">
+      <body>Surely</body>
+    </message>
+    <message id="m0007" time="2014-08-14 15:32:16 UTC" participant="152560">
+      <body>Im outside</body>
+    </message>
+  </messages>
+</conversation>
+

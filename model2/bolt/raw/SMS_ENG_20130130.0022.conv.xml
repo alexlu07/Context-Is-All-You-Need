@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130130.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-30 12:32:59 UTC">
+      <body>Walking to school you en route home? </body>
+    </message>
+    <message id="m0001" participant="135414" time="2013-01-30 13:00:18 UTC">
+      <body>Too late?!</body>
+    </message>
+    <message id="m0002" participant="135414" time="2013-01-30 13:00:33 UTC">
+      <body>I'm just leaving</body>
+    </message>
+    <message id="m0003" participant="135414" time="2013-01-30 13:02:56 UTC">
+      <body>Going to boloco to claim my free burrito</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-30 13:04:31 UTC">
+      <body> Haha</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-01-30 13:04:37 UTC">
+      <body>Yeah class just started </body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-01-30 13:05:14 UTC">
+      <body>I'm standing in the front if the class texting bad teaching assistant</body>
+    </message>
+    <message id="m0007" participant="135414" time="2013-01-30 13:09:20 UTC">
+      <body>Haha nice</body>
+    </message>
+    <message id="m0008" participant="135414" time="2013-01-30 13:10:32 UTC">
+      <body>Angie and I might go swimming tonight if you're free/around 7-9</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-01-30 13:18:55 UTC">
+      <body>Ugh I have class</body>
+    </message>
+  </messages>
+</conversation>

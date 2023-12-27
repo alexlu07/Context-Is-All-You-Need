@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130123.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134286" time="2013-01-23 16:26:16 UTC">
+      <body>Did  u need me today for trade shows?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-01-23 16:27:25 UTC">
+      <body>Yeah if you want to stop in that would be great.  I was going to push till next week since you had a busy day. Actually have some good questions.  </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-01-23 16:27:34 UTC">
+      <body>For you</body>
+    </message>
+    <message id="m0003" participant="134286" time="2013-01-23 16:28:11 UTC">
+      <body>When should I stop?</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-01-23 16:28:27 UTC">
+      <body>Now work? </body>
+    </message>
+    <message id="m0005" participant="134286" time="2013-01-23 16:29:00 UTC">
+      <body>Ok </body>
+    </message>
+  </messages>
+</conversation>

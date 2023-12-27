@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 18:05:02 UTC" participant="152735">
+      <body>See you at 5:30! Can't wait :)</body>
+    </message>
+    <message id="m0001" time="2014-09-15 18:08:00 UTC" participant="152765">
+      <body>See you!!!!!</body>
+    </message>
+    <message id="m0002" time="2014-09-15 21:29:36 UTC" participant="152765">
+      <body>Give me 5</body>
+    </message>
+    <message id="m0003" time="2014-09-15 21:29:58 UTC" participant="152735">
+      <body>Take your time! Im sitting outside :)</body>
+    </message>
+    <message id="m0004" time="2014-09-15 21:30:19 UTC" participant="152735">
+      <body>Do you want me to order you a coffee/tea?!</body>
+    </message>
+  </messages>
+</conversation>
+

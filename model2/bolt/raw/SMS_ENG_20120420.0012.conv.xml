@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120420.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-20 22:08:09 UTC">
+      <body>Me and Brian are going to eat at Thai Xpress at 7th and Wolf if your interested in getting some food. Around 7ish</body>
+    </message>
+    <message id="m0001" participant="131322" time="2012-04-20 22:28:16 UTC">
+      <body>I'm in west Philly so I wouldn't make it, you guys doing anything later</body>
+    </message>
+    <message id="m0002" participant="130692" time="2012-04-20 22:28:24 UTC">
+      <body>Prob just drinking beer</body>
+    </message>
+    <message id="m0003" participant="131322" time="2012-04-21 00:36:16 UTC">
+      <body>I'm off now, what are yall up to?</body>
+    </message>
+    <message id="m0004" participant="131322" time="2012-04-21 00:36:16 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-04-21 00:37:17 UTC">
+      <body>Eating food, we are watching the game at the house when we are done. I'll hit you up when we are walking back</body>
+    </message>
+  </messages>
+</conversation>

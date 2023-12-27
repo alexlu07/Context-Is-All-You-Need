@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 23:09:06 UTC" participant="153547">
+      <body>Hey I don't know if u got my last text. My phone has been screwing up. I just wanted to make sure u can fit me in for a massage on Saturday.</body>
+    </message>
+    <message id="m0001" time="2014-03-20 23:10:39 UTC" participant="153553">
+      <body>Hey! I didn't get your other texts! Can we do Sunday afternoon??</body>
+    </message>
+    <message id="m0002" time="2014-03-20 23:13:33 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0003" time="2014-03-20 23:27:18 UTC" participant="153553">
+      <body>Great! 2pm Sunday ok?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150115.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-15 17:18:56 UTC" participant="153852">
+      <body>How is dog?</body>
+    </message>
+    <message id="m0001" time="2015-01-15 18:34:21 UTC" participant="153848">
+      <body>Scout.  Patty approves. </body>
+    </message>
+  </messages>
+</conversation>
+

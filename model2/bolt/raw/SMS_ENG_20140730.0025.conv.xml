@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 22:36:29 UTC" participant="153244">
+      <body>Any funeral information? </body>
+    </message>
+    <message id="m0001" time="2014-07-30 22:45:31 UTC" participant="153900">
+      <body>I think Saturday</body>
+    </message>
+    <message id="m0002" time="2014-07-30 22:46:42 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141117.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-17 20:08:31 UTC" participant="152783">
+      <body>Yo ingrid what's going on</body>
+    </message>
+    <message id="m0001" time="2014-11-17 23:12:06 UTC" participant="152735">
+      <body>Hi!</body>
+    </message>
+    <message id="m0002" time="2014-11-17 23:12:22 UTC" participant="152735">
+      <body>I'm at last drop til 8 working :) how are you? Free coffee on me if you come in :)</body>
+    </message>
+    <message id="m0003" time="2014-11-17 23:38:01 UTC" participant="152783">
+      <body>I'm back from west virginia. Where's last drop?</body>
+    </message>
+    <message id="m0004" time="2014-11-18 00:16:18 UTC" participant="152735">
+      <body>13th n pine :)</body>
+    </message>
+    <message id="m0005" time="2014-11-18 01:04:45 UTC" participant="152783">
+      <body>You working tomorrow?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131114.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-14 00:26:33 UTC" participant="153491">
+      <body>Starbucks is buy one get one free today??</body>
+    </message>
+    <message id="m0001" time="2013-11-14 00:44:15 UTC" participant="152116">
+      <body>I didn't know that. Why?</body>
+    </message>
+    <message id="m0002" time="2013-11-14 00:45:27 UTC" participant="153491">
+      <body>Someone was posting on Facebook so I was asking if you knew if it was true.</body>
+    </message>
+    <message id="m0003" time="2013-11-14 00:46:40 UTC" participant="152116">
+      <body>Oh no I don't know</body>
+    </message>
+    <message id="m0004" time="2013-11-14 01:26:10 UTC" participant="153491">
+      <body>Are you working?</body>
+    </message>
+    <message id="m0005" time="2013-11-14 01:43:16 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0006" time="2013-11-14 01:43:54 UTC" participant="153491">
+      <body>What time are you done?</body>
+    </message>
+    <message id="m0007" time="2013-11-14 01:59:29 UTC" participant="152116">
+      <body>9</body>
+    </message>
+    <message id="m0008" time="2013-11-14 02:04:40 UTC" participant="153491">
+      <body>Well I'm meeting Victor at Starbucks for coffee.</body>
+    </message>
+    <message id="m0009" time="2013-11-14 02:07:36 UTC" participant="153491">
+      <body>Just letting you know if you're in the mood to get some caffeine.</body>
+    </message>
+    <message id="m0010" time="2013-11-14 02:11:08 UTC" participant="152116">
+      <body>I wish I knew earlier. I already told Eden I'd go over</body>
+    </message>
+    <message id="m0011" time="2013-11-14 02:12:37 UTC" participant="153491">
+      <body>Oh okay. Just wanted to extend the invitation in case you wanted to take advantage of the deal (if it does indeed exist) today hahah. Next time :)</body>
+    </message>
+    <message id="m0012" time="2013-11-14 02:13:55 UTC" participant="152116">
+      <body>Yeah let me know. Getting coffee at starbucks is totally something id do after work.</body>
+    </message>
+    <message id="m0013" time="2013-11-14 02:16:15 UTC" participant="153491">
+      <body>Yea, I thought you might enjoy that. Thought you might be getting out at 11, sorry.</body>
+    </message>
+    <message id="m0014" time="2013-11-14 02:17:07 UTC" participant="152116">
+      <body>It's okay. I only get out at 11 on Tuesdays</body>
+    </message>
+    <message id="m0015" time="2013-11-14 02:17:54 UTC" participant="153491">
+      <body>Oh now I know.</body>
+    </message>
+    <message id="m0016" time="2013-11-14 21:25:21 UTC" participant="153491">
+      <body>Are you working tonight?</body>
+    </message>
+    <message id="m0017" time="2013-11-14 21:26:41 UTC" participant="152116">
+      <body>Yeah</body>
+    </message>
+    <message id="m0018" time="2013-11-14 21:27:58 UTC" participant="153491">
+      <body>What time do you get out?</body>
+    </message>
+    <message id="m0019" time="2013-11-14 21:29:03 UTC" participant="152116">
+      <body>9</body>
+    </message>
+    <message id="m0020" time="2013-11-14 21:34:22 UTC" participant="153491">
+      <body>Oh okay, never mind.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 14:47:08 UTC" participant="153557">
+      <body>Which print of Shawn's do you have, I'm going to get the other one</body>
+    </message>
+    <message id="m0001" time="2014-07-30 15:00:19 UTC" participant="153547">
+      <body>I have both of them</body>
+    </message>
+    <message id="m0002" time="2014-07-30 16:05:57 UTC" participant="153557">
+      <body>Aw okay</body>
+    </message>
+    <message id="m0003" time="2014-07-30 16:29:52 UTC" participant="153557">
+      <body>I'm gonna get one anyway.</body>
+    </message>
+  </messages>
+</conversation>
+

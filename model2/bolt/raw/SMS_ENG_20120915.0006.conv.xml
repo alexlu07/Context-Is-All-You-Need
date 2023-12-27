@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120915.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-09-15 16:08:32 UTC">
+      <body>Did you get either of your packages yet?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-09-16 03:16:16 UTC">
+      <body>I just ordered you a winter coat.  Couldn't help myself :)</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-09-16 05:12:29 UTC">
+      <body>:-P</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110920.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131823" time="2011-09-20 06:25:56 UTC">
+      <body>aaaaaand I think i left my keys in the room</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-09-20 06:26:26 UTC">
+      <body>No you gave them to me I have then</body>
+    </message>
+    <message id="m0002" participant="131823" time="2011-09-20 06:30:20 UTC">
+      <body>Im at your door!</body>
+    </message>
+    <message id="m0003" participant="131823" time="2011-09-20 15:30:30 UTC">
+      <body>Just saw mike manhard. *sighh*</body>
+    </message>
+    <message id="m0004" participant="131821" time="2011-09-20 15:51:03 UTC">
+      <body>Lucky</body>
+    </message>
+    <message id="m0005" participant="131823" time="2011-09-20 18:17:04 UTC">
+      <body>in class whats up</body>
+    </message>
+    <message id="m0006" participant="131821" time="2011-09-20 18:19:51 UTC">
+      <body>I wanted help with psych</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130225.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-25 16:28:12 UTC">
+      <body>Hey Ceasar! It's Sofie! I'm at MIT are you around?</body>
+    </message>
+    <message id="m0001" participant="135477" time="2013-02-25 16:37:34 UTC">
+      <body>Hey Sofie I am not on Campus on Mondays. So sorry to miss you but let's find a time to get together.  This week may be hard but let's see</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-25 16:39:45 UTC">
+      <body>I have spring break in a couple weeks (march 11).  That week would be wonderful to plan something. You let me know what works for you. </body>
+    </message>
+  </messages>
+</conversation>

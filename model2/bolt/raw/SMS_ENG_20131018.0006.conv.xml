@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131018.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-18 02:03:44 UTC" participant="153631">
+      <body>Me neither y'all </body>
+    </message>
+    <message id="m0001" time="2013-10-18 13:20:29 UTC" participant="153548">
+      <body>Are you out today :(</body>
+    </message>
+    <message id="m0002" time="2013-10-18 13:21:00 UTC" participant="153631">
+      <body>Naw I'm on my way</body>
+    </message>
+    <message id="m0003" time="2013-10-18 14:47:10 UTC" participant="153631">
+      <body>Can you lunch? I think Katie would like to join us</body>
+    </message>
+    <message id="m0004" time="2013-10-18 16:08:08 UTC" participant="153548">
+      <body>I'm peeing, then using the microwave!</body>
+    </message>
+    <message id="m0005" time="2013-10-18 16:08:32 UTC" participant="153631">
+      <body>That is my same situation exactly </body>
+    </message>
+  </messages>
+</conversation>
+

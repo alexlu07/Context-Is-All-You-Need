@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141107.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-07 21:29:46 UTC" participant="153900">
+      <body>I forgot to tell you your package came in</body>
+    </message>
+    <message id="m0001" time="2014-11-07 21:41:00 UTC" participant="153244">
+      <body>I know,  I got a notification from Amazon saying it was delivered... im working tonight but if im in your area ill swing by to grab it</body>
+    </message>
+    <message id="m0002" time="2014-11-07 21:41:41 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-11-07 21:53:19 UTC" participant="153900">
+      <body>You never answer my question how much do you owe your credit card</body>
+    </message>
+    <message id="m0004" time="2014-11-07 21:57:23 UTC" participant="153244">
+      <body>Oh I didn't  understand your question bec the typos and I was at work at the time. .. I owe it slot</body>
+    </message>
+    <message id="m0005" time="2014-11-07 21:57:28 UTC" participant="153244">
+      <body>A lot**</body>
+    </message>
+    <message id="m0006" time="2014-11-07 21:58:40 UTC" participant="153900">
+      <body>How much is a lot</body>
+    </message>
+    <message id="m0007" time="2014-11-07 21:59:23 UTC" participant="153900">
+      <body>What ever happen with the baby</body>
+    </message>
+    <message id="m0008" time="2014-11-07 22:00:16 UTC" participant="153244">
+      <body>For now a family member is taking her. And a thousand</body>
+    </message>
+    <message id="m0009" time="2014-11-07 22:00:44 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

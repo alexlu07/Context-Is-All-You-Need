@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140209.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-09 01:07:42 UTC" participant="152846">
+      <body>I had a nice time. Hope you made it home safely !</body>
+    </message>
+    <message id="m0001" time="2014-02-09 01:08:52 UTC" participant="152374">
+      <body>Me too! You guys are a hoot. :)</body>
+    </message>
+    <message id="m0002" time="2014-02-09 01:09:44 UTC" participant="152846">
+      <body>Lol we all are!</body>
+    </message>
+  </messages>
+</conversation>
+

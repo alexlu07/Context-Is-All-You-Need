@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130219.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-19 03:18:05 UTC">
+      <body>Lee.  I was wondering if I could reschedule my laser cutting appointment to Thursday? My designs are done (almost) just thought I should run them by my peers in class tomorrow night... If not that's ok too.  </body>
+    </message>
+    <message id="m0001" participant="135469" time="2013-02-19 03:18:24 UTC">
+      <body>Yes 
+That's fine
+See you tomorrow</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-19 03:19:33 UTC">
+      <body>Great.  See ya! Ill stop
+By around 10 to reschedule with you. Thanks. </body>
+    </message>
+  </messages>
+</conversation>

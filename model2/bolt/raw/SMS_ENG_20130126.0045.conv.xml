@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-01-26 13:03:43 UTC">
+      <body>hi all! this is lauren k#####, and i'm helping brian organize rides to intown. so, if you want a ride to church tomorrow, let me know! </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-01-26 15:05:16 UTC">
+      <body>Hey girl! I'm not going to make it tomorrow because of rush, but starting next weekend I'm in!</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-01-26 15:18:46 UTC">
+      <body>okiedokes, see you then! </body>
+    </message>
+  </messages>
+</conversation>

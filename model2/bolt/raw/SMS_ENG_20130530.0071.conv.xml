@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-05-30 10:27:17 UTC">
+      <body>Can I get a ride? </body>
+    </message>
+    <message id="m0001" participant="137313" time="2013-05-30 10:28:06 UTC">
+      <body>I have to get to school at 7:20...so I suspect you do not want a ride from me haha</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-05-31 03:34:30 UTC">
+      <body>Ride tomorrow? </body>
+    </message>
+    <message id="m0003" participant="137313" time="2013-05-31 10:27:46 UTC">
+      <body>Yep, please try not to be late</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-05-31 10:55:53 UTC">
+      <body>What time are you coming? </body>
+    </message>
+    <message id="m0005" participant="137313" time="2013-05-31 10:56:14 UTC">
+      <body>7:15</body>
+    </message>
+    <message id="m0006" participant="137313" time="2013-05-31 11:14:08 UTC">
+      <body>Outside</body>
+    </message>
+    <message id="m0007" participant="137313" time="2013-05-31 11:17:30 UTC">
+      <body>Coming?</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-05-31 11:18:18 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0009" participant="137313" time="2013-05-31 11:20:33 UTC">
+      <body>I need to go. Please come</body>
+    </message>
+  </messages>
+</conversation>

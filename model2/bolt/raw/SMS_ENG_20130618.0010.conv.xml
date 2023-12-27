@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0010" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130623" time="2013-06-18 11:39:40 UTC">
+      <body>You again? ;)</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-06-18 11:40:05 UTC">
+      <body>Hi again</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-06-18 11:40:56 UTC">
+      <body>I know! I've had a few repeats by now.</body>
+    </message>
+  </messages>
+</conversation>

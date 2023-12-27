@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0021" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-05-21 09:24:39 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-21 10:00:16 UTC">
+      <body>Anyone there?</body>
+    </message>
+    <message id="m0002" participant="130699" time="2013-05-21 10:19:16 UTC">
+      <body>Hello - sorry, just seeing this at work - how's it going?</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-05-21 11:25:35 UTC">
+      <body>Not bad. Just working.</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-05-21 11:25:59 UTC">
+      <body>So I guess we just text back and forth over the course of a day?</body>
+    </message>
+    <message id="m0005" participant="130699" time="2013-05-21 11:28:56 UTC">
+      <body>That's how I understand it. Did you graduate from penn?</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-05-21 12:04:23 UTC">
+      <body>I did not. From Syracuse. You?</body>
+    </message>
+    <message id="m0007" participant="130699" time="2013-05-21 12:17:08 UTC">
+      <body>I graduated penn in 2010 - i just got an email saying I need to re enroll in the program because my username is too specific</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-05-21 12:20:59 UTC">
+      <body>Are you living in Philly area now?</body>
+    </message>
+    <message id="m0009" participant="130699" time="2013-05-21 12:22:27 UTC">
+      <body>Nope, moved to boston after graduation</body>
+    </message>
+    <message id="m0010" participant="130699" time="2013-05-21 12:22:27 UTC">
+      <body>How about you?</body>
+    </message>
+    <message id="m0011" participant="130979" time="2013-05-21 12:37:00 UTC">
+      <body>Yeah outside of philly. From Seattle originally</body>
+    </message>
+    <message id="m0012" participant="130699" time="2013-05-21 12:55:29 UTC">
+      <body>Nice - how do you like philly? I miss it a lot</body>
+    </message>
+    <message id="m0013" participant="130979" time="2013-05-21 15:55:30 UTC">
+      <body>Yeah it is a good town. Great bars and restaurants.</body>
+    </message>
+    <message id="m0014" participant="130979" time="2013-05-21 15:55:50 UTC">
+      <body>How do you like Boston?</body>
+    </message>
+    <message id="m0015" participant="130699" time="2013-05-21 15:58:48 UTC">
+      <body>It's no philly - i miss the diversity and liveliness of philly - but, it's a city that's been good for me with a job - what do you do in philly?</body>
+    </message>
+  </messages>
+</conversation>

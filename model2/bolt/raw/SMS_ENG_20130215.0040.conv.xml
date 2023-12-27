@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-15 23:32:59 UTC">
+      <body>The financial aid forms! </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-02-16 17:18:56 UTC">
+      <body>They are still talking on the corner</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-02-16 17:31:44 UTC">
+      <body>Hurray please give him my thanks</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-02-16 17:31:49 UTC">
+      <body>Gary made some chocolate truffles and I'm bringing you one </body>
+    </message>
+  </messages>
+</conversation>

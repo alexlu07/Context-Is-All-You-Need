@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-24 01:45:29 UTC">
+      <body>Here...and scoping the place out...</body>
+    </message>
+    <message id="m0001" participant="131392" time="2013-05-24 01:46:30 UTC">
+      <body>Neat</body>
+    </message>
+    <message id="m0002" participant="131392" time="2013-05-24 01:47:38 UTC">
+      <body>Neat</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-05-24 01:49:20 UTC">
+      <body>Groovy.</body>
+    </message>
+  </messages>
+</conversation>

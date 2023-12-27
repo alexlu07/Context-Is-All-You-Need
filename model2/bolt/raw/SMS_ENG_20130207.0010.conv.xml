@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-02-07 16:53:49 UTC">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-02-07 16:54:21 UTC">
+      <body>Will stop for food, first</body>
+    </message>
+    <message id="m0002" participant="131282" time="2013-02-07 17:15:27 UTC">
+      <body>starting to drive now</body>
+    </message>
+    <message id="m0003" participant="131281" time="2013-02-07 17:16:01 UTC">
+      <body>K. Eating, will leave in a minute</body>
+    </message>
+  </messages>
+</conversation>

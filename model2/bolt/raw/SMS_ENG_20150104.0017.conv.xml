@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 14:09:04 UTC" participant="153698">
+      <body>Gold standard at 10:20?</body>
+    </message>
+    <message id="m0001" time="2015-01-04 14:11:25 UTC" participant="153548">
+      <body>Perfect see you there!
+</body>
+    </message>
+    <message id="m0002" time="2015-01-04 15:24:28 UTC" participant="153698">
+      <body>Of course we are a bit late. Trying to get out of the house now</body>
+    </message>
+    <message id="m0003" time="2015-01-04 15:25:11 UTC" participant="153548">
+      <body>No problem! I just parked. See you in a few</body>
+    </message>
+    <message id="m0004" time="2015-01-05 04:26:40 UTC" participant="153698">
+      <body>We just got back! In bed asap. Big kiss and see you in VT in a couple of weeks. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111223.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-12-23 22:13:33 UTC">
+      <body>Olive garden by river hills mall</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-12-23 22:14:58 UTC">
+      <body>Please respond upon receipt</body>
+    </message>
+    <message id="m0002" participant="135131" time="2011-12-23 22:18:57 UTC">
+      <body>You're there now?</body>
+    </message>
+    <message id="m0003" participant="135131" time="2011-12-23 22:19:44 UTC">
+      <body>We're out by 25 minutes...</body>
+    </message>
+  </messages>
+</conversation>

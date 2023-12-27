@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140808.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-08 12:07:28 UTC" participant="153560">
+      <body>Yeah. Be there in 15</body>
+    </message>
+    <message id="m0001" time="2014-08-08 12:08:02 UTC" participant="153547">
+      <body>I made a smoothie for you. Are you about ready?</body>
+    </message>
+    <message id="m0002" time="2014-08-08 12:15:08 UTC" participant="153547">
+      <body>Door is unlocked. Just come on in </body>
+    </message>
+  </messages>
+</conversation>
+

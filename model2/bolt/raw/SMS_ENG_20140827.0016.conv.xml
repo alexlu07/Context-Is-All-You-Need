@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140827.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-27 20:11:30 UTC" participant="153804">
+      <body>Hey Marilyn lost my job this week Loreal pulled out of the broker</body>
+    </message>
+    <message id="m0001" time="2014-08-27 20:11:51 UTC" participant="153804">
+      <body>You mentioned you had sold a few of our items if you did</body>
+    </message>
+    <message id="m0002" time="2014-08-28 01:07:58 UTC" participant="153810">
+      <body>Hi there. Sorry to hear you're unemployed.  I was ready to mail a check and then more stuff of yours sold. The globe, platter and salt and peppers. </body>
+    </message>
+    <message id="m0003" time="2014-08-28 01:12:22 UTC" participant="153810">
+      <body>I left today for vacation - visiting my Aunt Flo in Wisconsin. I'll be back next Thursday and I'll get paid for August from the booth and can cut you a check then. </body>
+    </message>
+    <message id="m0004" time="2014-08-28 14:37:29 UTC" participant="153804">
+      <body>Sounds good see you when you get back</body>
+    </message>
+  </messages>
+</conversation>
+

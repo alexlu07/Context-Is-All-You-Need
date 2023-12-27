@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141010.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-10 15:41:55 UTC" participant="152535">
+      <body>Hey Gabi! What time are you getting to boston? Im arriving around 9. </body>
+    </message>
+    <message id="m0001" time="2014-10-10 15:43:08 UTC" participant="152417">
+      <body>Im getting in at 5, i wrote to dorie and i got her number but not her address</body>
+    </message>
+    <message id="m0002" time="2014-10-10 15:44:01 UTC" participant="152535">
+      <body>Cool. Her address is in the email salka sent out. Can't wait to see you!</body>
+    </message>
+    <message id="m0003" time="2014-10-11 02:39:30 UTC" participant="152535">
+      <body>Yo where you at. Im parked at the vfw. Peac</body>
+    </message>
+  </messages>
+</conversation>
+

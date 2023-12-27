@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140412.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-12 18:10:49 UTC" participant="153557">
+      <body>Hey you want a burrito?</body>
+    </message>
+    <message id="m0001" time="2014-04-12 18:11:11 UTC" participant="153547">
+      <body>No thanks</body>
+    </message>
+  </messages>
+</conversation>
+

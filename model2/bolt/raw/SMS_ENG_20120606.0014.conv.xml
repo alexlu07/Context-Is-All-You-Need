@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120606.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136219" time="2012-06-06 21:49:06 UTC">
+      <body>Hey letitia and claire needa place to stay so I offered my house so perhaps you could assist them with access later on?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-06-06 21:49:28 UTC">
+      <body>Alright. I'll call Claire</body>
+    </message>
+    <message id="m0002" participant="136219" time="2012-06-06 22:06:19 UTC">
+      <body>Thanks </body>
+    </message>
+  </messages>
+</conversation>

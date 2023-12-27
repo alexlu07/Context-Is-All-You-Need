@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137382" time="2013-06-13 20:56:18 UTC">
+      <body>Hi, do you still have parking for Saturday available? </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-06-13 20:57:19 UTC">
+      <body>Yes I do.</body>
+    </message>
+    <message id="m0002" participant="137382" time="2013-06-13 20:58:24 UTC">
+      <body>Will I be parked in? Or can I come and leave at anytime?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-06-13 21:28:53 UTC">
+      <body>I can guarantee you can come and go at any time if you leave your keys (so I can keep your car at the end of the driveway).</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-13 21:29:08 UTC">
+      <body>Might be irrelevant depending on when you arrive.</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-06-13 21:30:30 UTC">
+      <body>Or you can have the entire driveway (2 cars) for $60.</body>
+    </message>
+    <message id="m0006" participant="137382" time="2013-06-13 21:30:40 UTC">
+      <body>I'm going to be arriving first thing in morning about 7 and leaving early evening most likely</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-06-13 21:34:44 UTC">
+      <body>If your comfortable leaving your keys and allowing me to move your vehicle, I can guarantee your car is in a position to leave at any time.</body>
+    </message>
+  </messages>
+</conversation>

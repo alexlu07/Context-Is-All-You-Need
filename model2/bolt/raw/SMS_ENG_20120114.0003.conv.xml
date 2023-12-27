@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120114.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-01-14 23:10:16 UTC">
+      <body>Is a van gogh planner on a dresser in my room?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-01-14 23:11:15 UTC">
+      <body>I'll check</body>
+    </message>
+    <message id="m0002" participant="135103" time="2012-01-14 23:16:02 UTC">
+      <body>No planner. Sorry</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-01-14 23:16:15 UTC">
+      <body>Nowhere around the house?</body>
+    </message>
+    <message id="m0004" participant="135103" time="2012-01-14 23:17:09 UTC">
+      <body>I'll keep looking</body>
+    </message>
+  </messages>
+</conversation>

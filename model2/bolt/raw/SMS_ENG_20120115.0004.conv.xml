@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120115.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-01-15 23:18:29 UTC">
+      <body>Can you email me meg and Kate's address?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-01-16 01:54:50 UTC">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>

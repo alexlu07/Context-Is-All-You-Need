@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0037" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131345" time="2013-05-25 19:56:23 UTC">
+      <body>hello how are you!</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-05-25 19:57:34 UTC">
+      <body>Hi... I'm Ok. My name is Donna. What's yours?</body>
+    </message>
+    <message id="m0002" participant="131345" time="2013-05-25 20:01:16 UTC">
+      <body>my name is asdy haha. how did you hear about this study</body>
+    </message>
+    <message id="m0003" participant="130659" time="2013-05-25 20:03:24 UTC">
+      <body>Hi Asdy. That's an interesting name. I saw an add for the study on Craigslist.. I was trying to find a way to make some extra cash and thought this sounded interesting... Maybe I'll win one of the checks</body>
+    </message>
+    <message id="m0004" participant="131345" time="2013-05-25 20:13:38 UTC">
+      <body>ya my mom is quite creative with making up names lol. and thats coo</body>
+    </message>
+    <message id="m0005" participant="131345" time="2013-05-25 20:13:38 UTC">
+      <body>l, jw cause i was told by a friend</body>
+    </message>
+    <message id="m0006" participant="130659" time="2013-05-25 20:49:07 UTC">
+      <body>So... What are you up to this weekend?</body>
+    </message>
+    <message id="m0007" participant="131345" time="2013-05-25 21:40:03 UTC">
+      <body>moving to ny to start work, wbu?</body>
+    </message>
+    <message id="m0008" participant="130659" time="2013-05-25 21:41:18 UTC">
+      <body>Not a thing... Watching tv... What do you do for work?</body>
+    </message>
+    <message id="m0009" participant="131345" time="2013-05-25 22:29:13 UTC">
+      <body>what show? im gonna be doing work in a fashion company for the summer</body>
+    </message>
+    <message id="m0010" participant="130659" time="2013-05-25 22:53:01 UTC">
+      <body>I was watching Law and Order: SVU.... That's cool.. Are you a designer? I'm an editor</body>
+    </message>
+  </messages>
+</conversation>

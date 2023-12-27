@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131224.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-24 00:09:37 UTC" participant="152374">
+      <body>I'm going out to ########### if you want a lift. Leaving whenever #### tells me they're heading over</body>
+    </message>
+    <message id="m0001" time="2013-12-24 00:10:20 UTC" participant="154093">
+      <body>Sure</body>
+    </message>
+    <message id="m0002" time="2013-12-24 00:10:38 UTC" participant="152374">
+      <body>Ok, I'll text you when I hear from him</body>
+    </message>
+    <message id="m0003" time="2013-12-24 01:19:14 UTC" participant="152374">
+      <body>Leaving in 10. Met me in front of my place, my car's right there</body>
+    </message>
+    <message id="m0004" time="2013-12-24 01:19:46 UTC" participant="154093">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

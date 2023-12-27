@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120621.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-21 17:16:51 UTC">
+      <body>Hey I'm at the Thai food place</body>
+    </message>
+    <message id="m0001" participant="136222" time="2012-06-21 17:19:17 UTC">
+      <body>Go to fort g</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-21 17:20:40 UTC">
+      <body>It's not that important that you pay me back right now, there's no rush</body>
+    </message>
+  </messages>
+</conversation>

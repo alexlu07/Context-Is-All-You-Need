@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120725.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135116" time="2012-07-25 21:44:23 UTC">
+      <body>One day, will you be Dot to my George?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-07-26 00:37:47 UTC">
+      <body>Well I'd be anything to your anything. But is that Sunday?</body>
+    </message>
+    <message id="m0002" participant="135116" time="2012-07-26 00:38:43 UTC">
+      <body>Yes it is</body>
+    </message>
+  </messages>
+</conversation>

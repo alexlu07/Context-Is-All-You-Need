@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130530.0073" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-30 16:10:58 UTC">
+      <body>Watermelon 
+Other melon
+Berries
+Lettuce 
+Toothpaste
+Carrots
+Black eyed peas </body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-31 03:37:01 UTC">
+      <body>I am feeling sleepy. Could you send me the teacher's name and email now</body>
+    </message>
+    <message id="m0002" participant="137257" time="2013-05-31 03:37:19 UTC">
+      <body>I'm getting it</body>
+    </message>
+    <message id="m0004" participant="137257" time="2013-05-31 19:14:08 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-05-31 19:14:33 UTC">
+      <body>Aman is not coming after all</body>
+    </message>
+  </messages>
+</conversation>

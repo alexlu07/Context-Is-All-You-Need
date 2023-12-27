@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133317" time="2013-01-05 17:14:40 UTC">
+      <body>Hi, I forgot to ask you when you were here, do you have classes on Monday the 21st? The kids have off from school and I am working from 9am - 3pm</body>
+    </message>
+    <message id="m0001" participant="133056" time="2013-01-05 17:16:06 UTC">
+      <body>I don't have classes! I should be able to watch them</body>
+    </message>
+    <message id="m0002" participant="133317" time="2013-01-05 17:18:56 UTC">
+      <body>That would be great, just let me know as soon as you can.</body>
+    </message>
+    <message id="m0003" participant="133056" time="2013-01-05 17:20:52 UTC">
+      <body>Actually yes, I'll be able to! 9-3?</body>
+    </message>
+    <message id="m0004" participant="133317" time="2013-01-05 17:21:04 UTC">
+      <body>Perfect!!!!! Your an angel!!!</body>
+    </message>
+    <message id="m0005" participant="133056" time="2013-01-05 17:21:32 UTC">
+      <body>Not a problem!</body>
+    </message>
+  </messages>
+</conversation>

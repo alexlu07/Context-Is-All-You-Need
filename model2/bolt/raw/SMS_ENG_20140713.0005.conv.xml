@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140713.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-13 20:15:47 UTC" participant="153547">
+      <body>Hey Adam. What is the story with tiling? My classes start tomorrow.  I got class Monday and Thursday. I could finish tiling on Tuesday and Wednesday if needed</body>
+    </message>
+    <message id="m0001" time="2014-07-13 20:20:16 UTC" participant="153561">
+      <body>Yeah just grouting needs to be done by then. The window wall isn't finished yet bc don't know details still on window</body>
+    </message>
+    <message id="m0002" time="2014-07-13 20:23:18 UTC" participant="153547">
+      <body>What about the floor tiles?</body>
+    </message>
+    <message id="m0003" time="2014-07-13 20:24:19 UTC" participant="153561">
+      <body>Haven't heard anything about them yet. Supposed to come in to NJ cherry hill tmrw but not sure when they're getting to the house. I was assuming Tuesday for floor tile</body>
+    </message>
+  </messages>
+</conversation>
+

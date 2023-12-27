@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-28 03:01:23 UTC" participant="132565">
+      <body>How's the video coming along?</body>
+    </message>
+    <message id="m0001" time="2013-04-28 13:04:59 UTC" participant="130747">
+      <body>My bad i was sleeping last night. Still gotta lot of work to do but will be able to work on more this week. Was mad busy past week</body>
+    </message>
+    <message id="m0002" time="2013-04-28 13:05:33 UTC" participant="132565">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140608.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-08 21:58:24 UTC" participant="153634">
+      <body>can you still talk today?</body>
+    </message>
+    <message id="m0001" time="2014-06-08 22:00:45 UTC" participant="153548">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" time="2014-06-08 22:01:00 UTC" participant="153634">
+      <body>cool when works for you?</body>
+    </message>
+    <message id="m0003" time="2014-06-08 22:01:52 UTC" participant="153548">
+      <body>Anytime! I'll probably eat dinner around 7:00 my time!</body>
+    </message>
+    <message id="m0004" time="2014-06-08 22:02:38 UTC" participant="153634">
+      <body>k maybe in ~10 mins?</body>
+    </message>
+    <message id="m0005" time="2014-06-08 22:07:39 UTC" participant="153548">
+      <body>Sounds good.</body>
+    </message>
+  </messages>
+</conversation>
+

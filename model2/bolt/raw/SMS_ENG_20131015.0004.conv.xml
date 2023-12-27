@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131015.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-15 13:10:25 UTC" participant="153449">
+      <body>4/16/74...</body>
+    </message>
+    <message id="m0001" time="2013-10-15 13:10:50 UTC" participant="153418">
+      <body>And your social security?</body>
+    </message>
+    <message id="m0002" time="2013-10-15 13:11:26 UTC" participant="153449">
+      <body>Will not give the school my my social.....</body>
+    </message>
+    <message id="m0003" time="2013-10-15 13:12:02 UTC" participant="153449">
+      <body>I'm going bAck to sleep</body>
+    </message>
+    <message id="m0004" time="2013-10-15 13:12:27 UTC" participant="153418">
+      <body>What school?</body>
+    </message>
+    <message id="m0005" time="2013-10-15 13:13:07 UTC" participant="153418">
+      <body>I'll talk to you about this later then. </body>
+    </message>
+    <message id="m0006" time="2013-10-15 13:14:20 UTC" participant="153449">
+      <body>No</body>
+    </message>
+    <message id="m0007" time="2013-10-15 22:23:16 UTC" participant="153418">
+      <body>You free now?</body>
+    </message>
+    <message id="m0008" time="2013-10-15 22:33:04 UTC" participant="153418">
+      <body>I'll just text it since you're probably working all night. I'm trying to sign you as a beneficiary to the life insurance plan that I am currently receiving from my employer. This is not related in any way to any school. In order to do this, I need your social. If you don't feel comfortable providing that, I'll just leave you off as a beneficiary. </body>
+    </message>
+    <message id="m0009" time="2013-10-16 04:51:09 UTC" participant="153418">
+      <body>I'll mark you down. I fell asleep. Sorry about that. </body>
+    </message>
+    <message id="m0010" time="2013-10-16 12:53:10 UTC" participant="153418">
+      <body>Could you also give me your address whenever you're free?</body>
+    </message>
+  </messages>
+</conversation>
+

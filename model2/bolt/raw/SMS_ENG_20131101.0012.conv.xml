@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131101.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-01 18:23:08 UTC" participant="152734">
+      <body>Hey Caitlin - do you think I could borrow your clippers for lucky sometime this weekend? I'll buy blades etc. if not, no problem at all - I was gonna use Jill's but they're busted! </body>
+    </message>
+    <message id="m0001" time="2013-11-01 18:25:04 UTC" participant="153301">
+      <body>No problem. They are upstairs. I need to get my blades sharpened too :/</body>
+    </message>
+    <message id="m0002" time="2013-11-01 19:03:32 UTC" participant="152734">
+      <body>Awesome, thank you!! </body>
+    </message>
+  </messages>
+</conversation>
+

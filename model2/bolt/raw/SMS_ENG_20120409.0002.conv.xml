@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120409.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131327" time="2012-04-09 22:28:16 UTC">
+      <body>Hey Noah I'm in class but tomorrow at 4 would work to meet</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-04-09 22:29:52 UTC">
+      <body>Sounds good, where should I meet you?</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-04-09 22:39:27 UTC">
+      <body>Ok, I'll be there at 4 tomm. I'll have the finished budget report, receipts, and leftover cash. Do you guys have the $300 at hand?</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-04-09 22:48:48 UTC">
+      <body>Awesome, thanks. See you guys tomm.</body>
+    </message>
+    <message id="m0005" participant="131327" time="2012-04-09 22:49:36 UTC">
+      <body>Yes we do</body>
+    </message>
+  </messages>
+</conversation>

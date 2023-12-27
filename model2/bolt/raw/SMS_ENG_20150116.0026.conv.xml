@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150116.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-16 15:44:09 UTC" participant="153804">
+      <body>Are you working today?</body>
+    </message>
+    <message id="m0001" time="2015-01-16 15:44:56 UTC" participant="153821">
+      <body>Sure am how about you?</body>
+    </message>
+    <message id="m0002" time="2015-01-16 15:45:25 UTC" participant="153821">
+      <body>Lol Jan 25 Sunday is the only day I'm not! </body>
+    </message>
+    <message id="m0003" time="2015-01-16 15:49:41 UTC" participant="153804">
+      <body>No I'm home today trying to figure out how to put nine days worth of work in to get paid and the weather is bad here</body>
+    </message>
+    <message id="m0004" time="2015-01-17 13:52:07 UTC" participant="153804">
+      <body>Are you working this morning?</body>
+    </message>
+  </messages>
+</conversation>
+

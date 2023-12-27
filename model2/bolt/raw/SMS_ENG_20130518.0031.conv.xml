@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130518.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131502" time="2013-05-18 23:55:44 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0001" participant="131502" time="2013-05-18 23:55:44 UTC">
+      <body>Whatever is cheap</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-05-18 23:56:46 UTC">
+      <body>Our of Herding Cats</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-05-18 23:57:19 UTC">
+      <body>Mondavi?</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-05-18 23:57:36 UTC">
+      <body>Cabernet/Merlo?</body>
+    </message>
+    <message id="m0005" participant="131502" time="2013-05-18 23:57:52 UTC">
+      <body>Don't care</body>
+    </message>
+  </messages>
+</conversation>

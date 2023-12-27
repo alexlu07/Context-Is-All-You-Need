@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 14:09:04 UTC" participant="153413">
+      <body>The files too big</body>
+    </message>
+    <message id="m0001" time="2015-03-12 14:09:04 UTC" participant="153413">
+      <body>I sent it on google drive</body>
+    </message>
+    <message id="m0002" time="2015-03-12 14:09:53 UTC" participant="153412">
+      <body>Okay. Oh. Makes sense. That's how I sent it to you. </body>
+    </message>
+    <message id="m0003" time="2015-03-12 14:12:14 UTC" participant="153412">
+      <body>Gracias. So it makes sense?</body>
+    </message>
+    <message id="m0004" time="2015-03-12 14:13:20 UTC" participant="153413">
+      <body>Mhmm</body>
+    </message>
+    <message id="m0005" time="2015-03-12 14:13:56 UTC" participant="153412">
+      <body>Awesome sauce!</body>
+    </message>
+    <message id="m0006" time="2015-03-12 14:40:32 UTC" participant="153412">
+      <body>What the heck. Mommy is dragging me to the eyeglass store and then the grocery store and then if the car people call she told me I'm going with her. </body>
+    </message>
+    <message id="m0007" time="2015-03-12 14:40:47 UTC" participant="153412">
+      <body>Heck no!!! Mikes ain't gonna be by herself. </body>
+    </message>
+    <message id="m0008" time="2015-03-12 14:40:51 UTC" participant="153412">
+      <body>*himself</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135305" time="2013-04-11 11:58:56 UTC">
+      <body>Yo dude who's driving?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-11 12:00:30 UTC">
+      <body>No me importa...do you have a preference?</body>
+    </message>
+    <message id="m0002" participant="135305" time="2013-04-11 12:20:10 UTC">
+      <body>I can drive</body>
+    </message>
+    <message id="m0003" participant="135305" time="2013-04-11 12:24:32 UTC">
+      <body>Alright let's roll</body>
+    </message>
+  </messages>
+</conversation>

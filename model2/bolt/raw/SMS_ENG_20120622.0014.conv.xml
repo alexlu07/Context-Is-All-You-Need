@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120622.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-06-22 17:27:39 UTC" participant="153418">
+      <body>I'm at the I-house. Let me know when you're around.</body>
+    </message>
+    <message id="m0001" time="2012-06-22 17:30:15 UTC" participant="153439">
+      <body>I'm so sorry....but i cannot go today...
+I forgot telling that......
+I'm sorry...</body>
+    </message>
+    <message id="m0002" time="2012-06-22 17:32:32 UTC" participant="153418">
+      <body>Ah, okay. Please let me know next time. When will you be able to meet up again?</body>
+    </message>
+    <message id="m0003" time="2012-06-22 17:38:42 UTC" participant="153439">
+      <body>Sorry....
+I will be free on Sunday! </body>
+    </message>
+    <message id="m0004" time="2012-06-22 17:54:57 UTC" participant="153418">
+      <body>Do you want to meet up on Sunday then? If so, what time would be good for you?</body>
+    </message>
+    <message id="m0005" time="2012-06-22 18:34:00 UTC" participant="153439">
+      <body>13:30 is good.</body>
+    </message>
+    <message id="m0006" time="2012-06-22 18:40:32 UTC" participant="153418">
+      <body>Okay. I'll see you then.</body>
+    </message>
+    <message id="m0007" time="2012-06-22 18:41:15 UTC" participant="153439">
+      <body>Thank you:)</body>
+    </message>
+  </messages>
+</conversation>
+

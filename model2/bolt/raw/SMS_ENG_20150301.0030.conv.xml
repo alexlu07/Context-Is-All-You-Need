@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150301.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-01 13:38:12 UTC" participant="153804">
+      <body>Are you breaking in the newest kitchen aid today?</body>
+    </message>
+    <message id="m0001" time="2015-03-01 13:38:42 UTC" participant="153809">
+      <body>I'm too busy cleaning out my disgusting refrigerator</body>
+    </message>
+    <message id="m0002" time="2015-03-01 13:39:01 UTC" participant="153804">
+      <body>Good good day for that</body>
+    </message>
+    <message id="m0003" time="2015-03-01 13:39:46 UTC" participant="153809">
+      <body>Is it as cold out?</body>
+    </message>
+    <message id="m0004" time="2015-03-01 13:40:12 UTC" participant="153804">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

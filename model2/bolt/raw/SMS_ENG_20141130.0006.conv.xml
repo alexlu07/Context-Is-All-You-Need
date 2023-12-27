@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141130.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-30 03:23:06 UTC" participant="153417">
+      <body>I'm staying at Charles house tonight</body>
+    </message>
+    <message id="m0001" time="2014-11-30 03:24:02 UTC" participant="153421">
+      <body>Okay </body>
+    </message>
+  </messages>
+</conversation>
+

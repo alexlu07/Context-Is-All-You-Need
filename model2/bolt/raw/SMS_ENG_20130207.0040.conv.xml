@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-07 12:29:59 UTC" participant="152555">
+      <body>Hola:) are you staying for the 1/2 day today?</body>
+    </message>
+    <message id="m0001" time="2013-02-07 12:31:01 UTC" participant="152555">
+      <body>Anywho... If youre on your way, would you be able to give me a ride this am? </body>
+    </message>
+    <message id="m0002" time="2013-02-07 12:31:21 UTC" participant="152417">
+      <body>Yep, see you soon</body>
+    </message>
+    <message id="m0003" time="2013-02-07 12:36:42 UTC" participant="152417">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>
+

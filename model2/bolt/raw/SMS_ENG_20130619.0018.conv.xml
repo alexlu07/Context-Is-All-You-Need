@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-06-19 03:53:55 UTC">
+      <body>You watching this? </body>
+    </message>
+    <message id="m0001" participant="134300" time="2013-06-19 03:55:20 UTC">
+      <body>Barely. My damn Internet is off cause something is wrong with Verizon. I'm watching a distorted version on my iPad. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-19 03:55:49 UTC">
+      <body>Its on TV </body>
+    </message>
+    <message id="m0003" participant="134300" time="2013-06-19 03:56:45 UTC">
+      <body>I have no cable Internet or of one service</body>
+    </message>
+  </messages>
+</conversation>

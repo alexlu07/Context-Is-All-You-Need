@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140303.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-03 20:28:48 UTC" participant="153601">
+      <body>Hey Lindsey! I have a quick video question for you, are you around?</body>
+    </message>
+    <message id="m0001" time="2014-03-03 20:55:48 UTC" participant="153548">
+      <body>Hey! I'm teaching til 5 Then heading to NY! Can I call you from the train?</body>
+    </message>
+    <message id="m0002" time="2014-03-03 21:09:20 UTC" participant="153601">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>
+

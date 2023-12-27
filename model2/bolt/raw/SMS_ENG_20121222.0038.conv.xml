@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121222.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-22 05:00:50 UTC">
+      <body>What's the plan</body>
+    </message>
+    <message id="m0001" participant="136204" time="2012-12-22 09:01:20 UTC">
+      <body>Idk, text me! We are yoloing this</body>
+    </message>
+    <message id="m0002" participant="136204" time="2012-12-22 16:21:20 UTC">
+      <body>I spent the night in Long Island so I can take the LIRR either to penn or Atlantic at some point depending on the plan</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-22 17:23:41 UTC">
+      <body>Well I'm going to be busy during the day so I will meet you at your house tonight at like 8 or 9?</body>
+    </message>
+    <message id="m0004" participant="136204" time="2012-12-22 17:25:20 UTC">
+      <body>Ok, sounds good</body>
+    </message>
+    <message id="m0005" participant="136204" time="2012-12-22 21:47:27 UTC">
+      <body>Feel free to bring a pint of ice cream</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-12-22 21:57:23 UTC">
+      <body>Munchies though</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-12-23 00:29:26 UTC">
+      <body>Kk I am cummin</body>
+    </message>
+    <message id="m0008" participant="136204" time="2012-12-23 00:29:42 UTC">
+      <body>Yayyyy</body>
+    </message>
+  </messages>
+</conversation>

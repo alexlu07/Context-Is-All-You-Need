@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140406.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-06 15:51:15 UTC" participant="153548">
+      <body>Hey! It looks like you might be on a trip, but if not- do you have a CF card reader? Can't finding anywhere!</body>
+    </message>
+    <message id="m0001" time="2014-04-06 16:29:52 UTC" participant="153631">
+      <body>I think I might but I'll have to look for it. I'll be home tomorrow!</body>
+    </message>
+    <message id="m0002" time="2014-04-06 16:31:43 UTC" participant="153548">
+      <body>Sweet! Safe travels. The sun is finally out!</body>
+    </message>
+  </messages>
+</conversation>
+

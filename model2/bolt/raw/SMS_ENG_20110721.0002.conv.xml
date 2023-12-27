@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110721.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135099" time="2011-07-21 21:22:53 UTC">
+      <body>Are you going to megan's play tonight?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-21 21:23:16 UTC">
+      <body>Yea I am! Are you?</body>
+    </message>
+    <message id="m0002" participant="135099" time="2011-07-21 21:24:36 UTC">
+      <body>Oh yes. with mundo and sam and possibly tyler.</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-21 21:26:36 UTC">
+      <body>Yay :) I'll see you there!</body>
+    </message>
+  </messages>
+</conversation>

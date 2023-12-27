@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131004.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-04 20:17:26 UTC" participant="153418">
+      <body>Hey Jim, sorry for calling while you were driving; I didn't hear your voice mail until after I called. So, I'll be bringing in my stuff on Wednesday the 9th, probably around noon or early afternoon. I'll get you a better time frame at a later date. </body>
+    </message>
+    <message id="m0001" time="2013-10-04 20:18:25 UTC" participant="153418">
+      <body>I scheduled for a cable service installation on Thursday the 10th between 1PM and 3PM. I'll be around for both of these appointments. </body>
+    </message>
+    <message id="m0002" time="2013-10-04 20:19:23 UTC" participant="153418">
+      <body>I also contacted BGE 2 days ago and set up an account with them. If they haven't already, they should be contacting you.</body>
+    </message>
+    <message id="m0003" time="2013-10-04 20:20:43 UTC" participant="153448">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

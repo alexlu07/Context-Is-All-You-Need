@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140708.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-08 01:10:24 UTC" participant="153561">
+      <body>Hey sorry to text late just got out of band practice. I have to pick up stuff from Avalon before I get there so you can ride with me and go there or meet me there. I can pick you up at 730 if you want to ride with me. </body>
+    </message>
+    <message id="m0001" time="2014-07-08 01:11:49 UTC" participant="153547">
+      <body>If I meet u there, what time?</body>
+    </message>
+    <message id="m0002" time="2014-07-08 01:12:02 UTC" participant="153561">
+      <body>830</body>
+    </message>
+    <message id="m0003" time="2014-07-08 01:12:10 UTC" participant="153547">
+      <body>I'll meet u there</body>
+    </message>
+    <message id="m0004" time="2014-07-08 01:12:21 UTC" participant="153561">
+      <body>Cool. Thanks for helping. </body>
+    </message>
+    <message id="m0005" time="2014-07-08 12:39:28 UTC" participant="153561">
+      <body>The door is unlocked I'm all the way up on 3rd floor. Dog is harmless. </body>
+    </message>
+  </messages>
+</conversation>
+

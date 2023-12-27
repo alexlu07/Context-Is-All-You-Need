@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130523.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130826" time="2013-05-23 22:38:27 UTC">
+      <body>Hey loco Pez was a bust so no tacos. Sorry. Do you want us to pick something up for you like a falafel? Also is there booze? If not maybe we can pick up</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-23 22:39:40 UTC">
+      <body>We's good on beerz. Whatever y'all are doing is good with me</body>
+    </message>
+    <message id="m0002" participant="130826" time="2013-05-23 22:42:03 UTC">
+      <body>We're getting artisan hot dogs at Memphis taproom. Let me know if you want to know the choices :-)</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-05-23 22:42:39 UTC">
+      <body>Anything veggie, thnx!</body>
+    </message>
+    <message id="m0004" participant="130826" time="2013-05-23 22:46:31 UTC">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141005.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-05 15:40:14 UTC" participant="153645">
+      <body>Hey! I hope you are good! Looks like you got a bunch going on - but if you want to meet at the studio next Saturday for a couple of hours that would be amazing! </body>
+    </message>
+    <message id="m0001" time="2014-10-05 15:46:02 UTC" participant="153548">
+      <body>I'm so sorry I didn't get back to you sooner! Was in VA and working so much! I can do a few hours next Saturday. We head to New Jersey in the afternoon. Wanna say 10:30???</body>
+    </message>
+    <message id="m0002" time="2014-10-05 15:47:12 UTC" participant="153645">
+      <body>It's no problem - can't wait to hear about everything!! Sounds exciting. - yes - 10:30 is perfect! </body>
+    </message>
+    <message id="m0003" time="2014-10-05 15:47:38 UTC" participant="153548">
+      <body>Awesome! Hope you have a good week!</body>
+    </message>
+    <message id="m0004" time="2014-10-05 15:48:27 UTC" participant="153645">
+      <body>You too! </body>
+    </message>
+  </messages>
+</conversation>
+

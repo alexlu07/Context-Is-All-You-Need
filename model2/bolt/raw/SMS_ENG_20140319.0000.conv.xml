@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140319.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-19 13:28:51 UTC" participant="152417">
+      <body>I got the clarinet on ebay for 120!</body>
+    </message>
+    <message id="m0001" time="2014-03-19 13:30:40 UTC" participant="152560">
+      <body>Oh great! I will give you the loot for it. Happy birthday!</body>
+    </message>
+    <message id="m0002" time="2014-03-19 19:29:24 UTC" participant="152417">
+      <body>Somebody robbed the store next to guitarcenter so its a crime scene right now</body>
+    </message>
+    <message id="m0003" time="2014-03-19 19:50:24 UTC" participant="152560">
+      <body>That's horrible! </body>
+    </message>
+  </messages>
+</conversation>
+

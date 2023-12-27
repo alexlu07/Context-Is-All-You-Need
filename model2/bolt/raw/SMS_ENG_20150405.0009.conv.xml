@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150405.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-05 04:15:39 UTC" participant="152116">
+      <body>We couldn't get tickets. It said unable to reserve spots. I think it might be sold out :(</body>
+    </message>
+    <message id="m0001" time="2015-04-05 04:15:46 UTC" participant="152116">
+      <body>I'll try again tomorrow.</body>
+    </message>
+    <message id="m0002" time="2015-04-05 04:16:06 UTC" participant="153491">
+      <body>Wtf??????!</body>
+    </message>
+    <message id="m0003" time="2015-04-05 04:37:04 UTC" participant="153491">
+      <body>It is sold out.</body>
+    </message>
+    <message id="m0004" time="2015-04-05 04:37:07 UTC" participant="153491">
+      <body>I just checked.</body>
+    </message>
+    <message id="m0005" time="2015-04-05 16:18:55 UTC" participant="152116">
+      <body>That sucks.</body>
+    </message>
+    <message id="m0006" time="2015-04-05 16:19:24 UTC" participant="152116">
+      <body>We were already planning looking into hotel rooms and making a weekend out of it</body>
+    </message>
+    <message id="m0007" time="2015-04-05 17:34:44 UTC" participant="153491">
+      <body>Me too.</body>
+    </message>
+    <message id="m0008" time="2015-04-05 17:42:07 UTC" participant="153491">
+      <body>Apparently, it sold out two minutes after it went on sale.</body>
+    </message>
+    <message id="m0009" time="2015-04-05 17:42:48 UTC" participant="153491">
+      <body>Someone commented that there are 500 tickets available on scalper sites but they're charging a ridiculous amount for it!</body>
+    </message>
+    <message id="m0010" time="2015-04-05 17:50:20 UTC" participant="152116">
+      <body>Yeah I thought so</body>
+    </message>
+    <message id="m0011" time="2015-04-05 17:50:46 UTC" participant="152116">
+      <body>But damn, two minutes??</body>
+    </message>
+    <message id="m0012" time="2015-04-05 18:02:49 UTC" participant="153491">
+      <body>That's what someone wrote.</body>
+    </message>
+  </messages>
+</conversation>
+

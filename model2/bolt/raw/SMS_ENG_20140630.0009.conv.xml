@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140630.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-30 17:01:32 UTC" participant="153900">
+      <body>So what are you doing this weekend</body>
+    </message>
+    <message id="m0001" time="2014-06-30 18:26:23 UTC" participant="153900">
+      <body>What about Friday</body>
+    </message>
+    <message id="m0002" time="2014-06-30 21:51:40 UTC" participant="153244">
+      <body>Friday - dr office closed, oogies from 4-11</body>
+    </message>
+    <message id="m0003" time="2014-06-30 22:14:40 UTC" participant="153900">
+      <body>Do you want to go to the zoo Friday</body>
+    </message>
+    <message id="m0004" time="2014-06-30 22:32:58 UTC" participant="153244">
+      <body>Maybe.. ill let you know</body>
+    </message>
+    <message id="m0005" time="2014-06-30 22:33:50 UTC" participant="153900">
+      <body>Ok we will in early and be back by 1</body>
+    </message>
+    <message id="m0006" time="2014-06-30 22:37:02 UTC" participant="153244">
+      <body>Ok good.. ill let you know today or tomorrow</body>
+    </message>
+    <message id="m0007" time="2014-07-01 15:39:53 UTC" participant="153900">
+      <body>Hey did you buy one direction tickets off of stub hub</body>
+    </message>
+  </messages>
+</conversation>
+

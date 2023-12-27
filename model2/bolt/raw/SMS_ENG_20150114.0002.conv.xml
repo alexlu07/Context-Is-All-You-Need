@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150114.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-14 22:39:59 UTC" participant="152735">
+      <body>Seeeee you at 8</body>
+    </message>
+    <message id="m0001" time="2015-01-14 22:56:20 UTC" participant="152735">
+      <body>(Are we still watching the doc? Nooo pressure!)</body>
+    </message>
+    <message id="m0002" time="2015-01-14 22:58:08 UTC" participant="152774">
+      <body>Yes! See ya soon</body>
+    </message>
+    <message id="m0003" time="2015-01-15 00:54:58 UTC" participant="152735">
+      <body>Finding parking </body>
+    </message>
+    <message id="m0004" time="2015-01-15 00:55:11 UTC" participant="152774">
+      <body>Okay!</body>
+    </message>
+    <message id="m0005" time="2015-01-15 01:01:12 UTC" participant="152735">
+      <body>Address?</body>
+    </message>
+    <message id="m0007" time="2015-01-15 01:04:23 UTC" participant="152735">
+      <body>Here </body>
+    </message>
+  </messages>
+</conversation>
+

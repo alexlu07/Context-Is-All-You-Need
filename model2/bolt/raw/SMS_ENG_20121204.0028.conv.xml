@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121204.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136730" time="2012-12-04 17:55:14 UTC">
+      <body>Are you coming for dinner tomorrow</body>
+    </message>
+    <message id="m0001" participant="131015" time="2012-12-04 18:12:08 UTC">
+      <body>I'm not sure if I can. Danielle has off work tomorrow but I don't know. What time do you guys usually do it?</body>
+    </message>
+    <message id="m0002" participant="136730" time="2012-12-04 18:14:54 UTC">
+      <body>Prob 6. Let me know so ill make enough. U can come earlier n hang out</body>
+    </message>
+    <message id="m0003" participant="131015" time="2012-12-04 18:32:11 UTC">
+      <body>Yeah, that's not gonna work out. I usually work passed 6 everyday.</body>
+    </message>
+    <message id="m0004" participant="136730" time="2012-12-04 18:37:28 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140603.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-03 17:15:33 UTC" participant="149360">
+      <body>Do u need any brushes?</body>
+    </message>
+    <message id="m0001" time="2014-06-03 17:33:45 UTC" participant="149306">
+      <body>There are some small ones in the basement but a 3 in brush would be nice but not critical</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130583" time="2013-07-11 13:21:16 UTC">
+      <body>Hi, 'princess. 'S new?</body>
+    </message>
+    <message id="m0001" participant="130995" time="2013-07-11 13:24:06 UTC">
+      <body>Hi jurgen. All is well here. How's your day going?</body>
+    </message>
+    <message id="m0002" participant="130583" time="2013-07-11 13:27:22 UTC">
+      <body>Eh, not too bad. Started out with a car-share car, i'm still learning the ropes of that operation.</body>
+    </message>
+    <message id="m0003" participant="130995" time="2013-07-11 14:13:06 UTC">
+      <body>I hear they come in handy.</body>
+    </message>
+    <message id="m0004" participant="130583" time="2013-07-11 15:43:47 UTC">
+      <body>Oh yeah. Daughter's home on vacation &amp; using the family car. I mostly use transit, but I need a car a couple times a week for shopping etc.</body>
+    </message>
+  </messages>
+</conversation>

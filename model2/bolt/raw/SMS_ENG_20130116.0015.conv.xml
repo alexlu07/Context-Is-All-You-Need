@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130116.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135422" time="2013-01-16 15:46:52 UTC">
+      <body>Hi Sof!! How's your sched these days? I need to take a trip... :) </body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-16 15:49:54 UTC">
+      <body>Yo  I'm free Sunday night thru Tuesday if U wanna come soon </body>
+    </message>
+    <message id="m0002" participant="135422" time="2013-01-16 15:51:38 UTC">
+      <body>Dang, that is opposite me! I have thurs-sat freeeeee </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-16 15:53:05 UTC">
+      <body>Whoa bummer.  What's new?</body>
+    </message>
+    <message id="m0004" participant="135422" time="2013-01-16 18:28:55 UTC">
+      <body>I'm at work! My nose is stuffy! </body>
+    </message>
+  </messages>
+</conversation>

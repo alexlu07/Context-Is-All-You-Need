@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140925.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-25 23:30:08 UTC" participant="152650">
+      <body>You are invited for brunch at 11:00 on Sunday. Can you come? </body>
+    </message>
+    <message id="m0001" time="2014-09-26 00:16:55 UTC" participant="152417">
+      <body>Yep! Can't wait</body>
+    </message>
+  </messages>
+</conversation>
+

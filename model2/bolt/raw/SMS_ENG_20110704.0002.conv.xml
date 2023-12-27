@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110704.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2011-07-04 18:33:04 UTC">
+      <body>Is everything ok?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-04 18:34:29 UTC">
+      <body>Yea I'm at express health care and the charging system is weird so I wanted to ask you about it but I just went in anyway</body>
+    </message>
+    <message id="m0002" participant="135103" time="2011-07-04 19:16:05 UTC">
+      <body>There was no picture at the website </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-04 19:16:30 UTC">
+      <body>??</body>
+    </message>
+    <message id="m0004" participant="135103" time="2011-07-04 19:18:18 UTC">
+      <body>I went to the website that said there was a video or picture and there wasn't one</body>
+    </message>
+  </messages>
+</conversation>

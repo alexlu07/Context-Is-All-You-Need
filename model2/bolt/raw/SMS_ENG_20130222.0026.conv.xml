@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131028" time="2013-02-22 17:33:16 UTC">
+      <body>Finally sent #### the ###### deposit! I suck- sorry it took forever! I miss you. Lets talk soon!</body>
+    </message>
+    <message id="m0001" participant="131028" time="2013-02-22 17:34:13 UTC">
+      <body>Are you guys flying into la or Fresno?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-02-22 18:28:05 UTC">
+      <body>Awesome!! We're not sure yet. We'll decide based on dates and prices.</body>
+    </message>
+    <message id="m0003" participant="131028" time="2013-02-22 23:24:17 UTC">
+      <body>oh ok. I'm not sure if we're gonna stay the whole time but we will be there for at least 2 nights I think</body>
+    </message>
+  </messages>
+</conversation>

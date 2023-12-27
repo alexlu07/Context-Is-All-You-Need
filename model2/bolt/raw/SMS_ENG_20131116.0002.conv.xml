@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131116.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-16 23:13:04 UTC" participant="153268">
+      <body>How's that knee today?</body>
+    </message>
+    <message id="m0001" time="2013-11-16 23:21:12 UTC" participant="152734">
+      <body>It feels pretty much fine! We'll see what they say Monday, I guess.</body>
+    </message>
+    <message id="m0002" time="2013-11-16 23:21:36 UTC" participant="153268">
+      <body>Ok...glad to hear that</body>
+    </message>
+  </messages>
+</conversation>
+

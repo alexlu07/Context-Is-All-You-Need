@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130422.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-22 21:46:48 UTC" participant="152420">
+      <body>No Dobra para mi goin to NYC. </body>
+    </message>
+    <message id="m0001" time="2013-04-23 20:28:03 UTC" participant="152417">
+      <body>Are we sticking to 6? Or back to 630?</body>
+    </message>
+    <message id="m0002" time="2013-04-23 20:28:58 UTC" participant="152420">
+      <body>6:30</body>
+    </message>
+    <message id="m0003" time="2013-04-23 20:30:19 UTC" participant="152417">
+      <body>Dang, ok</body>
+    </message>
+  </messages>
+</conversation>
+

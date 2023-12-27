@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121118.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-11-18 03:17:28 UTC">
+      <body>Hey friend! Long time no talk, hope all is well! Can you send me your mailing address?</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-11-18 03:24:32 UTC">
+      <body>Perfect, thank you! And yes definitely, a catchup is in order! I won't be home for thanksgiving, but phone chat soon? I could do tomorrow or Monday, or the week after...</body>
+    </message>
+    <message id="m0003" participant="131458" time="2012-11-18 03:25:49 UTC">
+      <body>Yeah maybe we can chat tomorrow</body>
+    </message>
+    <message id="m0004" participant="131450" time="2012-11-18 03:45:42 UTC">
+      <body>Okay cool! I'll just be running errands most of the day so if you're free just give me a call :)</body>
+    </message>
+  </messages>
+</conversation>

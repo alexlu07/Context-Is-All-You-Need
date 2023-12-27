@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120215.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135112" time="2012-02-15 21:32:17 UTC">
+      <body>Can you talk sometime? I've hit rock bottom.</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-02-15 21:35:40 UTC">
+      <body>Yes yes. I'm at work now, sweets but I'll call later</body>
+    </message>
+    <message id="m0002" participant="135112" time="2012-02-15 22:07:15 UTC">
+      <body>Okay. Thanks.</body>
+    </message>
+    <message id="m0003" participant="135112" time="2012-02-16 08:01:21 UTC">
+      <body>Still up?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-02-16 12:52:59 UTC">
+      <body>So sorry I missed you last night. I could call later this evening, doll. I'm thinking of you so much!</body>
+    </message>
+  </messages>
+</conversation>

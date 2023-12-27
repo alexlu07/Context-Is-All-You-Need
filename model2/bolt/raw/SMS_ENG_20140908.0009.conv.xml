@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140908.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-08 22:47:05 UTC" participant="153557">
+      <body>How was class?!</body>
+    </message>
+    <message id="m0001" time="2014-09-08 22:47:57 UTC" participant="153547">
+      <body>Not good</body>
+    </message>
+    <message id="m0002" time="2014-09-08 22:48:38 UTC" participant="153557">
+      <body>Oh nooooo!!! I'm sure you were great tho</body>
+    </message>
+    <message id="m0003" time="2014-09-09 02:14:54 UTC" participant="153557">
+      <body>Wanna bike together?</body>
+    </message>
+    <message id="m0004" time="2014-09-09 14:30:24 UTC" participant="153557">
+      <body>Here!!</body>
+    </message>
+    <message id="m0005" time="2014-09-09 19:21:18 UTC" participant="153547">
+      <body>Thanks for your help. I love you</body>
+    </message>
+    <message id="m0006" time="2014-09-09 19:33:05 UTC" participant="153557">
+      <body>You always help me so much! &lt;3</body>
+    </message>
+    <message id="m0007" time="2014-09-09 19:37:36 UTC" participant="153557">
+      <body>Which do you like best!</body>
+    </message>
+    <message id="m0008" time="2014-09-09 19:37:36 UTC" participant="153557">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>
+

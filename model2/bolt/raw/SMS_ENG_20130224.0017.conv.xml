@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-02-24 18:58:27 UTC">
+      <body>Hey! We're looking forward to dinner tonight :-) and want to being something..do you have a preference for beer or wine?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-24 18:58:48 UTC">
+      <body>And by being I of course meant bring...</body>
+    </message>
+    <message id="m0002" participant="131453" time="2013-02-24 19:31:14 UTC">
+      <body>Thanks for asking! Hmm, either option sounds lovely. How about a surprise? We are making a white lasagna, if that helps :) See you tonight.</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-24 19:41:15 UTC">
+      <body>Ooh sounds delish! We'll find something complementary :-)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136266" time="2012-09-08 03:09:52 UTC">
+      <body>Okayyy</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-08 03:10:41 UTC">
+      <body>Kappa sigma</body>
+    </message>
+    <message id="m0002" participant="136266" time="2012-09-08 03:12:00 UTC">
+      <body>We just saw the whole group leaving, are you there alone?</body>
+    </message>
+    <message id="m0003" participant="136266" time="2012-09-08 03:12:00 UTC">
+      <body>Oh is it fun? They said its dead</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-08 03:13:01 UTC">
+      <body>Nah I'm with a bunch of Dobbs people</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-08 03:13:38 UTC">
+      <body>Just a bunch of beer pong</body>
+    </message>
+    <message id="m0006" participant="136266" time="2012-09-08 03:14:08 UTC">
+      <body>Is it fun?</body>
+    </message>
+    <message id="m0007" participant="136266" time="2012-09-08 03:14:08 UTC">
+      <body>Ahahaha okay see you later</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-08 03:14:12 UTC">
+      <body>Nahhhh</body>
+    </message>
+  </messages>
+</conversation>

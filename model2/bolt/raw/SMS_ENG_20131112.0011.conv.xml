@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131112.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-12 16:18:50 UTC" participant="153657">
+      <body>Hey! It's naomi! Do you have time for a brief phone chat about these videos for Bev . . .</body>
+    </message>
+    <message id="m0001" time="2013-11-12 16:18:50 UTC" participant="153657">
+      <body>At some point today or tomorrow</body>
+    </message>
+    <message id="m0002" time="2013-11-12 16:19:12 UTC" participant="153657">
+      <body>Seriously whenever! </body>
+    </message>
+    <message id="m0003" time="2013-11-12 16:19:26 UTC" participant="153548">
+      <body>I have meeting all day at penn til 5. Can after that?</body>
+    </message>
+    <message id="m0004" time="2013-11-12 16:35:43 UTC" participant="153548">
+      <body>I'll give you a call tonight!</body>
+    </message>
+    <message id="m0005" time="2013-11-12 16:49:04 UTC" participant="153657">
+      <body>Thank you!</body>
+    </message>
+  </messages>
+</conversation>
+

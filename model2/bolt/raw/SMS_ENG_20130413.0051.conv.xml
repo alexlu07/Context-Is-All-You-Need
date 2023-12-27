@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-13 21:02:22 UTC">
+      <body>ride to church tomorrow? relatedly, i have a friend in town, so do you think you could handle the girls by yourself tomorrow night? </body>
+    </message>
+    <message id="m0001" participant="136153" time="2013-04-13 21:14:33 UTC">
+      <body>Yeah and yep</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-13 21:16:53 UTC">
+      <body>kk, thanks! i'll let becca know </body>
+    </message>
+    <message id="m0003" participant="136153" time="2013-04-13 21:17:21 UTC">
+      <body>Okay awesome!</body>
+    </message>
+  </messages>
+</conversation>

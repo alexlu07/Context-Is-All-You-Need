@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-03 04:28:04 UTC">
+      <body>Dang</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-02-03 04:28:27 UTC">
+      <body>Good times? </body>
+    </message>
+    <message id="m0002" participant="134277" time="2013-02-03 04:29:07 UTC">
+      <body>Great times. Donna thought I should text you some pics.</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-02-03 04:29:40 UTC">
+      <body>Jealous </body>
+    </message>
+    <message id="m0004" participant="134277" time="2013-02-03 17:36:30 UTC">
+      <body>Cheers</body>
+    </message>
+    <message id="m0005" participant="134277" time="2013-02-03 19:54:43 UTC">
+      <body>Status?</body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-02-03 19:57:07 UTC">
+      <body>30rh st </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-02-03 20:00:51 UTC">
+      <body>Be there in 20</body>
+    </message>
+  </messages>
+</conversation>

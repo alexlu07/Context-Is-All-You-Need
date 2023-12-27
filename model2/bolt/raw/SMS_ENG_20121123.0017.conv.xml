@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2012-11-23 17:54:05 UTC">
+      <body>￼Fire pit sale!! Black Friday!</body>
+    </message>
+    <message id="m0001" participant="131502" time="2012-11-24 00:29:51 UTC">
+      <body>Vanilla extract, unsalted butter, semi sweet chocolate chips, coffee</body>
+    </message>
+    <message id="m0002" participant="131502" time="2012-11-24 00:49:04 UTC">
+      <body>2 yellow onions, flat leaf parsley</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-11-24 00:51:09 UTC">
+      <body>Do you care if vanilla extract is pure as opposed to imitation?</body>
+    </message>
+    <message id="m0004" participant="131502" time="2012-11-24 00:51:12 UTC">
+      <body>Pure</body>
+    </message>
+  </messages>
+</conversation>

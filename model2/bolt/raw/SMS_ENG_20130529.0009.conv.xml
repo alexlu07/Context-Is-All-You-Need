@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130529" time="2013-05-29 12:55:19 UTC">
+      <body>Yo COTXE. What's going on?</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-05-29 13:01:50 UTC">
+      <body>Hey man, working on some food - you?</body>
+    </message>
+    <message id="m0002" participant="130529" time="2013-05-29 13:03:03 UTC">
+      <body>Working, about to eat some food.</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-05-29 13:16:33 UTC">
+      <body>That sounds about right for a Wednesday</body>
+    </message>
+    <message id="m0004" participant="130529" time="2013-05-29 13:50:50 UTC">
+      <body>Indeed. Anything interesting going on since we last texted?</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-05-29 13:52:38 UTC">
+      <body>Went to a wedding and my sister's graduation, basically a weekend bender</body>
+    </message>
+  </messages>
+</conversation>

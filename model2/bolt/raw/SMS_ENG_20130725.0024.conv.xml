@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-25 21:36:47 UTC">
+      <body>You around later on tonight?</body>
+    </message>
+    <message id="m0001" participant="131971" time="2013-07-25 21:41:20 UTC">
+      <body>Maybe. After 9:30</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-25 21:57:27 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-07-26 19:37:50 UTC">
+      <body>Sorry, rehearsal went way late. Around today?</body>
+    </message>
+    <message id="m0004" participant="131971" time="2013-07-26 19:46:08 UTC">
+      <body>4:40 work for you? Got a small window</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-07-26 20:05:52 UTC">
+      <body>That works </body>
+    </message>
+    <message id="m0006" participant="131964" time="2013-07-26 20:06:01 UTC">
+      <body>Ya got 2 slices?</body>
+    </message>
+    <message id="m0007" participant="131971" time="2013-07-26 20:06:22 UTC">
+      <body>Yeah cool</body>
+    </message>
+    <message id="m0008" participant="131971" time="2013-07-26 20:56:21 UTC">
+      <body>Parking close</body>
+    </message>
+    <message id="m0009" participant="131971" time="2013-07-26 20:56:32 UTC">
+      <body>Here</body>
+    </message>
+    <message id="m0010" participant="131964" time="2013-07-26 20:56:41 UTC">
+      <body>K, it's unlocked</body>
+    </message>
+  </messages>
+</conversation>

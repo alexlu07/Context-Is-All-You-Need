@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140315.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-15 01:21:04 UTC" participant="152484">
+      <body>Got your email! Just getting dinner downtown now. does 10 at skinny pancake sound good?</body>
+    </message>
+    <message id="m0001" time="2014-03-15 02:51:31 UTC" participant="152417">
+      <body>Yea!</body>
+    </message>
+    <message id="m0002" time="2014-03-15 03:05:25 UTC" participant="152484">
+      <body>Cooool!</body>
+    </message>
+    <message id="m0003" time="2014-03-15 14:01:43 UTC" participant="152417">
+      <body>Be there in a few</body>
+    </message>
+    <message id="m0004" time="2014-03-15 14:08:56 UTC" participant="152484">
+      <body>Ok! We're getting food. See you soon!</body>
+    </message>
+    <message id="m0005" time="2014-03-15 16:41:15 UTC" participant="152417">
+      <body>Lois said that the end of rehearsal works</body>
+    </message>
+    <message id="m0006" time="2014-03-15 17:03:48 UTC" participant="152484">
+      <body>Ok! </body>
+    </message>
+  </messages>
+</conversation>
+

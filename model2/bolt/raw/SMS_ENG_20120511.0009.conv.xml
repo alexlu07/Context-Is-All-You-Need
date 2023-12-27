@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120511.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-05-11 02:34:31 UTC">
+      <body>You guys hangin for a bit? Or are you wrapping it up soon</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-05-11 14:19:37 UTC">
+      <body>My phone is getting fixed so I might be without it tonight. Email me if anything is going on later</body>
+    </message>
+    <message id="m0002" participant="131329" time="2012-05-11 14:53:52 UTC">
+      <body>I'm working that tragedy show</body>
+    </message>
+    <message id="m0003" participant="130692" time="2012-05-11 14:54:23 UTC">
+      <body>Word</body>
+    </message>
+  </messages>
+</conversation>

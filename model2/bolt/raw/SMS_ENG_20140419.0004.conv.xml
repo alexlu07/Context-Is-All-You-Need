@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140419.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-19 00:12:41 UTC" participant="153418">
+      <body>Was anyone home when you came over today? </body>
+    </message>
+    <message id="m0001" time="2014-04-19 00:17:13 UTC" participant="153445">
+      <body>No just me. I thought you were home. What's up?  </body>
+    </message>
+    <message id="m0002" time="2014-04-19 00:17:51 UTC" participant="153418">
+      <body>How did you get in? </body>
+    </message>
+    <message id="m0003" time="2014-04-19 00:24:22 UTC" participant="153445">
+      <body>Your door wasn't locked so I just opened the metal door and came in. Both wooden doors were opened</body>
+    </message>
+    <message id="m0004" time="2014-04-19 00:24:45 UTC" participant="153418">
+      <body>Ah, okay. </body>
+    </message>
+    <message id="m0005" time="2014-04-19 00:26:15 UTC" participant="153445">
+      <body>Yeah everything ok? </body>
+    </message>
+    <message id="m0006" time="2014-04-19 00:27:21 UTC" participant="153418">
+      <body>Yeah, don't worry about it. </body>
+    </message>
+    <message id="m0007" time="2014-04-19 00:29:45 UTC" participant="153445">
+      <body>Okay. How's work this week? </body>
+    </message>
+    <message id="m0008" time="2014-04-19 00:30:19 UTC" participant="153418">
+      <body>Busy as usual. Are you back in school now? </body>
+    </message>
+    <message id="m0009" time="2014-04-19 00:31:58 UTC" participant="153445">
+      <body>Yeah stay warm, it's cold going to work</body>
+    </message>
+    <message id="m0010" time="2014-04-19 00:32:13 UTC" participant="153445">
+      <body>Yeah third week just finished</body>
+    </message>
+  </messages>
+</conversation>
+

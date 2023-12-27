@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131208.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-08 03:52:59 UTC" participant="153491">
+      <body>She said she was yesterday. Is Sabrina's okay?</body>
+    </message>
+    <message id="m0001" time="2013-12-08 03:54:28 UTC" participant="152118">
+      <body>Yeah. Sounds good.</body>
+    </message>
+    <message id="m0002" time="2013-12-08 15:44:01 UTC" participant="152118">
+      <body>Hey. Do you wanna drive in this weather? It's apparently snowing and it's gonna continue all day. Sammy said she doesn't want you to drive if you don't feel comfortable.</body>
+    </message>
+    <message id="m0003" time="2013-12-08 16:37:46 UTC" participant="153491">
+      <body>Hey Jen! I'm on my way, and am going to pick you up first, be there soon!</body>
+    </message>
+    <message id="m0004" time="2013-12-08 16:38:20 UTC" participant="152118">
+      <body>Okay. Sounds good.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141231.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-31 23:02:59 UTC" participant="149373">
+      <body>Are you doing anything tonight?</body>
+    </message>
+    <message id="m0001" time="2014-12-31 23:03:22 UTC" participant="153547">
+      <body>I don't know</body>
+    </message>
+    <message id="m0002" time="2014-12-31 23:05:57 UTC" participant="149373">
+      <body>Yeah. I've not heard of much going on. Well have a great new year.</body>
+    </message>
+  </messages>
+</conversation>
+

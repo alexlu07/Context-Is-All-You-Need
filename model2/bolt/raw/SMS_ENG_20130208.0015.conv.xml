@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130208.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2013-02-08 20:43:04 UTC">
+      <body>Can you help me carry cupcakes to tower at 5 pm?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2013-02-08 21:17:10 UTC">
+      <body>I have plans but I can come if you need me. If it helps Katharine :-P</body>
+    </message>
+    <message id="m0002" participant="131825" time="2013-02-08 21:17:45 UTC">
+      <body>It would be a huge help!! We have 200 cupcakes to carry over haha</body>
+    </message>
+    <message id="m0003" participant="131825" time="2013-02-08 21:32:48 UTC">
+      <body>Actually are you doing anything right now?</body>
+    </message>
+    <message id="m0004" participant="131821" time="2013-02-08 21:33:53 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0005" participant="131821" time="2013-02-08 21:40:58 UTC">
+      <body>Why?</body>
+    </message>
+    <message id="m0006" participant="131825" time="2013-02-08 22:04:42 UTC">
+      <body>I was wondering if you're free to carry things </body>
+    </message>
+    <message id="m0007" participant="131825" time="2013-02-08 22:04:48 UTC">
+      <body>Third floor brown kitchen!</body>
+    </message>
+    <message id="m0008" participant="131821" time="2013-02-08 22:04:53 UTC">
+      <body>Right now yes</body>
+    </message>
+    <message id="m0009" participant="131821" time="2013-02-08 22:05:00 UTC">
+      <body>Where?</body>
+    </message>
+    <message id="m0010" participant="131821" time="2013-02-08 22:39:34 UTC">
+      <body>Got the last tray</body>
+    </message>
+  </messages>
+</conversation>

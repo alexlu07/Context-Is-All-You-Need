@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135488" time="2013-06-20 00:06:24 UTC">
+      <body>How's Ingrid's dad?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-06-20 00:58:28 UTC">
+      <body>He's still really sick!!! But they haven't found and cancer!!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-20 00:58:36 UTC">
+      <body>Not and, any!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-20 00:58:46 UTC">
+      <body>So that's good. Thanks for checking!</body>
+    </message>
+    <message id="m0004" participant="135488" time="2013-06-20 02:48:32 UTC">
+      <body>Please send her my love </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-20 03:16:24 UTC">
+      <body>Of course</body>
+    </message>
+  </messages>
+</conversation>

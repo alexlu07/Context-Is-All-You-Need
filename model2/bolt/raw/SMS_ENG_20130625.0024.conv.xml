@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130625.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-25 19:20:12 UTC">
+      <body>Hey Carly, is there wifi at the parlor?</body>
+    </message>
+    <message id="m0001" participant="130957" time="2013-06-25 19:41:15 UTC">
+      <body>Yep who is this?</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-25 19:43:14 UTC">
+      <body>Cool, thnx!</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-25 20:05:08 UTC">
+      <body>Not sure if our performance bench is going to fit down the stairs...any way we could leave it in the room, maybe against the back wall?</body>
+    </message>
+    <message id="m0006" participant="130957" time="2013-06-25 20:06:05 UTC">
+      <body>That's fine </body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-06-25 21:47:50 UTC">
+      <body>K, great!!</body>
+    </message>
+  </messages>
+</conversation>

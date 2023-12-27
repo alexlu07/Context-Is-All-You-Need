@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120115.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-01-15 04:02:01 UTC">
+      <body>Between 4:30 and 8 pm tomorrow.  They will text/call with their ETA.  Ok?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2012-01-15 04:30:54 UTC">
+      <body>Wow big window</body>
+    </message>
+    <message id="m0002" participant="131824" time="2012-01-15 04:31:30 UTC">
+      <body>They narrow it when they give you the eta in the morning.</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-01-15 04:32:59 UTC">
+      <body>Sorry it's Monday not tomorrow</body>
+    </message>
+    <message id="m0004" participant="131821" time="2012-01-15 05:14:51 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="131824" time="2012-01-15 05:15:39 UTC">
+      <body>Hope you like this time's new things :)</body>
+    </message>
+    <message id="m0006" participant="131824" time="2012-01-15 19:57:19 UTC">
+      <body>You and Z share at least one gene.  I just caught him watching a Hairspray clip on utube :)</body>
+    </message>
+  </messages>
+</conversation>

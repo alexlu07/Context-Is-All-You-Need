@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120429.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2012-04-29 19:15:03 UTC">
+      <body>You wanna hang later? MZ is down</body>
+    </message>
+    <message id="m0001" participant="131344" time="2012-04-29 19:16:16 UTC">
+      <body>What time r u goin out </body>
+    </message>
+    <message id="m0002" participant="131344" time="2012-04-29 19:24:48 UTC">
+      <body>Ya maybe. Hit me up when u guys r getting ready to go. </body>
+    </message>
+    <message id="m0003" participant="131344" time="2012-04-29 19:25:01 UTC">
+      <body>I'm going out to dinner with my parents so prob around 8</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-04-29 19:27:08 UTC">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-04-30 00:42:18 UTC">
+      <body>I'm headed back from dinner right now, what are you up to?</body>
+    </message>
+    <message id="m0006" participant="130692" time="2012-04-30 00:43:46 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0007" participant="131344" time="2012-04-30 00:44:48 UTC">
+      <body>Nothing.  It's too late for me to go out. I got work in the AM. </body>
+    </message>
+  </messages>
+</conversation>

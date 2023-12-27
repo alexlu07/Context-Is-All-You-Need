@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130204.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-02-04 13:40:58 UTC">
+      <body>We r being helped</body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-02-04 13:50:04 UTC">
+      <body>That is good. Same conference room as usual?</body>
+    </message>
+    <message id="m0002" participant="131507" time="2013-02-04 13:55:08 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-02-04 13:57:46 UTC">
+      <body>I'll be there in about 20. 9:15 or so.</body>
+    </message>
+    <message id="m0004" participant="131507" time="2013-02-04 14:02:55 UTC">
+      <body>Thats fine no rush. We just had a tour</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-02-04 14:03:28 UTC">
+      <body>You had a tour? We've all been there before!</body>
+    </message>
+    <message id="m0006" participant="131507" time="2013-02-04 14:08:27 UTC">
+      <body>Jim moved office. Genarld movr is his old office lol</body>
+    </message>
+  </messages>
+</conversation>

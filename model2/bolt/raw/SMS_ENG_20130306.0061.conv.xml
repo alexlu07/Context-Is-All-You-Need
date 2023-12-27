@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-06 01:14:01 UTC" participant="152555">
+      <body>Hi Gab! Are you driving to work tomorrow? Could I get a ride with you? </body>
+    </message>
+    <message id="m0001" time="2013-03-06 01:16:26 UTC" participant="152555">
+      <body>Oh! And i hope you had a good break! Also, my car died...it's actually @ flynn parking lot right now:( calling AAA now:) hope all is well!</body>
+    </message>
+    <message id="m0002" time="2013-03-06 02:53:03 UTC" participant="152417">
+      <body>Yep, ill see you at 745</body>
+    </message>
+    <message id="m0003" time="2013-03-06 03:08:52 UTC" participant="152555">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

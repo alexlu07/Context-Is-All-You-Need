@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-12 14:58:58 UTC">
+      <body>We ballin tomorrow?</body>
+    </message>
+    <message id="m0001" participant="132565" time="2013-05-12 15:15:46 UTC">
+      <body>Depends. I gotta find out if my mom wants to go out tomorrow, because im working all today</body>
+    </message>
+    <message id="m0002" participant="132565" time="2013-05-12 15:15:55 UTC">
+      <body>Letchu kno by the late night</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-05-12 15:19:12 UTC">
+      <body>OK cool</body>
+    </message>
+    <message id="m0005" participant="132565" time="2013-05-12 15:23:26 UTC">
+      <body>Hahaa, ahh. Thats great, you'll need em</body>
+    </message>
+  </messages>
+</conversation>

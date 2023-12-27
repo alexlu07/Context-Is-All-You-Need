@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130328.0057" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-28 13:37:04 UTC" participant="152424">
+      <body>are you available to help with a mailing this afternoonish?</body>
+    </message>
+    <message id="m0001" time="2013-03-28 14:17:19 UTC" participant="152417">
+      <body>Sure, what time?</body>
+    </message>
+    <message id="m0002" time="2013-03-28 14:19:18 UTC" participant="152424">
+      <body>def by 2, hopefully noon, I'll call you</body>
+    </message>
+  </messages>
+</conversation>
+

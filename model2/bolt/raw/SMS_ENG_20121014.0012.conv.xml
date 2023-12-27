@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121014.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-14 18:57:55 UTC">
+      <body>Cindy where are you</body>
+    </message>
+    <message id="m0001" participant="136291" time="2012-10-14 19:06:56 UTC">
+      <body>At starbucks. Whats up?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-14 19:08:37 UTC">
+      <body>Nothin everyone is just gone</body>
+    </message>
+    <message id="m0003" participant="136291" time="2012-10-14 19:09:51 UTC">
+      <body>Wait is this will? </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-14 19:10:04 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0005" participant="136291" time="2012-10-14 19:10:49 UTC">
+      <body>Oh you didnt go out witj your dad?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-10-14 19:11:10 UTC">
+      <body>He just got here!</body>
+    </message>
+    <message id="m0007" participant="136291" time="2012-10-14 19:12:34 UTC">
+      <body>Ohh yay so youre going now?</body>
+    </message>
+  </messages>
+</conversation>

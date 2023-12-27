@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 22:26:44 UTC" participant="152128">
+      <body>Hey John, can you give me a call later?</body>
+    </message>
+    <message id="m0001" time="2014-11-14 22:27:25 UTC" participant="153418">
+      <body>Are you busy tonight? </body>
+    </message>
+    <message id="m0002" time="2014-11-14 22:28:01 UTC" participant="152128">
+      <body>No, I'll be free tonight.</body>
+    </message>
+    <message id="m0003" time="2014-11-14 22:29:18 UTC" participant="153418">
+      <body>I'm in Philly now and I'm leaving for Baltimore later. You want to get food?</body>
+    </message>
+    <message id="m0004" time="2014-11-14 23:58:15 UTC" participant="153418">
+      <body>By the way, you know your license plate? </body>
+    </message>
+    <message id="m0005" time="2014-11-14 23:59:04 UTC" participant="152128">
+      <body>Yup.</body>
+    </message>
+    <message id="m0006" time="2014-11-14 23:59:28 UTC" participant="153418">
+      <body>What is it? </body>
+    </message>
+    <message id="m0007" time="2014-11-15 01:09:21 UTC" participant="152128">
+      <body>Why do you ask?</body>
+    </message>
+    <message id="m0008" time="2014-11-15 03:05:20 UTC" participant="153418">
+      <body>Just to keep an eye out if I'm in Philadelphia.</body>
+    </message>
+    <message id="m0009" time="2014-11-15 03:10:40 UTC" participant="152128">
+      <body>Awwww thanks John!</body>
+    </message>
+    <message id="m0010" time="2014-11-15 03:10:53 UTC" participant="152128">
+      <body>How was Philly today?</body>
+    </message>
+    <message id="m0011" time="2014-11-15 04:44:09 UTC" participant="153418">
+      <body>I got in last night around 11PM, ate, and then went to bed. Today was doing errands all day, so not so fun.</body>
+    </message>
+    <message id="m0012" time="2014-11-15 05:05:17 UTC" participant="152128">
+      <body>Did you hey everything done?</body>
+    </message>
+    <message id="m0013" time="2014-11-15 05:06:09 UTC" participant="153418">
+      <body>Most of it, but it's always a hassle.</body>
+    </message>
+  </messages>
+</conversation>
+

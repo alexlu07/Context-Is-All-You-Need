@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0071" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-04-18 14:16:30 UTC">
+      <body>Good morning. I am heading to the bookstore now. I'll be there till 1:45. Hope you can still make it.</body>
+    </message>
+    <message id="m0001" participant="137377" time="2013-04-18 15:21:00 UTC">
+      <body>Hey Fernaz!! I just saw this! I am tutoring until 12:30 and I'll take the trolley right away to join you. I am so sorry</body>
+    </message>
+    <message id="m0002" participant="137377" time="2013-04-18 15:21:10 UTC">
+      <body>See in an hour</body>
+    </message>
+    <message id="m0003" participant="137377" time="2013-04-18 15:21:20 UTC">
+      <body>See you in an hour</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-04-18 15:22:08 UTC">
+      <body>See you </body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-04-18 16:46:16 UTC">
+      <body>Are you close? My Internet is not working and I am getting very bored? Can't FB or read the news...</body>
+    </message>
+    <message id="m0006" participant="137377" time="2013-04-18 16:47:56 UTC">
+      <body>Close</body>
+    </message>
+    <message id="m0007" participant="137377" time="2013-04-18 16:48:06 UTC">
+      <body>Three minutes</body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-04-18 16:48:31 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0009" participant="132437" time="2013-04-18 16:51:22 UTC">
+      <body>Three minutes to the general area or three minutes to upstairs of bookstore ?? :)</body>
+    </message>
+  </messages>
+</conversation>

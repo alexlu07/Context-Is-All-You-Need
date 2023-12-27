@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-05-27 09:55:07 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-27 12:45:32 UTC">
+      <body>Good afternoon</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-27 12:45:32 UTC">
+      <body>What are you doing on this Memorial Day?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-05-27 12:47:16 UTC">
+      <body>Going to a picnic soon, walking around a flea market now. Yourself?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-27 13:03:51 UTC">
+      <body>We've out to brunch. Going to walk the dogs. Maybe go to a BBQ. It's super nice out.</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-05-27 14:13:35 UTC">
+      <body>What kind of dogs do you have?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-27 14:35:35 UTC">
+      <body>Two medium sized mixed breeds. Do you have any pets?</body>
+    </message>
+    <message id="m0007" participant="130664" time="2013-05-27 14:44:01 UTC">
+      <body>I only have a cat, but I would like to have a dog. I need to have a bigger apartment first.</body>
+    </message>
+    <message id="m0008" participant="130664" time="2013-05-27 16:31:30 UTC">
+      <body>Did you make it to a BBQ?</body>
+    </message>
+  </messages>
+</conversation>

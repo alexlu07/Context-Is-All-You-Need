@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111127.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130755" time="2011-11-27 00:36:21 UTC">
+      <body>Hey we're home, let us know if you'd like to meet up!</body>
+    </message>
+    <message id="m0001" participant="130881" time="2011-11-27 00:47:05 UTC">
+      <body>Hey! We're finishing up at fez. We're looking for live music &amp; a balkan band is at johnny brenda's. But we're open to suggestions &amp; would love to buy  you a drink:)</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-11-27 01:08:21 UTC">
+      <body>Yes, west Philly orchestra is awesome, you should definitely go.  I think we are gonna stay in, we might have some friends coming over later.  Enjoy the show!</body>
+    </message>
+    <message id="m0003" participant="130881" time="2011-11-27 04:15:34 UTC">
+      <body>Hey! We're headed back to your place. Should be there in 10.</body>
+    </message>
+  </messages>
+</conversation>

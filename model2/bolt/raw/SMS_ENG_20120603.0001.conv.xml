@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120603.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-06-03 02:10:26 UTC">
+      <body>Yo when are you in mn?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-03 02:12:15 UTC">
+      <body>Booooo not when I am... Another showing this week! Are you swamped?</body>
+    </message>
+    <message id="m0002" participant="135093" time="2012-06-03 02:12:16 UTC">
+      <body>July 4 - 14!</body>
+    </message>
+    <message id="m0003" participant="135093" time="2012-06-03 02:14:24 UTC">
+      <body>Kinda, evenings booked for monday Tuesday Thursday Friday and Saturday! </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-06-03 19:06:06 UTC">
+      <body>Well there's a show on Wednesday night at 8 if you can swing it!</body>
+    </message>
+  </messages>
+</conversation>

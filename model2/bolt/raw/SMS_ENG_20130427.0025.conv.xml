@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130427.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131033" time="2013-04-27 15:16:55 UTC">
+      <body>Free on Tuesday? Interested in seeing Priscilla Queen of the Desert at #### with me?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-04-27 15:24:41 UTC">
+      <body>That would be awesome!!!</body>
+    </message>
+    <message id="m0002" participant="131033" time="2013-04-27 15:26:12 UTC">
+      <body>Yay! I promise I actually have two tickets this time ;)</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-04-27 15:27:38 UTC">
+      <body>Haha, excellent! And we still have that barleywine with your names on it!</body>
+    </message>
+  </messages>
+</conversation>

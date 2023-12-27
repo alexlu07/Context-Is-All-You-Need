@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 21:07:30 UTC" participant="153445">
+      <body>Were you able settle the issue for New York insurance?  My mom said she knows someone who can help if you haven't</body>
+    </message>
+    <message id="m0001" time="2014-03-20 21:08:08 UTC" participant="153418">
+      <body>I'm still talking with the agency.</body>
+    </message>
+    <message id="m0002" time="2014-03-20 21:09:39 UTC" participant="153445">
+      <body>Are they helping you out ok? </body>
+    </message>
+    <message id="m0003" time="2014-03-20 21:20:18 UTC" participant="153418">
+      <body>Yeah, I'm going to see them in person on Monday. </body>
+    </message>
+    <message id="m0004" time="2014-03-20 21:20:57 UTC" participant="153418">
+      <body>What's your mom's name in pinyin? </body>
+    </message>
+    <message id="m0006" time="2014-03-20 21:38:50 UTC" participant="153445">
+      <body>You have my Mom's phone number?  </body>
+    </message>
+    <message id="m0007" time="2014-03-20 21:48:26 UTC" participant="153418">
+      <body>Yes.</body>
+    </message>
+    <message id="m0008" time="2014-03-20 21:52:08 UTC" participant="153445">
+      <body>Ok great. If you need anything just call her up! </body>
+    </message>
+  </messages>
+</conversation>
+

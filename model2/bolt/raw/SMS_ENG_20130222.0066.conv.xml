@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-22 00:06:10 UTC" participant="152734">
+      <body>Hey Caitlin - I'm back in PA! Are you back too? I'll be around this weekend to ride, should we figure out a schedule? </body>
+    </message>
+    <message id="m0001" time="2013-02-22 00:08:32 UTC" participant="153301">
+      <body>Yes I am back. And yes. Lets meet this weekend and figure out a schedule. Would it work if I rode on Saturday and you rode on Sunday this week?</body>
+    </message>
+    <message id="m0002" time="2013-02-22 00:15:17 UTC" participant="152734">
+      <body>Sure! Are you riding tomorrow? </body>
+    </message>
+    <message id="m0003" time="2013-02-22 00:32:00 UTC" participant="153301">
+      <body>I am planning to. Is that ok?</body>
+    </message>
+    <message id="m0004" time="2013-02-22 00:59:49 UTC" participant="152734">
+      <body>Yup - I'm hacking dollar here and there too so I might see you. </body>
+    </message>
+    <message id="m0005" time="2013-02-22 01:14:40 UTC" participant="153301">
+      <body>Cool!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150322.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-22 21:59:05 UTC" participant="152374">
+      <body>Okay, I am definitely going to quizzo tomorrow, finally. Are you? </body>
+    </message>
+    <message id="m0001" time="2015-03-22 21:59:34 UTC" participant="154093">
+      <body>Think so</body>
+    </message>
+    <message id="m0002" time="2015-03-22 22:00:47 UTC" participant="152374">
+      <body>Yay! See you there then :) </body>
+    </message>
+    <message id="m0003" time="2015-03-22 22:01:32 UTC" participant="154093">
+      <body>I havnt asked ### yet, but I think she'll go too </body>
+    </message>
+    <message id="m0004" time="2015-03-22 22:02:10 UTC" participant="154093">
+      <body>And #### and ##### said they would go this week</body>
+    </message>
+    <message id="m0005" time="2015-03-22 22:14:33 UTC" participant="152374">
+      <body>Oh nice! Whole gang for ####'s birthday </body>
+    </message>
+    <message id="m0006" time="2015-03-22 22:15:04 UTC" participant="154093">
+      <body>Sounds like it</body>
+    </message>
+  </messages>
+</conversation>
+

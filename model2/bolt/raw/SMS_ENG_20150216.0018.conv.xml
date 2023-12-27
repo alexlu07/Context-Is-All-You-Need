@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150216.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-16 00:19:12 UTC" participant="152766">
+      <body>What time are you free on Wednesday?</body>
+    </message>
+    <message id="m0001" time="2015-02-16 01:49:05 UTC" participant="152735">
+      <body>Hi! Anytime 6 and after - possibly sooner even </body>
+    </message>
+    <message id="m0002" time="2015-02-16 03:58:56 UTC" participant="152766">
+      <body>Ok I'll check with Cory just to be sure and write. BAck tomorrow </body>
+    </message>
+  </messages>
+</conversation>
+

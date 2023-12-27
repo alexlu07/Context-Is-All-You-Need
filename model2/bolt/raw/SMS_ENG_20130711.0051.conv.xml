@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-11 23:12:43 UTC" participant="152734">
+      <body>Hey Tanya, just checking in about a lesson this weekend, my schedule's wide open :)</body>
+    </message>
+    <message id="m0001" time="2013-07-12 02:39:05 UTC" participant="153298">
+      <body>Saturday, 3:00 if that works for you. :) </body>
+    </message>
+    <message id="m0002" time="2013-07-12 16:52:27 UTC" participant="152734">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>
+

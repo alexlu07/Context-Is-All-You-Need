@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140331.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-31 17:43:14 UTC" participant="153491">
+      <body>I'm musically heartbroken...</body>
+    </message>
+    <message id="m0001" time="2014-03-31 17:46:42 UTC" participant="152116">
+      <body>What happened</body>
+    </message>
+    <message id="m0002" time="2014-03-31 17:47:47 UTC" participant="153491">
+      <body>If you can, call me.</body>
+    </message>
+    <message id="m0003" time="2014-03-31 17:50:45 UTC" participant="152116">
+      <body>In about 15</body>
+    </message>
+    <message id="m0004" time="2014-03-31 18:18:16 UTC" participant="152116">
+      <body>Okay in another 15</body>
+    </message>
+    <message id="m0005" time="2014-03-31 19:50:44 UTC" participant="153491">
+      <body>Call you in a few.</body>
+    </message>
+  </messages>
+</conversation>
+

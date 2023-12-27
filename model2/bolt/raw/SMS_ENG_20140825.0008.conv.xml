@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140825.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-25 18:17:44 UTC" participant="152734">
+      <body>Hey what do you pay Brenna for trailering to burgundy hollow? She said she thinks $30, ask Jill </body>
+    </message>
+    <message id="m0001" time="2014-08-25 20:28:48 UTC" participant="153305">
+      <body>Yep that is what I am paying</body>
+    </message>
+    <message id="m0002" time="2014-08-25 20:28:48 UTC" participant="153305">
+      <body>Did you hear from Jane about lessons?</body>
+    </message>
+    <message id="m0003" time="2014-08-25 21:27:44 UTC" participant="152734">
+      <body>She has a dressage show but will check the schedule and let us know by Wednesday </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140627.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-27 21:28:32 UTC" participant="152560">
+      <body>Possibly meet at the Catio for a drink later? It's the new patio outside the Hilton...</body>
+    </message>
+    <message id="m0001" time="2014-06-27 21:31:45 UTC" participant="152417">
+      <body>Yea! Can you call or text when youre wrapping up?</body>
+    </message>
+    <message id="m0002" time="2014-06-27 22:15:28 UTC" participant="152560">
+      <body>Absolutely. </body>
+    </message>
+    <message id="m0003" time="2014-06-28 03:14:08 UTC" participant="152560">
+      <body>Closing up a bit early. Should be finished around 11:30ish...</body>
+    </message>
+    <message id="m0004" time="2014-06-28 03:18:05 UTC" participant="152417">
+      <body>Cool, already on my way</body>
+    </message>
+  </messages>
+</conversation>
+

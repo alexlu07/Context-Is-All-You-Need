@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120526.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-05-26 17:43:56 UTC" participant="152374">
+      <body>Might you be in the neighborhood, my dear?</body>
+    </message>
+    <message id="m0001" time="2012-05-26 19:19:34 UTC" participant="153464">
+      <body>Yeah, just fixin to do my laundry. Are you??</body>
+    </message>
+    <message id="m0002" time="2012-05-26 19:43:52 UTC" participant="152374">
+      <body>I was! Now I'm in Berwyn, but I'll be back later! Do you have dinner plans?</body>
+    </message>
+    <message id="m0003" time="2012-05-26 19:54:57 UTC" participant="153464">
+      <body>Going to check out a new beer garden-type place called Morgan's Pier on delaware ave around 7:30-8</body>
+    </message>
+    <message id="m0004" time="2012-05-26 21:02:02 UTC" participant="152374">
+      <body>Drat  :-(  Maybe coffee or something tomorrow afternoon?</body>
+    </message>
+    <message id="m0005" time="2012-05-27 14:28:37 UTC" participant="153464">
+      <body>Yeah, let me know when you're around</body>
+    </message>
+    <message id="m0006" time="2012-05-27 15:09:28 UTC" participant="152374">
+      <body>I'm just finishing a late breakfast at the diner- would you be up for coffee or something at 1?</body>
+    </message>
+    <message id="m0007" time="2012-05-27 15:10:02 UTC" participant="153464">
+      <body>Sure</body>
+    </message>
+    <message id="m0008" time="2012-05-27 15:18:06 UTC" participant="152374">
+      <body>Yay! I'll meet you at your place then.</body>
+    </message>
+  </messages>
+</conversation>
+

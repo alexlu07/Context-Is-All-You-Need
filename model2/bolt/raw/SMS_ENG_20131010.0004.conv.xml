@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131010.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-10 13:38:00 UTC" participant="153448">
+      <body>John,
+Per previous tenant, he said he  thinks he left two custom bottle openers in kitchen. If so let me know and I can pick up. 
+Thanks</body>
+    </message>
+    <message id="m0001" time="2013-10-10 13:39:43 UTC" participant="153448">
+      <body>Ok.  Thanks.</body>
+    </message>
+    <message id="m0002" time="2013-10-10 13:40:54 UTC" participant="153418">
+      <body>Please go ahead. I haven't actually placed anything inside the cabinets except a blue strainer. </body>
+    </message>
+    <message id="m0003" time="2013-10-10 13:42:20 UTC" participant="153448">
+      <body>K.</body>
+    </message>
+  </messages>
+</conversation>
+

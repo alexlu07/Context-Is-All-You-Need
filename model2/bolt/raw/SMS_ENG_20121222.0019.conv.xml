@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121222.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135279" time="2012-12-22 16:28:37 UTC">
+      <body>Safe journey, Sweetness</body>
+    </message>
+    <message id="m0001" participant="135279" time="2012-12-22 21:44:42 UTC">
+      <body>Do call back. Info u need</body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-12-23 01:26:04 UTC">
+      <body>Hi mom</body>
+    </message>
+    <message id="m0003" participant="135279" time="2012-12-23 01:26:25 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-12-23 01:26:29 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0005" participant="135279" time="2012-12-23 02:05:02 UTC">
+      <body>9:15 channel 33: the wizard of oz</body>
+    </message>
+  </messages>
+</conversation>

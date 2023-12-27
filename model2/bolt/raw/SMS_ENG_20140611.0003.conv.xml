@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 18:42:36 UTC" participant="153316">
+      <body>I rode!</body>
+    </message>
+    <message id="m0001" time="2014-06-11 19:13:39 UTC" participant="152734">
+      <body>Woohoo! How was he?</body>
+    </message>
+    <message id="m0002" time="2014-06-11 20:26:09 UTC" participant="153316">
+      <body>Nice and forward!</body>
+    </message>
+  </messages>
+</conversation>
+

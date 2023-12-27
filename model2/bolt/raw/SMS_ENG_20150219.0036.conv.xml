@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150219.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-19 02:19:38 UTC" participant="153881">
+      <body>Hey Jenna, just double checking that the shoot next week is on Thursday 26 Feb?</body>
+    </message>
+    <message id="m0001" time="2015-02-19 04:19:45 UTC" participant="153848">
+      <body>Yes,  from 9-11. </body>
+    </message>
+    <message id="m0002" time="2015-02-19 04:20:11 UTC" participant="153881">
+      <body>Cool thanks</body>
+    </message>
+    <message id="m0003" time="2015-02-19 04:20:25 UTC" participant="153848">
+      <body>Thank you! </body>
+    </message>
+  </messages>
+</conversation>
+

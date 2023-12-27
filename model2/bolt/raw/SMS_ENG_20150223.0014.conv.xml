@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150223.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-23 05:09:38 UTC" participant="153491">
+      <body>Did you watch The Oscars?</body>
+    </message>
+    <message id="m0001" time="2015-02-23 05:13:16 UTC" participant="153543">
+      <body>I did. I assume you did too? </body>
+    </message>
+    <message id="m0002" time="2015-02-23 05:13:36 UTC" participant="153543">
+      <body>Oh yeah? I know there were some powerful stuff this award show. I didn't get to see all of it </body>
+    </message>
+    <message id="m0003" time="2015-02-23 05:13:53 UTC" participant="153491">
+      <body>That was so good! And emotional. I cried! </body>
+    </message>
+    <message id="m0004" time="2015-02-23 05:17:40 UTC" participant="153491">
+      <body>Oh okay. Yea there was good stuff. The speeches are usually boring to me but there were some
+pretty touching and funny ones, especially towards the end.</body>
+    </message>
+    <message id="m0005" time="2015-02-23 05:17:52 UTC" participant="153543">
+      <body>It was a really good movie. I liked it a lot. I really wish Emma stone won for supporting actress</body>
+    </message>
+    <message id="m0006" time="2015-02-23 05:18:00 UTC" participant="153491">
+      <body>And damn Birdman, killin' it. Now I want to see it!</body>
+    </message>
+    <message id="m0007" time="2015-02-23 05:20:36 UTC" participant="153491">
+      <body>There were a lot of good nominees in the major categories. I was torn. I was rooting for multiples nominees! I guess that's a good thing.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0079" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-03 15:28:56 UTC" participant="152480">
+      <body>On way- What cross street is the stage on?</body>
+    </message>
+    <message id="m0001" time="2013-06-03 15:31:19 UTC" participant="152417">
+      <body>Stage is between bank and Cherry</body>
+    </message>
+    <message id="m0002" time="2013-06-03 15:34:14 UTC" participant="152480">
+      <body>Cool thanks</body>
+    </message>
+  </messages>
+</conversation>
+

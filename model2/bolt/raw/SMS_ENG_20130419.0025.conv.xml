@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130962" time="2013-04-19 00:17:34 UTC">
+      <body>Safe travels tomorrow!!</body>
+    </message>
+    <message id="m0001" participant="131439" time="2013-04-19 16:17:52 UTC">
+      <body>Thanks! we're in the final phases of preparation!</body>
+    </message>
+    <message id="m0002" participant="130962" time="2013-04-19 16:24:44 UTC">
+      <body>Woo hoo!</body>
+    </message>
+  </messages>
+</conversation>

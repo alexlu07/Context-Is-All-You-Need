@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131508" time="2012-12-01 16:08:00 UTC">
+      <body>Hey Sam do you think you could notarize something for me while your here today? </body>
+    </message>
+    <message id="m0001" participant="130706" time="2012-12-01 16:14:40 UTC">
+      <body>Is this Jordan? I don't have this number in my phone. I'm still waiting for my notary stamp to arrive in the mail.</body>
+    </message>
+    <message id="m0002" participant="131508" time="2012-12-01 16:42:40 UTC">
+      <body>Yeah it's Jordan. Ok we'll when it comes in let me know. See you guys in a few hours</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-01 16:52:19 UTC">
+      <body>Do you guys have a fax machine?</body>
+    </message>
+    <message id="m0004" participant="131508" time="2012-12-01 16:53:20 UTC">
+      <body>Not here</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-12-01 16:53:56 UTC">
+      <body>Just checking. Need to fax something. </body>
+    </message>
+    <message id="m0006" participant="131508" time="2012-12-01 16:54:18 UTC">
+      <body>Oh sorry</body>
+    </message>
+    <message id="m0007" participant="130706" time="2012-12-01 16:54:38 UTC">
+      <body>No worries. Kathy's mom has one</body>
+    </message>
+    <message id="m0008" participant="130706" time="2012-12-02 02:00:25 UTC">
+      <body>Kathy thinks she left her purse, with the keys</body>
+    </message>
+    <message id="m0009" participant="130706" time="2012-12-02 02:01:06 UTC">
+      <body>i'm walking back, you guys still up?</body>
+    </message>
+    <message id="m0010" participant="131508" time="2012-12-02 02:03:44 UTC">
+      <body>Yup everything ok</body>
+    </message>
+  </messages>
+</conversation>

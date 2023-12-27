@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141024.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-24 02:31:28 UTC" participant="152424">
+      <body>why doesn't superman need a boss?</body>
+    </message>
+    <message id="m0001" time="2014-10-24 02:33:36 UTC" participant="152424">
+      <body>because he already has supervision</body>
+    </message>
+    <message id="m0002" time="2014-10-24 02:34:14 UTC" participant="152417">
+      <body>Because he's kryptonian?</body>
+    </message>
+    <message id="m0003" time="2014-10-24 03:21:26 UTC" participant="152417">
+      <body>Zing!</body>
+    </message>
+    <message id="m0004" time="2014-10-24 18:47:20 UTC" participant="152417">
+      <body>Can i drop off my dish a little before 4?</body>
+    </message>
+    <message id="m0005" time="2014-10-24 20:02:26 UTC" participant="152424">
+      <body>sure Jennie is home</body>
+    </message>
+    <message id="m0006" time="2014-10-24 23:45:49 UTC" participant="152417">
+      <body>Orders didnt start until 7, hopefully ill get a break after this big one</body>
+    </message>
+  </messages>
+</conversation>
+

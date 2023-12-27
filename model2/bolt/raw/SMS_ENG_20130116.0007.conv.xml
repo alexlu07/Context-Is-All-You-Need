@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130116.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131473" time="2013-01-16 18:13:19 UTC">
+      <body>Hey nothing from Penn yet??</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-01-16 19:55:53 UTC">
+      <body>Nope...but I contacted them yesterday ans they said a decision will be made by Thursday. So I should hear tomorrow!</body>
+    </message>
+    <message id="m0002" participant="131473" time="2013-01-16 20:40:50 UTC">
+      <body>We good as long as they haven't made any decisions yet...</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-01-16 20:56:35 UTC">
+      <body>And hopefully once they make a decision we'll be even better! Haha...</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140619.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-19 23:30:12 UTC" participant="153547">
+      <body>Did u get brakes? I canceled my order but they arrived anyway</body>
+    </message>
+    <message id="m0001" time="2014-06-20 00:48:36 UTC" participant="153562">
+      <body>Well cool because k yler forgot anyway</body>
+    </message>
+    <message id="m0002" time="2014-06-20 14:28:28 UTC" participant="153547">
+      <body>Let me know when u got a little time to hook up brakes and shifters. I think I might need shifter cable stops but I have a bunch of ferrules</body>
+    </message>
+    <message id="m0003" time="2014-06-20 17:06:58 UTC" participant="153562">
+      <body>We probably dont need cable stops. I found some ferrules as well. Tomorrow late am might be good</body>
+    </message>
+    <message id="m0004" time="2014-06-20 17:07:29 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

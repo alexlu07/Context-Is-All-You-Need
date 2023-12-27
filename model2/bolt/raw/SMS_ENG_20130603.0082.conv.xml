@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-03 00:40:30 UTC" participant="153444">
+      <body>lol*</body>
+    </message>
+    <message id="m0001" time="2013-06-03 00:40:32 UTC" participant="153444">
+      <body>ya in that case it makes sense. </body>
+    </message>
+    <message id="m0002" time="2013-06-03 00:41:06 UTC" participant="153444">
+      <body>and then i dnt know how to integrate that 1/exponention thing..</body>
+    </message>
+    <message id="m0003" time="2013-06-03 01:36:12 UTC" participant="153418">
+      <body>The derivative is just the slope of a function.</body>
+    </message>
+    <message id="m0004" time="2013-06-03 01:37:13 UTC" participant="153418">
+      <body>Change in Y or change in X. So it makes sense that it's the difference between two adjacent Y values divided by their distance.</body>
+    </message>
+    <message id="m0005" time="2013-06-03 01:37:21 UTC" participant="153418">
+      <body>Ts in this case.</body>
+    </message>
+    <message id="m0006" time="2013-06-03 02:17:05 UTC" participant="153418">
+      <body>I think I know how to solve B for #7.</body>
+    </message>
+    <message id="m0007" time="2013-06-03 03:17:16 UTC" participant="153444">
+      <body>integrating it?</body>
+    </message>
+    <message id="m0008" time="2013-06-03 03:17:59 UTC" participant="153418">
+      <body>Yes. You can split it into 3 integrals as Cn.</body>
+    </message>
+    <message id="m0009" time="2013-06-03 03:18:17 UTC" participant="153418">
+      <body>Then h(n) is C-n.</body>
+    </message>
+    <message id="m0010" time="2013-06-03 03:41:40 UTC" participant="153444">
+      <body>since its 1/ exp+ exp+exp something lol i dk how to split it </body>
+    </message>
+    <message id="m0011" time="2013-06-03 03:43:11 UTC" participant="153418">
+      <body>flip exp to the top by inverting the sign in the exponent.</body>
+    </message>
+    <message id="m0012" time="2013-06-03 03:46:57 UTC" participant="153418">
+      <body>Next quiz is gonna be bad. Not enough examples on all those properties.</body>
+    </message>
+    <message id="m0013" time="2013-06-03 03:47:39 UTC" participant="153444">
+      <body>how can u do that? this is 1/(3+2exp(-j2pif)-exp(-j4pif) . u mean multiply both top and bottom by  (3-2exp(-j2pif)+exp(-j4pif)</body>
+    </message>
+    <message id="m0014" time="2013-06-03 03:47:49 UTC" participant="153444">
+      <body>?</body>
+    </message>
+    <message id="m0016" time="2013-06-03 03:52:11 UTC" participant="153418">
+      <body>If that's the case, I'd just leave it as integral (that * exp(j2pi))</body>
+    </message>
+    <message id="m0017" time="2013-06-03 03:52:24 UTC" participant="153418">
+      <body>Err, j2pifn</body>
+    </message>
+    <message id="m0018" time="2013-06-03 03:55:56 UTC" participant="153444">
+      <body>lol partial fractions </body>
+    </message>
+    <message id="m0019" time="2013-06-03 03:56:10 UTC" participant="153444">
+      <body>i couldnt resist checking the answers</body>
+    </message>
+    <message id="m0020" time="2013-06-03 04:05:13 UTC" participant="153444">
+      <body>yoo now i see. i think cohens way of approaching the problems is.by using the dtft properties.. thts how he expects us to do these</body>
+    </message>
+    <message id="m0021" time="2013-06-03 04:06:06 UTC" participant="153418">
+      <body>What property can you use on a sum of exps?</body>
+    </message>
+    <message id="m0022" time="2013-06-03 04:08:49 UTC" participant="153444">
+      <body>u factor out the exponentials then ul get something. like 1/[-(exp...)(exp..) ] </body>
+    </message>
+    <message id="m0023" time="2013-06-03 04:12:14 UTC" participant="153444">
+      <body>then h[n] will be the inverse of that equation.  do u remember the property ---&gt; Aexp(-nt)u(t) ---&gt; A/(n+j2pif)</body>
+    </message>
+    <message id="m0024" time="2013-06-03 04:12:46 UTC" participant="153418">
+      <body>Yes...so you use duality.</body>
+    </message>
+    <message id="m0025" time="2013-06-03 04:13:20 UTC" participant="153444">
+      <body>wat duality? </body>
+    </message>
+    <message id="m0026" time="2013-06-03 04:14:13 UTC" participant="153418">
+      <body>Duality property to retrieve h(n), right?</body>
+    </message>
+    <message id="m0027" time="2013-06-03 04:15:12 UTC" participant="153444">
+      <body>no. y do u need a duality property? u r not changing any domains here. </body>
+    </message>
+    <message id="m0028" time="2013-06-03 04:15:27 UTC" participant="153444">
+      <body>wait-- u are actually</body>
+    </message>
+    <message id="m0029" time="2013-06-03 04:15:38 UTC" participant="153444">
+      <body>sorry ya from frqunecy to discrete so ya </body>
+    </message>
+    <message id="m0030" time="2013-06-03 04:16:26 UTC" participant="153418">
+      <body>By the way, the mock final is hard..</body>
+    </message>
+    <message id="m0031" time="2013-06-03 04:17:21 UTC" participant="153444">
+      <body>really? i havent looked at it. man im having interviews this week :-(</body>
+    </message>
+    <message id="m0032" time="2013-06-03 04:26:43 UTC" participant="153444">
+      <body>part b is actually b.s. it goes on forevee.wastage of time!! so for one part of the factorized exponential there is a direct property we can use. for the</body>
+    </message>
+    <message id="m0033" time="2013-06-03 04:26:54 UTC" participant="153444">
+      <body> other there isnt anything. LOL</body>
+    </message>
+    <message id="m0034" time="2013-06-03 04:27:18 UTC" participant="153418">
+      <body>I'm just gonna ask Cohen. </body>
+    </message>
+    <message id="m0035" time="2013-06-03 04:27:24 UTC" participant="153418">
+      <body>This shit is hard.</body>
+    </message>
+    <message id="m0036" time="2013-06-03 04:27:50 UTC" participant="153444">
+      <body>now i know y dr nasis took a whole hour to do the easiest problem. </body>
+    </message>
+    <message id="m0037" time="2013-06-03 04:28:00 UTC" participant="153444">
+      <body>cohen wont solve it</body>
+    </message>
+    <message id="m0038" time="2013-06-03 04:28:20 UTC" participant="153418">
+      <body>Why the hell not? </body>
+    </message>
+    <message id="m0039" time="2013-06-03 04:28:35 UTC" participant="153418">
+      <body>That's the point of office hours.</body>
+    </message>
+    <message id="m0040" time="2013-06-03 04:29:32 UTC" participant="153444">
+      <body>so this is wat he will say..he will factorize the exponentials. and then ask u to write the corresponding property on the  side </body>
+    </message>
+    <message id="m0041" time="2013-06-03 04:29:34 UTC" participant="153444">
+      <body>ya. but when the math gets hard - he says " if u have time to waste..go ahead and simplify it"</body>
+    </message>
+    <message id="m0042" time="2013-06-03 04:30:08 UTC" participant="153444">
+      <body>its actually algebra. so i guess we should be good if we just write the property and leave it. </body>
+    </message>
+    <message id="m0043" time="2013-06-03 04:30:19 UTC" participant="153444">
+      <body>that shows that we know the patg</body>
+    </message>
+    <message id="m0044" time="2013-06-03 04:30:21 UTC" participant="153444">
+      <body>path**</body>
+    </message>
+  </messages>
+</conversation>
+

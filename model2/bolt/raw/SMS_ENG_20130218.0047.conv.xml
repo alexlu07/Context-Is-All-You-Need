@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-18 14:44:15 UTC" participant="154352">
+      <body>Can't make it this week. I have to get ready to get ready for the Montana ski trip starting early Saturday.</body>
+    </message>
+    <message id="m0001" time="2013-02-18 19:00:22 UTC" participant="154391">
+      <body>Sounds like good time. Have fun</body>
+    </message>
+    <message id="m0002" time="2013-02-18 19:00:42 UTC" participant="154391">
+      <body>Send me a note when you are free to catch up</body>
+    </message>
+  </messages>
+</conversation>
+

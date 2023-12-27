@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0059" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-22 22:00:22 UTC">
+      <body>is there any way you (or someone you trust) could come help me take your piece out of the kiln? </body>
+    </message>
+    <message id="m0001" participant="136161" time="2013-02-22 22:49:04 UTC">
+      <body>Hey! sry i just got home from the doctors w my friend. cld we take it out tomorrow?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-22 22:51:46 UTC">
+      <body>yeah, i guess we'll just have to do it tomorrow. is there a time in the morning that's okay? </body>
+    </message>
+    <message id="m0003" participant="136161" time="2013-02-23 04:10:00 UTC">
+      <body>Ya, thatd be cool. when were u thinking? i could also just have giovanni help me take it out so u dnt need to come in?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-23 04:11:09 UTC">
+      <body>could you have it out by 1, possibly? i have to reload but i have afternoon plans. </body>
+    </message>
+    <message id="m0005" participant="136161" time="2013-02-23 04:12:44 UTC">
+      <body>Oh ya! def :] ill go in around noon</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-02-23 04:21:49 UTC">
+      <body>thanks! </body>
+    </message>
+    <message id="m0007" participant="136161" time="2013-02-23 17:30:11 UTC">
+      <body>Hey, im still walking, but ill be there soon....and ill have it out by 1, sorry im running late!</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-02-23 17:33:15 UTC">
+      <body>no problem! i'm just chilling out. </body>
+    </message>
+  </messages>
+</conversation>

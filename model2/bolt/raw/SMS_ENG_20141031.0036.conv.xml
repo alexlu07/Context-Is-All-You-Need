@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141031.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-31 21:09:57 UTC" participant="153804">
+      <body>United flight 3675 Chicago to Syracuse 7:07 any chance you can get on that one</body>
+    </message>
+    <message id="m0001" time="2014-10-31 21:11:25 UTC" participant="153811">
+      <body>I'm flying American.</body>
+    </message>
+    <message id="m0002" time="2014-10-31 21:17:26 UTC" participant="153804">
+      <body>What is your flight number</body>
+    </message>
+  </messages>
+</conversation>
+

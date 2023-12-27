@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110703.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135099" time="2011-07-03 19:53:27 UTC">
+      <body>Did you hear the civil wars cover of i want you back??</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-03 19:53:47 UTC">
+      <body>The Jackson 5 version?</body>
+    </message>
+    <message id="m0002" participant="135099" time="2011-07-03 19:54:18 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-03 19:54:33 UTC">
+      <body>I guess not! I'll have to check it out</body>
+    </message>
+    <message id="m0004" participant="135099" time="2011-07-03 19:55:04 UTC">
+      <body>It's really gorgeous!</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-07-04 16:54:21 UTC">
+      <body>I think I'm leaving in a half hour or so :)</body>
+    </message>
+  </messages>
+</conversation>

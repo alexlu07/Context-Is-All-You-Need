@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130603.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131956" time="2013-06-03 19:53:26 UTC">
+      <body>Whats the curry place called again? </body>
+    </message>
+    <message id="m0001" participant="131945" time="2013-06-03 20:24:50 UTC">
+      <body>Pato!</body>
+    </message>
+  </messages>
+</conversation>

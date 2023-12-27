@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-25 22:06:24 UTC" participant="153445">
+      <body>I'm in front of the main building</body>
+    </message>
+    <message id="m0001" time="2013-07-25 22:06:54 UTC" participant="153445">
+      <body>On chestnut street</body>
+    </message>
+    <message id="m0002" time="2013-07-25 22:08:02 UTC" participant="153418">
+      <body>I'll be there in 10 minutes. My dad will be around there by then. </body>
+    </message>
+    <message id="m0003" time="2013-07-25 22:10:14 UTC" participant="153445">
+      <body>Okay see you</body>
+    </message>
+  </messages>
+</conversation>
+

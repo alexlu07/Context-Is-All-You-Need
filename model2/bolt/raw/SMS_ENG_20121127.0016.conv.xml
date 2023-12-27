@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121127.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135414" time="2012-11-27 02:59:12 UTC">
+      <body>You probably don't have time or energy, but when you're done w work come meet at Matt Murphy's for a drink!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-11-27 06:30:35 UTC">
+      <body>I am just leaving now!</body>
+    </message>
+    <message id="m0002" participant="135414" time="2012-11-28 04:07:28 UTC">
+      <body>It's late missy!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-11-28 04:35:03 UTC">
+      <body>I'm on my way</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-11-28 04:35:10 UTC">
+      <body>!!!</body>
+    </message>
+    <message id="m0005" participant="135414" time="2012-11-28 04:35:12 UTC">
+      <body>!!!!!!!</body>
+    </message>
+    <message id="m0006" participant="135414" time="2012-11-28 05:23:45 UTC">
+      <body>Are you lost?</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-11-28 05:57:15 UTC">
+      <body>Hahaha</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-11-28 05:57:17 UTC">
+      <body>Sorry</body>
+    </message>
+    <message id="m0009" participant="130622" time="2012-11-28 05:57:45 UTC">
+      <body>That was much longer phone convo than expected!!!!</body>
+    </message>
+  </messages>
+</conversation>

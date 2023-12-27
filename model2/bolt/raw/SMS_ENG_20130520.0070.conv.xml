@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130520.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-20 15:06:58 UTC">
+      <body>I'm thinking you guys need to be searching for something in the city. Maybe I could make a cool interactive map or something</body>
+    </message>
+    <message id="m0001" participant="132555" time="2013-05-20 20:57:08 UTC">
+      <body>Dan, sorry, I've been a bit busy today, so I haven't had a chance to respond.  I like that idea.  I'll try to talk more about it with you tomorrow.  </body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-05-20 21:25:29 UTC">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110709.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2011-07-09 13:56:46 UTC">
+      <body>I emailed you the mc-rendezvous point.</body>
+    </message>
+    <message id="m0001" participant="135131" time="2011-07-09 14:40:32 UTC">
+      <body>We'll be at St Cloud by 11:15, I guess.</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-09 14:48:53 UTC">
+      <body>Ten four</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-09 16:08:22 UTC">
+      <body>Here</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-07-09 16:13:42 UTC">
+      <body>How long?</body>
+    </message>
+    <message id="m0005" participant="135131" time="2011-07-09 16:14:30 UTC">
+      <body>5 min or less</body>
+    </message>
+  </messages>
+</conversation>

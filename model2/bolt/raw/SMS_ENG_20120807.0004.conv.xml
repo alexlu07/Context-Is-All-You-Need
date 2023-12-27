@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120807.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-08-07 15:15:14 UTC">
+      <body>Hey dude. Just wanted to fill you in on in times and sections for those Sundays. This week it's station a in at 4:30. Next week it's station b at 4:00. Thanks!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-08-07 15:15:51 UTC">
+      <body>I wrote it in the book and all if you want to initial :)</body>
+    </message>
+    <message id="m0002" participant="135199" time="2012-08-07 18:16:52 UTC">
+      <body>Sweet thanks!</body>
+    </message>
+  </messages>
+</conversation>

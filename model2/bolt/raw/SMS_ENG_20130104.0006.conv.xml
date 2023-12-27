@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130104.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2013-01-04 13:13:57 UTC">
+      <body>Alan and I picked up something bad last night at dinner. I've been up for the past few hours, and I'm still feeling sick, so I think I should rest up.</body>
+    </message>
+    <message id="m0001" participant="131453" time="2013-01-04 13:14:40 UTC">
+      <body>Thanks for your understanding. Please email or call if needed. </body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-01-04 13:14:58 UTC">
+      <body>Oh no! I hope you're able to get some rest and feel better soon!</body>
+    </message>
+    <message id="m0003" participant="131453" time="2013-01-04 13:16:18 UTC">
+      <body>Thanks! Hope you're feeling better yourself. Have a good day. </body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-01-04 13:19:45 UTC">
+      <body>Thank you! I'm def feeling better than yesterday...all drugged up and ready for work haha. Have a good weekend!</body>
+    </message>
+  </messages>
+</conversation>

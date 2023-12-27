@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131124.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-24 02:10:02 UTC" participant="152417">
+      <body>Be REALLY careful driving home tonight</body>
+    </message>
+    <message id="m0001" time="2013-11-24 02:15:45 UTC" participant="152560">
+      <body>Thanks baby. You as well. How is the show?</body>
+    </message>
+    <message id="m0002" time="2013-11-24 04:28:16 UTC" participant="152417">
+      <body>Great, im on my way over</body>
+    </message>
+    <message id="m0003" time="2013-11-24 14:05:10 UTC" participant="152417">
+      <body>Im at sears an hour early, theres a line of about ten people at the door but im second in line at the garage door...</body>
+    </message>
+    <message id="m0004" time="2013-11-24 14:05:39 UTC" participant="152417">
+      <body>Hopefully this is where im supposed to be</body>
+    </message>
+  </messages>
+</conversation>
+

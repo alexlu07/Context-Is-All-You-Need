@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131231.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-31 22:53:24 UTC" participant="152734">
+      <body>Misssss yooouuuuu!</body>
+    </message>
+    <message id="m0001" time="2013-12-31 23:01:14 UTC" participant="153270">
+      <body>I was just thinking of you!</body>
+    </message>
+    <message id="m0002" time="2013-12-31 23:01:18 UTC" participant="153270">
+      <body>Having fun??</body>
+    </message>
+    <message id="m0003" time="2013-12-31 23:40:27 UTC" participant="152734">
+      <body>Absolutely! It would be twice as fun if you were here though. Happy new year! </body>
+    </message>
+    <message id="m0004" time="2013-12-31 23:40:48 UTC" participant="153270">
+      <body>Happy New Year! </body>
+    </message>
+  </messages>
+</conversation>
+

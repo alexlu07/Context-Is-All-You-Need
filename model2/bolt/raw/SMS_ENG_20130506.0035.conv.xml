@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130506.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133111" time="2013-05-06 23:49:24 UTC">
+      <body>Why does it say you're offline?</body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-05-06 23:49:38 UTC">
+      <body>Come back and I'll invite you</body>
+    </message>
+    <message id="m0002" participant="133117" time="2013-05-06 23:50:38 UTC">
+      <body>On the iPad</body>
+    </message>
+    <message id="m0003" participant="133117" time="2013-05-07 00:49:26 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

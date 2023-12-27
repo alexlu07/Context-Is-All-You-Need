@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141221.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-21 20:08:04 UTC" participant="153244">
+      <body>Would he play smurfs?</body>
+    </message>
+    <message id="m0001" time="2014-12-21 20:08:30 UTC" participant="153900">
+      <body>No</body>
+    </message>
+    <message id="m0002" time="2014-12-21 20:09:02 UTC" participant="153244">
+      <body>Toy story 3?</body>
+    </message>
+    <message id="m0003" time="2014-12-21 20:22:17 UTC" participant="153244">
+      <body>What are we doing for Joanne and John? </body>
+    </message>
+  </messages>
+</conversation>
+

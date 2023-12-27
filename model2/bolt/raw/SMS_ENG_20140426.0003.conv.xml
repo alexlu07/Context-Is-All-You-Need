@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140426.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-26 20:50:03 UTC" participant="152417">
+      <body>What time do you think musicians should come to the photoshoot?</body>
+    </message>
+    <message id="m0001" time="2014-04-26 21:17:27 UTC" participant="152548">
+      <body>Hmmm. I think 1 or 1:30 to be safe</body>
+    </message>
+    <message id="m0002" time="2014-04-26 21:31:50 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

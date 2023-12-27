@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140712.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-12 00:25:24 UTC" participant="152535">
+      <body>Comin tonite?</body>
+    </message>
+    <message id="m0001" time="2014-07-12 00:46:18 UTC" participant="152417">
+      <body>Nah, sorry i can't</body>
+    </message>
+    <message id="m0002" time="2014-07-12 00:51:12 UTC" participant="152535">
+      <body>A great bummer! Hope youre well!!!</body>
+    </message>
+  </messages>
+</conversation>
+

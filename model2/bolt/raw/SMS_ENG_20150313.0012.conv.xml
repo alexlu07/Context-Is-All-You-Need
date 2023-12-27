@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150313.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-13 20:22:24 UTC" participant="152789">
+      <body>Hey Ingrid would you be able to walk Jabba tonight? If you can't it's totally cool</body>
+    </message>
+    <message id="m0001" time="2015-03-13 20:23:06 UTC" participant="152735">
+      <body>I can! </body>
+    </message>
+    <message id="m0002" time="2015-03-13 20:23:10 UTC" participant="152735">
+      <body>What time?</body>
+    </message>
+    <message id="m0003" time="2015-03-13 20:23:16 UTC" participant="152735">
+      <body>I have an 8pm dinner :/</body>
+    </message>
+    <message id="m0004" time="2015-03-13 20:23:48 UTC" participant="152735">
+      <body>I have his key btw </body>
+    </message>
+    <message id="m0005" time="2015-03-13 20:23:55 UTC" participant="152789">
+      <body>It's scheduled for around 8 </body>
+    </message>
+    <message id="m0006" time="2015-03-13 20:24:13 UTC" participant="152789">
+      <body>So I can just do it since you're going to dinner </body>
+    </message>
+    <message id="m0007" time="2015-03-13 20:24:37 UTC" participant="152735">
+      <body>Hmm how about I do it at 7?</body>
+    </message>
+    <message id="m0008" time="2015-03-13 20:25:11 UTC" participant="152789">
+      <body>I'm sure that'd be fine I guess just ask Brittany just in case? </body>
+    </message>
+    <message id="m0009" time="2015-03-13 20:26:59 UTC" participant="152735">
+      <body/>
+    </message>
+    <message id="m0010" time="2015-03-13 20:27:31 UTC" participant="152789">
+      <body>Thank you so much!!!</body>
+    </message>
+    <message id="m0011" time="2015-03-14 20:03:12 UTC" participant="152789">
+      <body>Hey!! Would you mind walking Jabba again tonight? If you can't it's not a biggie </body>
+    </message>
+    <message id="m0012" time="2015-03-14 20:16:23 UTC" participant="152735">
+      <body>I can!</body>
+    </message>
+    <message id="m0013" time="2015-03-14 20:17:06 UTC" participant="152789">
+      <body>Omg you're the best thanks a bunch </body>
+    </message>
+  </messages>
+</conversation>
+

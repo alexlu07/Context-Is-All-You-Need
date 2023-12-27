@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150315.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-15 21:57:25 UTC" participant="153416">
+      <body>Hey! How was last night?</body>
+    </message>
+    <message id="m0001" time="2015-03-15 22:29:12 UTC" participant="153412">
+      <body>Hey! Last night was pretty good! How about you! I saw your seats...pretty darn close!</body>
+    </message>
+    <message id="m0002" time="2015-03-15 22:30:30 UTC" participant="153416">
+      <body>It was great! Yeah the venue was really intimate</body>
+    </message>
+    <message id="m0003" time="2015-03-15 22:40:20 UTC" participant="153412">
+      <body> Oh that's so awesome! So happy you had a great time!</body>
+    </message>
+    <message id="m0004" time="2015-03-15 22:41:05 UTC" participant="153416">
+      <body>I'm glad you did as well! Sorry I missed it!</body>
+    </message>
+    <message id="m0005" time="2015-03-15 22:41:32 UTC" participant="153412">
+      <body>It's okay. Totally cool. We still have next year...and your bday!</body>
+    </message>
+    <message id="m0006" time="2015-03-15 22:42:23 UTC" participant="153416">
+      <body>Yeah :) Very true! Also heads up I need to be at work at 8 tomorrow. I have to leave a little before 7 but I wanted to let you know in case you wanted to take the train instead</body>
+    </message>
+    <message id="m0007" time="2015-03-15 22:45:39 UTC" participant="153412">
+      <body>Okay! Not a problem! I'll probably take the train. No way I can wake myself up that early. Haha. </body>
+    </message>
+    <message id="m0008" time="2015-03-15 22:46:40 UTC" participant="153416">
+      <body>That's cool lol I can't say I blame you</body>
+    </message>
+    <message id="m0009" time="2015-03-15 22:48:29 UTC" participant="153412">
+      <body/>
+    </message>
+    <message id="m0010" time="2015-03-15 22:52:11 UTC" participant="153416">
+      <body/>
+    </message>
+    <message id="m0011" time="2015-03-15 22:52:45 UTC" participant="153412">
+      <body>Seriously. Do you get to leave early?</body>
+    </message>
+    <message id="m0012" time="2015-03-15 22:54:48 UTC" participant="153416">
+      <body>Yes! 4 thank goodness. Hopefully I'll get a small break in the traffic</body>
+    </message>
+    <message id="m0013" time="2015-03-15 22:55:11 UTC" participant="153412">
+      <body>That'd be really nice. </body>
+    </message>
+    <message id="m0014" time="2015-03-15 22:56:43 UTC" participant="153416">
+      <body>Here's to hoping lol</body>
+    </message>
+  </messages>
+</conversation>
+

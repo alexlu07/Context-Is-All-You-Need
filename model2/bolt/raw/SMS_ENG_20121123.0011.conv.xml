@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-11-23 22:25:10 UTC">
+      <body>i forget, you coming to MSG tomorrow?</body>
+    </message>
+    <message id="m0001" participant="131292" time="2012-11-23 22:28:23 UTC">
+      <body>Yep!</body>
+    </message>
+  </messages>
+</conversation>

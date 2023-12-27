@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140604.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-04 16:55:28 UTC" participant="152428">
+      <body>Still in school ?</body>
+    </message>
+    <message id="m0001" time="2014-06-04 16:58:07 UTC" participant="152417">
+      <body>Yep, til june 11</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130519" time="2013-05-01 13:24:52 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130529" time="2013-05-01 16:02:42 UTC">
+      <body>Hi, how's it going?</body>
+    </message>
+    <message id="m0002" participant="130529" time="2013-05-01 16:03:43 UTC">
+      <body>Sorry for the delay, I checked this around noon and didn't think that anyone else would be on so I didn't recheck.</body>
+    </message>
+    <message id="m0003" participant="130519" time="2013-05-01 16:33:27 UTC">
+      <body>No worries. It's a beautiful day, have you gotten out to enjoy it?</body>
+    </message>
+    <message id="m0004" participant="130529" time="2013-05-01 18:04:20 UTC">
+      <body>Not a whole lot, but I'm about to head out for a bike ride. How bout you?</body>
+    </message>
+    <message id="m0005" participant="130519" time="2013-05-01 18:09:27 UTC">
+      <body>I just walked home by the path along the river. I also snuck out for a short walk and an ice cream bar this afternoon.</body>
+    </message>
+    <message id="m0006" participant="130529" time="2013-05-01 19:40:21 UTC">
+      <body>Ah, very nice. I usually bike on the path, but I thought it'd prob be swamped today with the weather the way it is, so I took the other side.</body>
+    </message>
+    <message id="m0007" participant="130529" time="2013-05-01 19:40:34 UTC">
+      <body>Was it ridiculously hectic?</body>
+    </message>
+    <message id="m0008" participant="130519" time="2013-05-01 19:42:39 UTC">
+      <body>It was. Runners, walkers, bikers, strollers, skateboards...geese</body>
+    </message>
+    <message id="m0009" participant="130529" time="2013-05-01 19:44:27 UTC">
+      <body>The whole lot. Yeah, when it's crowded like that it's impossible to get a steady pace going.</body>
+    </message>
+    <message id="m0010" participant="130529" time="2013-05-01 19:47:16 UTC">
+      <body>What are some of your preferred good weather activities if you have the free time?</body>
+    </message>
+    <message id="m0011" participant="130519" time="2013-05-01 19:49:23 UTC">
+      <body>I like hiking, and I've recently discovered kayaking</body>
+    </message>
+    <message id="m0012" participant="130529" time="2013-05-01 19:55:01 UTC">
+      <body>Nice; outdoorsy. Are there good places to kayak around here, or do you have to go pretty far out of town?</body>
+    </message>
+    <message id="m0013" participant="130519" time="2013-05-01 19:57:31 UTC">
+      <body>There may be closer places, but I've only gone to lake nockamixon. It's a ways out.</body>
+    </message>
+    <message id="m0014" participant="130519" time="2013-05-01 19:57:31 UTC">
+      <body>But it's nice and natury.</body>
+    </message>
+    <message id="m0015" participant="130529" time="2013-05-01 20:31:48 UTC">
+      <body>Very nice. I've always been kind of surprised at how many natury areas there are around Philly. Even the city parks can feel pretty removed sometimes.</body>
+    </message>
+    <message id="m0016" participant="130529" time="2013-05-01 20:33:00 UTC">
+      <body>How bout other forms of entertainment: books, movies, music, etc. Any of these of interest?</body>
+    </message>
+  </messages>
+</conversation>

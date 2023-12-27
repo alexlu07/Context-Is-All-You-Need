@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-07-26 11:10:17 UTC">
+      <body>Haha you again</body>
+    </message>
+    <message id="m0001" participant="130520" time="2013-07-26 11:11:32 UTC">
+      <body>Lol,we're officially the only people left</body>
+    </message>
+    <message id="m0002" participant="130520" time="2013-07-26 11:12:23 UTC">
+      <body>This weather is great</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-07-26 11:53:06 UTC">
+      <body>I know.</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-07-26 11:53:06 UTC">
+      <body>Is it supposed to be like this all weekend?</body>
+    </message>
+    <message id="m0005" participant="130520" time="2013-07-26 11:54:28 UTC">
+      <body>The temp stays in the low 80s but I think it might thunderstorm</body>
+    </message>
+  </messages>
+</conversation>

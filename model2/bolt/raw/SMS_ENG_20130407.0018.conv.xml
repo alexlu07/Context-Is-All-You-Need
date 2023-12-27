@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-04-07 00:00:51 UTC">
+      <body>Heading over soon. Room #?</body>
+    </message>
+    <message id="m0001" participant="131023" time="2013-04-07 00:02:28 UTC">
+      <body>1821</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-04-07 00:02:55 UTC">
+      <body>Thanks! See you soon!</body>
+    </message>
+  </messages>
+</conversation>

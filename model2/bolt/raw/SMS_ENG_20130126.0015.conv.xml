@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130126.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-01-26 19:38:46 UTC">
+      <body>U going to norristown today</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-01-26 19:38:50 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="132534" time="2013-01-26 20:39:12 UTC">
+      <body>Yeah I'll get them to you in a bit, got the one of will done, came to the Piazza</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-01-26 20:41:06 UTC">
+      <body>??</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-01-26 20:41:49 UTC">
+      <body>I asked if u were goin to ntown</body>
+    </message>
+    <message id="m0005" participant="132534" time="2013-01-26 20:48:10 UTC">
+      <body>Maybe tomorrow, I wasn't able to make it back in time for the bank :/</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-01-26 20:49:52 UTC">
+      <body>Ok so were lookin at next weekend then? </body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-01-27 01:52:00 UTC">
+      <body>Evidently Kurt is stacking... </body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-01-28 00:15:59 UTC">
+      <body>Yo can u tell ur moms to cash that check Tuesday... i just gotta put some cash in the bank tmrw</body>
+    </message>
+    <message id="m0009" participant="132534" time="2013-01-28 01:19:32 UTC">
+      <body>Cool, thanks</body>
+    </message>
+  </messages>
+</conversation>

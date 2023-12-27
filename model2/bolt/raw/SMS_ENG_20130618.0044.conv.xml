@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-18 12:47:50 UTC">
+      <body>Should I not open those emails?</body>
+    </message>
+    <message id="m0001" participant="132564" time="2013-06-18 15:48:58 UTC">
+      <body>Nope don't just delete em</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-18 15:49:33 UTC">
+      <body>OK </body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-18 16:00:07 UTC">
+      <body>I'm doing this study Sunday looking for ppl $50 if Ur friend interested</body>
+    </message>
+    <message id="m0004" participant="132564" time="2013-06-18 16:00:47 UTC">
+      <body>Cool thanks I'll ask her</body>
+    </message>
+    <message id="m0005" participant="132564" time="2013-06-18 20:09:54 UTC">
+      <body>She's interested. Who should she contact?</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-06-18 20:10:26 UTC">
+      <body>whats her email</body>
+    </message>
+    <message id="m0008" participant="130747" time="2013-06-18 20:41:04 UTC">
+      <body>I'll send her something tomorrow</body>
+    </message>
+    <message id="m0009" participant="132564" time="2013-06-18 20:43:20 UTC">
+      <body>Cool thank u. She says thanks too</body>
+    </message>
+  </messages>
+</conversation>

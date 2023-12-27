@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130105.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-01-05 02:09:32 UTC">
+      <body>I snagged one of those pens from work that Gillian liked. I'll drop it off sometime.</body>
+    </message>
+    <message id="m0001" participant="131508" time="2013-01-05 02:10:59 UTC">
+      <body>Awesome. You didn't have to do that. We are here all weekend except Gillian is gone Sunday. What are you guys up to this weekend?</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-01-05 02:43:43 UTC">
+      <body>Nothing planned. You and Gillian feel like coming by tomorrow?</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-01-05 23:08:26 UTC">
+      <body>Oh I forgot, making pizza and watching football was also scheduled today. How'd the table come out?</body>
+    </message>
+    <message id="m0004" participant="131508" time="2013-01-05 23:10:56 UTC">
+      <body>Great.  I got a bar tending Job tonight so I'm working</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-01-05 23:54:07 UTC">
+      <body>Sweet! Where you tending bar?</body>
+    </message>
+    <message id="m0006" participant="131508" time="2013-01-05 23:59:12 UTC">
+      <body>Private party</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-01-06 00:11:06 UTC">
+      <body>Very cool, if it was a bar somewhere local I would have stopped by on my run.</body>
+    </message>
+    <message id="m0008" participant="131508" time="2013-01-06 00:27:09 UTC">
+      <body>Haha</body>
+    </message>
+  </messages>
+</conversation>

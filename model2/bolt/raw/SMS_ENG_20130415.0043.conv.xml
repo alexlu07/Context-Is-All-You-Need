@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130415.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135374" time="2013-04-15 20:02:28 UTC">
+      <body>You ok?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-04-15 20:03:09 UTC">
+      <body>Yes. You in New York? Have you reached your parents? </body>
+    </message>
+    <message id="m0002" participant="135374" time="2013-04-15 20:03:12 UTC">
+      <body>Yea mom is downtown but ok</body>
+    </message>
+    <message id="m0003" participant="135374" time="2013-04-15 20:03:12 UTC">
+      <body>❤</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-04-15 20:04:00 UTC">
+      <body>Phew</body>
+    </message>
+  </messages>
+</conversation>

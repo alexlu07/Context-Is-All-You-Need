@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140315.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-15 15:25:52 UTC" participant="153634">
+      <body>did you have a good birthday? </body>
+    </message>
+    <message id="m0001" time="2014-03-15 16:04:30 UTC" participant="153548">
+      <body>It was pretty Low key and nice! Will you be home later? I'll try to call ya</body>
+    </message>
+    <message id="m0002" time="2014-03-15 16:10:40 UTC" participant="153634">
+      <body>good! I'll be out from 2-5ish my time and then later tonight so evening would work!</body>
+    </message>
+  </messages>
+</conversation>
+

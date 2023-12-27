@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121003.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-03 18:04:46 UTC">
+      <body>Wanna get food</body>
+    </message>
+    <message id="m0001" participant="136274" time="2012-10-03 18:35:09 UTC">
+      <body>Did you already go??</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-03 18:35:28 UTC">
+      <body>No I'm in my room</body>
+    </message>
+    <message id="m0003" participant="136274" time="2012-10-03 18:37:34 UTC">
+      <body>Yeah let's go </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-03 18:37:51 UTC">
+      <body>Yayyy</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-03 18:41:38 UTC">
+      <body>Or...do you wanna wait till 4? I have class at 3</body>
+    </message>
+    <message id="m0006" participant="136274" time="2012-10-03 18:42:08 UTC">
+      <body>Nah were gonna go now. Maya and I just woke up from sleeping through pace</body>
+    </message>
+  </messages>
+</conversation>

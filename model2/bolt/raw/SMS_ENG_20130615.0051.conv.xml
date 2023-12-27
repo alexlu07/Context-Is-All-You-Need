@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137385" time="2013-06-15 00:16:07 UTC">
+      <body>Get Sam. I got someone interested in Sunday if you still have room. Here is her info. </body>
+    </message>
+    <message id="m0002" participant="137385" time="2013-06-15 00:16:16 UTC">
+      <body>Hey, not get :)</body>
+    </message>
+    <message id="m0003" participant="137385" time="2013-06-15 00:16:26 UTC">
+      <body>It's Liz BTW. </body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-15 00:31:34 UTC">
+      <body>Plenty of room! Thanks. I called her but she didn't answer. Could you email her back?</body>
+    </message>
+    <message id="m0005" participant="137385" time="2013-06-15 00:32:00 UTC">
+      <body>I did and I gave her your address and number. </body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-06-15 00:32:52 UTC">
+      <body>Thanks!!</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-06-15 00:38:04 UTC">
+      <body>I told her it was the same price you advertised, which made her happy. What was your price?</body>
+    </message>
+    <message id="m0008" participant="137385" time="2013-06-15 00:38:24 UTC">
+      <body>$30</body>
+    </message>
+    <message id="m0009" participant="137385" time="2013-06-15 00:40:32 UTC">
+      <body>:). Sorry. I figured $30 was better than nothing :)</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-06-15 00:42:03 UTC">
+      <body>Alright, cool. I didn't want to just say $30 if your weekend rates were $40!</body>
+    </message>
+    <message id="m0011" participant="130706" time="2013-06-15 00:45:43 UTC">
+      <body>Oh no, $30 is great!! By the same token, I didn't want to say $30 if you advertised $25!</body>
+    </message>
+    <message id="m0012" participant="137385" time="2013-06-15 00:48:18 UTC">
+      <body>:). Hope it works out. </body>
+    </message>
+  </messages>
+</conversation>

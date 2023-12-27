@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-11-23 15:43:39 UTC">
+      <body>Eating at 11!</body>
+    </message>
+    <message id="m0001" participant="136202" time="2012-11-24 04:10:53 UTC">
+      <body>Everything ok?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-11-24 04:12:32 UTC">
+      <body>Yeah everything's good. Still hangin</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-11-24 06:45:34 UTC">
+      <body>Coming home?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-24 06:51:05 UTC">
+      <body>Yes on my way</body>
+    </message>
+    <message id="m0005" participant="136202" time="2012-11-24 06:51:52 UTC">
+      <body>Tks</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110901.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135118" time="2011-09-01 12:20:11 UTC">
+      <body>Hey look on line accident hugo its bad</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-09-01 12:20:38 UTC">
+      <body>Oh man, not you though right?</body>
+    </message>
+    <message id="m0002" participant="135118" time="2011-09-01 12:25:07 UTC">
+      <body>Had freeway shut down movin now</body>
+    </message>
+  </messages>
+</conversation>

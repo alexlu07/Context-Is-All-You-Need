@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130628.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-28 15:10:29 UTC">
+      <body>Hey nelson. Gonna run ball with my buddy tom around noon tomorrow if u wanna join</body>
+    </message>
+    <message id="m0001" participant="135630" time="2013-06-28 15:18:01 UTC">
+      <body>Yea dude def!</body>
+    </message>
+    <message id="m0002" participant="135630" time="2013-06-28 15:18:43 UTC">
+      <body>What you up to tonight</body>
+    </message>
+    <message id="m0003" participant="130747" time="2013-06-28 15:25:21 UTC">
+      <body>I think I'm Layin low tonight. Got something to do tomorrow at 8am</body>
+    </message>
+    <message id="m0004" participant="135630" time="2013-06-28 15:35:00 UTC">
+      <body>Arite man c you tomorrow</body>
+    </message>
+    <message id="m0005" participant="130747" time="2013-06-28 15:38:34 UTC">
+      <body>OK I'll hit u up</body>
+    </message>
+  </messages>
+</conversation>

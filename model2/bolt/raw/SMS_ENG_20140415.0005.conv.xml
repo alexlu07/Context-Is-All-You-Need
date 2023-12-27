@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140415.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-15 12:59:42 UTC" participant="153489">
+      <body>Hey would you be interested at all in taking a ceramics class in the city?</body>
+    </message>
+    <message id="m0001" time="2014-04-15 13:06:31 UTC" participant="152374">
+      <body>Probably not. I think it's a beautiful craft but not really my thing</body>
+    </message>
+    <message id="m0002" time="2014-04-15 13:14:20 UTC" participant="153489">
+      <body>I figured but thought I'd offer anyways since we're short a few people</body>
+    </message>
+    <message id="m0003" time="2014-04-15 13:15:01 UTC" participant="152374">
+      <body>Appreciate the thought!</body>
+    </message>
+  </messages>
+</conversation>
+

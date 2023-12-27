@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141019.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-19 03:01:20 UTC" participant="153639">
+      <body>How are you by the way?</body>
+    </message>
+    <message id="m0001" time="2014-10-19 14:21:21 UTC" participant="153548">
+      <body>I'm good! I'm losing me edge more and more every day which is sending me into a doom spiral.</body>
+    </message>
+    <message id="m0002" time="2014-10-19 14:21:39 UTC" participant="153548">
+      <body>Just a regular old 31 year old lady.</body>
+    </message>
+  </messages>
+</conversation>
+

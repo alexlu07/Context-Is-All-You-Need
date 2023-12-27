@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121024.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-24 03:47:19 UTC">
+      <body>Do you still have that extra phone case</body>
+    </message>
+    <message id="m0001" participant="136270" time="2012-10-24 03:52:32 UTC">
+      <body>I do</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-24 03:53:03 UTC">
+      <body>I can haz?</body>
+    </message>
+    <message id="m0003" participant="136270" time="2012-10-24 04:01:04 UTC">
+      <body>Yez</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-24 04:02:30 UTC">
+      <body>$wag</body>
+    </message>
+    <message id="m0005" participant="136270" time="2012-10-24 04:05:20 UTC">
+      <body>Im in my study lounge</body>
+    </message>
+  </messages>
+</conversation>

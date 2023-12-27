@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130306.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-06 20:04:30 UTC" participant="152535">
+      <body>Hey did u get the French horn part made for brazil? I can send a copy to you. Just let me know. Thanks</body>
+    </message>
+    <message id="m0001" time="2013-03-06 20:23:39 UTC" participant="152417">
+      <body>Not yet, can i come pick up the full score today or tomorrow?  The orchestration really depends on having all the parts covered so i may need to adjust a lot</body>
+    </message>
+    <message id="m0002" time="2013-03-06 22:21:52 UTC" participant="152535">
+      <body>Sure. Tomorrow I will be at school until 330. I can also send it to your school mail box?</body>
+    </message>
+    <message id="m0003" time="2013-03-06 22:23:17 UTC" participant="152417">
+      <body>Ill stop by and say hi</body>
+    </message>
+    <message id="m0004" time="2013-03-06 22:24:00 UTC" participant="152535">
+      <body>Awesome! I'd love to see you</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140705.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-05 13:42:58 UTC" participant="154895">
+      <body>Are you picking up that dog today?</body>
+    </message>
+    <message id="m0001" time="2014-07-05 15:26:46 UTC" participant="153244">
+      <body>Yes is mom coming with me?</body>
+    </message>
+    <message id="m0002" time="2014-07-05 15:34:23 UTC" participant="154895">
+      <body>I dont think so, but ill come, youd have to pick me up down the lakes</body>
+    </message>
+    <message id="m0003" time="2014-07-05 15:45:51 UTC" participant="153244">
+      <body>I don't have time to drive to the lakes im going there straight from work. They close early I only have 20 minutes to get there</body>
+    </message>
+    <message id="m0004" time="2014-07-05 15:48:28 UTC" participant="154895">
+      <body>When? Ill start walking</body>
+    </message>
+    <message id="m0005" time="2014-07-05 15:50:10 UTC" participant="154895">
+      <body>I could start walkin back</body>
+    </message>
+    <message id="m0006" time="2014-07-05 16:01:08 UTC" participant="154895">
+      <body>You should drive us</body>
+    </message>
+    <message id="m0007" time="2014-07-05 16:17:48 UTC" participant="154895">
+      <body>Were walkin home now, should be at nicks in 20 to 37 mins</body>
+    </message>
+    <message id="m0008" time="2014-07-05 17:01:18 UTC" participant="154895">
+      <body>Are you done work?</body>
+    </message>
+    <message id="m0009" time="2014-07-05 18:57:35 UTC" participant="153244">
+      <body>Im leaving work in 5-10 mins. Where are you?</body>
+    </message>
+    <message id="m0010" time="2014-07-05 19:01:21 UTC" participant="154895">
+      <body>Nicks, come get me</body>
+    </message>
+    <message id="m0011" time="2014-07-05 19:02:09 UTC" participant="153244">
+      <body>Ok.</body>
+    </message>
+  </messages>
+</conversation>
+

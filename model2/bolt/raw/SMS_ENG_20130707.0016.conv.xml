@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130794" time="2013-07-07 20:26:31 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="131164" time="2013-07-07 20:49:53 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="130794" time="2013-07-07 20:50:33 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="131164" time="2013-07-07 20:51:24 UTC">
+      <body>I am good you</body>
+    </message>
+    <message id="m0004" participant="130794" time="2013-07-07 20:51:48 UTC">
+      <body>Good</body>
+    </message>
+    <message id="m0005" participant="131164" time="2013-07-07 20:52:35 UTC">
+      <body>What are you up to?</body>
+    </message>
+    <message id="m0006" participant="130794" time="2013-07-07 20:53:31 UTC">
+      <body>Just hanging out. What about you?</body>
+    </message>
+    <message id="m0007" participant="131164" time="2013-07-07 20:54:56 UTC">
+      <body>Watching the new die hard</body>
+    </message>
+    <message id="m0008" participant="130794" time="2013-07-07 20:55:45 UTC">
+      <body>Any good so far?</body>
+    </message>
+    <message id="m0009" participant="130794" time="2013-07-08 12:47:55 UTC">
+      <body>Good morning</body>
+    </message>
+    <message id="m0010" participant="131164" time="2013-07-08 15:46:43 UTC">
+      <body>Good afternoon</body>
+    </message>
+    <message id="m0011" participant="130794" time="2013-07-08 16:10:21 UTC">
+      <body>How is your day going?</body>
+    </message>
+    <message id="m0012" participant="131164" time="2013-07-08 16:17:03 UTC">
+      <body>Super long and you?</body>
+    </message>
+    <message id="m0013" participant="130794" time="2013-07-08 16:23:15 UTC">
+      <body>Not too bad...just at work</body>
+    </message>
+  </messages>
+</conversation>

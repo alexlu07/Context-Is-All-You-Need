@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130994" time="2013-05-29 20:02:03 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-29 20:34:36 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="130994" time="2013-05-29 20:57:10 UTC">
+      <body>How are you tonight?</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-05-30 09:12:14 UTC">
+      <body>Sorry dealing with a sick toddler last night. Not too bad. You self?</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-05-30 09:13:02 UTC">
+      <body>Getting hot.</body>
+    </message>
+    <message id="m0005" participant="130994" time="2013-05-30 09:14:13 UTC">
+      <body>We are expecting 90 today</body>
+    </message>
+  </messages>
+</conversation>

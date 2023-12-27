@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 14:38:35 UTC" participant="152116">
+      <body>I ordered AncestryDNA</body>
+    </message>
+    <message id="m0001" time="2015-01-07 21:21:24 UTC" participant="153244">
+      <body>That's cool.. you have to let me know when you get the results.  And we need to set time aside for you to show me what research you've found so far</body>
+    </message>
+    <message id="m0002" time="2015-01-07 21:21:48 UTC" participant="153244">
+      <body>Btw my eye surgery is tomorrow</body>
+    </message>
+    <message id="m0003" time="2015-01-07 21:47:25 UTC" participant="152116">
+      <body>Yeah I remember. What time?</body>
+    </message>
+    <message id="m0004" time="2015-01-07 21:47:41 UTC" participant="152116">
+      <body>And sure. I'll show you</body>
+    </message>
+    <message id="m0005" time="2015-01-07 21:48:20 UTC" participant="152116">
+      <body>I keep reading though that the DNA results are different for each sibling because we each inherit different genes from different ancestors.</body>
+    </message>
+    <message id="m0006" time="2015-01-08 00:05:21 UTC" participant="153244">
+      <body>Oh shit! So ill have to order it eventually to see what I am too</body>
+    </message>
+    <message id="m0007" time="2015-01-08 00:07:48 UTC" participant="152116">
+      <body>Yeah haha</body>
+    </message>
+  </messages>
+</conversation>
+

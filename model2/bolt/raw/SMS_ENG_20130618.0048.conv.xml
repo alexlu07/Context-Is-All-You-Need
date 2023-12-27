@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136633" time="2013-06-18 01:29:09 UTC">
+      <body>Im sending you a copy of my ppt by 11pm.thank you</body>
+    </message>
+    <message id="m0001" participant="130693" time="2013-06-18 01:30:18 UTC">
+      <body>Not sure if i can check it tonight but i will do my best</body>
+    </message>
+    <message id="m0002" participant="136633" time="2013-06-18 01:30:56 UTC">
+      <body>Ok.thank you</body>
+    </message>
+  </messages>
+</conversation>

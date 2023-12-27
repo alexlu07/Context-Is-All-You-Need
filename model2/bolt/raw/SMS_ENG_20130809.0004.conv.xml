@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130809.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-09 20:47:26 UTC" participant="154352">
+      <body>Do you have any plastic cutlery? I can't find the stuff i thought i had.</body>
+    </message>
+    <message id="m0001" time="2013-08-09 20:50:45 UTC" participant="154352">
+      <body>I got some.</body>
+    </message>
+    <message id="m0002" time="2013-08-09 20:51:30 UTC" participant="154392">
+      <body>I have paper plates only</body>
+    </message>
+    <message id="m0003" time="2013-08-09 20:51:55 UTC" participant="154392">
+      <body>Ill be there around 5:30</body>
+    </message>
+    <message id="m0004" time="2013-08-09 20:52:09 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

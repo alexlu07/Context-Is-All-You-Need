@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140215.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-15 20:06:29 UTC" participant="152424">
+      <body>want to shoot to be at my house at 8?</body>
+    </message>
+    <message id="m0002" time="2014-02-15 20:27:57 UTC" participant="152417">
+      <body>Your game will be over by then?</body>
+    </message>
+    <message id="m0003" time="2014-02-15 20:29:43 UTC" participant="152424">
+      <body>make it 8:15.  I should be home by then.  it's indoor</body>
+    </message>
+    <message id="m0004" time="2014-02-15 20:33:12 UTC" participant="152417">
+      <body>Ok, cool</body>
+    </message>
+    <message id="m0005" time="2014-02-15 23:23:40 UTC" participant="152424">
+      <body>I'm getting drinks with Gabe at Grace tavern at 8:30.  y'all want to join?</body>
+    </message>
+    <message id="m0006" time="2014-02-15 23:25:54 UTC" participant="152424">
+      <body>fair enough</body>
+    </message>
+    <message id="m0007" time="2014-02-16 01:36:45 UTC" participant="152417">
+      <body>Gettin off the train</body>
+    </message>
+    <message id="m0008" time="2014-02-16 01:39:37 UTC" participant="152424">
+      <body>sweet see you there</body>
+    </message>
+  </messages>
+</conversation>
+

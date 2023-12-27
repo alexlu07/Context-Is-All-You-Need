@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140618.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-18 15:22:32 UTC" participant="149306">
+      <body>Happy birthday hunter! Hope you are keeping cool down south</body>
+    </message>
+    <message id="m0001" time="2014-06-18 17:35:10 UTC" participant="149360">
+      <body>Thanks. It's hotter in Philly than here today</body>
+    </message>
+    <message id="m0002" time="2014-06-18 17:35:56 UTC" participant="149306">
+      <body>Shit, that's not fair</body>
+    </message>
+    <message id="m0003" time="2014-06-18 17:48:03 UTC" participant="149360">
+      <body>It's cooler at my parents house</body>
+    </message>
+  </messages>
+</conversation>
+

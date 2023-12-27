@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131030" time="2012-12-27 16:12:59 UTC">
+      <body>Tonight is good, but there is a glitch.##### has taken ill! He seems to have a bad cold/flu. We will see how he feels a little later. But if he isn't well, I will come alone. Just hanging out at your mom's house sounds just fine!!</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-12-27 16:15:28 UTC">
+      <body>Aw, I hope he feels better! Keep me posted, and you're welcome over here any time!!</body>
+    </message>
+    <message id="m0002" participant="131030" time="2012-12-27 16:21:50 UTC">
+      <body>Okay! What time would be good? Any time 5:30 or after works for me. </body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-12-27 16:36:30 UTC">
+      <body>Whenever you're ready! We'll be here.</body>
+    </message>
+    <message id="m0004" participant="131030" time="2012-12-27 16:52:38 UTC">
+      <body>Okay! I'll keep you posted!</body>
+    </message>
+    <message id="m0005" participant="130712" time="2012-12-27 16:52:47 UTC">
+      <body>Excellent. Have a great day at work!!</body>
+    </message>
+    <message id="m0006" participant="131030" time="2012-12-28 00:14:05 UTC">
+      <body>Ryan has gotten worse so I will be coming alone. We will eat at your mom's? Or should I eat before? </body>
+    </message>
+    <message id="m0007" participant="130712" time="2012-12-28 00:23:19 UTC">
+      <body>We'll eat here! Please tell Ryan that we hope he feels better!</body>
+    </message>
+    <message id="m0008" participant="130712" time="2012-12-28 00:36:03 UTC">
+      <body>Oh and feel free to wear pajamas!</body>
+    </message>
+    <message id="m0009" participant="131030" time="2012-12-28 01:25:54 UTC">
+      <body>On my way! In pajamas!</body>
+    </message>
+  </messages>
+</conversation>

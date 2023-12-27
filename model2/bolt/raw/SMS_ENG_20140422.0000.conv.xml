@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140422.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-22 22:56:08 UTC" participant="149360">
+      <body>Got some oyster mushrooms if u want some</body>
+    </message>
+    <message id="m0001" time="2014-04-22 23:04:16 UTC" participant="149306">
+      <body>Yes! I'll be home in an hour or so</body>
+    </message>
+    <message id="m0002" time="2014-04-23 16:48:08 UTC" participant="149360">
+      <body>Can u help me move this oven?</body>
+    </message>
+    <message id="m0003" time="2014-04-23 16:56:56 UTC" participant="149306">
+      <body>I'm working at the show till late tonight. I could help u then if u can wait</body>
+    </message>
+    <message id="m0004" time="2014-04-23 16:57:36 UTC" participant="149360">
+      <body>Where is my pipe wrench that u had 2 days ago?</body>
+    </message>
+    <message id="m0005" time="2014-04-23 16:58:30 UTC" participant="149306">
+      <body>Back in the basement where I found it. Between the table saw and the framing table I think</body>
+    </message>
+  </messages>
+</conversation>
+

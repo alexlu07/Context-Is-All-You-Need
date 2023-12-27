@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120911.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135106" time="2012-09-11 01:36:00 UTC">
+      <body>Honey boo boo- what address should I enter into my GPS in order to get to you tomorrow?</body>
+    </message>
+    <message id="m0002" participant="135106" time="2012-09-11 01:46:40 UTC">
+      <body>:) hugs are coming your way! Planning to arrive btw 10-11. Cool?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-09-11 01:47:08 UTC">
+      <body>Cool!!!!! :) :) :)</body>
+    </message>
+    <message id="m0004" participant="135106" time="2012-09-11 01:48:48 UTC">
+      <body>Lovely! See you tomorrow!</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-09-11 13:37:58 UTC">
+      <body>Hey! You're coming! What's your eta? </body>
+    </message>
+    <message id="m0006" participant="135106" time="2012-09-11 14:15:28 UTC">
+      <body>I found 926 but I can't find 928 haha</body>
+    </message>
+  </messages>
+</conversation>

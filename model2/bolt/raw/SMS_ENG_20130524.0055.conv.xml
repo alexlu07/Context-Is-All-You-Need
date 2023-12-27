@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-05-24 13:06:03 UTC">
+      <body>Hey dude, happy belated birthday! Quick question re rehearsal dinner: the entrees on the menu will be crab cakes, chicken, steak. There's also a vegan entree (bangin polenta with red beans) but we need to submir the count for that ahead of time...am I cor</body>
+    </message>
+    <message id="m0001" participant="131491" time="2013-05-24 16:05:14 UTC">
+      <body>Thanks! Yep anything vegetarian/vegan would be great!</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-05-24 17:57:09 UTC">
+      <body>Okay perfect!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150104.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-04 07:01:20 UTC" participant="153412">
+      <body>Hi. Just got home. </body>
+    </message>
+    <message id="m0001" time="2015-01-04 07:17:23 UTC" participant="153412">
+      <body>You okay?</body>
+    </message>
+    <message id="m0002" time="2015-01-04 14:33:28 UTC" participant="153414">
+      <body>Sorry darling! I didnt have my phone on me at work. Purty lashes :-p and i hope you had a really good time! Call ya when i wake up :) Kiss you</body>
+    </message>
+  </messages>
+</conversation>
+

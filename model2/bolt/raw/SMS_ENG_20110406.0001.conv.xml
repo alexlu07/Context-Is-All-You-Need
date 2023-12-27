@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110406.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-04-06 19:04:48 UTC">
+      <body>Hey matt. Do you have steve g's number?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-05-02 15:31:49 UTC">
+      <body>Approx. how large does this turntable have to be, and can it be manually operated?</body>
+    </message>
+    <message id="m0002" participant="130768" time="2012-05-02 15:36:32 UTC">
+      <body>We might need two so that two awards can rotate towards each other </body>
+    </message>
+    <message id="m0003" participant="130768" time="2012-05-02 15:36:32 UTC">
+      <body>Prob 2-3 ft</body>
+    </message>
+    <message id="m0004" participant="130692" time="2012-05-02 15:41:22 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" participant="130692" time="2012-05-06 15:40:46 UTC">
+      <body>So 8am call tomm? What's the address of the warehouse?</body>
+    </message>
+  </messages>
+</conversation>

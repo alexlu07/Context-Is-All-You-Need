@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121121.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-21 13:42:15 UTC" participant="153469">
+      <body>I need to thank you again for my food processor, it has been my #1 workhorse for thanksgiving prep</body>
+    </message>
+    <message id="m0001" time="2012-11-21 13:43:06 UTC" participant="152374">
+      <body>Yay! I'm glad it's working out for you</body>
+    </message>
+    <message id="m0002" time="2012-11-21 13:44:00 UTC" participant="153469">
+      <body>So many onions this year, my god</body>
+    </message>
+  </messages>
+</conversation>
+

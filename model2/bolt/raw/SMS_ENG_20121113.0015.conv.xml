@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121113.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135271" time="2012-11-13 00:01:17 UTC">
+      <body>Hey, I'm at a bar. Will you be around in 30mins or so?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2012-11-13 00:01:35 UTC">
+      <body>Yep! Sorry about that</body>
+    </message>
+    <message id="m0002" participant="135271" time="2012-11-13 00:07:14 UTC">
+      <body>Cool. No worries,'nothing to be sorry about. </body>
+    </message>
+    <message id="m0003" participant="135271" time="2012-11-13 01:44:32 UTC">
+      <body>Did you accept?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2012-11-13 15:34:29 UTC">
+      <body>Happy Diwali </body>
+    </message>
+    <message id="m0005" participant="135271" time="2012-11-13 16:53:20 UTC">
+      <body>Why thank you! It is! It's kind of big deal :P</body>
+    </message>
+    <message id="m0006" participant="135080" time="2012-11-13 16:54:46 UTC">
+      <body>What is it? </body>
+    </message>
+    <message id="m0007" participant="135271" time="2012-11-13 18:47:53 UTC">
+      <body>Oh you know, just the biggest holiday in Hinduism. Triumph of good over evil. Fireworks. The usual. </body>
+    </message>
+    <message id="m0008" participant="135080" time="2012-11-13 19:35:38 UTC">
+      <body>Ohh haha then have a REALLY happy Diwali </body>
+    </message>
+    <message id="m0009" participant="135271" time="2012-11-13 19:39:44 UTC">
+      <body>Hahaha I will indeed</body>
+    </message>
+  </messages>
+</conversation>

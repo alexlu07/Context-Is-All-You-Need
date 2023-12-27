@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-14 18:18:02 UTC" participant="154390">
+      <body>How did it go being a ranger last weekend?</body>
+    </message>
+    <message id="m0001" time="2013-07-14 18:19:03 UTC" participant="154352">
+      <body>It was a fun time. How was camp?</body>
+    </message>
+    <message id="m0002" time="2013-07-14 20:39:39 UTC" participant="154390">
+      <body>Cool.  Camp was tiring but good :)</body>
+    </message>
+  </messages>
+</conversation>
+

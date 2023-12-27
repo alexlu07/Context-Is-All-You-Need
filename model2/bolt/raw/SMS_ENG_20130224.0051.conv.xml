@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-24 02:15:08 UTC">
+      <body>you good to drive tomorrow morning? </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-02-24 02:48:44 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0002" participant="136152" time="2013-02-24 14:02:48 UTC">
+      <body>If it helps I can pick you up at woodruff! No pressure. And I'll pick you guys up for IDX tonight too.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-02-24 14:04:09 UTC">
+      <body>eh, i won't be ready in time regardless... this might be a godsent sign that i need to study for my ling midterm. tonight would be good though, thanks! </body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-24 14:44:33 UTC">
+      <body>hahahahahahahaha. dying. that's so perfect. </body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-02-24 20:33:01 UTC">
+      <body>what time are you coming to pick us up? </body>
+    </message>
+    <message id="m0006" participant="136152" time="2013-02-24 20:33:33 UTC">
+      <body>Let's go with 5:20 at woodruff</body>
+    </message>
+  </messages>
+</conversation>

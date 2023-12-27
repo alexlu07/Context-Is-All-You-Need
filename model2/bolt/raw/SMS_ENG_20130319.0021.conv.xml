@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130319.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135455" time="2013-03-19 22:53:38 UTC">
+      <body>Hey just an FYI- Fred will help me tomorrow after one to solidify the cApacitance sensor if I can't do it myself.   See you then!!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-20 16:46:23 UTC">
+      <body>Yo I never got the hand cut. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-03-20 16:46:37 UTC">
+      <body>Should I try to do it?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-03-20 16:46:51 UTC">
+      <body>I don't mind</body>
+    </message>
+    <message id="m0004" participant="135455" time="2013-03-20 16:48:58 UTC">
+      <body>It would be great if you could</body>
+    </message>
+    <message id="m0005" participant="135455" time="2013-03-20 16:49:08 UTC">
+      <body>And make it 20% smaller</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-03-20 18:21:16 UTC">
+      <body>Cindyloo where are you</body>
+    </message>
+    <message id="m0007" participant="135455" time="2013-03-20 18:35:12 UTC">
+      <body>Parking</body>
+    </message>
+    <message id="m0008" participant="135455" time="2013-03-20 18:41:47 UTC">
+      <body>Be up on 11tj in 5</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-03-20 18:42:10 UTC">
+      <body>I'm waiting at the laser cutter</body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-03-20 18:42:24 UTC">
+      <body>So I'm not there but ill come join you</body>
+    </message>
+    <message id="m0011" participant="130622" time="2013-03-20 19:16:19 UTC">
+      <body>I'm coming to you</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-19 20:52:34 UTC">
+      <body>1130am tomorrow for elle's guitar lesson?</body>
+    </message>
+    <message id="m0001" participant="131369" time="2013-04-19 23:47:07 UTC">
+      <body>Let u no tonite</body>
+    </message>
+    <message id="m0002" participant="131369" time="2013-04-20 18:29:59 UTC">
+      <body>Been so busy hows 330</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-20 18:33:01 UTC">
+      <body>cool. see you then!</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-04-20 22:34:51 UTC">
+      <body>the dog is out....</body>
+    </message>
+  </messages>
+</conversation>

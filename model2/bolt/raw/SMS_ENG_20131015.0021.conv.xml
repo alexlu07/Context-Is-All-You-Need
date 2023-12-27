@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131015.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-15 18:21:34 UTC" participant="154407">
+      <body>Sure. I could do Sunday? Stuck in a conference on Saturday that goes till 11pm. Woo</body>
+    </message>
+    <message id="m0001" time="2013-10-15 20:12:38 UTC" participant="154352">
+      <body>Sunday works for me</body>
+    </message>
+    <message id="m0002" time="2013-10-15 20:29:08 UTC" participant="154407">
+      <body>Kewl so what's a good place to meet up</body>
+    </message>
+  </messages>
+</conversation>
+

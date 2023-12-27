@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140829.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-29 12:47:59 UTC" participant="153900">
+      <body>What time you leaving</body>
+    </message>
+    <message id="m0001" time="2014-08-29 13:56:01 UTC" participant="153900">
+      <body>What time are you leaving</body>
+    </message>
+    <message id="m0002" time="2014-08-29 22:53:35 UTC" participant="153244">
+      <body>20 minutes away from hotel but we made it</body>
+    </message>
+    <message id="m0003" time="2014-08-29 22:54:07 UTC" participant="153900">
+      <body>Ok let</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0027" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130562" time="2013-05-19 12:56:53 UTC">
+      <body>Hey, have a good weekend so far?</body>
+    </message>
+    <message id="m0001" participant="130633" time="2013-05-19 12:58:10 UTC">
+      <body>Not so great really -- my mil passed away. You?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-05-19 12:59:47 UTC">
+      <body>Wow I'm real sorry to hear that</body>
+    </message>
+    <message id="m0003" participant="130633" time="2013-05-19 13:01:58 UTC">
+      <body>Yeah -- she was 89 though so not a real shock.</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-05-19 13:13:10 UTC">
+      <body>I'm glad it wasn't a shock, but that's still really unfortunate</body>
+    </message>
+    <message id="m0005" participant="130633" time="2013-05-19 13:14:10 UTC">
+      <body>Yup. But are you having a good weekend?</body>
+    </message>
+    <message id="m0006" participant="130562" time="2013-05-19 13:15:04 UTC">
+      <body>It's been relaxing - ate some good food and didnt have to work too much</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120224.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-02-24 18:36:33 UTC" participant="152374">
+      <body>I'm home</body>
+    </message>
+    <message id="m0001" time="2012-02-24 19:08:35 UTC" participant="153464">
+      <body>I'm at your door!</body>
+    </message>
+    <message id="m0002" time="2012-02-24 19:09:50 UTC" participant="153464">
+      <body>literally. Listen!</body>
+    </message>
+    <message id="m0003" time="2012-02-25 01:38:13 UTC" participant="152374">
+      <body>The bar is MOBBED. Moving to ############, one block south, one west, across from ####!</body>
+    </message>
+    <message id="m0004" time="2012-02-25 01:57:00 UTC" participant="153464">
+      <body>At the motel?</body>
+    </message>
+  </messages>
+</conversation>
+

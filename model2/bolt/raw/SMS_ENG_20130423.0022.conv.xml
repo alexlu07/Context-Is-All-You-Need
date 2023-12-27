@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130423.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-04-23 01:00:40 UTC">
+      <body>Hey, I'm in the insc - you should come join!</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-23 01:11:52 UTC">
+      <body>I feel so wanted! :D</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-04-23 19:30:03 UTC">
+      <body>Hey, I'm going into the city tonight, so I need to do dinner earlier. Does anyone</body>
+    </message>
+    <message id="m0003" participant="135275" time="2013-04-23 19:31:30 UTC">
+      <body>Anyone want to do dinner at 5 or 5:15?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-23 20:11:17 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-04-23 20:14:45 UTC">
+      <body>Yay! Can we do 5?</body>
+    </message>
+  </messages>
+</conversation>

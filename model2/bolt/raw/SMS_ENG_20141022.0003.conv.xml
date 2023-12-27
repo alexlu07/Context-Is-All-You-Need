@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141022.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-22 22:44:31 UTC" participant="152735">
+      <body>Hi! Julie said you were coming to Philly for Penn homecoming?!!! Is that this Saturday? If so, I will join you guys! I haven't seen you in so long.</body>
+    </message>
+    <message id="m0001" time="2014-10-23 13:39:12 UTC" participant="152742">
+      <body>Hey! It's actually next weekend! I'm not sure yet if I'm even going to any actual homecoming events, but I'll be in Philly sat/sun. You're coming to Julie's bday party on sun, right??</body>
+    </message>
+    <message id="m0002" time="2014-10-23 17:31:52 UTC" participant="152735">
+      <body>Yes! Definitely. So either way I will see you there for sure </body>
+    </message>
+    <message id="m0003" time="2014-10-23 19:58:46 UTC" participant="152742">
+      <body>Yay!</body>
+    </message>
+  </messages>
+</conversation>
+

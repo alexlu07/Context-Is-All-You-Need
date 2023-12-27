@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121104.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130936" time="2012-11-04 00:18:00 UTC">
+      <body>Hello jeremy and kennedy, thank you very much for your reply. We already found a host, but really appreciate it. Maybe we can meet up tomorrow if u want.</body>
+    </message>
+    <message id="m0001" participant="130936" time="2012-11-04 00:18:04 UTC">
+      <body> We're taking a tour at ten, and will be around the city until six. Asaf and alyssa</body>
+    </message>
+    <message id="m0002" participant="130755" time="2012-11-04 00:19:07 UTC">
+      <body>Great! We're both working all day tomorrow so won't be able to meet :-( but enjoy Philly!</body>
+    </message>
+    <message id="m0003" participant="130936" time="2012-11-04 00:21:23 UTC">
+      <body>Thanks, we will, or are actually. Maybe next time then. Have a nice day tomorrow.</body>
+    </message>
+  </messages>
+</conversation>

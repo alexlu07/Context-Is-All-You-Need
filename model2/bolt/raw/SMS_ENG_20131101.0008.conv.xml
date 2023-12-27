@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131101.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-01 21:10:30 UTC" participant="152535">
+      <body>Outside</body>
+    </message>
+    <message id="m0001" time="2013-11-01 21:12:33 UTC" participant="152417">
+      <body>Be out in a second</body>
+    </message>
+    <message id="m0002" time="2013-11-01 21:13:00 UTC" participant="152535">
+      <body>No worries. Clipboard :)</body>
+    </message>
+    <message id="m0003" time="2013-11-02 19:50:09 UTC" participant="152417">
+      <body>Jeh kulu is at 4, you should see this show</body>
+    </message>
+    <message id="m0004" time="2013-11-02 19:54:07 UTC" participant="152535">
+      <body>Im not able to but i heard they are performing next weekend?</body>
+    </message>
+    <message id="m0005" time="2013-11-02 19:54:25 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

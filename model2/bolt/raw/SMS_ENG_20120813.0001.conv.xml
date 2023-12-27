@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120813.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-08-13 19:48:33 UTC">
+      <body>What's dads birthday year?</body>
+    </message>
+    <message id="m0001" participant="135103" time="2012-08-13 20:11:18 UTC">
+      <body>Dad was born in 1959</body>
+    </message>
+  </messages>
+</conversation>

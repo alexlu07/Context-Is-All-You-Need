@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150402.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-02 00:05:26 UTC" participant="152735">
+      <body>Hello! Is your 2004 still for sale?</body>
+    </message>
+    <message id="m0001" time="2015-04-02 00:05:34 UTC" participant="152735">
+      <body>*2004 subaru impreza </body>
+    </message>
+    <message id="m0002" time="2015-04-02 00:05:52 UTC" participant="152735">
+      <body>And would you be open to showing it tomorrow?</body>
+    </message>
+    <message id="m0003" time="2015-04-02 13:34:56 UTC" participant="152740">
+      <body>Yes the Subaru is still available you can come to see he car today anytime after 1pm let me know I can text you the address</body>
+    </message>
+    <message id="m0004" time="2015-04-02 13:37:50 UTC" participant="152735">
+      <body>Great! Is around 6 ok? Do you have the vin number? Thank you! See you tonight.</body>
+    </message>
+    <message id="m0005" time="2015-04-02 13:41:05 UTC" participant="152740">
+      <body>Yes 6 is fine you can get the vin off the website www.chesapeakemotors.com</body>
+    </message>
+    <message id="m0006" time="2015-04-02 13:47:15 UTC" participant="152735">
+      <body>Thank you!</body>
+    </message>
+    <message id="m0007" time="2015-04-02 15:01:46 UTC" participant="152735">
+      <body>Great. My name is Ingrid and I'll bring my boyfriend bc he is a mechanic and his name is Alec. See you this evening! </body>
+    </message>
+    <message id="m0008" time="2015-04-02 15:02:36 UTC" participant="152735">
+      <body>This is the exact model and year I want, and I've seen a few so far but they had horrible corrosion it really bad transmission slipping issues. If this is in good condition then it is def a sale. See you soon.</body>
+    </message>
+    <message id="m0009" time="2015-04-02 15:19:28 UTC" participant="152740">
+      <body>Ok see you soon</body>
+    </message>
+  </messages>
+</conversation>
+

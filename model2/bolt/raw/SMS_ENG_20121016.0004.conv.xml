@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121016.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-16 16:11:32 UTC">
+      <body>Can I discuss with you?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-16 16:11:34 UTC">
+      <body>15 min</body>
+    </message>
+    <message id="m0002" participant="135354" time="2012-10-16 16:14:56 UTC">
+      <body> Yes I will call you at 12:30</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-10-16 16:15:02 UTC">
+      <body>Ok great</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131017.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-17 12:26:12 UTC" participant="153548">
+      <body>Hey! I am going to leave work at 5:30 today. Toms at 6:00? </body>
+    </message>
+    <message id="m0001" time="2013-10-17 12:34:41 UTC" participant="153640">
+      <body>Sounds great. </body>
+    </message>
+    <message id="m0002" time="2013-10-17 12:34:55 UTC" participant="153548">
+      <body>See you then!</body>
+    </message>
+  </messages>
+</conversation>
+

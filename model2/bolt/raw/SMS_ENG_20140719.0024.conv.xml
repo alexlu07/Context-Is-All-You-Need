@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140719.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-19 15:42:10 UTC" participant="154895">
+      <body>Are you working today?</body>
+    </message>
+    <message id="m0001" time="2014-07-19 15:56:57 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2014-07-19 16:02:53 UTC" participant="154895">
+      <body>I should come over</body>
+    </message>
+    <message id="m0003" time="2014-07-19 16:03:26 UTC" participant="153244">
+      <body>What after I get done work? Im packing to leave for the shore</body>
+    </message>
+    <message id="m0004" time="2014-07-19 16:11:00 UTC" participant="154895">
+      <body>Nevermind</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-18 22:45:21 UTC">
+      <body>Chicago under water?</body>
+    </message>
+    <message id="m0001" participant="132536" time="2013-04-18 22:45:59 UTC">
+      <body>Lol I mean there are some big puddles</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-18 22:46:31 UTC">
+      <body>Oh I heard there was some flooding or something up there</body>
+    </message>
+    <message id="m0003" participant="132536" time="2013-04-18 22:48:19 UTC">
+      <body>Yeah some shit like that but not by me</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-04-18 22:54:24 UTC">
+      <body>oh that's good</body>
+    </message>
+  </messages>
+</conversation>

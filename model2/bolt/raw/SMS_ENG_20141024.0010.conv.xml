@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141024.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-24 23:31:18 UTC" participant="149372">
+      <body>I'm home if you want to come get mudding stuff. Do you know where and what it is?</body>
+    </message>
+    <message id="m0001" time="2014-10-24 23:35:26 UTC" participant="153547">
+      <body>I was assuming it was in the van because I scoured your house and didn't find any. </body>
+    </message>
+    <message id="m0002" time="2014-10-24 23:36:27 UTC" participant="153547">
+      <body>Can I check the van in the morning under the light of day?</body>
+    </message>
+    <message id="m0003" time="2014-10-24 23:39:40 UTC" participant="149372">
+      <body>Yeah, I'm working in Germantown in the morning but if you come between 8 and 9am I can be here.</body>
+    </message>
+    <message id="m0004" time="2014-10-24 23:39:50 UTC" participant="149372">
+      <body>Also, Adam may still have a bunch of that stuff.</body>
+    </message>
+    <message id="m0005" time="2014-10-24 23:40:15 UTC" participant="153547">
+      <body>I asked him but he said he didn't</body>
+    </message>
+    <message id="m0006" time="2014-10-24 23:41:32 UTC" participant="149372">
+      <body>Hmmm. There is one husky bag of drywall stuff in the van. I'll stick it in the front of my house, maybe it's all in there.</body>
+    </message>
+    <message id="m0007" time="2014-10-25 12:00:43 UTC" participant="153547">
+      <body>I don't see the husky bag in your house</body>
+    </message>
+    <message id="m0008" time="2014-10-25 12:02:35 UTC" participant="149372">
+      <body>I'm heading there now. It's still in the van.</body>
+    </message>
+  </messages>
+</conversation>
+

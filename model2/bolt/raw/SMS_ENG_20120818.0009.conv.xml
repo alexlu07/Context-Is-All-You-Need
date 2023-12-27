@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120818.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-08-18 22:29:30 UTC">
+      <body>Ok I'm heading up. What's your address? And do you want me to bring a pipe?</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-08-18 22:34:01 UTC">
+      <body>Thanks. Also I couldn't find my pipe lol sorry</body>
+    </message>
+    <message id="m0003" participant="136249" time="2012-08-18 22:36:48 UTC">
+      <body>Its alright</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-08-19 03:29:05 UTC">
+      <body>￼</body>
+    </message>
+  </messages>
+</conversation>

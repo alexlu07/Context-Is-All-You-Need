@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121103.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131287" time="2012-11-03 16:00:18 UTC">
+      <body>Should I give Amy the horse blankets that I washed?</body>
+    </message>
+    <message id="m0001" participant="131287" time="2012-11-03 16:01:54 UTC">
+      <body>No... Not unless ##### ends up going in a stall later in the winter - #####'s answer</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-11-03 16:02:30 UTC">
+      <body>agreed</body>
+    </message>
+    <message id="m0003" participant="131287" time="2012-11-03 16:02:55 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121024.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130934" time="2012-10-24 19:34:07 UTC">
+      <body>Ok thanks a bunch.</body>
+    </message>
+    <message id="m0001" participant="130755" time="2012-10-24 20:35:54 UTC">
+      <body>Actually, I am swinging by to drop something off in 20 if you wanna come over then!</body>
+    </message>
+    <message id="m0002" participant="130934" time="2012-10-24 20:44:41 UTC">
+      <body>I am gonna try for it. Call me when you get there.</body>
+    </message>
+    <message id="m0003" participant="130934" time="2012-10-25 01:35:27 UTC">
+      <body>Just wanted to say thanks for meeting me today and helping me out of a jam.</body>
+    </message>
+    <message id="m0004" participant="130755" time="2012-10-25 01:36:22 UTC">
+      <body>No probs!</body>
+    </message>
+    <message id="m0005" participant="130934" time="2012-11-08 01:34:59 UTC">
+      <body>Would tonight be at all a good night to drop off what I borrowed?</body>
+    </message>
+    <message id="m0006" participant="130934" time="2012-11-08 01:38:11 UTC">
+      <body>I think Sunday eve will work unless I could drop by around midnight on my way home tonight.</body>
+    </message>
+    <message id="m0007" participant="130755" time="2012-11-12 04:35:15 UTC">
+      <body>Gah, forgot you were coming, had my phone off at rehearsal. So sorry! Will you be up in this area tomorrow 5-6:30 ish by chance? If not I'll have to get it back in December!</body>
+    </message>
+    <message id="m0008" participant="130755" time="2012-11-12 04:35:44 UTC">
+      <body>...which is not a problem, just a heads up!</body>
+    </message>
+    <message id="m0009" participant="130934" time="2012-11-12 16:25:30 UTC">
+      <body>I might be through that area just before seven.</body>
+    </message>
+    <message id="m0010" participant="130755" time="2012-11-12 17:08:49 UTC">
+      <body>Great, gimmie a buzz then!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130118.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-01-18 02:32:08 UTC">
+      <body>Dream</body>
+    </message>
+    <message id="m0001" participant="131579" time="2013-01-18 04:58:00 UTC">
+      <body>Thanks for texting! Please shut off your phone and we'll send you a link to your dream after the movie. Enjoy the show!</body>
+    </message>
+    <message id="m0002" participant="131579" time="2013-01-18 05:02:54 UTC">
+      <body>See what your phone was dreaming: http://sprint.us/zIGR76</body>
+    </message>
+  </messages>
+</conversation>

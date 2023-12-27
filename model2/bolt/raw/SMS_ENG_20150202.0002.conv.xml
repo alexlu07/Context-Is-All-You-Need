@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150202.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-02 19:15:49 UTC" participant="152117">
+      <body>Hi bumbles. Are you working tomorrow? Just trying to figure out what to make for dinner. Love you!</body>
+    </message>
+    <message id="m0001" time="2015-02-02 19:19:48 UTC" participant="152115">
+      <body>Not working tomorrow.</body>
+    </message>
+    <message id="m0002" time="2015-02-02 19:20:14 UTC" participant="152117">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2015-02-02 22:41:59 UTC" participant="152115">
+      <body>I will be done before 730. What's for dinner? I'm so hungry.</body>
+    </message>
+    <message id="m0004" time="2015-02-02 22:42:53 UTC" participant="152117">
+      <body>Baked chicken breasts, pierogies, and Lima beans</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135280" time="2013-05-29 19:44:00 UTC">
+      <body>Hey what do you want to do for dinner tonight? I'm good with going into the city to meet up with Sarah </body>
+    </message>
+    <message id="m0001" participant="135280" time="2013-05-29 19:46:08 UTC">
+      <body>Alright! My sister has my car now since we had to take her car to the shop so I would need a ride wherever we go :)</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-05-29 19:46:22 UTC">
+      <body>Sure! I can see what her plans are </body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-29 19:47:43 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-29 20:32:37 UTC">
+      <body>Sarah said before she is in class until 4:45. When she responds I will let you know</body>
+    </message>
+    <message id="m0005" participant="135280" time="2013-05-29 20:33:04 UTC">
+      <body>Alright sounds good! </body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-05-29 20:52:19 UTC">
+      <body>From Sarah: Leaving class now and I just want to get out of here! So let's eat around needham</body>
+    </message>
+    <message id="m0007" participant="135280" time="2013-05-29 20:54:24 UTC">
+      <body>Haha ok. Any ideas of where to go? I'm good with any of our regular places.</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-05-29 20:55:21 UTC">
+      <body>She says 6:30. I'm driving. </body>
+    </message>
+    <message id="m0009" participant="135080" time="2013-05-29 20:57:46 UTC">
+      <body>Same. I don't know about anything new, do you? Lemon Thai, mandarin cuisine, comellas, pizza...where else do we go</body>
+    </message>
+    <message id="m0010" participant="135280" time="2013-05-29 21:00:06 UTC">
+      <body>Uh yeah i cant think of anything else. I vote either lemon Thai or comellas </body>
+    </message>
+    <message id="m0011" participant="135080" time="2013-05-29 21:03:08 UTC">
+      <body>There is also acapulcos...no idea how good or expensive it is</body>
+    </message>
+    <message id="m0012" participant="135280" time="2013-05-29 21:05:43 UTC">
+      <body>That is true. We can check it out and go there or somewhere else </body>
+    </message>
+    <message id="m0013" participant="135080" time="2013-05-29 21:07:06 UTC">
+      <body>Cool. I texted Sarah. She is on the t and I'm guessing will text back once she gets signal back. </body>
+    </message>
+    <message id="m0014" participant="135080" time="2013-05-29 21:08:26 UTC">
+      <body>Nvm she says lemon Thai. I will leave at 6:20. </body>
+    </message>
+    <message id="m0015" participant="135280" time="2013-05-29 21:08:46 UTC">
+      <body>Ok cool. See you then! </body>
+    </message>
+  </messages>
+</conversation>

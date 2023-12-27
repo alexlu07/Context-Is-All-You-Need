@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130952" time="2013-04-06 18:48:13 UTC">
+      <body>who is it?</body>
+    </message>
+    <message id="m0001" participant="130755" time="2013-04-06 20:00:47 UTC">
+      <body>Sorry, responded to a group txt from john</body>
+    </message>
+  </messages>
+</conversation>

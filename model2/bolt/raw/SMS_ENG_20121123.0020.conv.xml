@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121123.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2012-11-23 23:46:09 UTC">
+      <body>Hey! In the stuffed pepper is there any zucchini or squash or pumpkin?</body>
+    </message>
+    <message id="m0001" participant="135287" time="2012-11-23 23:47:12 UTC">
+      <body>Zucchini </body>
+    </message>
+    <message id="m0002" participant="135080" time="2012-11-23 23:50:56 UTC">
+      <body>K cool thanks </body>
+    </message>
+  </messages>
+</conversation>

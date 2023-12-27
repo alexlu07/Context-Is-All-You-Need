@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140825.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-25 17:00:23 UTC" participant="152760">
+      <body>Hey</body>
+    </message>
+    <message id="m0001" time="2014-08-25 17:08:58 UTC" participant="152735">
+      <body>Hi! Did you just see me haaa </body>
+    </message>
+    <message id="m0002" time="2014-08-25 17:09:47 UTC" participant="152760">
+      <body>No im not there yet</body>
+    </message>
+    <message id="m0003" time="2014-08-25 17:12:54 UTC" participant="152735">
+      <body>Oooh what a weird coincidence </body>
+    </message>
+  </messages>
+</conversation>
+

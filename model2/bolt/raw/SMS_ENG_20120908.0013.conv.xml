@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120908.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131825" time="2012-09-08 02:37:52 UTC">
+      <body>Come to 1901 411!</body>
+    </message>
+    <message id="m0001" participant="131825" time="2012-09-08 16:57:36 UTC">
+      <body>WHERE ARE YOU?!?!?</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-09-08 19:16:34 UTC">
+      <body>Chapel hour</body>
+    </message>
+    <message id="m0003" participant="131825" time="2012-09-08 20:41:36 UTC">
+      <body>Ahhh kk</body>
+    </message>
+    <message id="m0004" participant="131825" time="2012-09-09 20:28:48 UTC">
+      <body>Ack we have rehearsal we probably won't make it to the BBQ :(</body>
+    </message>
+  </messages>
+</conversation>

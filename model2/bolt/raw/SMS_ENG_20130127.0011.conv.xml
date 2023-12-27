@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131029" time="2013-01-27 18:25:55 UTC">
+      <body>Have you guys hit the rodeo yet? </body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-01-27 18:53:47 UTC">
+      <body>Yep--just left</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-27 18:55:00 UTC">
+      <body>Thanks! Have fun at the rodeo!</body>
+    </message>
+    <message id="m0003" participant="131029" time="2013-01-27 18:55:24 UTC">
+      <body>Oh boo missed seeing you :-). See you Tuesday. Happy pre-birthday</body>
+    </message>
+    <message id="m0004" participant="131029" time="2013-01-27 19:02:00 UTC">
+      <body>I will</body>
+    </message>
+    <message id="m0005" participant="131029" time="2013-01-28 16:16:47 UTC">
+      <body>Yay. Its #### day!!!!!!  Happy birthday! </body>
+    </message>
+    <message id="m0006" participant="130712" time="2013-01-28 16:19:41 UTC">
+      <body>Thank you!!!</body>
+    </message>
+    <message id="m0007" participant="131029" time="2013-01-28 16:22:03 UTC">
+      <body>Hope you're enjoying your day off!</body>
+    </message>
+    <message id="m0008" participant="130712" time="2013-01-28 16:22:15 UTC">
+      <body>Oh yes!</body>
+    </message>
+  </messages>
+</conversation>

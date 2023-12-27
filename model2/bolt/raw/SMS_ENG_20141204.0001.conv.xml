@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141204.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-04 23:34:25 UTC" participant="152115">
+      <body>I will be clocking out at 7:23.</body>
+    </message>
+    <message id="m0001" time="2014-12-04 23:43:51 UTC" participant="152117">
+      <body>Ok i'll let dad know</body>
+    </message>
+  </messages>
+</conversation>
+

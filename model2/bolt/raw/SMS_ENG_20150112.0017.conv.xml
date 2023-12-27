@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150112.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-12 15:51:39 UTC" participant="153557">
+      <body>My plane gets in at 7 tonight if you can pick me up. </body>
+    </message>
+    <message id="m0001" time="2015-01-12 16:23:55 UTC" participant="153547">
+      <body>Ok I can</body>
+    </message>
+    <message id="m0002" time="2015-01-12 16:25:30 UTC" participant="153557">
+      <body>Thanks. </body>
+    </message>
+    <message id="m0003" time="2015-01-12 21:10:18 UTC" participant="153557">
+      <body>I checked my bag so probably closer to 7:20-7:30ish</body>
+    </message>
+    <message id="m0005" time="2015-01-13 00:36:16 UTC" participant="153557">
+      <body>Landed</body>
+    </message>
+    <message id="m0006" time="2015-01-13 00:39:17 UTC" participant="153547">
+      <body>Ok I'm in the cell lot. Let me know when you have your bag</body>
+    </message>
+    <message id="m0007" time="2015-01-13 00:39:23 UTC" participant="153557">
+      <body>Okay.</body>
+    </message>
+    <message id="m0008" time="2015-01-13 00:49:04 UTC" participant="153557">
+      <body> Hey. We are giving Bruce a ride if that's okay. I just ran in to him he was gonna taken can</body>
+    </message>
+    <message id="m0009" time="2015-01-13 00:49:40 UTC" participant="153547">
+      <body>Ok </body>
+    </message>
+    <message id="m0010" time="2015-01-13 00:51:12 UTC" participant="153557">
+      <body>Still waiting.</body>
+    </message>
+    <message id="m0011" time="2015-01-13 01:01:52 UTC" participant="153557">
+      <body>Coming out</body>
+    </message>
+    <message id="m0012" time="2015-01-13 01:04:00 UTC" participant="153557">
+      <body>Under the American sign</body>
+    </message>
+  </messages>
+</conversation>
+

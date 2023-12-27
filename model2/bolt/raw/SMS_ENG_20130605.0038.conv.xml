@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134302" time="2013-06-05 19:57:13 UTC">
+      <body>Dom Brown hit another today</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-06-05 20:00:15 UTC">
+      <body>Is that like 9 in a row? </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-06-05 20:00:30 UTC">
+      <body>Or 9 in 10 games? </body>
+    </message>
+    <message id="m0003" participant="134302" time="2013-06-05 20:01:07 UTC">
+      <body>9 in 10</body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-06-05 20:01:21 UTC">
+      <body>Damn</body>
+    </message>
+  </messages>
+</conversation>

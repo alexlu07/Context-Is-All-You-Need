@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141226.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-26 19:46:08 UTC" participant="152429">
+      <body>Into the Woods?</body>
+    </message>
+    <message id="m0001" time="2014-12-26 19:52:32 UTC" participant="152429">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-12-26 19:53:21 UTC" participant="152417">
+      <body>Sorry, busy today and tomorrow, how about sunday or monday?</body>
+    </message>
+  </messages>
+</conversation>
+

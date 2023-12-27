@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120820.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-08-20 19:47:01 UTC">
+      <body>Reply to my texts. Also, which neighbor are you talking about in your tweets?</body>
+    </message>
+    <message id="m0001" participant="135092" time="2012-08-20 19:47:38 UTC">
+      <body>Mitch</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-08-20 19:51:42 UTC">
+      <body>Arrested?!?</body>
+    </message>
+    <message id="m0003" participant="135092" time="2012-08-20 20:11:36 UTC">
+      <body>Yep. </body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-08-20 20:12:36 UTC">
+      <body>Which neighbors car? Any word on what happened?</body>
+    </message>
+    <message id="m0005" participant="135092" time="2012-08-20 20:13:45 UTC">
+      <body>Car? He was threatening to smash a garage with a sledge hammer</body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-08-20 20:14:01 UTC">
+      <body>Oh which garage?</body>
+    </message>
+  </messages>
+</conversation>

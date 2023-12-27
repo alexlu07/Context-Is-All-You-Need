@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140624.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-24 15:13:04 UTC" participant="153649">
+      <body>But you're going to go to Julian's though, right?</body>
+    </message>
+    <message id="m0001" time="2014-06-24 15:20:37 UTC" participant="153548">
+      <body>Yeah I'll just be late!</body>
+    </message>
+    <message id="m0002" time="2014-06-24 21:02:56 UTC" participant="153649">
+      <body>Ok, sweet!</body>
+    </message>
+  </messages>
+</conversation>
+

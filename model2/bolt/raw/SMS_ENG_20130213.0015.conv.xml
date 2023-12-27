@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130213.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-13 19:36:30 UTC">
+      <body>Miss you fish! When do we get to catch up ?</body>
+    </message>
+    <message id="m0001" participant="135445" time="2013-02-13 19:41:52 UTC">
+      <body>Aw shucks! Def be at school tomorrow, possibly tonight. Feeling a smidge stuffy today</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-13 19:42:47 UTC">
+      <body>Well you better not get sick too.  I hate illness. </body>
+    </message>
+  </messages>
+</conversation>

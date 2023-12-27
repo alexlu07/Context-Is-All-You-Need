@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140806.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-06 15:42:56 UTC" participant="153686">
+      <body>Hey Lindsey, I'll be stopping by to pick up the vacuum from you today. What time works best? Thanks!</body>
+    </message>
+    <message id="m0001" time="2014-08-06 15:45:13 UTC" participant="153548">
+      <body>Hi! Between 5 pm and 6:30 pm would be perfect! </body>
+    </message>
+    <message id="m0003" time="2014-08-06 15:45:50 UTC" participant="153548">
+      <body>Between Sansom and chestnut streets</body>
+    </message>
+    <message id="m0004" time="2014-08-06 15:45:54 UTC" participant="153686">
+      <body>Works for me. See you then!</body>
+    </message>
+    <message id="m0005" time="2014-08-06 15:46:09 UTC" participant="153548">
+      <body>Thanks. See ya this evening!</body>
+    </message>
+    <message id="m0006" time="2014-08-06 21:54:08 UTC" participant="153686">
+      <body>Should be there in about 10 min</body>
+    </message>
+    <message id="m0007" time="2014-08-06 21:55:50 UTC" participant="153548">
+      <body>Great! See you in a few!</body>
+    </message>
+    <message id="m0008" time="2014-08-06 22:08:29 UTC" participant="153686">
+      <body>I think I'm out front</body>
+    </message>
+  </messages>
+</conversation>
+

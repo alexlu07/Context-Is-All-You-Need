@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140506.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-06 02:25:04 UTC" participant="152427">
+      <body>Hey any chance you grabbed my coat?? I left it downstairs in studio </body>
+    </message>
+    <message id="m0001" time="2014-05-06 02:26:15 UTC" participant="152417">
+      <body>No, sorry</body>
+    </message>
+    <message id="m0002" time="2014-05-06 02:26:24 UTC" participant="152427">
+      <body>Damn, ok</body>
+    </message>
+  </messages>
+</conversation>
+

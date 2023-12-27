@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0007" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130623" time="2013-07-07 13:45:53 UTC">
+      <body>Hello sarcher!</body>
+    </message>
+    <message id="m0002" participant="130623" time="2013-07-07 19:00:55 UTC">
+      <body>How's the weather? Hoping the rain here actually cools things off.</body>
+    </message>
+    <message id="m0003" participant="130976" time="2013-07-07 19:05:24 UTC">
+      <body>Hot n sticky in phila.where u?</body>
+    </message>
+    <message id="m0004" participant="130623" time="2013-07-08 05:19:39 UTC">
+      <body>Boston. This weather sucks.</body>
+    </message>
+    <message id="m0005" participant="130976" time="2013-07-08 06:28:50 UTC">
+      <body>Yeah pretty crappy summer thus far</body>
+    </message>
+  </messages>
+</conversation>

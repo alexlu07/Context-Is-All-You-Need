@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150126.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-26 23:01:47 UTC" participant="153856">
+      <body>How much snow you have?</body>
+    </message>
+    <message id="m0001" time="2015-01-26 23:05:31 UTC" participant="153848">
+      <body>A lot. Still snowing too. No school tomorrow.</body>
+    </message>
+    <message id="m0002" time="2015-01-26 23:06:55 UTC" participant="153856">
+      <body>Really?... 2 feet or more?</body>
+    </message>
+  </messages>
+</conversation>
+

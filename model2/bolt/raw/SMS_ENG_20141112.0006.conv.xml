@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141112.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-12 20:51:02 UTC" participant="152778">
+      <body>We still on schedule?</body>
+    </message>
+    <message id="m0001" time="2014-11-12 20:53:29 UTC" participant="152735">
+      <body>Yup! Excited. </body>
+    </message>
+    <message id="m0002" time="2014-11-12 20:55:47 UTC" participant="152778">
+      <body>Great</body>
+    </message>
+    <message id="m0003" time="2014-11-13 00:37:44 UTC" participant="152735">
+      <body>Ten min away! See you </body>
+    </message>
+    <message id="m0004" time="2014-11-13 00:38:28 UTC" participant="152778">
+      <body>Perfect</body>
+    </message>
+    <message id="m0005" time="2014-11-13 00:47:16 UTC" participant="152735">
+      <body>Here :) </body>
+    </message>
+    <message id="m0006" time="2014-11-13 18:16:01 UTC" participant="152778">
+      <body>Hey thanks again for coming by. We should hang again soon!</body>
+    </message>
+    <message id="m0007" time="2014-11-13 18:38:10 UTC" participant="152735">
+      <body>❤️yes it was delicious. Thank you so much for having me! I'd like that- I'll text!</body>
+    </message>
+  </messages>
+</conversation>
+

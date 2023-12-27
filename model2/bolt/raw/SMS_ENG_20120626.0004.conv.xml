@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120626.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-06-26 12:28:18 UTC">
+      <body>Just wondering if you were in Chicago yet
+Shannon</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-06-26 12:28:39 UTC">
+      <body>Just arrived!</body>
+    </message>
+    <message id="m0002" participant="135103" time="2012-06-26 12:31:02 UTC">
+      <body>I'm so glad you got on the flight this morning. What time does your flight leave for Chicago?
+Shannon</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-06-26 12:36:35 UTC">
+      <body>9</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-06-26 13:23:28 UTC">
+      <body>Cleared for my next flight :)</body>
+    </message>
+    <message id="m0005" participant="135103" time="2012-06-26 13:28:31 UTC">
+      <body>Let me know when you land in Philadelphia.  I love you
+Shannon</body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-06-26 16:23:22 UTC">
+      <body>Just landed :)</body>
+    </message>
+  </messages>
+</conversation>

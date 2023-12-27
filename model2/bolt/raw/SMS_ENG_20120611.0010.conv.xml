@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120611.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-11 12:14:45 UTC">
+      <body>Hey it's will. Do you have a first?</body>
+    </message>
+    <message id="m0001" participant="136250" time="2012-06-11 12:16:51 UTC">
+      <body>Nah i have 3rd</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-11 12:20:39 UTC">
+      <body>Alright I'll probably meet up with you after school then</body>
+    </message>
+    <message id="m0003" participant="136250" time="2012-06-11 12:21:12 UTC">
+      <body>Iight cool</body>
+    </message>
+  </messages>
+</conversation>

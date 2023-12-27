@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130511.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131032" time="2013-05-11 01:07:58 UTC">
+      <body>Hey #### ranndom question does your wedding band and ######'s match? </body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-11 02:00:06 UTC">
+      <body>Our originals do, but I got another one later that doesn't match.</body>
+    </message>
+    <message id="m0002" participant="131032" time="2013-05-11 02:01:04 UTC">
+      <body>Hmm okie thnx!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-05-11 02:01:23 UTC">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>

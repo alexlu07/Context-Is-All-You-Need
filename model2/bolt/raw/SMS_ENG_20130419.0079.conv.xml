@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0079" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136156" time="2013-04-19 18:31:29 UTC">
+      <body>Hey Lauren. What time are you loading today?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-19 18:33:40 UTC">
+      <body>probably like 6?</body>
+    </message>
+    <message id="m0002" participant="136156" time="2013-04-19 18:36:57 UTC">
+      <body>Okay. I just wanted to make sure I had time to glaze my piece before you loaded.</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-19 18:37:10 UTC">
+      <body>for sure! </body>
+    </message>
+  </messages>
+</conversation>

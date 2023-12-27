@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140313.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-13 20:56:32 UTC" participant="152560">
+      <body>How were the slopes? </body>
+    </message>
+    <message id="m0001" time="2014-03-13 21:46:27 UTC" participant="152417">
+      <body>AMAZING!</body>
+    </message>
+    <message id="m0002" time="2014-03-13 23:51:28 UTC" participant="152560">
+      <body>Oh that's awesome! I bet you feel great. </body>
+    </message>
+    <message id="m0003" time="2014-03-14 16:27:44 UTC" participant="152560">
+      <body>￼Dog disaster! </body>
+    </message>
+    <message id="m0004" time="2014-03-14 17:26:43 UTC" participant="152417">
+      <body>Oh no!</body>
+    </message>
+    <message id="m0005" time="2014-03-14 17:27:27 UTC" participant="152560">
+      <body>Lucky they didn't get hurt by the jagged tuna fish can! </body>
+    </message>
+    <message id="m0006" time="2014-03-14 17:27:28 UTC" participant="152560">
+      <body>We need a garbage can with a padlock. </body>
+    </message>
+  </messages>
+</conversation>
+

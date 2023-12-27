@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 17:05:59 UTC" participant="153548">
+      <body>Hey! What's yr plan for Saturday/Sunday? Is that a good time to take a trip to NY?</body>
+    </message>
+    <message id="m0001" time="2014-06-11 18:44:16 UTC" participant="153663">
+      <body>Yah dude! Whenever!</body>
+    </message>
+    <message id="m0002" time="2014-06-11 18:44:16 UTC" participant="153663">
+      <body>Devin's man is out of town till Sunday</body>
+    </message>
+    <message id="m0003" time="2014-06-11 19:04:44 UTC" participant="153663">
+      <body>Dood I'm so pumped to be here!!!</body>
+    </message>
+    <message id="m0004" time="2014-06-11 19:05:18 UTC" participant="153548">
+      <body>Sweeeeet. I'll get there mid day Saturday! Super excited to see ya!</body>
+    </message>
+    <message id="m0005" time="2014-06-11 19:05:36 UTC" participant="153663">
+      <body>Yay! Yay! Yay! Me too!!!</body>
+    </message>
+  </messages>
+</conversation>
+

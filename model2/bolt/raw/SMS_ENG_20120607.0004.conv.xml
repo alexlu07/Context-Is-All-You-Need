@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120607.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-06-07 20:12:18 UTC">
+      <body>I renewed your book! Return it whenever you want, idgaf about late fees</body>
+    </message>
+    <message id="m0001" participant="136210" time="2012-06-07 21:01:19 UTC">
+      <body>Lmao thanks man, i can return for you right? Ttyl getting on train</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-06-07 21:09:26 UTC">
+      <body>Yeah you don't need an ID to return. Or you can just put it in the book return slot</body>
+    </message>
+  </messages>
+</conversation>

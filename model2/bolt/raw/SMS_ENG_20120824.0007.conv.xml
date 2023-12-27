@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120824.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="131015" time="2012-08-24 20:05:15 UTC">
+      <body>Is that correct?</body>
+    </message>
+    <message id="m0002" participant="136727" time="2012-08-24 20:05:33 UTC">
+      <body>Yup</body>
+    </message>
+    <message id="m0003" participant="136727" time="2012-08-24 20:05:49 UTC">
+      <body>What time are you guys leaving?</body>
+    </message>
+    <message id="m0004" participant="136727" time="2012-08-24 20:06:00 UTC">
+      <body>Around 7?</body>
+    </message>
+    <message id="m0005" participant="131015" time="2012-08-24 20:06:45 UTC">
+      <body>Yup. Is that cool?</body>
+    </message>
+    <message id="m0006" participant="136727" time="2012-08-24 20:07:04 UTC">
+      <body>Yea</body>
+    </message>
+    <message id="m0007" participant="131015" time="2012-08-24 23:29:04 UTC">
+      <body>Nothin like the open road.........
+               ........see ya around 9:30......</body>
+    </message>
+    <message id="m0008" participant="136727" time="2012-08-24 23:29:54 UTC">
+      <body>I should be getting there around the same time!</body>
+    </message>
+    <message id="m0009" participant="131015" time="2012-08-24 23:30:37 UTC">
+      <body>Coolio!</body>
+    </message>
+  </messages>
+</conversation>

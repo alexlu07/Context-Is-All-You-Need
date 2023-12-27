@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140925.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-25 14:36:25 UTC" participant="153660">
+      <body>Hey, I'm downstairs in Anderson.</body>
+    </message>
+    <message id="m0001" time="2014-09-25 14:40:18 UTC" participant="153548">
+      <body>Awesome. I'm on the bus. It's very slow this morning. </body>
+    </message>
+  </messages>
+</conversation>
+

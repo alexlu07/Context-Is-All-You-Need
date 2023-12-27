@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150120.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-20 16:29:12 UTC" participant="153417">
+      <body>Can we go to dinner on Monday? I'm picking up some overtime and I got it for Tuesday lol</body>
+    </message>
+    <message id="m0001" time="2015-01-20 16:31:18 UTC" participant="153424">
+      <body>26? Works perfectly and let's do butcher </body>
+    </message>
+    <message id="m0002" time="2015-01-20 16:31:22 UTC" participant="153424">
+      <body>After 6 </body>
+    </message>
+    <message id="m0003" time="2015-01-20 16:36:08 UTC" participant="153417">
+      <body>Sounds good! Like 7? 730?</body>
+    </message>
+    <message id="m0004" time="2015-01-20 16:37:11 UTC" participant="153417">
+      <body>I did 730.. 7 wasn't available lol</body>
+    </message>
+    <message id="m0005" time="2015-01-20 17:35:06 UTC" participant="153424">
+      <body>Perfect </body>
+    </message>
+  </messages>
+</conversation>
+

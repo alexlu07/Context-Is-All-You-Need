@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130321.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-03-21 16:16:06 UTC">
+      <body>Maintenance issue on plane. Sitting on plane. So expect delay. Will update you when I know </body>
+    </message>
+    <message id="m0001" participant="134281" time="2013-03-21 16:21:34 UTC">
+      <body>Where are you Phoenix? </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-03-21 16:21:51 UTC">
+      <body>Yeah </body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-03-21 16:34:57 UTC">
+      <body>Any luck with your tablet? </body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-03-21 16:36:45 UTC">
+      <body>Looks like about 15 min we will take off</body>
+    </message>
+    <message id="m0005" participant="134281" time="2013-03-21 17:07:33 UTC">
+      <body>Are you still on the ground? </body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-03-21 17:08:35 UTC">
+      <body>Yes. Seems like we should leave soon tho. I can also grab a cab and meet you guys wherever you are watching the games. Assumkng it is a reasonable distance </body>
+    </message>
+    <message id="m0007" participant="130979" time="2013-03-21 17:15:48 UTC">
+      <body>Taking off now </body>
+    </message>
+    <message id="m0008" participant="134281" time="2013-03-21 17:16:00 UTC">
+      <body>No problem, only reason I ask is my app says you're in the air. Let me know arrival time. </body>
+    </message>
+    <message id="m0009" participant="130979" time="2013-03-21 19:23:54 UTC">
+      <body>Just arrived.  I do have a bag</body>
+    </message>
+    <message id="m0010" participant="134281" time="2013-03-21 19:23:57 UTC">
+      <body>We are in the airport. Have a good bar and table to watch games. 15 mins away. </body>
+    </message>
+    <message id="m0011" participant="130979" time="2013-03-21 19:36:08 UTC">
+      <body>You are in he airport? </body>
+    </message>
+    <message id="m0012" participant="134281" time="2013-03-21 19:43:12 UTC">
+      <body>We are down by luggage caros</body>
+    </message>
+    <message id="m0013" participant="130979" time="2013-03-21 23:14:29 UTC">
+      <body>If you get this bring your eye drops please </body>
+    </message>
+  </messages>
+</conversation>

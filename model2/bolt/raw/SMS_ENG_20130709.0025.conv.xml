@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130709.0025" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134852" time="2013-07-09 14:05:11 UTC">
+      <body>So, besides web content providing, what do you do for fun?</body>
+    </message>
+    <message id="m0001" participant="130630" time="2013-07-09 14:44:17 UTC">
+      <body>Read, knit, walk, tv, music</body>
+    </message>
+    <message id="m0002" participant="130630" time="2013-07-09 14:44:22 UTC">
+      <body>You?</body>
+    </message>
+    <message id="m0003" participant="134852" time="2013-07-09 14:49:49 UTC">
+      <body>I dance, listen to music, and watch professional wrestling. I used to know how to crochet and knit, but then college happened and I stopped doing thingsfor fun.</body>
+    </message>
+    <message id="m0004" participant="130630" time="2013-07-09 14:50:55 UTC">
+      <body>I totally get that</body>
+    </message>
+    <message id="m0005" participant="134852" time="2013-07-09 14:53:30 UTC">
+      <body>High school, senior year I used to just carry my crocheting everywhere and my teachers would have to tell me to put it away and pay attention.</body>
+    </message>
+  </messages>
+</conversation>

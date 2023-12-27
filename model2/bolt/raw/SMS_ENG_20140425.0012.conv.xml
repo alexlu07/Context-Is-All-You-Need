@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140425.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-25 17:31:22 UTC" participant="153547">
+      <body>Hey Nick I'm coming to Baltimore tomorrow. Are you going to be around?</body>
+    </message>
+    <message id="m0001" time="2014-04-25 18:48:27 UTC" participant="153592">
+      <body>I'm around</body>
+    </message>
+    <message id="m0002" time="2014-04-25 18:49:16 UTC" participant="153547">
+      <body>What's the address of the compound? I thought I would stop by in the afternoon</body>
+    </message>
+  </messages>
+</conversation>
+

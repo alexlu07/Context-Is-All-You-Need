@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130703.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-07-03 00:29:59 UTC">
+      <body>What are you doing </body>
+    </message>
+    <message id="m0001" participant="137312" time="2013-07-03 00:30:23 UTC">
+      <body>Hanging out with max and vid soon</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-07-03 00:30:36 UTC">
+      <body>Can I come? </body>
+    </message>
+    <message id="m0003" participant="137312" time="2013-07-03 00:31:18 UTC">
+      <body>Definitely, when we figure out any details ill let you know</body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-07-03 00:32:32 UTC">
+      <body>Super </body>
+    </message>
+    <message id="m0005" participant="137312" time="2013-07-03 00:35:01 UTC">
+      <body>THERE IS HOPE￼</body>
+    </message>
+    <message id="m0006" participant="137312" time="2013-07-03 00:55:28 UTC">
+      <body>Hot tub?</body>
+    </message>
+  </messages>
+</conversation>

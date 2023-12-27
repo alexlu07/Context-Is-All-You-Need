@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140310.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-10 05:38:37 UTC" participant="153491">
+      <body>I'm planning to go to Penn tomorrow. Going to the bank to cash in John's coins with him. So far, I'm planning to stay and hang around, probably in Starbucks. Called you earlier to ask if you were going to be there tomorrow. Let me know.</body>
+    </message>
+    <message id="m0001" time="2014-03-10 10:49:29 UTC" participant="152116">
+      <body>That's perfect. What time are you going?</body>
+    </message>
+    <message id="m0002" time="2014-03-10 10:50:06 UTC" participant="153491">
+      <body>I was waiting to hear from you.</body>
+    </message>
+    <message id="m0003" time="2014-03-10 18:53:16 UTC" participant="153491">
+      <body>John's there.</body>
+    </message>
+    <message id="m0004" time="2014-03-10 18:57:51 UTC" participant="152116">
+      <body>Where? The bank?</body>
+    </message>
+    <message id="m0005" time="2014-03-10 18:57:53 UTC" participant="152116">
+      <body>I'll call him</body>
+    </message>
+    <message id="m0006" time="2014-03-10 18:58:16 UTC" participant="153491">
+      <body>40th and Locust</body>
+    </message>
+  </messages>
+</conversation>
+

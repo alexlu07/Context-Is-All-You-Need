@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-20 18:46:00 UTC" participant="152120">
+      <body>Hey Jimmys mom wants everyone to dress nice. Everyone will be dressed nice. And Jimmy also said Mike can wear jeans with a dress shirt</body>
+    </message>
+    <message id="m0002" time="2014-12-20 18:46:52 UTC" participant="152115">
+      <body>Ok. Thanks!</body>
+    </message>
+    <message id="m0003" time="2014-12-21 14:46:25 UTC" participant="152120">
+      <body>Thanks for coming last night! Sorry about the food :(</body>
+    </message>
+    <message id="m0004" time="2014-12-21 15:32:50 UTC" participant="152115">
+      <body>Oh that's ok. We knew that was a possibility with the food. Haha. But thanks for inviting us. Hope you and Jimmy had a good time.</body>
+    </message>
+  </messages>
+</conversation>
+

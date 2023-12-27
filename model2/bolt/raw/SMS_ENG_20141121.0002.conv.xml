@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141121.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-21 16:33:13 UTC" participant="152590">
+      <body>Sorry, that one please</body>
+    </message>
+    <message id="m0001" time="2014-11-21 22:06:46 UTC" participant="152590">
+      <body>got another pickup for you at Dim Sum if you want it</body>
+    </message>
+    <message id="m0002" time="2014-11-21 22:07:34 UTC" participant="152417">
+      <body>Thx</body>
+    </message>
+    <message id="m0003" time="2014-11-21 22:44:03 UTC" participant="152590">
+      <body>can you take this order from Tashan? It's going a bit far...</body>
+    </message>
+    <message id="m0004" time="2014-11-21 22:44:12 UTC" participant="152590">
+      <body>but you are close to the restaurant</body>
+    </message>
+    <message id="m0005" time="2014-11-21 22:44:39 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0006" time="2014-11-21 22:44:53 UTC" participant="152590">
+      <body>Thanks I appreciate it!</body>
+    </message>
+    <message id="m0007" time="2014-11-21 23:23:13 UTC" participant="152590">
+      <body>got a short rittenhouse hipcity order for you after you finish this one</body>
+    </message>
+    <message id="m0008" time="2014-11-21 23:23:33 UTC" participant="152417">
+      <body>Thx</body>
+    </message>
+    <message id="m0009" time="2014-11-21 23:46:16 UTC" participant="152590">
+      <body>If you can take one more order tonight, this is an extremely short run from Luke's Lobster.</body>
+    </message>
+    <message id="m0010" time="2014-11-21 23:50:41 UTC" participant="152417">
+      <body>K</body>
+    </message>
+    <message id="m0011" time="2014-11-22 00:21:50 UTC" participant="152590">
+      <body>thanks for all the work today Gabi</body>
+    </message>
+  </messages>
+</conversation>
+

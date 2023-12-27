@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121003.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-03 19:31:50 UTC" participant="152374">
+      <body>Day going ok?</body>
+    </message>
+    <message id="m0001" time="2012-10-03 20:35:17 UTC" participant="153465">
+      <body>Skipping crazy yet productive. More importantly how was your day?</body>
+    </message>
+    <message id="m0002" time="2012-10-03 20:57:36 UTC" participant="152374">
+      <body>Seemed to go well. We'll see...</body>
+    </message>
+  </messages>
+</conversation>
+

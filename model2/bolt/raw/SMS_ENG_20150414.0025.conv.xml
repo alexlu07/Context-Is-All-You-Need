@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150414.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-14 12:51:34 UTC" participant="153412">
+      <body>If you're in an icecream kick, ben and jerry's is giving out free icecream cones today </body>
+    </message>
+    <message id="m0001" time="2015-04-14 12:55:02 UTC" participant="153415">
+      <body>Oooh. Haha. Thanks for letting me know!</body>
+    </message>
+    <message id="m0002" time="2015-04-14 12:55:48 UTC" participant="153412">
+      <body>No problemo!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140323.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-23 22:43:12 UTC" participant="152427">
+      <body>Hey are we on the 3rd floor?</body>
+    </message>
+    <message id="m0001" time="2014-03-23 22:45:20 UTC" participant="152427">
+      <body>Ok be there in 10</body>
+    </message>
+    <message id="m0002" time="2014-03-23 22:45:51 UTC" participant="152417">
+      <body>1st floor</body>
+    </message>
+    <message id="m0003" time="2014-03-24 13:45:43 UTC" participant="152417">
+      <body>Hey Colin, spiel is doing a small fundraiser gig on friday night in montp, 3 songs or so, youre welcome to join if you wish</body>
+    </message>
+    <message id="m0004" time="2014-03-24 14:00:08 UTC" participant="152427">
+      <body>Time?  I will see about coverage</body>
+    </message>
+    <message id="m0005" time="2014-03-24 16:01:20 UTC" participant="152417">
+      <body>630 to 930, dont feel obligated if you dont want to miss work</body>
+    </message>
+    <message id="m0006" time="2014-03-24 17:14:40 UTC" participant="152427">
+      <body>All work and no Spiel makes Colin a dull boy!</body>
+    </message>
+    <message id="m0007" time="2014-03-24 20:40:28 UTC" participant="152417">
+      <body>Gotcha, i'm catching a ride with Erin Who has a tiny car so the smallest kit possible is good; snare and splash would do</body>
+    </message>
+  </messages>
+</conversation>
+

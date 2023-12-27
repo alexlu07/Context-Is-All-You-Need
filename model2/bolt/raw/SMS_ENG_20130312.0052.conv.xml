@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130312.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-12 16:12:58 UTC" participant="152560">
+      <body>I just tried to take out Simone and both doors were locked. I will try again later to see if one of your roomies is around...</body>
+    </message>
+    <message id="m0001" time="2013-03-12 16:15:12 UTC" participant="152417">
+      <body>Oops...Patrick or ben should be home.  Or if Nick comes for the lead test you could ask him.    Ill have to copy my key.  </body>
+    </message>
+    <message id="m0002" time="2013-03-12 16:16:20 UTC" participant="152560">
+      <body>Wanna text one of those guys to unlock the back door if they get a chance?</body>
+    </message>
+    <message id="m0003" time="2013-03-12 18:00:57 UTC" participant="152560">
+      <body>No luck. I will stop over there again in a bit.</body>
+    </message>
+    <message id="m0004" time="2013-03-12 18:02:19 UTC" participant="152417">
+      <body>Patrick took her out back so she should be OK till430.  Thanks!</body>
+    </message>
+    <message id="m0005" time="2013-03-13 02:08:21 UTC" participant="152560">
+      <body>How was Dobra?</body>
+    </message>
+  </messages>
+</conversation>
+

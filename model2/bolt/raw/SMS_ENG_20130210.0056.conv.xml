@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130210.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-10 01:05:23 UTC">
+      <body>so it looks like it'll be just us tomorrow! </body>
+    </message>
+    <message id="m0001" participant="136152" time="2013-02-10 05:58:31 UTC">
+      <body>Do you want to go to Sunday school or just the service?</body>
+    </message>
+    <message id="m0002" participant="136152" time="2013-02-10 06:14:42 UTC">
+      <body>I want to know when you receive this but I'm going to the service and not Sunday school!!</body>
+    </message>
+    <message id="m0003" participant="136152" time="2013-02-10 07:55:11 UTC">
+      <body>Alrighty well I have a case of food poisoning right now! Really hope you see this but church isn't happening tomorrow :( I'm so sorry!</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-10 12:16:12 UTC">
+      <body>oh gosh sorry i did see this! i'll text one of my other people. feel better soon! </body>
+    </message>
+    <message id="m0005" participant="136152" time="2013-02-10 13:30:36 UTC">
+      <body>Thanks! I'm sorry I couldn't take you, but hopefully I'll be better by tonight.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140725.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-25 19:43:59 UTC" participant="153633">
+      <body>Hello. Are we still on for tonight? 7:20 at the Ritz?</body>
+    </message>
+    <message id="m0001" time="2014-07-25 20:05:57 UTC" participant="153548">
+      <body>We are!!! I might get there a lil early and pick up tickets just in case it sells out! See you tongjt!</body>
+    </message>
+    <message id="m0002" time="2014-07-25 20:31:43 UTC" participant="153633">
+      <body>Great! See you soon!!</body>
+    </message>
+    <message id="m0003" time="2014-07-25 23:15:38 UTC" participant="153633">
+      <body>Just got off the subway. Will be there soon.</body>
+    </message>
+    <message id="m0004" time="2014-07-25 23:17:20 UTC" participant="153548">
+      <body>Great! I got us tickets!</body>
+    </message>
+    <message id="m0005" time="2014-07-25 23:18:34 UTC" participant="153633">
+      <body>Awesome.</body>
+    </message>
+  </messages>
+</conversation>
+

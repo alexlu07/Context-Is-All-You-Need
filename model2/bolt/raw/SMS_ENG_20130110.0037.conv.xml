@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-10 19:04:48 UTC" participant="152417">
+      <body>I wonder if restoring our iphones will make the new OS work better...</body>
+    </message>
+    <message id="m0001" time="2013-01-10 19:05:36 UTC" participant="152419">
+      <body>Restoring to 5? You can't, there is too much from 6 that gets fragmented and left behind that it impairs operation.</body>
+    </message>
+    <message id="m0002" time="2013-01-10 19:14:16 UTC" participant="152417">
+      <body>No, i just mean wiping it </body>
+    </message>
+    <message id="m0003" time="2013-01-10 19:14:16 UTC" participant="152419">
+      <body>Ooohh. Probably not.</body>
+    </message>
+    <message id="m0004" time="2013-01-10 19:15:27 UTC" participant="152417">
+      <body>Well, im gonna try it, cuz its bein wacky, zapping battery and running slower</body>
+    </message>
+    <message id="m0005" time="2013-01-10 19:16:13 UTC" participant="152419">
+      <body>Ugh me too. Good luck! It's not like you have to back it up anyway, it should do that every time you've connected it to your computer.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130723.0020" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130661" time="2013-07-23 22:56:42 UTC">
+      <body>Hi there!</body>
+    </message>
+    <message id="m0001" participant="134861" time="2013-07-24 03:43:48 UTC">
+      <body>I'm in the UK. So I'm not going to text much.</body>
+    </message>
+    <message id="m0002" participant="134861" time="2013-07-24 03:45:00 UTC">
+      <body>I'm chaperoning high school kids.</body>
+    </message>
+  </messages>
+</conversation>

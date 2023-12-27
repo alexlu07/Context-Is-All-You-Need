@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130310.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131376" time="2013-03-10 15:48:57 UTC">
+      <body>Adam.is confirming 9-930..right</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-10 15:51:30 UTC">
+      <body>yes. 930-ish.</body>
+    </message>
+    <message id="m0003" participant="131376" time="2013-03-10 15:52:44 UTC">
+      <body>Cool beans</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-03-11 00:25:31 UTC">
+      <body>hey. can you send me those pix of me and elle?</body>
+    </message>
+    <message id="m0005" participant="131376" time="2013-03-11 00:27:32 UTC">
+      <body>Yes i.will upload on my computer and email</body>
+    </message>
+    <message id="m0008" participant="131376" time="2013-03-11 01:48:43 UTC">
+      <body>What's your email</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-03-11 01:52:00 UTC">
+      <body>thank you!</body>
+    </message>
+  </messages>
+</conversation>

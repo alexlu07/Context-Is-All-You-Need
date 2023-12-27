@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131207.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-07 00:31:59 UTC" participant="153298">
+      <body>Hey Julia, Brenna's horse didn't pass the vet :( I want to give her a lesson tomorrow, do you want to let her have one on lucky?  It's TOTALLY fine if no, just thought I'd ask because I know u mentioned her riding him possibly. :)</body>
+    </message>
+    <message id="m0001" time="2013-12-07 11:43:33 UTC" participant="152734">
+      <body>Boo! Yes, no problem if she wants to borrow lucky today. (Or tomorrow if it's too short notice, I just saw this!)</body>
+    </message>
+    <message id="m0002" time="2013-12-07 13:41:20 UTC" participant="153298">
+      <body>Ok! I will let her know and I'll give her lesson today on him. At 10 :) thx!</body>
+    </message>
+    <message id="m0003" time="2013-12-07 13:46:47 UTC" participant="152734">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>
+

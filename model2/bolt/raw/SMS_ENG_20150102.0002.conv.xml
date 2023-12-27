@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150102.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-02 23:49:49 UTC" participant="153244">
+      <body>Jenny!!!!!
+Im on my way with your pizza!
+~########</body>
+    </message>
+    <message id="m0001" time="2015-01-02 23:50:25 UTC" participant="152118">
+      <body>Oh yay!!!!!!!!!!!!!!! I was hoping it was you!!! Come to ##th and ###### cause the water department is on my street!!</body>
+    </message>
+    <message id="m0002" time="2015-01-02 23:53:22 UTC" participant="153244">
+      <body>Im here</body>
+    </message>
+    <message id="m0003" time="2015-01-02 23:53:35 UTC" participant="152118">
+      <body>Okie. I'm coming.</body>
+    </message>
+  </messages>
+</conversation>
+

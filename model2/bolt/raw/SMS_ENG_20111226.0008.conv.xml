@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111226.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2011-12-26 20:13:52 UTC" participant="153283">
+      <body>Hey lady we are still planning on coming down tomorrow if that is cool. can I call you this evening to talk details?</body>
+    </message>
+    <message id="m0001" time="2011-12-26 20:15:45 UTC" participant="152734">
+      <body>Hey! Just heading back to Philly now. So yeah, call me later tonight and we will figure it all out. So excited to see you!</body>
+    </message>
+    <message id="m0002" time="2011-12-27 16:08:32 UTC" participant="153283">
+      <body>Perfect thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

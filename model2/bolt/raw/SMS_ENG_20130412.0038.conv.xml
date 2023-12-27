@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130412.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-12 22:32:31 UTC">
+      <body>Lloyd blue bus stop at 7:00 so we can drive to BMC for our 7:15 meeting? I can drive :)</body>
+    </message>
+    <message id="m0001" participant="135305" time="2013-04-12 22:33:53 UTC">
+      <body>Fuuuuuuuuuuck I forgot again! But yes haha that works </body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-12 22:34:09 UTC">
+      <body>Sweet :)</body>
+    </message>
+  </messages>
+</conversation>

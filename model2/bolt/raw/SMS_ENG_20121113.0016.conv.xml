@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121113.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-13 16:31:16 UTC" participant="135274">
+      <body>Lunch?</body>
+    </message>
+    <message id="m0001" time="2012-11-13 16:31:50 UTC" participant="135080">
+      <body>Yeah! Are you coming from class?</body>
+    </message>
+    <message id="m0002" time="2012-11-13 16:33:52 UTC" participant="135080">
+      <body>Slash meet in the lobby?</body>
+    </message>
+    <message id="m0003" time="2012-11-13 16:35:40 UTC" participant="135274">
+      <body>Sure thing</body>
+    </message>
+  </messages>
+</conversation>
+

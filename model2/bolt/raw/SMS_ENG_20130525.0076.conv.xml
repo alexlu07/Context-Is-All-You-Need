@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0076" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137324" time="2013-05-25 22:45:18 UTC">
+      <body>Hey! Is your grad party still going on?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-05-25 22:58:05 UTC">
+      <body>Yes!! Come over!!! Bring friends!!! </body>
+    </message>
+    <message id="m0002" participant="137324" time="2013-05-25 22:58:42 UTC">
+      <body>Awesome! See you in a bit</body>
+    </message>
+    <message id="m0003" participant="137324" time="2013-05-26 17:46:11 UTC">
+      <body>Whazzuppp</body>
+    </message>
+    <message id="m0004" participant="137324" time="2013-05-26 20:56:32 UTC">
+      <body>Not much. What are you doing?</body>
+    </message>
+    <message id="m0005" participant="137255" time="2013-05-26 20:56:54 UTC">
+      <body>Wasssupp I was sleeping. What are you doing tonight </body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-05-26 23:36:46 UTC">
+      <body>Grad parties and then I don't know </body>
+    </message>
+    <message id="m0007" participant="137324" time="2013-05-26 23:56:45 UTC">
+      <body>Gotcha. I guess let me know when your free?</body>
+    </message>
+  </messages>
+</conversation>

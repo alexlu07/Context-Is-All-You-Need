@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140325.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-25 21:13:36 UTC" participant="153640">
+      <body>Doris and i at 30th station. Already saw Fiona. Heading back in a few. </body>
+    </message>
+    <message id="m0001" time="2014-03-25 21:20:00 UTC" participant="153640">
+      <body>Save a spot or vice versa</body>
+    </message>
+    <message id="m0002" time="2014-03-25 21:21:00 UTC" participant="153548">
+      <body>I should be there in a few. Really close!</body>
+    </message>
+    <message id="m0003" time="2014-03-25 21:22:04 UTC" participant="153548">
+      <body>Will do!</body>
+    </message>
+    <message id="m0004" time="2014-03-25 21:47:37 UTC" participant="153548">
+      <body>I'm in the theater</body>
+    </message>
+  </messages>
+</conversation>
+

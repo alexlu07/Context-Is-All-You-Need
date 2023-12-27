@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-01-12 20:48:38 UTC">
+      <body>Oh yeah, so meet at the#######? Or our place?</body>
+    </message>
+    <message id="m0001" participant="131033" time="2013-01-12 20:51:09 UTC">
+      <body>We'll meet ya at the ######! At 6?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-01-12 21:07:03 UTC">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-01-12 23:03:22 UTC">
+      <body>Heeeere!</body>
+    </message>
+  </messages>
+</conversation>

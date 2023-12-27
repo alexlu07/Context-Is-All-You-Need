@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130403.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136121" time="2013-04-03 14:33:15 UTC">
+      <body>how was your visit with Katie? Did you go home for Easter? </body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-03 14:45:43 UTC">
+      <body>i went down to charleston with some school friends, but had breakfast with katie (and brent) while i was there. super fun! </body>
+    </message>
+    <message id="m0002" participant="136121" time="2013-04-03 14:46:31 UTC">
+      <body>I'm glad you got to go! </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136201" time="2013-04-16 19:41:12 UTC">
+      <body>Hey Lauren it's Anna from ##########... Diane was curious when you were planning to come to the studio to load the kilns</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-04-16 19:41:58 UTC">
+      <body>i can't be there before 10. (i told her that this morning, but don't repeat that part.) </body>
+    </message>
+    <message id="m0002" participant="136201" time="2013-04-16 19:42:38 UTC">
+      <body>Hahaha ok</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-04-16 19:44:29 UTC">
+      <body>are y'all loading during class like she told me? or did she already? </body>
+    </message>
+    <message id="m0004" participant="136201" time="2013-04-16 20:50:24 UTC">
+      <body>Some people are now</body>
+    </message>
+    <message id="m0005" participant="136112" time="2013-04-16 20:51:24 UTC">
+      <body>yay thanks </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141211.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-11 17:05:32 UTC" participant="153548">
+      <body>Hey! We are running late today. Probably be done around 2:30 :( I'll text you when we wrap ups</body>
+    </message>
+    <message id="m0001" time="2014-12-11 17:08:37 UTC" participant="153660">
+      <body>Ok! No problem. </body>
+    </message>
+    <message id="m0002" time="2014-12-11 18:48:29 UTC" participant="153548">
+      <body>We finished! Wanna meet in west philly? I'll head that way. Coffee shop with Internet? Or beer/Internet zone.</body>
+    </message>
+    <message id="m0003" time="2014-12-11 18:50:45 UTC" participant="153660">
+      <body>Either /or! Need a plug though. </body>
+    </message>
+    <message id="m0004" time="2014-12-11 18:52:01 UTC" participant="153548">
+      <body>Wanna do milk and honeys? Or greenline on locust? Can get a beer after maybe ha</body>
+    </message>
+    <message id="m0005" time="2014-12-11 19:01:06 UTC" participant="153660">
+      <body>Greenline on locust is great. Call me when you get close.</body>
+    </message>
+    <message id="m0006" time="2014-12-11 19:07:26 UTC" participant="153548">
+      <body>Awesome. See you soon.</body>
+    </message>
+    <message id="m0007" time="2014-12-11 19:37:05 UTC" participant="153548">
+      <body>I'm a few blocks away!</body>
+    </message>
+  </messages>
+</conversation>
+

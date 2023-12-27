@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0016" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131711" time="2013-06-21 17:10:10 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130975" time="2013-06-21 17:10:59 UTC">
+      <body>hi</body>
+    </message>
+    <message id="m0002" participant="131711" time="2013-06-21 17:22:53 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="130975" time="2013-06-21 17:24:55 UTC">
+      <body>good. I'm on vacation in Seattle right now. u?</body>
+    </message>
+    <message id="m0004" participant="131711" time="2013-06-21 17:29:08 UTC">
+      <body>I'm ok on vacation? Awesome!</body>
+    </message>
+    <message id="m0005" participant="130975" time="2013-06-21 17:30:29 UTC">
+      <body>yup! just for the weekend but better than nothing!</body>
+    </message>
+  </messages>
+</conversation>

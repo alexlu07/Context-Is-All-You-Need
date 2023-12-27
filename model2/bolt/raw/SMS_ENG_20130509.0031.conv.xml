@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131055" time="2013-05-09 18:25:56 UTC">
+      <body>what's your paper on?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-05-09 18:26:48 UTC">
+      <body>Pre-phoenician trade in Iberia. I can't get anywhere w it</body>
+    </message>
+    <message id="m0002" participant="131055" time="2013-05-09 18:27:19 UTC">
+      <body>how long does it need to be?</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-05-09 18:28:07 UTC">
+      <body>10-15..I'm aiming for twelve. I have three </body>
+    </message>
+    <message id="m0004" participant="131055" time="2013-05-09 18:29:01 UTC">
+      <body>that's such a frustrating length...what's your thesis?</body>
+    </message>
+    <message id="m0005" participant="130664" time="2013-05-09 18:56:38 UTC">
+      <body>The self-imposed isolation of the Castro culture in the north is indicative of the autonomy of the regional groups, and supports the agency of the southern societies in Mediterranean trade networks  </body>
+    </message>
+  </messages>
+</conversation>

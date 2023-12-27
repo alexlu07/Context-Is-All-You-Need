@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130308.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-08 18:33:41 UTC" participant="152417">
+      <body>Why cant you hear a pterodactyl urinate?</body>
+    </message>
+    <message id="m0001" time="2013-03-08 18:34:13 UTC" participant="152560">
+      <body>Because the p is silent</body>
+    </message>
+    <message id="m0002" time="2013-03-08 19:12:20 UTC" participant="152417">
+      <body>Waka waka</body>
+    </message>
+    <message id="m0003" time="2013-03-09 16:34:25 UTC" participant="152417">
+      <body>Come on over</body>
+    </message>
+    <message id="m0004" time="2013-03-09 16:34:55 UTC" participant="152560">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

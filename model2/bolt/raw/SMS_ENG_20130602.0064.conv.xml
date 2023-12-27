@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130602.0064" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-02 03:51:18 UTC" participant="152560">
+      <body>Stopped at the Whiskey Room on my way home...</body>
+    </message>
+    <message id="m0001" time="2013-06-02 03:52:25 UTC" participant="152417">
+      <body>Cool, im still at bean. Should i meet you there?</body>
+    </message>
+    <message id="m0002" time="2013-06-02 04:05:30 UTC" participant="152560">
+      <body>Sure!</body>
+    </message>
+  </messages>
+</conversation>
+

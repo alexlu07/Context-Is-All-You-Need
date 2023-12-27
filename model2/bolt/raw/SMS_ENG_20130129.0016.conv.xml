@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135275" time="2013-01-29 20:10:22 UTC">
+      <body>I'm going to the linkedin thing at 6 in the dc. Anyone want to come?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-01-29 20:47:46 UTC">
+      <body>What is it?</body>
+    </message>
+    <message id="m0002" participant="135275" time="2013-01-29 20:49:04 UTC">
+      <body>Look at the weekly consensus under today. It's about how to effectively use linkedin.</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-01-29 20:51:32 UTC">
+      <body>Yeah I'll go!</body>
+    </message>
+    <message id="m0004" participant="135275" time="2013-01-29 20:52:08 UTC">
+      <body>Cool!</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-01-29 21:54:49 UTC">
+      <body>You want to go to dinner at 5:30 so we have some time to eat beforehand?</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-01-29 22:12:14 UTC">
+      <body>You don't think we can bring food in?</body>
+    </message>
+    <message id="m0007" participant="135275" time="2013-01-29 22:14:05 UTC">
+      <body>We can, but we'll be doing stuff on our laptops...</body>
+    </message>
+    <message id="m0008" participant="135275" time="2013-01-29 22:31:31 UTC">
+      <body>Sam and I are at a window table on the left side, in case you want to come.</body>
+    </message>
+    <message id="m0009" participant="135275" time="2013-01-30 18:52:32 UTC">
+      <body>Hey, could you let me know when you're around so I can get your opinion on this email?</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-01-31 18:10:33 UTC">
+      <body>Are you guys coming to lunch?</body>
+    </message>
+    <message id="m0011" participant="135275" time="2013-02-01 03:55:58 UTC">
+      <body>Anyone want to do lunch at 11?</body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-02-01 03:57:17 UTC">
+      <body>I have a lunchtime DC date with a friend who just got back from abroad...sorry!</body>
+    </message>
+    <message id="m0013" participant="135275" time="2013-02-01 20:37:04 UTC">
+      <body>Want to do dinner at 5:45?</body>
+    </message>
+    <message id="m0014" participant="135080" time="2013-02-01 20:46:48 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0015" participant="135275" time="2013-02-01 22:37:54 UTC">
+      <body>I'll meet you in the dc lobby</body>
+    </message>
+  </messages>
+</conversation>

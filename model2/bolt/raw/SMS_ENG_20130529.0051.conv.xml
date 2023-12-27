@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130529.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131838" time="2013-05-29 02:39:45 UTC">
+      <body>Hey I'm not gonna make it tonight,  see u tomorrow! </body>
+    </message>
+    <message id="m0001" participant="137425" time="2013-05-29 11:12:31 UTC">
+      <body>Cool!</body>
+    </message>
+    <message id="m0002" participant="131838" time="2013-05-29 21:49:18 UTC">
+      <body>By tonight, I meant tomorrow :) break legs! </body>
+    </message>
+  </messages>
+</conversation>

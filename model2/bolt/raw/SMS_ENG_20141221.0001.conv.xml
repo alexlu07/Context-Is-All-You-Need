@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141221.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-21 02:31:06 UTC" participant="152417">
+      <body>Hey Jess, are you coming down for bagels tomorrow?  I'm going with my friend maggie who went to skidmore</body>
+    </message>
+    <message id="m0001" time="2014-12-21 04:18:08 UTC" participant="152429">
+      <body>I wasn't planning on it but I'd like to if anyone is willing to take me</body>
+    </message>
+    <message id="m0002" time="2014-12-21 04:25:27 UTC" participant="152417">
+      <body>You could take the subway if no one else is coming down, i can give you a ride back up to the burbs in the afternoon.  But we're goin to bagels at 930ish, so its kinda early</body>
+    </message>
+    <message id="m0003" time="2014-12-21 04:25:39 UTC" participant="152429">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2014-12-21 04:25:43 UTC" participant="152429">
+      <body>I'll try</body>
+    </message>
+    <message id="m0005" time="2014-12-21 13:49:33 UTC" participant="152429">
+      <body>Mom says we're not leaving until 9:30</body>
+    </message>
+    <message id="m0006" time="2014-12-21 13:49:35 UTC" participant="152429">
+      <body>But the whole crew is going</body>
+    </message>
+    <message id="m0007" time="2014-12-21 13:50:05 UTC" participant="152417">
+      <body>Cool!</body>
+    </message>
+    <message id="m0008" time="2014-12-21 20:58:22 UTC" participant="152429">
+      <body>What would you like to order for dinner?</body>
+    </message>
+    <message id="m0009" time="2014-12-21 21:02:35 UTC" participant="152417">
+      <body>From where?</body>
+    </message>
+    <message id="m0010" time="2014-12-21 21:03:26 UTC" participant="152429">
+      <body>Trevi</body>
+    </message>
+    <message id="m0011" time="2014-12-21 21:04:07 UTC" participant="152417">
+      <body>Stromboli if they have it, but not veal</body>
+    </message>
+    <message id="m0012" time="2014-12-21 21:04:28 UTC" participant="152429">
+      <body>So what kind then?</body>
+    </message>
+    <message id="m0013" time="2014-12-21 21:06:09 UTC" participant="152417">
+      <body>Italian garden calzone</body>
+    </message>
+    <message id="m0014" time="2014-12-21 21:26:24 UTC" participant="152429">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

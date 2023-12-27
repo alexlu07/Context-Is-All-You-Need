@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120401.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-04-01 00:11:23 UTC">
+      <body>Are you talking about deviled eggs? I'm trying. Chipmunk voice. Edit it gurl?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-04-01 00:14:27 UTC">
+      <body>Is she lonely?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-04-01 00:18:03 UTC">
+      <body>She shows her dog pooping! And the poop!</body>
+    </message>
+    <message id="m0003" participant="135099" time="2012-04-01 00:34:08 UTC">
+      <body>Deviled eggs yes didn't see the poop</body>
+    </message>
+    <message id="m0004" participant="135099" time="2012-04-01 00:34:08 UTC">
+      <body>She is so lonely </body>
+    </message>
+  </messages>
+</conversation>

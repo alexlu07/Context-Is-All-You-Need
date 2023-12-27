@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130330.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-03-30 15:28:33 UTC">
+      <body>Brunch?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-30 15:29:12 UTC">
+      <body>Yes! Anna is just brushing her teeth - she gets ready fast. Are you heading over now? Or waking up now?</body>
+    </message>
+    <message id="m0002" participant="135274" time="2013-03-30 15:30:23 UTC">
+      <body>I am sort of in the middle of getting ready. I could be there in 5-10 min. what do you think your eta would be?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-03-30 15:30:59 UTC">
+      <body>Around the same I would imagine. Maybe closer to 10-15?</body>
+    </message>
+    <message id="m0004" participant="135274" time="2013-03-30 15:31:40 UTC">
+      <body>Ok, sounds lovely.  See you around 11:45ish then?</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-30 15:31:50 UTC">
+      <body>K :)</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-03-30 15:49:03 UTC">
+      <body>Window table!</body>
+    </message>
+    <message id="m0007" participant="135274" time="2013-03-30 15:49:53 UTC">
+      <body>Clutch.</body>
+    </message>
+    <message id="m0008" participant="135080" time="2013-03-30 16:22:42 UTC">
+      <body>The psych theme should be educational PBS shows from our childhood!</body>
+    </message>
+    <message id="m0009" participant="135274" time="2013-03-30 16:24:35 UTC">
+      <body>And each room could be a diff show!</body>
+    </message>
+    <message id="m0010" participant="135080" time="2013-03-31 15:35:35 UTC">
+      <body>Breakfast?</body>
+    </message>
+    <message id="m0011" participant="135274" time="2013-03-31 15:36:22 UTC">
+      <body>Yes please.  I think elise and i are going to head over in 10 min or so.</body>
+    </message>
+    <message id="m0012" participant="135080" time="2013-03-31 15:36:31 UTC">
+      <body>Cool :)</body>
+    </message>
+    <message id="m0013" participant="135274" time="2013-04-01 03:27:31 UTC">
+      <body>You guys coming to decorate?</body>
+    </message>
+  </messages>
+</conversation>

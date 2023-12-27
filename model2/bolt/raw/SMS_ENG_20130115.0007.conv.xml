@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130115.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-01-15 22:44:02 UTC">
+      <body>￼Duh Saul owns this book</body>
+    </message>
+    <message id="m0001" participant="135389" time="2013-01-15 22:46:46 UTC">
+      <body>I think it belongs to Fish!</body>
+    </message>
+    <message id="m0002" participant="135389" time="2013-01-15 22:46:51 UTC">
+      <body>But haha, yeah. </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-01-15 22:47:01 UTC">
+      <body>Whatever</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-01-15 22:47:09 UTC">
+      <body>It's perfect for fish too</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150320.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-20 14:43:18 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0001" time="2015-03-20 14:43:46 UTC" participant="152116">
+      <body>Wanna meet somewhere or am I going to your dorm?</body>
+    </message>
+    <message id="m0002" time="2015-03-20 14:53:09 UTC" participant="153783">
+      <body>Where would we meet? I already have lunch so I won't be buying</body>
+    </message>
+    <message id="m0003" time="2015-03-20 14:55:36 UTC" participant="152116">
+      <body>Okay I'll go to you</body>
+    </message>
+    <message id="m0004" time="2015-03-20 14:56:26 UTC" participant="153783">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2015-03-20 15:57:28 UTC" participant="152116">
+      <body>Can you come down</body>
+    </message>
+  </messages>
+</conversation>
+

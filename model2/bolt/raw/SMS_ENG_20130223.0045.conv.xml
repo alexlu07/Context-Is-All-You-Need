@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130223.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-23 17:08:16 UTC" participant="152563">
+      <body>You still planning on going to John/Julia's?</body>
+    </message>
+    <message id="m0001" time="2013-02-23 22:00:32 UTC" participant="152563">
+      <body>You able to get a hold of them for directions</body>
+    </message>
+    <message id="m0002" time="2013-02-23 22:01:02 UTC" participant="152417">
+      <body>Yep, got it</body>
+    </message>
+    <message id="m0003" time="2013-02-23 22:01:20 UTC" participant="152563">
+      <body>Awesome</body>
+    </message>
+    <message id="m0004" time="2013-02-23 22:17:46 UTC" participant="152417">
+      <body>Be there In six minutes</body>
+    </message>
+  </messages>
+</conversation>
+

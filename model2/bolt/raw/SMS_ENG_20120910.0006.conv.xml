@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120910.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-09-10 19:04:24 UTC">
+      <body>Hi, yesterday went by in school work and apartment organizing. Still feeling lousy, how are things with you?</body>
+    </message>
+    <message id="m0001" participant="131055" time="2012-09-10 19:14:21 UTC">
+      <body>feeling depressed. i don't think the wellbutrin is doing mch beyond making me feel anxious. </body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-09-10 19:26:03 UTC">
+      <body>Oh no, you do have a lot going on right now, depression is understandable. When do you see your therapist?</body>
+    </message>
+    <message id="m0003" participant="131055" time="2012-09-10 22:07:33 UTC">
+      <body>i'm going to the psychiatrist in a week. he is going to change my meds. pete told me i was being mean to him today. i kind of was but didn't realize it.</body>
+    </message>
+    <message id="m0004" participant="131055" time="2012-09-10 22:07:34 UTC">
+      <body> feel bad about that.</body>
+    </message>
+    <message id="m0005" participant="130664" time="2012-09-10 23:19:28 UTC">
+      <body>You shouldn't feel bad, you are under a lot of pressure and are essentially responsible for both of you. It's hard to control yourself when you are stressed like that. I'm sorry.</body>
+    </message>
+    <message id="m0006" participant="131055" time="2012-09-10 23:23:51 UTC">
+      <body>i guess. i was asking him if he was able to the call the psychiatrists and interview himself or if i needed to do it. i said it in a mean voice. i don't</body>
+    </message>
+    <message id="m0007" participant="131055" time="2012-09-10 23:23:53 UTC">
+      <body> like being in charge of that stuff - i guess it shows. </body>
+    </message>
+  </messages>
+</conversation>

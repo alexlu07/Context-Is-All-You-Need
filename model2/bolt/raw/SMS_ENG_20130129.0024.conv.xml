@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130129.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135494" time="2013-01-29 14:38:56 UTC">
+      <body>Do you still have your iPad</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-01-29 15:08:13 UTC">
+      <body>Nope</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-01-29 15:08:22 UTC">
+      <body>Y</body>
+    </message>
+  </messages>
+</conversation>

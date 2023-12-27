@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131212.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-12 22:47:28 UTC" participant="152424">
+      <body>my house is hosting a New Years party.  will you be around?</body>
+    </message>
+    <message id="m0001" time="2013-12-13 05:15:34 UTC" participant="152417">
+      <body>I dont think so, but ill be home later in jan</body>
+    </message>
+  </messages>
+</conversation>
+

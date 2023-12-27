@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111122.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-11-22 17:16:00 UTC">
+      <body>What was the thing you did?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-11-22 22:56:57 UTC">
+      <body>Come on brother you can text me back</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-11-22 23:46:51 UTC">
+      <body>Hi marfee</body>
+    </message>
+  </messages>
+</conversation>

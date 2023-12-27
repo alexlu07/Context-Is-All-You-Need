@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-21 15:22:22 UTC">
+      <body>Wats up?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-21 15:22:27 UTC">
+      <body>I'm in Philly dude</body>
+    </message>
+    <message id="m0002" participant="135399" time="2013-05-21 15:41:39 UTC">
+      <body>Lets hang </body>
+    </message>
+    <message id="m0003" participant="135399" time="2013-05-21 15:42:56 UTC">
+      <body>Where are you in philly</body>
+    </message>
+    <message id="m0004" participant="135399" time="2013-05-21 17:56:19 UTC">
+      <body>Peter and i are at the pub if youre interested</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-05-21 18:11:19 UTC">
+      <body>Yes</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-21 18:11:54 UTC">
+      <body>What pub</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-05-21 18:11:58 UTC">
+      <body>I miss y'all</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-05-21 18:12:31 UTC">
+      <body>I'm free now!  </body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-05-21 18:12:52 UTC">
+      <body>I took
+My morning nap and ate for the day. I'm ready for business </body>
+    </message>
+    <message id="m0010" participant="130622" time="2013-05-21 18:13:10 UTC">
+      <body>Gonna put on some too small clothing and come join y'all</body>
+    </message>
+    <message id="m0011" participant="135399" time="2013-05-21 18:27:02 UTC">
+      <body>El bar</body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-05-21 18:27:20 UTC">
+      <body>Ok will u be there for another hour?</body>
+    </message>
+    <message id="m0013" participant="130622" time="2013-05-21 18:50:33 UTC">
+      <body>Very close at berks</body>
+    </message>
+    <message id="m0014" participant="135399" time="2013-05-21 18:51:06 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136731" time="2013-07-07 18:02:29 UTC">
+      <body>There's Coca-Cola and sprite in the fridge downstairs. Help yourself and feel better soon I'll see you if you're there past 4 PM</body>
+    </message>
+    <message id="m0001" participant="136731" time="2013-07-07 18:02:38 UTC">
+      <body>Everyone else is coming home real soon</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-07-08 00:55:48 UTC">
+      <body>Yay!  Home safe and sound!  I'm so beat.  Thanks again for another great weekend!   oXo</body>
+    </message>
+    <message id="m0003" participant="136731" time="2013-07-08 00:56:53 UTC">
+      <body>You got it, friend! Glad you're safe and sound!</body>
+    </message>
+  </messages>
+</conversation>

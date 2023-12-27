@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110802.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-02 01:49:14 UTC">
+      <body>Flight info? Plans? Yayyyyyyyyy my Spanish lover</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-03 00:32:08 UTC">
+      <body>Where you at?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-03 03:25:39 UTC">
+      <body>Found it!</body>
+    </message>
+    <message id="m0003" participant="135106" time="2011-08-03 19:18:17 UTC">
+      <body>Awww my fave! I'll def be able to grab you at 4, what's the address?</body>
+    </message>
+    <message id="m0005" participant="135106" time="2011-08-03 19:24:52 UTC">
+      <body>Ok cool. I'll text you when I'm getting close.</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-08-03 20:22:13 UTC">
+      <body>Want to meet Regina? There's free nachos and 5 dollar margaritas!</body>
+    </message>
+    <message id="m0007" participant="135106" time="2011-08-03 20:23:35 UTC">
+      <body>Sure! Where at?</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-08-03 20:26:06 UTC">
+      <body>Roseville. I'll get the directions. :)</body>
+    </message>
+    <message id="m0009" participant="135106" time="2011-08-03 20:28:11 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0010" participant="135106" time="2011-08-03 20:55:44 UTC">
+      <body>I think I'm getting close.</body>
+    </message>
+    <message id="m0011" participant="131839" time="2011-08-03 20:57:51 UTC">
+      <body>I'm heading downstairs now :)</body>
+    </message>
+  </messages>
+</conversation>

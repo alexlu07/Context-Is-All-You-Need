@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-05 18:26:40 UTC">
+      <body>￼Fish cake</body>
+    </message>
+    <message id="m0001" participant="135396" time="2013-06-05 18:29:51 UTC">
+      <body>Yikes! Fish cakes for what?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-06-05 18:35:36 UTC">
+      <body>Eating </body>
+    </message>
+    <message id="m0003" participant="135396" time="2013-06-05 19:18:35 UTC">
+      <body>Why? Are you special?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-06-05 21:38:50 UTC">
+      <body>Yes but it isn't for me!!!</body>
+    </message>
+  </messages>
+</conversation>

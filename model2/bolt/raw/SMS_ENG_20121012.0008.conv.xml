@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121012.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135442" time="2012-10-12 16:25:36 UTC">
+      <body>Ah. Beautiful. I was wondering where that went.</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-12 16:26:00 UTC">
+      <body>We have your jacket</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-12 16:57:59 UTC">
+      <body>I forgot to bring it to school</body>
+    </message>
+  </messages>
+</conversation>

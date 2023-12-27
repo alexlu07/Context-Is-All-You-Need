@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140125.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-25 01:38:08 UTC" participant="153634">
+      <body>I wonder if this screen capture will work </body>
+    </message>
+    <message id="m0001" time="2014-01-25 16:00:00 UTC" participant="153634">
+      <body>could you give me yr screenflick key?</body>
+    </message>
+    <message id="m0002" time="2014-01-25 16:40:32 UTC" participant="153634">
+      <body>what's happening?</body>
+    </message>
+    <message id="m0003" time="2014-01-25 16:42:18 UTC" participant="153548">
+      <body>Just invited you</body>
+    </message>
+    <message id="m0004" time="2014-01-25 16:42:28 UTC" participant="153634">
+      <body>ok</body>
+    </message>
+  </messages>
+</conversation>
+

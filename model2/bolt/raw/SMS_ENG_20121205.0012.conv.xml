@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121205.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135421" time="2012-12-05 19:44:00 UTC">
+      <body>Sophie where will you be during the holidays?? I wanna see you!</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-12-06 18:17:59 UTC">
+      <body>I will be where ever I need to be to meet Micah</body>
+    </message>
+    <message id="m0002" participant="135421" time="2012-12-07 00:57:36 UTC">
+      <body>Ok I'll call u soon to discuss when's your last day of class?</body>
+    </message>
+  </messages>
+</conversation>

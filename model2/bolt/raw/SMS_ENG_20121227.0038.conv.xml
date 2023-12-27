@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121227.0038" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-12-27 15:30:28 UTC" participant="154393">
+      <body>       Where are you?</body>
+    </message>
+    <message id="m0001" time="2012-12-27 15:38:11 UTC" participant="154352">
+      <body>I'm on my way out the door for family stuff right now</body>
+    </message>
+    <message id="m0002" time="2012-12-27 22:38:14 UTC" participant="154393">
+      <body>Call me when you get a chance.</body>
+    </message>
+    <message id="m0003" time="2012-12-28 05:13:23 UTC" participant="154352">
+      <body>Call the Jorges</body>
+    </message>
+  </messages>
+</conversation>
+

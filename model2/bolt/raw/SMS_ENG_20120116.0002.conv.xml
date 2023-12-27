@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120116.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2012-01-16 21:36:28 UTC">
+      <body>Your portfolio is now worth $#######!!</body>
+    </message>
+    <message id="m0001" participant="131824" time="2012-01-16 21:37:36 UTC">
+      <body>Please advise when the goods arrive and as to your level of satisfaction hence.</body>
+    </message>
+    <message id="m0002" participant="131821" time="2012-01-16 21:38:01 UTC">
+      <body>How will I know when</body>
+    </message>
+    <message id="m0003" participant="131824" time="2012-01-16 23:21:30 UTC">
+      <body>Not there yet eh?</body>
+    </message>
+  </messages>
+</conversation>

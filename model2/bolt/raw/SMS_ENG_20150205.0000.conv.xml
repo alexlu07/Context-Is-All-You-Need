@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150205.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-05 21:56:56 UTC" participant="152115">
+      <body>Mm. I really want a milkshake or frozen yogurt.</body>
+    </message>
+    <message id="m0001" time="2015-02-05 21:57:31 UTC" participant="152115">
+      <body>Thinking about you. See you later!</body>
+    </message>
+    <message id="m0002" time="2015-02-05 23:02:55 UTC" participant="152116">
+      <body>We should go</body>
+    </message>
+    <message id="m0003" time="2015-02-05 23:08:56 UTC" participant="152116">
+      <body>You know I'll be up for it</body>
+    </message>
+    <message id="m0004" time="2015-02-05 23:12:18 UTC" participant="152115">
+      <body>I know you would be up for it. But I just got out of the shower. The weekend isn't that far away. I can wait.</body>
+    </message>
+    <message id="m0005" time="2015-02-05 23:16:52 UTC" participant="152116">
+      <body>Okay...</body>
+    </message>
+    <message id="m0006" time="2015-02-05 23:16:56 UTC" participant="152116">
+      <body>I'm on my way</body>
+    </message>
+    <message id="m0007" time="2015-02-05 23:17:57 UTC" participant="152115">
+      <body>Okay...I hear sadness. I'm sorry. Haha. It's my craving that's suffering!</body>
+    </message>
+    <message id="m0008" time="2015-02-05 23:18:22 UTC" participant="152116">
+      <body>I'm not sad</body>
+    </message>
+    <message id="m0009" time="2015-02-05 23:18:39 UTC" participant="152115">
+      <body>Ok</body>
+    </message>
+    <message id="m0010" time="2015-02-06 16:59:34 UTC" participant="152115">
+      <body>Oh my god. I feel like I've been walking in circles for the past hour. There's not enough to do!</body>
+    </message>
+    <message id="m0011" time="2015-02-06 17:42:34 UTC" participant="152116">
+      <body>Well it's good to have a break every once in a while</body>
+    </message>
+  </messages>
+</conversation>
+

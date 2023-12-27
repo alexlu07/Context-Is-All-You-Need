@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140601.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-01 20:38:30 UTC" participant="153781">
+      <body>Midget..lol</body>
+    </message>
+    <message id="m0001" time="2014-06-02 16:45:57 UTC" participant="153781">
+      <body>Hey, how is your day going?</body>
+    </message>
+    <message id="m0002" time="2014-06-02 17:52:28 UTC" participant="153244">
+      <body>Hey, sorry I have to keep my phone in the locker at work. They are really strict about phone use... but going good so far. How about yours? </body>
+    </message>
+    <message id="m0003" time="2014-06-02 18:05:23 UTC" participant="153781">
+      <body>I understand.. it's good,  hot out today...how did u make out last night? </body>
+    </message>
+    <message id="m0004" time="2014-06-02 19:51:22 UTC" participant="153781">
+      <body>What night's are you available??</body>
+    </message>
+  </messages>
+</conversation>
+

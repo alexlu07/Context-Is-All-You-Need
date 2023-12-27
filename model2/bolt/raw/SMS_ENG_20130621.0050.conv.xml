@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130621.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-06-21 18:46:15 UTC">
+      <body>What happened did daddy say yes</body>
+    </message>
+    <message id="m0001" participant="137273" time="2013-06-21 18:47:04 UTC">
+      <body>Dosent matter anymore</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-06-21 18:47:21 UTC">
+      <body>Why</body>
+    </message>
+    <message id="m0003" participant="137273" time="2013-06-21 18:47:41 UTC">
+      <body>He's not coming</body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-06-21 18:48:01 UTC">
+      <body>I love you </body>
+    </message>
+  </messages>
+</conversation>

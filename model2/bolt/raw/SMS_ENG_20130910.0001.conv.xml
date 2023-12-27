@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130910.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-10 15:02:17 UTC" participant="152560">
+      <body>Thank you so much for giving me a lift this morning! You are the greatest.</body>
+    </message>
+    <message id="m0001" time="2013-09-10 17:31:43 UTC" participant="152417">
+      <body>No problem.  For you, anything and everything!</body>
+    </message>
+    <message id="m0002" time="2013-09-11 05:06:28 UTC" participant="152417">
+      <body>I made it safely to providence.  Sweet dreams</body>
+    </message>
+    <message id="m0003" time="2013-09-11 11:08:43 UTC" participant="152560">
+      <body>Good morning love. Glad you made it there safely.</body>
+    </message>
+  </messages>
+</conversation>
+

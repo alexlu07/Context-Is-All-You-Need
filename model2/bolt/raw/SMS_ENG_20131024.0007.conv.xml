@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131024.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-24 00:51:18 UTC" participant="153576">
+      <body>Hey.plane tickets to Chile?</body>
+    </message>
+    <message id="m0001" time="2013-10-24 01:21:00 UTC" participant="153548">
+      <body>Yes did you find any deals?</body>
+    </message>
+    <message id="m0002" time="2013-10-24 01:21:06 UTC" participant="153548">
+      <body>It's so expensive!</body>
+    </message>
+    <message id="m0003" time="2013-10-24 01:21:28 UTC" participant="153576">
+      <body>1300?</body>
+    </message>
+    <message id="m0004" time="2013-10-24 01:21:47 UTC" participant="153576">
+      <body>Can you talk for a minute?</body>
+    </message>
+    <message id="m0005" time="2013-10-24 01:22:13 UTC" participant="153548">
+      <body>Just for a sec!</body>
+    </message>
+    <message id="m0006" time="2013-10-24 02:08:00 UTC" participant="153548">
+      <body>I bought them. 3rd-17th! Leaving from philly.</body>
+    </message>
+    <message id="m0007" time="2013-10-24 02:14:35 UTC" participant="153576">
+      <body>Yay! Remind me to get you drunk the night before!!! I'm so proud of you. I'll get mine tomorrow</body>
+    </message>
+    <message id="m0008" time="2013-10-24 02:15:02 UTC" participant="153548">
+      <body>Haha. I'm so excited! </body>
+    </message>
+    <message id="m0009" time="2013-10-24 02:22:43 UTC" participant="153576">
+      <body>The painful part didn't last very long...we're going to make some memoirs</body>
+    </message>
+  </messages>
+</conversation>
+

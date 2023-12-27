@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111013.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131403" time="2011-10-13 23:28:00 UTC">
+      <body>Check if Paige is out</body>
+    </message>
+    <message id="m0001" participant="131406" time="2011-10-13 23:30:08 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="131406" time="2011-10-13 23:32:16 UTC">
+      <body>Paige isent out</body>
+    </message>
+    <message id="m0003" participant="131406" time="2011-10-13 23:32:16 UTC">
+      <body>I like you</body>
+    </message>
+    <message id="m0004" participant="131406" time="2011-10-13 23:40:48 UTC">
+      <body>Alex quit</body>
+    </message>
+  </messages>
+</conversation>

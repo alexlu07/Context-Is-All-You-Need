@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130825.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-25 12:03:33 UTC" participant="154403">
+      <body>Alright. How many tickets will you need?</body>
+    </message>
+    <message id="m0001" time="2013-08-25 12:10:21 UTC" participant="154352">
+      <body>2</body>
+    </message>
+    <message id="m0002" time="2013-08-25 12:12:13 UTC" participant="154403">
+      <body>Sure thing. I'll try to leave them in Will Call for you, and you can come by my booth once you get inside to pay me back</body>
+    </message>
+    <message id="m0003" time="2013-08-25 12:12:40 UTC" participant="154352">
+      <body>Thanks!</body>
+    </message>
+    <message id="m0004" time="2013-08-25 12:13:01 UTC" participant="154403">
+      <body>My pleasure.</body>
+    </message>
+    <message id="m0005" time="2013-08-25 13:33:55 UTC" participant="154403">
+      <body>Will Call is in the wine shop</body>
+    </message>
+    <message id="m0006" time="2013-08-25 15:23:07 UTC" participant="154403">
+      <body>I'm in booth 426</body>
+    </message>
+    <message id="m0007" time="2013-08-25 15:23:34 UTC" participant="154352">
+      <body>I'll be there</body>
+    </message>
+  </messages>
+</conversation>
+

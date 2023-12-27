@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0066" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131520" time="2013-05-26 13:05:08 UTC">
+      <body>Hi, "MrMuffins"! This is the TextPenn Chatbot. Welcome to the conversation.</body>
+    </message>
+    <message id="m0001" participant="131520" time="2013-05-26 13:05:09 UTC">
+      <body>The participants in this conversation are Turklin2013 and MrMuffins.</body>
+    </message>
+    <message id="m0002" participant="131520" time="2013-05-26 13:05:11 UTC">
+      <body>You have 23 hours to complete this conversation. You will be notified when time is up. Enjoy! </body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-05-26 13:06:13 UTC">
+      <body>Hello Turklin. What's happening?</body>
+    </message>
+    <message id="m0004" participant="131520" time="2013-05-26 13:58:43 UTC">
+      <body>Turklin2013: Mr. Muffins! I'm almost fully recovered from a hang over. How are you?</body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-05-26 16:08:28 UTC">
+      <body>Haha! Was in the same boat around the same time. Forgot I signed up for this.</body>
+    </message>
+    <message id="m0006" participant="130706" time="2013-05-26 16:09:07 UTC">
+      <body>My texts may be somewhat spread out. Distracted.</body>
+    </message>
+    <message id="m0007" participant="130706" time="2013-05-26 20:05:29 UTC">
+      <body>Hang over working itself out? </body>
+    </message>
+    <message id="m0008" participant="131520" time="2013-05-26 23:29:11 UTC">
+      <body>Turklin2013: Oh yeah! How are you doing</body>
+    </message>
+    <message id="m0009" participant="130706" time="2013-05-26 23:29:52 UTC">
+      <body>Just finished running. Heading to Home Depot before it closes.</body>
+    </message>
+    <message id="m0010" participant="130706" time="2013-05-26 23:32:09 UTC">
+      <body>Did you participate in the initial conference call chat line?</body>
+    </message>
+    <message id="m0011" participant="131520" time="2013-05-26 23:54:57 UTC">
+      <body>Turklin2013: No way. I must have missed out.</body>
+    </message>
+    <message id="m0012" participant="130706" time="2013-05-26 23:55:23 UTC">
+      <body>That was like a year ago.</body>
+    </message>
+    <message id="m0013" participant="130706" time="2013-05-26 23:57:43 UTC">
+      <body>It was cool, like 15 phone calls of 10 minutes, recorded, on random subjects.</body>
+    </message>
+    <message id="m0014" participant="130706" time="2013-05-26 23:58:09 UTC">
+      <body>Paid some guaranteed amount.</body>
+    </message>
+    <message id="m0015" participant="131520" time="2013-05-27 00:01:06 UTC">
+      <body>Turklin2013: Awesome</body>
+    </message>
+    <message id="m0016" participant="131520" time="2013-05-27 00:01:16 UTC">
+      <body>Turklin2013: This is just raffle</body>
+    </message>
+    <message id="m0017" participant="130706" time="2013-05-27 00:01:36 UTC">
+      <body>Yeah, I know.</body>
+    </message>
+    <message id="m0018" participant="130706" time="2013-05-27 00:11:03 UTC">
+      <body>So what's the objective, just random chat? How'd you end up getting involved?</body>
+    </message>
+    <message id="m0019" participant="131520" time="2013-05-27 12:01:02 UTC">
+      <body>Time is up! The TextPenn Chatbot is closing the conversation now. Thank you and hope to chat with you again soon!</body>
+    </message>
+  </messages>
+</conversation>

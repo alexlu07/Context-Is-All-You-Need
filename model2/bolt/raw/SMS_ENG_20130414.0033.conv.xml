@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130414.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-04-14 23:52:44 UTC">
+      <body>I dunno if you have anything special planned for tomorrow, but I was planning on hanging out with my roommate (who is grilling for marathon monday) then heading to studio to work early afternoon. Would you like to join me? Possibly for an early morning run? Or any of the above?</body>
+    </message>
+    <message id="m0001" participant="135436" time="2013-04-14 23:53:36 UTC">
+      <body>I am working at the gallery at 9. Have fun!</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-14 23:54:58 UTC">
+      <body>Ok cool.  Ill see you later then. Mwah!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-15 19:18:04 UTC">
+      <body>Lilly u ok?</body>
+    </message>
+    <message id="m0004" participant="135436" time="2013-04-15 19:44:00 UTC">
+      <body>Yes, you?</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-04-15 19:45:01 UTC">
+      <body>All good!</body>
+    </message>
+  </messages>
+</conversation>

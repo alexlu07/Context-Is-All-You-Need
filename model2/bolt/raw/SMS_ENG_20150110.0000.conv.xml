@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150110.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-10 21:54:49 UTC" participant="152735">
+      <body>I'm going to call you tonight actually, in about two hours :) </body>
+    </message>
+    <message id="m0001" time="2015-01-11 00:06:59 UTC" participant="152787">
+      <body>not around lets do this monday</body>
+    </message>
+    <message id="m0002" time="2015-01-11 00:10:39 UTC" participant="152735">
+      <body>Monday sounds great</body>
+    </message>
+    <message id="m0003" time="2015-01-11 00:10:48 UTC" participant="152735">
+      <body>I'll call then or you call me whatever is best </body>
+    </message>
+    <message id="m0004" time="2015-01-11 01:07:02 UTC" participant="152787">
+      <body>k</body>
+    </message>
+  </messages>
+</conversation>
+

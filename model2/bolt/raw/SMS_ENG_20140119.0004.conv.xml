@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140119.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-19 19:29:47 UTC" participant="152535">
+      <body>Yo. Im walkin around before balagan. Let me know if youre still in town  so i can catch up. Peace~</body>
+    </message>
+    <message id="m0001" time="2014-01-19 22:33:01 UTC" participant="152417">
+      <body>Hey, sorry, ive been at spielpalast rehersal all afternoon.  Lets kick it tomorrow</body>
+    </message>
+    <message id="m0002" time="2014-01-19 22:51:44 UTC" participant="152535">
+      <body>No worries. Did you say you audtioned muscains for that already? Cool. Im think of heading to smuggs tomorrow. I will let you know if you want to come. Peace!</body>
+    </message>
+    <message id="m0003" time="2014-01-20 03:15:03 UTC" participant="152417">
+      <body>I do have musicians already, sorry.  I do wanna go, What time are you goin?</body>
+    </message>
+    <message id="m0004" time="2014-01-20 14:41:04 UTC" participant="152535">
+      <body>Im going at 11. Let me know. </body>
+    </message>
+    <message id="m0005" time="2014-01-20 14:43:58 UTC" participant="152417">
+      <body>Yes please! Can you swing by and get me or should i meet you at your house?</body>
+    </message>
+    <message id="m0006" time="2014-01-20 14:45:04 UTC" participant="152535">
+      <body>I will be by</body>
+    </message>
+    <message id="m0007" time="2014-01-20 16:06:24 UTC" participant="152535">
+      <body>On my way!</body>
+    </message>
+  </messages>
+</conversation>
+

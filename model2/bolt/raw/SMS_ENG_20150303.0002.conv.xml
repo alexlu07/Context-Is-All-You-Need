@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 02:15:02 UTC" participant="152247">
+      <body/>
+    </message>
+    <message id="m0001" time="2015-03-03 02:26:27 UTC" participant="152212">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" time="2015-03-03 02:26:33 UTC" participant="152212">
+      <body>:)</body>
+    </message>
+    <message id="m0003" time="2015-03-03 02:27:03 UTC" participant="152247">
+      <body>Heyyyyy. </body>
+    </message>
+    <message id="m0004" time="2015-03-03 02:30:53 UTC" participant="152247">
+      <body>Free tomorrow? Come to dinner at cris's house tomorrow night with me </body>
+    </message>
+    <message id="m0005" time="2015-03-03 02:31:33 UTC" participant="152212">
+      <body>I will try! I am flying from philly so I need to see how I feel!! As of now it seems good though!</body>
+    </message>
+    <message id="m0006" time="2015-03-03 02:32:02 UTC" participant="152247">
+      <body>Oh it would be so fun! </body>
+    </message>
+  </messages>
+</conversation>
+

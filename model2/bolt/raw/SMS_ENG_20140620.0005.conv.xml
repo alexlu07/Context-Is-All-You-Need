@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140620.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-20 00:59:44 UTC" participant="153633">
+      <body>Hey, Lindsey. Do you need the entire clip you gave me with the smoke at the end or can I just send you the segment with the smoke? How are you going to sync?</body>
+    </message>
+    <message id="m0001" time="2014-06-20 12:10:51 UTC" participant="153548">
+      <body>Just watched!!! They are GREAT. Give me a call when you have a chance'</body>
+    </message>
+    <message id="m0002" time="2014-06-20 12:11:44 UTC" participant="153633">
+      <body>Hey there.  Give me 20 minutes.  </body>
+    </message>
+    <message id="m0003" time="2014-06-20 12:12:14 UTC" participant="153548">
+      <body>Take your time. </body>
+    </message>
+    <message id="m0004" time="2014-06-20 19:18:53 UTC" participant="153633">
+      <body>Hey, Lindsey. I just sent you some vimeo links. 2 different versions of the closet and 1 version of the floor. I'm FTPing the .mov files now.</body>
+    </message>
+    <message id="m0005" time="2014-06-20 19:39:44 UTC" participant="153633">
+      <body>Cool. I think these clips are better, however, I'm starting to lose perspective. LOL</body>
+    </message>
+    <message id="m0006" time="2014-06-20 19:40:04 UTC" participant="153548">
+      <body>Thanks!! I'm on my way home now!</body>
+    </message>
+    <message id="m0007" time="2014-06-20 19:41:19 UTC" participant="153548">
+      <body>I know the feeling!!!</body>
+    </message>
+  </messages>
+</conversation>
+

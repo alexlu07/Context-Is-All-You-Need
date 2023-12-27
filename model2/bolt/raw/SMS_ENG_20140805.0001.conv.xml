@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140805.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-05 02:03:32 UTC" participant="152417">
+      <body>City market, pearl st, and winooski get tuesday deliveries of heady topper, they tend to sell out by 2</body>
+    </message>
+    <message id="m0001" time="2014-08-05 02:04:52 UTC" participant="152560">
+      <body>How much do you want? Just a 4-pack?</body>
+    </message>
+    <message id="m0002" time="2014-08-05 02:05:13 UTC" participant="152417">
+      <body>2 4 packs por favor</body>
+    </message>
+    <message id="m0003" time="2014-08-05 15:04:32 UTC" participant="152560">
+      <body>Sorry no dice on the Heady Topper. I ran around everywhere and it's sold out. </body>
+    </message>
+    <message id="m0004" time="2014-08-05 15:05:23 UTC" participant="152417">
+      <body>Holy moly, its an albino unicorn</body>
+    </message>
+    <message id="m0005" time="2014-08-05 15:15:12 UTC" participant="152560">
+      <body>What?</body>
+    </message>
+    <message id="m0006" time="2014-08-05 15:18:50 UTC" participant="152417">
+      <body>Its as hard to find as an albino unicorn</body>
+    </message>
+    <message id="m0007" time="2014-08-05 16:56:16 UTC" participant="152417">
+      <body>Wrong numbers are playing the bean on sat at midnight</body>
+    </message>
+    <message id="m0008" time="2014-08-06 00:18:42 UTC" participant="152560">
+      <body>Hola. </body>
+    </message>
+    <message id="m0011" time="2014-08-06 00:19:12 UTC" participant="152560">
+      <body>Concert hall</body>
+    </message>
+    <message id="m0012" time="2014-08-06 00:19:38 UTC" participant="152417">
+      <body>Its in the dance theatre down stairs, in the arts center</body>
+    </message>
+    <message id="m0013" time="2014-08-06 00:22:02 UTC" participant="152560">
+      <body>Do you need the cahone?</body>
+    </message>
+    <message id="m0014" time="2014-08-06 00:23:07 UTC" participant="152417">
+      <body> No, just the lights</body>
+    </message>
+  </messages>
+</conversation>
+

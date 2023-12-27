@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121210.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-12-10 19:03:29 UTC">
+      <body>How are you? Are you still up for coming out tonight?</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-12-10 19:04:19 UTC">
+      <body>Im oj. What time? I gotta study quhck</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-12-10 19:05:11 UTC">
+      <body>It starts at 8, I'm staying at school until then</body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-12-10 19:07:12 UTC">
+      <body>Ok yea. Where r we going?</body>
+    </message>
+    <message id="m0004" participant="130664" time="2012-12-10 19:10:16 UTC">
+      <body>1026</body>
+    </message>
+    <message id="m0005" participant="131053" time="2012-12-10 19:49:31 UTC">
+      <body>Ok-i gonna study now</body>
+    </message>
+    <message id="m0006" participant="130664" time="2012-12-10 21:19:06 UTC">
+      <body>K. We should split a six pack</body>
+    </message>
+    <message id="m0007" participant="130664" time="2012-12-10 23:41:54 UTC">
+      <body>How is studying going?</body>
+    </message>
+    <message id="m0008" participant="131053" time="2012-12-10 23:46:47 UTC">
+      <body>Dude i have so much to do.</body>
+    </message>
+  </messages>
+</conversation>

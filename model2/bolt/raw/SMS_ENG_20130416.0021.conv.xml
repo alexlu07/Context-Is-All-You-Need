@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-16 20:45:31 UTC">
+      <body>hey. happy tuesday!</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-04-16 20:46:49 UTC">
+      <body>what's going on?</body>
+    </message>
+    <message id="m0002" participant="131375" time="2013-04-16 23:27:30 UTC">
+      <body>PMS, Programming nightmare at work, not able to drink booze to drown my frustration for lack of stomach. And other reasons. But those are the three big ones. </body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-16 23:29:28 UTC">
+      <body>i'm sorry.
+
+probably doesn't help to let you know that some guy far away (me) thinks you're awesome...but, it's still true.</body>
+    </message>
+    <message id="m0004" participant="131375" time="2013-04-16 23:30:40 UTC">
+      <body>Thank you. I appreciate the sentiment. </body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-16 23:31:23 UTC">
+      <body>i hope the day gets better...</body>
+    </message>
+    <message id="m0006" participant="131375" time="2013-04-16 23:32:23 UTC">
+      <body>It will when I pass out </body>
+    </message>
+  </messages>
+</conversation>

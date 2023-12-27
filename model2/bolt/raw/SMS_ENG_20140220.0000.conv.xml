@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140220.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-20 04:23:04 UTC" participant="149306">
+      <body>Happy birthday buddy! Thanks for helping out with  The #####</body>
+    </message>
+    <message id="m0001" time="2014-02-20 04:24:23 UTC" participant="149380">
+      <body>Thanks ##### It never hurts to help.</body>
+    </message>
+    <message id="m0002" time="2014-02-20 04:25:31 UTC" participant="149306">
+      <body>Unless you're helping hurt</body>
+    </message>
+    <message id="m0003" time="2014-02-20 04:26:50 UTC" participant="149380">
+      <body>Mm. True.</body>
+    </message>
+    <message id="m0004" time="2014-02-20 04:27:55 UTC" participant="149306">
+      <body>Life is sad and complex at times...</body>
+    </message>
+  </messages>
+</conversation>
+

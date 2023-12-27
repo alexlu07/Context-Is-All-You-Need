@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120509.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136208" time="2012-05-09 19:22:24 UTC">
+      <body>We went to tex mex</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-09 19:23:24 UTC">
+      <body>Kk be there soon</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-05-09 20:25:02 UTC">
+      <body>Sorry I couldn't make it. I'll see you tomorrow</body>
+    </message>
+  </messages>
+</conversation>

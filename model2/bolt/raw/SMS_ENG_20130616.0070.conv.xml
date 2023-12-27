@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130616.0070" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-16 00:49:04 UTC" participant="152566">
+      <body>Hey dude, there's a party at my place tonight. Come meet Sophie's other friend from Philly named Gabriel, if you don't know each other already. Ria (sp?) is invited too, bien sur. dancing starts around 11ish</body>
+    </message>
+    <message id="m0002" time="2013-06-16 00:51:33 UTC" participant="152417">
+      <body>Is this mr george?</body>
+    </message>
+    <message id="m0003" time="2013-06-16 00:53:20 UTC" participant="152417">
+      <body>O sorry, im actually in philly, comin back to vt tomorrow, thanks for the invite though!</body>
+    </message>
+  </messages>
+</conversation>
+

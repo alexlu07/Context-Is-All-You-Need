@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140917.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-17 19:40:55 UTC" participant="152115">
+      <body>Can you text me later and let me know if daddy's picking me up at 730? If not, I want to just start walking right away.</body>
+    </message>
+    <message id="m0001" time="2014-09-17 22:08:32 UTC" participant="152117">
+      <body>Just got your message. I'll let you know in a few minutes </body>
+    </message>
+    <message id="m0002" time="2014-09-17 22:10:54 UTC" participant="152117">
+      <body>Dad said he'll be there at 7:30. Love you!</body>
+    </message>
+  </messages>
+</conversation>
+

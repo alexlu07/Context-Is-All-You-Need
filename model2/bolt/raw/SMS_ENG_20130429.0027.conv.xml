@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130429.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131821" time="2013-04-29 19:07:59 UTC">
+      <body>Is it today that the order is coming?</body>
+    </message>
+    <message id="m0001" participant="131824" time="2013-04-29 21:21:19 UTC">
+      <body>Yes between 4&amp;6</body>
+    </message>
+  </messages>
+</conversation>

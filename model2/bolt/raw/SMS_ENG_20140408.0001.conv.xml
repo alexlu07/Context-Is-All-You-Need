@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140408.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-08 22:02:40 UTC" participant="152535">
+      <body>Just wanted to make you aware. May 13 at 7 is the band concert. </body>
+    </message>
+    <message id="m0001" time="2014-04-08 22:03:23 UTC" participant="152417">
+      <body>Cool, thanks</body>
+    </message>
+    <message id="m0002" time="2014-04-08 22:04:18 UTC" participant="152535">
+      <body>We should get a beer this weekend. Maybe friday or saturday?</body>
+    </message>
+    <message id="m0003" time="2014-04-08 22:06:56 UTC" participant="152535">
+      <body>Cool. Let me know when youre free when you know. </body>
+    </message>
+    <message id="m0004" time="2014-04-08 22:07:02 UTC" participant="152417">
+      <body>Id love to</body>
+    </message>
+    <message id="m0005" time="2014-04-09 18:08:45 UTC" participant="152417">
+      <body>Are you at school? Mac n i are locked out</body>
+    </message>
+    <message id="m0006" time="2014-04-09 18:14:47 UTC" participant="152417">
+      <body>We got in</body>
+    </message>
+  </messages>
+</conversation>
+

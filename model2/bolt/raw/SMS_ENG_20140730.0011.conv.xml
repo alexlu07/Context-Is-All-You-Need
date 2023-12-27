@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140730.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-30 16:45:30 UTC" participant="153548">
+      <body>Hey!! So is it okay if I get a ride with you tonight? </body>
+    </message>
+    <message id="m0001" time="2014-07-30 16:46:26 UTC" participant="153641">
+      <body>Absolutely. What time should I pick you up?</body>
+    </message>
+    <message id="m0002" time="2014-07-30 16:47:32 UTC" participant="153548">
+      <body>It will take us about 25 minutes to get there with no traffic or considering parking</body>
+    </message>
+    <message id="m0003" time="2014-07-30 16:48:02 UTC" participant="153548">
+      <body>Doors at 7</body>
+    </message>
+    <message id="m0004" time="2014-07-30 16:48:17 UTC" participant="153548">
+      <body>6:30?</body>
+    </message>
+    <message id="m0005" time="2014-07-30 16:48:27 UTC" participant="153548">
+      <body>I don't care if we miss the opener</body>
+    </message>
+    <message id="m0006" time="2014-07-30 16:49:19 UTC" participant="153641">
+      <body>Me either. I'll pick u up between 6:30 and 7. I'll txt when I'm on the way.</body>
+    </message>
+    <message id="m0007" time="2014-07-30 16:49:44 UTC" participant="153548">
+      <body>Sounds perfect. Thanks so much. I'll bring a blanket and our tickets!</body>
+    </message>
+    <message id="m0008" time="2014-07-30 16:51:35 UTC" participant="153641">
+      <body>Perfect</body>
+    </message>
+    <message id="m0009" time="2014-07-30 23:24:20 UTC" participant="153548">
+      <body>Are you close should I put my pants on?</body>
+    </message>
+  </messages>
+</conversation>
+

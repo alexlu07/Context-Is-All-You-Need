@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110814.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="130857" time="2011-08-14 19:28:13 UTC">
+      <body>(2/2)Tip: assuming Philadelphia, PA as your location. To change, use SET LOCATION.
+
+Tip: get help with trivia; send HELP Q&amp;A to learn more.</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-08-14 19:29:03 UTC">
+      <body>Paesanos</body>
+    </message>
+    <message id="m0004" participant="130857" time="2011-08-26 20:54:13 UTC">
+      <body>(2/2)Tip: assuming Philadelphia, PA as your location. To change, use SET LOCATION.
+
+Tip: get area code mapping; send HELP AREA CODE to learn more.</body>
+    </message>
+    <message id="m0005" participant="130755" time="2011-08-26 20:55:13 UTC">
+      <body>Fireball printing</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130322.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-03-22 12:19:07 UTC">
+      <body>Sorry, running late,  heading out in a min</body>
+    </message>
+    <message id="m0001" participant="131463" time="2013-03-22 12:22:37 UTC">
+      <body>No worries</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-03-22 12:30:54 UTC">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>

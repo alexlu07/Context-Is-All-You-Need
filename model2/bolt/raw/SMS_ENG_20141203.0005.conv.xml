@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141203.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-03 01:30:51 UTC" participant="153595">
+      <body>Are you looking for just land? Or land with a house?</body>
+    </message>
+    <message id="m0001" time="2014-12-03 13:49:53 UTC" participant="153547">
+      <body>I'm looking for land with a house and a building for woodshop and a studio, or atleast a big garage</body>
+    </message>
+    <message id="m0002" time="2014-12-03 14:08:32 UTC" participant="153595">
+      <body>Have you looked on Zillow?</body>
+    </message>
+    <message id="m0003" time="2014-12-03 14:13:13 UTC" participant="153595">
+      <body>there's a property on dillingham road in Barnardsville that has an unfinished house / studio for 89,000 on 8 acres</body>
+    </message>
+  </messages>
+</conversation>
+

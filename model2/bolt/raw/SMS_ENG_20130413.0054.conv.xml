@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130413.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-13 03:37:54 UTC">
+      <body>We're outside your house </body>
+    </message>
+    <message id="m0001" participant="137263" time="2013-04-13 03:38:19 UTC">
+      <body>Good to know</body>
+    </message>
+  </messages>
+</conversation>

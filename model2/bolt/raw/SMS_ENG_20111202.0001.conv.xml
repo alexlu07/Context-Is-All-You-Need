@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111202.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130692" time="2011-12-02 14:11:15 UTC">
+      <body>Lemmie know when your awake, I'm gonna need that new login</body>
+    </message>
+    <message id="m0001" participant="131316" time="2011-12-02 14:17:29 UTC">
+      <body>Sorry. Been awake since 730. Had to be at cape henlopen this morning at 8 for a meeting. Not at virden center</body>
+    </message>
+    <message id="m0002" participant="130692" time="2011-12-02 14:18:11 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

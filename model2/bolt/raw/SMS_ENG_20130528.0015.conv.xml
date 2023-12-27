@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130528.0015" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130623" time="2013-05-28 10:30:47 UTC">
+      <body>Hello! Hope you're well this morning. Dunno how much time i'll have to chat.</body>
+    </message>
+    <message id="m0001" participant="131003" time="2013-05-28 11:20:06 UTC">
+      <body>No problem</body>
+    </message>
+    <message id="m0002" participant="131003" time="2013-05-28 11:20:19 UTC">
+      <body>Incidentally I think we chatted yesterday</body>
+    </message>
+    <message id="m0003" participant="131003" time="2013-05-28 11:21:42 UTC">
+      <body>To answer your question from last night, my Memorial Day was very nice. We spent a lot of time with family this weekend. How was your weekend?</body>
+    </message>
+    <message id="m0004" participant="130623" time="2013-05-28 11:48:49 UTC">
+      <body>Yes, we did chat yesterday! Looks like the bot is consistently giving me the same person 2 days in a row.</body>
+    </message>
+    <message id="m0005" participant="130623" time="2013-05-28 11:50:24 UTC">
+      <body>We went to Sturbridge Village yesterday. Are you familiar with it?</body>
+    </message>
+    <message id="m0006" participant="131003" time="2013-05-28 11:52:54 UTC">
+      <body>Interesting this is my first "repeat"</body>
+    </message>
+    <message id="m0007" participant="131003" time="2013-05-28 11:53:14 UTC">
+      <body>No is it in the Philadelphia area?</body>
+    </message>
+    <message id="m0008" participant="130623" time="2013-05-28 12:52:30 UTC">
+      <body>It's in central Massachusetts. Historical workibg muuseum, replica of 1830s town. Bit over hour's drive for us.</body>
+    </message>
+    <message id="m0009" participant="131003" time="2013-05-28 13:21:34 UTC">
+      <body>Very cool! I'm a total history nerd.</body>
+    </message>
+  </messages>
+</conversation>

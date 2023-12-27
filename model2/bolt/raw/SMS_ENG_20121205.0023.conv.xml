@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121205.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136272" time="2012-12-05 02:56:01 UTC">
+      <body>Super smash with Lindsay and Danny</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-05 04:39:05 UTC">
+      <body>Sorry I was in practice! Speaking of which you should come to our show on Friday</body>
+    </message>
+    <message id="m0002" participant="136272" time="2012-12-05 14:04:57 UTC">
+      <body>I was thinking about it. What time?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-05 15:54:46 UTC">
+      <body>It's at 6:20 pm right in front of the DUC!</body>
+    </message>
+  </messages>
+</conversation>

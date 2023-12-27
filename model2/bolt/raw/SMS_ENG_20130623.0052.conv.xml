@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130623.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-23 21:53:02 UTC" participant="152116">
+      <body>What time for the milkshakes!</body>
+    </message>
+    <message id="m0001" time="2013-06-23 23:33:32 UTC" participant="153244">
+      <body>20 mins was a long time ago</body>
+    </message>
+    <message id="m0002" time="2013-06-23 23:37:39 UTC" participant="152116">
+      <body>Sorry I didn't feel like walking so I was waiting for a bus but I'm walking now</body>
+    </message>
+    <message id="m0003" time="2013-06-23 23:37:57 UTC" participant="153244">
+      <body>Oh ok</body>
+    </message>
+  </messages>
+</conversation>
+

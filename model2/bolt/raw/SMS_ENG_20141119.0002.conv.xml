@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141119.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-19 22:59:25 UTC" participant="152424">
+      <body>hey you free sat for some kind of dinner?</body>
+    </message>
+    <message id="m0001" time="2014-11-19 23:01:33 UTC" participant="152417">
+      <body>Friday i would be, but not sat</body>
+    </message>
+    <message id="m0002" time="2014-11-19 23:01:59 UTC" participant="152424">
+      <body>ah okie</body>
+    </message>
+    <message id="m0003" time="2014-11-19 23:17:37 UTC" participant="152417">
+      <body>Any chance you can make it to my choir concert tomorrow?</body>
+    </message>
+    <message id="m0004" time="2014-11-19 23:34:00 UTC" participant="152424">
+      <body>not sure yet</body>
+    </message>
+    <message id="m0005" time="2014-11-20 22:19:44 UTC" participant="152424">
+      <body>sorry I have too much work and can't make itu tonight.  good luck!</body>
+    </message>
+    <message id="m0006" time="2014-11-20 22:31:56 UTC" participant="152417">
+      <body>Nooo!   Ok.  It's gonna be epic tho, really epic. I cried at the dress rehearsal</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130211.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-02-11 23:50:28 UTC">
+      <body>If we can get a baby sitter do you guys want to do sushi on Saturday? </body>
+    </message>
+    <message id="m0001" participant="134289" time="2013-02-12 00:10:00 UTC">
+      <body>I don't know. Saturday might be booked. I'll asl Donna. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-02-12 00:12:39 UTC">
+      <body>Ok. We tried for Friday but she couldn't watch Coop.  If not sat then maybe next Friday </body>
+    </message>
+    <message id="m0003" participant="134289" time="2013-02-12 12:26:54 UTC">
+      <body>Saturday we have cooking class in KOP. Next Friday we're in DC for the night. Next Saturday night prolly works perfecto. 8ish? </body>
+    </message>
+    <message id="m0004" participant="130979" time="2013-02-12 13:39:10 UTC">
+      <body>I will check to see if that works. </body>
+    </message>
+  </messages>
+</conversation>

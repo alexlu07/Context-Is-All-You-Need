@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140725.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-25 19:32:54 UTC" participant="153557">
+      <body>Hey! I'm gonna see boyhood at 7:40. I'll be home late! Come if you want! S'posed to be good.</body>
+    </message>
+    <message id="m0001" time="2014-07-25 19:33:46 UTC" participant="153547">
+      <body>Ok. I'm not going to come. I'm going to baltimore early in the morning</body>
+    </message>
+    <message id="m0002" time="2014-07-25 19:34:22 UTC" participant="153557">
+      <body>Oh good!!!</body>
+    </message>
+    <message id="m0003" time="2014-07-26 01:53:11 UTC" participant="153547">
+      <body>When are you getting home?</body>
+    </message>
+    <message id="m0004" time="2014-07-26 02:25:10 UTC" participant="153547">
+      <body>I'm in the yard</body>
+    </message>
+    <message id="m0005" time="2014-07-26 02:31:28 UTC" participant="153557">
+      <body>I'll be home in about 30 minutes.</body>
+    </message>
+    <message id="m0006" time="2014-07-26 14:51:44 UTC" participant="153557">
+      <body>I miss you already! </body>
+    </message>
+  </messages>
+</conversation>
+

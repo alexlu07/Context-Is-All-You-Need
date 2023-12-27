@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140104.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-04 02:16:32 UTC" participant="152486">
+      <body>Hi, i txted you the bill info</body>
+    </message>
+    <message id="m0001" time="2014-01-04 15:53:36 UTC" participant="152486">
+      <body>Hi, i need to coordinate the truck w other ppl. Can we do kitchen at 1? Thanks</body>
+    </message>
+    <message id="m0002" time="2014-01-04 15:54:49 UTC" participant="152417">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" time="2014-01-04 20:37:20 UTC" participant="152486">
+      <body>Hi, i think i took al my stuff and came to download, and forgot to go over bills w u. One thing i dont understand, is why it says G owes 40 for internet. I think g covers you and ria? If so, The internet bills were 60 per month for nov and dec. so thats 120 total. Divided by 3 = 40 per person. So wouldnt each of you owe 40? If you prefer to go over this in person let me know</body>
+    </message>
+    <message id="m0004" time="2014-01-04 20:42:05 UTC" participant="152417">
+      <body>You forgot your gloves and knives, and yes id rather go over it in person</body>
+    </message>
+    <message id="m0005" time="2014-01-04 20:42:52 UTC" participant="152486">
+      <body>Ok, i need to finish unloading. Can we do it in 20?</body>
+    </message>
+    <message id="m0006" time="2014-01-04 20:43:10 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0007" time="2014-01-04 20:44:42 UTC" participant="152486">
+      <body>N thanks for gloves and knives</body>
+    </message>
+  </messages>
+</conversation>
+

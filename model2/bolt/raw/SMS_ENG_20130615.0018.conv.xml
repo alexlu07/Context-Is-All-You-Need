@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131520" time="2013-06-15 13:20:31 UTC">
+      <body>Hi, "jeremyp"! This is the TextPenn Chatbot. Welcome to the conversation.</body>
+    </message>
+    <message id="m0001" participant="131520" time="2013-06-15 13:20:35 UTC">
+      <body>The participants in this conversation are jeremyp and sbma11.</body>
+    </message>
+    <message id="m0002" participant="131520" time="2013-06-15 13:20:39 UTC">
+      <body>You have 23 hours to complete this conversation. You will be notified when time is up. Enjoy! </body>
+    </message>
+    <message id="m0003" participant="131520" time="2013-06-15 13:22:08 UTC">
+      <body>sbma11: Hello!</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-06-15 17:20:08 UTC">
+      <body>Hey there</body>
+    </message>
+    <message id="m0005" participant="131964" time="2013-06-15 17:20:18 UTC">
+      <body>How's it goin?</body>
+    </message>
+    <message id="m0006" participant="131520" time="2013-06-15 17:22:24 UTC">
+      <body>sbma11: Hey good! You?</body>
+    </message>
+    <message id="m0007" participant="131964" time="2013-06-15 17:23:31 UTC">
+      <body>Fine, well, on my way to work, so could be</body>
+    </message>
+    <message id="m0008" participant="131964" time="2013-06-15 17:24:06 UTC">
+      <body>Spending a lovely Saturday in a Better fashion </body>
+    </message>
+    <message id="m0009" participant="131520" time="2013-06-15 17:28:23 UTC">
+      <body>sbma11: Ooh yeah that's no fun, what do you do for work?</body>
+    </message>
+    <message id="m0010" participant="131964" time="2013-06-15 17:28:59 UTC">
+      <body>I cater. Headed to a wedding in the poconos at the moment</body>
+    </message>
+    <message id="m0011" participant="131520" time="2013-06-15 18:02:49 UTC">
+      <body>sbma11: Ooh sounds nice I used to be a waitress, serving people is an interesting job</body>
+    </message>
+    <message id="m0012" participant="131964" time="2013-06-15 18:03:30 UTC">
+      <body>Always surprises, that's for sure</body>
+    </message>
+    <message id="m0013" participant="131964" time="2013-06-15 18:03:45 UTC">
+      <body>What do you do now?</body>
+    </message>
+    <message id="m0014" participant="131520" time="2013-06-15 18:12:45 UTC">
+      <body>sbma11: Definitely and makes for some funny stories</body>
+    </message>
+    <message id="m0015" participant="131520" time="2013-06-15 18:21:31 UTC">
+      <body>sbma11: I just graduated with my masters in may an I'm going to start a job with Americorps in August</body>
+    </message>
+    <message id="m0016" participant="131964" time="2013-06-15 18:23:28 UTC">
+      <body>Oh nice. I've heard really good things about americorps</body>
+    </message>
+    <message id="m0017" participant="131964" time="2013-06-15 18:23:41 UTC">
+      <body>Where are you stationed?</body>
+    </message>
+    <message id="m0018" participant="131520" time="2013-06-15 18:40:35 UTC">
+      <body>sbma11: I'll be stationed in NYC which is good because I live there now its an education program so I'll be working the public schools probably in queens</body>
+    </message>
+    <message id="m0019" participant="131964" time="2013-06-15 18:41:37 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0020" participant="131520" time="2013-06-16 12:19:58 UTC">
+      <body>Time is up! The TextPenn Chatbot is closing the conversation now. Thank you and hope to chat with you again soon!</body>
+    </message>
+  </messages>
+</conversation>

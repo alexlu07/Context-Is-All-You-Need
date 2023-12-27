@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130620.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-06-20 12:08:26 UTC">
+      <body>Hey, Q...good morning!</body>
+    </message>
+    <message id="m0001" participant="131022" time="2013-06-20 12:15:46 UTC">
+      <body>Hello I'm at the zoo! How's life?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-06-20 13:54:14 UTC">
+      <body>Hey...what zoo? You're lucky! I was just listening to a dozen voicemail messages from my drunk, depressed sister. But, on the upside, I leave in 4hrs to</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-06-20 13:54:14 UTC">
+      <body>drive to Vegas for the weekend. What's your favorite animal(s)?</body>
+    </message>
+    <message id="m0004" participant="131022" time="2013-06-20 14:08:00 UTC">
+      <body>Ooh! The Pittsburgh zoo, I'm visiting a friend. Sorry about your sister! Where are you driving from?</body>
+    </message>
+    <message id="m0005" participant="131022" time="2013-06-20 14:08:00 UTC">
+      <body>I think I like giraffes or mooses most :) you?</body>
+    </message>
+    <message id="m0006" participant="131350" time="2013-06-20 14:12:47 UTC">
+      <body>Driving from Tucson, AZ. Just visiting here. I live in Los Angeles. I dunno...giraffes definitely rank high on the list...</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-06-20 14:13:56 UTC">
+      <body>Never been to Pittsburgh. Been to Philly. Used to live in NYC.</body>
+    </message>
+    <message id="m0008" participant="131022" time="2013-06-20 15:30:01 UTC">
+      <body>Oh cool, I went to USC for college. I live in Delaware now.</body>
+    </message>
+    <message id="m0009" participant="131350" time="2013-06-20 15:50:48 UTC">
+      <body>I've heard that Delaware is beautiful! How do you like it? What did you major in?</body>
+    </message>
+    <message id="m0010" participant="131022" time="2013-06-20 16:06:26 UTC">
+      <body>Ok I don't know if my last message sent, that was weird. I majored in linguistics and math which is how I heard about this study! DE is ok, love the beaches anyway.</body>
+    </message>
+  </messages>
+</conversation>

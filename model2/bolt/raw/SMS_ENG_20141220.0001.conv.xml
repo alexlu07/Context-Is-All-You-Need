@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141220.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-20 15:13:04 UTC" participant="152793">
+      <body>Hey Ingrid! This is Soumya. I'm finally moved in lol. This is super last minute but would you want to get coffee today? I'm supposed to meet someone at 2:00 in queen village but I'm free before then! </body>
+    </message>
+    <message id="m0001" time="2014-12-20 17:23:27 UTC" participant="152735">
+      <body>Hi! I am in NY until tomorrow unfortunately, but I would definitely want to meet up when I return! I'll text you when I'm back </body>
+    </message>
+    <message id="m0002" time="2014-12-20 17:40:05 UTC" participant="152793">
+      <body>Yes please! Let's meet up then </body>
+    </message>
+  </messages>
+</conversation>
+

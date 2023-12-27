@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140219.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-19 00:46:14 UTC" participant="152548">
+      <body>Hi guys should we reschedule? I can do any night this week</body>
+    </message>
+    <message id="m0001" time="2014-02-19 01:02:38 UTC" participant="152417">
+      <body>I can only do tonight or thursday, an id tather stick to tonight if we can</body>
+    </message>
+    <message id="m0002" time="2014-02-19 01:03:56 UTC" participant="152548">
+      <body>Ok but how far can we get without Lois? If she doesn't come we'll have to meet again right?</body>
+    </message>
+    <message id="m0003" time="2014-02-19 01:12:32 UTC" participant="152548">
+      <body>We're on for tonight</body>
+    </message>
+    <message id="m0004" time="2014-02-19 14:25:24 UTC" participant="152417">
+      <body>Can you give Suzy a heads up about the new proposed show dates?</body>
+    </message>
+    <message id="m0005" time="2014-02-19 14:25:43 UTC" participant="152548">
+      <body>Yes already did</body>
+    </message>
+    <message id="m0006" time="2014-02-19 14:35:42 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

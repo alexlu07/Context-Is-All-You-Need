@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110607.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135104" time="2011-06-07 23:55:58 UTC">
+      <body>How is your adjustment going?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-07 23:58:00 UTC">
+      <body>It's ok. Crazy last few days. Sorry I don't have this number?</body>
+    </message>
+    <message id="m0002" participant="135104" time="2011-06-07 23:59:44 UTC">
+      <body>Juju sternstein. lol</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-08 00:00:51 UTC">
+      <body>Juju!!!!!!!!! Ugh. I'm sort of sick of USA right now</body>
+    </message>
+    <message id="m0004" participant="135104" time="2011-06-08 00:02:37 UTC">
+      <body>Oh no, whats wrong?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-08 01:30:07 UTC">
+      <body>My car broke down on a bridge on the highway far from home so that sucked and it's incredibly hot and traffic... Ugh. I'm ok though. How are you?</body>
+    </message>
+    <message id="m0006" participant="135104" time="2011-06-08 01:42:44 UTC">
+      <body>Oh no! Im sorry that totally sucks. I'm doing ok ... still tired and adjusting to the food.</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-06-08 01:43:16 UTC">
+      <body>Yea jetlag is a bitch. </body>
+    </message>
+  </messages>
+</conversation>

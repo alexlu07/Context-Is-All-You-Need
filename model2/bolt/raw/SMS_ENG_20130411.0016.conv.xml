@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130411.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-11 01:41:54 UTC">
+      <body>hey!</body>
+    </message>
+    <message id="m0001" participant="131390" time="2013-04-11 01:42:32 UTC">
+      <body>Hey!</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-11 01:43:26 UTC">
+      <body>how are you?
+what's going on?</body>
+    </message>
+    <message id="m0003" participant="131390" time="2013-04-11 01:44:17 UTC">
+      <body>I'm okay. Just amazing my bat mitzvah is over</body>
+    </message>
+    <message id="m0004" participant="131390" time="2013-04-11 01:44:46 UTC">
+      <body>Amazed*</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-11 01:45:04 UTC">
+      <body>have you been to temple since?</body>
+    </message>
+    <message id="m0006" participant="131390" time="2013-04-11 01:48:19 UTC">
+      <body>Of course!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-09 04:07:29 UTC">
+      <body>Hey. Coffee tomorrow or Fri?</body>
+    </message>
+    <message id="m0001" participant="131359" time="2013-05-09 04:13:40 UTC">
+      <body>Maybe Friday.</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-05-09 04:14:12 UTC">
+      <body>Cool! Lemme know.</body>
+    </message>
+    <message id="m0003" participant="131359" time="2013-05-09 04:14:59 UTC">
+      <body>will do.</body>
+    </message>
+  </messages>
+</conversation>

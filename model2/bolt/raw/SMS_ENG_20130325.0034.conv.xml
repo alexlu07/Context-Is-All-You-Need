@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130325.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-03-25 15:34:22 UTC">
+      <body>How are you feeling?</body>
+    </message>
+    <message id="m0001" participant="135275" time="2013-03-25 15:35:28 UTC">
+      <body>Mleh, not too aweful. I just couldn't fall asleep till like 4:30 last night.</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-25 15:36:23 UTC">
+      <body>Yeah. Ill send you my notes :) you coming to lunch? I'm on the 11:30 bus so ill be there soon</body>
+    </message>
+    <message id="m0003" participant="135275" time="2013-03-25 15:37:49 UTC">
+      <body>That would be great, thanks. I still have to take a shower, so might not catch you for lunch.</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-03-25 15:38:14 UTC">
+      <body>Ok. Ill be there til 12:30 probably</body>
+    </message>
+    <message id="m0005" participant="135275" time="2013-03-25 15:44:11 UTC">
+      <body>Is there any chance you could bring me back a bowl of apple sauce? I don't really feel like I can eat more than that right now...</body>
+    </message>
+    <message id="m0006" participant="135080" time="2013-03-25 15:52:12 UTC">
+      <body>Yeah!</body>
+    </message>
+  </messages>
+</conversation>

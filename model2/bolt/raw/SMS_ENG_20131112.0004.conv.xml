@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131112.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-12 22:55:18 UTC" participant="153557">
+      <body>I think I fell asleep last night at 8:30. Ugh.</body>
+    </message>
+    <message id="m0001" time="2013-11-13 00:14:22 UTC" participant="153547">
+      <body>I stayed up til 930. I need the other lotrs</body>
+    </message>
+    <message id="m0002" time="2013-11-13 00:16:59 UTC" participant="153557">
+      <body>Not without me! I'm putting my foot down!</body>
+    </message>
+    <message id="m0003" time="2013-11-13 21:59:47 UTC" participant="153547">
+      <body>LOTR and artichokes?</body>
+    </message>
+    <message id="m0004" time="2013-11-13 22:00:04 UTC" participant="153547">
+      <body>And fresh sheets</body>
+    </message>
+    <message id="m0005" time="2013-11-13 22:11:12 UTC" participant="153557">
+      <body>Yes yes. I'll be home around 6:30</body>
+    </message>
+  </messages>
+</conversation>
+

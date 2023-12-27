@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120803.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-08-03 15:02:25 UTC">
+      <body>Doh man amber I'm so sorry I'm just leaving suburbs now. See you in an hour</body>
+    </message>
+    <message id="m0001" participant="135423" time="2012-08-03 15:05:07 UTC">
+      <body>no worries</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-08-03 16:06:02 UTC">
+      <body>Hey I'm here!!! Where should I come in</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-08-04 03:18:35 UTC">
+      <body>Oh just saw your call what's up</body>
+    </message>
+    <message id="m0004" participant="135423" time="2012-08-04 03:23:22 UTC">
+      <body>nothing! mistake</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-08-04 03:30:30 UTC">
+      <body>Great party!</body>
+    </message>
+  </messages>
+</conversation>

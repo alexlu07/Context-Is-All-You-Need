@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121211.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-11 23:26:17 UTC">
+      <body>Dinner?</body>
+    </message>
+    <message id="m0001" participant="136267" time="2012-12-11 23:26:57 UTC">
+      <body>Already ate sorry</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-12-12 02:00:19 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-12-12 02:03:44 UTC">
+      <body>Hahah. Explanation?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-12 02:06:45 UTC">
+      <body>Nick's towel was used to clean up a bucket of water that spilled. His towel became so wet that when he hung it up it started dripping. He solved this problem by putting a trash bag around the bottom of the towel to catch all the water.</body>
+    </message>
+    <message id="m0005" participant="136267" time="2012-12-12 02:24:22 UTC">
+      <body>Ah. An innovative solution I must say</body>
+    </message>
+    <message id="m0006" participant="136267" time="2012-12-12 16:29:52 UTC">
+      <body>Food?</body>
+    </message>
+    <message id="m0007" participant="136267" time="2012-12-12 16:29:52 UTC">
+      <body>I'll meet ya outside</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-12-12 16:30:26 UTC">
+      <body>Yes. Five minutes. </body>
+    </message>
+    <message id="m0009" participant="136267" time="2012-12-12 21:54:08 UTC">
+      <body>Dinner</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-12-12 21:58:20 UTC">
+      <body>Gym. Wanna wait 30 minutes?</body>
+    </message>
+    <message id="m0011" participant="136267" time="2012-12-12 21:58:24 UTC">
+      <body>Sure</body>
+    </message>
+    <message id="m0012" participant="136164" time="2012-12-12 21:58:57 UTC">
+      <body>Awesome</body>
+    </message>
+    <message id="m0013" participant="136164" time="2012-12-12 22:18:24 UTC">
+      <body>Readyyyyy</body>
+    </message>
+  </messages>
+</conversation>

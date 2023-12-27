@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131225.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-25 19:09:52 UTC" participant="153649">
+      <body>Merry Christmas dude! Are you at your mom's?</body>
+    </message>
+    <message id="m0001" time="2013-12-25 19:27:07 UTC" participant="153548">
+      <body>Hey you too! We are all in philly.</body>
+    </message>
+    <message id="m0002" time="2013-12-25 19:27:22 UTC" participant="153548">
+      <body>￼</body>
+    </message>
+    <message id="m0003" time="2013-12-25 19:27:50 UTC" participant="153649">
+      <body>Whoa!! Awesome!!</body>
+    </message>
+    <message id="m0004" time="2013-12-25 19:42:05 UTC" participant="153548">
+      <body>Are you in Va?</body>
+    </message>
+    <message id="m0005" time="2013-12-25 19:43:26 UTC" participant="153649">
+      <body>Yeah, at my mom's with Patches. She got another mouth infection but is almost all better. </body>
+    </message>
+    <message id="m0006" time="2013-12-25 19:43:59 UTC" participant="153548">
+      <body>Oh nooooo!!! poor patches. Give her a Christmas snuggle for me.</body>
+    </message>
+    <message id="m0007" time="2013-12-25 19:44:00 UTC" participant="153649">
+      <body>Will do! Have fun with the fam!</body>
+    </message>
+    <message id="m0008" time="2013-12-25 19:45:28 UTC" participant="153548">
+      <body>You too! Hope you got another banjo!</body>
+    </message>
+  </messages>
+</conversation>
+

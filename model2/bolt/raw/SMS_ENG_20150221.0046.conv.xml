@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150221.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-21 05:12:34 UTC" participant="153244">
+      <body>Hey gal, I forgot about the reimbursement from the two sodas! Can I get it on sunday?</body>
+    </message>
+    <message id="m0001" time="2015-02-21 05:13:23 UTC" participant="153893">
+      <body>#### yes no prob</body>
+    </message>
+    <message id="m0002" time="2015-02-21 05:13:46 UTC" participant="153244">
+      <body>Ok it was $5 even</body>
+    </message>
+  </messages>
+</conversation>
+

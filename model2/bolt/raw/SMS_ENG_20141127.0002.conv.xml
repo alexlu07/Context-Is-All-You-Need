@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141127.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-27 22:30:17 UTC" participant="152417">
+      <body>Happy thanksgiving! We're eating in the barn</body>
+    </message>
+    <message id="m0001" time="2014-11-27 22:44:10 UTC" participant="152417">
+      <body>And mom's phone died btw</body>
+    </message>
+    <message id="m0002" time="2014-11-27 22:53:52 UTC" participant="152582">
+      <body>When can I call?</body>
+    </message>
+    <message id="m0003" time="2014-11-27 22:53:52 UTC" participant="152582">
+      <body>I'm home now</body>
+    </message>
+    <message id="m0004" time="2014-11-27 23:01:09 UTC" participant="152417">
+      <body>Mom will head to the house and call you</body>
+    </message>
+    <message id="m0005" time="2014-11-27 23:02:24 UTC" participant="152582">
+      <body>Aw but I wanted to talk to everyone :(</body>
+    </message>
+  </messages>
+</conversation>
+

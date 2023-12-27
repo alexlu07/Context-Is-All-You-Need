@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130511.0058" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-11 23:45:02 UTC" participant="152417">
+      <body>You comin?</body>
+    </message>
+    <message id="m0001" time="2013-05-11 23:47:54 UTC" participant="152477">
+      <body>No man,I can't do it tonight, I'm sorry. I'll try my best to catch a next one</body>
+    </message>
+    <message id="m0002" time="2013-05-11 23:54:40 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>
+

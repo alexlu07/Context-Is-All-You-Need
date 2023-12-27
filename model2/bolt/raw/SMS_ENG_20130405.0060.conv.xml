@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0060" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-05 19:18:44 UTC" participant="153268">
+      <body>Do you want a coat rack?</body>
+    </message>
+    <message id="m0001" time="2013-04-05 19:38:13 UTC" participant="152734">
+      <body>Sure!</body>
+    </message>
+    <message id="m0002" time="2013-04-06 15:43:56 UTC" participant="153268">
+      <body>Just got on beltway by 66...see you later this afternoon!</body>
+    </message>
+  </messages>
+</conversation>
+

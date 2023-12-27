@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130618.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-06-18 02:41:00 UTC">
+      <body>Can I take the car to Hannah's and be back by 12? Mom says its okay </body>
+    </message>
+    <message id="m0001" participant="137257" time="2013-06-18 02:41:24 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-06-18 04:03:18 UTC">
+      <body>You called? </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140605.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-05 13:20:15 UTC" participant="153547">
+      <body>Did u find anything out about taxes? I just called but no one answered</body>
+    </message>
+    <message id="m0001" time="2014-06-05 13:20:51 UTC" participant="149372">
+      <body>They haven't called back yet. They are prolly getting raided by Feds. </body>
+    </message>
+    <message id="m0002" time="2014-06-05 13:22:57 UTC" participant="153547">
+      <body>I think I'm gonna bike down there tomorrow if they don't get back to me today</body>
+    </message>
+    <message id="m0003" time="2014-06-05 13:24:15 UTC" participant="149372">
+      <body>Cool. I'll call again today as well. </body>
+    </message>
+    <message id="m0004" time="2014-06-05 15:36:32 UTC" participant="149372">
+      <body>Allie from Gerber's office said Howard will be in tomorrow and should have an answer. </body>
+    </message>
+  </messages>
+</conversation>
+

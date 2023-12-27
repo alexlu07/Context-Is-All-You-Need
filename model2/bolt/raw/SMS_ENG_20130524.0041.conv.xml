@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0041" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-05-24 15:59:39 UTC">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" participant="130665" time="2013-05-24 17:01:28 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-05-24 18:11:52 UTC">
+      <body>Hows it going?</body>
+    </message>
+    <message id="m0003" participant="130665" time="2013-05-24 18:13:00 UTC">
+      <body>Pretty good just relaxing</body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-05-24 18:16:07 UTC">
+      <body>Great. Perfect weather for just relaxing. Waiting to see my little cousin off to her prom.</body>
+    </message>
+    <message id="m0005" participant="130665" time="2013-05-24 18:22:27 UTC">
+      <body>Aww that's cute!</body>
+    </message>
+  </messages>
+</conversation>

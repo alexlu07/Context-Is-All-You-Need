@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130710.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" participant="135899" time="2013-07-10 03:30:20 UTC">
+      <body>I will be going to barnes around 12, so I will stop by around then if that's cool </body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-10 03:31:27 UTC">
+      <body>Oh, I'm leavin here at 11</body>
+    </message>
+    <message id="m0003" participant="135899" time="2013-07-10 03:32:46 UTC">
+      <body>I can get there by 11. See you then</body>
+    </message>
+    <message id="m0004" participant="131964" time="2013-07-10 03:33:05 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0005" participant="135899" time="2013-07-10 14:46:15 UTC">
+      <body>Omw</body>
+    </message>
+  </messages>
+</conversation>

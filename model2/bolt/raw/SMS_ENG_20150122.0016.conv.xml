@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150122.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-22 22:28:16 UTC" participant="153645">
+      <body>Hey! Do you want me to pick you up tomorrow? Will you be at home - I will come get you around a little before 6:30</body>
+    </message>
+    <message id="m0001" time="2015-01-22 22:29:17 UTC" participant="153548">
+      <body>That would be perfect. </body>
+    </message>
+    <message id="m0002" time="2015-01-22 22:30:00 UTC" participant="153645">
+      <body>Can you text me your address? Did you get an email about tomorrow - I didn't but my friend did and forwarded to me. </body>
+    </message>
+    <message id="m0003" time="2015-01-22 22:30:24 UTC" participant="153548">
+      <body>Yes I got a couple emails. They must have spelled your email wrong or something! </body>
+    </message>
+    <message id="m0005" time="2015-01-22 22:30:24 UTC" participant="153548">
+      <body>between Walnut and Chestnut</body>
+    </message>
+    <message id="m0006" time="2015-01-22 22:30:24 UTC" participant="153645">
+      <body>Terrific! </body>
+    </message>
+    <message id="m0007" time="2015-01-22 22:30:24 UTC" participant="153548">
+      <body>awesome thanks! I’ll see you tomorrow! </body>
+    </message>
+  </messages>
+</conversation>
+

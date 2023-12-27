@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140527.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-27 14:17:32 UTC" participant="153244">
+      <body>I'm home sick with some kind of bug... diarrhea and throwing up since 3:00 this morning</body>
+    </message>
+    <message id="m0001" time="2014-05-27 14:19:12 UTC" participant="153900">
+      <body>What did you eat last</body>
+    </message>
+    <message id="m0002" time="2014-05-27 14:20:19 UTC" participant="153244">
+      <body>Some kind of bourbon chicken with lo mein from the food court at king of prussia</body>
+    </message>
+    <message id="m0003" time="2014-05-27 14:21:56 UTC" participant="153900">
+      <body>Could be food poison</body>
+    </message>
+    <message id="m0004" time="2014-05-27 14:22:46 UTC" participant="153244">
+      <body>How do you fix food poisoning? </body>
+    </message>
+    <message id="m0005" time="2014-05-27 16:23:32 UTC" participant="153244">
+      <body>I might go to ER I can't take anymore</body>
+    </message>
+    <message id="m0006" time="2014-05-27 19:01:55 UTC" participant="153900">
+      <body>Are you still there</body>
+    </message>
+    <message id="m0007" time="2014-05-28 14:00:55 UTC" participant="153900">
+      <body>How are you feeling</body>
+    </message>
+  </messages>
+</conversation>
+

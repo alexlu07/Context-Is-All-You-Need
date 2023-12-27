@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150111.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-11 07:16:12 UTC" participant="153418">
+      <body>Hey, I'm going to be in Philly this Friday to Sunday.</body>
+    </message>
+    <message id="m0001" time="2015-01-11 07:16:43 UTC" participant="152128">
+      <body>Yay!!!!!!</body>
+    </message>
+    <message id="m0002" time="2015-01-11 07:16:46 UTC" participant="152128">
+      <body>Finally.</body>
+    </message>
+    <message id="m0003" time="2015-01-11 07:17:17 UTC" participant="153418">
+      <body>I'll be busy Friday night. </body>
+    </message>
+    <message id="m0004" time="2015-01-11 07:17:26 UTC" participant="153418">
+      <body>Other than that, I'll be free.</body>
+    </message>
+    <message id="m0005" time="2015-01-11 07:17:50 UTC" participant="152128">
+      <body>Which day(s) are you free?</body>
+    </message>
+    <message id="m0006" time="2015-01-11 07:17:52 UTC" participant="152128">
+      <body>Okay cool. Thanks for the update :)</body>
+    </message>
+    <message id="m0007" time="2015-01-11 07:18:16 UTC" participant="152128">
+      <body>We should do something. Preferably indoors hahah!</body>
+    </message>
+    <message id="m0008" time="2015-01-11 07:18:49 UTC" participant="153418">
+      <body>Is Philly all snowed up? </body>
+    </message>
+    <message id="m0009" time="2015-01-11 07:19:32 UTC" participant="152128">
+      <body>It snowed early last week.</body>
+    </message>
+    <message id="m0010" time="2015-01-11 07:19:53 UTC" participant="152128">
+      <body>But it mostly cleared up now and it's frigid cold!!!</body>
+    </message>
+    <message id="m0011" time="2015-01-11 07:20:19 UTC" participant="152128">
+      <body>How's Maryland?</body>
+    </message>
+    <message id="m0012" time="2015-01-11 07:27:38 UTC" participant="153418">
+      <body>It snowed and it's also cold here, cause we're not that far apart. :p</body>
+    </message>
+    <message id="m0013" time="2015-01-11 07:30:33 UTC" participant="152128">
+      <body>Far enough! Hey, you're the one farther South!</body>
+    </message>
+    <message id="m0014" time="2015-01-11 07:31:30 UTC" participant="153418">
+      <body>It's probably a little warmer here, lol</body>
+    </message>
+    <message id="m0015" time="2015-01-11 07:32:05 UTC" participant="152128">
+      <body>Uh huh! Thought so!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 00:43:18 UTC" participant="154093">
+      <body>### and I are doing quizzo at tavern tonight, would you like to join us</body>
+    </message>
+    <message id="m0001" time="2015-03-03 00:44:03 UTC" participant="152374">
+      <body>Would like to but can't, working. Was just thinking of you yesterday - haven't seen you in ages. Hope you're doing well. Thanks for asking! </body>
+    </message>
+    <message id="m0002" time="2015-03-03 00:44:34 UTC" participant="154093">
+      <body>I'm well, how about you</body>
+    </message>
+    <message id="m0003" time="2015-03-03 00:45:04 UTC" participant="152374">
+      <body>Work is... I'm working a lot. But other than being a bit too busy even for my taste, I'm ok</body>
+    </message>
+  </messages>
+</conversation>
+

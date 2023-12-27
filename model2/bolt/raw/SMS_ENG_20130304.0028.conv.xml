@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130304.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135290" time="2013-03-04 18:54:08 UTC">
+      <body>I'm going to be on campus today for a meeting 3:30-4:30. I'm eating dinner with melissa, but if you aren't overwhelmed, it would be nice to see you briefly! Sorry it's short notice, I'm terrible at communication.</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-03-04 19:33:31 UTC">
+      <body>Yes! Please :) what are you doing between 4:30 and dinner?</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-03-04 19:34:51 UTC">
+      <body>Also I might be in Philly next year! :)</body>
+    </message>
+    <message id="m0003" participant="135290" time="2013-03-04 19:35:03 UTC">
+      <body>We're eating an early dinner, so probably just going straight there. What are you doing now? I accidentally got here crazy early</body>
+    </message>
+    <message id="m0004" participant="135290" time="2013-03-04 19:35:07 UTC">
+      <body>:)</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-03-04 19:35:27 UTC">
+      <body>Nothing! Come to Lloyd 40s! :)</body>
+    </message>
+    <message id="m0006" participant="135290" time="2013-03-04 19:36:05 UTC">
+      <body>Cool, see you in 10ish</body>
+    </message>
+  </messages>
+</conversation>

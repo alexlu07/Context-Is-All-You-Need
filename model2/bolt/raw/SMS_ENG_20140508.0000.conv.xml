@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140508.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-08 19:24:48 UTC" participant="152560">
+      <body>Can I run a load of your dirty clothes? I spilled some coffee on my jeans, and I don't want to run them alone...</body>
+    </message>
+    <message id="m0001" time="2014-05-08 19:24:48 UTC" participant="152560">
+      <body>Oh good :)</body>
+    </message>
+    <message id="m0002" time="2014-05-08 19:26:04 UTC" participant="152417">
+      <body>Yes, that would be really helpful, thanks</body>
+    </message>
+    <message id="m0003" time="2014-05-09 18:32:00 UTC" participant="152417">
+      <body>Can you bring my contacts and solution to work? I forgot them but could pick tem up from bluecat</body>
+    </message>
+    <message id="m0004" time="2014-05-09 18:35:44 UTC" participant="152560">
+      <body>Absolutely. I will be there around 3. </body>
+    </message>
+    <message id="m0005" time="2014-05-09 18:51:54 UTC" participant="152417">
+      <body>And my brush and wax if youre still at home</body>
+    </message>
+    <message id="m0006" time="2014-05-09 18:54:56 UTC" participant="152560">
+      <body>Sure thing</body>
+    </message>
+  </messages>
+</conversation>
+

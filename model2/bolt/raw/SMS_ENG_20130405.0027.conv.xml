@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-04-05 20:04:22 UTC">
+      <body>U at work?</body>
+    </message>
+    <message id="m0001" participant="132553" time="2013-04-05 20:32:00 UTC">
+      <body>In georgia actually.</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-04-05 20:32:33 UTC">
+      <body>Oh dam when u coming back</body>
+    </message>
+    <message id="m0003" participant="132553" time="2013-04-05 21:49:26 UTC">
+      <body>Late tonight.  </body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-04-05 21:50:10 UTC">
+      <body> Oh cool. I was just by your job earlier was just gonna say hi if u could</body>
+    </message>
+  </messages>
+</conversation>

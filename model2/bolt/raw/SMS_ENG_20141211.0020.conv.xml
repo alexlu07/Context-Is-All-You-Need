@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141211.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-11 16:00:00 UTC" participant="153612">
+      <body>Good morning Hunter..
+Hope you have a safe trip to the gallery. Let me know when you are close so I can be sure to be at the gallery..it's jenn from parlor, by the way!</body>
+    </message>
+    <message id="m0001" time="2014-12-11 16:47:17 UTC" participant="153547">
+      <body>Hey. Just now picking up the uhaul. 20 minutes </body>
+    </message>
+    <message id="m0002" time="2014-12-11 16:59:44 UTC" participant="153612">
+      <body>See you soon! </body>
+    </message>
+  </messages>
+</conversation>
+

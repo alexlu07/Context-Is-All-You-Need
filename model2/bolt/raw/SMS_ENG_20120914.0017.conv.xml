@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120914.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136202" time="2012-09-14 00:31:38 UTC">
+      <body>Do u have time to talk or video chat?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-14 00:46:38 UTC">
+      <body>Tomorrow!</body>
+    </message>
+    <message id="m0002" participant="136202" time="2012-09-14 00:47:39 UTC">
+      <body>Great  evening is best.</body>
+    </message>
+    <message id="m0003" participant="136202" time="2012-09-14 23:29:10 UTC">
+      <body>Video chat?</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-14 23:34:43 UTC">
+      <body>I'm out right now but I'll be home in about an hour</body>
+    </message>
+    <message id="m0005" participant="136202" time="2012-09-14 23:42:44 UTC">
+      <body> Ok just let me know when ur available. Tx!</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-15 00:59:18 UTC">
+      <body>I'll be ready in ten minutes!</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-15 18:02:02 UTC">
+      <body>Haircut money?</body>
+    </message>
+    <message id="m0008" participant="136202" time="2012-09-15 18:03:02 UTC">
+      <body>I put $50 in ur acct this am</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-09-15 18:04:46 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

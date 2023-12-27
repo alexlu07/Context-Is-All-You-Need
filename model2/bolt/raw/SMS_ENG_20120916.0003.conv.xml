@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120916.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131028" time="2012-09-16 19:43:34 UTC">
+      <body> When you wanna talk??</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-09-16 20:00:52 UTC">
+      <body>How about in an hour?</body>
+    </message>
+    <message id="m0002" participant="131028" time="2012-09-16 20:01:24 UTC">
+      <body>Perfect. Skype?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-09-16 20:01:48 UTC">
+      <body>Yes, please!</body>
+    </message>
+  </messages>
+</conversation>

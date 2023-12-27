@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135274" time="2013-04-24 02:47:27 UTC">
+      <body>Hey, i've been really tired lately, so i think i'm going to sleep in and miss breakfast tomorrow.  hope that's ok!</body>
+    </message>
+    <message id="m0001" participant="135274" time="2013-04-24 02:47:30 UTC">
+      <body> Hey, i've been really tired lately, so i think i'm going to sleep in and miss breakfast tomorrow.  see you at lunch though!</body>
+    </message>
+    <message id="m0002" participant="135080" time="2013-04-24 02:49:24 UTC">
+      <body>Ok!</body>
+    </message>
+    <message id="m0003" participant="135274" time="2013-04-24 21:06:32 UTC">
+      <body>5:30 dinner anyone?</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-24 21:06:52 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0005" participant="135080" time="2013-04-25 17:01:32 UTC">
+      <body>Hey! You headed to lunch?</body>
+    </message>
+    <message id="m0006" participant="135274" time="2013-04-25 17:03:34 UTC">
+      <body>Yeah! meet you at the dc?</body>
+    </message>
+    <message id="m0007" participant="135080" time="2013-04-25 17:03:50 UTC">
+      <body>K :) which side?</body>
+    </message>
+    <message id="m0008" participant="135274" time="2013-04-25 17:08:53 UTC">
+      <body>Right side ( when you're walking in...turn right...?)</body>
+    </message>
+  </messages>
+</conversation>

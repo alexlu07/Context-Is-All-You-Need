@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131519" time="2013-05-19 14:17:36 UTC">
+      <body>Sorry I missed your call fri and yesterday. I'll call you around noon. </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-05-19 14:34:17 UTC">
+      <body>Sounds good.</body>
+    </message>
+  </messages>
+</conversation>

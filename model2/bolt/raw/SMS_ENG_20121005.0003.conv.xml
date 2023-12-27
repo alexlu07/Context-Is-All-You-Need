@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121005.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-10-05 19:59:51 UTC">
+      <body>did you end up getting that pack and play?</body>
+    </message>
+    <message id="m0001" participant="131287" time="2012-10-05 21:04:40 UTC">
+      <body>Not yet but can do</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-10-05 23:03:13 UTC">
+      <body>Bad traffic, don't think any hope of getting there before 10pm, could be closer to 11 :(</body>
+    </message>
+    <message id="m0003" participant="131287" time="2012-10-05 23:05:35 UTC">
+      <body>I thought the rain might slow you down and of course the holiday weekend</body>
+    </message>
+    <message id="m0004" participant="131287" time="2012-10-05 23:09:10 UTC">
+      <body> Will still be there by 10</body>
+    </message>
+    <message id="m0005" participant="131287" time="2012-10-05 23:31:26 UTC">
+      <body>Chilly in the house. Will #### be warm enough?</body>
+    </message>
+    <message id="m0006" participant="131281" time="2012-10-05 23:53:31 UTC">
+      <body>yeah, I packed layers for her. just entered PA, I'm predicting 10:45 arrival.</body>
+    </message>
+    <message id="m0007" participant="131287" time="2012-10-05 23:54:39 UTC">
+      <body>Ok - going up to clear stuff off your bed that I put on it:)</body>
+    </message>
+  </messages>
+</conversation>

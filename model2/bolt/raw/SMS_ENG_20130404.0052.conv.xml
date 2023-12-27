@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0052" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137309" time="2013-04-04 21:40:53 UTC">
+      <body>I cant talk, im on the bus.  I was at the meet</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-04-04 21:41:25 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0002" participant="137309" time="2013-04-04 21:58:59 UTC">
+      <body>We'll be ther soon, you can start comingv</body>
+    </message>
+    <message id="m0003" participant="132437" time="2013-04-04 21:59:16 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

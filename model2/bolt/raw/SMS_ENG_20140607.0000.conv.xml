@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140607.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-07 15:26:20 UTC" participant="152117">
+      <body>Are u ther yet? Let me know! Want to make sure u got there safe. Love you mom mom</body>
+    </message>
+    <message id="m0001" time="2014-06-07 15:26:51 UTC" participant="152115">
+      <body>We're on the bridge entering  ocean city now.</body>
+    </message>
+    <message id="m0002" time="2014-06-07 15:29:35 UTC" participant="152117">
+      <body>Call me when u r there and get settled</body>
+    </message>
+    <message id="m0003" time="2014-06-07 21:07:45 UTC" participant="152115">
+      <body>We're driving back now. We're going straight out to get some dinner when we get back.</body>
+    </message>
+    <message id="m0004" time="2014-06-07 21:13:19 UTC" participant="152117">
+      <body>Ok. Be safe. Let me know when u get in if u r home before me. Love u!</body>
+    </message>
+    <message id="m0005" time="2014-06-07 21:57:48 UTC" participant="152115">
+      <body>Is my air in yet?</body>
+    </message>
+    <message id="m0006" time="2014-06-07 22:06:03 UTC" participant="152117">
+      <body>Yes it is in!</body>
+    </message>
+    <message id="m0007" time="2014-06-07 22:06:18 UTC" participant="152115">
+      <body>Haha. Good.</body>
+    </message>
+  </messages>
+</conversation>
+

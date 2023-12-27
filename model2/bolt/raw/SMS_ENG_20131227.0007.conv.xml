@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131227.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-27 22:18:30 UTC" participant="153645">
+      <body>Hey - so I will see you tomorrow at 3 at the studio? </body>
+    </message>
+    <message id="m0001" time="2013-12-28 02:47:15 UTC" participant="153548">
+      <body>Sounds good! I'll see you then</body>
+    </message>
+  </messages>
+</conversation>
+

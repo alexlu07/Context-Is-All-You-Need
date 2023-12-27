@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130512.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-05-12 00:51:12 UTC">
+      <body>Waiting for train at prudential. On way to studio. R u there?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-05-12 00:52:13 UTC">
+      <body>Yeah let's order food!</body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-05-12 00:52:53 UTC">
+      <body>I have no cash. I also had frozen yogurt in the pru :)</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-05-12 00:53:03 UTC">
+      <body>I can walk for food?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-05-12 00:54:40 UTC">
+      <body>I dunno. I need something. I'm stuck. Haven't made progress in hours</body>
+    </message>
+    <message id="m0005" participant="135386" time="2013-05-12 00:55:28 UTC">
+      <body>Oh yikes! Au Bon pain? Boloco?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-05-12 01:44:27 UTC">
+      <body>It's good ur getting angry. It's growth</body>
+    </message>
+  </messages>
+</conversation>

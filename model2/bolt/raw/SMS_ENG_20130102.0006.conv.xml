@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130102.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2013-01-02 02:57:04 UTC">
+      <body>Any word from Tower?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2013-01-02 11:37:03 UTC">
+      <body>Still no...</body>
+    </message>
+    <message id="m0002" participant="131821" time="2013-01-02 11:37:49 UTC">
+      <body>I would just do it with #### like you did last time. Of its too much it will carry to next semester, if its too little I can pay the rest</body>
+    </message>
+  </messages>
+</conversation>

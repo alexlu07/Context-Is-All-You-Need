@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131022.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-22 20:04:26 UTC" participant="152612">
+      <body>Hey gabi. Today u have a performance at dobra tea party at 6 right ?</body>
+    </message>
+    <message id="m0001" time="2013-10-22 20:56:24 UTC" participant="152417">
+      <body>Yep, we start at 630</body>
+    </message>
+    <message id="m0002" time="2013-10-22 21:32:24 UTC" participant="152612">
+      <body>Cool ill be there :)</body>
+    </message>
+  </messages>
+</conversation>
+

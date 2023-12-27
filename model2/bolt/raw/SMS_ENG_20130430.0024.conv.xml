@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130430.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130962" time="2013-04-30 00:18:07 UTC">
+      <body>My best to you tomorrow, my beautiful friend.</body>
+    </message>
+    <message id="m0001" participant="131420" time="2013-04-30 00:34:15 UTC">
+      <body>Thank you my dear!</body>
+    </message>
+    <message id="m0002" participant="130962" time="2013-04-30 00:35:30 UTC">
+      <body>:) Let me know when you're ready for visitors and/or food!!!</body>
+    </message>
+    <message id="m0003" participant="131420" time="2013-04-30 01:13:25 UTC">
+      <body>Will do! Thank you!!!</body>
+    </message>
+    <message id="m0004" participant="130962" time="2013-04-30 01:15:58 UTC">
+      <body>Sleep tight. :)</body>
+    </message>
+    <message id="m0005" participant="131420" time="2013-04-30 01:16:55 UTC">
+      <body>Zzzzzzzz</body>
+    </message>
+  </messages>
+</conversation>

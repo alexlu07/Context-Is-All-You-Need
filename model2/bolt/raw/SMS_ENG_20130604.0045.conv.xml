@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130604.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-06-04 18:00:34 UTC">
+      <body>Working for lee will be down in thirty if not before</body>
+    </message>
+    <message id="m0001" participant="135445" time="2013-06-04 18:08:00 UTC">
+      <body>Running behind can we meet at 3 instead?</body>
+    </message>
+    <message id="m0002" participant="135445" time="2013-06-04 18:14:24 UTC">
+      <body>230</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-06-04 18:15:12 UTC">
+      <body>Sure what time is good for you. </body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-06-04 18:16:40 UTC">
+      <body>I'm sorry fish can we be more like 245??</body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-06-04 18:16:52 UTC">
+      <body>This is taking longer than I thought!</body>
+    </message>
+    <message id="m0006" participant="135445" time="2013-06-04 18:28:53 UTC">
+      <body>Yeah, I am on 4</body>
+    </message>
+    <message id="m0007" participant="130622" time="2013-06-04 18:33:02 UTC">
+      <body>Ok I should be down soon</body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-06-04 18:45:20 UTC">
+      <body>Ugh I'm sorry I'm just finishing up</body>
+    </message>
+  </messages>
+</conversation>

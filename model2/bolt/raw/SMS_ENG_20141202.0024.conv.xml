@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141202.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-12-02 19:51:32 UTC" participant="153817">
+      <body>No I never was that. Why? What happened</body>
+    </message>
+    <message id="m0002" time="2014-12-02 19:52:08 UTC" participant="153804">
+      <body>Heart attack damage from chemo for breast cancer</body>
+    </message>
+    <message id="m0003" time="2014-12-02 20:29:36 UTC" participant="153817">
+      <body>Sad</body>
+    </message>
+    <message id="m0004" time="2014-12-02 20:32:18 UTC" participant="153804">
+      <body>Yup</body>
+    </message>
+  </messages>
+</conversation>
+

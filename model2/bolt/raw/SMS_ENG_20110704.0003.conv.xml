@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110704.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135113" time="2011-07-04 00:50:20 UTC">
+      <body>Hey I need to stop for petrol so I may be late</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-04 00:53:03 UTC">
+      <body>No worries :)</body>
+    </message>
+    <message id="m0002" participant="135113" time="2011-07-04 04:03:27 UTC">
+      <body>Hey thanks for going out tonight. I hope that your visit with megan goes well and that she is alright. Sorry for the arguments. Perhaps we can try again soon.</body>
+    </message>
+  </messages>
+</conversation>

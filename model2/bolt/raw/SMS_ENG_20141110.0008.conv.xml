@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141110.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-10 04:31:38 UTC" participant="152735">
+      <body>lol I just saw this </body>
+    </message>
+    <message id="m0001" time="2014-11-10 04:31:54 UTC" participant="152735">
+      <body>Thank you for remembering the show </body>
+    </message>
+    <message id="m0002" time="2014-11-10 04:32:02 UTC" participant="152735">
+      <body>It was both a disaster and weirdly successful </body>
+    </message>
+    <message id="m0003" time="2014-11-10 04:32:10 UTC" participant="152735">
+      <body>A disaster bc I was late to my own reception </body>
+    </message>
+    <message id="m0004" time="2014-11-10 04:32:20 UTC" participant="152735">
+      <body>Good bc a lot of people showed up </body>
+    </message>
+    <message id="m0005" time="2014-11-10 04:35:12 UTC" participant="152775">
+      <body>you're always late!</body>
+    </message>
+    <message id="m0006" time="2014-11-10 04:45:12 UTC" participant="152775">
+      <body>except when you were born!</body>
+    </message>
+  </messages>
+</conversation>
+

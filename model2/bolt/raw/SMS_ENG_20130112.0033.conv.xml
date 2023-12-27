@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130112.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-01-12 00:56:56 UTC">
+      <body>What are you up to?</body>
+    </message>
+    <message id="m0001" participant="136729" time="2013-01-12 02:37:40 UTC">
+      <body>in arkansas!</body>
+    </message>
+  </messages>
+</conversation>

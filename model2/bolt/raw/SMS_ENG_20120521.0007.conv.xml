@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120521.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136206" time="2012-05-21 14:18:06 UTC">
+      <body>Come to 5n4</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-05-21 19:00:06 UTC">
+      <body>Hey</body>
+    </message>
+    <message id="m0002" participant="136206" time="2012-05-21 21:51:29 UTC">
+      <body>Hi boo</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-05-21 22:18:44 UTC">
+      <body>Sip</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-05-21 22:18:52 UTC">
+      <body>I mean, sup</body>
+    </message>
+    <message id="m0005" participant="136206" time="2012-05-21 22:20:26 UTC">
+      <body>Not much,you?</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-05-21 22:20:46 UTC">
+      <body>Same &lt;3</body>
+    </message>
+    <message id="m0007" participant="136206" time="2012-05-21 22:21:37 UTC">
+      <body>D'aww</body>
+    </message>
+    <message id="m0008" participant="136206" time="2012-05-22 14:41:50 UTC">
+      <body> WHY YOU NO LUNCH</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-05-22 14:42:13 UTC">
+      <body>I'm finding mr Williams! Be there so0o0on</body>
+    </message>
+    <message id="m0010" participant="136206" time="2012-05-22 14:43:02 UTC">
+      <body>HURRY I NEED YOU</body>
+    </message>
+  </messages>
+</conversation>

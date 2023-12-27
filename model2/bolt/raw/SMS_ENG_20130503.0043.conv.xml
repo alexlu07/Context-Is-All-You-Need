@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130503.0043" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="132437" time="2013-05-03 17:00:07 UTC">
+      <body>I am going to be on campus for a doctor's appointment. I 'll be done around 3. Are you available?</body>
+    </message>
+    <message id="m0001" participant="137357" time="2013-05-03 17:00:45 UTC">
+      <body>Who is this?</body>
+    </message>
+    <message id="m0002" participant="132437" time="2013-05-03 17:01:02 UTC">
+      <body>Farnaz </body>
+    </message>
+    <message id="m0003" participant="137357" time="2013-05-03 17:01:52 UTC">
+      <body>Oh hey! Unfortunately my friend is coming from dc so i'll be with her all today </body>
+    </message>
+    <message id="m0004" participant="132437" time="2013-05-03 17:02:12 UTC">
+      <body>For some reason I assumed I am on your contact list since you are on mine. </body>
+    </message>
+    <message id="m0005" participant="132437" time="2013-05-03 17:02:54 UTC">
+      <body>I will be in Philly again a lot next week. I'll try again </body>
+    </message>
+    <message id="m0006" participant="137357" time="2013-05-03 17:02:58 UTC">
+      <body>But this is a total fluke, i'm usually available like all the time</body>
+    </message>
+    <message id="m0007" participant="137357" time="2013-05-03 17:03:57 UTC">
+      <body>Sounds good! Let's aim for next week</body>
+    </message>
+    <message id="m0008" participant="132437" time="2013-05-03 17:04:35 UTC">
+      <body>I promise to try again!!</body>
+    </message>
+    <message id="m0009" participant="137357" time="2013-05-03 17:55:12 UTC">
+      <body>:)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130714.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-07-14 19:44:06 UTC">
+      <body>never heard back from you last week, but i'd love to work some this week if you need me! </body>
+    </message>
+    <message id="m0001" participant="136382" time="2013-07-14 21:15:42 UTC">
+      <body>Sorry! I never saw your message. Yes! Please! When?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-07-14 21:16:05 UTC">
+      <body>tomorrow? 10?</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-07-14 22:29:15 UTC">
+      <body>actually, 11 would be better (for dad) if it works for you. </body>
+    </message>
+    <message id="m0004" participant="136382" time="2013-07-14 23:59:47 UTC">
+      <body>Sounds good.</body>
+    </message>
+  </messages>
+</conversation>

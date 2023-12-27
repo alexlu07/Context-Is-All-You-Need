@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150122.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-22 14:56:12 UTC" participant="153804">
+      <body>Did you get your money deposited?</body>
+    </message>
+    <message id="m0001" time="2015-01-22 14:57:42 UTC" participant="153815">
+      <body>Yes.</body>
+    </message>
+  </messages>
+</conversation>
+

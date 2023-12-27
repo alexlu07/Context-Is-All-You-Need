@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130202.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131282" time="2013-02-02 20:29:10 UTC">
+      <body>you leave for home yet?</body>
+    </message>
+    <message id="m0001" participant="131281" time="2013-02-02 20:31:30 UTC">
+      <body>Coming now. </body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-02-02 20:31:36 UTC">
+      <body>From kentlands</body>
+    </message>
+    <message id="m0003" participant="131282" time="2013-02-02 20:33:43 UTC">
+      <body>ok</body>
+    </message>
+  </messages>
+</conversation>

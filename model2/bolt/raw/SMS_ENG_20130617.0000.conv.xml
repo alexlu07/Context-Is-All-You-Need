@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130617.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="133117" time="2013-06-17 00:43:42 UTC">
+      <body>It's Father's Day you may want to talk to Rick if you have not do so today. </body>
+    </message>
+    <message id="m0001" participant="133111" time="2013-06-17 00:58:14 UTC">
+      <body>I just got off the phone with him</body>
+    </message>
+    <message id="m0002" participant="133117" time="2013-06-17 00:59:14 UTC">
+      <body/>
+    </message>
+  </messages>
+</conversation>

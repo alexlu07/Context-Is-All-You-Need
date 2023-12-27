@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120107.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131063" time="2012-01-07 00:46:27 UTC">
+      <body>What day do you get back to cal?</body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-01-07 00:56:02 UTC">
+      <body>Im actually not sure, the 15th I think? You?</body>
+    </message>
+    <message id="m0002" participant="131063" time="2012-01-07 01:04:42 UTC">
+      <body>I get back the 15th too! We should grab dinner or something, I'll talk to you soon :)</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-01-07 01:05:11 UTC">
+      <body>Oh definitely! I'll let you know for sure when I figure out when I get in</body>
+    </message>
+    <message id="m0004" participant="131063" time="2012-01-07 01:07:57 UTC">
+      <body>Sounds good, same here!</body>
+    </message>
+  </messages>
+</conversation>

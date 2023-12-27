@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140217.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-17 12:55:38 UTC" participant="153491">
+      <body>Okay no, I refuse to be getting up this early!</body>
+    </message>
+    <message id="m0001" time="2014-02-17 13:01:31 UTC" participant="152116">
+      <body>But why? Everybody's doing it.</body>
+    </message>
+    <message id="m0002" time="2014-02-17 13:02:51 UTC" participant="153491">
+      <body>I refuse to yield to peer pressure!</body>
+    </message>
+  </messages>
+</conversation>
+

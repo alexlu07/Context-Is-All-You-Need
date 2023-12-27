@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 00:04:20 UTC" participant="153547">
+      <body>Can you bring home some bread? I wanna have grilled cheese and tomato soup for dinner</body>
+    </message>
+    <message id="m0001" time="2014-11-14 01:25:05 UTC" participant="153547">
+      <body>It's snowing </body>
+    </message>
+    <message id="m0002" time="2014-11-14 01:39:10 UTC" participant="153547">
+      <body>Don't worry about bread for me</body>
+    </message>
+    <message id="m0003" time="2014-11-14 02:32:36 UTC" participant="153557">
+      <body>Sorry it went really late!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140606.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-06 01:59:28 UTC" participant="153577">
+      <body>What are you doing tomorrow night? Do you wanna go to openings?</body>
+    </message>
+    <message id="m0001" time="2014-06-06 13:54:04 UTC" participant="153547">
+      <body>I could do that</body>
+    </message>
+    <message id="m0002" time="2014-06-06 19:12:00 UTC" participant="153577">
+      <body>You down to go later? </body>
+    </message>
+    <message id="m0003" time="2014-06-06 19:14:25 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0004" time="2014-06-06 20:03:12 UTC" participant="153577">
+      <body>You wanna meet at Vox P?</body>
+    </message>
+    <message id="m0005" time="2014-06-06 20:04:41 UTC" participant="153547">
+      <body>Sure what time?</body>
+    </message>
+    <message id="m0006" time="2014-06-06 20:05:20 UTC" participant="153577">
+      <body>What time are they open til? Like 10? Let's meet at 8</body>
+    </message>
+    <message id="m0007" time="2014-06-06 20:20:16 UTC" participant="153577">
+      <body>That cool?</body>
+    </message>
+    <message id="m0008" time="2014-06-06 20:39:28 UTC" participant="153577">
+      <body>I'll meet you there at 7 then?</body>
+    </message>
+    <message id="m0009" time="2014-06-06 20:40:28 UTC" participant="153547">
+      <body>Yeah I might go a little earlier. I'm early to bed</body>
+    </message>
+    <message id="m0010" time="2014-06-06 20:41:00 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0011" time="2014-06-06 20:45:52 UTC" participant="153577">
+      <body>I think I may head up there now and try to hit this bookstore in Fairmount before they close, doubt I'll make it, but worth a shot</body>
+    </message>
+    <message id="m0012" time="2014-06-06 22:36:55 UTC" participant="153547">
+      <body>Ok I am leaving w. Philly in 15 min or so. Be there a little after 7</body>
+    </message>
+    <message id="m0013" time="2014-06-06 22:45:20 UTC" participant="153577">
+      <body>Cool. I'm just up on Fairmount Ave. I'll take off in like 10 mins</body>
+    </message>
+    <message id="m0014" time="2014-06-06 23:21:36 UTC" participant="153577">
+      <body>Cool. I'm almost there.</body>
+    </message>
+    <message id="m0015" time="2014-06-06 23:22:51 UTC" participant="153547">
+      <body>I'm in box</body>
+    </message>
+    <message id="m0016" time="2014-06-06 23:22:57 UTC" participant="153547">
+      <body>Vox</body>
+    </message>
+    <message id="m0017" time="2014-06-06 23:23:42 UTC" participant="153577">
+      <body>I'll call you when I get in</body>
+    </message>
+  </messages>
+</conversation>
+

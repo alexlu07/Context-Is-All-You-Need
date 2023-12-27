@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131218.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-18 00:16:32 UTC" participant="153451">
+      <body>You get the message? </body>
+    </message>
+    <message id="m0001" time="2013-12-18 00:16:54 UTC" participant="153418">
+      <body>Yeah, I'll be there. </body>
+    </message>
+    <message id="m0002" time="2013-12-18 00:17:43 UTC" participant="153451">
+      <body>Ok just making sure you got my message </body>
+    </message>
+    <message id="m0003" time="2013-12-18 00:17:54 UTC" participant="153451">
+      <body>See you there </body>
+    </message>
+    <message id="m0004" time="2013-12-18 00:55:37 UTC" participant="153418">
+      <body>When are you going to get here?</body>
+    </message>
+    <message id="m0005" time="2013-12-18 00:56:38 UTC" participant="153451">
+      <body>I'll be there in 5mins</body>
+    </message>
+  </messages>
+</conversation>
+

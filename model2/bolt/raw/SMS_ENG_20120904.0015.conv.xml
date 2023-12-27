@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120904.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-04 23:30:06 UTC" participant="153440">
+      <body>Hi! How is everything? Next friday how about 1pm?</body>
+    </message>
+    <message id="m0001" time="2012-09-04 23:37:28 UTC" participant="153418">
+      <body>Hey there. I'm doing all right. Do you mean this Friday?</body>
+    </message>
+    <message id="m0002" time="2012-09-04 23:38:13 UTC" participant="153440">
+      <body>Yes~!!!</body>
+    </message>
+    <message id="m0003" time="2012-09-05 02:04:27 UTC" participant="153418">
+      <body>Hmm. When is the latest that you can meet?</body>
+    </message>
+    <message id="m0004" time="2012-09-05 16:28:16 UTC" participant="153418">
+      <body>Will 2:00 work for you on Friday, or is that too late?</body>
+    </message>
+    <message id="m0005" time="2012-09-05 20:30:30 UTC" participant="153440">
+      <body>Sounds good~!!!! See u then~:)</body>
+    </message>
+    <message id="m0006" time="2012-09-05 21:40:14 UTC" participant="153418">
+      <body>Mkay</body>
+    </message>
+  </messages>
+</conversation>
+

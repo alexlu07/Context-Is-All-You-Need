@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130208.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2013-02-08 19:52:10 UTC">
+      <body>Hey I heard you guys might get some snow...</body>
+    </message>
+    <message id="m0001" participant="131473" time="2013-02-08 21:44:34 UTC">
+      <body>The Mac came today too</body>
+    </message>
+    <message id="m0002" participant="131450" time="2013-02-09 01:17:06 UTC">
+      <body>Ah, excellent!</body>
+    </message>
+  </messages>
+</conversation>

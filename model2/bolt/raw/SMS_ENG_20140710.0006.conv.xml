@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140710.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-10 23:50:30 UTC" participant="152119">
+      <body>Hey dude! I haven't talked to you in forever! How are you? </body>
+    </message>
+    <message id="m0001" time="2014-07-11 00:54:23 UTC" participant="153418">
+      <body>Hi Sammy~
+I'm tired and about to leave work. It's been kinda busy.
+
+How are you doing? Chase doin' good? 
+
+You know, my eggs have been cracking while getting hardboiled. It's a little frustrating.</body>
+    </message>
+    <message id="m0002" time="2014-07-11 01:52:21 UTC" participant="152119">
+      <body>Well at least you an chill at home now! Chase is doing well. My cousin is staying with us for a while so he's got a new friend, lol. That's weird about t</body>
+    </message>
+    <message id="m0003" time="2014-07-11 01:53:27 UTC" participant="152119">
+      <body>he eggs. How intense is the heat that you've been using to boil them? </body>
+    </message>
+    <message id="m0004" time="2014-07-11 02:07:24 UTC" participant="153418">
+      <body>Uh...I turn the heat dial until it doesn't turn anymore.</body>
+    </message>
+    <message id="m0005" time="2014-07-11 02:07:53 UTC" participant="153418">
+      <body>How's living with your cousin? </body>
+    </message>
+    <message id="m0006" time="2014-07-11 02:10:26 UTC" participant="152119">
+      <body>Haha well I think you should maybe turn it down to a lower boil once you first get it boiling. She's cool. I haven't seen she since I was really little, </body>
+    </message>
+    <message id="m0007" time="2014-07-11 02:11:33 UTC" participant="152119">
+      <body>so it's been fun catching up. </body>
+    </message>
+  </messages>
+</conversation>
+

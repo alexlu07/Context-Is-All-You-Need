@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130605.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-05 17:41:52 UTC" participant="153444">
+      <body>hey can i call u tonight sometime? sorry about yesterday. was preparing for that stupid interview</body>
+    </message>
+    <message id="m0001" time="2013-06-05 17:42:23 UTC" participant="153418">
+      <body>What do you need to talk about? Transforms?</body>
+    </message>
+    <message id="m0002" time="2013-06-05 18:09:00 UTC" participant="153444">
+      <body>ya about the mock exam and homework.  </body>
+    </message>
+    <message id="m0003" time="2013-06-05 18:09:18 UTC" participant="153418">
+      <body>Uh...okay.</body>
+    </message>
+    <message id="m0004" time="2013-06-05 20:02:32 UTC" participant="153418">
+      <body>Do you understand how to derive the discrete impulse response for the second form?</body>
+    </message>
+    <message id="m0005" time="2013-06-05 20:04:08 UTC" participant="153418">
+      <body>Nevermind, I gawt it.</body>
+    </message>
+    <message id="m0006" time="2013-06-05 20:52:56 UTC" participant="153444">
+      <body>the stuff he did yesterday? i think ya. need to re-write it. hows the mock exam? </body>
+    </message>
+    <message id="m0007" time="2013-06-05 21:13:49 UTC" participant="153418">
+      <body>I told you lol </body>
+    </message>
+    <message id="m0008" time="2013-06-05 21:14:02 UTC" participant="153418">
+      <body>1/2 kinda difficult, 3 easy.</body>
+    </message>
+    <message id="m0009" time="2013-06-05 21:15:27 UTC" participant="153444">
+      <body>oh ya. lol i didnt know u finished it. nvm </body>
+    </message>
+    <message id="m0010" time="2013-06-06 01:31:17 UTC" participant="153444">
+      <body>hey can i call u in. a bit? </body>
+    </message>
+    <message id="m0011" time="2013-06-06 01:32:59 UTC" participant="153418">
+      <body>Uh.. I just got home from class. Could you call in an hour?</body>
+    </message>
+    <message id="m0012" time="2013-06-06 01:33:55 UTC" participant="153444">
+      <body>ya sure. il call u at or after 10.30pm </body>
+    </message>
+    <message id="m0013" time="2013-06-06 02:46:02 UTC" participant="153444">
+      <body>is now a good time? </body>
+    </message>
+    <message id="m0014" time="2013-06-06 02:47:45 UTC" participant="153418">
+      <body>Ok.</body>
+    </message>
+    <message id="m0015" time="2013-06-06 13:46:41 UTC" participant="153444">
+      <body>are u coming early to drexel today? </body>
+    </message>
+  </messages>
+</conversation>
+

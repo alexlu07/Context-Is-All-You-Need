@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130203.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135389" time="2013-02-03 17:58:14 UTC">
+      <body>You around?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-03 17:58:24 UTC">
+      <body>Almost</body>
+    </message>
+    <message id="m0002" participant="135389" time="2013-02-03 17:59:43 UTC">
+      <body>I'm in T-310 if you wanna hang out! I'm just playing with projectors again.</body>
+    </message>
+  </messages>
+</conversation>

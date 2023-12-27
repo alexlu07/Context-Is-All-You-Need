@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140224.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-24 22:28:16 UTC" participant="153576">
+      <body>Hey Hun you coming tomorrow?</body>
+    </message>
+    <message id="m0001" time="2014-02-24 22:57:35 UTC" participant="153547">
+      <body>Yeah what time is good. 9am? Send your address </body>
+    </message>
+    <message id="m0002" time="2014-02-25 00:15:25 UTC" participant="153547">
+      <body>Hey Im planning on being there at 9am. Let me know if that is ok</body>
+    </message>
+  </messages>
+</conversation>
+

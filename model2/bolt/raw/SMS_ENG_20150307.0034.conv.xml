@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150307.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-07 02:03:17 UTC" participant="153548">
+      <body>Eric! Are you getting this text?</body>
+    </message>
+    <message id="m0001" time="2015-03-07 02:03:33 UTC" participant="153548">
+      <body>(It's Lindsey)</body>
+    </message>
+    <message id="m0002" time="2015-03-07 02:26:29 UTC" participant="153702">
+      <body>Hey - sorry I didn't have my phone nearby! </body>
+    </message>
+    <message id="m0003" time="2015-03-07 03:05:41 UTC" participant="153548">
+      <body>Oh no problem! I talked to Jolene on the phone. I'm about 2 hours behind schedule but will call her once I hit Ashland.</body>
+    </message>
+  </messages>
+</conversation>
+

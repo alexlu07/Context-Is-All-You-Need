@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130402.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-02 15:39:18 UTC">
+      <body>we have hw for tomorrow, right? </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-04-02 15:40:25 UTC">
+      <body>Yeah, drill 2 :( 15 sentences</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-02 15:40:37 UTC">
+      <body>poop</body>
+    </message>
+    <message id="m0003" participant="136129" time="2013-04-02 16:54:12 UTC">
+      <body>Yeah I probably won't do it</body>
+    </message>
+  </messages>
+</conversation>

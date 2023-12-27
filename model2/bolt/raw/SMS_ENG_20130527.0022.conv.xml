@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130826" time="2013-05-27 16:53:17 UTC">
+      <body>Hey - Dorie and I will both be there today. Can you think of any food stuff that is needed?</body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-27 16:54:30 UTC">
+      <body>Any meatstuffs would be great, awesum! </body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-05-27 16:55:38 UTC">
+      <body>We'll have a guitar and uke, too!</body>
+    </message>
+    <message id="m0003" participant="130826" time="2013-05-27 16:58:07 UTC">
+      <body>Sweet! Will do</body>
+    </message>
+  </messages>
+</conversation>

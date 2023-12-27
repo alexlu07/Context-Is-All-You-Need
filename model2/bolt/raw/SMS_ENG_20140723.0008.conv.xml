@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140723.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-23 18:25:04 UTC" participant="153548">
+      <body>Let's hang out!</body>
+    </message>
+    <message id="m0001" time="2014-07-23 18:27:05 UTC" participant="153548">
+      <body>It's been forever!</body>
+    </message>
+    <message id="m0002" time="2014-07-23 18:48:32 UTC" participant="153631">
+      <body>Yeah! My friend David is going to be here for a week starting tomorrow, but y'all seem to get along so maybe we could get dinner or drinks or something? </body>
+    </message>
+    <message id="m0003" time="2014-07-23 18:49:55 UTC" participant="153548">
+      <body>Yes this sounds like much fun!</body>
+    </message>
+    <message id="m0004" time="2014-07-23 19:01:20 UTC" participant="153631">
+      <body>Yay! We are going to see nick cave on Friday but don't have any real plans other than that, so I'll be in touch! </body>
+    </message>
+    <message id="m0005" time="2014-07-23 19:07:30 UTC" participant="153631">
+      <body>Oh also I think we will go to a preview screening of the new film about nick cave which is on Sunday I think? All nick cave all the time! Hahaha</body>
+    </message>
+    <message id="m0006" time="2014-07-23 19:20:32 UTC" participant="153631">
+      <body>Ooh I wanna see that! I will look forward to hearing your review </body>
+    </message>
+    <message id="m0007" time="2014-07-23 19:21:23 UTC" participant="153548">
+      <body>Cool! I'm gonna see boyhood Friday but that's my plans!</body>
+    </message>
+  </messages>
+</conversation>
+

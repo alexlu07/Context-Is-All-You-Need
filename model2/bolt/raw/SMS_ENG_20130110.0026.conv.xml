@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136120" time="2013-01-10 19:16:52 UTC">
+      <body>Are we still on for trivia tonight?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-01-10 19:17:24 UTC">
+      <body>you betcha! </body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-01-10 23:18:39 UTC">
+      <body>so apparently tbonz doesn't do trivia on Thursday anymore </body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-01-10 23:20:24 UTC">
+      <body>manny's is at 8 though </body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-01-10 23:20:59 UTC">
+      <body>so if you were running late you should just stay home for a bit. unless that would run too late for you. </body>
+    </message>
+    <message id="m0005" participant="136120" time="2013-01-10 23:25:05 UTC">
+      <body>Just got to TBonz actually and heading back now. Cheryl's going to do an assessment of her HW load and then I can tell you whether we can do Manny's or not.</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-01-10 23:28:13 UTC">
+      <body>eh, it's cool, my mom is pretty tired anyway. never mind! tell cheryl i said hi and to get lots of work done. </body>
+    </message>
+    <message id="m0007" participant="136120" time="2013-01-10 23:29:47 UTC">
+      <body>Boo.</body>
+    </message>
+    <message id="m0008" participant="136112" time="2013-01-10 23:30:11 UTC">
+      <body>i know. :/</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110625.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135100" time="2011-06-25 00:59:59 UTC">
+      <body>Did you figure out a key for that hot jam?</body>
+    </message>
+    <message id="m0001" participant="135100" time="2011-06-25 01:03:39 UTC">
+      <body>Teddy Holidays?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-06-25 01:05:19 UTC">
+      <body>Are they playing tonight? I'm just double checking the key now</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-25 01:07:55 UTC">
+      <body>It's a little low for me, but on the very edge of my range so it wouldn't have to be too much higher</body>
+    </message>
+    <message id="m0004" participant="135100" time="2011-06-25 01:10:34 UTC">
+      <body>Yeah, in stinkytown.  If you can sing it in anywhere between b flat and d then we're in business, I think.  Want to try and figure it out tomorrow or sunday?  </body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-25 01:11:45 UTC">
+      <body>I have to go to new ulm to sing at a wedding tomorrow but I could probably do it on Sunday. When works for you?</body>
+    </message>
+    <message id="m0006" participant="131839" time="2011-06-25 01:12:05 UTC">
+      <body>Between the afternoon and the evening</body>
+    </message>
+    <message id="m0007" participant="135100" time="2011-06-25 01:13:58 UTC">
+      <body>I don't work Sunday so whenever you want is a good time.</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-06-25 01:15:00 UTC">
+      <body>Mmk, I'll get back to you. I'm going to a movie tonight but maybe after. When do they play and where?</body>
+    </message>
+    <message id="m0009" participant="135100" time="2011-06-25 01:35:23 UTC">
+      <body>Blarney 10-2.  Look for the drunk guy.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150107.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-07 23:56:58 UTC" participant="153821">
+      <body>Hey Liz I hope your day went well today! </body>
+    </message>
+    <message id="m0001" time="2015-01-07 23:57:41 UTC" participant="153804">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

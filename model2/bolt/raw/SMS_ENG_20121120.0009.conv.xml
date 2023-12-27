@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121120.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-11-20 02:10:24 UTC">
+      <body>Pancakessssss (with lots of syrup)</body>
+    </message>
+    <message id="m0001" participant="131462" time="2012-11-20 02:11:32 UTC">
+      <body>Yay, so glad we got to catch up! Talk soon!!!</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-11-20 02:13:53 UTC">
+      <body>Me too!! I will let you know about this weekend!!! :)</body>
+    </message>
+  </messages>
+</conversation>

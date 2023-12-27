@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131211.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-11 15:40:48 UTC" participant="153561">
+      <body>I'm just right around the corner. Michael was telling me to come at 1045. Didn't know you were there already. </body>
+    </message>
+    <message id="m0001" time="2013-12-11 15:41:21 UTC" participant="153547">
+      <body>What's your eta?</body>
+    </message>
+    <message id="m0002" time="2013-12-11 15:42:56 UTC" participant="153561">
+      <body>Nope. </body>
+    </message>
+    <message id="m0003" time="2013-12-11 15:42:56 UTC" participant="153561">
+      <body>Would've been convenient though since I live so close</body>
+    </message>
+    <message id="m0004" time="2013-12-11 15:43:09 UTC" participant="153547">
+      <body>Do u have the keys?</body>
+    </message>
+    <message id="m0006" time="2013-12-11 15:45:09 UTC" participant="153561">
+      <body>Wait....</body>
+    </message>
+    <message id="m0007" time="2013-12-11 15:45:25 UTC" participant="153561">
+      <body>I do have them I'm stupid. They're in my car. I'll be there in one min</body>
+    </message>
+    <message id="m0008" time="2013-12-11 15:45:38 UTC" participant="153561">
+      <body>Wait do I? I'm
+Confused. </body>
+    </message>
+    <message id="m0009" time="2013-12-11 15:45:59 UTC" participant="153547">
+      <body>I got em. Never mind</body>
+    </message>
+    <message id="m0010" time="2013-12-12 13:45:40 UTC" participant="153547">
+      <body>I'll probably be about 10 minutes late or more</body>
+    </message>
+    <message id="m0011" time="2013-12-12 13:53:48 UTC" participant="153561">
+      <body>No prob. </body>
+    </message>
+    <message id="m0012" time="2013-12-12 14:09:26 UTC" participant="153547">
+      <body>I'm here</body>
+    </message>
+    <message id="m0013" time="2013-12-12 14:09:57 UTC" participant="153561">
+      <body>Few mins my bad</body>
+    </message>
+  </messages>
+</conversation>
+

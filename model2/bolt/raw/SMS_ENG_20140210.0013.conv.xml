@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140210.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-10 18:29:11 UTC" participant="152374">
+      <body>What are your thoughts on taking the train out to UJs tonight? As I'm sure you saw this morning our street is an icy mess again</body>
+    </message>
+    <message id="m0001" time="2014-02-10 18:29:42 UTC" participant="154093">
+      <body>I have no issue driving</body>
+    </message>
+    <message id="m0002" time="2014-02-10 18:30:59 UTC" participant="152374">
+      <body>That's not fair to you, though</body>
+    </message>
+    <message id="m0003" time="2014-02-10 18:31:22 UTC" participant="152374">
+      <body>I could drive YOUR car if you're comfortable with that option</body>
+    </message>
+    <message id="m0004" time="2014-02-10 18:31:31 UTC" participant="154093">
+      <body>I'm fine with it, I like to drive</body>
+    </message>
+    <message id="m0005" time="2014-02-10 18:31:33 UTC" participant="152374">
+      <body>That way you could drink</body>
+    </message>
+    <message id="m0006" time="2014-02-10 18:32:24 UTC" participant="154093">
+      <body>I can have a single drink, but you driving is fine also</body>
+    </message>
+    <message id="m0007" time="2014-02-10 18:48:26 UTC" participant="152374">
+      <body>OK, we'll figure it out tonight</body>
+    </message>
+    <message id="m0008" time="2014-02-10 23:17:31 UTC" participant="154093">
+      <body>I'm parked at corner, wanna meet outside 7:45</body>
+    </message>
+    <message id="m0009" time="2014-02-10 23:17:43 UTC" participant="152374">
+      <body>Works for me</body>
+    </message>
+    <message id="m0010" time="2014-02-11 00:47:14 UTC" participant="154093">
+      <body>You coming</body>
+    </message>
+  </messages>
+</conversation>
+

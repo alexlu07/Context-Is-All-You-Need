@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131211.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-11 19:52:36 UTC" participant="152842">
+      <body>Hey lady, what's your fav mixed drink or shot?</body>
+    </message>
+    <message id="m0001" time="2013-12-11 20:27:05 UTC" participant="152374">
+      <body>I'm not very particular. I mostly drink whiskey these days!</body>
+    </message>
+    <message id="m0002" time="2013-12-11 21:05:03 UTC" participant="152842">
+      <body>Ok. :)</body>
+    </message>
+  </messages>
+</conversation>
+

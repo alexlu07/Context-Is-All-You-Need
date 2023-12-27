@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130816.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-08-16 19:01:46 UTC" participant="154352">
+      <body>What time do you want to get together today?</body>
+    </message>
+    <message id="m0001" time="2013-08-16 19:25:51 UTC" participant="154401">
+      <body>Is 8:00 good?</body>
+    </message>
+    <message id="m0002" time="2013-08-16 19:48:55 UTC" participant="154352">
+      <body>Sure</body>
+    </message>
+    <message id="m0003" time="2013-08-16 23:30:30 UTC" participant="154401">
+      <body>Make it 8 15 :)</body>
+    </message>
+    <message id="m0004" time="2013-08-16 23:32:51 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2013-08-17 18:14:37 UTC" participant="154401">
+      <body>Good timing! train arives at 5 58 at ridley park</body>
+    </message>
+  </messages>
+</conversation>
+

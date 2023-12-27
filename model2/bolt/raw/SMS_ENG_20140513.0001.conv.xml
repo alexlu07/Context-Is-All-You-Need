@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140513.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-13 15:58:12 UTC" participant="152535">
+      <body>Hey send the info for the jazz band set tonight</body>
+    </message>
+    <message id="m0001" time="2014-05-13 17:14:12 UTC" participant="152417">
+      <body>Prelude in E minor by F. Chopin then When the Saints Go Marching In traditional, both arranged by me</body>
+    </message>
+    <message id="m0002" time="2014-05-13 17:55:12 UTC" participant="152535">
+      <body>Thanks man! Cortina said your rehearsing at 6?</body>
+    </message>
+    <message id="m0003" time="2014-05-13 17:57:15 UTC" participant="152417">
+      <body>Yea</body>
+    </message>
+  </messages>
+</conversation>
+

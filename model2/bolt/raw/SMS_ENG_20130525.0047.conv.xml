@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131958" time="2013-05-25 02:53:57 UTC">
+      <body>Have we figured out when to watch the movie?</body>
+    </message>
+    <message id="m0001" participant="131945" time="2013-05-25 03:13:07 UTC">
+      <body>He said whenever!  We'll probably head over in like 15.  Sorry, he took forever to respond</body>
+    </message>
+    <message id="m0002" participant="131958" time="2013-05-25 03:14:21 UTC">
+      <body>Sounds good</body>
+    </message>
+    <message id="m0003" participant="131945" time="2013-05-25 20:09:26 UTC">
+      <body>Sorry,  almost there</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135445" time="2013-02-20 05:34:56 UTC">
+      <body>What is the stuff you mentioned that keeps ink wet?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-20 05:36:25 UTC">
+      <body>Floetral</body>
+    </message>
+    <message id="m0002" participant="135445" time="2013-02-20 05:36:41 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-20 05:37:21 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-20 05:37:46 UTC">
+      <body>It's orange and I think lowes usually doesn't carry it just da hd </body>
+    </message>
+    <message id="m0005" participant="135445" time="2013-02-20 05:38:13 UTC">
+      <body>Would a hardware store have it?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2013-02-20 05:39:22 UTC">
+      <body>Call first.   If you give me the name of the hardware store near Harmonix I can call during a break. </body>
+    </message>
+    <message id="m0007" participant="135445" time="2013-02-21 01:57:00 UTC">
+      <body>Are you coming down in a bit? No pressure whatsoever just finding out to see if we can send some of thse folks home </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-02-21 02:23:33 UTC">
+      <body>Coming</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-02-21 02:23:48 UTC">
+      <body>Just got out of class sorry</body>
+    </message>
+    <message id="m0010" participant="135445" time="2013-02-21 02:24:16 UTC">
+      <body>We got booted</body>
+    </message>
+    <message id="m0011" participant="130622" time="2013-02-21 02:24:52 UTC">
+      <body>Oh by who</body>
+    </message>
+    <message id="m0012" participant="135445" time="2013-02-21 02:33:36 UTC">
+      <body>A professor</body>
+    </message>
+  </messages>
+</conversation>

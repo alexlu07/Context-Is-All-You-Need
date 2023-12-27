@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140305.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-05 00:29:52 UTC" participant="153557">
+      <body>I was going to try to come home tonight but I'm so tired.</body>
+    </message>
+    <message id="m0001" time="2014-03-05 01:28:37 UTC" participant="153547">
+      <body>Found my phone . </body>
+    </message>
+    <message id="m0002" time="2014-03-05 01:44:32 UTC" participant="153557">
+      <body>Yay</body>
+    </message>
+  </messages>
+</conversation>
+

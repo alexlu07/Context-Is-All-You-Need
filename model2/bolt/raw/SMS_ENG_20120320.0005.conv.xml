@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120320.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-03-20 01:20:59 UTC" participant="152380">
+      <body>Sorry it took so long to respond. I wanted to see what work was like this week and it looks like I am going to be working late so I will have to pass but</body>
+    </message>
+    <message id="m0001" time="2012-03-20 01:21:02 UTC" participant="152380">
+      <body> the baseball game is definitely on.</body>
+    </message>
+    <message id="m0002" time="2012-03-20 01:25:18 UTC" participant="152374">
+      <body>No worries :-)</body>
+    </message>
+  </messages>
+</conversation>
+

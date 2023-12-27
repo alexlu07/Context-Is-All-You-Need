@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135397" time="2013-04-04 01:50:56 UTC">
+      <body>another bunch of treats await you!</body>
+    </message>
+    <message id="m0001" participant="135397" time="2013-04-04 01:53:04 UTC">
+      <body>little baggies of snacks so you don't eat chicken nuggets</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-04-04 01:53:31 UTC">
+      <body>Really?</body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-04-04 01:53:37 UTC">
+      <body>What do you mean?</body>
+    </message>
+  </messages>
+</conversation>

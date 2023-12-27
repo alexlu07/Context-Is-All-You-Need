@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140117.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-17 19:42:37 UTC" participant="153452">
+      <body>John what doin tonight? I am thinking of dinner and drinks. Care to join?</body>
+    </message>
+    <message id="m0001" time="2014-01-17 20:32:25 UTC" participant="153418">
+      <body>What time?</body>
+    </message>
+    <message id="m0002" time="2014-01-17 20:42:15 UTC" participant="153452">
+      <body>I am thinking about 8 or 9 but not sure where just yet. Do u have any preference for taste of food.</body>
+    </message>
+    <message id="m0003" time="2014-01-17 20:48:59 UTC" participant="153418">
+      <body>I get out of work kinda late, so I might not be able to get there until 9ish. No preference on food. </body>
+    </message>
+    <message id="m0004" time="2014-01-17 22:09:18 UTC" participant="153452">
+      <body>The place I picked is the helmand it is off Charles street. Type in helmand and u should find it.</body>
+    </message>
+    <message id="m0005" time="2014-01-17 22:27:42 UTC" participant="153418">
+      <body>Okay</body>
+    </message>
+    <message id="m0006" time="2014-01-18 00:17:59 UTC" participant="153418">
+      <body>You guys gonna be there at 8?</body>
+    </message>
+    <message id="m0007" time="2014-01-18 00:18:45 UTC" participant="153452">
+      <body>No at 9</body>
+    </message>
+    <message id="m0008" time="2014-01-18 00:18:56 UTC" participant="153418">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

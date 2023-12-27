@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121229.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-12-29 16:46:02 UTC">
+      <body>Your destination tomorrow: ################, ########, NJ. Its about 3.5 hours, please arrive around 11am. Bring: red chest, dining table, floor lamp from music room, any stuff on chest that fits. Thanks!</body>
+    </message>
+    <message id="m0001" participant="131284" time="2012-12-29 19:33:58 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" participant="131284" time="2012-12-30 15:49:06 UTC">
+      <body>In Scranton</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 00:51:00 UTC" participant="153547">
+      <body>My phone has been not working</body>
+    </message>
+    <message id="m0001" time="2014-03-20 01:33:52 UTC" participant="153557">
+      <body>Oh no!</body>
+    </message>
+    <message id="m0002" time="2014-03-20 01:33:52 UTC" participant="153557">
+      <body>I just ended class. Packing up. Should be home in an hour or so.</body>
+    </message>
+    <message id="m0003" time="2014-03-20 01:50:00 UTC" participant="153557">
+      <body>It's gross out!</body>
+    </message>
+    <message id="m0004" time="2014-03-20 19:07:44 UTC" participant="153557">
+      <body>I have a uarts meeting 4-6 but coming home after. Let's eat dinner together if you can wait for me!</body>
+    </message>
+    <message id="m0005" time="2014-03-20 20:20:53 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150322.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-22 18:16:43 UTC" participant="152212">
+      <body>hi</body>
+    </message>
+    <message id="m0001" time="2015-03-22 18:16:47 UTC" participant="152212">
+      <body>going well love u</body>
+    </message>
+    <message id="m0002" time="2015-03-22 18:27:17 UTC" participant="152236">
+      <body>yayayay! miss u</body>
+    </message>
+    <message id="m0003" time="2015-03-23 02:25:37 UTC" participant="152212">
+      <body>U watched a lot of house of cards!!!!</body>
+    </message>
+    <message id="m0004" time="2015-03-23 03:05:27 UTC" participant="152236">
+      <body>Just one more left!</body>
+    </message>
+  </messages>
+</conversation>
+

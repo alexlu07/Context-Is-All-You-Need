@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150503.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2015-05-03 12:27:03 UTC" participant="153804">
+      <body>Ask him when he's heading north.
+</body>
+    </message>
+    <message id="m0002" time="2015-05-03 12:55:29 UTC" participant="153558">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2015-05-03 13:27:01 UTC" participant="153804">
+      <body>How are you feeling? Are any of the injection sites sore?</body>
+    </message>
+    <message id="m0004" time="2015-05-03 13:33:31 UTC" participant="153558">
+      <body>￼</body>
+    </message>
+    <message id="m0005" time="2015-05-03 13:34:04 UTC" participant="153558">
+      <body>That was my run this morning. Does that answer your question?</body>
+    </message>
+    <message id="m0006" time="2015-05-03 13:37:08 UTC" participant="153804">
+      <body>Wow! Guess U R just fine so glad </body>
+    </message>
+  </messages>
+</conversation>
+

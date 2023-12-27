@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131020.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-20 15:57:52 UTC" participant="153640">
+      <body>Hay! What's out plan? R we eating over there or just getting popcorn? We shld be there at 1:45. When/where do u want to meet? Ride?</body>
+    </message>
+    <message id="m0001" time="2013-10-20 16:22:50 UTC" participant="153548">
+      <body>I just ate a huge breakfast with Jon. Do you wanna meet at 12:45 at 47th and Baltimore?</body>
+    </message>
+    <message id="m0002" time="2013-10-20 16:23:21 UTC" participant="153548">
+      <body>And bike!</body>
+    </message>
+    <message id="m0003" time="2013-10-20 16:25:36 UTC" participant="153640">
+      <body>Sounds good!</body>
+    </message>
+    <message id="m0004" time="2013-10-20 16:28:05 UTC" participant="153548">
+      <body>We can stop and get popcorn! And I'll bring a freshly made pretzel.</body>
+    </message>
+  </messages>
+</conversation>
+

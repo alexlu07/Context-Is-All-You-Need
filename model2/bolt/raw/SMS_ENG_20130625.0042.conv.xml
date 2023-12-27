@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130625.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131015" time="2013-06-25 17:43:41 UTC">
+      <body>This really fucking sucks!  I really can't afford to be freaking sick right now. Especially on pay day. I'm sorry if its causing trouble on your end.</body>
+    </message>
+    <message id="m0001" participant="136724" time="2013-06-25 17:44:44 UTC">
+      <body>Insanely busy</body>
+    </message>
+    <message id="m0002" participant="131015" time="2013-06-25 17:45:23 UTC">
+      <body>Fuck!</body>
+    </message>
+    <message id="m0003" participant="136724" time="2013-06-25 18:09:29 UTC">
+      <body>Make that one going over and three coming back</body>
+    </message>
+    <message id="m0004" participant="131015" time="2013-06-25 18:11:18 UTC">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" participant="131015" time="2013-06-25 19:52:37 UTC">
+      <body>Is there anyone else going west that would be able to take this?</body>
+    </message>
+    <message id="m0006" participant="131015" time="2013-06-26 15:28:13 UTC">
+      <body>Wrong address.  Taking care of it tho.</body>
+    </message>
+    <message id="m0007" participant="131015" time="2013-06-26 17:56:15 UTC">
+      <body>Can you please double check the price on that one? I just think the zip code might be off a little bit.</body>
+    </message>
+    <message id="m0008" participant="136724" time="2013-06-26 17:57:01 UTC">
+      <body>Very wrong thanks</body>
+    </message>
+    <message id="m0009" participant="131015" time="2013-06-26 20:01:51 UTC">
+      <body>Got it. Headed back</body>
+    </message>
+  </messages>
+</conversation>

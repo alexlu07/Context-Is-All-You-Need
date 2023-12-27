@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 13:39:03 UTC" participant="153547">
+      <body>On my way</body>
+    </message>
+    <message id="m0001" time="2015-02-04 13:42:56 UTC" participant="153602">
+      <body>Can you pick me up on Broad and spring garden north side? Get you a Dunkin!</body>
+    </message>
+    <message id="m0002" time="2015-02-04 13:45:16 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

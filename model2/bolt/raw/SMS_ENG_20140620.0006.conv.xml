@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140620.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-20 14:22:45 UTC" participant="153548">
+      <body>Are you guys getting here today?</body>
+    </message>
+    <message id="m0001" time="2014-06-20 15:25:52 UTC" participant="153649">
+      <body>Yep, driving down now! What r you up to today?</body>
+    </message>
+    <message id="m0002" time="2014-06-20 15:39:01 UTC" participant="153548">
+      <body>COMIC CON!</body>
+    </message>
+    <message id="m0003" time="2014-06-20 15:39:45 UTC" participant="153548">
+      <body>I judged the film festival. Full pass for me and Margaret</body>
+    </message>
+    <message id="m0004" time="2014-06-20 20:41:47 UTC" participant="153548">
+      <body>What time will you guys be here. </body>
+    </message>
+    <message id="m0005" time="2014-06-20 20:43:44 UTC" participant="153649">
+      <body>I'm here!!! At woodlands helping out </body>
+    </message>
+    <message id="m0006" time="2014-06-20 21:13:36 UTC" participant="153649">
+      <body>What!? Why? You RSVPed!</body>
+    </message>
+    <message id="m0007" time="2014-06-20 21:14:12 UTC" participant="153548">
+      <body>Yay! I'm gonna miss Eileen's tonight but I'll see you tmw at the wedding!</body>
+    </message>
+    <message id="m0008" time="2014-06-20 21:16:08 UTC" participant="153548">
+      <body>My judging panel is going late.</body>
+    </message>
+    <message id="m0009" time="2014-06-20 23:12:22 UTC" participant="153649">
+      <body>Go to this thing please!</body>
+    </message>
+  </messages>
+</conversation>
+

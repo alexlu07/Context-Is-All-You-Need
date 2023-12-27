@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130309.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135471" time="2013-03-09 18:58:25 UTC">
+      <body>Hey sofie this is Phil. How are you? The show at the paradise starts at 8 tonight if you're interested in checking it out. I'll be there with some friends :-)</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-03-09 19:07:55 UTC">
+      <body>Philip!!!  I am going to a reading at seven in Cambridge! Ill see what your doing when I'm out! </body>
+    </message>
+    <message id="m0002" participant="135471" time="2013-03-09 20:44:29 UTC">
+      <body>Awesome! </body>
+    </message>
+  </messages>
+</conversation>

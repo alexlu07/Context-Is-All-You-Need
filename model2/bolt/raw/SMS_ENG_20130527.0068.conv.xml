@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130527.0068" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-27 19:54:12 UTC" participant="149360">
+      <body>I have some sausages in the fridge. Can you bring them to kinsessing</body>
+    </message>
+    <message id="m0001" time="2013-05-27 19:54:49 UTC" participant="149306">
+      <body>Yeah I'll go back and get them</body>
+    </message>
+    <message id="m0002" time="2013-05-27 19:55:29 UTC" participant="149360">
+      <body>Don't worry about it if you already left</body>
+    </message>
+  </messages>
+</conversation>
+

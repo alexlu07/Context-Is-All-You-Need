@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140517.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-17 00:08:57 UTC" participant="153491">
+      <body>It's a high school production! Everyone's a critic hahahah!!</body>
+    </message>
+    <message id="m0001" time="2014-05-17 02:14:56 UTC" participant="152118">
+      <body>Haha. I was right though.</body>
+    </message>
+    <message id="m0002" time="2014-05-17 02:55:08 UTC" participant="153491">
+      <body>Hahah but how was everything else?</body>
+    </message>
+    <message id="m0003" time="2014-05-17 02:55:47 UTC" participant="152118">
+      <body>Okay I guess.</body>
+    </message>
+    <message id="m0004" time="2014-05-17 02:56:40 UTC" participant="153491">
+      <body>Did your brother have fun???</body>
+    </message>
+    <message id="m0005" time="2014-05-17 02:57:06 UTC" participant="152118">
+      <body>I suppose so. Haha.</body>
+    </message>
+    <message id="m0006" time="2014-05-17 02:57:33 UTC" participant="153491">
+      <body>Any plans for Sunday? </body>
+    </message>
+    <message id="m0007" time="2014-05-17 03:01:18 UTC" participant="152118">
+      <body>Nothing big. I believe Charles is having a BBQ so we might go.</body>
+    </message>
+    <message id="m0008" time="2014-05-17 03:03:12 UTC" participant="153491">
+      <body>Oh okay. If you wanted to join me, I was thinking about swinging by the Italian Market and then going to the Museum of Art since it's Museum Day so admission is free :)</body>
+    </message>
+    <message id="m0009" time="2014-05-17 03:08:00 UTC" participant="152118">
+      <body>K. I'll let you know.</body>
+    </message>
+  </messages>
+</conversation>
+

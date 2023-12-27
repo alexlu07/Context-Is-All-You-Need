@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140201.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-01 15:58:57 UTC" participant="152116">
+      <body>Thanks. We're going to go soon. We were thinking of doing it for our 9-month anniversary in February</body>
+    </message>
+    <message id="m0001" time="2014-02-01 16:03:10 UTC" participant="153244">
+      <body>Ok cool.. yea I got the notification by email </body>
+    </message>
+    <message id="m0002" time="2014-02-01 16:03:42 UTC" participant="152116">
+      <body>Okay thanks</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121027.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-27 15:15:23 UTC">
+      <body>My mom is here so I can't make it to practice</body>
+    </message>
+    <message id="m0001" participant="136282" time="2012-10-27 15:16:23 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

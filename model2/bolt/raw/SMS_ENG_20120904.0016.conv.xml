@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120904.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-04 23:57:07 UTC" participant="153418">
+      <body>Hey! Are you feeling better from last week? Did you want to meet this week?</body>
+    </message>
+    <message id="m0001" time="2012-09-05 01:40:14 UTC" participant="153441">
+      <body>Thank you! I am ok:)
+yes!!!!! sorry i forgot to tell you about my schedule. My class starts at 300 so I prefer to meet you at 1130. :D</body>
+    </message>
+    <message id="m0002" time="2012-09-05 01:43:36 UTC" participant="153418">
+      <body>Okay, see you then~</body>
+    </message>
+  </messages>
+</conversation>
+

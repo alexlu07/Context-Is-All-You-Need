@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131045" time="2013-05-19 13:46:01 UTC">
+      <body>Hey ####, it's ######. My flight is running late. How does 2:30 work for you?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2013-05-19 13:54:12 UTC">
+      <body>That's fine! See you then!</body>
+    </message>
+    <message id="m0002" participant="131045" time="2013-05-19 13:54:47 UTC">
+      <body>Ok great, see you!</body>
+    </message>
+    <message id="m0003" participant="131045" time="2013-05-19 18:24:06 UTC">
+      <body>I'm on the 3rd floor as you get off the elevator to your right</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-05-19 18:24:28 UTC">
+      <body>Coming up!</body>
+    </message>
+  </messages>
+</conversation>

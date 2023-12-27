@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140322.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-22 15:05:32 UTC" participant="153453">
+      <body>Have you got the check yet?</body>
+    </message>
+    <message id="m0001" time="2014-03-22 15:07:23 UTC" participant="153418">
+      <body>I'm in Baltimore for work until Monday, so I can't verify. I would imagine that it's arrived in Philadelphia though. </body>
+    </message>
+  </messages>
+</conversation>
+

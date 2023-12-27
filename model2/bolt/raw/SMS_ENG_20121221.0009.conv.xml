@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121221.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2012-12-21 12:22:33 UTC">
+      <body>R u ready?</body>
+    </message>
+    <message id="m0001" participant="131507" time="2012-12-21 12:23:03 UTC">
+      <body>The shuttle is leaving </body>
+    </message>
+    <message id="m0002" participant="131507" time="2012-12-21 18:38:44 UTC">
+      <body>Hey did you send the NPHS email to me as well? I didnt recieved it yet...</body>
+    </message>
+    <message id="m0003" participant="130706" time="2012-12-21 18:39:25 UTC">
+      <body>I thoughts I did</body>
+    </message>
+    <message id="m0004" participant="130706" time="2012-12-21 18:39:30 UTC">
+      <body>Let me check</body>
+    </message>
+    <message id="m0005" participant="130706" time="2012-12-21 18:39:54 UTC">
+      <body>Hopefully I didn't send to Caroline!</body>
+    </message>
+    <message id="m0006" participant="131507" time="2012-12-21 18:40:35 UTC">
+      <body>Okay thank you. Lol</body>
+    </message>
+  </messages>
+</conversation>

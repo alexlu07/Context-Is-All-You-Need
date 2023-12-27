@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110915.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-15 20:00:14 UTC">
+      <body>Bebe! Concert to tomorrow! When are you going? How are you getting to there?</body>
+    </message>
+    <message id="m0001" participant="135096" time="2011-09-15 20:04:08 UTC">
+      <body>Ha, I haven't figured out any of the details yet! But I'll let you know ;)</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-15 20:04:26 UTC">
+      <body>Yes please :)</body>
+    </message>
+  </messages>
+</conversation>

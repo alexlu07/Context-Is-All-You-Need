@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-02-18 21:25:19 UTC">
+      <body>Didn't understand your email. Sorry</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-18 21:25:33 UTC">
+      <body>What email </body>
+    </message>
+    <message id="m0002" participant="135386" time="2013-02-18 21:32:48 UTC">
+      <body>Your one to fish </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-02-18 21:33:10 UTC">
+      <body>Oh it wasn't meant for you </body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-02-18 21:33:14 UTC">
+      <body>Its cool</body>
+    </message>
+    <message id="m0005" participant="135386" time="2013-02-18 21:33:58 UTC">
+      <body>Oh I just didnt know if printing day and time was same </body>
+    </message>
+    <message id="m0006" participant="135386" time="2013-02-19 00:14:52 UTC">
+      <body>I can't wait to leave work and come to studio. </body>
+    </message>
+    <message id="m0007" participant="135386" time="2013-02-19 01:31:19 UTC">
+      <body>Hey are u at studio?</body>
+    </message>
+  </messages>
+</conversation>

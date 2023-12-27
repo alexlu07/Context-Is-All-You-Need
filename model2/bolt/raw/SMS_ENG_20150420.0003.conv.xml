@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150420.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-20 11:27:57 UTC" participant="153412">
+      <body>Ready when you are!</body>
+    </message>
+    <message id="m0001" time="2015-04-20 11:28:40 UTC" participant="153416">
+      <body>Okay!</body>
+    </message>
+    <message id="m0002" time="2015-04-20 11:29:15 UTC" participant="153416">
+      <body>Lovely weather isn't it? </body>
+    </message>
+    <message id="m0003" time="2015-04-20 11:29:39 UTC" participant="153412">
+      <body>Seriously. </body>
+    </message>
+    <message id="m0004" time="2015-04-20 11:40:17 UTC" participant="153416">
+      <body>This is gross. </body>
+    </message>
+    <message id="m0005" time="2015-04-20 11:40:26 UTC" participant="153416">
+      <body>Leaving now</body>
+    </message>
+    <message id="m0006" time="2015-04-20 11:40:34 UTC" participant="153412">
+      <body>Okay!!!</body>
+    </message>
+    <message id="m0007" time="2015-04-20 11:48:47 UTC" participant="153416">
+      <body>Behind the truck</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140320.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-20 15:40:29 UTC" participant="152417">
+      <body>It is the equinox! Also, a constuction worker called me santa clause this morning</body>
+    </message>
+    <message id="m0001" time="2014-03-20 21:00:48 UTC" participant="152560">
+      <body>Santa? What a jerk. </body>
+    </message>
+    <message id="m0002" time="2014-03-21 14:03:59 UTC" participant="152560">
+      <body>I can't believe it! My advisor nominated me for an $8,000 scholarship, and I got it!!! </body>
+    </message>
+  </messages>
+</conversation>
+

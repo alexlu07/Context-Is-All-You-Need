@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120920.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130927" time="2012-09-20 15:12:10 UTC">
+      <body>Hi kennedy!this is ana from cs.i'm on the bus,i'll get to philly in about 2 hours :-) </body>
+    </message>
+    <message id="m0002" participant="130927" time="2012-09-20 15:19:34 UTC">
+      <body>Thank you,see you later</body>
+    </message>
+    <message id="m0003" participant="130927" time="2012-09-24 15:34:06 UTC">
+      <body>Hey!i'm waiting for the bus.thanks a lot for everything!</body>
+    </message>
+    <message id="m0004" participant="130755" time="2012-09-24 16:24:20 UTC">
+      <body>Of course! So lovely to have you!</body>
+    </message>
+  </messages>
+</conversation>

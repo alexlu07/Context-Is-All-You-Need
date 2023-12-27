@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130510.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135386" time="2013-05-10 02:19:58 UTC">
+      <body>Floor 4 bathroom. Wtf did I eat </body>
+    </message>
+    <message id="m0001" participant="135386" time="2013-05-10 02:27:12 UTC">
+      <body>Packin up</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-10 02:28:00 UTC">
+      <body>Yeah go ahead without me</body>
+    </message>
+    <message id="m0003" participant="135386" time="2013-05-10 02:33:36 UTC">
+      <body>Ok :/</body>
+    </message>
+  </messages>
+</conversation>

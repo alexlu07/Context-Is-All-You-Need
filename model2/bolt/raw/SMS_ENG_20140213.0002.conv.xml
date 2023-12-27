@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140213.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-13 20:29:53 UTC" participant="152417">
+      <body>Hey Nate, ill be in Winooski from 445-6 or so today.  If youre home can i pick up the score there? If not, i can drop by Royal Tyler after 630</body>
+    </message>
+    <message id="m0001" time="2014-02-13 22:55:43 UTC" participant="152636">
+      <body>Hey! I'll be at Royall Tyler by 7:30 tonight, if that works for you</body>
+    </message>
+    <message id="m0002" time="2014-02-13 23:00:53 UTC" participant="152417">
+      <body>And there until 10:45?</body>
+    </message>
+    <message id="m0003" time="2014-02-13 23:01:24 UTC" participant="152636">
+      <body>Yep!</body>
+    </message>
+    <message id="m0004" time="2014-02-13 23:07:18 UTC" participant="152636">
+      <body>(Depending on when you come by I probably won't get a chance to talk with you, but I'll have the book ready to hand off :)  )</body>
+    </message>
+  </messages>
+</conversation>
+

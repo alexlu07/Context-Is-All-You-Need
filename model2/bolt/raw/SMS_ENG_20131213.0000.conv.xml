@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131213.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-13 18:59:12 UTC" participant="149378">
+      <body>Hey ##### The editor who's kits I reassigned to you us now working. If it's okay with you I will give 1 back to her, but if you've already started or set aside time for 2 you can keep them both.</body>
+    </message>
+    <message id="m0001" time="2013-12-13 19:01:56 UTC" participant="149306">
+      <body>I haven't started, I can just do one if that works. </body>
+    </message>
+    <message id="m0002" time="2013-12-13 19:02:37 UTC" participant="149378">
+      <body>If that's okay with you, she'll probably be less mad if I give 1 back</body>
+    </message>
+    <message id="m0003" time="2013-12-13 19:06:56 UTC" participant="149378">
+      <body>Thanks Nate! Sorry for all the back and forth</body>
+    </message>
+    <message id="m0004" time="2013-12-13 19:12:08 UTC" participant="149306">
+      <body>That's cool, I'll get started on the kit in a few mins</body>
+    </message>
+    <message id="m0005" time="2013-12-13 19:30:31 UTC" participant="149306">
+      <body>I logged in but I have no kits assigned to me</body>
+    </message>
+    <message id="m0006" time="2013-12-13 19:35:17 UTC" participant="149378">
+      <body>I broke it and tried reassigning. Let me know if you get it now</body>
+    </message>
+    <message id="m0007" time="2013-12-13 19:36:24 UTC" participant="149306">
+      <body>Nope still not seeing it</body>
+    </message>
+    <message id="m0008" time="2013-12-13 19:47:09 UTC" participant="149306">
+      <body>Ok I got it.</body>
+    </message>
+    <message id="m0009" time="2013-12-13 19:54:40 UTC" participant="149378">
+      <body>Ok good</body>
+    </message>
+  </messages>
+</conversation>
+

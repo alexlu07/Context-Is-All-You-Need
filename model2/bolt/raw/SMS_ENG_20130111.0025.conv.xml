@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130111.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-11 18:48:48 UTC" participant="152534">
+      <body>hey gabi and Pj. are you guys up for Playing again tomorrow?</body>
+    </message>
+    <message id="m0001" time="2013-01-11 19:08:04 UTC" participant="152417">
+      <body>Yeah, thatd be great</body>
+    </message>
+    <message id="m0002" time="2013-01-11 20:03:08 UTC" participant="152534">
+      <body>Awesome. Do you still have those charts? We should talk through the ones that were confusing. </body>
+    </message>
+    <message id="m0003" time="2013-01-11 20:13:35 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" time="2013-01-11 22:01:22 UTC" participant="152534">
+      <body>Kay. would you be able to meet over at the studio at 5 tomorrow?</body>
+    </message>
+    <message id="m0005" time="2013-01-11 22:02:13 UTC" participant="152417">
+      <body>Works for me, see you then</body>
+    </message>
+    <message id="m0006" time="2013-01-12 18:25:44 UTC" participant="152417">
+      <body>Any luck on a drummer or horn?</body>
+    </message>
+  </messages>
+</conversation>
+

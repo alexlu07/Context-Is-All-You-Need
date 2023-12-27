@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120916.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-16 00:41:55 UTC">
+      <body>Hey Peter it's Will. Are you going to church tomorrow?</body>
+    </message>
+    <message id="m0001" participant="136280" time="2012-09-16 01:19:10 UTC">
+      <body>I was but my ride is out of town again. Are you? Because i'll  tag along!</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-16 12:04:30 UTC">
+      <body>Hey Peter, we are going to get breakfast at rise n dine right now. You can join us if you're awake!</body>
+    </message>
+    <message id="m0003" participant="136280" time="2012-09-16 14:59:03 UTC">
+      <body>Ah, sorry I slept in today! Also, who is this? -Peter</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-16 15:08:41 UTC">
+      <body>It's will! This is the weirdest thing I've ever experienced</body>
+    </message>
+    <message id="m0005" participant="136280" time="2012-09-16 15:10:03 UTC">
+      <body>ha, are you at church? </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-16 15:10:18 UTC">
+      <body>Yeah it's ridic</body>
+    </message>
+    <message id="m0007" participant="136280" time="2012-09-16 15:11:15 UTC">
+      <body>I kind of agree. It's almost surreal</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-16 16:15:42 UTC">
+      <body>Yeah definitely not for me</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141114.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-14 21:35:44 UTC" participant="152590">
+      <body>hey gabriel, sent you one</body>
+    </message>
+    <message id="m0001" time="2014-11-14 21:36:30 UTC" participant="152417">
+      <body>Thnx</body>
+    </message>
+    <message id="m0002" time="2014-11-14 21:37:18 UTC" participant="152590">
+      <body>thanks</body>
+    </message>
+    <message id="m0003" time="2014-11-14 22:24:05 UTC" participant="152590">
+      <body>hey sent dim sum, cool?</body>
+    </message>
+    <message id="m0004" time="2014-11-14 22:25:29 UTC" participant="152417">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" time="2014-11-14 22:52:45 UTC" participant="152590">
+      <body>hey gabriel, i cannot contact the restaurant so if you could, please confirm the order once u arrive. thanks</body>
+    </message>
+    <message id="m0006" time="2014-11-14 23:00:17 UTC" participant="152417">
+      <body>They didnt get it, i just asked them to put in the order</body>
+    </message>
+    <message id="m0007" time="2014-11-14 23:00:42 UTC" participant="152590">
+      <body>ok thanks. so they are making it now? thanks so much</body>
+    </message>
+    <message id="m0008" time="2014-11-14 23:03:49 UTC" participant="152417">
+      <body>Yep, making it now</body>
+    </message>
+    <message id="m0009" time="2014-11-14 23:04:09 UTC" participant="152590">
+      <body>great, thanks</body>
+    </message>
+    <message id="m0010" time="2014-11-14 23:06:24 UTC" participant="152417">
+      <body>They dont want couriers waiting inside, its fine now but will be a problem when its colder out</body>
+    </message>
+    <message id="m0011" time="2014-11-14 23:06:44 UTC" participant="152590">
+      <body>gotcha. i'll send a note to david.</body>
+    </message>
+    <message id="m0012" time="2014-11-15 00:28:28 UTC" participant="152417">
+      <body> I'm gonna have to sign off at about 9</body>
+    </message>
+    <message id="m0013" time="2014-11-15 00:38:36 UTC" participant="152590">
+      <body>ok no problem. thank you for the heads up</body>
+    </message>
+    <message id="m0014" time="2014-11-15 00:47:06 UTC" participant="152417">
+      <body>Can you chek that valanni is actually making this order? They dont want me inside...</body>
+    </message>
+    <message id="m0015" time="2014-11-15 16:48:25 UTC" participant="152417">
+      <body>I somehow got an order for washigton dc,  can you remove that order?</body>
+    </message>
+    <message id="m0016" time="2014-11-15 16:51:04 UTC" participant="152590">
+      <body>yeah  my bad, sent you another</body>
+    </message>
+    <message id="m0017" time="2014-11-15 16:52:58 UTC" participant="152590">
+      <body>sent u two hip city orders. can u take both? u can head west. thanks so much</body>
+    </message>
+    <message id="m0018" time="2014-11-15 16:54:21 UTC" participant="152590">
+      <body>sent 3 orders for u. copy?</body>
+    </message>
+    <message id="m0019" time="2014-11-15 16:54:37 UTC" participant="152417">
+      <body>Roger</body>
+    </message>
+    <message id="m0020" time="2014-11-15 17:02:24 UTC" participant="152590">
+      <body>David wanted me to tell you he'll meet you at Hip city U city</body>
+    </message>
+    <message id="m0021" time="2014-11-15 17:09:23 UTC" participant="152417">
+      <body>Great, thx</body>
+    </message>
+    <message id="m0022" time="2014-11-15 17:52:59 UTC" participant="152417">
+      <body>Whats the full address on order 13?</body>
+    </message>
+  </messages>
+</conversation>
+

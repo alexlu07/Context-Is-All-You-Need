@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150308.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-08 16:11:12 UTC" participant="152212">
+      <body>Can I get some gummy bears as a gift for a friend here </body>
+    </message>
+    <message id="m0001" time="2015-03-08 16:11:22 UTC" participant="152212">
+      <body>Like can u send them</body>
+    </message>
+    <message id="m0002" time="2015-03-08 16:14:56 UTC" participant="152304">
+      <body>I guess so!</body>
+    </message>
+    <message id="m0003" time="2015-03-08 16:14:56 UTC" participant="152304">
+      <body>Which friend</body>
+    </message>
+    <message id="m0004" time="2015-03-08 16:15:56 UTC" participant="152212">
+      <body>Nicole</body>
+    </message>
+    <message id="m0005" time="2015-03-08 16:16:10 UTC" participant="152304">
+      <body>Yeah I can do that</body>
+    </message>
+    <message id="m0006" time="2015-03-08 16:17:01 UTC" participant="152212">
+      <body>Really how much</body>
+    </message>
+    <message id="m0007" time="2015-03-08 16:17:04 UTC" participant="152304">
+      <body>How much does she want</body>
+    </message>
+    <message id="m0008" time="2015-03-08 16:18:20 UTC" participant="152304">
+      <body>I think $20 for 10</body>
+    </message>
+    <message id="m0009" time="2015-03-08 16:18:20 UTC" participant="152304">
+      <body>But I probably wouldn't want to send much more than that</body>
+    </message>
+  </messages>
+</conversation>
+

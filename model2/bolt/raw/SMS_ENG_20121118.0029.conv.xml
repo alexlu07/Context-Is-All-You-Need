@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121118.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-11-18 01:18:14 UTC">
+      <body>Where are you? </body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-11-18 01:18:42 UTC">
+      <body>Getting dressed  almost done</body>
+    </message>
+    <message id="m0002" participant="136277" time="2012-11-18 01:19:16 UTC">
+      <body>Kk</body>
+    </message>
+    <message id="m0003" participant="136277" time="2012-11-18 21:06:36 UTC">
+      <body>I'm on the top left</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-11-18 21:06:51 UTC">
+      <body>Kk</body>
+    </message>
+  </messages>
+</conversation>

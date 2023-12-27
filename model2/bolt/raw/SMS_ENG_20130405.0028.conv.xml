@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130405.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-04-05 00:12:21 UTC">
+      <body>You guys coming over on Saturday right? </body>
+    </message>
+    <message id="m0001" participant="134277" time="2013-04-05 01:11:53 UTC">
+      <body>Think so.</body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-04-05 02:31:09 UTC">
+      <body>If you guys don't want to come you don't have to </body>
+    </message>
+    <message id="m0003" participant="134277" time="2013-04-05 02:34:51 UTC">
+      <body>Yes we are. Should we be there by 8?</body>
+    </message>
+    <message id="m0004" participant="134277" time="2013-04-05 02:34:58 UTC">
+      <body>I mean 9?</body>
+    </message>
+    <message id="m0005" participant="130979" time="2013-04-05 02:35:22 UTC">
+      <body>First game starts at 7. So up to you </body>
+    </message>
+    <message id="m0006" participant="130979" time="2013-04-05 02:37:30 UTC">
+      <body>Actually starts at 609. So whenever you want </body>
+    </message>
+    <message id="m0007" participant="134277" time="2013-04-05 02:38:17 UTC">
+      <body>Ok. Let's speak tomorrow.</body>
+    </message>
+    <message id="m0008" participant="130979" time="2013-04-05 21:58:36 UTC">
+      <body>Call me whenever you get a chance </body>
+    </message>
+    <message id="m0009" participant="134277" time="2013-04-06 21:15:56 UTC">
+      <body>Anthony is coming. His train arrives at 7:15.</body>
+    </message>
+    <message id="m0010" participant="130979" time="2013-04-06 22:58:40 UTC">
+      <body>I've got plenty of beers so u don't need to grab any if you don't want </body>
+    </message>
+  </messages>
+</conversation>

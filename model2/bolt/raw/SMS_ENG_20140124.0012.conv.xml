@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140124.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-24 16:41:32 UTC" participant="153548">
+      <body>On my way!</body>
+    </message>
+    <message id="m0001" time="2014-01-24 16:42:22 UTC" participant="153548">
+      <body>Go</body>
+    </message>
+    <message id="m0002" time="2014-01-24 19:40:40 UTC" participant="153553">
+      <body>Heading to car</body>
+    </message>
+    <message id="m0003" time="2014-01-25 03:29:59 UTC" participant="153553">
+      <body>I just made more cookie dough...it's looking like 3 cookies a night for the next week over here!</body>
+    </message>
+  </messages>
+</conversation>
+

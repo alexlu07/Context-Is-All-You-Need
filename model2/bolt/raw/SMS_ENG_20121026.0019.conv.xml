@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121026.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135445" time="2012-10-26 15:53:36 UTC">
+      <body>I will be in the studio on Sunday afternoon if you want to talk robots and stuff</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-26 16:28:29 UTC">
+      <body>Ok! Yes like 3?</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-26 16:28:34 UTC">
+      <body>Yay</body>
+    </message>
+    <message id="m0003" participant="135445" time="2012-10-26 16:29:52 UTC">
+      <body>That works </body>
+    </message>
+    <message id="m0004" participant="135445" time="2012-10-26 21:52:00 UTC">
+      <body>Agh I have a family b day party at 3, I could do earlier.</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-26 21:57:09 UTC">
+      <body>Ok no big deal. My life is DMI right now so when is good for you? Noon?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-10-26 21:57:31 UTC">
+      <body>Also also are you going to
+Maria's tonight?</body>
+    </message>
+    <message id="m0007" participant="135445" time="2012-10-26 22:00:32 UTC">
+      <body>Not sure about Maria's, 12 should be fine</body>
+    </message>
+  </messages>
+</conversation>

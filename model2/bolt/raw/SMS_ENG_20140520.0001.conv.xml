@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140520.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-20 14:42:27 UTC" participant="152417">
+      <body>I tried to find that radio story about the mansion coop but couldnt find it</body>
+    </message>
+    <message id="m0001" time="2014-05-20 14:43:00 UTC" participant="152429">
+      <body>Aw man sorry I got your hopes up. I don't know if it's a real thing anymore</body>
+    </message>
+    <message id="m0002" time="2014-05-20 19:55:13 UTC" participant="152429">
+      <body>I'll be there!</body>
+    </message>
+  </messages>
+</conversation>
+

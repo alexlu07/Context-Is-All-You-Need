@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140302.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-02 22:15:02 UTC" participant="152428">
+      <body>Call or message us.   We r taking aaron home soon</body>
+    </message>
+    <message id="m0001" time="2014-03-02 22:15:21 UTC" participant="152417">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-03-02 22:24:51 UTC" participant="152417">
+      <body>Its full</body>
+    </message>
+  </messages>
+</conversation>
+

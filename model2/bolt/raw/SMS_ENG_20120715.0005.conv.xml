@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120715.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135352" time="2012-07-15 01:30:22 UTC">
+      <body>On my way gf!! Riding over on a flat tire !</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-07-15 16:21:09 UTC">
+      <body>That's the place close by</body>
+    </message>
+    <message id="m0003" participant="135352" time="2012-07-15 16:22:06 UTC">
+      <body>Awesome thanks! Did you happen to see if they're open?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-07-15 16:23:22 UTC">
+      <body>I didn't </body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-07-15 16:32:49 UTC">
+      <body>I have a patch kit but no pump</body>
+    </message>
+    <message id="m0006" participant="135352" time="2012-07-15 16:33:47 UTC">
+      <body>Awesome! Theyll be open til 330 as well, jic</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-07-15 16:34:36 UTC">
+      <body>That's def cutting it close</body>
+    </message>
+    <message id="m0008" participant="130622" time="2012-07-15 16:35:12 UTC">
+      <body>Maybe you should plan to be here by 230</body>
+    </message>
+    <message id="m0009" participant="135352" time="2012-07-15 16:36:46 UTC">
+      <body>Ok. I'll do that</body>
+    </message>
+    <message id="m0010" participant="135352" time="2012-07-15 18:23:52 UTC">
+      <body>Fyi Waiting to board the b61 near borough hall</body>
+    </message>
+    <message id="m0011" participant="130622" time="2012-07-15 18:24:07 UTC">
+      <body>Great</body>
+    </message>
+    <message id="m0012" participant="130622" time="2012-07-15 18:37:02 UTC">
+      <body>Door is open come on up</body>
+    </message>
+    <message id="m0013" participant="135352" time="2012-07-15 18:38:02 UTC">
+      <body>Great! I will:-)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141123.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-23 18:22:16 UTC" participant="153244">
+      <body>Would you be able to pick the cake up from my parents house on your way in to work? They live on 9th and moore</body>
+    </message>
+    <message id="m0001" time="2014-11-23 18:23:10 UTC" participant="153244">
+      <body>Steph wants to do breakfast in the morning which means i'll be with her and can't get it without her questioning or knowing</body>
+    </message>
+    <message id="m0002" time="2014-11-23 19:02:03 UTC" participant="153244">
+      <body>You drive in or bus?</body>
+    </message>
+    <message id="m0003" time="2014-11-23 19:04:58 UTC" participant="153892">
+      <body>Bus. </body>
+    </message>
+    <message id="m0004" time="2014-11-23 19:06:27 UTC" participant="153244">
+      <body>Ok then unless I walk to my parents during lunch? That way you don't have to walk to work from there</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140915.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-15 21:54:13 UTC" participant="153472">
+      <body>Just leaving #### now. Looking more like 6:30. OK?</body>
+    </message>
+    <message id="m0001" time="2014-09-15 21:56:12 UTC" participant="152374">
+      <body>Yup! Where should we meet? </body>
+    </message>
+    <message id="m0002" time="2014-09-15 22:01:53 UTC" participant="153472">
+      <body>We'll come to ur place if that works? Maybe walk around by the ######?</body>
+    </message>
+    <message id="m0003" time="2014-09-15 22:02:40 UTC" participant="152374">
+      <body>Sure :)  I'll be out front at 6:30</body>
+    </message>
+    <message id="m0004" time="2014-09-15 22:26:37 UTC" participant="153472">
+      <body>6:45 please and sorry!</body>
+    </message>
+    <message id="m0005" time="2014-09-15 22:26:49 UTC" participant="152374">
+      <body>Ok</body>
+    </message>
+    <message id="m0006" time="2014-09-15 22:44:46 UTC" participant="153472">
+      <body>We're here!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130215.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-02-15 00:30:27 UTC">
+      <body>Last call </body>
+    </message>
+    <message id="m0001" participant="131507" time="2013-02-15 00:31:23 UTC">
+      <body>They are leaving, I told them ur both coming...</body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-02-15 03:24:20 UTC">
+      <body>Hey, joe called. All is well. He thanked you for thinking of his bag.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-02-15 03:24:52 UTC">
+      <body>Have a great night. I'll see you around, sometime.</body>
+    </message>
+    <message id="m0004" participant="131507" time="2013-02-15 03:38:32 UTC">
+      <body>Awe somme have a good night</body>
+    </message>
+  </messages>
+</conversation>

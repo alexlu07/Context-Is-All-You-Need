@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121206.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-06 15:42:06 UTC">
+      <body>DUC</body>
+    </message>
+    <message id="m0001" participant="136264" time="2012-12-06 15:42:56 UTC">
+      <body>In class</body>
+    </message>
+    <message id="m0002" participant="136264" time="2012-12-06 15:44:47 UTC">
+      <body>Till 11:15</body>
+    </message>
+    <message id="m0003" participant="136264" time="2012-12-06 15:44:48 UTC">
+      <body>Wait for me</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-06 15:45:01 UTC">
+      <body>I have class at 11:30</body>
+    </message>
+  </messages>
+</conversation>

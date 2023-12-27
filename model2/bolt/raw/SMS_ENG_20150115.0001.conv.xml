@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150115.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-15 15:40:48 UTC" participant="152428">
+      <body>Congrats</body>
+    </message>
+    <message id="m0001" time="2015-01-15 16:33:52 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+    <message id="m0002" time="2015-01-15 16:35:15 UTC" participant="152417">
+      <body>Btw, the license plate on that car was JMJ 8266</body>
+    </message>
+  </messages>
+</conversation>
+

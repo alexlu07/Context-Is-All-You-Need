@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120921.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-09-21 23:37:13 UTC">
+      <body>Where did you go</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-21 23:59:44 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-09-22 06:43:05 UTC">
+      <body>You good brah?</body>
+    </message>
+    <message id="m0003" participant="136267" time="2012-09-22 15:15:21 UTC">
+      <body>Yes. </body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-09-22 15:51:22 UTC">
+      <body>Have you eaten</body>
+    </message>
+    <message id="m0005" participant="136267" time="2012-09-22 15:51:28 UTC">
+      <body>Not yet.  </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-09-22 15:51:57 UTC">
+      <body>Lezzz goooooo</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-22 22:35:57 UTC">
+      <body>Hungry?</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-09-23 01:49:18 UTC">
+      <body>Where did you go</body>
+    </message>
+    <message id="m0009" participant="136267" time="2012-09-23 20:11:44 UTC">
+      <body>I've had them before. They're ok </body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-09-23 20:12:41 UTC">
+      <body>￼Get these</body>
+    </message>
+  </messages>
+</conversation>

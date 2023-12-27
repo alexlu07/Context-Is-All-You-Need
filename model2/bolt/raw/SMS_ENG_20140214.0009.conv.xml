@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140214.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-14 11:29:04 UTC" participant="153557">
+      <body>Trains down</body>
+    </message>
+    <message id="m0001" time="2014-02-14 11:29:04 UTC" participant="153557">
+      <body>I'm waiting for a can</body>
+    </message>
+    <message id="m0002" time="2014-02-14 11:30:53 UTC" participant="153547">
+      <body>Did u get a cab or train?</body>
+    </message>
+    <message id="m0003" time="2014-02-14 11:33:20 UTC" participant="153557">
+      <body>The train has a mechanical issue or and thy are trying to fix it. </body>
+    </message>
+    <message id="m0004" time="2014-02-14 12:13:52 UTC" participant="153557">
+      <body>Finally. </body>
+    </message>
+    <message id="m0005" time="2014-02-14 12:13:52 UTC" participant="153557">
+      <body>I'm here.</body>
+    </message>
+    <message id="m0006" time="2014-02-14 12:14:02 UTC" participant="153547">
+      <body>Did you get a cab?</body>
+    </message>
+  </messages>
+</conversation>
+

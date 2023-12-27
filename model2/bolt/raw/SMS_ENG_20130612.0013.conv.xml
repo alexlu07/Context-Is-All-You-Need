@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130612.0013" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130994" time="2013-06-12 14:57:53 UTC">
+      <body>Hi - on your training question; mostly road and gym riding, some cross training</body>
+    </message>
+    <message id="m0001" participant="130632" time="2013-06-12 15:56:17 UTC">
+      <body>do you drink coffee?</body>
+    </message>
+    <message id="m0002" participant="130632" time="2013-06-12 16:25:14 UTC">
+      <body>I wonder about athletes and coffe drinking habits</body>
+    </message>
+    <message id="m0003" participant="130632" time="2013-06-12 16:55:32 UTC">
+      <body>They say that cyclists shouldnt drink coffee</body>
+    </message>
+    <message id="m0004" participant="130632" time="2013-06-12 18:06:24 UTC">
+      <body>It might be bad for the heart</body>
+    </message>
+    <message id="m0005" participant="130632" time="2013-06-12 18:49:18 UTC">
+      <body>Im weening myself off of</body>
+    </message>
+    <message id="m0006" participant="130994" time="2013-06-12 18:50:11 UTC">
+      <body>Tons of it</body>
+    </message>
+    <message id="m0007" participant="130632" time="2013-06-12 18:52:01 UTC">
+      <body>Coffee</body>
+    </message>
+    <message id="m0008" participant="130994" time="2013-06-12 19:22:04 UTC">
+      <body>I am not as productive without coffee</body>
+    </message>
+  </messages>
+</conversation>

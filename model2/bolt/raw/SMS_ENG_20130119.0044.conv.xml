@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0044" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-19 22:56:44 UTC" participant="152417">
+      <body>Hey rajnii, i realized im busy after noon tomorrow, are you free in the morning? </body>
+    </message>
+    <message id="m0001" time="2013-01-19 23:38:43 UTC" participant="152556">
+      <body>Yes how about 11</body>
+    </message>
+    <message id="m0002" time="2013-01-20 01:39:23 UTC" participant="152417">
+      <body>Is 10 too early? Ive got spiel auditions starting at noon and i should be there early</body>
+    </message>
+    <message id="m0003" time="2013-01-20 02:04:21 UTC" participant="152556">
+      <body>10 definitely works</body>
+    </message>
+    <message id="m0004" time="2013-01-20 02:07:08 UTC" participant="152417">
+      <body>Cool, at uncommon grounds?</body>
+    </message>
+    <message id="m0005" time="2013-01-20 02:08:20 UTC" participant="152556">
+      <body>Solid brother</body>
+    </message>
+  </messages>
+</conversation>
+

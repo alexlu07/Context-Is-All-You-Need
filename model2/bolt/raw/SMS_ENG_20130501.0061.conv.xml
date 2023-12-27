@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-01 22:37:38 UTC" participant="152529">
+      <body>Hey I'm not sure what we settled on tonight but I need to do some overtime for work. Sorry, can't make it happen. </body>
+    </message>
+    <message id="m0001" time="2013-05-01 22:38:19 UTC" participant="152417">
+      <body>I cancelled, i hope other folks know</body>
+    </message>
+    <message id="m0002" time="2013-05-01 22:38:56 UTC" participant="152529">
+      <body>Ooo. Ok</body>
+    </message>
+    <message id="m0003" time="2013-05-01 22:38:56 UTC" participant="152529">
+      <body>Was there an email?</body>
+    </message>
+    <message id="m0004" time="2013-05-01 22:44:38 UTC" participant="152417">
+      <body>Yea, i hope so abyway, my interbet has been really spotty</body>
+    </message>
+  </messages>
+</conversation>
+

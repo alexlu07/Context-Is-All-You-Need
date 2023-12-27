@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130424.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-04-24 10:45:52 UTC">
+      <body>Don't need ride </body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-04-25 03:09:18 UTC">
+      <body>Okay I DO ACTUALLY NEED A RIDE TOMORROW because I have to get to school early and set up for Andrew's bday. Gift </body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-04-25 03:10:22 UTC">
+      <body>Sorry...I have to pick up my dad after midnight from the airport...so I'm actually sleeping in.</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-04-25 03:10:51 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

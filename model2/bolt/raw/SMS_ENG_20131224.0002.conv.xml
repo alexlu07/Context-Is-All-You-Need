@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131224.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-24 02:33:58 UTC" participant="152560">
+      <body>Want to meet me at El Cortijo? Heading there with Ginette and Mar.</body>
+    </message>
+    <message id="m0001" time="2013-12-24 02:36:17 UTC" participant="152417">
+      <body>Spiel meeting, sry</body>
+    </message>
+    <message id="m0002" time="2013-12-24 02:46:38 UTC" participant="152560">
+      <body>Oops I forgot! See you later.</body>
+    </message>
+  </messages>
+</conversation>
+

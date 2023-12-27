@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140326.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-26 01:46:40 UTC" participant="153649">
+      <body>Are you busy next Friday? Wanna meet me in NYC?</body>
+    </message>
+    <message id="m0001" time="2014-03-26 01:48:57 UTC" participant="153548">
+      <body>The 4th? I can't I have a huge shoot that day. How about this Friday?!?</body>
+    </message>
+    <message id="m0002" time="2014-03-26 01:53:04 UTC" participant="153649">
+      <body>Balls. Can't. What about the 16th? I think it's a Wednesday. </body>
+    </message>
+    <message id="m0003" time="2014-03-26 01:53:04 UTC" participant="153649">
+      <body>Or the 5th?</body>
+    </message>
+    <message id="m0004" time="2014-03-26 01:54:25 UTC" participant="153548">
+      <body>I can maybe do the 5th. Teach in the 16th</body>
+    </message>
+    <message id="m0005" time="2014-03-26 01:55:12 UTC" participant="153649">
+      <body>Hmm. Ok. Doesn't sound promising. I'll email you tomorrow anyway. Goodnight!</body>
+    </message>
+    <message id="m0006" time="2014-03-26 01:57:11 UTC" participant="153548">
+      <body>April is so busy already. Night!</body>
+    </message>
+  </messages>
+</conversation>
+

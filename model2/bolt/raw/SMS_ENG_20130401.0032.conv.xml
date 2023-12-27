@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135080" time="2013-04-01 18:38:05 UTC">
+      <body>Hey Matthew! There might be a problem with saga and the housing session tomorrow so just in case, are you free Thursday night from 9-10 and/or 10-11?</body>
+    </message>
+    <message id="m0001" participant="135315" time="2013-04-01 18:40:00 UTC">
+      <body>I think so</body>
+    </message>
+  </messages>
+</conversation>

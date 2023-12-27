@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120912.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135378" time="2012-09-12 21:47:44 UTC">
+      <body>What time is element of media?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-09-12 22:04:23 UTC">
+      <body>Tonight we have documentation and presentation at 6 ... </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-09-12 22:04:24 UTC">
+      <body>I think</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-09-12 22:04:32 UTC">
+      <body>I mean I'm here now</body>
+    </message>
+    <message id="m0004" participant="135378" time="2012-09-12 22:04:48 UTC">
+      <body>No media element class？</body>
+    </message>
+    <message id="m0005" participant="135378" time="2012-09-12 22:04:48 UTC">
+      <body>only tuneup?</body>
+    </message>
+    <message id="m0006" participant="130622" time="2012-09-12 22:05:28 UTC">
+      <body>I thought</body>
+    </message>
+    <message id="m0007" participant="130622" time="2012-09-12 22:19:28 UTC">
+      <body>Are you coming to tune up?</body>
+    </message>
+    <message id="m0008" participant="135378" time="2012-09-12 22:19:44 UTC">
+      <body>Is it in room 312?</body>
+    </message>
+    <message id="m0009" participant="135378" time="2012-09-12 22:21:52 UTC">
+      <body>I just checked the media class time. It's in 312 at 6:30</body>
+    </message>
+    <message id="m0010" participant="130622" time="2012-09-12 22:29:50 UTC">
+      <body>We are in library</body>
+    </message>
+    <message id="m0011" participant="135378" time="2012-09-12 22:41:04 UTC">
+      <body>where u at</body>
+    </message>
+    <message id="m0012" participant="135378" time="2012-09-12 22:41:04 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0013" participant="130622" time="2012-09-12 22:41:19 UTC">
+      <body>On the main floor to your left</body>
+    </message>
+    <message id="m0014" participant="130622" time="2012-09-12 22:41:48 UTC">
+      <body>Are you in the library</body>
+    </message>
+    <message id="m0015" participant="130622" time="2012-09-12 22:42:28 UTC">
+      <body>Main floor when you go to your left we are at table behind stairs</body>
+    </message>
+    <message id="m0016" participant="130622" time="2012-09-13 19:08:09 UTC">
+      <body>We are meeting today at five right?</body>
+    </message>
+    <message id="m0017" participant="135378" time="2012-09-13 19:09:52 UTC">
+      <body>yeah. But I forgot where</body>
+    </message>
+    <message id="m0018" participant="135378" time="2012-09-13 19:22:40 UTC">
+      <body>Ok. See you there</body>
+    </message>
+    <message id="m0019" participant="130622" time="2012-09-13 19:23:58 UTC">
+      <body>In the classroom</body>
+    </message>
+  </messages>
+</conversation>

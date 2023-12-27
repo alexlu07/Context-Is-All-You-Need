@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130724.0014" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130994" time="2013-07-24 15:50:48 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="136133" time="2013-07-24 16:06:22 UTC">
+      <body>Hello! How are you</body>
+    </message>
+    <message id="m0002" participant="130994" time="2013-07-24 18:36:44 UTC">
+      <body>Just getting out of an airplane</body>
+    </message>
+    <message id="m0003" participant="136133" time="2013-07-24 22:16:51 UTC">
+      <body>Oh that's nice! How was your trip?</body>
+    </message>
+    <message id="m0004" participant="130994" time="2013-07-24 22:38:44 UTC">
+      <body>Just started. Am in Minnesota</body>
+    </message>
+    <message id="m0005" participant="136133" time="2013-07-24 23:30:02 UTC">
+      <body>Oh on vacation or for work?</body>
+    </message>
+  </messages>
+</conversation>

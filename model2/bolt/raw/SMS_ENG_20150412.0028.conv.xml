@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 22:24:35 UTC" participant="153856">
+      <body>How is Chloe?</body>
+    </message>
+    <message id="m0001" time="2015-04-12 22:26:58 UTC" participant="153848">
+      <body>She's calm for now</body>
+    </message>
+    <message id="m0002" time="2015-04-12 22:27:41 UTC" participant="153856">
+      <body>Can i call you?</body>
+    </message>
+    <message id="m0003" time="2015-04-12 22:31:37 UTC" participant="153848">
+      <body>Yeah </body>
+    </message>
+  </messages>
+</conversation>
+

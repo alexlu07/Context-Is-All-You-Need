@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110701.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-01 18:49:07 UTC">
+      <body>What are you doing tonight?</body>
+    </message>
+    <message id="m0001" participant="135098" time="2011-07-01 23:32:56 UTC">
+      <body>Would you wanna go to Blarney to hear JTs band when I'm done with band practice?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-01 23:42:15 UTC">
+      <body>Yea! What time?</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-02 06:18:21 UTC">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0004" participant="135098" time="2011-07-02 09:48:16 UTC">
+      <body>Made it home.  Sorry babe! </body>
+    </message>
+  </messages>
+</conversation>

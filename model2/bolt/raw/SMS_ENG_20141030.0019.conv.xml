@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141030.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-30 18:06:34 UTC" participant="153900">
+      <body>Hey I am making you the dirt pot cake do you want a veggie tray</body>
+    </message>
+    <message id="m0001" time="2014-10-30 20:46:03 UTC" participant="153244">
+      <body>If you want to do it then yea sure!</body>
+    </message>
+    <message id="m0002" time="2014-10-30 20:51:59 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-10-30 21:02:32 UTC" participant="153244">
+      <body>And the party is this saturday</body>
+    </message>
+    <message id="m0004" time="2014-10-30 21:32:41 UTC" participant="153900">
+      <body>Oh it's not tomorrow</body>
+    </message>
+    <message id="m0005" time="2014-10-30 21:52:24 UTC" participant="153244">
+      <body>No I have the police exam sat morning at 8 am</body>
+    </message>
+    <message id="m0006" time="2014-10-30 22:00:30 UTC" participant="153900">
+      <body>Ok that gp even bette7</body>
+    </message>
+    <message id="m0007" time="2014-10-30 22:04:20 UTC" participant="153244">
+      <body>Yea originally I had work sat morning so we couldn't do it fri night. But now I have the exam sat morning so I have to be in bed early bec im leaving my house around 7 to get there </body>
+    </message>
+    <message id="m0008" time="2014-10-30 22:05:07 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

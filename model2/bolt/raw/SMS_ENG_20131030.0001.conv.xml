@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131030.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-30 14:34:34 UTC" participant="152560">
+      <body>How was your set? I bet everyone loved it!</body>
+    </message>
+    <message id="m0001" time="2013-10-30 15:02:02 UTC" participant="152417">
+      <body>It was OK, had some gremlins to work out mid set.  I think i succeeded in introducing them to some new concepts though</body>
+    </message>
+    <message id="m0002" time="2013-10-30 21:11:30 UTC" participant="152417">
+      <body>You can apply for state health insurance to get coverage in december.  Look up green mountain care on vt health connect's website</body>
+    </message>
+    <message id="m0003" time="2013-10-30 21:21:04 UTC" participant="152560">
+      <body>Thanks baby.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130402.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131453" time="2013-04-02 22:09:10 UTC">
+      <body>Oops, the 20th is not as free as I thought. How does the 21st sound?</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-04-02 22:09:46 UTC">
+      <body>Is that a Sunday?  That might actually be even better</body>
+    </message>
+    <message id="m0002" participant="131453" time="2013-04-02 22:12:43 UTC">
+      <body>Yep!</body>
+    </message>
+    <message id="m0003" participant="131453" time="2013-04-02 22:12:50 UTC">
+      <body>I just sent out another email. </body>
+    </message>
+    <message id="m0004" participant="131450" time="2013-04-02 22:13:17 UTC">
+      <body>Niceeee</body>
+    </message>
+  </messages>
+</conversation>

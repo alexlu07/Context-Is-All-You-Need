@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130422.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131425" time="2013-04-22 22:11:56 UTC">
+      <body>Hey still at work. Will call you tomorrow.</body>
+    </message>
+    <message id="m0001" participant="130962" time="2013-04-22 22:12:55 UTC">
+      <body>Ok! I'm at yoga tomorrow 7-9.</body>
+    </message>
+    <message id="m0002" participant="131425" time="2013-04-22 22:14:34 UTC">
+      <body>Okay. Will talk to you before then. </body>
+    </message>
+    <message id="m0003" participant="130962" time="2013-04-22 22:15:05 UTC">
+      <body>Yah!</body>
+    </message>
+  </messages>
+</conversation>

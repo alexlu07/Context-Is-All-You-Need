@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140426.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-26 19:34:32 UTC" participant="153456">
+      <body>Hey John! This is diego. How you been?</body>
+    </message>
+    <message id="m0001" time="2014-04-26 19:39:06 UTC" participant="153418">
+      <body>Hey, I'm doing good. Just dealing with work and life. 
+
+How are you doing? You graduate this year, right? I hope you're enjoying all the new stuff Drexel built after I left.</body>
+    </message>
+    <message id="m0002" time="2014-04-26 19:40:20 UTC" participant="153456">
+      <body>Haha nah im done. Im doing an internship right now but ill be back for a masters in computer science on september. We should hang out one of these days man</body>
+    </message>
+    <message id="m0003" time="2014-04-26 19:44:13 UTC" participant="153418">
+      <body>That's pretty cool. Where are you interning? 
+
+You're still in Philadelphia though? I live in Maryland now, so that might be a bit tough. :[</body>
+    </message>
+    <message id="m0004" time="2014-04-26 19:45:38 UTC" participant="153456">
+      <body>Oh damn :c haha. Yeah im in phila. Bentley Systems I did a coop with them. Where are you working?</body>
+    </message>
+    <message id="m0005" time="2014-04-26 19:48:36 UTC" participant="153418">
+      <body>Small hardware company called Annapolis Micro Systems (it's in Annapolis). 
+
+I live in Baltimore though; I can't stand small little towns.</body>
+    </message>
+    <message id="m0006" time="2014-04-26 19:49:17 UTC" participant="153418">
+      <body>Philadelphia's a better city, by the way. Don't come here.</body>
+    </message>
+    <message id="m0007" time="2014-04-26 19:50:29 UTC" participant="153456">
+      <body>Haha gotcha. Im ok with being in phila. Thats good that you got a job on hardware. What do you do for them?</body>
+    </message>
+    <message id="m0008" time="2014-04-26 19:52:27 UTC" participant="153456">
+      <body>Hahaha ok will take that into account</body>
+    </message>
+    <message id="m0009" time="2014-04-26 19:53:44 UTC" participant="153418">
+      <body>I write Verilog for FPGA and ASIC designs. It's been all right; it can get boring though.
+
+In retrospect, it might have been better to get into software since you can go literally anywhere to do software. Can't go to too many different places in hardware.</body>
+    </message>
+    <message id="m0010" time="2014-04-26 19:55:21 UTC" participant="153456">
+      <body>Thats true.. well man at least u got a job and you like that stuff right? Well im going back to school because I dont want to deal with the real world ju</body>
+    </message>
+    <message id="m0011" time="2014-04-26 19:56:27 UTC" participant="153456">
+      <body>st yet lol plus I can get more money once im done</body>
+    </message>
+    <message id="m0012" time="2014-04-26 20:00:21 UTC" participant="153418">
+      <body>Yeah, the real world isn't the greatest thing ever. Long days, overtime..staring at code for 40+ hours a week starts to eat away at you.
+
+Drexel's campus has a lot of new stuff now. You should definitely check it out when you're back there. :p</body>
+    </message>
+    <message id="m0013" time="2014-04-26 20:01:44 UTC" participant="153456">
+      <body>Sounds good. Yeah it doea eat me. I program 40 hours a week straight up c++ on a source tree thats over 14 GB of files and source code. The thing take 4 </body>
+    </message>
+    <message id="m0014" time="2014-04-26 20:02:51 UTC" participant="153456">
+      <body>hours to compile everything. When you have to debug through that massive code base I just get frustrated</body>
+    </message>
+  </messages>
+</conversation>
+

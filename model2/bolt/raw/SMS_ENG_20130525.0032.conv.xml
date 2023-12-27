@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0032" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130657" time="2013-05-25 14:35:03 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130674" time="2013-05-25 15:09:50 UTC">
+      <body>Hi How are you doing this afternoon?</body>
+    </message>
+    <message id="m0002" participant="130657" time="2013-05-25 15:46:49 UTC">
+      <body>Im buying a birthday present for an 11 yr old and I think it's the hardest thing ever.</body>
+    </message>
+    <message id="m0003" participant="130657" time="2013-05-25 15:47:23 UTC">
+      <body>And you?</body>
+    </message>
+    <message id="m0004" participant="130674" time="2013-05-25 22:13:19 UTC">
+      <body>Sorry.. for the late reply</body>
+    </message>
+    <message id="m0005" participant="130674" time="2013-05-25 22:13:51 UTC">
+      <body>I had lost my phone but I left it at my sisters car earlier she just got hom</body>
+    </message>
+    <message id="m0006" participant="130674" time="2013-05-25 22:13:51 UTC">
+      <body>Home*</body>
+    </message>
+    <message id="m0007" participant="130674" time="2013-05-25 22:13:56 UTC">
+      <body>So what dod u end up buying the 11 year old kid?</body>
+    </message>
+  </messages>
+</conversation>

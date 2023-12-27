@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131103.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-03 22:22:36 UTC" participant="153491">
+      <body>Hey, are you getting any of my calls?</body>
+    </message>
+    <message id="m0001" time="2013-11-04 15:40:27 UTC" participant="152116">
+      <body>Are you still at the hospital? Just checking if I have time to shower</body>
+    </message>
+    <message id="m0002" time="2013-11-04 15:41:00 UTC" participant="153491">
+      <body>Yup. Still waiting in the fitting room.</body>
+    </message>
+    <message id="m0003" time="2013-11-04 15:41:48 UTC" participant="152116">
+      <body>Ok</body>
+    </message>
+    <message id="m0004" time="2013-11-04 17:50:04 UTC" participant="153491">
+      <body>We're at Saxby's now.</body>
+    </message>
+    <message id="m0005" time="2013-11-04 17:53:04 UTC" participant="152116">
+      <body>Im almost at 40th and market. Be there soon</body>
+    </message>
+  </messages>
+</conversation>
+

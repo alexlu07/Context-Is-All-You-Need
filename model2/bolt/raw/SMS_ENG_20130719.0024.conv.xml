@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130719.0024" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-19 13:54:57 UTC">
+      <body>couldn't hear you. Want to take you up on that offer today if its ok</body>
+    </message>
+    <message id="m0001" participant="136640" time="2013-07-19 14:04:14 UTC">
+      <body>Totally cool. I'll be home at 1130</body>
+    </message>
+    <message id="m0002" participant="130693" time="2013-07-19 14:04:40 UTC">
+      <body>Thx man, i owe u one!</body>
+    </message>
+    <message id="m0003" participant="136640" time="2013-07-19 15:03:17 UTC">
+      <body>I'm going to make a quick stop at the grocier - I'll let you know when I'm heading home </body>
+    </message>
+    <message id="m0004" participant="130693" time="2013-07-19 15:30:40 UTC">
+      <body>Cool</body>
+    </message>
+    <message id="m0005" participant="136640" time="2013-07-19 16:03:02 UTC">
+      <body>I'm heading home now - ETA 20min</body>
+    </message>
+    <message id="m0006" participant="130693" time="2013-07-19 16:13:30 UTC">
+      <body>Cool. Getting in the el in few min</body>
+    </message>
+    <message id="m0007" participant="136640" time="2013-07-19 16:38:34 UTC">
+      <body>The #34 Trolley stops at 42nd and Baltimore, 1 block from my place. The #13 stops at 42nd and Chester, 2 blocks (both south of Pine) </body>
+    </message>
+    <message id="m0008" participant="130693" time="2013-07-19 17:06:45 UTC">
+      <body>Ok. Getting off now</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140502.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-02 19:31:11 UTC" participant="152115">
+      <body>On the cart. Waiting for relief.  </body>
+    </message>
+    <message id="m0001" time="2014-05-02 20:24:22 UTC" participant="152117">
+      <body>Are u on way home yet</body>
+    </message>
+    <message id="m0002" time="2014-05-03 15:59:02 UTC" participant="152115">
+      <body>Oreo seems better. </body>
+    </message>
+  </messages>
+</conversation>
+

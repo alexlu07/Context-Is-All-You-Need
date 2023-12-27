@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120913.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-13 23:59:55 UTC" participant="153418">
+      <body>Hey. Are you free tomorrow?</body>
+    </message>
+    <message id="m0001" time="2012-09-14 12:26:15 UTC" participant="153440">
+      <body>Sorry for the late res. I don't think i can make it today:( could u see me next fri? Sorry!</body>
+    </message>
+    <message id="m0002" time="2012-09-14 13:11:08 UTC" participant="153418">
+      <body>It's okay. When you can, let me know what time you'd like to meet next week.</body>
+    </message>
+    <message id="m0003" time="2012-09-14 13:42:20 UTC" participant="153440">
+      <body>How about 1:30~??</body>
+    </message>
+  </messages>
+</conversation>
+

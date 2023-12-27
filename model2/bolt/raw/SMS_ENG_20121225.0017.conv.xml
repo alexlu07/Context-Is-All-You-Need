@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121225.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2012-12-25 15:00:30 UTC">
+      <body>Merry xmas youngbul</body>
+    </message>
+    <message id="m0001" participant="132534" time="2012-12-25 19:07:53 UTC">
+      <body>Same to you dood!</body>
+    </message>
+    <message id="m0002" participant="132534" time="2012-12-26 04:19:34 UTC">
+      <body>I'm gonna bail tonight, ended up going to the movies with the fam</body>
+    </message>
+    <message id="m0003" participant="130747" time="2012-12-26 05:23:57 UTC">
+      <body>Sall good</body>
+    </message>
+  </messages>
+</conversation>

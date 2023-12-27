@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111015.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131405" time="2011-10-15 18:22:56 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="131405" time="2011-10-16 00:55:28 UTC">
+      <body>Shantel came to the party</body>
+    </message>
+    <message id="m0002" participant="131403" time="2011-10-16 00:58:43 UTC">
+      <body>Be nice to her and have fun</body>
+    </message>
+    <message id="m0003" participant="131405" time="2011-10-16 00:59:44 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0004" participant="131403" time="2011-10-16 01:55:00 UTC">
+      <body>Is Paige and shantel still there</body>
+    </message>
+    <message id="m0005" participant="131405" time="2011-10-16 02:20:48 UTC">
+      <body>  They just left</body>
+    </message>
+    <message id="m0006" participant="131405" time="2011-10-16 15:21:36 UTC">
+      <body>The pancakes were awesome</body>
+    </message>
+    <message id="m0007" participant="131403" time="2011-10-16 15:21:47 UTC">
+      <body>They were. There were even better with the new syrup</body>
+    </message>
+    <message id="m0008" participant="131403" time="2011-10-16 15:24:51 UTC">
+      <body>K</body>
+    </message>
+    <message id="m0009" participant="131405" time="2011-10-16 15:25:52 UTC">
+      <body>Cool</body>
+    </message>
+  </messages>
+</conversation>

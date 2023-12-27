@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110701.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135130" time="2011-07-01 22:27:03 UTC">
+      <body>Stuckey! What are you up to tonight? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-07-01 23:32:13 UTC">
+      <body>No plans! Are you scheming aomething?</body>
+    </message>
+    <message id="m0002" participant="135130" time="2011-07-01 23:43:15 UTC">
+      <body>Heh, nothing crazy but thinkin it might be fun to grab a beer if you're down </body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-07-02 14:35:37 UTC">
+      <body>I'm so sorry for dropping the ball. Got caught up in storm chasing antics. Are you busy today?</body>
+    </message>
+    <message id="m0004" participant="135130" time="2011-07-02 17:42:49 UTC">
+      <body>No worries, i'm free if you want to find mischief. </body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-07-02 18:15:51 UTC">
+      <body>Let's do it. Drink or dinner tonight?</body>
+    </message>
+    <message id="m0006" participant="135130" time="2011-07-02 19:53:11 UTC">
+      <body>Sounds good. 7 work? Also, do you Salsa? </body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-07-02 20:01:41 UTC">
+      <body>Mmmm, not really.... But 7 works great!</body>
+    </message>
+    <message id="m0008" participant="135130" time="2011-07-02 23:20:38 UTC">
+      <body>Want me to pick you up? Are you hungry or just wanna grab a drink? </body>
+    </message>
+    <message id="m0009" participant="131839" time="2011-07-02 23:21:53 UTC">
+      <body>I could do either, it'd be fun to explore NE more</body>
+    </message>
+    <message id="m0010" participant="131839" time="2011-07-02 23:22:18 UTC">
+      <body>And yea you can pick me up :)</body>
+    </message>
+    <message id="m0011" participant="135130" time="2011-07-02 23:32:45 UTC">
+      <body>Address please? </body>
+    </message>
+  </messages>
+</conversation>

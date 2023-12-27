@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150121.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-21 14:53:52 UTC" participant="153420">
+      <body>We have a patient</body>
+    </message>
+    <message id="m0001" time="2015-01-22 10:35:35 UTC" participant="153417">
+      <body>Wawa?</body>
+    </message>
+    <message id="m0002" time="2015-01-22 10:35:44 UTC" participant="153420">
+      <body>Sure. A burrito please</body>
+    </message>
+    <message id="m0003" time="2015-01-22 10:36:49 UTC" participant="153420">
+      <body>￼</body>
+    </message>
+    <message id="m0004" time="2015-01-22 10:39:50 UTC" participant="153420">
+      <body>Sorry I don't know what that was that I sent you. Lol</body>
+    </message>
+    <message id="m0005" time="2015-01-22 10:42:14 UTC" participant="153417">
+      <body>Hahaha okay</body>
+    </message>
+    <message id="m0006" time="2015-01-22 10:44:16 UTC" participant="153420">
+      <body>Lol</body>
+    </message>
+    <message id="m0007" time="2015-01-22 10:57:32 UTC" participant="153420">
+      <body>Hey are you on your way back? I forgot my keys. I can't get in. Lol</body>
+    </message>
+    <message id="m0008" time="2015-01-22 10:57:52 UTC" participant="153417">
+      <body>Yeah I'm like a min away</body>
+    </message>
+    <message id="m0009" time="2015-01-22 10:58:10 UTC" participant="153420">
+      <body>Ok. Lol</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130519.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-05-19 08:06:56 UTC">
+      <body>I love you.</body>
+    </message>
+    <message id="m0001" participant="131390" time="2013-05-19 08:07:50 UTC">
+      <body>I love you too! :) </body>
+    </message>
+    <message id="m0002" participant="131390" time="2013-05-19 08:08:56 UTC">
+      <body>Want to see something funny?</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-05-19 08:12:08 UTC">
+      <body>Yes. Of course!</body>
+    </message>
+    <message id="m0004" participant="131390" time="2013-05-19 14:38:35 UTC">
+      <body>Sorry it never went through. </body>
+    </message>
+  </messages>
+</conversation>

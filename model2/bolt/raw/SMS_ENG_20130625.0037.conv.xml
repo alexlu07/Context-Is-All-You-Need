@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130625.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-06-25 22:50:25 UTC">
+      <body>Get home alright?</body>
+    </message>
+    <message id="m0001" participant="135621" time="2013-06-25 23:30:49 UTC">
+      <body>Yep! :) I'm finally home lol</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-06-25 23:39:44 UTC">
+      <body>Glad u got home ok</body>
+    </message>
+    <message id="m0003" participant="135621" time="2013-06-26 05:27:44 UTC">
+      <body>Thanks :)</body>
+    </message>
+  </messages>
+</conversation>

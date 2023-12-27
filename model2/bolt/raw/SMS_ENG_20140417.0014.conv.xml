@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140417.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-17 22:20:15 UTC" participant="153547">
+      <body>Hey zack I'm doing a fire and grilling chicken if u wanna come over. I got beers</body>
+    </message>
+    <message id="m0001" time="2014-04-17 22:25:53 UTC" participant="149364">
+      <body>Sick. Yeah, I'll come by. What time?</body>
+    </message>
+    <message id="m0002" time="2014-04-17 22:27:57 UTC" participant="153547">
+      <body>We'll I'm just chilling and grilling now. Food prolly ready in an hr or so</body>
+    </message>
+    <message id="m0003" time="2014-04-17 22:28:16 UTC" participant="149364">
+      <body>Cool. Be by in a bit.</body>
+    </message>
+    <message id="m0004" time="2014-04-17 22:28:23 UTC" participant="153547">
+      <body>You're welcome to come as soon as u want</body>
+    </message>
+  </messages>
+</conversation>
+

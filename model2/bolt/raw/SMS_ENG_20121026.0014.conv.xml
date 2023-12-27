@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121026.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135378" time="2012-10-26 01:16:48 UTC">
+      <body>￼Hey party tomorrow night. Wanna come?</body>
+    </message>
+    <message id="m0001" participant="135378" time="2012-10-26 01:36:00 UTC">
+      <body>I don't think so. It's longwood school area I think. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-26 01:36:09 UTC">
+      <body>Cool what is this a massart thing?</body>
+    </message>
+  </messages>
+</conversation>

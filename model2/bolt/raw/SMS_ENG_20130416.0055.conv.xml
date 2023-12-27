@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130416.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137259" time="2013-04-16 10:36:29 UTC">
+      <body>Do you need a ride today?</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-04-16 23:29:44 UTC">
+      <body>...can I get a ride tomorrow? </body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-04-17 00:07:14 UTC">
+      <body>Course :)</body>
+    </message>
+    <message id="m0003" participant="137259" time="2013-04-17 00:07:55 UTC">
+      <body>Oh wait shit, I'm going to Hopkins tomorrow so actually no :P Ask Kylie</body>
+    </message>
+  </messages>
+</conversation>

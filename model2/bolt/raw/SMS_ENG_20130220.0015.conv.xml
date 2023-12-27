@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130220.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-02-20 16:26:35 UTC">
+      <body>You free this afternoon?  Around one?</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-20 16:26:47 UTC">
+      <body>Need help with writing response 600 words </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-20 16:26:52 UTC">
+      <body>Only</body>
+    </message>
+    <message id="m0003" participant="135350" time="2013-02-20 17:46:40 UTC">
+      <body>Yes! Text me!!!</body>
+    </message>
+  </messages>
+</conversation>

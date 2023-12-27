@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140904.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-04 10:58:45 UTC" participant="153809">
+      <body>Hey when are you coming over for a soak</body>
+    </message>
+    <message id="m0001" time="2014-09-04 12:24:32 UTC" participant="153809">
+      <body>Ha!  We are all certified</body>
+    </message>
+    <message id="m0002" time="2014-09-04 12:24:32 UTC" participant="153809">
+      <body>Except after a few glasses o wine</body>
+    </message>
+    <message id="m0003" time="2014-09-04 12:25:30 UTC" participant="153804">
+      <body>When's the lifeguard going to be there?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-03-01 16:43:13 UTC">
+      <body>How you getting to Wendy's</body>
+    </message>
+    <message id="m0001" participant="135395" time="2013-03-01 16:43:37 UTC">
+      <body>Walking from work</body>
+    </message>
+    <message id="m0002" participant="135395" time="2013-03-01 16:43:48 UTC">
+      <body>It's an hour walk I think </body>
+    </message>
+    <message id="m0003" participant="135395" time="2013-03-01 16:44:25 UTC">
+      <body>Join?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2013-03-01 16:45:00 UTC">
+      <body>Maybe I think there is a faster way </body>
+    </message>
+    <message id="m0005" participant="130622" time="2013-03-01 16:45:04 UTC">
+      <body>Than walking </body>
+    </message>
+    <message id="m0006" participant="135395" time="2013-03-01 16:45:09 UTC">
+      <body>Probably</body>
+    </message>
+    <message id="m0007" participant="135395" time="2013-03-01 16:45:24 UTC">
+      <body>I kinda wanted the excercise </body>
+    </message>
+    <message id="m0008" participant="130622" time="2013-03-01 16:45:25 UTC">
+      <body>Remember I need as much time as possible to work</body>
+    </message>
+    <message id="m0009" participant="130622" time="2013-03-01 16:45:38 UTC">
+      <body>I have reviews and install this weekend</body>
+    </message>
+    <message id="m0010" participant="135395" time="2013-03-01 16:48:36 UTC">
+      <body>The 47 will go rigt there</body>
+    </message>
+    <message id="m0011" participant="135395" time="2013-03-01 16:49:04 UTC">
+      <body>I just want to walk cause I feel gross from sitting and studying all the time </body>
+    </message>
+    <message id="m0012" participant="130622" time="2013-03-01 17:00:12 UTC">
+      <body>Good idea.  I'm going to hop in a cab</body>
+    </message>
+    <message id="m0013" participant="135395" time="2013-03-01 17:06:08 UTC">
+      <body>Just give me 3 minutes to walk over</body>
+    </message>
+    <message id="m0014" participant="135395" time="2013-03-01 17:10:24 UTC">
+      <body>No prob I'm here</body>
+    </message>
+    <message id="m0015" participant="130622" time="2013-03-01 17:11:03 UTC">
+      <body>Ok mom and dad will pay you back</body>
+    </message>
+  </messages>
+</conversation>

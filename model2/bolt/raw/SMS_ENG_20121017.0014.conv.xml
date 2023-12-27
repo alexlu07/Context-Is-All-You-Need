@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121017.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-17 01:54:04 UTC">
+      <body>To the mission? Across from the penguin</body>
+    </message>
+    <message id="m0001" participant="135437" time="2012-10-17 02:02:43 UTC">
+      <body>Sorry, phone was on silent, home now, maybe some other day</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-17 02:03:05 UTC">
+      <body>Come for a beer so close</body>
+    </message>
+    <message id="m0003" participant="135437" time="2012-10-17 02:04:04 UTC">
+      <body>Hah hah, maybe tomorrow?</body>
+    </message>
+    <message id="m0004" participant="130622" time="2012-10-17 02:10:04 UTC">
+      <body>Def tomorrow.  We are going to make you have a beer</body>
+    </message>
+    <message id="m0005" participant="135437" time="2012-10-17 02:10:59 UTC">
+      <body>Hah hah</body>
+    </message>
+  </messages>
+</conversation>

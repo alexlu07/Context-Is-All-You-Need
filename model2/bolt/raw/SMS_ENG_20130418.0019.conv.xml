@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130418.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-18 18:59:47 UTC">
+      <body>here.</body>
+    </message>
+    <message id="m0001" participant="131353" time="2013-04-18 19:26:24 UTC">
+      <body>I am so sorry. I got called to a client last minute </body>
+    </message>
+    <message id="m0002" participant="131353" time="2013-04-18 19:26:55 UTC">
+      <body>I had my phone turned off :-( </body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-04-18 19:27:24 UTC">
+      <body>no problem.
+should i wait? are you local?</body>
+    </message>
+    <message id="m0004" participant="131353" time="2013-04-18 19:28:16 UTC">
+      <body>I am with them all day long and tomorrow </body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-04-18 19:29:54 UTC">
+      <body>then i'm leaving!  ;-)
+talk to you later.</body>
+    </message>
+    <message id="m0006" participant="131353" time="2013-04-18 19:30:27 UTC">
+      <body>I feel so bad. I am so sorry </body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-04-18 19:31:02 UTC">
+      <body>don't sweat it.  we're cool.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130312.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131358" time="2013-03-12 14:52:08 UTC">
+      <body>Can i move u to later in the day? about 3ish?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-12 15:06:54 UTC">
+      <body>that should be fine.</body>
+    </message>
+    <message id="m0002" participant="131358" time="2013-03-12 15:07:34 UTC">
+      <body>Thanks</body>
+    </message>
+    <message id="m0003" participant="131350" time="2013-03-12 20:54:43 UTC">
+      <body>sorry. gotta postpone. leaving tomorrow for AZ - my grandniece's bat mitzvah. will be gone for a week or so.</body>
+    </message>
+    <message id="m0004" participant="131358" time="2013-03-12 20:55:49 UTC">
+      <body>Ok funny to think u have a grand niece</body>
+    </message>
+    <message id="m0005" participant="131350" time="2013-03-12 20:56:41 UTC">
+      <body>i know. i don't look a day over 80!  ;-)</body>
+    </message>
+    <message id="m0006" participant="131358" time="2013-03-12 20:57:14 UTC">
+      <body>Or even 60</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-03-12 20:57:50 UTC">
+      <body>you're too kind.  ;-p</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140602.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-02 17:46:40 UTC" participant="152743">
+      <body>Hi. I'm heading to Philly later this week for first Friday</body>
+    </message>
+    <message id="m0001" time="2014-06-02 17:46:40 UTC" participant="152743">
+      <body>In Vegas right now at the jewelry show</body>
+    </message>
+    <message id="m0002" time="2014-06-02 17:48:34 UTC" participant="152735">
+      <body>Great! Stop in at Hooloon and say hi to me. I've been gallery sitting for LG Tripp too. Luella is great. </body>
+    </message>
+    <message id="m0003" time="2014-06-02 17:48:48 UTC" participant="152743">
+      <body>Will do</body>
+    </message>
+  </messages>
+</conversation>
+

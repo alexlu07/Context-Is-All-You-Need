@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-03-03 17:29:04 UTC">
+      <body>do you know CMS or joomla?</body>
+    </message>
+    <message id="m0001" participant="131363" time="2013-03-03 22:40:47 UTC">
+      <body>?</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-04 00:27:28 UTC">
+      <body>email!</body>
+    </message>
+  </messages>
+</conversation>

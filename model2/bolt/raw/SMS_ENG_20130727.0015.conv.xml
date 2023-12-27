@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130727.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-07-27 02:28:22 UTC">
+      <body>What are you doing </body>
+    </message>
+    <message id="m0001" participant="137315" time="2013-07-27 21:04:02 UTC">
+      <body>Are you free tonight?</body>
+    </message>
+    <message id="m0002" participant="137255" time="2013-07-27 21:04:23 UTC">
+      <body>Probably </body>
+    </message>
+  </messages>
+</conversation>

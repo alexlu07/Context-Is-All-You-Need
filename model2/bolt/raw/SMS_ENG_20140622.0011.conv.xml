@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140622.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-22 14:54:15 UTC" participant="153547">
+      <body>Hey I have Ruby's first birthday party today from 3 -4 or so but I could do bike stuff before or after that</body>
+    </message>
+    <message id="m0001" time="2014-06-22 15:23:44 UTC" participant="153562">
+      <body>Lets do after! </body>
+    </message>
+    <message id="m0002" time="2014-06-22 16:14:13 UTC" participant="153547">
+      <body>Ok</body>
+    </message>
+    <message id="m0003" time="2014-06-22 21:08:24 UTC" participant="153547">
+      <body>Hey I'm back</body>
+    </message>
+  </messages>
+</conversation>
+

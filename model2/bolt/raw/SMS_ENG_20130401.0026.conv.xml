@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135267" time="2013-04-01 19:54:11 UTC">
+      <body>Is there any way you could table tonight from 5-6:30?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-04-01 19:55:11 UTC">
+      <body>Tonight really sucks for me. If you need me later in the week ill more likely be free</body>
+    </message>
+    <message id="m0002" participant="135267" time="2013-04-01 19:55:56 UTC">
+      <body>No problem.</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0031" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 02:33:36 UTC" participant="153577">
+      <body>How's it goin?</body>
+    </message>
+    <message id="m0001" time="2015-03-12 03:34:59 UTC" participant="153547">
+      <body>I'm fine. Trying to finish up my application to Roswell AIR</body>
+    </message>
+    <message id="m0002" time="2015-03-12 05:41:20 UTC" participant="153577">
+      <body>That's great. Good luck. </body>
+    </message>
+  </messages>
+</conversation>
+

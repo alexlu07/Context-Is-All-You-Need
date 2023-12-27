@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130407.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-07 03:22:01 UTC">
+      <body>hey. did you get your phone fixed/replaced yet?</body>
+    </message>
+    <message id="m0001" participant="131366" time="2013-04-07 03:34:11 UTC">
+      <body>Literally at 3 today.  I'm totally busy this weekend. Every minute.  I'll call you tomorrow on my way to shoot</body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-07 03:35:24 UTC">
+      <body>k. just glad you're back up and running.</body>
+    </message>
+    <message id="m0003" participant="131366" time="2013-04-07 03:38:50 UTC">
+      <body>Yeah I went twice they refused to help me without an appt.  I'm sorry, should have messaged you.. Love you</body>
+    </message>
+  </messages>
+</conversation>

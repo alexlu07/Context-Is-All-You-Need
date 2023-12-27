@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0050" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134282" time="2013-05-21 17:02:21 UTC">
+      <body>Are you working out/playing tonight?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-21 20:01:14 UTC">
+      <body>I am probably just going to do some quick cardio. Have to get back to watch Cooper </body>
+    </message>
+    <message id="m0002" participant="134282" time="2013-05-21 20:04:00 UTC">
+      <body>Gotcha. Well I should be in there. I have to do something, I feel heavy. Have you played lately?</body>
+    </message>
+    <message id="m0003" participant="130979" time="2013-05-21 20:15:04 UTC">
+      <body>Actually played a bit last week cause Kristen was out of town </body>
+    </message>
+    <message id="m0004" participant="134282" time="2013-05-21 20:37:12 UTC">
+      <body>Lucky dog</body>
+    </message>
+  </messages>
+</conversation>

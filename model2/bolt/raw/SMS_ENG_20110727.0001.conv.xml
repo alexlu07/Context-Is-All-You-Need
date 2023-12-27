@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110727.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-07-27 15:42:09 UTC">
+      <body>Hey! Are you staying at 521 tonight?</body>
+    </message>
+    <message id="m0001" participant="135126" time="2011-07-27 15:52:19 UTC">
+      <body>Probably. Why?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-07-27 15:55:23 UTC">
+      <body>Ah nevermind, I thought I was paying rent again and needed the check but it looks like Rachel is. </body>
+    </message>
+  </messages>
+</conversation>

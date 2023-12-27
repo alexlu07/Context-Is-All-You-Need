@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131215.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-15 15:07:00 UTC" participant="152417">
+      <body>Sorry Bob, im gonna play hooky this morning.  See you at B9</body>
+    </message>
+    <message id="m0001" time="2013-12-15 15:08:33 UTC" participant="152521">
+      <body>It's ok.  A few others are skipping too.</body>
+    </message>
+  </messages>
+</conversation>
+

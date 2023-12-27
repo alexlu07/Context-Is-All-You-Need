@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131226.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-26 22:29:31 UTC" participant="152541">
+      <body>What are you up to tonight? </body>
+    </message>
+    <message id="m0001" time="2013-12-26 22:36:02 UTC" participant="152417">
+      <body>Im comin to play at the bean! What time do we start?</body>
+    </message>
+    <message id="m0002" time="2013-12-26 22:37:39 UTC" participant="152541">
+      <body>Cody was talking about playing shanes slot.830 could that work?</body>
+    </message>
+    <message id="m0003" time="2013-12-26 22:38:28 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" time="2013-12-26 22:39:51 UTC" participant="152541">
+      <body>Sweet see ya then dude</body>
+    </message>
+    <message id="m0005" time="2013-12-27 06:00:23 UTC" participant="152541">
+      <body>What is your plan tomorrow . A ride would rule</body>
+    </message>
+    <message id="m0006" time="2013-12-27 17:40:28 UTC" participant="152541">
+      <body>Hey I put together some easy to read charts. Some of those in the book I , pick look cluttered. I'm all set in ride btw. See ya later</body>
+    </message>
+    <message id="m0007" time="2013-12-27 19:37:07 UTC" participant="152417">
+      <body>Sweet</body>
+    </message>
+  </messages>
+</conversation>
+

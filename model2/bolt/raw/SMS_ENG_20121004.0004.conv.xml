@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121004.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2012-10-04 18:08:37 UTC">
+      <body>￼Project that is awesome. Called whisker box </body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-10-04 18:08:47 UTC">
+      <body>￼And another</body>
+    </message>
+    <message id="m0002" participant="130622" time="2012-10-04 18:09:09 UTC">
+      <body>￼</body>
+    </message>
+    <message id="m0003" participant="135354" time="2012-10-04 19:31:12 UTC">
+      <body>Yeah seems v tactile</body>
+    </message>
+    <message id="m0004" participant="135354" time="2012-10-04 19:31:12 UTC">
+      <body>The water one is like the fish pond at the restaurant we all went to last weekend.</body>
+    </message>
+    <message id="m0005" participant="130622" time="2012-10-04 20:58:02 UTC">
+      <body>I know awesome!!!</body>
+    </message>
+  </messages>
+</conversation>

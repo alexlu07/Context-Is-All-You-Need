@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111004.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-10-04 22:55:49 UTC">
+      <body>How many days in a row did you freeze your wart?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-10-05 17:08:30 UTC">
+      <body>Still ignoring me</body>
+    </message>
+    <message id="m0002" participant="135092" time="2011-10-05 17:09:32 UTC">
+      <body>Ecery other day for a week</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 18:36:16 UTC" participant="152119">
+      <body>Oh no! That's awful. Stupid drunks. </body>
+    </message>
+    <message id="m0002" time="2015-04-13 16:00:00 UTC" participant="152119">
+      <body>Haha thank you Jenny. You're a good friend. I'm not making any ultimatums but we're going to have to talk the next time I see him. </body>
+    </message>
+    <message id="m0003" time="2015-04-13 16:01:14 UTC" participant="153412">
+      <body>I hear ya. I hope it works out!</body>
+    </message>
+  </messages>
+</conversation>
+

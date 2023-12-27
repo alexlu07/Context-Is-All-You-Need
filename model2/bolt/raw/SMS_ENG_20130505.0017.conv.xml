@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130505.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-05 22:06:02 UTC">
+      <body>Happy cinco De mayo!</body>
+    </message>
+    <message id="m0001" participant="132559" time="2013-05-05 22:13:40 UTC">
+      <body>Thanks, I guess. I don't celebrate that, though haha. Happy 5 de mayo for you too!</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-05-05 22:20:48 UTC">
+      <body>Oh sorry. Why not</body>
+    </message>
+    <message id="m0003" participant="132559" time="2013-05-05 22:22:42 UTC">
+      <body>It's a mexican-american, chicano thing. We don't care about it back in mexico haha. </body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-05-05 23:23:07 UTC">
+      <body>Isn't it independence day for you</body>
+    </message>
+    <message id="m0005" participant="132559" time="2013-05-05 23:23:47 UTC">
+      <body>Hahahahahahahhahaha hell no.</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-05-06 00:19:50 UTC">
+      <body>Oh in way off lol</body>
+    </message>
+  </messages>
+</conversation>

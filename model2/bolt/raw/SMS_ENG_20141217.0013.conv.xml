@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141217.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-17 20:15:51 UTC" participant="153548">
+      <body>Are you in your office?!</body>
+    </message>
+    <message id="m0001" time="2014-12-17 20:18:06 UTC" participant="153548">
+      <body>Because I'm gonna eat a sandwich outside the library</body>
+    </message>
+    <message id="m0002" time="2014-12-17 21:15:44 UTC" participant="153631">
+      <body>Aaaa! I just got this. You still around???</body>
+    </message>
+    <message id="m0003" time="2014-12-18 16:16:12 UTC" participant="153548">
+      <body>I had left by then:( sorry I missed you! I'm around all weekend though!!</body>
+    </message>
+    <message id="m0004" time="2014-12-18 19:20:32 UTC" participant="153631">
+      <body>Wanna hang out on Sunday? </body>
+    </message>
+    <message id="m0005" time="2014-12-18 19:58:45 UTC" participant="153548">
+      <body>Yus please</body>
+    </message>
+  </messages>
+</conversation>
+

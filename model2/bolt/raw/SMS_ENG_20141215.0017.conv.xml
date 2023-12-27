@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141215.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-15 23:54:20 UTC" participant="153900">
+      <body>You got another package</body>
+    </message>
+    <message id="m0001" time="2014-12-16 00:35:04 UTC" participant="153244">
+      <body>Ok im stopping by now</body>
+    </message>
+    <message id="m0002" time="2014-12-16 15:18:01 UTC" participant="153900">
+      <body>Hey what gp your dentist name</body>
+    </message>
+    <message id="m0003" time="2014-12-16 15:22:40 UTC" participant="153244">
+      <body>Broad&amp;</body>
+    </message>
+    <message id="m0004" time="2014-12-16 15:24:51 UTC" participant="153900">
+      <body>Do you by any chance have the number</body>
+    </message>
+  </messages>
+</conversation>
+

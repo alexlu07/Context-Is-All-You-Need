@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150204.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-04 18:23:59 UTC" participant="153423">
+      <body>Hi crystal can u tell me mu floor census </body>
+    </message>
+    <message id="m0001" time="2015-02-04 18:49:31 UTC" participant="153417">
+      <body>You're at 31 plus 5 assigned. Are you coming in today?</body>
+    </message>
+    <message id="m0002" time="2015-02-04 18:55:39 UTC" participant="153423">
+      <body>No thursday and Friday</body>
+    </message>
+    <message id="m0003" time="2015-02-04 18:56:02 UTC" participant="153423">
+      <body>We were slow on Monday morning at 10 am we got almost full </body>
+    </message>
+  </messages>
+</conversation>
+

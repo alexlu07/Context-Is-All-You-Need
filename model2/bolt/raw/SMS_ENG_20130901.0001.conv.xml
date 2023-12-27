@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130901.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-01 12:04:13 UTC" participant="152417">
+      <body>Hey Steph, we only have an hour left to get our stuff out</body>
+    </message>
+    <message id="m0001" time="2013-09-01 13:25:39 UTC" participant="152481">
+      <body>Oh dammn it I'm on my way!!!"</body>
+    </message>
+  </messages>
+</conversation>
+

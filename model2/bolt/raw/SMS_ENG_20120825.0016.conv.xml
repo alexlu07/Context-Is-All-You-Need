@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120825.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-08-25 19:11:36 UTC">
+      <body>Are you in lanc? I'm visiting my mama</body>
+    </message>
+    <message id="m0001" participant="131057" time="2012-08-25 21:25:02 UTC">
+      <body>I'm in Richmond for a wedding! :-(</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-08-25 21:25:28 UTC">
+      <body>Aw, fun, but boo!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141231.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-31 19:52:09 UTC" participant="153548">
+      <body>Are you guys close?! We are going to the movies</body>
+    </message>
+    <message id="m0001" time="2014-12-31 19:52:16 UTC" participant="153548">
+      <body>If you wanna see big eyes</body>
+    </message>
+    <message id="m0002" time="2014-12-31 20:19:23 UTC" participant="153649">
+      <body>We're just leaving va now. Should be there around 630 or so</body>
+    </message>
+    <message id="m0003" time="2014-12-31 20:29:21 UTC" participant="153548">
+      <body>Are you guys gonna make it to dinner you think?</body>
+    </message>
+    <message id="m0004" time="2014-12-31 20:29:36 UTC" participant="153548">
+      <body>I think this movie might run late!</body>
+    </message>
+    <message id="m0005" time="2014-12-31 20:35:12 UTC" participant="153649">
+      <body>Yeah, we'll make it</body>
+    </message>
+    <message id="m0006" time="2014-12-31 20:35:12 UTC" participant="153649">
+      <body>What time does the movie let out?</body>
+    </message>
+    <message id="m0007" time="2014-12-31 20:36:52 UTC" participant="153548">
+      <body>6:30. We'll make it too, just gonna be close. Are you wearing your suit to dinner?</body>
+    </message>
+    <message id="m0008" time="2014-12-31 20:47:45 UTC" participant="153649">
+      <body>Nope</body>
+    </message>
+    <message id="m0009" time="2015-01-01 17:27:39 UTC" participant="153548">
+      <body>We are watching movies in our pajamas if you wanna do that</body>
+    </message>
+    <message id="m0010" time="2015-01-01 17:31:29 UTC" participant="153649">
+      <body>Sounds pretty awesome. I'm trying to track down some food now. I'll check back in a bit</body>
+    </message>
+  </messages>
+</conversation>
+

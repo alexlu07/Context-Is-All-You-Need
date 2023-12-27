@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120414.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135095" time="2012-04-14 21:05:04 UTC">
+      <body>Happy birthday beautiful!!!</body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-04-14 21:05:16 UTC">
+      <body>Thanks love :)</body>
+    </message>
+    <message id="m0002" participant="135095" time="2012-04-14 21:09:20 UTC">
+      <body>Are you having a good day?? </body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-04-14 21:10:18 UTC">
+      <body>Yes, drinks, lunch, shopping now, show later :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120805.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135401" time="2012-08-05 20:56:15 UTC">
+      <body>ET. Phone home</body>
+    </message>
+    <message id="m0001" participant="130622" time="2012-08-05 22:11:34 UTC">
+      <body>I love you!! I have been a crazy person running around saying goodbye to friends in Philly. Should be back in a few days... Call u then?</body>
+    </message>
+    <message id="m0002" participant="135401" time="2012-08-05 22:24:25 UTC">
+      <body>Yes whenever. Just wanted to see that you were good. I am so excited for Cali(fornia)!!!!</body>
+    </message>
+    <message id="m0003" participant="130622" time="2012-08-05 22:37:47 UTC">
+      <body>Me too I really can't wait!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140728.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-28 02:01:36 UTC" participant="153557">
+      <body>Gnight bebe.</body>
+    </message>
+    <message id="m0001" time="2014-07-28 02:44:19 UTC" participant="153547">
+      <body>Goodnight love</body>
+    </message>
+    <message id="m0002" time="2014-07-28 16:26:31 UTC" participant="153557">
+      <body>Did you make it home?</body>
+    </message>
+    <message id="m0003" time="2014-07-28 16:26:42 UTC" participant="153547">
+      <body>Yeah</body>
+    </message>
+    <message id="m0004" time="2014-07-28 16:27:00 UTC" participant="153557">
+      <body>Good:)</body>
+    </message>
+  </messages>
+</conversation>
+

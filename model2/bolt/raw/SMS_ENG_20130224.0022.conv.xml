@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-02-24 15:19:20 UTC">
+      <body>Just drove by Potomac Mills and got all nostalgic. That was a perfect day!!</body>
+    </message>
+    <message id="m0001" participant="131036" time="2013-02-24 16:08:38 UTC">
+      <body>Dawwwwww yes!!!!</body>
+    </message>
+    <message id="m0002" participant="131036" time="2013-02-24 16:08:42 UTC">
+      <body>Miss you :(</body>
+    </message>
+    <message id="m0003" participant="130712" time="2013-02-24 16:32:52 UTC">
+      <body>Miss you too, but see you soon!!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130524.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="134288" time="2013-05-24 18:18:09 UTC">
+      <body>Did everything go OK with the wiring?</body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-05-24 18:28:50 UTC">
+      <body>Yep. Not a problem at all. </body>
+    </message>
+    <message id="m0002" participant="130979" time="2013-05-24 18:29:14 UTC">
+      <body>They left around 1245. Said they would be back on Tuesday </body>
+    </message>
+  </messages>
+</conversation>

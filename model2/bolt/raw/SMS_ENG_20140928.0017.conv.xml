@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140928.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-28 18:09:29 UTC" participant="154352">
+      <body>https://support.google.com/gmm/answer/3273567 info on saving maps for offline use in Google maps app for next time you need it</body>
+    </message>
+    <message id="m0001" time="2014-09-29 01:52:14 UTC" participant="154390">
+      <body>Thanks, how's Chicago so far?!</body>
+    </message>
+    <message id="m0002" time="2014-09-29 02:03:03 UTC" participant="154390">
+      <body>Awesome!!</body>
+    </message>
+  </messages>
+</conversation>
+

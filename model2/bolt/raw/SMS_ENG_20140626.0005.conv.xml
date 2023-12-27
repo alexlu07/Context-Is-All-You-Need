@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140626.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-26 15:14:13 UTC" participant="152374">
+      <body>The pool is open! Want to try to get a swim night set aside for next week? Adult swim is 6-7</body>
+    </message>
+    <message id="m0001" time="2014-06-26 18:40:07 UTC" participant="153472">
+      <body>Sounds good. What day works best for you?</body>
+    </message>
+    <message id="m0002" time="2014-06-26 18:40:21 UTC" participant="152374">
+      <body>Tuesday? </body>
+    </message>
+    <message id="m0003" time="2014-06-26 20:33:50 UTC" participant="153472">
+      <body>Tuesday will prob work but I'm not sure about next Tues. I'm leaving for vacation July 3 so next week will be kind if hectic, but it may work. I'll keep u posted. </body>
+    </message>
+    <message id="m0004" time="2014-06-26 20:40:00 UTC" participant="152374">
+      <body>OK! </body>
+    </message>
+  </messages>
+</conversation>
+

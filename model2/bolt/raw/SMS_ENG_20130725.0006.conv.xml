@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0006" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136540" time="2013-07-25 14:30:56 UTC">
+      <body>Hi how are you?</body>
+    </message>
+    <message id="m0001" participant="130664" time="2013-07-25 14:44:47 UTC">
+      <body>Hi! I'm great, thanks. How are you?</body>
+    </message>
+    <message id="m0002" participant="136540" time="2013-07-25 15:44:00 UTC">
+      <body>Good.. I'm out shopping for my vacation home :) where are you from??</body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-07-25 18:02:37 UTC">
+      <body>I'm in Philly. Where is your vacation home?</body>
+    </message>
+    <message id="m0004" participant="136540" time="2013-07-25 20:51:53 UTC">
+      <body>I'm in Jersey.. my place is on the NY state border :)</body>
+    </message>
+  </messages>
+</conversation>

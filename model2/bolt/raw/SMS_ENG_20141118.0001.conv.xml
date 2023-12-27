@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141118.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-18 16:40:05 UTC" participant="152417">
+      <body>￼</body>
+    </message>
+    <message id="m0001" time="2014-11-18 16:40:08 UTC" participant="152417">
+      <body>My new beast</body>
+    </message>
+    <message id="m0002" time="2014-11-18 16:48:58 UTC" participant="152424">
+      <body>oooh pretty.  how much?</body>
+    </message>
+    <message id="m0003" time="2014-11-18 16:50:44 UTC" participant="152417">
+      <body>1200</body>
+    </message>
+    <message id="m0004" time="2014-11-18 16:51:05 UTC" participant="152424">
+      <body>yikes keep that locked tight</body>
+    </message>
+  </messages>
+</conversation>
+

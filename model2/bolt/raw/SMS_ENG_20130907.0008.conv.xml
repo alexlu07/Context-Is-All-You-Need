@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130907.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-07 00:32:33 UTC" participant="154352">
+      <body>Want to come hang out in my neighborhood tomorrow? Avenue Q is happening at the community theater.</body>
+    </message>
+    <message id="m0001" time="2013-09-07 00:35:06 UTC" participant="154401">
+      <body>Yes what time</body>
+    </message>
+    <message id="m0002" time="2013-09-07 02:00:27 UTC" participant="154352">
+      <body>It starts at 7:30 I think. If you come over on the train in the late afternoon we can stroll over leisurely.</body>
+    </message>
+    <message id="m0003" time="2013-09-07 02:44:46 UTC" participant="154401">
+      <body>Okay cool</body>
+    </message>
+    <message id="m0004" time="2013-09-07 20:21:50 UTC" participant="154401">
+      <body>Whats the stop?</body>
+    </message>
+    <message id="m0005" time="2013-09-07 20:25:27 UTC" participant="154352">
+      <body>Ridley Park</body>
+    </message>
+    <message id="m0006" time="2013-09-07 20:28:47 UTC" participant="154401">
+      <body>Ill be there at 5</body>
+    </message>
+    <message id="m0007" time="2013-09-07 20:38:29 UTC" participant="154352">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>
+

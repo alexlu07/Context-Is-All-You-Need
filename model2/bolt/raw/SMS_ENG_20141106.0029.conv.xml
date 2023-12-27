@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141106.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-06 14:34:37 UTC" participant="152123">
+      <body>Hey. Plans this weekend?</body>
+    </message>
+    <message id="m0001" time="2014-11-06 14:34:51 UTC" participant="152123">
+      <body>Can you do dinner Friday night?</body>
+    </message>
+    <message id="m0002" time="2014-11-06 16:47:59 UTC" participant="153244">
+      <body>No I work Friday nights til 1130.. I can do sat night</body>
+    </message>
+    <message id="m0003" time="2014-11-06 16:57:06 UTC" participant="152123">
+      <body>Ok. Mike wanted to come too. I'll see what he can do</body>
+    </message>
+    <message id="m0004" time="2014-11-06 18:24:08 UTC" participant="153244">
+      <body>Ok</body>
+    </message>
+    <message id="m0005" time="2014-11-06 19:28:02 UTC" participant="152123">
+      <body>When can you meet Saturday night?</body>
+    </message>
+    <message id="m0006" time="2014-11-06 20:08:35 UTC" participant="153244">
+      <body>Anytime after 4:00. No plans for that night, just work during the day</body>
+    </message>
+    <message id="m0007" time="2014-11-06 20:19:01 UTC" participant="152123">
+      <body>Can you meet at seven</body>
+    </message>
+    <message id="m0008" time="2014-11-06 20:23:26 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0009" time="2014-11-06 20:31:01 UTC" participant="152123">
+      <body>Cool see you then</body>
+    </message>
+    <message id="m0010" time="2014-11-06 20:54:59 UTC" participant="153244">
+      <body>K.. Steph can come? </body>
+    </message>
+    <message id="m0011" time="2014-11-06 20:57:09 UTC" participant="152123">
+      <body>Sure</body>
+    </message>
+    <message id="m0012" time="2014-11-06 21:01:10 UTC" participant="153244">
+      <body>Ok cool</body>
+    </message>
+    <message id="m0013" time="2014-11-06 22:15:29 UTC" participant="152123">
+      <body>Can Steph make it at seven too?</body>
+    </message>
+    <message id="m0014" time="2014-11-06 22:32:35 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0015" time="2014-11-06 22:32:48 UTC" participant="152123">
+      <body>K just checking</body>
+    </message>
+  </messages>
+</conversation>
+

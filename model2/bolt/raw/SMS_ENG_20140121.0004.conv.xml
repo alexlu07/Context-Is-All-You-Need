@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140121.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-21 02:42:32 UTC" participant="153451">
+      <body>Yo not sure what the weather will be like tomorrow so might not go to nomikai. Just letting you know. </body>
+    </message>
+    <message id="m0001" time="2014-01-21 02:52:16 UTC" participant="153418">
+      <body>Heard it's suppose to snow, so yeah. </body>
+    </message>
+    <message id="m0002" time="2014-01-21 03:07:32 UTC" participant="153451">
+      <body>Yeah</body>
+    </message>
+    <message id="m0003" time="2014-01-21 14:48:12 UTC" participant="153451">
+      <body>Yup not going to the nomikai. Did you get off?</body>
+    </message>
+    <message id="m0004" time="2014-01-21 14:48:43 UTC" participant="153418">
+      <body>No, I'm at work. You got off?</body>
+    </message>
+    <message id="m0005" time="2014-01-21 14:49:34 UTC" participant="153451">
+      <body>Yeah they closed my job. But I don't get paid.</body>
+    </message>
+  </messages>
+</conversation>
+

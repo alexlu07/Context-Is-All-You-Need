@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130615.0047" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-15 19:21:37 UTC">
+      <body>Confirming you're coming at 5?</body>
+    </message>
+    <message id="m0001" participant="131505" time="2013-06-15 19:25:02 UTC">
+      <body>Yes.  Will leave here at 4:30 pm.  Bringing fresh corn, kefir, grapes for kids.   Champagne for you. </body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-15 19:39:20 UTC">
+      <body>Thanks!! Dirt?</body>
+    </message>
+    <message id="m0003" participant="131505" time="2013-06-15 19:46:07 UTC">
+      <body>Probably not.  Just took a bath.  I'll bring one container, if i can manage it.</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-15 19:46:29 UTC">
+      <body>Don't worry.</body>
+    </message>
+  </messages>
+</conversation>

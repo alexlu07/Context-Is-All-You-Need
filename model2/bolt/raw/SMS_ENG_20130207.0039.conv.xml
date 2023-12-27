@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130207.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-02-07 00:13:23 UTC" participant="152428">
+      <body>Tax documents at home</body>
+    </message>
+    <message id="m0001" time="2013-02-07 01:13:03 UTC" participant="152417">
+      <body>From who?</body>
+    </message>
+    <message id="m0002" time="2013-02-07 01:16:32 UTC" participant="152428">
+      <body>Don't know</body>
+    </message>
+  </messages>
+</conversation>
+

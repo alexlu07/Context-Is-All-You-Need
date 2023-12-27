@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140304.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-04 23:18:11 UTC" participant="152428">
+      <body>Home yet?</body>
+    </message>
+    <message id="m0001" time="2014-03-04 23:18:38 UTC" participant="152417">
+      <body>Two more hours, i finished my transcribing</body>
+    </message>
+    <message id="m0002" time="2014-03-05 17:12:32 UTC" participant="152428">
+      <body>Hello from sunny Salt Lake City</body>
+    </message>
+  </messages>
+</conversation>
+

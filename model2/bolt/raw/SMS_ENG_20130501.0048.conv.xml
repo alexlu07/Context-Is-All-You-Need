@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130501.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137359" time="2013-05-01 14:03:34 UTC">
+      <body>Free ATT Msg: Your bill is past due. Reply 1 to pay balance of $717.56 now or 2 to pay past due of $309.66 now using bank acct ending in 7029.</body>
+    </message>
+    <message id="m0001" participant="132437" time="2013-05-01 14:08:27 UTC">
+      <body>Do you know anything about this? </body>
+    </message>
+  </messages>
+</conversation>

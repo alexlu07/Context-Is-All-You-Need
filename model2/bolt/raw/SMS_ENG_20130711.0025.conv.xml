@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130711.0025" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130661" time="2013-07-11 23:11:16 UTC">
+      <body>Hi there</body>
+    </message>
+    <message id="m0001" participant="131837" time="2013-07-11 23:12:54 UTC">
+      <body>Hello grawp. I'm going to listen to music behind an Asian food mart in Minneapolis. What are your evening plans?</body>
+    </message>
+    <message id="m0002" participant="130661" time="2013-07-11 23:36:30 UTC">
+      <body>That sounds interesting. I'm mostly planning to laze around, read a book. What kind of music does one listen to behind an Asian food mart?</body>
+    </message>
+  </messages>
+</conversation>

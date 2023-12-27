@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0051" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-07-08 02:19:15 UTC">
+      <body>hey, did you have any idea on time tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136138" time="2013-07-08 02:59:10 UTC">
+      <body>Be ready around 10ish. I wanna leave sarahs at 8ish. I would like your address though</body>
+    </message>
+    <message id="m0003" participant="136138" time="2013-07-08 11:56:14 UTC">
+      <body>Can you give me your adress again</body>
+    </message>
+    <message id="m0005" participant="136138" time="2013-07-08 12:16:55 UTC">
+      <body>Eta 1010</body>
+    </message>
+    <message id="m0006" participant="136112" time="2013-07-08 12:17:12 UTC">
+      <body>kk, see you soon! </body>
+    </message>
+    <message id="m0007" participant="136112" time="2013-07-08 14:03:37 UTC">
+      <body>let me know when you're getting close! </body>
+    </message>
+    <message id="m0008" participant="136138" time="2013-07-08 14:04:09 UTC">
+      <body>Im close</body>
+    </message>
+    <message id="m0009" participant="136138" time="2013-07-08 14:07:59 UTC">
+      <body>Here</body>
+    </message>
+  </messages>
+</conversation>

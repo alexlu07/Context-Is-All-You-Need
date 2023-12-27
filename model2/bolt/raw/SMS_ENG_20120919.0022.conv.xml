@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120919.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-19 22:09:08 UTC" participant="152374">
+      <body>You good for tomorrow night?</body>
+    </message>
+    <message id="m0001" time="2012-09-20 01:37:34 UTC" participant="152378">
+      <body>Hey sorry.  Yeah I'm good just not sure of the time</body>
+    </message>
+    <message id="m0002" time="2012-09-20 01:38:46 UTC" participant="152374">
+      <body>That's okay. I have no idea when I'll make it into town and manage to park my car! How about I let you know when I'm settled in and we take it from there</body>
+    </message>
+    <message id="m0003" time="2012-09-20 01:39:12 UTC" participant="152378">
+      <body>Deal</body>
+    </message>
+  </messages>
+</conversation>
+

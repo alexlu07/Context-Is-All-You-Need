@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140207.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-07 22:00:51 UTC" participant="153548">
+      <body>Hey!!! I came home early because I'm scared of getting snowed in nY. You guys can come to the house Sunday or we will drive out there and meet you for lunch!</body>
+    </message>
+    <message id="m0001" time="2014-02-07 22:08:15 UTC" participant="153632">
+      <body>Dad wants to wait until next saturday</body>
+    </message>
+    <message id="m0002" time="2014-02-07 22:08:42 UTC" participant="153548">
+      <body>Aww man! I'll def be in LA next week.</body>
+    </message>
+    <message id="m0003" time="2014-02-07 22:11:12 UTC" participant="153632">
+      <body>Aww okay sorry</body>
+    </message>
+    <message id="m0004" time="2014-02-07 22:43:24 UTC" participant="153548">
+      <body>Oh well next time!</body>
+    </message>
+  </messages>
+</conversation>
+

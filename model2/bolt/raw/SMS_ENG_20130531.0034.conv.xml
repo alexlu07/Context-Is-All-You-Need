@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130531.0034" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131972" time="2013-05-31 14:49:02 UTC">
+      <body>Hey Jeremy; did u end up going up to the Mann to apply this week? </body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-05-31 15:25:28 UTC">
+      <body>Yeah, went and talked with Diane </body>
+    </message>
+    <message id="m0002" participant="131972" time="2013-05-31 15:27:52 UTC">
+      <body>Ok great. Are you in for the summer? I kinda wish i went down there</body>
+    </message>
+    <message id="m0003" participant="131964" time="2013-05-31 15:40:42 UTC">
+      <body>She didn't make any promises, so we'll see</body>
+    </message>
+    <message id="m0004" participant="131972" time="2013-05-31 15:42:55 UTC">
+      <body>Hrm. Well hopefully then.  </body>
+    </message>
+  </messages>
+</conversation>

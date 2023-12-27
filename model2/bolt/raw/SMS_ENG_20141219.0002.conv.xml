@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141219.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-19 21:13:57 UTC" participant="152115">
+      <body>Ok. I know you love caramel apples.</body>
+    </message>
+    <message id="m0001" time="2014-12-19 21:14:41 UTC" participant="152116">
+      <body>Was that your Pollyanna?</body>
+    </message>
+    <message id="m0002" time="2014-12-19 21:15:07 UTC" participant="152115">
+      <body>Haha. No. I just walked in the break room and saw it. I don't know</body>
+    </message>
+    <message id="m0003" time="2014-12-19 21:15:29 UTC" participant="152116">
+      <body>Haha okay</body>
+    </message>
+    <message id="m0004" time="2014-12-19 21:15:35 UTC" participant="152116">
+      <body>What did you get</body>
+    </message>
+    <message id="m0005" time="2014-12-19 21:27:41 UTC" participant="152115">
+      <body>Pollyanna is on Monday.</body>
+    </message>
+    <message id="m0006" time="2014-12-19 21:28:24 UTC" participant="152116">
+      <body>Oh I thought it was today</body>
+    </message>
+    <message id="m0007" time="2014-12-19 21:28:31 UTC" participant="152116">
+      <body>I thought you brought your stuff</body>
+    </message>
+    <message id="m0008" time="2014-12-19 21:29:42 UTC" participant="152115">
+      <body>Yeah. Just to make sure I have it. I thought I had to hand it in but it's just in my locker.</body>
+    </message>
+    <message id="m0009" time="2014-12-19 21:43:24 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0010" time="2014-12-20 19:32:18 UTC" participant="152116">
+      <body>Do you want me to move?</body>
+    </message>
+    <message id="m0011" time="2014-12-20 19:32:41 UTC" participant="152115">
+      <body>It's ok for now.</body>
+    </message>
+    <message id="m0012" time="2014-12-20 19:33:24 UTC" participant="152115">
+      <body>But I will ask you to move some time before six so I can start getting ready.</body>
+    </message>
+    <message id="m0013" time="2014-12-20 19:35:26 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0014" time="2014-12-20 20:22:16 UTC" participant="152115">
+      <body>Do you want to use my lap top?</body>
+    </message>
+    <message id="m0015" time="2014-12-20 20:29:55 UTC" participant="152116">
+      <body>Why</body>
+    </message>
+    <message id="m0016" time="2014-12-20 20:30:11 UTC" participant="152115">
+      <body>I heard you were having issues</body>
+    </message>
+    <message id="m0017" time="2014-12-20 20:32:04 UTC" participant="152116">
+      <body>Haha eavesdropping</body>
+    </message>
+    <message id="m0018" time="2014-12-20 20:32:30 UTC" participant="152115">
+      <body>Can't help it. You're loud.</body>
+    </message>
+  </messages>
+</conversation>
+

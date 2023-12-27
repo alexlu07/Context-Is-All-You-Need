@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130509.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130622" time="2013-05-09 21:26:47 UTC">
+      <body>U still bored?</body>
+    </message>
+    <message id="m0001" participant="135480" time="2013-05-09 21:49:42 UTC">
+      <body>Haha. I went home. Not going to class. </body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-05-09 22:03:10 UTC">
+      <body>I'm so tired </body>
+    </message>
+    <message id="m0003" participant="130622" time="2013-05-09 22:03:33 UTC">
+      <body>I can't wait to go home. Have fun </body>
+    </message>
+  </messages>
+</conversation>

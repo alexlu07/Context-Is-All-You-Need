@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0069" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-06 19:50:04 UTC">
+      <body>if you're in the studio at 5 could you put the second peep in the oval kiln? anna said you'd been planning to come today </body>
+    </message>
+    <message id="m0001" participant="136161" time="2013-04-06 21:05:12 UTC">
+      <body>Yup, got it</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-06 21:05:22 UTC">
+      <body>thanks!! </body>
+    </message>
+  </messages>
+</conversation>

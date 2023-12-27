@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130428.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135265" time="2013-04-28 16:55:01 UTC">
+      <body>So tonight is our last chance to have sunday Bryn din. I know you h</body>
+    </message>
+    <message id="m0001" participant="135265" time="2013-04-28 16:55:07 UTC">
+      <body>ave a lot of work but I'd really appreciate your company at dinner </body>
+    </message>
+    <message id="m0002" participant="135265" time="2013-04-28 16:55:11 UTC">
+      <body>tonight. :)</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-04-28 21:06:02 UTC">
+      <body>I'm coming!</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-04-28 21:06:28 UTC">
+      <body>I'm getting on at stokes</body>
+    </message>
+    <message id="m0005" participant="135265" time="2013-04-29 17:46:14 UTC">
+      <body>6 din?</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131202.0011" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-02 21:15:44 UTC" participant="153601">
+      <body>Hi are you around? If so want to take a little walk w jacket, ruby and me?</body>
+    </message>
+    <message id="m0001" time="2013-12-02 21:24:28 UTC" participant="153548">
+      <body>Hey!! I am right by your house!</body>
+    </message>
+    <message id="m0002" time="2013-12-02 21:24:46 UTC" participant="153548">
+      <body>Just leaving my studio.</body>
+    </message>
+    <message id="m0004" time="2013-12-02 21:26:11 UTC" participant="153601">
+      <body>Yay! We're still at home. See you in a few</body>
+    </message>
+    <message id="m0005" time="2013-12-02 21:26:24 UTC" participant="153601">
+      <body>Just come here? I am finishing up nursing rubes</body>
+    </message>
+    <message id="m0006" time="2013-12-02 21:26:30 UTC" participant="153548">
+      <body>Awesome. I'll walk toward your place.</body>
+    </message>
+    <message id="m0007" time="2013-12-02 21:28:14 UTC" participant="153548">
+      <body>Yeah! I ll be out front when you are done.</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140611.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-11 21:09:46 UTC" participant="153418">
+      <body>Hey, I can't get LINE to work since I don't have data access right now.</body>
+    </message>
+    <message id="m0001" time="2014-06-11 21:10:50 UTC" participant="153457">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-06-11 21:11:45 UTC" participant="153418">
+      <body>Quick questions.
+
+How do you want to pay the renter's insurance premium?  We can do it quarterly or annually.
+
+Also, you're not willing to switch auto insurance providers, right? The insurance agent asked.</body>
+    </message>
+    <message id="m0003" time="2014-06-11 21:44:06 UTC" participant="153457">
+      <body>Right. Annually sounds good to me</body>
+    </message>
+    <message id="m0004" time="2014-06-11 21:49:33 UTC" participant="153418">
+      <body>That's what I thought. Just making sure.</body>
+    </message>
+    <message id="m0005" time="2014-06-11 21:51:07 UTC" participant="153418">
+      <body>You're welcome.</body>
+    </message>
+  </messages>
+</conversation>
+

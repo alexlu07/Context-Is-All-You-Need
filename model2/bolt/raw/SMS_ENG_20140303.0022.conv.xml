@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140303.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-03 21:19:21 UTC" participant="152374">
+      <body>Have you heard from ####? I haven't yet</body>
+    </message>
+    <message id="m0001" time="2014-03-03 21:19:52 UTC" participant="154093">
+      <body>Nope havnt heard, ### asked if we were going though</body>
+    </message>
+    <message id="m0002" time="2014-03-03 23:24:16 UTC" participant="154093">
+      <body>Still havnt heard back from ####, but would still like to go out, how about you</body>
+    </message>
+    <message id="m0003" time="2014-03-03 23:38:58 UTC" participant="152374">
+      <body>I heard from ######. #### is working late tonight so I guess no go. I could go either way really. I have a paper to write</body>
+    </message>
+    <message id="m0004" time="2014-03-03 23:39:47 UTC" participant="154093">
+      <body>I'll leave it up to you, if you have a paper to write</body>
+    </message>
+    <message id="m0005" time="2014-03-03 23:40:40 UTC" participant="152374">
+      <body>Are you OK with a last minute decision? Let me see what kind of dent I can put in it in the next hour or so. Not really in the mood for lemon Hill though</body>
+    </message>
+    <message id="m0006" time="2014-03-03 23:41:17 UTC" participant="154093">
+      <body>I'm okay with last minute, where are you thinking</body>
+    </message>
+    <message id="m0007" time="2014-03-03 23:41:44 UTC" participant="152374">
+      <body>Somewhere very nearby. ########## maybe?</body>
+    </message>
+    <message id="m0008" time="2014-03-03 23:42:25 UTC" participant="154093">
+      <body>Sounds good, I'm gonna let ### know, maybe she will still come out</body>
+    </message>
+    <message id="m0009" time="2014-03-03 23:42:32 UTC" participant="152374">
+      <body>Ok</body>
+    </message>
+    <message id="m0010" time="2014-03-04 00:09:17 UTC" participant="154093">
+      <body>### is out</body>
+    </message>
+    <message id="m0011" time="2014-03-04 01:04:45 UTC" participant="152374">
+      <body>Do you mind if we raincheck this? I'm actually on a bit of a roll with this stupid paper and I'd like to finish it off tonight</body>
+    </message>
+    <message id="m0012" time="2014-03-04 01:05:07 UTC" participant="154093">
+      <body>No problem</body>
+    </message>
+  </messages>
+</conversation>
+

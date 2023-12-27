@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120325.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135093" time="2012-03-25 15:42:56 UTC">
+      <body>When u get here do u want to come up to my place to drop off stuff or should I meet u downtown where the bus drops u?</body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-25 15:44:51 UTC">
+      <body>You should meet us downtown, we packed light :)</body>
+    </message>
+    <message id="m0003" participant="135093" time="2012-03-25 15:45:04 UTC">
+      <body>Perfect! 2pm on 28 th street right?</body>
+    </message>
+    <message id="m0004" participant="131839" time="2012-03-25 15:57:56 UTC">
+      <body>Actually 2:30 and yep 7th and 28th</body>
+    </message>
+    <message id="m0005" participant="135093" time="2012-03-25 16:12:48 UTC">
+      <body>Do u have anything in particular u would like to do? It might be crazy because it's Greek independence day, not sure when the parade is?</body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-03-25 16:14:15 UTC">
+      <body>No, just maybe like a cheapish happy hour? it looks like our bus might be late...</body>
+    </message>
+    <message id="m0007" participant="135093" time="2012-03-25 16:14:56 UTC">
+      <body>Ok! I will do some research :)</body>
+    </message>
+    <message id="m0008" participant="131839" time="2012-03-25 16:24:34 UTC">
+      <body>Just kidding - we're on track :)</body>
+    </message>
+    <message id="m0009" participant="131839" time="2012-03-25 16:35:44 UTC">
+      <body>Time wise I mean</body>
+    </message>
+    <message id="m0010" participant="135093" time="2012-03-25 17:53:04 UTC">
+      <body>Headed downtown now - should be there in 20</body>
+    </message>
+    <message id="m0011" participant="131839" time="2012-03-25 17:53:28 UTC">
+      <body>Oh ok, we'll be there at 230 so don't rush</body>
+    </message>
+    <message id="m0012" participant="135093" time="2012-03-25 17:55:12 UTC">
+      <body>Perfect!</body>
+    </message>
+    <message id="m0013" participant="131839" time="2012-03-25 18:39:56 UTC">
+      <body>Couple blocks away!</body>
+    </message>
+  </messages>
+</conversation>

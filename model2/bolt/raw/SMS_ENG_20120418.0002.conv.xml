@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120418.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2012-04-18 03:41:21 UTC">
+      <body>My hearts really hurt. Could use some kind words</body>
+    </message>
+    <message id="m0001" participant="135107" time="2012-04-18 03:41:52 UTC">
+      <body>You're the most creative person I've ever met</body>
+    </message>
+    <message id="m0002" participant="135107" time="2012-04-18 14:36:48 UTC">
+      <body>Are you awake</body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-04-18 16:04:58 UTC">
+      <body>I'm in school, what's up?</body>
+    </message>
+    <message id="m0004" participant="135107" time="2012-04-18 16:08:32 UTC">
+      <body>Wanted to talk about your hurt heart</body>
+    </message>
+    <message id="m0005" participant="135107" time="2012-04-18 16:10:40 UTC">
+      <body>I understand </body>
+    </message>
+    <message id="m0006" participant="131839" time="2012-04-18 16:11:45 UTC">
+      <body>Man, can't right now - I'm rehearsing music during lunch</body>
+    </message>
+  </messages>
+</conversation>

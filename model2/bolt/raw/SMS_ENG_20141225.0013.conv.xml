@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141225.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-25 20:12:18 UTC" participant="153432">
+      <body>Merry christmas!</body>
+    </message>
+    <message id="m0001" time="2014-12-25 20:12:37 UTC" participant="153417">
+      <body>Merry Christmas !!!!</body>
+    </message>
+    <message id="m0002" time="2014-12-25 20:12:58 UTC" participant="153432">
+      <body>Hope you're having a good day dork!</body>
+    </message>
+    <message id="m0003" time="2014-12-25 20:13:12 UTC" participant="153417">
+      <body>You too loser.</body>
+    </message>
+  </messages>
+</conversation>
+

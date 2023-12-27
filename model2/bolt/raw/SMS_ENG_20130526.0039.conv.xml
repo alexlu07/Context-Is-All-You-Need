@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130526.0039" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131403" time="2013-05-26 16:39:28 UTC">
+      <body>Need to get Lily and Dexter groomed.  When can you do it?</body>
+    </message>
+    <message id="m0001" participant="131416" time="2013-05-26 19:37:19 UTC">
+      <body>I will be home Tuesday and will double check my book but I think I have Wednesday</body>
+    </message>
+    <message id="m0002" participant="131403" time="2013-05-26 19:39:15 UTC">
+      <body>I'll put down Wednesday and if we have to change, we can do that. What time do you want them since its summer hours now</body>
+    </message>
+    <message id="m0003" participant="131416" time="2013-05-26 20:18:08 UTC">
+      <body>9 is still good for me</body>
+    </message>
+    <message id="m0004" participant="131403" time="2013-05-26 20:19:55 UTC">
+      <body>Works for us. </body>
+    </message>
+  </messages>
+</conversation>

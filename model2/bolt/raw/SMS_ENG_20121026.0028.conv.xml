@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121026.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-10-26 23:11:05 UTC">
+      <body>Are you going to the improv show tonight?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-26 23:31:05 UTC">
+      <body>I think I'm going to the chorus concert instead</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-26 23:35:55 UTC">
+      <body>Actually we changed our minds back to the improv show</body>
+    </message>
+    <message id="m0003" participant="136277" time="2012-10-26 23:36:05 UTC">
+      <body>Whyyyyy come its your room mateee </body>
+    </message>
+    <message id="m0004" participant="136277" time="2012-10-26 23:36:20 UTC">
+      <body>Sickkk </body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-10-26 23:38:15 UTC">
+      <body>Yeahhh ill try to find you and ur fan</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-10-26 23:38:22 UTC">
+      <body>*fam</body>
+    </message>
+    <message id="m0007" participant="136277" time="2012-10-26 23:38:54 UTC">
+      <body>Where R you then?</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-10-26 23:39:33 UTC">
+      <body>We are just finishing dinner. We are on our way!</body>
+    </message>
+    <message id="m0009" participant="136277" time="2012-10-26 23:41:53 UTC">
+      <body>Kk </body>
+    </message>
+  </messages>
+</conversation>

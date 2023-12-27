@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131282" time="2013-03-03 16:01:18 UTC">
+      <body>just leaving now</body>
+    </message>
+    <message id="m0001" participant="131282" time="2013-03-03 16:01:38 UTC">
+      <body>will take me 15 mins</body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-03-03 16:19:38 UTC">
+      <body>Come inside?</body>
+    </message>
+    <message id="m0003" participant="131282" time="2013-03-03 16:23:09 UTC">
+      <body>ok, just got here</body>
+    </message>
+  </messages>
+</conversation>

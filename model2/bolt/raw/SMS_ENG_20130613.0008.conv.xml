@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0008" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130794" time="2013-06-13 14:18:43 UTC">
+      <body>Hi. How are you?</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-06-13 14:18:51 UTC">
+      <body>Sup, khhsk?</body>
+    </message>
+    <message id="m0002" participant="130562" time="2013-06-13 14:19:35 UTC">
+      <body>Just waking up - didnt go to bed til 730am</body>
+    </message>
+    <message id="m0003" participant="130794" time="2013-06-13 14:19:49 UTC">
+      <body>Not too much, yourself?</body>
+    </message>
+    <message id="m0004" participant="130562" time="2013-06-13 20:11:07 UTC">
+      <body>Really beat - now I'm at work</body>
+    </message>
+  </messages>
+</conversation>

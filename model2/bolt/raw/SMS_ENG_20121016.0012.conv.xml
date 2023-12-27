@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121016.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-16 21:43:17 UTC">
+      <body>Are you back yet?</body>
+    </message>
+    <message id="m0001" participant="136292" time="2012-10-16 21:43:52 UTC">
+      <body>Nooo be back around ten tonight</body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-16 21:44:14 UTC">
+      <body>Okayyyyy ill come see you the </body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-16 21:44:22 UTC">
+      <body>*then</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-10-17 14:53:57 UTC">
+      <body>Are you feeling better today</body>
+    </message>
+    <message id="m0005" participant="136292" time="2012-10-17 15:37:18 UTC">
+      <body>aw Yes :) my voice is finally coming back. i was so glad to have a  break!</body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-10-17 15:46:35 UTC">
+      <body>Good! When are you done with classes today?</body>
+    </message>
+    <message id="m0007" participant="136292" time="2012-10-17 15:47:48 UTC">
+      <body>Two!</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-10-17 15:56:55 UTC">
+      <body>Yay! I need help with my life</body>
+    </message>
+    <message id="m0009" participant="136292" time="2012-10-17 16:41:15 UTC">
+      <body>Okeeday </body>
+    </message>
+    <message id="m0010" participant="136292" time="2012-10-17 18:05:26 UTC">
+      <body>Heya i'm returning something at the library but i'll be back in Dobbs soon</body>
+    </message>
+  </messages>
+</conversation>

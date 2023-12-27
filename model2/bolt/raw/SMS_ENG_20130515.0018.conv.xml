@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0018" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130616" time="2013-05-15 11:04:55 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-05-15 11:06:14 UTC">
+      <body>This is my first conversation. :)</body>
+    </message>
+    <message id="m0002" participant="130616" time="2013-05-15 11:06:35 UTC">
+      <body>Well. On here I mean.</body>
+    </message>
+    <message id="m0003" participant="130526" time="2013-05-15 14:13:12 UTC">
+      <body>Hi! I'm at the airport, heading home from France on way to another meeting</body>
+    </message>
+    <message id="m0004" participant="130616" time="2013-05-15 14:23:32 UTC">
+      <body>Ahh! I've never been to France to be honest. What's it like there?</body>
+    </message>
+    <message id="m0005" participant="130526" time="2013-05-15 14:28:27 UTC">
+      <body>I was in Lyon this time for a business meeting. It's lovely and the food is fantastic. What's the most interesting place you've ever traveled?</body>
+    </message>
+    <message id="m0006" participant="130616" time="2013-05-15 14:34:26 UTC">
+      <body>Probably Ireland and/or Scotland. Pretty rough tie between those. Went there for choir and I'd love to go back some time.</body>
+    </message>
+    <message id="m0007" participant="130526" time="2013-05-15 15:48:42 UTC">
+      <body>Ooh, where did u go in Scotland? I was in Edinburgh a few yrs ago and loved it</body>
+    </message>
+    <message id="m0008" participant="130616" time="2013-05-15 16:07:49 UTC">
+      <body>Edinburgh as well and we did some hiking but spent most of it in a bus. :'(</body>
+    </message>
+    <message id="m0009" participant="130526" time="2013-05-15 16:15:37 UTC">
+      <body>Like a tour bus?</body>
+    </message>
+    <message id="m0010" participant="130526" time="2013-05-15 16:16:17 UTC">
+      <body>I was there for a conference but had a couple days for sightseeing</body>
+    </message>
+    <message id="m0011" participant="130526" time="2013-05-15 16:17:14 UTC">
+      <body>I've never been to Ireland but its up there on my list</body>
+    </message>
+    <message id="m0012" participant="130616" time="2013-05-15 18:07:33 UTC">
+      <body>Oh no. Sort of like a charter bus. It was a school choir trip! And Ireland is gorgeous. All I could think when I got back was that our grass just wasn'tgreen enough. Haha.</body>
+    </message>
+    <message id="m0013" participant="130526" time="2013-05-15 18:09:06 UTC">
+      <body>Oh, like a school trip. I never got to do one of those. Sounds like it could be either awesome or hellish</body>
+    </message>
+    <message id="m0014" participant="130526" time="2013-05-15 18:09:15 UTC">
+      <body>But had to have a bad time in Ireland I guess</body>
+    </message>
+    <message id="m0015" participant="130526" time="2013-05-15 18:09:46 UTC">
+      <body>Hard to have a bad time, I meant</body>
+    </message>
+  </messages>
+</conversation>

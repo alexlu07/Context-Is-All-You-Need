@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140223.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-02-23 03:00:50 UTC" participant="152116">
+      <body>From Sam:</body>
+    </message>
+    <message id="m0001" time="2014-02-23 03:00:52 UTC" participant="152116">
+      <body>Hey guys, so I was wondering if you wanted to do breakfast tomorrow? There's a new cafe down Passyunk called Chhaya that I wanted to check out. If not, maybe Black and Brew?</body>
+    </message>
+    <message id="m0002" time="2014-02-23 03:32:15 UTC" participant="152116">
+      <body>SAM: Yeah, I thought the waffles looked good! How about 10:00? (So you guys can sleep a little?) </body>
+    </message>
+    <message id="m0003" time="2014-02-23 08:36:18 UTC" participant="153491">
+      <body>Hey, I hope I don't wake you up with next text but if not now, it would be too late. So I'm literally in my car in the parking garage about to go HOME. I will not even attempt to convey how I'm feeling or what happened today, because quite frankly, I'm too tired. With this, I'm not sure I will be able to make breakfast tomorrow. 10 am may be too early for me at this point. I may want to sleep in (and there goes my sleeping sleep schedule!) F. I'm sorry, please let everyone know that also. Would have been nice. Who knows, maybe I'll pop up early enough to go, but as of right now, I want to be home in bed. I might be up for going out later in the  day. Maybe call me before you head out? If not, I'll contact you later. Alrighty, time for the drive back!!!</body>
+    </message>
+    <message id="m0004" time="2014-02-23 16:35:48 UTC" participant="153491">
+      <body>Yea, I definitely friggin' want to go out today!</body>
+    </message>
+    <message id="m0005" time="2014-02-23 16:37:35 UTC" participant="152116">
+      <body>Okay. Just let me know when</body>
+    </message>
+    <message id="m0006" time="2014-02-23 16:38:22 UTC" participant="153491">
+      <body>Are you all still eating breakfast?</body>
+    </message>
+    <message id="m0007" time="2014-02-23 16:46:35 UTC" participant="152116">
+      <body>No we just dropped Sam back off</body>
+    </message>
+  </messages>
+</conversation>
+

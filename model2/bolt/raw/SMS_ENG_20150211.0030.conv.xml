@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150211.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-11 23:06:07 UTC" participant="153804">
+      <body>Are you back in Philly yet?</body>
+    </message>
+    <message id="m0001" time="2015-02-11 23:06:29 UTC" participant="153558">
+      <body>Yes, amazingly</body>
+    </message>
+    <message id="m0002" time="2015-02-12 00:25:59 UTC" participant="153804">
+      <body>At least Sofie got 2 days off 4 her B'day!</body>
+    </message>
+    <message id="m0003" time="2015-02-12 01:31:39 UTC" participant="153558">
+      <body>She was working, as was I, just didn't have to go in to the school</body>
+    </message>
+  </messages>
+</conversation>
+

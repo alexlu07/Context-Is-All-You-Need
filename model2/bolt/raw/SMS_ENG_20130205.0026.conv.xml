@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130205.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131507" time="2013-02-05 21:02:50 UTC">
+      <body>Hey I didnt get pick today  for the case waited a couple hours to find out. But i have to check if i have to go in tomorrow. Could you tell dave. I will </body>
+    </message>
+    <message id="m0001" participant="130706" time="2013-02-05 21:03:13 UTC">
+      <body>Okay</body>
+    </message>
+    <message id="m0002" participant="131507" time="2013-02-05 21:03:56 UTC">
+      <body>send out another email after 5 pm in regards to my status.</body>
+    </message>
+    <message id="m0003" participant="130706" time="2013-02-05 21:04:39 UTC">
+      <body>Cool.</body>
+    </message>
+    <message id="m0004" participant="131507" time="2013-02-05 21:06:24 UTC">
+      <body>Thank you. </body>
+    </message>
+    <message id="m0005" participant="130706" time="2013-02-05 21:06:45 UTC">
+      <body>Np</body>
+    </message>
+    <message id="m0006" participant="131507" time="2013-02-06 12:59:10 UTC">
+      <body>Do u or dave want dunkin dnuts coffee?</body>
+    </message>
+    <message id="m0007" participant="131507" time="2013-02-06 13:00:31 UTC">
+      <body>Nvm I just left</body>
+    </message>
+    <message id="m0008" participant="130706" time="2013-02-06 13:01:05 UTC">
+      <body>We good. Thnx</body>
+    </message>
+    <message id="m0009" participant="131507" time="2013-02-06 13:02:44 UTC">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>

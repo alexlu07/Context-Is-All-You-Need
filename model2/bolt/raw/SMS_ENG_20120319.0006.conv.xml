@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120319.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135117" time="2012-03-19 01:02:11 UTC">
+      <body>It means a lot that you called. Thank you </body>
+    </message>
+    <message id="m0001" participant="135117" time="2012-03-19 02:00:34 UTC">
+      <body>Did you say tonight is better or tomorrow? I'm home now if you'd rather talk tonight </body>
+    </message>
+    <message id="m0002" participant="131839" time="2012-03-19 02:02:08 UTC">
+      <body>I said tomorrow but it may not be then. Sometime soon though</body>
+    </message>
+    <message id="m0003" participant="135117" time="2012-03-19 02:03:54 UTC">
+      <body>Ok sure. You let me know what's best for you.</body>
+    </message>
+  </messages>
+</conversation>

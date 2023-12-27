@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131122.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-22 22:26:45 UTC" participant="152118">
+      <body>Are you not coming out today?</body>
+    </message>
+    <message id="m0001" time="2013-11-22 22:26:56 UTC" participant="152118">
+      <body>Or is your phone still broken?</body>
+    </message>
+    <message id="m0002" time="2013-11-22 22:53:48 UTC" participant="152118">
+      <body>Hullo?</body>
+    </message>
+    <message id="m0003" time="2013-11-23 00:35:24 UTC" participant="152118">
+      <body>I'm about to go meet Sam and walk to Eden.</body>
+    </message>
+    <message id="m0004" time="2013-11-23 01:07:53 UTC" participant="153491">
+      <body>Okay, thanks.</body>
+    </message>
+  </messages>
+</conversation>
+

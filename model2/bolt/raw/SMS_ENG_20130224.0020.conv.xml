@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130224.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131488" time="2013-02-24 21:58:22 UTC">
+      <body>I'm at Piratz Tavern!</body>
+    </message>
+    <message id="m0001" participant="131450" time="2013-02-24 22:38:54 UTC">
+      <body>Great success!! Is it amazing??</body>
+    </message>
+    <message id="m0002" participant="131488" time="2013-02-24 22:57:51 UTC">
+      <body>Pretty deserted on a Sunday at 6 to be honest</body>
+    </message>
+    <message id="m0003" participant="131450" time="2013-02-24 23:00:40 UTC">
+      <body>Haha I can't say I'm shocked...</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150217.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-17 21:57:26 UTC" participant="152116">
+      <body>Hahaha you two look like a camel</body>
+    </message>
+    <message id="m0001" time="2015-02-18 02:31:07 UTC" participant="152116">
+      <body>Yeah it looks cool. So where are you staying? I thought Death Valley would be a one-day thing</body>
+    </message>
+    <message id="m0002" time="2015-02-18 02:53:23 UTC" participant="153418">
+      <body>Death Valley can be a one day thing, but I'd suggest at least 3, and 5 to get the most out of it.</body>
+    </message>
+    <message id="m0003" time="2015-02-18 02:54:56 UTC" participant="153418">
+      <body>We were in Vegas for 2 days, then Death Valley for 3 and a half.</body>
+    </message>
+    <message id="m0004" time="2015-02-18 02:55:20 UTC" participant="153418">
+      <body>Going to be in Davis and San Francisco for the next week.</body>
+    </message>
+  </messages>
+</conversation>
+

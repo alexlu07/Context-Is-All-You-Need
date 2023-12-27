@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120324.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131305" time="2012-03-24 22:51:47 UTC">
+      <body>Yo are you around tonight?</body>
+    </message>
+    <message id="m0001" participant="130692" time="2012-03-24 22:52:45 UTC">
+      <body>Prob. Sup?</body>
+    </message>
+  </messages>
+</conversation>

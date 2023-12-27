@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131204.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-04 21:45:04 UTC" participant="153557">
+      <body>Can I treat you to dinner tonight? For the boxes and cat sitting and painting.</body>
+    </message>
+    <message id="m0001" time="2013-12-04 21:48:29 UTC" participant="153557">
+      <body>You can get a meat stick at Choy Wong or a meat steak at Outback Steakhouse pizzeria.</body>
+    </message>
+    <message id="m0002" time="2013-12-04 22:13:35 UTC" participant="153547">
+      <body>Still working . Won't be home for a while. I would get Choy Wong I guess </body>
+    </message>
+    <message id="m0003" time="2013-12-04 22:15:37 UTC" participant="153557">
+      <body>Cool. I will order and pick up and bring to you just let me know what you want when you will be home.</body>
+    </message>
+    <message id="m0004" time="2013-12-04 23:10:33 UTC" participant="153547">
+      <body>I want large beef with broccoli no rice, very little brown sauce. Be home before 7</body>
+    </message>
+    <message id="m0005" time="2013-12-04 23:10:56 UTC" participant="153557">
+      <body>Cool. I'll order at 6:45 and head over around 7. See you soon.</body>
+    </message>
+    <message id="m0006" time="2013-12-04 23:41:19 UTC" participant="153547">
+      <body>Hey if u bring your computer we can watch a movie downstairs </body>
+    </message>
+    <message id="m0007" time="2013-12-04 23:42:56 UTC" participant="153557">
+      <body>Okay I will bring it. Yeah meet me! It might be okay but just in case. I'm leaving now.</body>
+    </message>
+    <message id="m0008" time="2013-12-04 23:43:19 UTC" participant="153547">
+      <body>Also I can meet u at Choy rhombus if you can't carry it</body>
+    </message>
+  </messages>
+</conversation>
+

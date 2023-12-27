@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130713.0018" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130693" time="2013-07-13 20:29:05 UTC">
+      <body>What jewlery store is ur connect in?</body>
+    </message>
+    <message id="m0001" participant="136664" time="2013-07-13 20:35:20 UTC">
+      <body>Tangs on jewelers row</body>
+    </message>
+  </messages>
+</conversation>

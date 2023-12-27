@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0061" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-01 00:06:34 UTC" participant="153472">
+      <body>looks like I won't be able to make it on the 23rd. I'm sorry. Wish I could!</body>
+    </message>
+    <message id="m0001" time="2013-03-01 00:07:15 UTC" participant="152374">
+      <body>That's okay. Dinner/drinks next week at least, maybe!</body>
+    </message>
+    <message id="m0002" time="2013-03-01 00:09:12 UTC" participant="153472">
+      <body>sounds good!</body>
+    </message>
+  </messages>
+</conversation>
+

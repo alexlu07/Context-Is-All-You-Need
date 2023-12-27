@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131127.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-27 15:28:00 UTC" participant="153661">
+      <body>You here yet? </body>
+    </message>
+    <message id="m0001" time="2013-11-27 15:29:20 UTC" participant="153548">
+      <body>Waiting for metro!</body>
+    </message>
+    <message id="m0002" time="2013-11-27 15:29:47 UTC" participant="153661">
+      <body>Oh there have been some delays I think on the red line. </body>
+    </message>
+    <message id="m0003" time="2013-11-27 15:29:56 UTC" participant="153661">
+      <body>I saw it on the news </body>
+    </message>
+    <message id="m0004" time="2013-11-27 15:30:08 UTC" participant="153661">
+      <body>But I'm not good with the whole metro thing. </body>
+    </message>
+    <message id="m0005" time="2013-11-27 15:30:08 UTC" participant="153661">
+      <body>Nice. When will you get to Vienna</body>
+    </message>
+    <message id="m0006" time="2013-11-27 15:30:16 UTC" participant="153548">
+      <body>Yeah it's been backed up but about to hop on orange line</body>
+    </message>
+    <message id="m0007" time="2013-11-27 15:31:43 UTC" participant="153548">
+      <body>Hopefully 30 minutes unless there are more delays. But orange line seems Ok!</body>
+    </message>
+    <message id="m0008" time="2013-11-27 15:32:16 UTC" participant="153661">
+      <body>Ok good. I'm only 20 minutes from the Vienna line right now. But I think hb is to excited to see you. Haha. </body>
+    </message>
+    <message id="m0009" time="2013-11-27 15:32:25 UTC" participant="153548">
+      <body>Should be there a few minutes after HB.</body>
+    </message>
+    <message id="m0010" time="2013-11-27 15:33:57 UTC" participant="153548">
+      <body>She is VERY excited! Aww. Well I will see you so soon!</body>
+    </message>
+    <message id="m0011" time="2013-11-27 15:34:24 UTC" participant="153661">
+      <body>Sounds good. I can't wait. </body>
+    </message>
+    <message id="m0012" time="2013-11-27 16:38:24 UTC" participant="153661">
+      <body>You make it yet?  </body>
+    </message>
+    <message id="m0013" time="2013-11-27 18:10:54 UTC" participant="153548">
+      <body>I made it! Lunching with you mom!</body>
+    </message>
+    <message id="m0014" time="2013-11-27 18:18:40 UTC" participant="153661">
+      <body>Oh exciting. I tried to call my mom but her phone is off. </body>
+    </message>
+    <message id="m0015" time="2013-11-28 00:55:10 UTC" participant="153661">
+      <body>My mom hates apple </body>
+    </message>
+    <message id="m0016" time="2013-11-28 00:55:37 UTC" participant="153548">
+      <body>Lol</body>
+    </message>
+  </messages>
+</conversation>
+

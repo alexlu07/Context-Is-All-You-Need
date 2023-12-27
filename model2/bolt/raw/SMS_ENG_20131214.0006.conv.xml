@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131214.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-14 16:51:00 UTC" participant="152734">
+      <body>Woof, I came &amp; went at the barn already! </body>
+    </message>
+    <message id="m0001" time="2013-12-14 17:21:57 UTC" participant="152734">
+      <body>Can we hack tomorrow if it's not terrible??</body>
+    </message>
+    <message id="m0002" time="2013-12-14 17:36:00 UTC" participant="153305">
+      <body>Yep!!!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121208.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-12-08 22:17:20 UTC">
+      <body>What are you doing tonight</body>
+    </message>
+    <message id="m0001" participant="136310" time="2012-12-08 22:34:40 UTC">
+      <body>Just gonna chill and study </body>
+    </message>
+    <message id="m0002" participant="136310" time="2012-12-08 22:41:04 UTC">
+      <body>Thanks you too :)</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-08 22:41:29 UTC">
+      <body>I feel you. Good luck with your work!</body>
+    </message>
+  </messages>
+</conversation>

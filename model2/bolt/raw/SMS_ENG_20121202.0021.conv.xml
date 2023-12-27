@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121202.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136267" time="2012-12-02 04:05:20 UTC">
+      <body>I'm at Longstreet. What bout you?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-12-02 04:06:08 UTC">
+      <body>Where'd you go</body>
+    </message>
+    <message id="m0002" participant="136267" time="2012-12-02 04:07:28 UTC">
+      <body>Me too!!!¡!!!!</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-12-02 04:07:46 UTC">
+      <body>Still at Dobbs. I think I'm going to zbt</body>
+    </message>
+    <message id="m0004" participant="136164" time="2012-12-02 04:08:45 UTC">
+      <body>Yaaáaãåaaaâæāÿyyÿy</body>
+    </message>
+    <message id="m0005" participant="136267" time="2012-12-03 00:19:12 UTC">
+      <body>Nope </body>
+    </message>
+    <message id="m0006" participant="136164" time="2012-12-03 00:19:35 UTC">
+      <body>Are you interested in being an SA next year?</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-12-03 00:20:33 UTC">
+      <body>Ok das kool</body>
+    </message>
+    <message id="m0008" participant="136164" time="2012-12-03 05:28:42 UTC">
+      <body>Good thing you decided to wear a shirt tonight</body>
+    </message>
+    <message id="m0009" participant="136164" time="2012-12-04 04:28:56 UTC">
+      <body>May I have some coffee tonight as well</body>
+    </message>
+    <message id="m0010" participant="136267" time="2012-12-04 04:31:50 UTC">
+      <body>Yessir </body>
+    </message>
+  </messages>
+</conversation>

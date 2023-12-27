@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140810.0026" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-10 15:15:43 UTC" participant="154895">
+      <body>Are you busy?</body>
+    </message>
+    <message id="m0001" time="2014-08-10 15:21:07 UTC" participant="153244">
+      <body>At a baby shower then work at 4:00</body>
+    </message>
+    <message id="m0002" time="2014-08-10 15:21:29 UTC" participant="154895">
+      <body>Ok nevermind</body>
+    </message>
+  </messages>
+</conversation>
+

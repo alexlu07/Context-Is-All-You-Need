@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150412.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-12 21:42:04 UTC" participant="153417">
+      <body>What days are you off this week?</body>
+    </message>
+    <message id="m0001" time="2015-04-12 21:49:24 UTC" participant="153423">
+      <body>Monday</body>
+    </message>
+    <message id="m0002" time="2015-04-12 21:52:42 UTC" participant="153417">
+      <body>Wanna go tomorrow?</body>
+    </message>
+    <message id="m0003" time="2015-04-12 21:54:08 UTC" participant="153423">
+      <body>Sure</body>
+    </message>
+    <message id="m0004" time="2015-04-12 21:54:08 UTC" participant="153423">
+      <body>Which one?</body>
+    </message>
+    <message id="m0005" time="2015-04-12 21:54:33 UTC" participant="153417">
+      <body>Doesn't matter. Your pick.</body>
+    </message>
+    <message id="m0006" time="2015-04-12 21:56:16 UTC" participant="153423">
+      <body>Ok I'm at work right now but I'll tell u tonight for sure</body>
+    </message>
+    <message id="m0007" time="2015-04-12 21:57:20 UTC" participant="153417">
+      <body>Okay</body>
+    </message>
+    <message id="m0008" time="2015-04-13 13:54:08 UTC" participant="153423">
+      <body>Wanna go at 2 or later</body>
+    </message>
+    <message id="m0009" time="2015-04-13 13:54:08 UTC" participant="153423">
+      <body>Ok</body>
+    </message>
+    <message id="m0010" time="2015-04-13 13:55:30 UTC" participant="153417">
+      <body>I'm done work at 2. Might need a few to get to your house but that's fine with me.</body>
+    </message>
+    <message id="m0011" time="2015-04-13 14:00:32 UTC" participant="153423">
+      <body>Do u want brunch or early dinner</body>
+    </message>
+    <message id="m0012" time="2015-04-13 14:40:19 UTC" participant="153417">
+      <body>Whichever you wanna do. As long as we get to go out lol</body>
+    </message>
+    <message id="m0013" time="2015-04-13 14:58:08 UTC" participant="153423">
+      <body>Yes outdoor dining</body>
+    </message>
+    <message id="m0014" time="2015-04-13 16:52:23 UTC" participant="153423">
+      <body>Where is the pharmacy</body>
+    </message>
+    <message id="m0015" time="2015-04-13 17:37:02 UTC" participant="153417">
+      <body>By the main entrance</body>
+    </message>
+    <message id="m0016" time="2015-04-13 17:47:27 UTC" participant="153423">
+      <body>We coming to pick u up</body>
+    </message>
+  </messages>
+</conversation>
+

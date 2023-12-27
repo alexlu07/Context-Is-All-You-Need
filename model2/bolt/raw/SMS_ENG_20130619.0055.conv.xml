@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130619.0055" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130706" time="2013-06-19 16:45:50 UTC">
+      <body>Happy Birthday!!</body>
+    </message>
+    <message id="m0001" participant="137390" time="2013-06-19 17:16:26 UTC">
+      <body>Why thank you sir :) Hugs to the fam! </body>
+    </message>
+    <message id="m0002" participant="130706" time="2013-06-19 17:19:21 UTC">
+      <body>You'll have to hug them for  me. As usual, traveling. In Tampa this week</body>
+    </message>
+    <message id="m0003" participant="137390" time="2013-06-19 17:21:02 UTC">
+      <body>Alas. Saw Kathy's post about the new job though. Congrats!!!!</body>
+    </message>
+    <message id="m0004" participant="130706" time="2013-06-19 17:21:19 UTC">
+      <body>Thanks!!</body>
+    </message>
+  </messages>
+</conversation>

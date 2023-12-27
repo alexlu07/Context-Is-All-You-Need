@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141025.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-10-25 13:37:06 UTC" participant="153547">
+      <body>Do u want me to get u coffee from tjs</body>
+    </message>
+    <message id="m0001" time="2014-10-25 13:39:53 UTC" participant="153557">
+      <body>I still have some right?</body>
+    </message>
+    <message id="m0002" time="2014-10-25 13:40:08 UTC" participant="153557">
+      <body>Like a half can?</body>
+    </message>
+    <message id="m0003" time="2014-10-25 13:41:04 UTC" participant="153547">
+      <body>I don't know. I haven't made any</body>
+    </message>
+    <message id="m0004" time="2014-10-25 13:41:46 UTC" participant="153557">
+      <body>I'm good! Thank you though!</body>
+    </message>
+    <message id="m0005" time="2014-10-26 02:25:08 UTC" participant="153557">
+      <body>Can you pick me up a snickers bar when you come back</body>
+    </message>
+  </messages>
+</conversation>
+

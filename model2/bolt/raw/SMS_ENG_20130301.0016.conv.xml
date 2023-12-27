@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130301.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130712" time="2013-03-01 03:22:48 UTC">
+      <body>Saw a house today and loved it. Can't wait to tell you about it! (Still some things to look into first.)</body>
+    </message>
+    <message id="m0001" participant="131023" time="2013-03-01 15:16:18 UTC">
+      <body>Ooohh!  Keep me posted, is there a link?  I think chatting Sunday will work for me this week.  How about you?</body>
+    </message>
+    <message id="m0002" participant="130712" time="2013-03-01 15:16:48 UTC">
+      <body>I'll send you the link! Busy Sunday. Can you still do.Monday?</body>
+    </message>
+    <message id="m0003" participant="131023" time="2013-03-01 15:17:57 UTC">
+      <body>Yes, no worries!  Xoxoxo</body>
+    </message>
+    <message id="m0004" participant="130712" time="2013-03-01 15:18:04 UTC">
+      <body>Great!</body>
+    </message>
+  </messages>
+</conversation>

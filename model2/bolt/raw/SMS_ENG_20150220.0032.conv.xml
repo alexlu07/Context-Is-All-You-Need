@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150220.0032" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-02-20 18:13:39 UTC" participant="153804">
+      <body>You guys staying warm down there? Doing any snowshoeing?</body>
+    </message>
+    <message id="m0001" time="2015-02-20 19:14:36 UTC" participant="153815">
+      <body>It's way too cold. No snow shoeing for awhile now. My Mom here visiting</body>
+    </message>
+    <message id="m0002" time="2015-02-20 19:17:18 UTC" participant="153804">
+      <body>Have a great visit!</body>
+    </message>
+  </messages>
+</conversation>
+

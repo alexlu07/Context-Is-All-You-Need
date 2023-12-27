@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150307.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-07 14:00:32 UTC" participant="152236">
+      <body>sorry that i can’t help you move. it’s just that i have so much driving and really want to leave sunday afternoon and night at the esplanade to relax before monday. do you understand?</body>
+    </message>
+    <message id="m0001" time="2015-03-07 14:26:33 UTC" participant="152212">
+      <body>I don't care</body>
+    </message>
+    <message id="m0002" time="2015-03-07 14:26:42 UTC" participant="152212">
+      <body>Of course I understand</body>
+    </message>
+    <message id="m0003" time="2015-03-07 14:26:49 UTC" participant="152212">
+      <body>Please chill I'm teaching </body>
+    </message>
+  </messages>
+</conversation>
+

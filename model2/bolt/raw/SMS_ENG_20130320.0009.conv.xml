@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130320.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2013-03-20 14:14:53 UTC">
+      <body>Losin it</body>
+    </message>
+    <message id="m0001" participant="131173" time="2013-03-20 14:17:35 UTC">
+      <body>I'm collecting it everywhere i go</body>
+    </message>
+    <message id="m0002" participant="130664" time="2013-03-20 14:18:40 UTC">
+      <body>School is tearing me down. </body>
+    </message>
+    <message id="m0003" participant="130664" time="2013-03-20 14:18:50 UTC">
+      <body>Have you seen Val?</body>
+    </message>
+    <message id="m0004" participant="131173" time="2013-03-20 14:19:05 UTC">
+      <body>Not yet</body>
+    </message>
+    <message id="m0005" participant="131173" time="2013-03-20 14:20:11 UTC">
+      <body>Tearing you down? Course  load?</body>
+    </message>
+    <message id="m0006" participant="130664" time="2013-03-20 14:22:01 UTC">
+      <body>Course load is irrelevant right now, peripheral. Trying to make giant life decisions. Feel like I've lost myself </body>
+    </message>
+    <message id="m0007" participant="131173" time="2013-03-20 14:23:23 UTC">
+      <body>Which decisions? </body>
+    </message>
+    <message id="m0008" participant="130664" time="2013-03-20 14:24:09 UTC">
+      <body>Major, summer internship, grad school. All of those things. </body>
+    </message>
+    <message id="m0009" participant="131173" time="2013-03-20 14:28:16 UTC">
+      <body>What is your current major? Denmark or not? Where are you thinking of going for grad?</body>
+    </message>
+    <message id="m0010" participant="131173" time="2013-03-20 14:28:16 UTC">
+      <body>Stress cloud?</body>
+    </message>
+    <message id="m0011" participant="130664" time="2013-03-20 14:57:04 UTC">
+      <body>I feel like I've abandoned social justice and gender for the favor of archaeology. I don't know what kind of life I want to have. </body>
+    </message>
+  </messages>
+</conversation>

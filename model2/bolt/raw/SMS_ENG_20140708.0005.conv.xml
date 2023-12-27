@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140708.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-08 15:43:14 UTC" participant="152735">
+      <body>Hi!</body>
+    </message>
+    <message id="m0001" time="2014-07-08 15:43:57 UTC" participant="152735">
+      <body>Sorry I missed your call! I've been having employment emergencies but they are all better now! May I call you this evening?</body>
+    </message>
+    <message id="m0002" time="2014-07-08 17:23:12 UTC" participant="152747">
+      <body>Oh do! Is after 7 ok? You're ok-employment and all?</body>
+    </message>
+    <message id="m0003" time="2014-07-08 18:31:00 UTC" participant="152735">
+      <body>Yes I'm fine! I had a little scare but my boss trusts me and I am fine. I made a stupid mistake but the world didn't end. I will call you at 7. Would you be interested in showing your paintings in the newly opened second floor of Vetri? For an upcoming first Friday? Or know people who would? Look it up- it is fancy.</body>
+    </message>
+  </messages>
+</conversation>
+

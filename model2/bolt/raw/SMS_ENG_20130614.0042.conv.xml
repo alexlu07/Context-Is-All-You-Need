@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130614.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137321" time="2013-06-14 06:53:20 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-06-14 06:57:36 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0002" participant="137321" time="2013-06-14 06:57:51 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-06-14 06:59:20 UTC">
+      <body>Managing? </body>
+    </message>
+    <message id="m0004" participant="137255" time="2013-06-14 07:00:02 UTC">
+      <body>And what brings ye gentleman caller on this fine evening? </body>
+    </message>
+    <message id="m0005" participant="137321" time="2013-06-14 07:00:16 UTC">
+      <body>Managing? Are you excited for Hannah to live with Kalev?</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-06-14 07:02:09 UTC">
+      <body>Yes, quite. On the one hand it sounds toxic but on the other hand it's going to be awesome </body>
+    </message>
+    <message id="m0007" participant="137321" time="2013-06-14 07:06:10 UTC">
+      <body>Okay. I'm excited too b</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-06-14 07:09:41 UTC">
+      <body>Okay? </body>
+    </message>
+    <message id="m0009" participant="137321" time="2013-06-14 07:10:22 UTC">
+      <body>Yes okay</body>
+    </message>
+    <message id="m0010" participant="137255" time="2013-06-14 07:10:49 UTC">
+      <body>Will that be all? </body>
+    </message>
+    <message id="m0011" participant="137321" time="2013-06-14 07:11:38 UTC">
+      <body>Well I just texted you to see how you were but yeah </body>
+    </message>
+    <message id="m0012" participant="137255" time="2013-06-14 07:11:57 UTC">
+      <body>Ah well I'm doing well. Are you doing well? </body>
+    </message>
+  </messages>
+</conversation>

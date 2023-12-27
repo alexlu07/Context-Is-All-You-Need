@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131001.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-01 13:37:04 UTC" participant="152503">
+      <body>We could use a hand down here today if you are available and interested</body>
+    </message>
+    <message id="m0001" time="2013-10-01 13:41:39 UTC" participant="152417">
+      <body>Im only free 1230-230, I can come then if its helpful</body>
+    </message>
+    <message id="m0002" time="2013-10-01 13:43:07 UTC" participant="152503">
+      <body>Yes please</body>
+    </message>
+    <message id="m0003" time="2013-10-02 00:53:00 UTC" participant="152503">
+      <body>Hey! Can you come in at 8 tomorrow? </body>
+    </message>
+    <message id="m0004" time="2013-10-02 00:56:06 UTC" participant="152417">
+      <body>Sure, i can stay til 430 if you need</body>
+    </message>
+    <message id="m0005" time="2013-10-02 02:03:44 UTC" participant="152503">
+      <body>Cool. Also there is a key for you at the restaurant </body>
+    </message>
+  </messages>
+</conversation>
+

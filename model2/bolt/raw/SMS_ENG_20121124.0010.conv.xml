@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121124.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130664" time="2012-11-24 12:04:58 UTC">
+      <body>Are you back in Philly? I miss u</body>
+    </message>
+    <message id="m0001" participant="131053" time="2012-11-24 14:15:58 UTC">
+      <body>I am love</body>
+    </message>
+    <message id="m0002" participant="130664" time="2012-11-24 15:36:23 UTC">
+      <body>Let me know when you can hang </body>
+    </message>
+    <message id="m0003" participant="131053" time="2012-11-24 15:36:53 UTC">
+      <body>K!</body>
+    </message>
+  </messages>
+</conversation>

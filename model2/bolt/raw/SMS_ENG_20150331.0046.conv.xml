@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150331.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-31 23:57:32 UTC" participant="153893">
+      <body>I ever get a sweat shirt</body>
+    </message>
+    <message id="m0001" time="2015-03-31 23:57:34 UTC" participant="153893">
+      <body>U</body>
+    </message>
+    <message id="m0002" time="2015-04-01 02:19:30 UTC" participant="153893">
+      <body>Med?</body>
+    </message>
+    <message id="m0003" time="2015-04-01 02:19:54 UTC" participant="153244">
+      <body>Small</body>
+    </message>
+  </messages>
+</conversation>
+

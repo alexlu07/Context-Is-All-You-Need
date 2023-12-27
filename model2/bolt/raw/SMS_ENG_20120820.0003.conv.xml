@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120820.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-08-20 03:45:25 UTC">
+      <body>Not yet</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-08-20 23:07:42 UTC">
+      <body>Hey, what's the plan for tonight?</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-08-20 23:21:24 UTC">
+      <body>5?</body>
+    </message>
+    <message id="m0003" participant="130712" time="2012-08-20 23:22:00 UTC">
+      <body>Works for me! Talk to you soon.</body>
+    </message>
+  </messages>
+</conversation>

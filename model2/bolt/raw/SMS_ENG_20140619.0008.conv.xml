@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140619.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-19 13:00:42 UTC" participant="153547">
+      <body>Hey we are stopping for Indian buffet on the way back home from virginia. Give me a text if u can make it</body>
+    </message>
+    <message id="m0001" time="2014-06-19 14:01:47 UTC" participant="153591">
+      <body>dang im at work in north md til 5ish</body>
+    </message>
+    <message id="m0002" time="2014-06-19 14:03:55 UTC" participant="153591">
+      <body>happy birthday :-) </body>
+    </message>
+    <message id="m0003" time="2014-06-19 15:46:04 UTC" participant="153547">
+      <body>Thanks, buffet guys name is bentah or benpah or something like that</body>
+    </message>
+    <message id="m0004" time="2014-06-19 15:46:41 UTC" participant="153591">
+      <body>awesome </body>
+    </message>
+  </messages>
+</conversation>
+

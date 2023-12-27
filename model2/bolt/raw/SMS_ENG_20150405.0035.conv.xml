@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150405.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-05 02:04:04 UTC" participant="153491">
+      <body>Where are you?</body>
+    </message>
+    <message id="m0001" time="2015-04-05 02:04:58 UTC" participant="154992">
+      <body>I'm at Cindy. Coming? </body>
+    </message>
+    <message id="m0002" time="2015-04-05 02:10:07 UTC" participant="153491">
+      <body>Yup. Did you tell Cindy?</body>
+    </message>
+    <message id="m0003" time="2015-04-05 02:15:36 UTC" participant="154992">
+      <body>Yes,I told you you're welcome lol</body>
+    </message>
+    <message id="m0004" time="2015-04-05 02:54:34 UTC" participant="153491">
+      <body>Can you send me the address? </body>
+    </message>
+    <message id="m0005" time="2015-04-06 01:41:19 UTC" participant="154992">
+      <body>Hey. I'm sorry if I was rude last night. No sleep and smash bros makes me pretty aggressive. I was gonna just direct you to the house then Cindy warned me that the group might be going bowling.</body>
+    </message>
+    <message id="m0006" time="2015-04-06 01:42:23 UTC" participant="153491">
+      <body>So I can't drop by if you all were going bowling?</body>
+    </message>
+    <message id="m0007" time="2015-04-06 01:43:17 UTC" participant="154992">
+      <body>No. Cindy was trying to convey that finding parking would be a hassle just to leave right after</body>
+    </message>
+    <message id="m0008" time="2015-04-06 01:43:48 UTC" participant="154992">
+      <body>If we were bowling it would've been better for you to just meet us there. </body>
+    </message>
+    <message id="m0009" time="2015-04-06 01:44:59 UTC" participant="153491">
+      <body>Gotcha. Thanks for the apology. It's fine.</body>
+    </message>
+    <message id="m0010" time="2015-04-06 01:46:44 UTC" participant="154992">
+      <body>No problem. It was just on my mind since I left. You guys enjoy the rest of the night? </body>
+    </message>
+    <message id="m0011" time="2015-04-06 01:47:21 UTC" participant="153491">
+      <body>Yea, stayed pretty late</body>
+    </message>
+    <message id="m0012" time="2015-04-06 01:47:28 UTC" participant="153491">
+      <body>I was exhausted.</body>
+    </message>
+    <message id="m0013" time="2015-04-06 01:47:50 UTC" participant="154992">
+      <body>I can't imagine. I was already running on fumes</body>
+    </message>
+    <message id="m0014" time="2015-04-06 01:54:43 UTC" participant="154992">
+      <body>Are ya ready for tomorrow? Or is it Tuesday when you start? </body>
+    </message>
+    <message id="m0015" time="2015-04-06 01:55:41 UTC" participant="153491">
+      <body>Tomorrow. And I feel like I'm going to have a panic arrack tonight.</body>
+    </message>
+    <message id="m0016" time="2015-04-06 01:56:06 UTC" participant="154992">
+      <body>I don't suppose I could help you prepare in any way? </body>
+    </message>
+    <message id="m0017" time="2015-04-06 02:00:30 UTC" participant="154992">
+      <body>You'll be fine. Like I said. They hired you and want you to be there. Just take deep breaths and remember you belong there. </body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130420.0045" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-20 01:07:10 UTC" participant="152554">
+      <body>So i couldnt out of work tomorrow so would there be some other time you want to meet to run over some cabaret material?</body>
+    </message>
+    <message id="m0001" time="2013-04-20 01:21:37 UTC" participant="152417">
+      <body>Sure, i can set aside anytime tomorrow</body>
+    </message>
+    <message id="m0002" time="2013-04-20 14:01:14 UTC" participant="152554">
+      <body>Could we meet after i finish up work? around 7?</body>
+    </message>
+    <message id="m0003" time="2013-04-20 14:10:03 UTC" participant="152417">
+      <body>Cool, see you then</body>
+    </message>
+    <message id="m0004" time="2013-04-20 22:58:39 UTC" participant="152554">
+      <body>Still a good time to come over?</body>
+    </message>
+    <message id="m0005" time="2013-04-20 23:03:33 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+    <message id="m0006" time="2013-04-20 23:08:08 UTC" participant="152417">
+      <body>Im gonna take my dogs out, if im not home ill be right back, back door will be open</body>
+    </message>
+    <message id="m0007" time="2013-04-20 23:08:57 UTC" participant="152554">
+      <body>Cool ill be by in a few</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150115.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-15 04:56:25 UTC" participant="153458">
+      <body>Hey can I get a ride tomorrow my car gg</body>
+    </message>
+    <message id="m0001" time="2015-01-15 04:57:12 UTC" participant="153418">
+      <body>You home now? </body>
+    </message>
+    <message id="m0002" time="2015-01-15 04:59:06 UTC" participant="153418">
+      <body>What's your address? </body>
+    </message>
+    <message id="m0004" time="2015-01-15 05:25:39 UTC" participant="153418">
+      <body>Do you need a ride home? </body>
+    </message>
+    <message id="m0005" time="2015-01-15 05:26:49 UTC" participant="153458">
+      <body>Glen burnie </body>
+    </message>
+    <message id="m0006" time="2015-01-15 05:32:26 UTC" participant="153458">
+      <body>Nah I got one. My car sob </body>
+    </message>
+    <message id="m0007" time="2015-01-15 05:37:09 UTC" participant="153418">
+      <body>I'll try to be at your place around 10:30 tomorrow. There's a high chance I'll be late.</body>
+    </message>
+    <message id="m0008" time="2015-01-15 15:37:28 UTC" participant="153458">
+      <body>It is so cold </body>
+    </message>
+  </messages>
+</conversation>
+

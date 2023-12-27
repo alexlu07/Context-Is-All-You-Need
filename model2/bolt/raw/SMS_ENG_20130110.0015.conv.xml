@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130110.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-01-10 23:23:40 UTC">
+      <body>Hey ali i just wanted to let u know i didnt forget about u..bout to get started on my new project soon and still am interested in seeing if we can work together </body>
+    </message>
+    <message id="m0001" participant="132540" time="2013-01-10 23:24:33 UTC">
+      <body>Cool dude just let me know when youre ready</body>
+    </message>
+    <message id="m0002" participant="130747" time="2013-01-10 23:31:16 UTC">
+      <body>i got off work all day on 21st u know what ur schedules like then?</body>
+    </message>
+    <message id="m0003" participant="132540" time="2013-01-11 01:26:51 UTC">
+      <body>The 21st i have a gig at 7pm but we can meet up before that</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-01-11 01:27:11 UTC">
+      <body>Cool. Ill hit u up closer to date and keep that in mind</body>
+    </message>
+    <message id="m0005" participant="132540" time="2013-01-11 01:28:03 UTC">
+      <body>Sounds good</body>
+    </message>
+  </messages>
+</conversation>

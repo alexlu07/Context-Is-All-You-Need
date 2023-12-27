@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130404.0016" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-04-04 05:54:28 UTC">
+      <body>how are you?</body>
+    </message>
+    <message id="m0001" participant="131365" time="2013-04-04 05:58:41 UTC">
+      <body>I'm good. Just for home. Going to sleep. I'm exhausted. </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-04-04 05:59:25 UTC">
+      <body>goodnight and sweet dreams!</body>
+    </message>
+    <message id="m0003" participant="131365" time="2013-04-04 06:00:29 UTC">
+      <body>Thank you! Have a good night too!</body>
+    </message>
+  </messages>
+</conversation>

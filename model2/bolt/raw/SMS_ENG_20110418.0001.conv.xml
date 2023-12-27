@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110418.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130835" time="2011-04-18 17:32:59 UTC">
+      <body>Im out of town! thanks for the invite though.</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-04-18 17:33:54 UTC">
+      <body>Aw, next time!</body>
+    </message>
+    <message id="m0002" participant="130755" time="2011-04-25 17:47:33 UTC">
+      <body>Gonna bike up to Belmont plateau for picnic dinner tonight!</body>
+    </message>
+    <message id="m0003" participant="130835" time="2011-04-25 17:51:40 UTC">
+      <body>Im in!</body>
+    </message>
+    <message id="m0004" participant="130755" time="2011-04-25 17:51:53 UTC">
+      <body>Yay!</body>
+    </message>
+    <message id="m0005" participant="130835" time="2011-04-26 00:14:34 UTC">
+      <body>On my way</body>
+    </message>
+    <message id="m0006" participant="130755" time="2011-05-03 18:47:11 UTC">
+      <body>Anything particular you'd like me to bring?  Was gonna grab some asparagus, maybe make a potato salad... Maybe some veggie burgers....but whatevs is needed!</body>
+    </message>
+    <message id="m0007" participant="130835" time="2011-05-03 20:03:47 UTC">
+      <body>Anything you like is welcome.  see you soon!</body>
+    </message>
+    <message id="m0008" participant="130755" time="2011-05-24 00:30:02 UTC">
+      <body>So sorry!  Was on the other line!  Good luck with the cookin!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140804.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-08-04 20:30:27 UTC" participant="153449">
+      <body>When are you coming to phila ... Dad have paper work to be fill out from the retirement fund</body>
+    </message>
+    <message id="m0001" time="2014-08-04 21:05:28 UTC" participant="153418">
+      <body>I already told him that I'm coming in this weekend sometime.</body>
+    </message>
+    <message id="m0002" time="2014-08-04 21:06:43 UTC" participant="153449">
+      <body>I had the paperwork already.. going to send it tomorrow</body>
+    </message>
+    <message id="m0003" time="2014-08-04 21:07:26 UTC" participant="153449">
+      <body>I filled out from already</body>
+    </message>
+    <message id="m0004" time="2014-08-04 21:08:39 UTC" participant="153418">
+      <body>I still need to be in for business with the bank.</body>
+    </message>
+    <message id="m0005" time="2014-08-04 21:09:48 UTC" participant="153449">
+      <body>Call me later when you have time</body>
+    </message>
+  </messages>
+</conversation>
+

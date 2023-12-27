@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120512.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131064" time="2012-05-12 21:32:48 UTC">
+      <body>Super!!! Have fun. Say hi to Jonny!!! </body>
+    </message>
+    <message id="m0001" participant="131019" time="2012-05-12 21:33:04 UTC">
+      <body>Safe in Seattle, i love you daddy I'll call you soon</body>
+    </message>
+    <message id="m0002" participant="131064" time="2012-05-13 04:52:16 UTC">
+      <body>Remember to call ur mom tomorrow:)</body>
+    </message>
+    <message id="m0003" participant="131019" time="2012-05-13 04:52:52 UTC">
+      <body>I will (;</body>
+    </message>
+    <message id="m0004" participant="131019" time="2012-05-13 04:52:55 UTC">
+      <body>(:</body>
+    </message>
+    <message id="m0005" participant="131064" time="2012-05-13 04:54:24 UTC">
+      <body>:)</body>
+    </message>
+  </messages>
+</conversation>

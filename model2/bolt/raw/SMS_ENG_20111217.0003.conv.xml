@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111217.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130882" time="2011-12-17 18:26:17 UTC">
+      <body>Hey, i  just arrived in philly by bus. Will take taxi to your place now. See you there. Jan</body>
+    </message>
+    <message id="m0001" participant="130755" time="2011-12-17 18:58:33 UTC">
+      <body>Hey! Sorry, we got home at 7 am, still asleep! Saw yr bag outside the door, give a ring back!</body>
+    </message>
+    <message id="m0002" participant="130882" time="2011-12-17 18:58:48 UTC">
+      <body>Hi, i've put my suitcase in front of your door and am walking around a bit now.. Let me know when you get home. Jan from cs</body>
+    </message>
+  </messages>
+</conversation>

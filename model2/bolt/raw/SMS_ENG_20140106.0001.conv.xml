@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140106.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-06 16:30:38 UTC" participant="149363">
+      <body>Di you ever hear anything about those LDC positions?</body>
+    </message>
+    <message id="m0001" time="2014-01-06 16:31:15 UTC" participant="149306">
+      <body>Nothing yet</body>
+    </message>
+    <message id="m0002" time="2014-01-06 16:32:40 UTC" participant="149363">
+      <body>Nor here. Was thinking about trying to follow up, but that has never done much good for me in the past.</body>
+    </message>
+  </messages>
+</conversation>
+

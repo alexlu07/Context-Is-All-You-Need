@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130302.0030" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136152" time="2013-03-02 16:30:15 UTC">
+      <body>Want me to pick you guys up tonight around 4:45ish?</body>
+    </message>
+    <message id="m0001" participant="136112" time="2013-03-02 16:31:38 UTC">
+      <body>sounds good to me! unless you could get us like 10 minutes earlier so i could run to kroger and get a dessert... i didn't have time to make one before i went to work today. </body>
+    </message>
+    <message id="m0002" participant="136152" time="2013-03-02 16:32:45 UTC">
+      <body>Gahhh I don't know if I can because I have to meet someone right before! But if I'm done early I can definitely let you know</body>
+    </message>
+    <message id="m0003" participant="136112" time="2013-03-02 16:33:24 UTC">
+      <body>thank you! i'll try and figure something else out in the meantime. :) </body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-02 21:41:10 UTC">
+      <body>you're picking us up at woody, right? </body>
+    </message>
+    <message id="m0005" participant="136152" time="2013-03-02 21:43:17 UTC">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>

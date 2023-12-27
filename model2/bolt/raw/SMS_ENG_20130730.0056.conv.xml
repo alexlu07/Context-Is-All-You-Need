@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130730.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-07-30 19:54:32 UTC" participant="154352">
+      <body>Where should I pick you up Thursday?</body>
+    </message>
+    <message id="m0002" time="2013-07-31 14:06:52 UTC" participant="154352">
+      <body>I can pick you up tomorrow around 5:30</body>
+    </message>
+    <message id="m0003" time="2013-07-31 15:50:02 UTC" participant="154401">
+      <body>Awesome</body>
+    </message>
+  </messages>
+</conversation>
+

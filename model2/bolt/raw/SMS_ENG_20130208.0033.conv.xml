@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130208.0033" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-02-08 23:41:13 UTC">
+      <body>What are you doing tonight</body>
+    </message>
+    <message id="m0001" participant="137259" time="2013-02-08 23:43:26 UTC">
+      <body>I was gonna watch a movie with my dad. Something maybe later</body>
+    </message>
+    <message id="m0002" participant="137259" time="2013-02-09 00:24:26 UTC">
+      <body>Whatchu up to?</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-02-09 01:09:26 UTC">
+      <body>I just woke up</body>
+    </message>
+    <message id="m0004" participant="137259" time="2013-02-09 01:10:01 UTC">
+      <body>Awesome :P</body>
+    </message>
+  </messages>
+</conversation>

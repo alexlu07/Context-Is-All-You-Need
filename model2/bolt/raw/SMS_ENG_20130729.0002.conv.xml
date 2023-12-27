@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130729.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130963" time="2013-07-29 09:45:27 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0001" participant="130616" time="2013-07-29 09:46:49 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="130963" time="2013-07-29 09:54:22 UTC">
+      <body>What are we supposed to talk about, lol</body>
+    </message>
+    <message id="m0003" participant="130616" time="2013-07-29 10:26:40 UTC">
+      <body>Nothing in general. Any topic seems alright. Had one a few days ago about zombie fruit.</body>
+    </message>
+    <message id="m0004" participant="130963" time="2013-07-29 10:27:43 UTC">
+      <body>Oh i see. Where are you from?</body>
+    </message>
+    <message id="m0005" participant="130616" time="2013-07-29 10:32:51 UTC">
+      <body>Florida. Friend prodded me into signing up for this. Haha. Yourself?</body>
+    </message>
+    <message id="m0006" participant="130963" time="2013-07-29 10:40:39 UTC">
+      <body>Pine grove, pa. Near philly wow, far away. I have never done one of these before, not sure how these all work</body>
+    </message>
+    <message id="m0007" participant="130616" time="2013-07-29 11:39:51 UTC">
+      <body>It logs conversations to study texting. For us we just have a conversation. About anything really.</body>
+    </message>
+  </messages>
+</conversation>

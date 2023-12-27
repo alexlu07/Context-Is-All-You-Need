@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110903.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-09-03 18:46:12 UTC">
+      <body>Dinner this evening?</body>
+    </message>
+    <message id="m0001" participant="135139" time="2011-09-03 19:13:09 UTC">
+      <body>Possibly...i've got some things i've got to take care of this evening after work so it would probably be pretty late</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-09-03 19:14:01 UTC">
+      <body>Ah ok, well keep me updated :)</body>
+    </message>
+    <message id="m0003" participant="135139" time="2011-09-03 19:14:31 UTC">
+      <body>Fo sho :-) </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130218.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-02-18 03:16:40 UTC">
+      <body>have you done the hw for arabic? </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-02-18 03:17:19 UTC">
+      <body>Yeah just finished</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-02-18 03:17:42 UTC">
+      <body>did you write anything for drill 9? also i don't understand 10.</body>
+    </message>
+    <message id="m0003" participant="136129" time="2013-02-18 03:21:56 UTC">
+      <body>I translated it the best I could and for 10 I pretty much just completed the sentence with random stuff, not sure if it's all right grammar wise but yea</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-02-18 03:22:09 UTC">
+      <body>hmm, okay, thanks! </body>
+    </message>
+  </messages>
+</conversation>

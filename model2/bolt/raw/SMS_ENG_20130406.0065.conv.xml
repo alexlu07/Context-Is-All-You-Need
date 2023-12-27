@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130406.0065" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-04-06 15:23:26 UTC">
+      <body>hey, are you going to church tomorrow? if so, could you pick up a couple of girls from emory? </body>
+    </message>
+    <message id="m0001" participant="136143" time="2013-04-06 23:21:36 UTC">
+      <body>Hey L, sorry im just responding. Still need a ride? I can swing by.. 9:20?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-04-06 23:22:14 UTC">
+      <body>yup! it'll be candace and a new girl you'll be getting, i won't be there. 9:20 is perfect! </body>
+    </message>
+    <message id="m0003" participant="136143" time="2013-04-06 23:32:34 UTC">
+      <body>Where should I pick them up, different building from yours?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-04-06 23:33:15 UTC">
+      <body>my building is fine! it's a good meeting spot. </body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131207.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-07 01:32:28 UTC" participant="153610">
+      <body>All well (ish)?</body>
+    </message>
+    <message id="m0001" time="2013-12-07 01:42:33 UTC" participant="153548">
+      <body>Everything is good! She's still fighting sleep but I think it's getting the better of her.</body>
+    </message>
+    <message id="m0002" time="2013-12-07 01:44:21 UTC" participant="153610">
+      <body>Cool.  Sounds like the usual.  She's been kind of all over the place in how long it takes.</body>
+    </message>
+    <message id="m0003" time="2013-12-07 01:45:42 UTC" participant="153548">
+      <body>Oh I didn't find diapers but I found pull ups under the bed. Is that cool or should I swap it for a real diaper?</body>
+    </message>
+    <message id="m0004" time="2013-12-07 01:47:03 UTC" participant="153610">
+      <body>That's fine.  Sorry we didn't show you.  They're in the top drawer of her dresser.</body>
+    </message>
+    <message id="m0005" time="2013-12-07 01:47:46 UTC" participant="153548">
+      <body>Oh ha! I must have skipped the top drawer! </body>
+    </message>
+    <message id="m0006" time="2013-12-07 05:42:34 UTC" participant="153610">
+      <body>Home in 10ish minutes.</body>
+    </message>
+    <message id="m0007" time="2013-12-07 05:43:06 UTC" participant="153548">
+      <body>See you soon!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150312.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-12 22:45:24 UTC" participant="152234">
+      <body>I'll pay for it!</body>
+    </message>
+    <message id="m0001" time="2015-03-13 16:08:13 UTC" participant="152212">
+      <body>today his bp was 136/80</body>
+    </message>
+    <message id="m0002" time="2015-03-13 16:09:10 UTC" participant="152212">
+      <body>(he said that was pretty low for him)</body>
+    </message>
+    <message id="m0003" time="2015-03-13 16:12:15 UTC" participant="152234">
+      <body>His systolic shouldn't  be higher than 120. Otherwise, as he ages, his Bp will get higher, and that spells trouble. Has he checked his kidney function, both BUN and creatinine?</body>
+    </message>
+    <message id="m0004" time="2015-03-13 16:16:30 UTC" participant="152212">
+      <body>i don’t think so. I will let him know. He is a special case, though, because he has a neurological tremor. So, this might be why his bp is so high. He is also genetically predisposed to high bp. He needs to be on a full dosage of his medication, but it causes the ringing in his years to get worse. He is working with a doctor on that - I think he might need to try a different medication (yet again).</body>
+    </message>
+    <message id="m0005" time="2015-03-13 16:16:43 UTC" participant="152212">
+      <body>he has a great doctor through Penn (she graduated from columbia). </body>
+    </message>
+    <message id="m0006" time="2015-03-13 16:16:57 UTC" participant="152212">
+      <body>she’s also v pretty, which means he will keep on going back to her.</body>
+    </message>
+    <message id="m0007" time="2015-03-13 16:16:58 UTC" participant="152212">
+      <body/>
+    </message>
+  </messages>
+</conversation>
+

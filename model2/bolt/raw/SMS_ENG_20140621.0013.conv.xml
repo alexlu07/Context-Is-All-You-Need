@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140621.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-21 12:25:04 UTC" participant="153599">
+      <body>It's fine. Just watch for the bullseye or fevers. They only recommend antibiotics if it's on for more than 36 hours. </body>
+    </message>
+    <message id="m0001" time="2014-06-21 12:43:38 UTC" participant="153547">
+      <body>Thanks. Let me know when you got some time to do dinner or something</body>
+    </message>
+    <message id="m0002" time="2014-06-21 13:29:59 UTC" participant="153599">
+      <body>Cool. Wife/girlfriend too? Or just us?  I'll check my schedule </body>
+    </message>
+  </messages>
+</conversation>
+

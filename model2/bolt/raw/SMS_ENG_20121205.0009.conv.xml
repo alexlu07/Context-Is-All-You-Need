@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121205.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131023" time="2012-12-05 21:01:30 UTC">
+      <body>Hi Pix!  Hey I tried to skype with a friend last night and even after entering all info I couldn't get it added.  Any ideas?</body>
+    </message>
+    <message id="m0001" participant="130712" time="2012-12-05 21:03:07 UTC">
+      <body>Hmm..no. Lemme take a look from home and see if I can figure it out.</body>
+    </message>
+    <message id="m0002" participant="131023" time="2012-12-05 21:06:07 UTC">
+      <body>Thanks!</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130622.0004" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131350" time="2013-06-22 16:01:32 UTC">
+      <body>Hello! How are you? How it's your day going?</body>
+    </message>
+    <message id="m0001" participant="131346" time="2013-06-22 16:02:25 UTC">
+      <body>Hi</body>
+    </message>
+    <message id="m0002" participant="131346" time="2013-06-22 16:02:46 UTC">
+      <body>I'm well</body>
+    </message>
+    <message id="m0003" participant="131346" time="2013-06-22 16:02:46 UTC">
+      <body>How are you??</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-06-22 16:05:10 UTC">
+      <body>Okay. Tired. Big family celebration in Las Vegas. What city are you in?</body>
+    </message>
+    <message id="m0005" participant="131346" time="2013-06-22 16:27:54 UTC">
+      <body>Philadelphia</body>
+    </message>
+    <message id="m0006" participant="131346" time="2013-06-22 16:27:54 UTC">
+      <body>At a bbq now with my mom's side of the family</body>
+    </message>
+    <message id="m0007" participant="131350" time="2013-06-22 16:47:17 UTC">
+      <body>I like Philly. Haven't been there in years. Wow - we're both having family days! What do you do?</body>
+    </message>
+    <message id="m0008" participant="131346" time="2013-06-22 16:56:54 UTC">
+      <body>I'm a private tutor</body>
+    </message>
+    <message id="m0009" participant="131346" time="2013-06-22 16:57:28 UTC">
+      <body>Yes and now im stuck with the dishes</body>
+    </message>
+    <message id="m0010" participant="131350" time="2013-06-22 16:59:30 UTC">
+      <body>That's a drag!</body>
+    </message>
+    <message id="m0011" participant="131346" time="2013-06-22 17:03:02 UTC">
+      <body>Lol yup</body>
+    </message>
+  </messages>
+</conversation>

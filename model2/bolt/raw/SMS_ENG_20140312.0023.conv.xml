@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140312.0023" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-03-12 15:00:57 UTC" participant="153244">
+      <body>If you want I can try to return the shirts at kmart on aramingo ave. When are you available to come with me?</body>
+    </message>
+    <message id="m0001" time="2014-03-12 16:07:36 UTC" participant="152116">
+      <body>Okay yeah I can go. What works for you. Saturday or Sunday?</body>
+    </message>
+    <message id="m0002" time="2014-03-12 17:18:12 UTC" participant="153244">
+      <body>What about friday?</body>
+    </message>
+    <message id="m0003" time="2014-03-12 17:26:19 UTC" participant="153244">
+      <body>Or sat might work. I had plans sat but just remembered that they got moved to sunday. Idk what time yet tho</body>
+    </message>
+    <message id="m0004" time="2014-03-12 20:46:16 UTC" participant="152116">
+      <body>What time would you be able to Friday?</body>
+    </message>
+    <message id="m0005" time="2014-03-12 20:48:23 UTC" participant="153244">
+      <body>I get don't work friday at 3 so right from work is done with me</body>
+    </message>
+    <message id="m0006" time="2014-03-12 20:48:35 UTC" participant="153244">
+      <body>Get done*</body>
+    </message>
+    <message id="m0007" time="2014-03-13 13:19:13 UTC" participant="153244">
+      <body>I also forgot I'm getting robert from school again fri so can't do fri would have to be sat or sun</body>
+    </message>
+    <message id="m0008" time="2014-03-13 13:55:03 UTC" participant="152116">
+      <body>Okay that's fine</body>
+    </message>
+  </messages>
+</conversation>
+

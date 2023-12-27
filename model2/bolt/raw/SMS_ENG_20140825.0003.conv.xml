@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140825.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0001" time="2014-08-25 17:24:56 UTC" participant="152417">
+      <body>Great, thanks!</body>
+    </message>
+    <message id="m0002" time="2014-08-25 17:26:24 UTC" participant="152569">
+      <body>You will not need your bass today. Also let me know if you want a trumpet and trombone (and flute) for methods lessons and I will leave them in the school of music office for you.</body>
+    </message>
+    <message id="m0003" time="2014-08-25 17:28:43 UTC" participant="152417">
+      <body>Are we meeting today for grad ensemble? And that would be great.</body>
+    </message>
+    <message id="m0004" time="2014-08-25 17:29:06 UTC" participant="152417">
+      <body>And if so, will it be in Kaplan theatre?</body>
+    </message>
+    <message id="m0005" time="2014-08-25 17:31:34 UTC" participant="152569">
+      <body>Yes meeting today in Caplan - 17th floor Terra.</body>
+    </message>
+  </messages>
+</conversation>
+

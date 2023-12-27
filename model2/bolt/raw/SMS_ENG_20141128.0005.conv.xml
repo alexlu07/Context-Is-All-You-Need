@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141128.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-28 20:39:11 UTC" participant="153417">
+      <body>No lol I always forget</body>
+    </message>
+    <message id="m0001" time="2014-11-29 15:10:48 UTC" participant="153417">
+      <body>Are you off Monday?!</body>
+    </message>
+    <message id="m0002" time="2014-11-29 18:29:20 UTC" participant="153423">
+      <body> Off and you</body>
+    </message>
+    <message id="m0003" time="2014-11-29 18:56:27 UTC" participant="153417">
+      <body>I'm off too! I'm working Saturday instead. Wanna do something?</body>
+    </message>
+    <message id="m0004" time="2014-11-29 20:16:00 UTC" participant="153423">
+      <body>Sure</body>
+    </message>
+  </messages>
+</conversation>
+

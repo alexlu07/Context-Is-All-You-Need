@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120817.0015" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-08-17 13:12:49 UTC" participant="152374">
+      <body>Are you guys around this weekend? Going to the oyster festival?</body>
+    </message>
+    <message id="m0001" time="2012-08-18 00:43:41 UTC" participant="152380">
+      <body>If you are coming I suggest you park at our apartment and walk over with us.</body>
+    </message>
+    <message id="m0002" time="2012-08-18 00:44:38 UTC" participant="152380">
+      <body>Or if u want to come later you can park at our apartment and meet us somewhere.</body>
+    </message>
+    <message id="m0003" time="2012-08-18 00:46:48 UTC" participant="152374">
+      <body>Okay. I have to see if I can get enough work done in the morning- if so I'd plan to get there at 11:45 and walk over with you guys. I'll let you know in the morning if that's okay?</body>
+    </message>
+    <message id="m0004" time="2012-08-18 00:47:41 UTC" participant="152380">
+      <body>Sounds good!</body>
+    </message>
+  </messages>
+</conversation>
+

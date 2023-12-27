@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0037" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131528" time="2013-05-21 20:41:47 UTC">
+      <body>Everything alright? </body>
+    </message>
+    <message id="m0001" participant="131586" time="2013-05-21 20:49:37 UTC">
+      <body>Yep! Mike wants to know when you're going to give her the cds</body>
+    </message>
+    <message id="m0002" participant="131528" time="2013-05-21 20:50:49 UTC">
+      <body>I'm gonna try to bring them in tomorrow</body>
+    </message>
+    <message id="m0003" participant="131586" time="2013-05-21 20:52:13 UTC">
+      <body>Otay, that's what I told him</body>
+    </message>
+    <message id="m0004" participant="131586" time="2013-05-21 21:12:59 UTC">
+      <body>How are you doing babe? How's it going?</body>
+    </message>
+  </messages>
+</conversation>

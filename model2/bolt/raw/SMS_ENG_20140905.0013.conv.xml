@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140905.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-05 03:17:49 UTC" participant="153641">
+      <body>What time u guess we'll be done/back tmw?</body>
+    </message>
+    <message id="m0001" time="2014-09-05 03:18:29 UTC" participant="153548">
+      <body>Hoping by 7! </body>
+    </message>
+    <message id="m0002" time="2014-09-05 03:18:38 UTC" participant="153548">
+      <body>If we leave around 5:30 and traffic ain't bad, maybe earlier</body>
+    </message>
+    <message id="m0003" time="2014-09-05 03:19:55 UTC" participant="153641">
+      <body>Cool cool</body>
+    </message>
+    <message id="m0004" time="2014-09-05 13:46:53 UTC" participant="153548">
+      <body>Shoot canceled :(</body>
+    </message>
+    <message id="m0005" time="2014-09-05 13:47:27 UTC" participant="153548">
+      <body>Someone died!</body>
+    </message>
+    <message id="m0006" time="2014-09-05 13:48:44 UTC" participant="153548">
+      <body>So the person we were interviewing can't make it.</body>
+    </message>
+    <message id="m0007" time="2014-09-05 14:49:22 UTC" participant="153641">
+      <body>Oh no. At first I thought u meant the person we we interviewing died. So they can't make it. Keep me posted about reshoots.</body>
+    </message>
+  </messages>
+</conversation>
+

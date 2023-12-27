@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130924.0007" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-24 18:15:09 UTC" participant="154352">
+      <body>Hey there, how's it going?</body>
+    </message>
+    <message id="m0001" time="2013-09-24 18:17:55 UTC" participant="154404">
+      <body>Ahhhh! Stranger! Busy as always... now I have to move unexpectedly this</body>
+    </message>
+    <message id="m0002" time="2013-09-24 18:17:56 UTC" participant="154404">
+      <body>ting settled. How have you been?</body>
+    </message>
+    <message id="m0003" time="2013-09-24 18:17:57 UTC" participant="154404">
+      <body> weekend. Trying to find time to head up to Philly sometime next weekend after get</body>
+    </message>
+    <message id="m0004" time="2013-09-24 18:27:47 UTC" participant="154404">
+      <body>Where in the Philly area do you live?</body>
+    </message>
+    <message id="m0005" time="2013-09-24 18:45:23 UTC" participant="154352">
+      <body>I've been peachy. I am in Ridley south west of Philly.</body>
+    </message>
+    <message id="m0006" time="2013-09-24 18:45:43 UTC" participant="154352">
+      <body>Where are you moving?</body>
+    </message>
+    <message id="m0007" time="2013-09-24 19:12:15 UTC" participant="154404">
+      <body>Not too far away. Still in the Newark area.</body>
+    </message>
+    <message id="m0008" time="2013-09-24 19:31:35 UTC" participant="154404">
+      <body>I'm familiar with Ridley. I used to work in Springfield.</body>
+    </message>
+    <message id="m0009" time="2013-09-24 19:33:48 UTC" participant="154352">
+      <body>Cool. We should get together once all your stuff calms down.</body>
+    </message>
+    <message id="m0010" time="2013-09-24 20:03:23 UTC" participant="154404">
+      <body>I'm definitely hoping on it! :-)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131355" time="2013-03-03 23:34:52 UTC">
+      <body>Hey @ my moms what time is good to meet?</body>
+    </message>
+    <message id="m0001" participant="131350" time="2013-03-03 23:55:53 UTC">
+      <body>anytime....between now and 630. </body>
+    </message>
+    <message id="m0002" participant="131350" time="2013-03-03 23:57:05 UTC">
+      <body>i gotta be in west hills at 7.
+you can always meet me there if it's 630 on.</body>
+    </message>
+    <message id="m0003" participant="131355" time="2013-03-03 23:59:42 UTC">
+      <body>How about 30min?</body>
+    </message>
+    <message id="m0004" participant="131350" time="2013-03-04 00:05:07 UTC">
+      <body>cool. 430-ish at starbucks. reseda/devonshire.</body>
+    </message>
+    <message id="m0005" participant="131355" time="2013-03-04 00:05:59 UTC">
+      <body>Boom!</body>
+    </message>
+  </messages>
+</conversation>

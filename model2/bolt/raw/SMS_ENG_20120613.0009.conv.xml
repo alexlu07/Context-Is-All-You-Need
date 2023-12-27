@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120613.0009" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131282" time="2012-06-13 22:13:24 UTC">
+      <body>tried to come back but couldn't get in</body>
+    </message>
+    <message id="m0001" participant="131281" time="2012-06-13 22:21:22 UTC">
+      <body>Oh, with the stroller?</body>
+    </message>
+    <message id="m0002" participant="131282" time="2012-06-13 22:22:15 UTC">
+      <body>yeah, that side stupor was locked and I didn't want to ring the bell</body>
+    </message>
+    <message id="m0003" participant="131281" time="2012-06-13 22:22:28 UTC">
+      <body>Oh, ok</body>
+    </message>
+    <message id="m0004" participant="131282" time="2012-06-13 22:22:56 UTC">
+      <body>door. don't know how that became stupor</body>
+    </message>
+  </messages>
+</conversation>

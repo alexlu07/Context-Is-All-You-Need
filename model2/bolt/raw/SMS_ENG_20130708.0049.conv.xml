@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130708.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-07-08 19:15:04 UTC">
+      <body>Heya, do you want to sit in with uph on Friday?</body>
+    </message>
+    <message id="m0001" participant="134450" time="2013-07-09 02:40:00 UTC">
+      <body>Hey Jeremy, I dont know if I can yet. Probably not but ill know better a little later in the week.</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-09 02:43:05 UTC">
+      <body>Ok, thought you said you were busy, but just wanted to ask twice </body>
+    </message>
+    <message id="m0003" participant="134450" time="2013-07-09 02:43:40 UTC">
+      <body>Haha. Sounds like a good strategy to me!</body>
+    </message>
+  </messages>
+</conversation>

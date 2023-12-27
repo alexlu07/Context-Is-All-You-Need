@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121112.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-11-12 19:03:41 UTC" participant="152734">
+      <body>Got your message, thanks! Whew. Glad it worked out ok.</body>
+    </message>
+    <message id="m0001" time="2012-11-12 19:20:59 UTC" participant="153299">
+      <body>It didnt work our</body>
+    </message>
+    <message id="m0002" time="2012-11-12 19:22:21 UTC" participant="152734">
+      <body>What do you mean?</body>
+    </message>
+    <message id="m0003" time="2012-11-12 19:36:12 UTC" participant="152734">
+      <body>Never mind, I'll get back to you on email...</body>
+    </message>
+  </messages>
+</conversation>
+

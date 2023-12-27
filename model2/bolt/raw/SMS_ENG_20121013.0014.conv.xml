@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121013.0014" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136164" time="2012-10-13 02:57:57 UTC">
+      <body>Do you remember the bendito</body>
+    </message>
+    <message id="m0001" participant="136224" time="2012-10-13 02:59:03 UTC">
+      <body>Of curse why </body>
+    </message>
+    <message id="m0002" participant="136164" time="2012-10-13 03:13:41 UTC">
+      <body>I saw a bunch of balloon animals and I was reminded of it</body>
+    </message>
+    <message id="m0003" participant="136224" time="2012-10-13 03:14:08 UTC">
+      <body>That's so reminiscent </body>
+    </message>
+  </messages>
+</conversation>

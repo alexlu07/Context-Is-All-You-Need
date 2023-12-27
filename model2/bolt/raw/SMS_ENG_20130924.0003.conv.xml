@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130924.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-24 19:04:06 UTC" participant="153418">
+      <body>Hey, it's John. Did you return the computer in A229 already?</body>
+    </message>
+    <message id="m0001" time="2013-09-24 19:09:50 UTC" participant="153447">
+      <body>Yes. Its up and runnig</body>
+    </message>
+    <message id="m0002" time="2013-09-24 19:10:47 UTC" participant="153447">
+      <body>User logged in but its PhD so they don't need anything else as far as profile, right?</body>
+    </message>
+    <message id="m0003" time="2013-09-24 19:11:31 UTC" participant="153418">
+      <body>Right, thanks. </body>
+    </message>
+    <message id="m0004" time="2013-09-24 19:11:43 UTC" participant="153418">
+      <body>Just wanted to know so I could close the ticket. </body>
+    </message>
+  </messages>
+</conversation>
+

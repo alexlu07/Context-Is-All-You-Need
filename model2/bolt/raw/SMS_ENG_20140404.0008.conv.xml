@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140404.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-04 00:30:29 UTC" participant="153548">
+      <body>Be at yr place around 7:30! How do you take your coffee</body>
+    </message>
+    <message id="m0001" time="2014-04-04 00:37:41 UTC" participant="153641">
+      <body>Black. But I'm calling u with a question. </body>
+    </message>
+    <message id="m0002" time="2014-04-04 00:38:03 UTC" participant="153548">
+      <body>Cool</body>
+    </message>
+    <message id="m0004" time="2014-04-04 00:43:38 UTC" participant="153548">
+      <body>Lol that's important info. </body>
+    </message>
+    <message id="m0005" time="2014-04-04 11:38:51 UTC" participant="153548">
+      <body>Here!</body>
+    </message>
+  </messages>
+</conversation>
+

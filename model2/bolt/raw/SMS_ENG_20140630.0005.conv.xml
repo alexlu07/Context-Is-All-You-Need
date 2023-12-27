@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140630.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-30 18:44:54 UTC" participant="153660">
+      <body>Hey, I'm teaching a summer class downtown. Can we do a park dog hang at 5ish?</body>
+    </message>
+    <message id="m0001" time="2014-06-30 19:05:04 UTC" participant="153548">
+      <body>Hi! I'm at the park now but around tmw or weds if you are! </body>
+    </message>
+    <message id="m0002" time="2014-06-30 19:32:22 UTC" participant="153660">
+      <body>Still there? Just got home. I can walk over with Jake.</body>
+    </message>
+    <message id="m0003" time="2014-06-30 19:36:24 UTC" participant="153548">
+      <body>I just went to drop a few things at the studio but I'll head back that way in like 15! </body>
+    </message>
+    <message id="m0004" time="2014-06-30 19:38:01 UTC" participant="153548">
+      <body>Yay!</body>
+    </message>
+    <message id="m0005" time="2014-06-30 19:47:22 UTC" participant="153660">
+      <body>We are over on the northwest side of the dog bowl.</body>
+    </message>
+  </messages>
+</conversation>
+

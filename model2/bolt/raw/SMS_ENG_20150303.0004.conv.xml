@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 16:26:32 UTC" participant="152212">
+      <body>How Is your appointment?</body>
+    </message>
+    <message id="m0001" time="2015-03-03 22:30:24 UTC" participant="152252">
+      <body>Hey sorry thanks for asking. It was stressful but fine. I had kinda a hard day.  </body>
+    </message>
+    <message id="m0002" time="2015-03-03 22:30:24 UTC" participant="152212">
+      <body>I’m sorry </body>
+    </message>
+    <message id="m0003" time="2015-03-03 22:30:24 UTC" participant="152212">
+      <body>do you want to talk about it</body>
+    </message>
+    <message id="m0004" time="2015-03-03 22:32:32 UTC" participant="152252">
+      <body>I can't. I'm teaching now </body>
+    </message>
+    <message id="m0005" time="2015-03-03 22:34:40 UTC" participant="152252">
+      <body>Thanks though. I'll be fine. </body>
+    </message>
+  </messages>
+</conversation>
+

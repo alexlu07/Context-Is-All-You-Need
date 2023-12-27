@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130613.0009" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130638" time="2013-06-13 15:09:55 UTC">
+      <body>Hi GiltQuilt!</body>
+    </message>
+    <message id="m0001" participant="131837" time="2013-06-13 17:26:02 UTC">
+      <body>Hello again bluesberry!</body>
+    </message>
+    <message id="m0002" participant="130638" time="2013-06-13 18:22:49 UTC">
+      <body>How are you?</body>
+    </message>
+    <message id="m0003" participant="130638" time="2013-06-13 21:50:13 UTC">
+      <body>You seem busy ;-)</body>
+    </message>
+    <message id="m0004" participant="131837" time="2013-06-13 21:52:31 UTC">
+      <body>Oops, I guess you're right. My bad. I was just entertaining my boyfriend's nieces and nephew without my phone. How are you?</body>
+    </message>
+    <message id="m0005" participant="130638" time="2013-06-13 22:08:10 UTC">
+      <body>Fine, just watching a movie waiting for hubby to come home.</body>
+    </message>
+    <message id="m0006" participant="131837" time="2013-06-13 22:19:48 UTC">
+      <body>We're onto building the fastest giant knight puppet we can to surprise the kids with at this medieval cardboard warfare camp we've been teaching.</body>
+    </message>
+    <message id="m0007" participant="130638" time="2013-06-13 22:47:09 UTC">
+      <body>Cool!</body>
+    </message>
+  </messages>
+</conversation>

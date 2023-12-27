@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150430.0002" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-30 14:54:53 UTC" participant="153804">
+      <body>What time is your appointment tomorrow?</body>
+    </message>
+    <message id="m0001" time="2015-04-30 15:04:54 UTC" participant="153804">
+      <body>also,I've been checking the penn text study site for updated info but no new e-mails.</body>
+    </message>
+    <message id="m0002" time="2015-04-30 16:00:12 UTC" participant="153558">
+      <body>9 am</body>
+    </message>
+    <message id="m0003" time="2015-04-30 16:00:34 UTC" participant="153558">
+      <body>Ok we are still collecting texts</body>
+    </message>
+  </messages>
+</conversation>
+

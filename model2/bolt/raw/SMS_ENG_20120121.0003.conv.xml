@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120121.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-01-21 23:42:47 UTC" participant="152376">
+      <body>On our way now. Should be there in about 30.</body>
+    </message>
+    <message id="m0001" time="2012-01-22 03:37:49 UTC" participant="152374">
+      <body>The physicist found me! Ha ha.</body>
+    </message>
+    <message id="m0002" time="2012-01-22 04:13:57 UTC" participant="152376">
+      <body>Wow! That took no time at all. That means he was looking for you. Tell him you want to accelerate his mass and solve for the kinetic friction constant.
+
+Sorry. Kinematics is as far as I got :-/</body>
+    </message>
+  </messages>
+</conversation>
+

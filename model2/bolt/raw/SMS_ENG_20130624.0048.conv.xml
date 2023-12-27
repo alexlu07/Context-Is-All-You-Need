@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130624.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-06-24 13:38:48 UTC">
+      <body>hey, sorry i missed your call/text, i was out on an island all last week and had horrible reception. hope you're doing well and adjusting back to life in the states! :) </body>
+    </message>
+    <message id="m0001" participant="136150" time="2013-06-24 19:31:21 UTC">
+      <body>I'm adjusting. Slowly. What island did you go to?</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-06-24 19:43:32 UTC">
+      <body>topsail beach, nc. my dad's side of the family goes every year. </body>
+    </message>
+    <message id="m0003" participant="136150" time="2013-06-24 19:50:13 UTC">
+      <body>Cool. Did you have fun? Are you back in south carolina now or do you have more travels planned?</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-06-24 19:57:39 UTC">
+      <body>yeah, it was nice. back in sc til thursday and then i'll be headed up to atlanta and then chattanooga. </body>
+    </message>
+  </messages>
+</conversation>

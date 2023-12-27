@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130401.0056" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-01 20:57:03 UTC" participant="153418">
+      <body>Hey. I'm thinking about picking you up at 10:30 tomorrow. How does that sound?</body>
+    </message>
+    <message id="m0001" time="2013-04-01 21:01:58 UTC" participant="153443">
+      <body>it sounds great! Thank you so much. Btw, I just dropped my boxes at us post office, and it cost around $250. :P</body>
+    </message>
+    <message id="m0002" time="2013-04-01 21:59:15 UTC" participant="153418">
+      <body>Nice. You ship it by ship?</body>
+    </message>
+    <message id="m0003" time="2013-04-01 22:38:27 UTC" participant="153443">
+      <body>I believe so! Hehe</body>
+    </message>
+    <message id="m0004" time="2013-04-02 14:26:16 UTC" participant="153418">
+      <body>I'm outside. Should I come in?</body>
+    </message>
+    <message id="m0005" time="2013-04-02 14:28:25 UTC" participant="153418">
+      <body>I'm in the 11th floor lobby.</body>
+    </message>
+    <message id="m0006" time="2013-04-02 14:31:25 UTC" participant="153443">
+      <body>Okay!!! Thanks!!</body>
+    </message>
+    <message id="m0007" time="2013-04-02 14:32:26 UTC" participant="153443">
+      <body>Please stay there!</body>
+    </message>
+  </messages>
+</conversation>
+

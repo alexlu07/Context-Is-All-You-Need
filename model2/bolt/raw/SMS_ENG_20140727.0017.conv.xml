@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140727.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-07-27 21:58:34 UTC" participant="153547">
+      <body>What time is your party</body>
+    </message>
+    <message id="m0001" time="2014-07-27 23:32:16 UTC" participant="153592">
+      <body>8 I think!</body>
+    </message>
+    <message id="m0002" time="2014-07-27 23:46:29 UTC" participant="153547">
+      <body>Cool, probably be over around 9 or so</body>
+    </message>
+  </messages>
+</conversation>
+

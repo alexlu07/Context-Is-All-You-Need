@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130515.0072" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-15 21:59:28 UTC" participant="152417">
+      <body>Hey joe, where do i find this box of reeds?- gabi</body>
+    </message>
+    <message id="m0001" time="2013-05-15 22:31:41 UTC" participant="152479">
+      <body>With mail. </body>
+    </message>
+    <message id="m0002" time="2013-05-15 22:36:51 UTC" participant="152417">
+      <body>Got it. Thanks!</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130303.0048" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-03 18:03:04 UTC">
+      <body>hey hey have you looked at the hw for tomorrow? </body>
+    </message>
+    <message id="m0001" participant="136129" time="2013-03-03 18:09:13 UTC">
+      <body>Drills 12 and 13</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-03 18:10:27 UTC">
+      <body>okay, but do you have the handout she talks about for writing the story? because i don't think i do... </body>
+    </message>
+    <message id="m0003" participant="136129" time="2013-03-03 18:14:25 UTC">
+      <body>Yeah, I didn't understand that part. I've looked through my folder and didn't find it, I'll keep looking when I get home tho</body>
+    </message>
+    <message id="m0004" participant="136112" time="2013-03-03 18:14:41 UTC">
+      <body>kk. maybe i'll email her. </body>
+    </message>
+  </messages>
+</conversation>

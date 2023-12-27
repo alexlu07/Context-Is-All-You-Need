@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150321.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-21 14:24:15 UTC" participant="153548">
+      <body>Bringing bagels and fixins</body>
+    </message>
+    <message id="m0001" time="2015-03-21 14:24:24 UTC" participant="153548">
+      <body>If you need a snack!</body>
+    </message>
+    <message id="m0002" time="2015-03-21 14:30:24 UTC" participant="153645">
+      <body>Awesome - just are breakfast - but might need a snack later </body>
+    </message>
+    <message id="m0003" time="2015-03-21 14:35:49 UTC" participant="153548">
+      <body>Sweet! See you in a bit</body>
+    </message>
+  </messages>
+</conversation>
+

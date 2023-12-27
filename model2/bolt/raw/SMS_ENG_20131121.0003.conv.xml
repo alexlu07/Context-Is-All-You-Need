@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131121.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-11-21 18:55:13 UTC" participant="153491">
+      <body>Counting down the hours until I get out of here and get to Penn tonight!!!</body>
+    </message>
+    <message id="m0001" time="2013-11-21 19:34:23 UTC" participant="152116">
+      <body>4 more to go!</body>
+    </message>
+    <message id="m0002" time="2013-11-21 19:45:07 UTC" participant="153491">
+      <body>When it hits 4:55, I'm going to be itching to get out of here.</body>
+    </message>
+    <message id="m0003" time="2013-11-21 23:44:01 UTC" participant="153491">
+      <body>Hey, where are you?</body>
+    </message>
+    <message id="m0004" time="2013-11-22 00:02:31 UTC" participant="152116">
+      <body>Where are you? We went in</body>
+    </message>
+    <message id="m0005" time="2013-11-22 00:03:54 UTC" participant="153491">
+      <body>The damnedest isn't printing my ticket!!!</body>
+    </message>
+    <message id="m0006" time="2013-11-22 00:04:04 UTC" participant="153491">
+      <body>*damn meter</body>
+    </message>
+    <message id="m0007" time="2013-11-22 00:04:37 UTC" participant="152116">
+      <body>So you know there's gonna be a 10 min hold when it starts. No ones allowed in and no one's allowed out</body>
+    </message>
+    <message id="m0008" time="2013-11-22 00:08:13 UTC" participant="153491">
+      <body>I'm outside. I need my ticket.</body>
+    </message>
+    <message id="m0009" time="2013-11-22 00:15:10 UTC" participant="153491">
+      <body>??</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130222.0046" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135469" time="2013-02-22 15:35:31 UTC">
+      <body>Hi 
+Laser is free now can you come earlier?
+I have lunch at11:30</body>
+    </message>
+    <message id="m0001" participant="130622" time="2013-02-22 15:35:43 UTC">
+      <body>Yes in elevator now</body>
+    </message>
+    <message id="m0002" participant="130622" time="2013-02-22 15:39:10 UTC">
+      <body>I'm here!!! So excited</body>
+    </message>
+  </messages>
+</conversation>

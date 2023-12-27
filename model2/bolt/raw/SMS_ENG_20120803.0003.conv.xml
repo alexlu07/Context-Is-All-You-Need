@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120803.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2012-08-03 21:51:58 UTC">
+      <body>On the train to NJ now, will let you know when we're on the road to Ithaca.</body>
+    </message>
+    <message id="m0001" participant="131287" time="2012-08-03 21:54:25 UTC">
+      <body>Ok - can't wait to see you! Have blueberries, sweet corn and Purity ice cream for you !</body>
+    </message>
+    <message id="m0002" participant="131281" time="2012-08-04 01:53:01 UTC">
+      <body>Just escaped a long traffic jam before 380, going to be more like 12:30 I think :(</body>
+    </message>
+    <message id="m0003" participant="131287" time="2012-08-04 01:54:29 UTC">
+      <body>Ok- have a fan going in your room and looking for one for #####'s room. Cooling down :)</body>
+    </message>
+  </messages>
+</conversation>

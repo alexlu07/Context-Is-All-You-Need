@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130729.0023" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="136133" time="2013-07-29 18:57:24 UTC">
+      <body>Hello! How are you today?</body>
+    </message>
+    <message id="m0001" participant="130659" time="2013-07-29 19:05:21 UTC">
+      <body>Hi.. I'm tired.. It's been a long day... How are you?</body>
+    </message>
+    <message id="m0002" participant="136133" time="2013-07-29 19:32:22 UTC">
+      <body>Aw but at least you got a lot done. :) I'm okay today. Just finishing an online course and tutoring cousins.</body>
+    </message>
+  </messages>
+</conversation>

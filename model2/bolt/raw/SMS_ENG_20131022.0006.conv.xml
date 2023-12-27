@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131022.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-10-22 14:43:12 UTC" participant="153645">
+      <body>Hey! Just wanted to see if you wanted to meet up any time soon? We have not talked about your film much in a while - or we can just do work side by side in the studio. </body>
+    </message>
+    <message id="m0001" time="2013-10-22 21:27:54 UTC" participant="153548">
+      <body>Hey! This week is packed with film festival screenings and animal collective and friends visiting but I might get in during the day Friday. Not sure if you have Fridays free?</body>
+    </message>
+    <message id="m0002" time="2013-10-22 21:28:01 UTC" participant="153548">
+      <body>Otherwise next weds??</body>
+    </message>
+  </messages>
+</conversation>
+

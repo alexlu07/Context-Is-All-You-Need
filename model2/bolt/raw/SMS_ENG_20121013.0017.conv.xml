@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121013.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136279" time="2012-10-13 23:11:26 UTC">
+      <body>Hey, you free?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-10-13 23:16:38 UTC">
+      <body>Hey! I'm having dinner right now but I will be free in like half an hour to an hour. Is that cool?</body>
+    </message>
+    <message id="m0002" participant="136279" time="2012-10-13 23:18:51 UTC">
+      <body>Yeah, totes, take your time!</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-10-14 00:00:55 UTC">
+      <body>I am ready. Get ur bitchass on Skype</body>
+    </message>
+    <message id="m0004" participant="136279" time="2012-10-14 00:01:31 UTC">
+      <body>Hold on, ill be on in a few.</body>
+    </message>
+  </messages>
+</conversation>

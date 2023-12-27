@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130525.0082" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-05-25 23:14:40 UTC" participant="152417">
+      <body>I have seats reserved for you behind band</body>
+    </message>
+    <message id="m0001" time="2013-05-25 23:25:59 UTC" participant="152426">
+      <body>Thx! Dinner is running late. Can you get up one more ticket?</body>
+    </message>
+    <message id="m0002" time="2013-05-25 23:33:20 UTC" participant="152417">
+      <body>I dont think i have that powere, we're already oversold</body>
+    </message>
+    <message id="m0003" time="2013-05-25 23:36:45 UTC" participant="152417">
+      <body>No go</body>
+    </message>
+    <message id="m0004" time="2013-05-25 23:56:35 UTC" participant="152417">
+      <body>We're hitting in two</body>
+    </message>
+    <message id="m0005" time="2013-05-26 15:17:46 UTC" participant="152417">
+      <body>We're up, gotta walk dogs and he we'll be ready</body>
+    </message>
+    <message id="m0006" time="2013-05-26 15:36:13 UTC" participant="152426">
+      <body>We're here. Are you out walking the dogs still?</body>
+    </message>
+  </messages>
+</conversation>
+

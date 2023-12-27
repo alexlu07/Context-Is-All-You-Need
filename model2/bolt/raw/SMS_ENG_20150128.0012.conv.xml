@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150128.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-01-28 17:19:56 UTC" participant="153429">
+      <body>Hello,  you can cover the petu phone until we switch</body>
+    </message>
+    <message id="m0001" time="2015-01-28 17:20:20 UTC" participant="153417">
+      <body>Of course I can</body>
+    </message>
+    <message id="m0002" time="2015-01-28 17:21:00 UTC" participant="153429">
+      <body>You're the bestest</body>
+    </message>
+    <message id="m0003" time="2015-01-28 19:05:12 UTC" participant="153417">
+      <body>On my way</body>
+    </message>
+  </messages>
+</conversation>
+

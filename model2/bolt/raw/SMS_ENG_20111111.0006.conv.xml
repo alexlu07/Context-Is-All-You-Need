@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20111111.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131824" time="2011-11-11 20:28:40 UTC">
+      <body>Did everything work out ok?</body>
+    </message>
+    <message id="m0001" participant="131821" time="2011-11-11 20:28:55 UTC">
+      <body>No</body>
+    </message>
+    <message id="m0002" participant="131824" time="2011-11-11 20:29:12 UTC">
+      <body>:(</body>
+    </message>
+    <message id="m0003" participant="131821" time="2011-11-11 20:29:36 UTC">
+      <body>I know</body>
+    </message>
+  </messages>
+</conversation>

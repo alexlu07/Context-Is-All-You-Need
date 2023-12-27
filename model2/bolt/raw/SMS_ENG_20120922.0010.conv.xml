@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120922.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136277" time="2012-09-22 01:29:10 UTC">
+      <body>Where you at?</body>
+    </message>
+    <message id="m0001" participant="136164" time="2012-09-22 01:33:19 UTC">
+      <body>Sushi and Elena's room</body>
+    </message>
+    <message id="m0002" participant="136277" time="2012-09-22 01:34:07 UTC">
+      <body>Is it fun?</body>
+    </message>
+    <message id="m0003" participant="136164" time="2012-09-22 01:34:27 UTC">
+      <body>Nah we about to leave. They're not going out</body>
+    </message>
+    <message id="m0004" participant="136277" time="2012-09-22 01:35:38 UTC">
+      <body>Why not? And lets party in your room</body>
+    </message>
+    <message id="m0005" participant="136164" time="2012-09-22 01:36:59 UTC">
+      <body>Where are you right now</body>
+    </message>
+    <message id="m0006" participant="136277" time="2012-09-22 01:38:28 UTC">
+      <body>In bens room but nothin doin</body>
+    </message>
+    <message id="m0007" participant="136164" time="2012-09-22 16:49:01 UTC">
+      <body>Shuttle leaves clairmont at 1 so it will be here by like 1:15</body>
+    </message>
+    <message id="m0008" participant="136277" time="2012-09-22 16:50:40 UTC">
+      <body>Or we could take the one at 2...</body>
+    </message>
+    <message id="m0009" participant="136277" time="2012-09-22 16:50:51 UTC">
+      <body>And show up.at 215 with all the other freshmen</body>
+    </message>
+    <message id="m0010" participant="136164" time="2012-09-22 16:58:03 UTC">
+      <body>I'm going now. You can be late if you want</body>
+    </message>
+    <message id="m0011" participant="136277" time="2012-09-22 17:05:07 UTC">
+      <body>Why would you leave now...</body>
+    </message>
+    <message id="m0012" participant="136277" time="2012-09-22 17:46:23 UTC">
+      <body>Are you there?</body>
+    </message>
+    <message id="m0013" participant="136164" time="2012-09-22 17:59:33 UTC">
+      <body>Yeah</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110616.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135113" time="2011-06-16 23:31:03 UTC">
+      <body>Would you like to get something to eat with me?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-06-16 23:31:38 UTC">
+      <body>I'm going to a dance thing at 8 so I don't really have time... Sorry</body>
+    </message>
+    <message id="m0002" participant="135113" time="2011-06-16 23:33:36 UTC">
+      <body>That's alright, just thought I would offer</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-06-16 23:35:12 UTC">
+      <body>Shit I keep forgetting to thank you for covering me last night.</body>
+    </message>
+    <message id="m0004" participant="135113" time="2011-06-16 23:35:50 UTC">
+      <body>No worries</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-06-16 23:36:19 UTC">
+      <body>Well the sloppy drunk appreciates it.</body>
+    </message>
+    <message id="m0006" participant="135113" time="2011-06-16 23:37:01 UTC">
+      <body>:-)</body>
+    </message>
+    <message id="m0007" participant="135113" time="2011-06-17 16:12:25 UTC">
+      <body>Hey I'm thinking of heading to dinkytown around noon if you are interested in getting lunch or hanging out. If not, that's totally cool</body>
+    </message>
+    <message id="m0008" participant="131839" time="2011-06-17 16:13:22 UTC">
+      <body>I'm on my way back to new ulm actually. Let me know the next time you're around</body>
+    </message>
+    <message id="m0009" participant="135113" time="2011-06-17 16:14:08 UTC">
+      <body>Okay will do</body>
+    </message>
+  </messages>
+</conversation>

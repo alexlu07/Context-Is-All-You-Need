@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130609.0012" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130578" time="2013-06-09 13:14:58 UTC">
+      <body>Hi again</body>
+    </message>
+    <message id="m0001" participant="131527" time="2013-06-09 14:05:05 UTC">
+      <body>Hello!</body>
+    </message>
+    <message id="m0002" participant="130578" time="2013-06-09 14:24:57 UTC">
+      <body>How was your week?</body>
+    </message>
+    <message id="m0003" participant="131527" time="2013-06-09 14:25:49 UTC">
+      <body>Super busy; had a wedding yesterday</body>
+    </message>
+    <message id="m0004" participant="131527" time="2013-06-09 14:25:49 UTC">
+      <body>U?</body>
+    </message>
+    <message id="m0005" participant="130578" time="2013-06-09 16:22:15 UTC">
+      <body>Lots of work unfortunately but still not too bad</body>
+    </message>
+    <message id="m0006" participant="131527" time="2013-06-09 18:09:56 UTC">
+      <body>Yeah, same here. Work during the day, homemade wedding present every night and a six year old to boot. Crazy!!</body>
+    </message>
+    <message id="m0007" participant="130578" time="2013-06-09 18:41:39 UTC">
+      <body>Yeah that does sound hectic! It's weird how sometimes we can be much busier over the summer than in other seasons</body>
+    </message>
+    <message id="m0008" participant="131527" time="2013-06-09 21:57:36 UTC">
+      <body>Yeah, I miss the days when summer meant freedom</body>
+    </message>
+    <message id="m0009" participant="130578" time="2013-06-09 22:37:07 UTC">
+      <body>Yup. Also, is it just me or has there been a lot of thunderstorms recently?</body>
+    </message>
+    <message id="m0010" participant="131527" time="2013-06-09 22:41:27 UTC">
+      <body>Very true</body>
+    </message>
+  </messages>
+</conversation>

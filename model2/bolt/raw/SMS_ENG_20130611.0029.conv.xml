@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130611.0029" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131964" time="2013-06-11 21:54:27 UTC">
+      <body>Wanna, like, hang out, and, look at stuff soon?ish?</body>
+    </message>
+    <message id="m0001" participant="130868" time="2013-06-12 03:56:41 UTC">
+      <body>Uh, YEAH!  Earliest I could do so is Saturday evening, does that work for you?</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-06-13 01:23:19 UTC">
+      <body>My weekend esta loco, maybe sometime next week?</body>
+    </message>
+  </messages>
+</conversation>

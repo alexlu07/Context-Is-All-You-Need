@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130324.0020" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="136112" time="2013-03-24 16:14:35 UTC">
+      <body>are you still here? </body>
+    </message>
+    <message id="m0001" participant="136143" time="2013-03-24 16:15:38 UTC">
+      <body>Hey, I left, headed to E village</body>
+    </message>
+    <message id="m0002" participant="136112" time="2013-03-24 16:16:07 UTC">
+      <body>cool, see you in a sec! </body>
+    </message>
+  </messages>
+</conversation>

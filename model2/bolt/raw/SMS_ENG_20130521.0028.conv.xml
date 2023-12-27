@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130521.0028" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="130747" time="2013-05-21 16:26:49 UTC">
+      <body>Hello</body>
+    </message>
+    <message id="m0001" participant="130747" time="2013-05-21 16:33:21 UTC">
+      <body>This working?</body>
+    </message>
+    <message id="m0002" participant="130995" time="2013-05-21 17:53:44 UTC">
+      <body>Hi! How are you today?</body>
+    </message>
+    <message id="m0003" participant="130995" time="2013-05-21 17:54:41 UTC">
+      <body>Yes it's working. Sorry it took me a while to reply.</body>
+    </message>
+    <message id="m0004" participant="130747" time="2013-05-21 17:55:33 UTC">
+      <body>Haha I'm sorry this is my first one. I'm Dan btw</body>
+    </message>
+    <message id="m0005" participant="130995" time="2013-05-21 17:57:20 UTC">
+      <body>Hi Dan. I'm Bre. It's my first one too.</body>
+    </message>
+    <message id="m0006" participant="130747" time="2013-05-21 17:58:38 UTC">
+      <body>Nice. well lets do lots of texts so we can win that money lol</body>
+    </message>
+    <message id="m0007" participant="130747" time="2013-05-21 17:58:56 UTC">
+      <body>U in the philly area?</body>
+    </message>
+    <message id="m0008" participant="130995" time="2013-05-21 18:00:10 UTC">
+      <body>I agree. That sounds like a great idea.</body>
+    </message>
+    <message id="m0009" participant="130995" time="2013-05-21 18:00:41 UTC">
+      <body>Yup i'm in philly.</body>
+    </message>
+    <message id="m0010" participant="130995" time="2013-05-21 18:01:08 UTC">
+      <body>Are you?</body>
+    </message>
+    <message id="m0011" participant="130747" time="2013-05-21 18:04:38 UTC">
+      <body>Yeah I guess everyone doing this is</body>
+    </message>
+    <message id="m0012" participant="130747" time="2013-05-21 18:05:08 UTC">
+      <body>So what's goin on in philly</body>
+    </message>
+    <message id="m0013" participant="130995" time="2013-05-21 18:06:41 UTC">
+      <body>Possibly.</body>
+    </message>
+    <message id="m0014" participant="130995" time="2013-05-21 18:07:52 UTC">
+      <body>Have you done other studies with LDC?</body>
+    </message>
+    <message id="m0015" participant="130995" time="2013-05-21 18:08:41 UTC">
+      <body>Tonight i'm job searching.</body>
+    </message>
+    <message id="m0016" participant="130747" time="2013-05-21 18:09:50 UTC">
+      <body>Yeah I've done two. Where are u looking?</body>
+    </message>
+    <message id="m0017" participant="130995" time="2013-05-21 18:09:50 UTC">
+      <body>That's the extent of what's happening in philly with me!</body>
+    </message>
+    <message id="m0018" participant="130995" time="2013-05-21 18:11:54 UTC">
+      <body>Not sure yet.</body>
+    </message>
+    <message id="m0019" participant="130995" time="2013-05-21 18:13:03 UTC">
+      <body>I think i want to start by creating a plan of attack or strategy.</body>
+    </message>
+    <message id="m0020" participant="130995" time="2013-05-21 18:13:31 UTC">
+      <body>I want to do something with languages or with teaching.</body>
+    </message>
+    <message id="m0021" participant="130995" time="2013-05-21 18:14:27 UTC">
+      <body>Or maybe with cosmetology...</body>
+    </message>
+    <message id="m0022" participant="130747" time="2013-05-21 18:16:06 UTC">
+      <body>How old r u if u dun mind me asking</body>
+    </message>
+    <message id="m0023" participant="130995" time="2013-05-21 18:19:52 UTC">
+      <body>I'm in my early 30s and you?</body>
+    </message>
+    <message id="m0024" participant="130995" time="2013-05-21 18:23:32 UTC">
+      <body>What kind of work do you do?</body>
+    </message>
+    <message id="m0025" participant="130995" time="2013-05-21 18:29:35 UTC">
+      <body>Are you still there Dan?</body>
+    </message>
+    <message id="m0026" participant="130747" time="2013-05-21 18:32:30 UTC">
+      <body>Yeah sry just eat in dinner</body>
+    </message>
+    <message id="m0027" participant="130747" time="2013-05-21 18:33:01 UTC">
+      <body>I'm 27 a budget analyst for phola school dist</body>
+    </message>
+    <message id="m0028" participant="130747" time="2013-05-21 18:33:01 UTC">
+      <body>U have a family?</body>
+    </message>
+    <message id="m0029" participant="130995" time="2013-05-21 18:34:55 UTC">
+      <body>Nope. Just myself to maintain.</body>
+    </message>
+    <message id="m0030" participant="130995" time="2013-05-21 18:35:20 UTC">
+      <body>How was dinner?</body>
+    </message>
+    <message id="m0031" participant="130995" time="2013-05-21 18:35:24 UTC">
+      <body>What did you have?</body>
+    </message>
+    <message id="m0032" participant="130995" time="2013-05-21 18:36:04 UTC">
+      <body>What does a budget analyst do?</body>
+    </message>
+    <message id="m0033" participant="130995" time="2013-05-21 18:36:30 UTC">
+      <body>Do you have a family?</body>
+    </message>
+    <message id="m0034" participant="130995" time="2013-05-21 18:40:22 UTC">
+      <body>Does your job pay well?</body>
+    </message>
+    <message id="m0035" participant="130747" time="2013-05-21 18:42:35 UTC">
+      <body>It pays OK but the district is falling apart</body>
+    </message>
+    <message id="m0036" participant="130747" time="2013-05-21 18:43:34 UTC">
+      <body>Probably getting a pay cut next yr</body>
+    </message>
+    <message id="m0037" participant="130995" time="2013-05-21 18:43:55 UTC">
+      <body>I hear lots of schools are closing.</body>
+    </message>
+    <message id="m0038" participant="130995" time="2013-05-21 18:44:28 UTC">
+      <body>Does that affect you?</body>
+    </message>
+    <message id="m0039" participant="130995" time="2013-05-21 18:45:06 UTC">
+      <body>Oh no! That's not good...</body>
+    </message>
+    <message id="m0040" participant="130747" time="2013-05-21 18:46:05 UTC">
+      <body>I work in the budget office.</body>
+    </message>
+    <message id="m0041" participant="130747" time="2013-05-21 18:46:48 UTC">
+      <body>But I am in the union</body>
+    </message>
+    <message id="m0042" participant="130747" time="2013-05-21 18:48:55 UTC">
+      <body>The district is broke so everyone is feeling it</body>
+    </message>
+    <message id="m0043" participant="130747" time="2013-05-21 18:48:55 UTC">
+      <body>What part of the city do u live in??</body>
+    </message>
+    <message id="m0044" participant="130995" time="2013-05-21 18:49:29 UTC">
+      <body>So does the union protect you from too much of a pay cut?</body>
+    </message>
+    <message id="m0045" participant="130995" time="2013-05-21 18:50:36 UTC">
+      <body>I was going to ask you if they're hiring but i guess i shouldn't bother.</body>
+    </message>
+    <message id="m0046" participant="130747" time="2013-05-21 18:50:42 UTC">
+      <body>They are in negotiations now I'm very curious to see the outcome</body>
+    </message>
+    <message id="m0047" participant="130995" time="2013-05-21 18:51:09 UTC">
+      <body>I'd rather not say.</body>
+    </message>
+    <message id="m0048" participant="130995" time="2013-05-21 18:51:58 UTC">
+      <body>I know it will affect a lot of folks.</body>
+    </message>
+    <message id="m0049" participant="130995" time="2013-05-21 18:52:24 UTC">
+      <body>The school district employs a lot of people.</body>
+    </message>
+    <message id="m0050" participant="130995" time="2013-05-21 18:53:01 UTC">
+      <body>Do you have a family to support?</body>
+    </message>
+    <message id="m0051" participant="130747" time="2013-05-21 18:53:14 UTC">
+      <body>Yeah they def aren't hiring at the moment. Big layoffs in about a month</body>
+    </message>
+    <message id="m0052" participant="130995" time="2013-05-21 18:55:16 UTC">
+      <body>Wow! That's going to be rough.</body>
+    </message>
+    <message id="m0053" participant="130747" time="2013-05-21 18:56:59 UTC">
+      <body>yep not lookin forward to it. Its been bad ever since I arrived</body>
+    </message>
+    <message id="m0054" participant="130747" time="2013-05-21 18:56:59 UTC">
+      <body>No I'm single.</body>
+    </message>
+    <message id="m0055" participant="130995" time="2013-05-21 18:58:04 UTC">
+      <body>How long have you been there?</body>
+    </message>
+    <message id="m0056" participant="130995" time="2013-05-21 18:58:33 UTC">
+      <body>Do you have any job security?</body>
+    </message>
+    <message id="m0057" participant="130747" time="2013-05-21 18:59:08 UTC">
+      <body>3 yes in sept</body>
+    </message>
+    <message id="m0058" participant="130747" time="2013-05-21 18:59:34 UTC">
+      <body>I think I'll be fine aside from the cut. But our contract is being renewed now</body>
+    </message>
+    <message id="m0059" participant="130995" time="2013-05-21 18:59:54 UTC">
+      <body>It's good you don't have to support kids in this economy. I hear kids are expensive.</body>
+    </message>
+    <message id="m0060" participant="130995" time="2013-05-21 19:01:34 UTC">
+      <body>Oh good! I'm glad you don't have long to go.</body>
+    </message>
+    <message id="m0061" participant="130995" time="2013-05-21 19:03:29 UTC">
+      <body>So as someone in a union, do you ever go to picket lines or protests?</body>
+    </message>
+    <message id="m0062" participant="130747" time="2013-05-21 19:06:10 UTC">
+      <body>Lol yea for sure</body>
+    </message>
+    <message id="m0063" participant="130747" time="2013-05-21 19:06:34 UTC">
+      <body>No but they happen at my building quite frequently</body>
+    </message>
+    <message id="m0064" participant="130995" time="2013-05-21 19:08:41 UTC">
+      <body>That's cool. You have a say in your job future. You make folks listen to you. Not every job gives you that kind of power.</body>
+    </message>
+    <message id="m0065" participant="130995" time="2013-05-21 19:10:52 UTC">
+      <body>Oh i thought you were responding to the picket question in your last text. I got confused.</body>
+    </message>
+    <message id="m0066" participant="130747" time="2013-05-21 19:16:31 UTC">
+      <body>I was. They picket outside of 440 all the time but I just go to work lol. If we strike I won't be though</body>
+    </message>
+    <message id="m0067" participant="130995" time="2013-05-21 19:20:14 UTC">
+      <body>What makes you avoid picketing?</body>
+    </message>
+    <message id="m0068" participant="130995" time="2013-05-21 19:21:01 UTC">
+      <body>Could you lose your job?</body>
+    </message>
+    <message id="m0069" participant="130747" time="2013-05-21 19:24:03 UTC">
+      <body>Because I see the problems from both sides. I dun really blame 440 for stuff. I mean maybe I would if the Union protested</body>
+    </message>
+    <message id="m0070" participant="130995" time="2013-05-21 19:27:28 UTC">
+      <body>Oh i see. It's usually other groups protesting against the school district- not the school district staff protesting. Right?</body>
+    </message>
+    <message id="m0071" participant="130747" time="2013-05-21 19:29:12 UTC">
+      <body>Its usually students and teachers in schools but I work in the admin office.</body>
+    </message>
+    <message id="m0072" participant="130995" time="2013-05-21 19:30:52 UTC">
+      <body>Ah! So you're one of the bad guys! Lol</body>
+    </message>
+    <message id="m0073" participant="130747" time="2013-05-21 19:32:26 UTC">
+      <body>No they just are misinformed often. We dun supply money. Just allocate it. State is big problem now Cuz we have Republican governor</body>
+    </message>
+    <message id="m0074" participant="130995" time="2013-05-21 19:34:43 UTC">
+      <body>Yeah i hear a lot of bad things about corbitt.</body>
+    </message>
+    <message id="m0075" participant="130995" time="2013-05-21 19:35:09 UTC">
+      <body>How much longer will he be in office anyway?</body>
+    </message>
+    <message id="m0076" participant="130747" time="2013-05-21 19:35:34 UTC">
+      <body>Idk 2 yes I think</body>
+    </message>
+    <message id="m0077" participant="130747" time="2013-05-21 19:35:50 UTC">
+      <body>Years*</body>
+    </message>
+    <message id="m0078" participant="130995" time="2013-05-21 19:37:27 UTC">
+      <body>He can do a lot of damage in two years...</body>
+    </message>
+    <message id="m0079" participant="130995" time="2013-05-21 19:37:32 UTC">
+      <body>He's done plenty already</body>
+    </message>
+    <message id="m0080" participant="130747" time="2013-05-21 19:38:52 UTC">
+      <body>Yeah I'm not a fan at all</body>
+    </message>
+    <message id="m0081" participant="130747" time="2013-05-21 19:42:17 UTC">
+      <body>So what do u do for fun?</body>
+    </message>
+    <message id="m0082" participant="130995" time="2013-05-21 19:46:13 UTC">
+      <body>I like to hang out with my family and friends.</body>
+    </message>
+    <message id="m0083" participant="130995" time="2013-05-21 19:46:38 UTC">
+      <body>I also like to shop.</body>
+    </message>
+    <message id="m0084" participant="130747" time="2013-05-21 19:47:11 UTC">
+      <body>hanging out with family and friends is always good</body>
+    </message>
+    <message id="m0085" participant="130995" time="2013-05-21 19:47:11 UTC">
+      <body>How about you?</body>
+    </message>
+    <message id="m0086" participant="130747" time="2013-05-21 19:47:59 UTC">
+      <body>Yeah I gotta get some summer clothes shopping done myself</body>
+    </message>
+    <message id="m0087" participant="130995" time="2013-05-21 19:50:10 UTC">
+      <body>Are you male? Is Dan short for daniel?</body>
+    </message>
+    <message id="m0088" participant="130995" time="2013-05-21 19:50:57 UTC">
+      <body>I wish i had money to go shopping.</body>
+    </message>
+    <message id="m0089" participant="130995" time="2013-05-21 19:51:47 UTC">
+      <body>I have a huge investment project that will use up any money i get.</body>
+    </message>
+    <message id="m0090" participant="130747" time="2013-05-21 19:53:00 UTC">
+      <body>Yeah I'm daniel</body>
+    </message>
+    <message id="m0091" participant="130747" time="2013-05-21 19:53:26 UTC">
+      <body>What r u investing in</body>
+    </message>
+    <message id="m0092" participant="130995" time="2013-05-21 19:53:26 UTC">
+      <body>I want to pay off my debt and buy a car with cash.</body>
+    </message>
+    <message id="m0093" participant="130995" time="2013-05-21 19:53:58 UTC">
+      <body>I'm going to save every penny i get till i get my car.</body>
+    </message>
+    <message id="m0094" participant="130747" time="2013-05-21 19:54:25 UTC">
+      <body>Yeah I have tons of debt</body>
+    </message>
+    <message id="m0095" participant="130995" time="2013-05-21 19:55:27 UTC">
+      <body>A car paid in cash</body>
+    </message>
+    <message id="m0096" participant="130747" time="2013-05-21 20:03:56 UTC">
+      <body>Good luck with that</body>
+    </message>
+    <message id="m0097" participant="130747" time="2013-05-21 20:04:25 UTC">
+      <body>What kinda car</body>
+    </message>
+    <message id="m0098" participant="130995" time="2013-05-21 20:04:25 UTC">
+      <body>Do you have siblings?</body>
+    </message>
+    <message id="m0099" participant="130747" time="2013-05-21 20:05:05 UTC">
+      <body>Yep one lil bro. He's only 15</body>
+    </message>
+    <message id="m0100" participant="130995" time="2013-05-21 20:23:14 UTC">
+      <body>Thanks. I'm not sure what kind of car yet. It probably won't be brand new though.</body>
+    </message>
+    <message id="m0101" participant="130995" time="2013-05-21 20:23:50 UTC">
+      <body>Are you and your brother close?</body>
+    </message>
+    <message id="m0102" participant="130747" time="2013-05-21 20:25:32 UTC">
+      <body>No he's so much younger</body>
+    </message>
+    <message id="m0103" participant="130747" time="2013-05-21 20:25:56 UTC">
+      <body>I moved out when he was still a baby</body>
+    </message>
+    <message id="m0104" participant="130995" time="2013-05-21 20:28:19 UTC">
+      <body>Yeah i guess you're a whole generation apart.</body>
+    </message>
+    <message id="m0105" participant="130995" time="2013-05-21 20:29:10 UTC">
+      <body>Maybe you can be a role model for him.</body>
+    </message>
+    <message id="m0106" participant="130747" time="2013-05-21 20:33:05 UTC">
+      <body>Yeah on definitely more of a father figure. I'm not super family oriented though and not as close to any of my family ad they probably wish I was</body>
+    </message>
+    <message id="m0107" participant="130995" time="2013-05-21 20:37:58 UTC">
+      <body>Are you more of an independent type?</body>
+    </message>
+    <message id="m0108" participant="130995" time="2013-05-21 20:40:55 UTC">
+      <body>What time do you want to start texting tomorrow?</body>
+    </message>
+    <message id="m0109" participant="130747" time="2013-05-21 20:42:32 UTC">
+      <body>I get in to work around 9 and I'm pretty bored all day so that is fine</body>
+    </message>
+    <message id="m0110" participant="130995" time="2013-05-21 20:59:07 UTC">
+      <body>Ok have a good night. Talk to ya tomorrow.</body>
+    </message>
+    <message id="m0111" participant="130747" time="2013-05-21 21:03:32 UTC">
+      <body>OK sounds good</body>
+    </message>
+    <message id="m0112" participant="130747" time="2013-05-22 08:36:14 UTC">
+      <body>Morning</body>
+    </message>
+    <message id="m0113" participant="130995" time="2013-05-22 08:42:27 UTC">
+      <body>Good morning!</body>
+    </message>
+    <message id="m0114" participant="130995" time="2013-05-22 08:43:48 UTC">
+      <body>It's almost 9. Ready for work?</body>
+    </message>
+    <message id="m0115" participant="130747" time="2013-05-22 08:51:10 UTC">
+      <body>Yep I'm here. Already bored lol</body>
+    </message>
+    <message id="m0116" participant="130995" time="2013-05-22 09:01:49 UTC">
+      <body>Aw man. I hope the day goes by quickly for you.</body>
+    </message>
+    <message id="m0117" participant="130995" time="2013-05-22 09:04:30 UTC">
+      <body>Did you hear it's supposed to be 87 degrees today?</body>
+    </message>
+    <message id="m0118" participant="130995" time="2013-05-22 09:05:08 UTC">
+      <body>I hope you can stay cool in the air conditioning</body>
+    </message>
+    <message id="m0119" participant="130747" time="2013-05-22 09:15:02 UTC">
+      <body>Really? Dam I was expecting rain</body>
+    </message>
+    <message id="m0120" participant="130747" time="2013-05-22 09:15:02 UTC">
+      <body>How was job search?</body>
+    </message>
+    <message id="m0121" participant="130995" time="2013-05-22 09:18:16 UTC">
+      <body>It went well. I've decided to become a workshop facilitator. I wrote out my business plan last night and it turned out pretty good.</body>
+    </message>
+    <message id="m0122" participant="130995" time="2013-05-22 09:19:37 UTC">
+      <body>It'll be a 2 hr training.</body>
+    </message>
+    <message id="m0123" participant="130995" time="2013-05-22 09:20:53 UTC">
+      <body>Now i just have to figure out to who and how to market it</body>
+    </message>
+    <message id="m0124" participant="130747" time="2013-05-22 09:22:12 UTC">
+      <body>What's a workshop facilitator do</body>
+    </message>
+    <message id="m0125" participant="130995" time="2013-05-22 09:29:59 UTC">
+      <body>Teach about a topic in an intensive format.</body>
+    </message>
+    <message id="m0126" participant="130995" time="2013-05-22 09:30:56 UTC">
+      <body>Like heath care for older adults</body>
+    </message>
+    <message id="m0127" participant="130995" time="2013-05-22 09:31:21 UTC">
+      <body>Or knitting for beginners</body>
+    </message>
+    <message id="m0128" participant="130995" time="2013-05-22 09:33:15 UTC">
+      <body>Or wedding photography. You choose a topic that can be taught in 2 hours</body>
+    </message>
+    <message id="m0129" participant="130995" time="2013-05-22 09:34:32 UTC">
+      <body>Some workshops are longer like 3 days or 5 days or 2 weeks</body>
+    </message>
+    <message id="m0130" participant="130747" time="2013-05-22 09:35:59 UTC">
+      <body>Ohok I got u. U gonna teach all the workshops or just bring ppl together</body>
+    </message>
+    <message id="m0131" participant="130995" time="2013-05-22 09:38:56 UTC">
+      <body>I'll teach it. I'll present the proposal to a company and offer to teach their employees.</body>
+    </message>
+    <message id="m0132" participant="130995" time="2013-05-22 09:39:54 UTC">
+      <body>They advertise it to their staff and i show up and teach</body>
+    </message>
+    <message id="m0133" participant="130747" time="2013-05-22 09:42:44 UTC">
+      <body>Sounds like u have to learn about lotsa diff things then</body>
+    </message>
+    <message id="m0134" participant="130747" time="2013-05-22 09:44:23 UTC">
+      <body>So what u up to today??</body>
+    </message>
+    <message id="m0135" participant="130995" time="2013-05-22 09:50:04 UTC">
+      <body>I have a dentist appointment in 10 minutes.</body>
+    </message>
+    <message id="m0136" participant="130995" time="2013-05-22 09:50:42 UTC">
+      <body>I'm eating breakfast now.</body>
+    </message>
+    <message id="m0137" participant="130995" time="2013-05-22 09:51:51 UTC">
+      <body>I have a meeting in the afternoon.</body>
+    </message>
+    <message id="m0138" participant="130995" time="2013-05-22 09:52:24 UTC">
+      <body>I may work my part time gig tonight.</body>
+    </message>
+    <message id="m0139" participant="130747" time="2013-05-22 09:52:30 UTC">
+      <body>Sounds like a busy day</body>
+    </message>
+    <message id="m0140" participant="130995" time="2013-05-22 09:53:41 UTC">
+      <body>I teach private lessons twice a week. My client cancels a lot tho.</body>
+    </message>
+    <message id="m0141" participant="130995" time="2013-05-22 09:53:45 UTC">
+      <body>Yeah</body>
+    </message>
+    <message id="m0142" participant="130747" time="2013-05-22 09:54:35 UTC">
+      <body>Piano??</body>
+    </message>
+    <message id="m0143" participant="130995" time="2013-05-22 10:21:14 UTC">
+      <body>Piano? I don't understand.</body>
+    </message>
+    <message id="m0144" participant="130747" time="2013-05-22 10:22:09 UTC">
+      <body>Piano lessons</body>
+    </message>
+    <message id="m0145" participant="130995" time="2013-05-22 10:23:03 UTC">
+      <body>What about them?</body>
+    </message>
+    <message id="m0146" participant="130747" time="2013-05-22 10:25:42 UTC">
+      <body>Is that the lessons u teach</body>
+    </message>
+    <message id="m0147" participant="130995" time="2013-05-22 10:29:19 UTC">
+      <body>No but i take piano lessons.</body>
+    </message>
+    <message id="m0148" participant="130995" time="2013-05-22 10:29:44 UTC">
+      <body>You too?</body>
+    </message>
+    <message id="m0149" participant="130747" time="2013-05-22 10:30:44 UTC">
+      <body>No I wish I could play</body>
+    </message>
+    <message id="m0150" participant="130747" time="2013-05-22 10:30:44 UTC">
+      <body>One of my life goals</body>
+    </message>
+    <message id="m0151" participant="130995" time="2013-05-22 10:37:03 UTC">
+      <body>Mine too. I think piano is such a beautiful instrument</body>
+    </message>
+    <message id="m0152" participant="130995" time="2013-05-22 10:38:19 UTC">
+      <body>Have you ever taken lessons?</body>
+    </message>
+    <message id="m0153" participant="130747" time="2013-05-22 10:41:54 UTC">
+      <body>No but I played saxophone for a big part ofmy life</body>
+    </message>
+    <message id="m0154" participant="130995" time="2013-05-22 10:52:01 UTC">
+      <body>Would piano be easier to learn than the sax?</body>
+    </message>
+    <message id="m0155" participant="130995" time="2013-05-22 10:53:04 UTC">
+      <body>What made you stop?</body>
+    </message>
+    <message id="m0156" participant="130747" time="2013-05-22 10:54:28 UTC">
+      <body>No piano is difficult because u have split Ur brain in half to keep time</body>
+    </message>
+    <message id="m0157" participant="130995" time="2013-05-22 10:56:45 UTC">
+      <body>Lol oh really! What is it like when you play sax?</body>
+    </message>
+    <message id="m0158" participant="130747" time="2013-05-22 11:00:03 UTC">
+      <body>Don't have to play two diff melodies at once! So its easier in that regard</body>
+    </message>
+    <message id="m0159" participant="130995" time="2013-05-22 11:05:15 UTC">
+      <body>Hmmm. I see.</body>
+    </message>
+    <message id="m0160" participant="130995" time="2013-05-22 11:07:01 UTC">
+      <body>I'm learning to play the melody and harmony at the same time now. It is indeed challenging.</body>
+    </message>
+    <message id="m0161" participant="130747" time="2013-05-22 11:08:10 UTC">
+      <body>What lessons do u teach</body>
+    </message>
+    <message id="m0162" participant="130995" time="2013-05-22 11:18:32 UTC">
+      <body>I teach english as a second language and spanish</body>
+    </message>
+    <message id="m0163" participant="130747" time="2013-05-22 11:22:35 UTC">
+      <body>Oh u speak Spanish?</body>
+    </message>
+    <message id="m0164" participant="130747" time="2013-05-22 11:22:59 UTC">
+      <body>Awesome. Another one of my life goals</body>
+    </message>
+    <message id="m0165" participant="130995" time="2013-05-22 11:25:37 UTC">
+      <body>Yeah i'm bilingual.</body>
+    </message>
+    <message id="m0166" participant="130747" time="2013-05-22 11:27:55 UTC">
+      <body>R u Hispanic?</body>
+    </message>
+    <message id="m0167" participant="130995" time="2013-05-22 11:29:55 UTC">
+      <body>You should learn. It's fun. I love languages.</body>
+    </message>
+    <message id="m0168" participant="130995" time="2013-05-22 11:31:15 UTC">
+      <body>I also speak portuguese and some french and i understand italian.</body>
+    </message>
+    <message id="m0169" participant="130995" time="2013-05-22 11:32:04 UTC">
+      <body>Nope i just learn languages easily</body>
+    </message>
+    <message id="m0170" participant="130747" time="2013-05-22 11:32:15 UTC">
+      <body>Lol I've tried. Been to Spain and mexico took it for 5 years. Dunno anything</body>
+    </message>
+    <message id="m0171" participant="130747" time="2013-05-22 11:33:25 UTC">
+      <body>Lucky you</body>
+    </message>
+    <message id="m0172" participant="130747" time="2013-05-22 11:33:25 UTC">
+      <body>Ever been abroad??</body>
+    </message>
+    <message id="m0173" participant="130995" time="2013-05-22 11:35:09 UTC">
+      <body>I used to live in mexico.</body>
+    </message>
+    <message id="m0174" participant="130995" time="2013-05-22 11:35:36 UTC">
+      <body>Don't give up. Keep trying.</body>
+    </message>
+    <message id="m0175" participant="130995" time="2013-05-22 11:36:26 UTC">
+      <body>I was a traveler for many years too and that helped.</body>
+    </message>
+    <message id="m0176" participant="130747" time="2013-05-22 11:38:10 UTC">
+      <body>Yea that def would help</body>
+    </message>
+    <message id="m0177" participant="130995" time="2013-05-22 12:04:29 UTC">
+      <body>Do you like to travel?</body>
+    </message>
+    <message id="m0178" participant="130747" time="2013-05-22 12:05:41 UTC">
+      <body>love it but haven't been in awhile</body>
+    </message>
+    <message id="m0179" participant="130995" time="2013-05-22 12:07:21 UTC">
+      <body>Same here. I hope to go somewhere this year.</body>
+    </message>
+    <message id="m0180" participant="130995" time="2013-05-22 12:07:42 UTC">
+      <body>Where have you been?</body>
+    </message>
+    <message id="m0181" participant="130747" time="2013-05-22 12:08:28 UTC">
+      <body>Too poor!!</body>
+    </message>
+    <message id="m0182" participant="130747" time="2013-05-22 12:10:08 UTC">
+      <body>Spain Italy mexico canada</body>
+    </message>
+    <message id="m0183" participant="130995" time="2013-05-22 12:16:13 UTC">
+      <body>Wow i've always wanted to go to italy. What did you think? Do you like it?</body>
+    </message>
+    <message id="m0184" participant="130995" time="2013-05-22 12:17:25 UTC">
+      <body>Where in canada?</body>
+    </message>
+    <message id="m0185" participant="130995" time="2013-05-22 12:17:54 UTC">
+      <body>What part of mexico?</body>
+    </message>
+    <message id="m0186" participant="130747" time="2013-05-22 12:19:03 UTC">
+      <body>Italy was my least favorite actually. Reminded me of philly alo</body>
+    </message>
+    <message id="m0187" participant="130747" time="2013-05-22 12:19:08 UTC">
+      <body>Toronto Mexico city and Acapulco</body>
+    </message>
+    <message id="m0188" participant="130995" time="2013-05-22 12:21:01 UTC">
+      <body>Why was italy like philly?</body>
+    </message>
+    <message id="m0189" participant="130995" time="2013-05-22 12:22:14 UTC">
+      <body>Were your trips for vacation?</body>
+    </message>
+    <message id="m0190" participant="130747" time="2013-05-22 12:23:26 UTC">
+      <body>The historical aspects were both prominent tourist draws</body>
+    </message>
+    <message id="m0191" participant="130995" time="2013-05-22 12:25:53 UTC">
+      <body>What city did you go to in italy?</body>
+    </message>
+    <message id="m0192" participant="130747" time="2013-05-22 12:27:35 UTC">
+      <body>rome</body>
+    </message>
+    <message id="m0193" participant="130995" time="2013-05-22 12:50:27 UTC">
+      <body>What do you like to do for fun?</body>
+    </message>
+    <message id="m0194" participant="130747" time="2013-05-22 13:58:22 UTC">
+      <body>Gym play bball goto bars</body>
+    </message>
+    <message id="m0195" participant="130747" time="2013-05-22 13:58:22 UTC">
+      <body>I make music videos as a hobby</body>
+    </message>
+  </messages>
+</conversation>

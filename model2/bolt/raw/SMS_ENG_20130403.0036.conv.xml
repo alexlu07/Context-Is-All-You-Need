@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130403.0036" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-04-03 18:04:11 UTC" participant="152417">
+      <body>Could you put me in touch with the phish lady so i can ask her for money$?</body>
+    </message>
+    <message id="m0001" time="2013-04-03 18:05:52 UTC" participant="152424">
+      <body>yeah let me contact her</body>
+    </message>
+    <message id="m0002" time="2013-04-03 18:07:03 UTC" participant="152417">
+      <body>Thanks</body>
+    </message>
+  </messages>
+</conversation>
+

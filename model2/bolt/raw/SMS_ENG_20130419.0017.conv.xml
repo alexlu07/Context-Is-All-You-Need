@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130419.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131281" time="2013-04-19 12:13:16 UTC">
+      <body>You called?</body>
+    </message>
+    <message id="m0001" participant="131282" time="2013-04-19 12:14:50 UTC">
+      <body>yeah, wanted you to take meat out</body>
+    </message>
+    <message id="m0002" participant="131281" time="2013-04-19 12:15:22 UTC">
+      <body>Ok</body>
+    </message>
+  </messages>
+</conversation>

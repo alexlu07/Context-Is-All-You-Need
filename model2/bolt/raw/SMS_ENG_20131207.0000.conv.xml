@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131207.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-07 21:53:07 UTC" participant="149360">
+      <body>You are invited to Lindsey's holiday party tonight</body>
+    </message>
+    <message id="m0001" time="2013-12-07 21:53:45 UTC" participant="149306">
+      <body>At the house?</body>
+    </message>
+    <message id="m0003" time="2013-12-07 23:00:54 UTC" participant="149306">
+      <body>What time</body>
+    </message>
+    <message id="m0004" time="2013-12-07 23:25:52 UTC" participant="149360">
+      <body>Around 8</body>
+    </message>
+    <message id="m0006" time="2013-12-08 01:50:59 UTC" participant="149306">
+      <body>I'm sleepy, think I'm staying in</body>
+    </message>
+  </messages>
+</conversation>
+

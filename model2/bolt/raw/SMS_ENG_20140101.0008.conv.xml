@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140101.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-01-01 05:10:58 UTC" participant="152116">
+      <body>Happy New year! Hope you all are having fun</body>
+    </message>
+    <message id="m0001" time="2014-01-01 15:02:39 UTC" participant="153491">
+      <body>Happy New Year to you too! Hope you're feeling better!!!</body>
+    </message>
+    <message id="m0002" time="2014-01-01 16:01:50 UTC" participant="152116">
+      <body>Yeah I don't feel bad. Are you getting ready leave?</body>
+    </message>
+    <message id="m0003" time="2014-01-01 19:16:09 UTC" participant="153491">
+      <body>That's good.Just landed at the airport. Getting our car now. </body>
+    </message>
+    <message id="m0004" time="2014-01-01 19:18:19 UTC" participant="152116">
+      <body>Is it raining?</body>
+    </message>
+    <message id="m0005" time="2014-01-01 19:18:49 UTC" participant="153491">
+      <body>I don't think so.</body>
+    </message>
+    <message id="m0006" time="2014-01-01 19:21:13 UTC" participant="152116">
+      <body>Good.</body>
+    </message>
+    <message id="m0007" time="2014-01-01 19:21:36 UTC" participant="152116">
+      <body>What did you wind up doing last night?</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140522.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-22 11:35:03 UTC" participant="153244">
+      <body>Might take a raincheck for today and reschedule for sunday if you're still available</body>
+    </message>
+    <message id="m0001" time="2014-05-22 11:35:40 UTC" participant="152116">
+      <body>Okay yeah I'll be able to meet on Sunday</body>
+    </message>
+    <message id="m0002" time="2014-05-22 11:36:00 UTC" participant="152116">
+      <body>But we're barbecuing at Eden's so can you so earlier in the day?</body>
+    </message>
+    <message id="m0003" time="2014-05-22 11:49:13 UTC" participant="153244">
+      <body>Oh yea I'm free all day unless I work which would be at 4 anyway. </body>
+    </message>
+    <message id="m0004" time="2014-05-22 11:50:52 UTC" participant="152116">
+      <body>Okay</body>
+    </message>
+    <message id="m0005" time="2014-05-22 11:51:22 UTC" participant="152116">
+      <body>So what did you want to talk about before Saturday? </body>
+    </message>
+    <message id="m0006" time="2014-05-22 11:53:15 UTC" participant="153244">
+      <body>In short since I'm heading in to work, I have a date sat night. And Steph has one sun.</body>
+    </message>
+    <message id="m0007" time="2014-05-22 12:16:37 UTC" participant="152116">
+      <body>Okay... I wasn't expecting that. You can call later if you want to talk. </body>
+    </message>
+    <message id="m0008" time="2014-05-22 12:30:29 UTC" participant="153244">
+      <body>Lol ok</body>
+    </message>
+  </messages>
+</conversation>
+

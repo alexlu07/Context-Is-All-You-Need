@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130517.0041" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135282" time="2013-05-17 14:18:25 UTC">
+      <body>Can i walk over to jen's with you guys?</body>
+    </message>
+    <message id="m0001" participant="135080" time="2013-05-17 14:20:37 UTC">
+      <body>Yeah!</body>
+    </message>
+    <message id="m0002" participant="135282" time="2013-05-17 14:21:53 UTC">
+      <body>Awesome, let me know when you're leaving?</body>
+    </message>
+    <message id="m0003" participant="135080" time="2013-05-17 14:22:05 UTC">
+      <body>Ok :)</body>
+    </message>
+    <message id="m0004" participant="135080" time="2013-05-17 14:35:37 UTC">
+      <body>Leaving</body>
+    </message>
+    <message id="m0005" participant="135282" time="2013-05-17 14:35:37 UTC">
+      <body>Almost ready?</body>
+    </message>
+  </messages>
+</conversation>

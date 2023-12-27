@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130725.0017" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="134920" time="2013-07-25 17:54:49 UTC">
+      <body>Hi Cotxe!!</body>
+    </message>
+    <message id="m0001" participant="130562" time="2013-07-25 21:01:52 UTC">
+      <body>What's up??</body>
+    </message>
+    <message id="m0002" participant="134920" time="2013-07-25 21:13:52 UTC">
+      <body>Just cooking dinner. You?</body>
+    </message>
+    <message id="m0003" participant="130562" time="2013-07-25 21:18:11 UTC">
+      <body>Workin at a bar right now</body>
+    </message>
+    <message id="m0004" participant="134920" time="2013-07-25 21:19:05 UTC">
+      <body>Are you a bartender? How's business tonight?</body>
+    </message>
+    <message id="m0005" participant="130562" time="2013-07-25 21:20:41 UTC">
+      <body>I bartend and barback some nights - tonight's backing and it's pretty slow. Decent bartending last night though. Why city are you in?</body>
+    </message>
+    <message id="m0006" participant="134920" time="2013-07-25 21:22:59 UTC">
+      <body>San Francisco. You?</body>
+    </message>
+    <message id="m0007" participant="130562" time="2013-07-25 21:35:51 UTC">
+      <body>Philly - I've got a few friends in Oakland and I'd like to get out to Cali for the first time sometime soon</body>
+    </message>
+    <message id="m0008" participant="134920" time="2013-07-25 22:26:47 UTC">
+      <body>Its great out here. Come on the summer; it'll be a nice break from humid east coast weather. I lived in Pgh for five years.</body>
+    </message>
+  </messages>
+</conversation>

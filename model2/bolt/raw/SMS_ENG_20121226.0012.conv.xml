@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121226.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131477" time="2012-12-26 02:10:40 UTC">
+      <body>Merry Christmas to you and Dan!</body>
+    </message>
+    <message id="m0001" participant="131450" time="2012-12-26 02:14:19 UTC">
+      <body>Thanks, merry Christmas to you and Tom too!</body>
+    </message>
+    <message id="m0002" participant="131477" time="2012-12-26 02:15:02 UTC">
+      <body>Thanks :)</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140409.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-09 18:03:54 UTC" participant="149306">
+      <body>To jam I'm outside at terminal 3</body>
+    </message>
+    <message id="m0001" time="2014-04-09 18:08:03 UTC" participant="149354">
+      <body>With you in 2 mins</body>
+    </message>
+    <message id="m0002" time="2014-04-09 18:09:59 UTC" participant="149306">
+      <body>Sweet im by an Allegiant sign after a US airways sign</body>
+    </message>
+  </messages>
+</conversation>
+

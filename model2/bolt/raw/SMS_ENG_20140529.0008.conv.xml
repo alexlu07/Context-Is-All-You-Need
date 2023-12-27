@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140529.0008" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-05-29 20:16:40 UTC" participant="153553">
+      <body>Come at 4:45...gotta finish my chores! :)</body>
+    </message>
+    <message id="m0001" time="2014-05-29 20:16:59 UTC" participant="153548">
+      <body>Will do!</body>
+    </message>
+    <message id="m0002" time="2014-05-29 20:47:43 UTC" participant="153548">
+      <body>Leaving my house now!</body>
+    </message>
+    <message id="m0003" time="2014-05-29 20:48:03 UTC" participant="153553">
+      <body>Cool!</body>
+    </message>
+    <message id="m0004" time="2014-05-29 20:48:56 UTC" participant="153553">
+      <body>I see you</body>
+    </message>
+    <message id="m0005" time="2014-05-29 20:49:24 UTC" participant="153553">
+      <body>Lookin good</body>
+    </message>
+    <message id="m0006" time="2014-05-29 20:49:41 UTC" participant="153548">
+      <body>Sweatpants!</body>
+    </message>
+    <message id="m0007" time="2014-05-29 22:34:07 UTC" participant="153553">
+      <body>Hey! Can you drive actually...Julian might wanna take car!</body>
+    </message>
+    <message id="m0008" time="2014-05-29 22:36:12 UTC" participant="153548">
+      <body>Yeah! Meet me out front at 7:15!</body>
+    </message>
+    <message id="m0009" time="2014-05-29 22:36:39 UTC" participant="153553">
+      <body>Cool! Sounds great! :)</body>
+    </message>
+  </messages>
+</conversation>
+

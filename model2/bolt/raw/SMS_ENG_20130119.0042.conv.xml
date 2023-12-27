@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130119.0042" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-01-19 17:15:13 UTC" participant="152417">
+      <body>Sorry i missed your call, im in tonight</body>
+    </message>
+    <message id="m0001" time="2013-01-19 17:16:06 UTC" participant="152534">
+      <body>Awesome. Glad to hear it. Let's just meet at 6. Cool?</body>
+    </message>
+    <message id="m0002" time="2013-01-19 17:47:07 UTC" participant="152417">
+      <body>Yep</body>
+    </message>
+  </messages>
+</conversation>
+

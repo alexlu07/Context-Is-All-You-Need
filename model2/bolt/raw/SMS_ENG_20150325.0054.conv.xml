@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150325.0054" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-25 17:41:55 UTC" participant="153804">
+      <body>Is your power flickering on &amp; off?</body>
+    </message>
+    <message id="m0001" time="2015-03-25 17:42:53 UTC" participant="153815">
+      <body>I am in Oneonta. Pat might know. I will see if he is home</body>
+    </message>
+    <message id="m0002" time="2015-03-25 17:44:40 UTC" participant="153804">
+      <body>Sorry didn't mean to bother you no big deal</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130127.0012" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130979" time="2013-01-27 19:41:59 UTC">
+      <body>I think we are probably going to do dinner with my parents tonight and Tuesday.  Does either of those work for you guys? </body>
+    </message>
+    <message id="m0001" participant="130979" time="2013-01-27 19:42:08 UTC">
+      <body>If you guys want? </body>
+    </message>
+    <message id="m0002" participant="134277" time="2013-01-27 19:43:49 UTC">
+      <body>We have a Skype session with a photographer at 6 PM tonight. That probably rules tonight out, right?</body>
+    </message>
+    <message id="m0003" participant="134277" time="2013-01-27 19:44:39 UTC">
+      <body>Tuesday could work, but need to check with Ingrid. She should be home in 2 hours.</body>
+    </message>
+    <message id="m0004" participant="134277" time="2013-01-27 21:15:44 UTC">
+      <body>Tuesday will work.</body>
+    </message>
+  </messages>
+</conversation>

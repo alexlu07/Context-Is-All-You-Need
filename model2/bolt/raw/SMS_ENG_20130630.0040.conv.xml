@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130630.0040" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-06-30 01:08:09 UTC" participant="152116">
+      <body>Are you home?</body>
+    </message>
+    <message id="m0001" time="2013-06-30 01:10:53 UTC" participant="153244">
+      <body>Yea</body>
+    </message>
+    <message id="m0002" time="2013-06-30 01:12:22 UTC" participant="152116">
+      <body>Okay we're about to leave Edens now. She's grabbing stuff to stay the night</body>
+    </message>
+    <message id="m0003" time="2013-06-30 01:12:37 UTC" participant="153244">
+      <body>K</body>
+    </message>
+    <message id="m0004" time="2013-07-01 00:23:31 UTC" participant="153244">
+      <body>Hey are you able to grab laundry detergent before ypu come home? </body>
+    </message>
+  </messages>
+</conversation>
+

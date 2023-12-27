@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130319.0035" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-03-19 11:49:10 UTC" participant="152734">
+      <body>Hello - I'm sitting in traffic and will probably be about 20 mins late, sorry.</body>
+    </message>
+    <message id="m0001" time="2013-03-19 11:50:08 UTC" participant="153306">
+      <body>No prob</body>
+    </message>
+  </messages>
+</conversation>
+

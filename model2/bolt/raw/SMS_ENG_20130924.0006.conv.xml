@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130924.0006" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-09-24 18:56:13 UTC" participant="154352">
+      <body>Hey hey</body>
+    </message>
+    <message id="m0001" time="2013-09-24 18:57:18 UTC" participant="154395">
+      <body>Hey stranger. What's up?</body>
+    </message>
+    <message id="m0002" time="2013-09-24 19:12:26 UTC" participant="154352">
+      <body>I'm feeling great. How have you been?</body>
+    </message>
+    <message id="m0003" time="2013-09-24 19:19:00 UTC" participant="154395">
+      <body>Good no complaints. In Virginia beach on a work trip</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141104.0022" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-04 18:59:29 UTC" participant="153244">
+      <body>I have a package coming to the house end of this week</body>
+    </message>
+    <message id="m0001" time="2014-11-04 18:59:58 UTC" participant="153900">
+      <body>Ok</body>
+    </message>
+    <message id="m0002" time="2014-11-04 19:19:07 UTC" participant="153900">
+      <body>Is it a gift for me</body>
+    </message>
+    <message id="m0003" time="2014-11-04 19:25:42 UTC" participant="153244">
+      <body>Lol no.. unless you wanted a liter box then sure</body>
+    </message>
+    <message id="m0004" time="2014-11-04 20:06:05 UTC" participant="153900">
+      <body>Did you start writing out a Christmas list and did you ask steph about clipping in</body>
+    </message>
+  </messages>
+</conversation>
+

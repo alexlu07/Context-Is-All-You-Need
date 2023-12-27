@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120901.0019" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-01 13:42:14 UTC" participant="152734">
+      <body>Hello - I'm on my way but running about 15 mins late. See you soon. </body>
+    </message>
+    <message id="m0001" time="2012-09-01 13:43:05 UTC" participant="153307">
+      <body>Not a problem.</body>
+    </message>
+    <message id="m0002" time="2012-09-01 15:40:20 UTC" participant="153307">
+      <body>Ask ur trainer if she remembers a black jumper stallion called Remy Martin" </body>
+    </message>
+    <message id="m0003" time="2012-09-01 17:52:12 UTC" participant="152734">
+      <body>Will do! Was he yours? </body>
+    </message>
+    <message id="m0004" time="2012-09-01 17:54:10 UTC" participant="153307">
+      <body>Huh?</body>
+    </message>
+    <message id="m0005" time="2012-09-01 17:54:31 UTC" participant="152734">
+      <body>The stallion? </body>
+    </message>
+    <message id="m0006" time="2012-09-01 17:54:55 UTC" participant="153307">
+      <body>Oh yeah. He was mine. Srry</body>
+    </message>
+  </messages>
+</conversation>
+

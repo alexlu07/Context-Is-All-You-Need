@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141117.0013" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-11-17 18:36:49 UTC" participant="153547">
+      <body>Hey Kurt, I need to pick up the plumbing tools tomorrow either in the morning or evening</body>
+    </message>
+    <message id="m0001" time="2014-11-17 19:54:40 UTC" participant="153602">
+      <body>When's a good start time for you?</body>
+    </message>
+    <message id="m0002" time="2014-11-17 22:57:23 UTC" participant="153547">
+      <body>Sometime before noon or after 630pm. Whichever works for you</body>
+    </message>
+    <message id="m0003" time="2014-11-17 23:21:36 UTC" participant="153602">
+      <body>Before noon is good. What time works for you?</body>
+    </message>
+    <message id="m0004" time="2014-11-17 23:22:30 UTC" participant="153547">
+      <body>9</body>
+    </message>
+    <message id="m0005" time="2014-11-17 23:23:11 UTC" participant="153602">
+      <body>Alright. See u then.</body>
+    </message>
+  </messages>
+</conversation>
+

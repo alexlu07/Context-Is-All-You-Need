@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140612.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-06-12 17:42:18 UTC" participant="153893">
+      <body>How bout next week?</body>
+    </message>
+    <message id="m0001" time="2014-06-12 17:55:51 UTC" participant="153244">
+      <body>Im available Sun 6/15 and thurs 6/19 if that works</body>
+    </message>
+    <message id="m0002" time="2014-06-12 17:58:38 UTC" participant="153893">
+      <body>Yes ok no prob</body>
+    </message>
+    <message id="m0003" time="2014-06-12 18:00:02 UTC" participant="153244">
+      <body>After that I should be good for sundays and fridays again</body>
+    </message>
+  </messages>
+</conversation>
+

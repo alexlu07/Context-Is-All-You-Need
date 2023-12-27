@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140411.0000" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-04-11 19:40:20 UTC" participant="149357">
+      <body>Let's meet at El Prado on Sunset.</body>
+    </message>
+    <message id="m0001" time="2014-04-11 19:40:52 UTC" participant="149357">
+      <body>It's a cool place and a nice area.</body>
+    </message>
+    <message id="m0002" time="2014-04-11 19:48:12 UTC" participant="149306">
+      <body>Sounds like a plan , what time</body>
+    </message>
+    <message id="m0003" time="2014-04-11 19:48:59 UTC" participant="149357">
+      <body>6:30-7</body>
+    </message>
+    <message id="m0004" time="2014-04-11 19:58:46 UTC" participant="149306">
+      <body>Sounds like it will work for us.</body>
+    </message>
+    <message id="m0005" time="2014-04-11 20:00:09 UTC" participant="149357">
+      <body>Awesome</body>
+    </message>
+    <message id="m0006" time="2014-04-12 01:01:33 UTC" participant="149306">
+      <body>Let me know when u get here. We are bar hopping on sunset. We re at the shortstop at the moment</body>
+    </message>
+    <message id="m0007" time="2014-04-12 01:03:01 UTC" participant="149357">
+      <body>Ok</body>
+    </message>
+    <message id="m0008" time="2014-04-12 01:35:06 UTC" participant="149357">
+      <body>I am here </body>
+    </message>
+    <message id="m0009" time="2014-04-12 01:36:13 UTC" participant="149306">
+      <body>Were on our way to el prado</body>
+    </message>
+  </messages>
+</conversation>
+

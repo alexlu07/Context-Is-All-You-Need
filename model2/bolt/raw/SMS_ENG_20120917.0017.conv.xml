@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120917.0017" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-09-17 21:07:45 UTC" participant="152417">
+      <body>Hey, where ya been?
+</body>
+    </message>
+    <message id="m0001" time="2012-09-17 21:09:20 UTC" participant="152422">
+      <body>Sorry- new phone and lost a lot of #'s... Who's this?</body>
+    </message>
+    <message id="m0002" time="2012-09-17 21:11:28 UTC" participant="152422">
+      <body>Oohhh!! I've been in ME on a very brief vacation. I'll be home tonight. </body>
+    </message>
+    <message id="m0003" time="2012-09-17 21:11:28 UTC" participant="152422">
+      <body>Sorry I forgot to let you know! It was pretty spontaneous</body>
+    </message>
+    <message id="m0004" time="2012-09-17 21:11:46 UTC" participant="152417">
+      <body>Gabi</body>
+    </message>
+    <message id="m0005" time="2012-09-17 21:15:44 UTC" participant="152422">
+      <body>Well thank you- I appreciate that.</body>
+    </message>
+    <message id="m0006" time="2012-09-17 21:16:51 UTC" participant="152417">
+      <body>All good, just wanted to check in</body>
+    </message>
+  </messages>
+</conversation>
+

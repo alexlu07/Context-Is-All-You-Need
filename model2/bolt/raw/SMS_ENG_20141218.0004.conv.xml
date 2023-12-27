@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141218.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-18 17:46:20 UTC" participant="152417">
+      <body>Hey Mike, wanna put together a quizzo team  with me for tonight at The Bards Pub?</body>
+    </message>
+    <message id="m0001" time="2014-12-18 17:50:56 UTC" participant="152573">
+      <body>Hey bud! Love the idea, but unfortunately have to be at a company holiday party this evening </body>
+    </message>
+    <message id="m0002" time="2014-12-18 17:54:27 UTC" participant="152417">
+      <body> Darn, well lets hang out soon.</body>
+    </message>
+  </messages>
+</conversation>
+

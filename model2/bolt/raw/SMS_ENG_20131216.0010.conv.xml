@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20131216.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2013-12-16 18:37:37 UTC" participant="153548">
+      <body>Is there a perfume you
+Like?</body>
+    </message>
+    <message id="m0001" time="2013-12-16 18:40:00 UTC" participant="153632">
+      <body>I hope you're not considering spending any money</body>
+    </message>
+    <message id="m0002" time="2013-12-16 18:46:13 UTC" participant="153548">
+      <body>I think it's stolen cause it so cheap!</body>
+    </message>
+    <message id="m0003" time="2013-12-16 18:46:24 UTC" participant="153632">
+      <body>Lol</body>
+    </message>
+    <message id="m0004" time="2013-12-16 18:46:24 UTC" participant="153632">
+      <body>Its probably fake</body>
+    </message>
+    <message id="m0005" time="2013-12-16 18:46:24 UTC" participant="153632">
+      <body>Fake perfume doesnt smell the same. It goes sour</body>
+    </message>
+    <message id="m0006" time="2013-12-16 18:46:42 UTC" participant="153548">
+      <body>Nevamind! </body>
+    </message>
+    <message id="m0007" time="2013-12-16 18:54:09 UTC" participant="153548">
+      <body>Ew!! </body>
+    </message>
+    <message id="m0008" time="2013-12-16 18:54:17 UTC" participant="153548">
+      <body>Good to know!</body>
+    </message>
+  </messages>
+</conversation>
+

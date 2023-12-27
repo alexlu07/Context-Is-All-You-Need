@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20141204.0005" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-12-04 02:42:09 UTC" participant="152417">
+      <body>Hey! How's it goin?</body>
+    </message>
+    <message id="m0001" time="2014-12-04 17:42:24 UTC" participant="152595">
+      <body>Hey dude! Been writing papers all week - handed in 47 pages! Just super busy with school right now. What ab you?</body>
+    </message>
+    <message id="m0002" time="2014-12-04 17:56:57 UTC" participant="152417">
+      <body>Wowza, congrats.  Turned in a 5 pager this morning, 30 min presentation this evening, 3 finals next week and now i need to stop procrastinating on my spanish project.   When is you madness done?  Will you have any time to kick it this weekend?</body>
+    </message>
+  </messages>
+</conversation>
+

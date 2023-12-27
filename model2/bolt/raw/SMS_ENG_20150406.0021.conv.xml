@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150406.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-04-06 13:47:49 UTC" participant="153804">
+      <body>Hope your Easter went well.just checking if you typically need surge for second half resets?</body>
+    </message>
+    <message id="m0001" time="2015-04-06 20:16:55 UTC" participant="153821">
+      <body>Please enter new reset date of 6/19 for Herkimer store ,thanks! </body>
+    </message>
+    <message id="m0002" time="2015-04-06 20:17:57 UTC" participant="153804">
+      <body>Will do.</body>
+    </message>
+    <message id="m0003" time="2015-04-06 20:41:43 UTC" participant="153804">
+      <body>Can U have the same reset date for 2 WM's?</body>
+    </message>
+    <message id="m0004" time="2015-04-06 20:41:44 UTC" participant="153821">
+      <body>Thanks -looks like we don't need to add target dates since its n/a</body>
+    </message>
+  </messages>
+</conversation>
+

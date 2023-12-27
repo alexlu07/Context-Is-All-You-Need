@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20120306.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135103" time="2012-03-06 19:24:27 UTC">
+      <body>So did you get the check? </body>
+    </message>
+    <message id="m0001" participant="131839" time="2012-03-06 20:07:16 UTC">
+      <body>Yes I did sorry, got this at work yesterday night</body>
+    </message>
+    <message id="m0002" participant="135103" time="2012-03-07 01:49:54 UTC">
+      <body>I'll let mom know you got it.  How are you? I'm really missing you tonight.  I hope all is well. Love you </body>
+    </message>
+    <message id="m0003" participant="131839" time="2012-03-07 13:51:39 UTC">
+      <body>I know, I'm really feeling sad that I'm not coming
+Home for spring break. I'll watch my data use by the way. Could you also send some dry shampoo and the book "the god of small things"?</body>
+    </message>
+    <message id="m0004" participant="135103" time="2012-03-07 14:50:12 UTC">
+      <body>What is dry shampoo?</body>
+    </message>
+    <message id="m0005" participant="131839" time="2012-03-07 15:30:56 UTC">
+      <body>There's some at target - it's like an aerosol spray </body>
+    </message>
+  </messages>
+</conversation>

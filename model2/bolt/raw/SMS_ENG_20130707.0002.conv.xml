@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130707.0002" medium="SMS" donated="false">
+  <messages>
+    <message id="m0000" participant="131451" time="2013-07-07 17:08:41 UTC">
+      <body>Oh hai :)</body>
+    </message>
+    <message id="m0001" participant="131523" time="2013-07-07 17:25:54 UTC">
+      <body>Hey!</body>
+    </message>
+    <message id="m0002" participant="131523" time="2013-07-07 17:48:04 UTC">
+      <body>Can you give me Jessie's number? I feel like it would be a good thing to have</body>
+    </message>
+    <message id="m0003" participant="131451" time="2013-07-07 17:50:18 UTC">
+      <body>Yup! And I agree</body>
+    </message>
+    <message id="m0005" participant="131523" time="2013-07-07 17:51:42 UTC">
+      <body>No one is home at my house right now haha</body>
+    </message>
+    <message id="m0006" participant="131451" time="2013-07-07 17:53:26 UTC">
+      <body>Baha no way! Where are they?!</body>
+    </message>
+    <message id="m0007" participant="131523" time="2013-07-07 17:55:53 UTC">
+      <body>Coming back from Fredericksburg, in DC, at grad parties, and leading a b stud</body>
+    </message>
+    <message id="m0008" participant="131523" time="2013-07-07 20:45:03 UTC">
+      <body>Hey how is your time with Katie?</body>
+    </message>
+    <message id="m0009" participant="131451" time="2013-07-07 20:55:45 UTC">
+      <body>Good! We got to pray for almost an hour. Is your family back?</body>
+    </message>
+    <message id="m0010" participant="131523" time="2013-07-07 21:07:01 UTC">
+      <body>Yup! Mom is asleep now but the girls are here. Did God drop any bombs on ya? How did Katie respond?</body>
+    </message>
+    <message id="m0011" participant="131523" time="2013-07-07 21:07:05 UTC">
+      <body>Also what did God do in her life this week?</body>
+    </message>
+  </messages>
+</conversation>

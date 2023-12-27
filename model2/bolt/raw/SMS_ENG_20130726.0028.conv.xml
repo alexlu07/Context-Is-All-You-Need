@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0028" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137321" time="2013-07-26 02:36:38 UTC">
+      <body>Cöl</body>
+    </message>
+    <message id="m0001" participant="137255" time="2013-07-27 01:43:56 UTC">
+      <body>What are you doing </body>
+    </message>
+    <message id="m0002" participant="137321" time="2013-07-27 01:55:12 UTC">
+      <body>Nothing </body>
+    </message>
+  </messages>
+</conversation>

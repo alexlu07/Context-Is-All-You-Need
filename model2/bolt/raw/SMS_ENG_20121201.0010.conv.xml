@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121201.0010" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131450" time="2012-12-01 00:55:20 UTC">
+      <body>Hi love! Just wanted to check in on your status...how's traffic?</body>
+    </message>
+    <message id="m0001" participant="131466" time="2012-12-01 00:56:43 UTC">
+      <body>Traffic is fine! We're almost there, we just got lost</body>
+    </message>
+    <message id="m0002" participant="131450" time="2012-12-01 00:57:07 UTC">
+      <body>Oh no! Haha sounds good though!</body>
+    </message>
+    <message id="m0003" participant="131466" time="2012-12-01 00:58:14 UTC">
+      <body>I mean we got lost like a walkable distance from our apartment.... Totally avoidable </body>
+    </message>
+    <message id="m0004" participant="131450" time="2012-12-01 00:58:50 UTC">
+      <body>Bahaha...you know it's Friday when...</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110825.0003" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="135131" time="2011-08-25 21:43:17 UTC">
+      <body>What time are we going up?</body>
+    </message>
+    <message id="m0001" participant="131839" time="2011-08-25 21:43:38 UTC">
+      <body>My movies done in a half hour...</body>
+    </message>
+    <message id="m0002" participant="135131" time="2011-08-25 21:56:32 UTC">
+      <body>Ok. Nain said dinner at 5:30. Steve and I can get the fried rice, can you and tyler order and pick up the chicken at happy joes? Nain wants 6 light and 6 dark pieces.</body>
+    </message>
+    <message id="m0003" participant="131839" time="2011-08-25 21:56:52 UTC">
+      <body>Yep</body>
+    </message>
+    <message id="m0004" participant="131839" time="2011-08-26 00:35:02 UTC">
+      <body>Can you bring the pedialyte that's in the fridge? If there's not a lot then we may need more but two half bottles are good</body>
+    </message>
+    <message id="m0005" participant="131839" time="2011-08-26 00:35:19 UTC">
+      <body>If it is two half bottles and bottles of water</body>
+    </message>
+    <message id="m0006" participant="135131" time="2011-08-26 00:37:32 UTC">
+      <body>Ok, on our way.</body>
+    </message>
+    <message id="m0007" participant="131839" time="2011-08-26 00:38:22 UTC">
+      <body>And diet pepsi caffeine free please we don't have that so you'll have to buy it please</body>
+    </message>
+  </messages>
+</conversation>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20110816.0001" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="131839" time="2011-08-16 13:32:48 UTC">
+      <body>Bob says you are in the ER? Everything ok?</body>
+    </message>
+    <message id="m0001" participant="135118" time="2011-08-16 16:35:13 UTC">
+      <body> no ashley double ear infection</body>
+    </message>
+    <message id="m0002" participant="131839" time="2011-08-16 18:09:13 UTC">
+      <body>Oh no! Is she ok?</body>
+    </message>
+  </messages>
+</conversation>

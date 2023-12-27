@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20150303.0027" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2015-03-03 01:45:29 UTC" participant="153244">
+      <body>Did you want something to drink? </body>
+    </message>
+    <message id="m0001" time="2015-03-03 01:45:50 UTC" participant="153799">
+      <body>Um sure. Mainly food actually ahahah</body>
+    </message>
+    <message id="m0002" time="2015-03-03 01:46:07 UTC" participant="153799">
+      <body>Like cheese fries. And no more soda for me so iced tea ahaha</body>
+    </message>
+    <message id="m0003" time="2015-03-03 01:46:38 UTC" participant="153244">
+      <body>We can't get food like cheese fries here... just order something then</body>
+    </message>
+    <message id="m0004" time="2015-03-03 01:47:13 UTC" participant="153799">
+      <body>I know I might just. Ill wait for u to get home. So just ciggs ill get drink from order.</body>
+    </message>
+    <message id="m0005" time="2015-03-03 01:47:24 UTC" participant="153244">
+      <body>And order a drink to not waste the delivery</body>
+    </message>
+  </messages>
+</conversation>
+

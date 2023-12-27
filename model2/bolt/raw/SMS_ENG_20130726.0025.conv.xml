@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130726.0025" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="130891" time="2013-07-26 13:50:05 UTC">
+      <body>Hey dude. My usual dude is out of town.... U think u might be able to help a girl track down some puff? </body>
+    </message>
+    <message id="m0001" participant="131964" time="2013-07-26 14:53:42 UTC">
+      <body>I'll look into it</body>
+    </message>
+    <message id="m0002" participant="131964" time="2013-07-27 03:10:40 UTC">
+      <body>ANYTHING.</body>
+    </message>
+  </messages>
+</conversation>

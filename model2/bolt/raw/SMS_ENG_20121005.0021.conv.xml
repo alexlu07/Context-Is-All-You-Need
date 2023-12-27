@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20121005.0021" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2012-10-05 21:05:12 UTC" participant="152417">
+      <body>I got rear ended today on my way home from work, im fine, bumpers bent, other filks are fine but wit a bit more damage</body>
+    </message>
+    <message id="m0001" time="2012-10-05 21:06:11 UTC" participant="152426">
+      <body>Oh no! Sorry. Glad your ok</body>
+    </message>
+    <message id="m0002" time="2012-10-05 21:08:39 UTC" participant="152426">
+      <body>How's your neck? Might want to take a hot shower and tylenol just in case</body>
+    </message>
+    <message id="m0003" time="2012-10-05 21:16:27 UTC" participant="152417">
+      <body>K</body>
+    </message>
+  </messages>
+</conversation>
+

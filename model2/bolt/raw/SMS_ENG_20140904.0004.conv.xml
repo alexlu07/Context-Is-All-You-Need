@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20140904.0004" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" time="2014-09-04 11:18:25 UTC" participant="152120">
+      <body>Happy birthday Eden!!</body>
+    </message>
+    <message id="m0001" time="2014-09-04 11:27:54 UTC" participant="152115">
+      <body>I'm sorry. Who is this?</body>
+    </message>
+    <message id="m0002" time="2014-09-04 11:29:13 UTC" participant="152120">
+      <body>Sorry. It's Cassy.</body>
+    </message>
+    <message id="m0003" time="2014-09-04 11:31:07 UTC" participant="152115">
+      <body>Ooh! Haha. I need to add your number. I didn't recognize the area code. I was like, is this some creeper I don't know? Haha. But thank you!</body>
+    </message>
+    <message id="m0004" time="2014-09-04 11:34:46 UTC" participant="152120">
+      <body>Haha only creeper Cassy :p</body>
+    </message>
+    <message id="m0005" time="2014-09-04 11:35:27 UTC" participant="152115">
+      <body>Haha. I like that.</body>
+    </message>
+    <message id="m0006" time="2014-09-04 11:41:53 UTC" participant="152120">
+      <body>:)</body>
+    </message>
+  </messages>
+</conversation>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversation id="SMS_ENG_20130307.0049" medium="SMS" donated="true">
+  <messages>
+    <message id="m0000" participant="137255" time="2013-03-07 02:08:54 UTC">
+      <body>Ack!! Do you by any chance have a dress I could borrow? The dance is in two days and I still have nada</body>
+    </message>
+    <message id="m0001" participant="137260" time="2013-03-07 04:52:10 UTC">
+      <body>Hey babe you can borrow anything from my closet, but I don't have as many nice things as you'd think :P</body>
+    </message>
+    <message id="m0002" participant="137260" time="2013-03-07 21:23:50 UTC">
+      <body>The red one totally</body>
+    </message>
+    <message id="m0003" participant="137255" time="2013-03-07 22:01:58 UTC">
+      <body>Can I still come over and try stuff on? I bought the red one but mayyyy return it</body>
+    </message>
+    <message id="m0004" participant="137260" time="2013-03-07 22:06:56 UTC">
+      <body>Totally babe</body>
+    </message>
+    <message id="m0005" participant="137260" time="2013-03-07 22:06:56 UTC">
+      <body>But you will be disappointed by my closet</body>
+    </message>
+    <message id="m0006" participant="137255" time="2013-03-07 22:52:16 UTC">
+      <body>It doesn't hurt to check I guess...I'll be over in a bit</body>
+    </message>
+    <message id="m0007" participant="137260" time="2013-03-07 22:54:14 UTC">
+      <body>Quick note- Sam is coming over and we have to leave by 6:30 :P</body>
+    </message>
+    <message id="m0008" participant="137255" time="2013-03-07 23:04:15 UTC">
+      <body>Here! </body>
+    </message>
+  </messages>
+</conversation>
