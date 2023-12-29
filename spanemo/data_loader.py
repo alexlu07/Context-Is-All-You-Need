@@ -22,6 +22,22 @@ def twitter_preprocessor():
         tokenizer=SocialTokenizer(lowercase=True).tokenize).pre_process_doc
     return preprocessor
 
+def alternate_preprocessor():
+    preprocessor = TextPreProcessor(
+        normalize=['url', 'email', 'phone', 'user'],
+        annotate={"hashtag", "elongated", "allcaps", "repeated", 'emphasis', 'censored'},
+        all_caps_tag="wrap",
+        fix_text=False,
+        segmenter="english",
+        corrector="english",
+        unpack_hashtags=True,
+        unpack_contractions=True,
+        spell_correct_elong=False,
+        tokenizer=SocialTokenizer(lowercase=True).tokenize,
+        dicts=[{"specialmasktoken": "[MASK]"}]).pre_process_doc
+    return preprocessor
+
+
 
 class DataClass(Dataset):
     def __init__(
