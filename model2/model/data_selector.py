@@ -61,8 +61,9 @@ class DataSelector:
             for idx in selected:
                 c, i = choices[idx]
                 conv = convos.get_group(c)
+                true_source = conv.iloc[0]['source']
 
-                final_data.append([conv.iloc[i:i+length-1]["text"].values, c, source] + conv.iloc[i+length-1].loc["0":"10"].values.tolist())
+                final_data.append([conv.iloc[i:i+length-1]["text"].values, c, true_source] + conv.iloc[i+length-1].loc["0":"10"].values.tolist())
 
         final_data = pd.DataFrame(final_data, columns=["text", "conversation", "source"] + [str(x) for x in range(11)])
 
