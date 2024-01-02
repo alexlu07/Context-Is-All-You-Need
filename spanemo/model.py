@@ -6,7 +6,7 @@ import transformers
 
 
 class SpanEmo(nn.Module):
-    def __init__(self, output_dropout=0.1, backbone = "bert-base-uncased", joint_loss='joint', alpha=0.2):
+    def __init__(self, output_dropout=0.1, backbone = "bert-base-uncased", joint_loss='joint', alpha=0.2, bce_weight=None):
         """ casting multi-label emotion classification as span-extraction
         :param output_dropout: The dropout probability for output layer
         :param lang: encoder language
@@ -16,7 +16,8 @@ class SpanEmo(nn.Module):
         super(SpanEmo, self).__init__()
         self.bert = AutoModel.from_pretrained(backbone)
         self.joint_loss = joint_loss
-        self.alpha = alpha        
+        self.alpha = alpha
+        self.bce_weight = torch.FloatTensor(bce_weight) if bce_weight is not None else None
         
         self.ffn = nn.Sequential(
             nn.Linear(self.bert.config.hidden_size, self.bert.config.hidden_size),
@@ -37,6 +38,8 @@ class SpanEmo(nn.Module):
         inputs = {k: inputs[k].to(device) for k in inputs}
         label_idxs, targets = label_idxs[0].long().to(device), targets.float().to(device)
 
+        if self.bce_weight is not None: self.bce_weight = self.bce_weight.to(device)
+
 
         #Bert encoder
         last_hidden_state = self.bert(**inputs).last_hidden_state
@@ -47,11 +50,11 @@ class SpanEmo(nn.Module):
 
         #Loss Function
         if self.joint_loss == 'joint':
-            cel = F.binary_cross_entropy_with_logits(logits, targets).cuda()
+            cel = F.binary_cross_entropy_with_logits(logits, targets, pos_weight=self.bce_weight).cuda()
             cl = self.corr_loss(logits, targets)
             loss = ((1 - self.alpha) * cel) + (self.alpha * cl)
         elif self.joint_loss == 'cross-entropy':
-            loss = F.binary_cross_entropy_with_logits(logits, targets).cuda()
+            loss = F.binary_cross_entropy_with_logits(logits, targets, pos_weight=self.bce_weight).cuda()
         elif self.joint_loss == 'corr_loss':
             loss = self.corr_loss(logits, targets)
 

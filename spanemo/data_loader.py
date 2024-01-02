@@ -22,6 +22,22 @@ def twitter_preprocessor():
         tokenizer=SocialTokenizer(lowercase=True).tokenize).pre_process_doc
     return preprocessor
 
+def alternate_preprocessor():
+    preprocessor = TextPreProcessor(
+        normalize=['url', 'email', 'phone', 'user'],
+        annotate={"hashtag", "elongated", "allcaps", "repeated", 'emphasis', 'censored'},
+        all_caps_tag="wrap",
+        fix_text=False,
+        segmenter="english",
+        corrector="english",
+        unpack_hashtags=True,
+        unpack_contractions=True,
+        spell_correct_elong=False,
+        tokenizer=SocialTokenizer(lowercase=True).tokenize,
+        dicts=[{"specialmasktoken": "[MASK]"}]).pre_process_doc
+    return preprocessor
+
+
 
 class DataClass(Dataset):
     def __init__(
@@ -42,12 +58,13 @@ class DataClass(Dataset):
         else:
             self.data = file
 
-        self.label_type = label_type
-        if self.label_type == "infer":
-            self.label_type = "continuous" if (self.labels == 1 | self.labels == 0).all() else "binary"
-        assert self.label_type == "continuous" or self.label_type == "binary"
-        self.labels = 1/(1+np.exp(-self.labels))
-
+        if not self.pred_mode:
+            self.label_type = label_type
+            if self.label_type == "infer":
+                self.label_type = "binary" if ((self.labels == 1) | (self.labels == 0)).all() else "continuous"
+            if self.label_type == "continuous":
+                self.labels = 1 / (1 + np.exp(-self.labels))
+            assert self.label_type == "continuous" or self.label_type == "binary"
 
         self.data_type = data_type
         if self.data_type == "infer":
@@ -67,7 +84,7 @@ class DataClass(Dataset):
         :return: dataset after being preprocessed and tokenised
         """
         df = pd.read_csv(file) if file_path else file
-        x_train, y_train = df.text.values, df.loc[:, "0":"27"].values
+        x_train, y_train = df.text.values, df.loc[:, "0":"10"].values
         return x_train, y_train
 
     def process_data(self, pbar=tqdm):
@@ -91,7 +108,7 @@ class DataClass(Dataset):
                 x = ' '.join(self.preprocessor(x))
             else:
                 x = " [SEP] ".join(
-                        f"<{role_names[i % 2]}> " + " ".join(self.preprocessor(m)) + f" </{role_names[i % 2]}>" for i, m in enumerate(x)
+                        f"{role_names[i % 2]}: " + " ".join(self.preprocessor(m)) + f"" for i, m in enumerate(x)
                     )
 
             x = self.bert_tokeniser.encode_plus(segment_a,

@@ -3,6 +3,7 @@ from transformers import AdamW, get_linear_schedule_with_warmup
 from sklearn.metrics import f1_score, jaccard_score, mean_squared_error
 import torch.nn.functional as F
 import numpy as np
+import pandas as pd
 import torch
 import time
 
@@ -79,6 +80,10 @@ class Trainer(object):
         :param args:
         :param device: str (defaults to 'cuda:0')
         """
+        num_samples = 0
+        samples_seen = []
+        loss_log = []
+
         optimizer, scheduler, step_scheduler_on_batch = self.optimizer(args)
         self.model = self.model.to(device)
         pbar = master_bar(range(num_epochs))
@@ -95,6 +100,10 @@ class Trainer(object):
             for step, batch in enumerate(progress_bar(self.train_data_loader, parent=pbar)):
                 loss, num_rows, _, _, _ = self.model(batch, device)
                 overall_training_loss += loss.item() * num_rows
+
+                num_samples += num_rows
+                samples_seen.append(num_samples)
+                loss_log.append(loss.item())
 
                 loss.backward()
                 torch.nn.utils.clip_grad_norm_(self.model.parameters(), max_norm=1.0)
@@ -116,7 +125,7 @@ class Trainer(object):
                          overall_val_loss,
                          f1_score(y_true, y_pred, average="macro"),
                          f1_score(y_true, y_pred, average="micro"),
-                         jaccard_score(y_true, y_pred, average="samples")]
+                         jaccard_score(y_true, y_pred, average="samples", zero_division=1)]
             else:
                 y_prob = 1/(1+np.exp(-preds_dict['logits']))
                 stats = [overall_training_loss,
@@ -132,10 +141,14 @@ class Trainer(object):
             str_stats.append(format_time(time.time() - start_time))
             print('epoch#: ', epoch)
             pbar.write(str_stats, table=True)
+            torch.save(self.model.state_dict(), f"models/{epoch}.pt")
             self.early_stop(overall_val_loss, self.model)
             if self.early_stop.early_stop:
                 print("Early stopping")
                 break
+
+        curve_df = pd.DataFrame({"samples": samples_seen, "loss": loss_log})
+        curve_df.to_csv("training_curve.csv", index=None)
                 
     def optimizer(self, args):
         """
@@ -237,7 +250,7 @@ class EvaluateOnTest(object):
         if self.label_type == "binary":
             stats = [f1_score(y_true, y_pred, average="macro"),
                      f1_score(y_true, y_pred, average="micro"),
-                     jaccard_score(y_true, y_pred, average="samples")]
+                     jaccard_score(y_true, y_pred, average="samples", zero_division=1)]
             headers = ['F1-Macro', 'F1-Micro', 'JS', 'Time']
         else:
             y_prob = 1/(1+np.exp(-preds_dict['logits']))
