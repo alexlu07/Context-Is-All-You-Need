@@ -7,11 +7,16 @@ model1/final_model_goemo.pt
 VAD/M1/results/
 VAD/M1.5/results/
 
+EmotionLines/M-1/results/
 EmotionLines/M0/results/
 EmotionLines/M1/results/
 EmotionLines/M1.5/results/
+EmotionLines/M2/results/
 
+EmotionLines/M1/oldweighted/
 EmotionLines/M1/weighted
+
+MELD/M0/results/
 
 *.json
 *.csv
